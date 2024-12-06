@@ -1,0 +1,65 @@
+#!/usr/bin/python3
+import os
+import requests
+from datetime import datetime, timezone, timedelta
+from collections import defaultdict
+
+def fetch_issues(repo, token):
+    url = f"https://api.github.com/repos/{repo}/issues"
+    params = {
+        "state": "closed",
+        "since": (datetime.now(timezone.utc) - timedelta(days=2)).isoformat()
+    }
+    headers = {
+        "Authorization": f"token {token}"
+    }
+    response = requests.get(url, params=params, headers=headers)
+    response.raise_for_status()
+    issues = response.json()
+    return [issue for issue in issues if "pull_request" not in issue]
+
+def summarize_issue(issue):
+    closed_at = datetime.strptime(issue.get("closed_at"), "%Y-%m-%dT%H:%M:%SZ")
+    summary = {
+        "title": issue.get("title"),
+        "url": issue.get("html_url"),
+        "closed_at": closed_at,
+        "author": issue.get("user", {}).get("login"),
+        "labels": [label.get("name") for label in issue.get("labels")],
+        "milestone": issue.get("milestone").get("title") if issue.get("milestone") else "NoMilestone"
+    }
+    return summary
+
+def main():
+    token = os.getenv("GITHUB_TOKEN")
+    if not token:
+        raise ValueError("GITHUB_TOKEN environment variable not set")
+
+    repos = ["NethServer/dev", "NethServer/nethsecurity"]
+
+    # Add Hugo front matter
+    print("+++\n")
+    print(f"title = 'Released on: {datetime.now(timezone.utc).strftime('%Y-%m-%d')}'\n")
+    print(f"date = {datetime.now(timezone.utc).strftime('%Y-%m-%d')}\n")
+    print("+++\n")
+
+    yesterday = datetime.now(timezone.utc).date() - timedelta(days=1)
+
+    for repo in repos:
+        issues = fetch_issues(repo, token)
+        issues_by_milestone = defaultdict(list)
+        for issue in issues:
+            if issue.get("closed_at"):
+                summary = summarize_issue(issue)
+                if summary['closed_at'].date() == yesterday:
+                    issues_by_milestone[summary['milestone']].append(summary)
+
+        for milestone, issues in issues_by_milestone.items():
+            if ' ' in milestone:
+                milestone = milestone.split(' ')[0]
+            print(f"### {milestone}\n")
+            for summary in issues:
+                print(f"- **[{summary['title']}]({summary['url']})** by *{summary['author']}*\n")
+
+if __name__ == "__main__":
+    main()

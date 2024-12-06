@@ -1,0 +1,74 @@
+#!/usr/bin/python3
+import os
+import requests
+from datetime import datetime, timezone, timedelta
+
+def fetch_issues(repo, label, token):
+    url = f"https://api.github.com/repos/{repo}/issues"
+    params = {
+        "state": "open",
+        "labels": label
+    }
+    headers = {
+        "Authorization": f"token {token}"
+    }
+    response = requests.get(url, params=params, headers=headers)
+    response.raise_for_status()
+    return response.json()
+
+def summarize_issue(issue):
+    created_at = datetime.strptime(issue.get("created_at"), "%Y-%m-%dT%H:%M:%SZ").replace(tzinfo=timezone.utc)
+    summary = {
+        "title": issue.get("title"),
+        "url": issue.get("html_url"),
+        "created_at": created_at,
+        "updated_at": issue.get("updated_at"),
+        "author": issue.get("user", {}).get("login"),
+        "labels": [label.get("name") for label in issue.get("labels")],
+        "milestone": issue.get("milestone").get("title") if issue.get("milestone") else "NoMilestone"
+    }
+    return summary
+
+def main():
+    token = os.getenv("GITHUB_TOKEN")
+    if not token:
+        raise ValueError("GITHUB_TOKEN environment variable not set")
+
+    repos = ["NethServer/dev", "NethServer/nethsecurity"]
+
+    seven_days_ago = datetime.now(timezone.utc) - timedelta(days=7)
+    total_issues = 0
+
+    report = ""
+    for repo in repos:
+        issues = fetch_issues(repo, 'testing', token)
+        total_issues += len(issues)
+        milestones = {}
+        for issue in issues:
+            summary = summarize_issue(issue)
+            milestone = summary['milestone']
+            if milestone not in milestones:
+                milestones[milestone] = []
+            milestones[milestone].append(summary)
+
+        for milestone, issues in milestones.items():
+            if ' ' in milestone:
+                milestone = milestone.split(' ')[0]
+            report += f"\n## {milestone}\n"
+            for summary in issues:
+                if summary['created_at'] < seven_days_ago:
+                    highlight = ":point_right: "
+                else:
+                    highlight = ""
+                report += (f"- {highlight}[{summary['title']}]({summary['url']}) (#{issue['number']}) by {summary['author']} (Created: {summary['created_at'].strftime('%Y-%m-%d')}, Updated: {summary['updated_at']})\n")
+
+    # Add Hugo front matter
+    header = "+++\n"
+    header += f"title = 'Need testing ({total_issues})'\n"
+    header += f"date = {datetime.now(timezone.utc).strftime('%Y-%m-%d')}\n"
+    header += "+++\n"
+    report = header + report
+    print(report)
+
+if __name__ == "__main__":
+    main()

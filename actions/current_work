@@ -1,0 +1,89 @@
+#!/usr/bin/python3
+
+import os
+import requests
+from collections import defaultdict
+from datetime import datetime, timezone
+
+def get_assigned_open_issues_and_prs(orgs):
+    issues = []
+    prs = []
+    token = os.getenv('GITHUB_TOKEN')
+    headers = {'Authorization': f'token {token}'}
+
+    for org in orgs:
+        # Get open issues
+        issues_url = f"https://api.github.com/search/issues?q=org:{org}+is:issue+is:open+assignee:*"
+        issues_response = requests.get(issues_url, headers=headers)
+        if issues_response.status_code == 200:
+            issues.extend(issues_response.json().get('items', []))
+
+        # Get open pull requests
+        prs_url = f"https://api.github.com/search/issues?q=org:{org}+is:pr+is:open+assignee:*"
+        prs_response = requests.get(prs_url, headers=headers)
+        if prs_response.status_code == 200:
+            prs.extend(prs_response.json().get('items', []))
+
+    return issues, prs
+
+def calculate_duration(created_at_str):
+    created_at = datetime.strptime(created_at_str, "%Y-%m-%dT%H:%M:%SZ").replace(tzinfo=timezone.utc)
+    duration = datetime.now(timezone.utc) - created_at
+    return duration.days
+
+def group_by_user(issues, prs):
+    grouped_data = defaultdict(lambda: {'issues': [], 'prs': []})
+
+    for issue in issues:
+        for assignee in issue['assignees']:
+            duration = calculate_duration(issue['created_at'])
+            grouped_data[assignee['login']]['issues'].append({'title': issue['title'], 'url': issue['html_url'], 'duration': duration})
+
+    for pr in prs:
+        for assignee in pr['assignees']:
+            duration = calculate_duration(pr['created_at'])
+            grouped_data[assignee['login']]['prs'].append({'title': pr['title'], 'url': pr['html_url'], 'duration': duration})
+
+    return grouped_data
+
+def print_grouped_data(grouped_data):
+    title = f"# Workload: {datetime.now(timezone.utc).strftime('%Y-%m-%d')}"
+    # Hugo front matter
+    print ("+++\n")
+    print (f"title = '{title}'\n")
+    print (f"date = {datetime.now(timezone.utc).strftime('%Y-%m-%d')}\n")
+    print ("+++\n")
+
+    # Markdown content
+    for user in sorted(grouped_data.keys()):
+        data = grouped_data[user]
+        user_url = f"https://api.github.com/users/{user}"
+        token = os.getenv('GITHUB_TOKEN')
+        headers = {'Authorization': f'token {token}'}
+        user_response = requests.get(user_url, headers=headers)
+        if user_response.status_code == 200:
+            user_data = user_response.json()
+            avatar_url = user_data.get('avatar_url', '')
+            if avatar_url:
+                print(f"### {user} <img src='{avatar_url}&s=64' width='64' height='64' style='float:right;' /> ###")
+            else:
+                print(f"### {user} ###")
+        else:
+            print(f"### {user} ###")
+        print(f"Workload: {len(data['issues'])} issues, {len(data['prs'])} PRs\n")
+        if data['issues']:
+            print("\nAssigned Issues:")
+            for issue in data['issues']:
+                print(f"- [{issue['title']}]({issue['url']}) - Working for {issue['duration']} days")
+
+        if data['prs']:
+            print("\nAssigned Pull Requests:")
+            for pr in data['prs']:
+                print(f"- [{pr['title']}]({pr['url']}) - Working for {pr['duration']} days")
+        print("---\n")
+
+if __name__ == "__main__":
+    orgs = ["nethesis", "nethserver"]
+    issues, prs = get_assigned_open_issues_and_prs(orgs)
+    grouped_data = group_by_user(issues, prs)
+    print_grouped_data(grouped_data)

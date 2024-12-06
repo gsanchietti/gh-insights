@@ -1,0 +1,114 @@
+#!/usr/bin/python3
+
+import os
+import requests
+from datetime import datetime, timezone, timedelta
+import sys
+
+# Function to get all repositories for the organization using pagination
+def get_repositories(org, token):
+    url = f'https://api.github.com/orgs/{org}/repos?per_page=100'
+    headers = {'Authorization': f'token {token}'}
+    repos = []
+    while url:
+        response = requests.get(url, headers=headers)
+        response.raise_for_status()
+        repos.extend(response.json())
+        url = response.links.get('next', {}).get('url')
+    return repos
+
+# Function to get all open pull requests for a repository
+def get_open_pull_requests(repo, token):
+    url = f'https://api.github.com/repos/{repo}/pulls?state=open&per_page=100'
+    headers = {'Authorization': f'token {token}'}
+    pull_requests = []
+    while url:
+        response = requests.get(url, headers=headers)
+        response.raise_for_status()
+        pull_requests.extend(response.json())
+        url = response.links.get('next', {}).get('url')
+    return pull_requests
+
+# Main function
+def main():
+    # Read GitHub token from environment variable
+    GITHUB_TOKEN = os.getenv('GITHUB_TOKEN')
+    if not GITHUB_TOKEN:
+        print("Error: Please set the GITHUB_TOKEN environment variable.")
+        sys.exit(1)
+
+    if len(sys.argv) < 2:
+        print("Usage: python script.py <organization1> <organization2> ...")
+        sys.exit(1)
+
+    orgs = sys.argv[1:]
+    stale_threshold = datetime.now(timezone.utc) - timedelta(days=30)
+    results = {}
+
+    for org in orgs:
+        print(f"{os.path.basename(__file__)}: processing organization: {org}", file=sys.stderr)
+        repositories = get_repositories(org, GITHUB_TOKEN)
+        org_prs = []
+
+        for repo in repositories:
+            repo_name = repo['full_name']
+            pull_requests = get_open_pull_requests(repo_name, GITHUB_TOKEN)
+
+            for pr in pull_requests:
+                pr_created_at = datetime.strptime(pr['created_at'], '%Y-%m-%dT%H:%M:%SZ').replace(tzinfo=timezone.utc)
+                is_stale = pr_created_at < stale_threshold
+                org_prs.append({
+                    'repo': repo_name,
+                    'title': pr['title'],
+                    'url': pr['html_url'],
+                    'draft': pr['draft'],
+                    'created_at': pr['created_at'],
+                    'stale': is_stale,
+                    'author': pr['user']['login'],
+                    'reviewers': [reviewer['login'] for reviewer in pr.get('requested_reviewers', [])]
+                })
+        
+        results[org] = org_prs
+
+    generate_markdown_report(results)
+
+def generate_markdown_report(results):
+    # Hugo front matter
+    report = "+++\n"
+    report += f"title = 'Open Pull Requests'\n"
+    report += f"date = {datetime.now().strftime('%Y-%m-%d')}\n"
+    report += "+++\n\n"
+
+    for org, prs in results.items():
+        report += f"## Organization: {org}\n\n"
+        if not prs:
+            report += "No open pull requests found.\n\n"
+        else:
+            stale_prs = [pr for pr in prs if pr['stale']]
+            active_prs = [pr for pr in prs if not pr['stale']]
+            
+            if stale_prs:
+                report += f"### Stale Pull Requests ({len(stale_prs)}):\n"
+                report += "Pull requests older than 30 days.\n"
+                for pr in stale_prs:
+                    reviewers = ', '.join(pr['reviewers']) if pr['reviewers'] else 'None'
+                    draft_flag = " (Draft)" if pr['draft'] else ""
+                    report += f"- **[{pr['title']}]({pr['url']})** in `{pr['repo']}` (Created at: {pr['created_at']}) {draft_flag}\n"
+                    report += f"  - Author: **{pr['author']}**\n"
+                    report += f"  - Reviewers: {reviewers}\n"
+                report += "\n"
+            
+            if active_prs:
+                report += f"### Active Pull Requests ({len(active_prs)}):\n"
+                for pr in active_prs:
+                    reviewers = ', '.join(pr['reviewers']) if pr['reviewers'] else 'None'
+                    draft_flag = " (Draft)" if pr['draft'] else ""
+                    report += f"- **[{pr['title']}]({pr['url']})** in `{pr['repo']}` (Created at: {pr['created_at']}) {draft_flag}\n"
+                    report += f"  - Author: **{pr['author']}**\n"
+                    report += f"  - Reviewers: {reviewers}\n"
+                report += "\n"
+
+    print(report)
+
+if __name__ == "__main__":
+    main()

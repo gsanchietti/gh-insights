@@ -1,0 +1,62 @@
+#!/usr/bin/python3
+import os
+import requests
+from datetime import datetime, timezone
+from collections import defaultdict
+
+def fetch_issues(repo, label, token):
+    url = f"https://api.github.com/repos/{repo}/issues"
+    params = {
+        "state": "open",
+        "labels": label
+    }
+    headers = {
+        "Authorization": f"token {token}"
+    }
+    response = requests.get(url, params=params, headers=headers)
+    response.raise_for_status()
+    return response.json()
+
+def summarize_issue(issue):
+    summary = {
+        "title": issue.get("title"),
+        "url": issue.get("html_url"),
+        "created_at": issue.get("created_at"),
+        "updated_at": issue.get("updated_at"),
+        "author": issue.get("user", {}).get("login"),
+        "labels": [label.get("name") for label in issue.get("labels")],
+        "milestone": issue.get("milestone").get("title") if issue.get("milestone") else "NoMilestone"
+    }
+    return summary
+
+def main():
+    token = os.getenv("GITHUB_TOKEN")
+    if not token:
+        raise ValueError("GITHUB_TOKEN environment variable not set")
+
+    repos = ["NethServer/dev", "NethServer/nethsecurity"]
+    labels = ["verified"]
+
+    # Add Hugo front matter
+    print("+++\n")
+    print(f"title = 'To be released soon'\n")
+    print(f"date = {datetime.now(timezone.utc).strftime('%Y-%m-%d')}\n")
+    print("+++\n")
+
+    for repo in repos:
+        for label in labels:
+            issues = fetch_issues(repo, label, token)
+            issues_by_milestone = defaultdict(list)
+            for issue in issues:
+                summary = summarize_issue(issue)
+                issues_by_milestone[summary["milestone"]].append(summary)
+
+            for milestone, issues in issues_by_milestone.items():
+                if ' ' in milestone:
+                    milestone = milestone.split(' ')[0]
+                print(f"### {milestone}\n")
+                for summary in issues:
+                    print(f"- [{summary['title']}]({summary['url']}) (#{issue['number']}) by {summary['author']} (Created: {summary['created_at']}, Updated: {summary['updated_at']})\n")
+
+if __name__ == "__main__":
+    main()
