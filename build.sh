@@ -12,6 +12,8 @@ export GITHUB_TOKEN
 pushd site
 today=$(date  +'%Y-%m-%d')
 for script in ../actions/*; do
+    # execute the script only if it is executable
+    [ -x $script ] || continue
     mkdir -p content/$(basename $script .sh)
     echo "Processing $script"
     $script nethserver nethesis > content/$(basename $script .sh)/$(basename $script .sh)_$today.md
