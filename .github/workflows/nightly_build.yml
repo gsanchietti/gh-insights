@@ -13,8 +13,13 @@ jobs:
     - name: Checkout repository
       uses: actions/checkout@v2
 
+    - name: Set up environment
+      run: echo "GITHUB_TOKEN=${{ secrets.GITHUB_TOKEN }}" >> $GITHUB_ENV
+
     - name: Run build script
       run: ./build.sh
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
     - name: Commit changes
       run: |
@@ -23,3 +28,5 @@ jobs:
         git add site/content
         git commit -m 'Automated update of site/content'
         git push
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
