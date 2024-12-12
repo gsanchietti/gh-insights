@@ -2,9 +2,8 @@
 """
 This script fetches all open pull requests for specified GitHub organizations and generates a markdown report categorizing
 them into stale and active pull requests.
-Skip draft PR and PR made by bots.
+Include only PRs made by bots.
 """
-
 
 import os
 import requests
@@ -13,6 +12,7 @@ import sys
 
 # Function to get all repositories for the organization using pagination
 def get_repositories(org, token):
+    print(f"Fetching repositories for organization: {org}", file=sys.stderr)
     url = f'https://api.github.com/orgs/{org}/repos?per_page=900'
     headers = {'Authorization': f'token {token}'}
     repos = []
@@ -67,20 +67,18 @@ def main():
             for pr in pull_requests:
                 pr_created_at = datetime.strptime(pr['created_at'], '%Y-%m-%dT%H:%M:%SZ').replace(tzinfo=timezone.utc)
                 is_stale = pr_created_at < stale_threshold
-                # exclude bot PRs
+                # include only bot PRs
                 if pr['user']['login'] in ['weblate', 'nethbot'] or '[bot]' in pr['user']['login']:
-                    continue
-
-                if not pr['draft']:
-                    org_prs.append({
-                        'repo': repo_name,
-                        'title': pr['title'],
-                        'url': pr['html_url'],
-                        'created_at': pr['created_at'],
-                        'stale': is_stale,
-                        'author': pr['user']['login'],
-                        'reviewers': [reviewer['login'] for reviewer in pr.get('requested_reviewers', [])]
-                    })
+                    if not pr['draft']:
+                        org_prs.append({
+                            'repo': repo_name,
+                            'title': pr['title'],
+                            'url': pr['html_url'],
+                            'created_at': pr['created_at'],
+                            'stale': is_stale,
+                            'author': pr['user']['login'],
+                            'reviewers': [reviewer['login'] for reviewer in pr.get('requested_reviewers', [])]
+                        })
         
         results[org] = org_prs
 
@@ -89,7 +87,7 @@ def main():
 def generate_markdown_report(results):
     # Hugo front matter
     report = "+++\n"
-    report += f"title = 'Open Pull Requests'\n"
+    report += f"title = 'Open Pull Requests by Bots'\n"
     report += f"date = {datetime.now().strftime('%Y-%m-%d')}\n"
     report += "+++\n\n"
 
