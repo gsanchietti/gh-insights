@@ -8,6 +8,8 @@ date = 2024-12-12
 
 ### NoMilestone
 
+- [Mattermost: upgrade to 9.11.6](https://github.com/NethServer/dev/issues/7212) (#7011) by stephdl (Created: 2024-12-11T15:34:57Z, Updated: 2024-12-12T07:59:11Z)
+
 - [Nextcloud: upgrade to 28.0.13](https://github.com/NethServer/dev/issues/7206) (#7011) by stephdl (Created: 2024-12-10T16:48:12Z, Updated: 2024-12-11T17:41:46Z)
 
 ### NethServer

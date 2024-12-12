@@ -124,6 +124,14 @@ Assigned Pull Requests:
 - [Nut](https://github.com/NethServer/nethsecurity-docs/pull/135) - Working for 9 days
 ---
 
+### lucagasparini <img src='https://avatars.githubusercontent.com/u/11161326?v=4&s=64' width='64' height='64' style='float:right;' /> ###
+Workload: 1 issues, 0 PRs
+
+
+Assigned Issues:
+- [Mattermost: upgrade to 9.11.6](https://github.com/NethServer/dev/issues/7212) - Working for 0 days
+---
+
 ### nrauso <img src='https://avatars.githubusercontent.com/u/16102909?v=4&s=64' width='64' height='64' style='float:right;' /> ###
 Workload: 2 issues, 0 PRs
 

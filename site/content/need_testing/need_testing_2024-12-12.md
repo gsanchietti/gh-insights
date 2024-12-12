@@ -1,10 +1,7 @@
 +++
-title = 'Need testing (5)'
+title = 'Need testing (4)'
 date = 2024-12-12
 +++
-
-## NoMilestone
-- [Mattermost: upgrade to 9.11.6](https://github.com/NethServer/dev/issues/7212) (#7060) by stephdl (Created: 2024-12-11, Updated: 2024-12-11T16:08:09Z)
 
 ## NethVoice
 - :point_right: [NethVoice CTI: missing feature on the phone function key configuration](https://github.com/NethServer/dev/issues/7152) (#7060) by andrea-marchionni (Created: 2024-11-18, Updated: 2024-12-11T16:30:58Z)
