@@ -1,4 +1,9 @@
 #!/usr/bin/python3
+"""
+This script fetches open GitHub issues with the 'verified' label from specified repositories,
+summarizes the issues, and prints them in a formatted manner suitable for Hugo front matter.
+"""
+
 import os
 import requests
 from datetime import datetime, timezone

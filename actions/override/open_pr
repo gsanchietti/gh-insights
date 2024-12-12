@@ -1,4 +1,9 @@
 #!/usr/bin/python3
+"""
+This script fetches all open pull requests for specified GitHub organizations and generates a markdown report categorizing
+them into stale and active pull requests.
+"""
+
 
 import os
 import requests
@@ -15,6 +20,9 @@ def get_repositories(org, token):
         response.raise_for_status()
         repos.extend(response.json())
         url = response.links.get('next', {}).get('url')
+    if not repos:
+        print(f"No repositories found for organization: {org}", file=sys.stderr)
+        sys.exit(1)
     return repos
 
 # Function to get all open pull requests for a repository
@@ -57,16 +65,16 @@ def main():
             for pr in pull_requests:
                 pr_created_at = datetime.strptime(pr['created_at'], '%Y-%m-%dT%H:%M:%SZ').replace(tzinfo=timezone.utc)
                 is_stale = pr_created_at < stale_threshold
-                org_prs.append({
-                    'repo': repo_name,
-                    'title': pr['title'],
-                    'url': pr['html_url'],
-                    'draft': pr['draft'],
-                    'created_at': pr['created_at'],
-                    'stale': is_stale,
-                    'author': pr['user']['login'],
-                    'reviewers': [reviewer['login'] for reviewer in pr.get('requested_reviewers', [])]
-                })
+                if not pr['draft']:
+                    org_prs.append({
+                        'repo': repo_name,
+                        'title': pr['title'],
+                        'url': pr['html_url'],
+                        'created_at': pr['created_at'],
+                        'stale': is_stale,
+                        'author': pr['user']['login'],
+                        'reviewers': [reviewer['login'] for reviewer in pr.get('requested_reviewers', [])]
+                    })
         
         results[org] = org_prs
 
@@ -86,24 +94,22 @@ def generate_markdown_report(results):
         else:
             stale_prs = [pr for pr in prs if pr['stale']]
             active_prs = [pr for pr in prs if not pr['stale']]
-            
+
+            if active_prs:
+                report += f"### Active Pull Requests ({len(active_prs)}):\n"
+                for pr in active_prs:
+                    reviewers = ', '.join(pr['reviewers']) if pr['reviewers'] else 'None'
+                    report += f"- **[{pr['title']}]({pr['url']})** in `{pr['repo']}` (Created at: {pr['created_at']})\n"
+                    report += f"  - Author: **{pr['author']}**\n"
+                    report += f"  - Reviewers: {reviewers}\n"
+                report += "\n"
+
             if stale_prs:
                 report += f"### Stale Pull Requests ({len(stale_prs)}):\n"
                 report += "Pull requests older than 30 days.\n"
                 for pr in stale_prs:
                     reviewers = ', '.join(pr['reviewers']) if pr['reviewers'] else 'None'
-                    draft_flag = " (Draft)" if pr['draft'] else ""
-                    report += f"- **[{pr['title']}]({pr['url']})** in `{pr['repo']}` (Created at: {pr['created_at']}) {draft_flag}\n"
-                    report += f"  - Author: **{pr['author']}**\n"
-                    report += f"  - Reviewers: {reviewers}\n"
-                report += "\n"
-            
-            if active_prs:
-                report += f"### Active Pull Requests ({len(active_prs)}):\n"
-                for pr in active_prs:
-                    reviewers = ', '.join(pr['reviewers']) if pr['reviewers'] else 'None'
-                    draft_flag = " (Draft)" if pr['draft'] else ""
-                    report += f"- **[{pr['title']}]({pr['url']})** in `{pr['repo']}` (Created at: {pr['created_at']}) {draft_flag}\n"
+                    report += f"- **[{pr['title']}]({pr['url']})** in `{pr['repo']}` (Created at: {pr['created_at']})\n"
                     report += f"  - Author: **{pr['author']}**\n"
                     report += f"  - Reviewers: {reviewers}\n"
                 report += "\n"

@@ -11,12 +11,23 @@ export GITHUB_TOKEN
 
 pushd site
 today=$(date  +'%Y-%m-%d')
-for script in ../actions/*; do
+# Execute the scripts in the keep directory: content will be versioned
+for script in ../actions/keep/*; do
     # execute the script only if it is executable
     [ -x $script ] || continue
+    find
     mkdir -p content/$(basename $script .sh)
-    echo "Processing $script"
+    echo "Processing keep $script"
     $script nethserver nethesis > content/$(basename $script .sh)/$(basename $script .sh)_$today.md
+done
+# Execute scripts in the override directory: they will override the existing content
+for script in ../actions/override/*; do
+    # execute the script only if it is executable
+    [ -x $script ] || continue
+    find
+    mkdir -p content/$(basename $script .sh)
+    echo "Processing override $script"
+    $script nethserver nethesis > content/$(basename $script .sh)/$(basename $script .sh).md
 done
 popd
 
