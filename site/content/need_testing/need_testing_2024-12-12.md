@@ -1,5 +1,5 @@
 +++
-title = 'Need testing (4)'
+title = 'Need testing (5)'
 date = 2024-12-12
 +++
 
@@ -10,4 +10,7 @@ date = 2024-12-12
 ## NethSecurity
 - [Fork mwan3 to add rules for router initiated traffic](https://github.com/NethServer/nethsecurity/issues/963) (#900) by filippocarletti (Created: 2024-12-09, Updated: 2024-12-10T10:41:27Z)
 - :point_right: [Realtime monitoring: traffic details](https://github.com/NethServer/nethsecurity/issues/900) (#900) by gsanchietti (Created: 2024-11-12, Updated: 2024-12-09T11:09:44Z)
+
+## NethSecurity
+- :point_right: [WireGuard configuration](https://github.com/NethServer/nethsecurity/issues/921) (#900) by gsanchietti (Created: 2024-11-19, Updated: 2024-12-12T08:20:51Z)
 
