@@ -8,31 +8,15 @@ date = 2024-12-12
 
 ### NoMilestone
 
-- [Mattermost: upgrade to 9.11.6](https://github.com/NethServer/dev/issues/7212) (#7011) by stephdl (Created: 2024-12-11T15:34:57Z, Updated: 2024-12-12T07:59:11Z)
+- [Mattermost: upgrade to 9.11.6](https://github.com/NethServer/dev/issues/7212) (#7101) by stephdl (Created: 2024-12-11T15:34:57Z, Updated: 2024-12-12T07:59:11Z)
 
-- [Nextcloud: upgrade to 28.0.13](https://github.com/NethServer/dev/issues/7206) (#7011) by stephdl (Created: 2024-12-10T16:48:12Z, Updated: 2024-12-11T17:41:46Z)
+- [Nextcloud: upgrade to 28.0.13](https://github.com/NethServer/dev/issues/7206) (#7101) by stephdl (Created: 2024-12-10T16:48:12Z, Updated: 2024-12-11T17:41:46Z)
 
 ### NethServer
 
-- [Migration tool blindly removes external user domain](https://github.com/NethServer/dev/issues/7199) (#7011) by DavidePrincipi (Created: 2024-12-06T13:49:50Z, Updated: 2024-12-11T10:19:08Z)
+- [Migration tool blindly removes external user domain](https://github.com/NethServer/dev/issues/7199) (#7101) by DavidePrincipi (Created: 2024-12-06T13:49:50Z, Updated: 2024-12-11T10:19:08Z)
 
-- [NS6 (7) OpenLDAP migration failed](https://github.com/NethServer/dev/issues/7101) (#7011) by DavidePrincipi (Created: 2024-11-07T13:15:25Z, Updated: 2024-12-11T15:55:22Z)
-
-### NethVoice
-
-- [Backup restore doesn't set correct transport ports](https://github.com/NethServer/dev/issues/7196) (#7011) by Stell0 (Created: 2024-12-03T16:26:36Z, Updated: 2024-12-10T16:57:31Z)
-
-- [NethVoice: Migration and change of base DN](https://github.com/NethServer/dev/issues/7178) (#7011) by gsanchietti (Created: 2024-11-25T13:59:14Z, Updated: 2024-12-10T10:46:49Z)
-
-- [NethVoice CTI: privacy parameter management is missing](https://github.com/NethServer/dev/issues/7120) (#7011) by andrea-marchionni (Created: 2024-11-15T09:26:38Z, Updated: 2024-12-11T15:29:03Z)
-
-- [Implementation of an Inclusion List for ICE Configuration in Janus](https://github.com/NethServer/dev/issues/7099) (#7011) by Amygos (Created: 2024-11-07T09:58:27Z, Updated: 2024-12-09T15:44:30Z)
-
-- [SNGREP TLS support](https://github.com/NethServer/dev/issues/7098) (#7011) by Amygos (Created: 2024-11-07T09:58:06Z, Updated: 2024-12-11T14:45:49Z)
-
-- [Speedup mariadb service first startup](https://github.com/NethServer/dev/issues/7078) (#7011) by Amygos (Created: 2024-10-28T14:43:18Z, Updated: 2024-12-10T16:56:54Z)
-
-- [Nethvoice, Nethvoice-proxy: Don't use NS8's default environment for sensitive data](https://github.com/NethServer/dev/issues/7011) (#7011) by andrea-marchionni (Created: 2024-09-09T09:02:05Z, Updated: 2024-12-10T16:54:10Z)
+- [NS6 (7) OpenLDAP migration failed](https://github.com/NethServer/dev/issues/7101) (#7101) by DavidePrincipi (Created: 2024-11-07T13:15:25Z, Updated: 2024-12-11T15:55:22Z)
 
 ### NethSecurity
 
