@@ -1,6 +1,6 @@
 baseURL = 'https://dev.gsanchietti.github.io/'
 languageCode = 'en-us'
-title = 'Dev Nethesis insights'
+title = 'Dev insights'
 theme = 'beautifulhugo'
 sectionPagesMenu = 'main'
 enableEmoji = true
