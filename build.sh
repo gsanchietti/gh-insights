@@ -15,7 +15,6 @@ today=$(date  +'%Y-%m-%d')
 for script in ../actions/keep/*; do
     # execute the script only if it is executable
     [ -x $script ] || continue
-    find
     mkdir -p content/$(basename $script .sh)
     echo "Processing keep $script"
     $script nethserver nethesis > content/$(basename $script .sh)/$(basename $script .sh)_$today.md
@@ -24,7 +23,6 @@ done
 for script in ../actions/override/*; do
     # execute the script only if it is executable
     [ -x $script ] || continue
-    find
     mkdir -p content/$(basename $script .sh)
     echo "Processing override $script"
     $script nethserver nethesis > content/$(basename $script .sh)/$(basename $script .sh).md
