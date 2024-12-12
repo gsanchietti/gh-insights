@@ -1,4 +1,4 @@
-name: Build and Commit
+name: Update and Commit
 
 on:
   schedule:
@@ -31,17 +31,9 @@ jobs:
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-    - name: Trigger build_site.yml workflow
-      uses: actions/github-script@v4
-      with:
-        script: |
-          const { getOctokit } = require('@actions/github');
-          const octokit = github.getOctokit(process.env.GITHUB_TOKEN);
-          await octokit.actions.createWorkflowDispatch({
-            owner: github.context.repo.owner,
-            repo: github.context.repo.repo,
-            workflow_id: 'build_site.yml',
-            ref: github.context.ref
-          });
-      env:
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+    - name: Install dependencies
+      run: npm install @actions/github
+
+  publish:
+    uses: gsanchietti/gh-insights/.github/workflows/publish.yml@main
+    secrets: inherit
