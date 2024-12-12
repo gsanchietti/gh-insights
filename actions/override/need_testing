@@ -65,7 +65,7 @@ def main():
                     highlight = ":point_right: "
                 else:
                     highlight = ""
-                report += (f"- {highlight}[{summary['title']}]({summary['url']}) (#{issue['number']}) by {summary['author']} (Created: {summary['created_at'].strftime('%Y-%m-%d')}, Updated: {summary['updated_at']})\n")
+                report += (f"- {highlight}**[{summary['title']}]({summary['url']})** (#{issue['number']}) by *{summary['author']}* (Created: {summary['created_at'].strftime('%Y-%m-%d')}, Updated: {summary['updated_at']})\n")
 
     # Add Hugo front matter
     header = "+++\n"
