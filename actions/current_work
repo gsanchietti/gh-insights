@@ -4,6 +4,7 @@ import os
 import requests
 from collections import defaultdict
 from datetime import datetime, timezone
+import sys
 
 def get_assigned_open_issues_and_prs(orgs):
     issues = []
@@ -17,12 +18,16 @@ def get_assigned_open_issues_and_prs(orgs):
         issues_response = requests.get(issues_url, headers=headers)
         if issues_response.status_code == 200:
             issues.extend(issues_response.json().get('items', []))
+        else:
+            print(f"Failed to fetch issues for org {org}: {issues_response.status_code}", file=sys.stderr)
 
         # Get open pull requests
         prs_url = f"https://api.github.com/search/issues?q=org:{org}+is:pr+is:open+assignee:*"
         prs_response = requests.get(prs_url, headers=headers)
         if prs_response.status_code == 200:
             prs.extend(prs_response.json().get('items', []))
+        else:
+            print(f"Failed to fetch PRs for org {org}: {prs_response.status_code}", file=sys.stderr)
 
     return issues, prs
 
@@ -69,6 +74,7 @@ def print_grouped_data(grouped_data):
             else:
                 print(f"### {user} ###")
         else:
+            print(f"Failed to fetch user data for {user}: {user_response.status_code}", file=sys.stderr)
             print(f"### {user} ###")
         print(f"Workload: {len(data['issues'])} issues, {len(data['prs'])} PRs\n")
         if data['issues']:
@@ -84,6 +90,9 @@ def print_grouped_data(grouped_data):
 
 if __name__ == "__main__":
     orgs = ["nethesis", "nethserver"]
+    print(f"Fetching data for organizations: {orgs}", file=sys.stderr)
     issues, prs = get_assigned_open_issues_and_prs(orgs)
+    print(f"Fetched {len(issues)} issues and {len(prs)} PRs", file=sys.stderr)
     grouped_data = group_by_user(issues, prs)
+    print(f"Grouped data by user", file=sys.stderr)
     print_grouped_data(grouped_data)
