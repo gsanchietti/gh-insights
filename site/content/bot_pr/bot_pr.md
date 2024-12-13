@@ -1,6 +1,6 @@
 +++
 title = 'Open Pull Requests by Bots'
-date = 2024-12-12
+date = 2024-12-13
 +++
 
 ## Organization: nethserver
@@ -9,9 +9,8 @@ date = 2024-12-12
 
 - :eyes: :zzz: **[Bump vue from 2.6.9 to 3.5.12 in /ui](https://github.com/NethServer/nethserver-business/pull/5)** by *dependabot[bot]* - Reviewers: *None* - Created at: 2024-10-25T07:47:46Z
 
-### NethServer/ns8-core 3 
+### NethServer/ns8-core 2 
 
-- :eyes:  **[Translations update from Hosted Weblate](https://github.com/NethServer/ns8-core/pull/767)** by *weblate* - Reviewers: *None* - Created at: 2024-12-12T09:52:24Z
 - :eyes:  **[Bump golang.org/x/crypto from 0.21.0 to 0.31.0 in /core/api-moduled](https://github.com/NethServer/ns8-core/pull/766)** by *dependabot[bot]* - Reviewers: *None* - Created at: 2024-12-12T07:58:56Z
 - :eyes: :zzz: **[chore(deps): update dependency grafana/loki to v3](https://github.com/NethServer/ns8-core/pull/724)** by *renovate[bot]* - Reviewers: *None* - Created at: 2024-10-07T13:37:42Z
 
@@ -154,10 +153,6 @@ date = 2024-12-12
 ### NethServer/ns8-ejabberd 1 
 
 - :eyes: :zzz: **[chore(deps): update ejabberd/ecs docker tag to v24.10](https://github.com/NethServer/ns8-ejabberd/pull/56)** by *renovate[bot]* - Reviewers: *None* - Created at: 2024-10-29T19:31:36Z
-
-### NethServer/nethsecurity-ui 1 
-
-- :eyes:  **[fix(lang): translations update from weblate](https://github.com/NethServer/nethsecurity-ui/pull/450)** by *weblate* - Reviewers: *None* - Created at: 2024-12-02T13:06:51Z
 
 ### NethServer/ns8-imapsync 4 
 

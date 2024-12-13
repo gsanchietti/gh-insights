@@ -2,13 +2,15 @@
 
 title = 'To be released soon'
 
-date = 2024-12-12
+date = 2024-12-13
 
 +++
 
 ### NethServer
 
 - [Mattermost: upgrade to 9.11.6](https://github.com/NethServer/dev/issues/7212) (#7060) by stephdl (Created: 2024-12-11T15:34:57Z, Updated: 2024-12-12T10:01:46Z)
+
+- [Unclear success notification while configuring OpenLDAP and Ejabberd](https://github.com/NethServer/dev/issues/7207) (#7060) by andre8244 (Created: 2024-12-11T08:54:41Z, Updated: 2024-12-12T14:41:16Z)
 
 - [Nextcloud: upgrade to 28.0.13](https://github.com/NethServer/dev/issues/7206) (#7060) by stephdl (Created: 2024-12-10T16:48:12Z, Updated: 2024-12-12T10:01:50Z)
 

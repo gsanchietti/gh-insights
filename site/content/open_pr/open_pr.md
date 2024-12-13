@@ -1,6 +1,6 @@
 +++
 title = 'Open Pull Requests'
-date = 2024-12-12
+date = 2024-12-13
 +++
 
 ## Organization: nethserver
@@ -21,12 +21,6 @@ date = 2024-12-12
 
 - :eyes:  **[Document Rspamd Bayesian filter bulk training](https://github.com/NethServer/ns8-mail/pull/152)** by *DavidePrincipi* - Reviewers: *None* - Created at: 2024-12-10T09:33:24Z
 
-### NethServer/nethsecurity-ui 3 
-
--   **[fix(controller): bump ns-api requirements](https://github.com/NethServer/nethsecurity-ui/pull/462)** by *Tbaile* - Reviewers: *andre8244* - Created at: 2024-12-12T11:14:41Z
--   **[fix(controller): updated cannot connect message](https://github.com/NethServer/nethsecurity-ui/pull/461)** by *Tbaile* - Reviewers: *andre8244* - Created at: 2024-12-12T11:08:17Z
-- :eyes:  **[chore(main): release 1.16.1](https://github.com/NethServer/nethsecurity-ui/pull/460)** by *gsanchietti* - Reviewers: *None* - Created at: 2024-12-10T09:17:33Z
-
 ### NethServer/nethsecurity-docs 6 
 
 -   **[docs: added mac-ip binding documentation](https://github.com/NethServer/nethsecurity-docs/pull/141)** by *Tbaile* - Reviewers: *filippocarletti* - Created at: 2024-12-10T16:58:46Z
@@ -35,6 +29,10 @@ date = 2024-12-12
 - :eyes:  **[feat(ips): add snort3 chapter](https://github.com/NethServer/nethsecurity-docs/pull/137)** by *gsanchietti* - Reviewers: *None* - Created at: 2024-12-03T16:45:09Z
 - :eyes:  **[Add instructions for excluding interfaces in Netifyd](https://github.com/NethServer/nethsecurity-docs/pull/136)** by *stephdl* - Reviewers: *None* - Created at: 2024-12-03T10:47:00Z
 - :eyes:  **[Nut](https://github.com/NethServer/nethsecurity-docs/pull/135)** by *gsanchietti* - Reviewers: *None* - Created at: 2024-12-02T17:10:10Z
+
+### NethServer/nethlink 1 
+
+- :eyes:  **[feat(click2call): added new event to handle physical phones](https://github.com/NethServer/nethlink/pull/41)** by *therockerline* - Reviewers: *None* - Created at: 2024-12-12T19:00:16Z
 
 ## Organization: nethesis
 
