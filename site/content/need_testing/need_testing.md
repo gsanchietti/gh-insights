@@ -1,5 +1,5 @@
 +++
-title = 'Need testing (10)'
+title = 'Need testing (9)'
 date = 2024-12-13
 +++
 
@@ -15,9 +15,10 @@ date = 2024-12-13
 - :point_right: **[NethVoice CTI: missing feature on the phone function key configuration](https://github.com/NethServer/dev/issues/7152)** (#7152) by *andrea-marchionni* (Created: 2024-11-18, Updated: 2024-12-11T16:30:58Z)
 
 ## NethSecurity
-- **[Fork mwan3 to add rules for router initiated traffic](https://github.com/NethServer/nethsecurity/issues/963)** (#900) by *filippocarletti* (Created: 2024-12-09, Updated: 2024-12-10T10:41:27Z)
-- :point_right: **[Unit registration fails when specifying a unit name containing spaces](https://github.com/NethServer/nethsecurity/issues/952)** (#900) by *cotosso* (Created: 2024-12-05, Updated: 2024-12-12T15:50:16Z)
-- :point_right: **[WireGuard configuration](https://github.com/NethServer/nethsecurity/issues/921)** (#900) by *gsanchietti* (Created: 2024-11-19, Updated: 2024-12-12T11:51:24Z)
-- :point_right: **[MAC Binding with DHCP Reservation and Firewall Configuration](https://github.com/NethServer/nethsecurity/issues/918)** (#900) by *Tbaile* (Created: 2024-11-15, Updated: 2024-12-12T13:42:49Z)
-- :point_right: **[Realtime monitoring: traffic details](https://github.com/NethServer/nethsecurity/issues/900)** (#900) by *gsanchietti* (Created: 2024-11-12, Updated: 2024-12-09T11:09:44Z)
+- **[Fork mwan3 to add rules for router initiated traffic](https://github.com/NethServer/nethsecurity/issues/963)** (#891) by *filippocarletti* (Created: 2024-12-09, Updated: 2024-12-10T10:41:27Z)
+- :point_right: **[WireGuard configuration](https://github.com/NethServer/nethsecurity/issues/921)** (#891) by *gsanchietti* (Created: 2024-11-19, Updated: 2024-12-12T11:51:24Z)
+- :point_right: **[IPS: snort basic implementation](https://github.com/NethServer/nethsecurity/issues/891)** (#891) by *gsanchietti* (Created: 2024-11-07, Updated: 2024-12-13T09:16:16Z)
+
+## NethSecurity
+- :point_right: **[Unit registration fails when specifying a unit name containing spaces](https://github.com/NethServer/nethsecurity/issues/952)** (#891) by *cotosso* (Created: 2024-12-05, Updated: 2024-12-13T09:41:47Z)
 

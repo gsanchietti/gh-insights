@@ -21,10 +21,9 @@ date = 2024-12-13
 
 - :eyes:  **[Document Rspamd Bayesian filter bulk training](https://github.com/NethServer/ns8-mail/pull/152)** by *DavidePrincipi* - Reviewers: *None* - Created at: 2024-12-10T09:33:24Z
 
-### NethServer/nethsecurity-docs 6 
+### NethServer/nethsecurity-docs 5 
 
 -   **[docs: added mac-ip binding documentation](https://github.com/NethServer/nethsecurity-docs/pull/141)** by *Tbaile* - Reviewers: *filippocarletti* - Created at: 2024-12-10T16:58:46Z
-- :eyes:  **[fix(ips): add new ns_disabled_rules syntax](https://github.com/NethServer/nethsecurity-docs/pull/140)** by *gsanchietti* - Reviewers: *None* - Created at: 2024-12-10T14:55:17Z
 - :eyes:  **[docs: expanded monitoring section with latest changes](https://github.com/NethServer/nethsecurity-docs/pull/139)** by *Tbaile* - Reviewers: *None* - Created at: 2024-12-06T09:39:59Z
 - :eyes:  **[feat(ips): add snort3 chapter](https://github.com/NethServer/nethsecurity-docs/pull/137)** by *gsanchietti* - Reviewers: *None* - Created at: 2024-12-03T16:45:09Z
 - :eyes:  **[Add instructions for excluding interfaces in Netifyd](https://github.com/NethServer/nethsecurity-docs/pull/136)** by *stephdl* - Reviewers: *None* - Created at: 2024-12-03T10:47:00Z
