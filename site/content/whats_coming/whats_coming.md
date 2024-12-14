@@ -2,17 +2,9 @@
 
 title = 'To be released soon'
 
-date = 2024-12-13
+date = 2024-12-14
 
 +++
-
-### NethServer
-
-- [Mattermost: upgrade to 9.11.6](https://github.com/NethServer/dev/issues/7212) (#7060) by stephdl (Created: 2024-12-11T15:34:57Z, Updated: 2024-12-12T10:01:46Z)
-
-- [Unclear success notification while configuring OpenLDAP and Ejabberd](https://github.com/NethServer/dev/issues/7207) (#7060) by andre8244 (Created: 2024-12-11T08:54:41Z, Updated: 2024-12-12T14:41:16Z)
-
-- [Nextcloud: upgrade to 28.0.14](https://github.com/NethServer/dev/issues/7206) (#7060) by stephdl (Created: 2024-12-10T16:48:12Z, Updated: 2024-12-13T09:19:39Z)
 
 ### NethVoice
 
@@ -21,6 +13,8 @@ date = 2024-12-13
 ### NethSecurity
 
 - [Migration: VPN accounts not visible if username contains uppercase letters](https://github.com/NethServer/nethsecurity/issues/966) (#900) by gsanchietti (Created: 2024-12-10T08:46:16Z, Updated: 2024-12-10T12:59:51Z)
+
+- [Fork mwan3 to add rules for router initiated traffic](https://github.com/NethServer/nethsecurity/issues/963) (#900) by filippocarletti (Created: 2024-12-09T15:35:42Z, Updated: 2024-12-13T09:57:25Z)
 
 - [Storage disk not displayed in UI after system update](https://github.com/NethServer/nethsecurity/issues/960) (#900) by cotosso (Created: 2024-12-06T10:19:28Z, Updated: 2024-12-10T09:21:18Z)
 
@@ -40,5 +34,5 @@ date = 2024-12-13
 
 - [MAC Binding with DHCP Reservation and Firewall Configuration](https://github.com/NethServer/nethsecurity/issues/918) (#900) by Tbaile (Created: 2024-11-15T11:18:43Z, Updated: 2024-12-13T09:15:16Z)
 
-- [Realtime monitoring: traffic details](https://github.com/NethServer/nethsecurity/issues/900) (#900) by gsanchietti (Created: 2024-11-12T08:09:28Z, Updated: 2024-12-13T09:08:32Z)
+- [Realtime monitoring: traffic details](https://github.com/NethServer/nethsecurity/issues/900) (#900) by gsanchietti (Created: 2024-11-12T08:09:28Z, Updated: 2024-12-13T10:23:57Z)
 

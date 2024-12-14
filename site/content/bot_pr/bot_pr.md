@@ -1,6 +1,6 @@
 +++
 title = 'Open Pull Requests by Bots'
-date = 2024-12-13
+date = 2024-12-14
 +++
 
 ## Organization: nethserver
@@ -9,9 +9,8 @@ date = 2024-12-13
 
 - :eyes: :zzz: **[Bump vue from 2.6.9 to 3.5.12 in /ui](https://github.com/NethServer/nethserver-business/pull/5)** by *dependabot[bot]* - Reviewers: *None* - Created at: 2024-10-25T07:47:46Z
 
-### NethServer/ns8-core 2 
+### NethServer/ns8-core 1 
 
-- :eyes:  **[Bump golang.org/x/crypto from 0.21.0 to 0.31.0 in /core/api-moduled](https://github.com/NethServer/ns8-core/pull/766)** by *dependabot[bot]* - Reviewers: *None* - Created at: 2024-12-12T07:58:56Z
 - :eyes: :zzz: **[chore(deps): update dependency grafana/loki to v3](https://github.com/NethServer/ns8-core/pull/724)** by *renovate[bot]* - Reviewers: *None* - Created at: 2024-10-07T13:37:42Z
 
 ### NethServer/ns8-dokuwiki 2 
