@@ -1,6 +1,6 @@
 +++
 title = 'Open Pull Requests by Bots'
-date = 2024-12-14
+date = 2024-12-15
 +++
 
 ## Organization: nethserver
@@ -171,12 +171,12 @@ date = 2024-12-14
 
 ### NethServer/ns8-postgresql 1 
 
-- :eyes:  **[chore(deps): update dpage/pgadmin4 docker tag to v8.14](https://github.com/NethServer/ns8-postgresql/pull/22)** by *renovate[bot]* - Reviewers: *None* - Created at: 2024-11-14T08:16:14Z
+- :eyes: :zzz: **[chore(deps): update dpage/pgadmin4 docker tag to v8.14](https://github.com/NethServer/ns8-postgresql/pull/22)** by *renovate[bot]* - Reviewers: *None* - Created at: 2024-11-14T08:16:14Z
 
 ### NethServer/ns8-wordpress 2 
 
 - :eyes:  **[chore(deps): update mariadb docker tag to v10.11.10](https://github.com/NethServer/ns8-wordpress/pull/19)** by *renovate[bot]* - Reviewers: *None* - Created at: 2024-11-15T05:08:33Z
-- :eyes:  **[chore(deps): update wordpress docker tag to v6.7.1](https://github.com/NethServer/ns8-wordpress/pull/18)** by *renovate[bot]* - Reviewers: *None* - Created at: 2024-11-14T22:09:04Z
+- :eyes: :zzz: **[chore(deps): update wordpress docker tag to v6.7.1](https://github.com/NethServer/ns8-wordpress/pull/18)** by *renovate[bot]* - Reviewers: *None* - Created at: 2024-11-14T22:09:04Z
 
 ### NethServer/ns8-netdata 5 
 
