@@ -1,6 +1,6 @@
 +++
 title = 'Open Pull Requests by Bots'
-date = 2024-12-15
+date = 2024-12-16
 +++
 
 ## Organization: nethserver
@@ -20,13 +20,13 @@ date = 2024-12-15
 
 ### NethServer/ns8-mariadb 2 
 
-- :eyes:  **[chore(deps): update mariadb docker tag to v10.11.10](https://github.com/NethServer/ns8-mariadb/pull/44)** by *renovate[bot]* - Reviewers: *None* - Created at: 2024-11-15T04:24:55Z
+- :eyes: :zzz: **[chore(deps): update mariadb docker tag to v10.11.10](https://github.com/NethServer/ns8-mariadb/pull/44)** by *renovate[bot]* - Reviewers: *None* - Created at: 2024-11-15T04:24:55Z
 - :eyes: :zzz: **[Translations update from Hosted Weblate](https://github.com/NethServer/ns8-mariadb/pull/42)** by *weblate* - Reviewers: *None* - Created at: 2024-09-12T19:09:57Z
 
 ### NethServer/ns8-webserver 4 
 
 - :eyes:  **[chore(deps): update ghcr.io/marketsquare/robotframework-browser/rfbrowser-stable docker tag to v19](https://github.com/NethServer/ns8-webserver/pull/83)** by *renovate[bot]* - Reviewers: *None* - Created at: 2024-11-27T11:53:06Z
-- :eyes:  **[chore(deps): update drakkan/sftpgo docker tag to v2.6.4](https://github.com/NethServer/ns8-webserver/pull/82)** by *renovate[bot]* - Reviewers: *None* - Created at: 2024-11-16T02:40:46Z
+- :eyes: :zzz: **[chore(deps): update drakkan/sftpgo docker tag to v2.6.4](https://github.com/NethServer/ns8-webserver/pull/82)** by *renovate[bot]* - Reviewers: *None* - Created at: 2024-11-16T02:40:46Z
 - :eyes: :zzz: **[chore(deps): update nginx docker tag to v1.27.3](https://github.com/NethServer/ns8-webserver/pull/78)** by *renovate[bot]* - Reviewers: *None* - Created at: 2024-10-17T13:37:50Z
 - :eyes: :zzz: **[chore(deps): update ghcr.io/marketsquare/robotframework-browser/rfbrowser-stable docker tag to v10.1.0](https://github.com/NethServer/ns8-webserver/pull/76)** by *renovate[bot]* - Reviewers: *None* - Created at: 2024-10-17T13:08:31Z
 
@@ -121,7 +121,7 @@ date = 2024-12-15
 
 ### NethServer/ns8-roundcubemail 1 
 
-- :eyes:  **[Update mariadb Docker tag to v10.11.10](https://github.com/NethServer/ns8-roundcubemail/pull/47)** by *renovate[bot]* - Reviewers: *None* - Created at: 2024-11-15T04:35:10Z
+- :eyes: :zzz: **[Update mariadb Docker tag to v10.11.10](https://github.com/NethServer/ns8-roundcubemail/pull/47)** by *renovate[bot]* - Reviewers: *None* - Created at: 2024-11-15T04:35:10Z
 
 ### NethServer/ns8-piler 6 
 
@@ -175,7 +175,7 @@ date = 2024-12-15
 
 ### NethServer/ns8-wordpress 2 
 
-- :eyes:  **[chore(deps): update mariadb docker tag to v10.11.10](https://github.com/NethServer/ns8-wordpress/pull/19)** by *renovate[bot]* - Reviewers: *None* - Created at: 2024-11-15T05:08:33Z
+- :eyes: :zzz: **[chore(deps): update mariadb docker tag to v10.11.10](https://github.com/NethServer/ns8-wordpress/pull/19)** by *renovate[bot]* - Reviewers: *None* - Created at: 2024-11-15T05:08:33Z
 - :eyes: :zzz: **[chore(deps): update wordpress docker tag to v6.7.1](https://github.com/NethServer/ns8-wordpress/pull/18)** by *renovate[bot]* - Reviewers: *None* - Created at: 2024-11-14T22:09:04Z
 
 ### NethServer/ns8-netdata 5 
