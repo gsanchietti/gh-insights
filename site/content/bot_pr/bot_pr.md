@@ -44,7 +44,7 @@ date = 2024-12-16
 
 - :eyes:  **[chore(deps): update dependency marketsquare/robotframework-browser to v19.1.1](https://github.com/NethServer/ns8-samba/pull/67)** by *renovate[bot]* - Reviewers: *None* - Created at: 2024-12-11T22:06:22Z
 - :eyes:  **[chore(deps): update library/ubuntu docker tag to v24.10](https://github.com/NethServer/ns8-samba/pull/63)** by *renovate[bot]* - Reviewers: *None* - Created at: 2024-12-05T08:13:37Z
-- :eyes:  **[chore(deps): update library/ubuntu docker tag to v25](https://github.com/NethServer/ns8-samba/pull/59)** by *renovate[bot]* - Reviewers: *None* - Created at: 2024-11-16T07:19:59Z
+- :eyes: :zzz: **[chore(deps): update library/ubuntu docker tag to v25](https://github.com/NethServer/ns8-samba/pull/59)** by *renovate[bot]* - Reviewers: *None* - Created at: 2024-11-16T07:19:59Z
 - :eyes: :zzz: **[chore(deps): update node.js to v22](https://github.com/NethServer/ns8-samba/pull/56)** by *renovate[bot]* - Reviewers: *None* - Created at: 2024-11-03T10:55:46Z
 - :eyes: :zzz: **[chore(deps): update node.js to v21.7.3](https://github.com/NethServer/ns8-samba/pull/36)** by *renovate[bot]* - Reviewers: *None* - Created at: 2023-12-06T01:33:31Z
 
@@ -191,6 +191,10 @@ date = 2024-12-16
 - :eyes: :zzz: **[Configure Renovate](https://github.com/NethServer/ns8-passbolt/pull/1)** by *renovate[bot]* - Reviewers: *None* - Created at: 2024-10-21T12:39:44Z
 
 ## Organization: nethesis
+
+### nethesis/nethcti 1 
+
+-  :zzz: **[Bump json5 from 2.2.1 to 2.2.3 in /ui-dev](https://github.com/nethesis/nethcti/pull/364)** by *dependabot[bot]* - Reviewers: *b9874e40962149eee62a8fd3bc4e709e* - Created at: 2023-01-10T07:45:13Z
 
 ### nethesis/nethvoice-wizard-restapi 1 
 

@@ -1,7 +1,10 @@
 +++
-title = 'Need testing (6)'
+title = 'Need testing (7)'
 date = 2024-12-16
 +++
+
+## NoMilestone
+- **[SOGo: auxiliary account toggle UI state not synchronized](https://github.com/NethServer/dev/issues/7213)** (#7152) by *stephdl* (Created: 2024-12-16, Updated: 2024-12-16T09:52:30Z)
 
 ## NethServer
 - **[nethsecurity-controller: clone and move issue](https://github.com/NethServer/dev/issues/7204)** (#7152) by *stephdl* (Created: 2024-12-10, Updated: 2024-12-13T10:43:29Z)
