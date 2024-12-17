@@ -1,6 +1,6 @@
 +++
 title = 'Open Pull Requests by Bots'
-date = 2024-12-16
+date = 2024-12-17
 +++
 
 ## Organization: nethserver
@@ -52,13 +52,13 @@ date = 2024-12-16
 
 - :eyes:  **[chore(deps): update ghcr.io/marketsquare/robotframework-browser/rfbrowser-stable docker tag to v19.1.1](https://github.com/NethServer/ns8-loki/pull/33)** by *renovate[bot]* - Reviewers: *None* - Created at: 2024-12-11T21:49:56Z
 - :eyes:  **[chore(deps): update grafana/loki docker tag to v2.9.11](https://github.com/NethServer/ns8-loki/pull/32)** by *renovate[bot]* - Reviewers: *None* - Created at: 2024-12-05T19:11:52Z
-- :eyes:  **[chore(deps): update traefik docker tag to v2.11.15](https://github.com/NethServer/ns8-loki/pull/30)** by *renovate[bot]* - Reviewers: *None* - Created at: 2024-11-20T19:13:22Z
+- :eyes:  **[chore(deps): update traefik docker tag to v2.11.16](https://github.com/NethServer/ns8-loki/pull/30)** by *renovate[bot]* - Reviewers: *None* - Created at: 2024-11-20T19:13:22Z
 - :eyes: :zzz: **[chore(deps): update traefik docker tag to v3](https://github.com/NethServer/ns8-loki/pull/23)** by *renovate[bot]* - Reviewers: *None* - Created at: 2024-07-30T17:21:16Z
 - :eyes: :zzz: **[chore(deps): update grafana/loki docker tag to v3](https://github.com/NethServer/ns8-loki/pull/19)** by *renovate[bot]* - Reviewers: *None* - Created at: 2024-07-30T12:05:22Z
 
 ### NethServer/ns8-traefik 1 
 
--  :zzz: **[chore(deps): update traefik docker tag to v2.11.15](https://github.com/NethServer/ns8-traefik/pull/61)** by *renovate[bot]* - Reviewers: *DavidePrincipi* - Created at: 2024-07-03T03:26:30Z
+-  :zzz: **[chore(deps): update traefik docker tag to v2.11.16](https://github.com/NethServer/ns8-traefik/pull/61)** by *renovate[bot]* - Reviewers: *DavidePrincipi* - Created at: 2024-07-03T03:26:30Z
 
 ### NethServer/ns8-openldap 3 
 
@@ -160,8 +160,9 @@ date = 2024-12-16
 - :eyes: :zzz: **[chore(deps): update mcr.microsoft.com/devcontainers/javascript-node docker tag to v1](https://github.com/NethServer/ns8-imapsync/pull/23)** by *renovate[bot]* - Reviewers: *None* - Created at: 2024-06-26T17:41:54Z
 - :eyes: :zzz: **[chore(deps): update dependency marketsquare/robotframework-browser to v18.9.1](https://github.com/NethServer/ns8-imapsync/pull/22)** by *renovate[bot]* - Reviewers: *None* - Created at: 2024-06-26T17:41:51Z
 
-### NethServer/ns8-user-manager 2 
+### NethServer/ns8-user-manager 3 
 
+- :eyes:  **[fix(deps): update dependency vue-i18n to v9.14.2 [security]](https://github.com/NethServer/ns8-user-manager/pull/60)** by *renovate[bot]* - Reviewers: *None* - Created at: 2024-12-16T13:21:29Z
 - :eyes:  **[chore(deps): update node.js to v20.18.1](https://github.com/NethServer/ns8-user-manager/pull/59)** by *renovate[bot]* - Reviewers: *None* - Created at: 2024-11-20T14:36:20Z
 - :eyes: :zzz: **[fix(deps): update dependency @nethesis/vue-components to v1.7.0](https://github.com/NethServer/ns8-user-manager/pull/58)** by *renovate[bot]* - Reviewers: *None* - Created at: 2024-10-04T07:28:35Z
 
@@ -192,10 +193,6 @@ date = 2024-12-16
 
 ## Organization: nethesis
 
-### nethesis/nethcti 1 
-
--  :zzz: **[Bump json5 from 2.2.1 to 2.2.3 in /ui-dev](https://github.com/nethesis/nethcti/pull/364)** by *dependabot[bot]* - Reviewers: *b9874e40962149eee62a8fd3bc4e709e* - Created at: 2023-01-10T07:45:13Z
-
 ### nethesis/nethvoice-wizard-restapi 1 
 
 - :eyes: :zzz: **[Bump guzzlehttp/guzzle from 6.5.7 to 7.5.0 in /root/usr/src/google_speech_php](https://github.com/nethesis/nethvoice-wizard-restapi/pull/206)** by *dependabot[bot]* - Reviewers: *None* - Created at: 2023-01-09T08:53:05Z
@@ -224,6 +221,10 @@ date = 2024-12-16
 ### nethesis/nethvoice-report 1 
 
 -  :zzz: **[Bump dompurify from 2.2.0 to 2.5.6 in /ui](https://github.com/nethesis/nethvoice-report/pull/200)** by *dependabot[bot]* - Reviewers: *andre8244* - Created at: 2024-09-17T06:13:46Z
+
+### nethesis/ns8-nethvoice 1 
+
+- :eyes:  **[chore(deps): update ghcr.io/nethesis/nethvoice-cti docker tag to v0.2.3](https://github.com/nethesis/ns8-nethvoice/pull/350)** by *renovate[bot]* - Reviewers: *None* - Created at: 2024-12-16T20:30:27Z
 
 ### nethesis/parceler 1 
 

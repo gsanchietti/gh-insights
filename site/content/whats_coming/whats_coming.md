@@ -2,7 +2,7 @@
 
 title = 'To be released soon'
 
-date = 2024-12-16
+date = 2024-12-17
 
 +++
 
@@ -31,6 +31,8 @@ date = 2024-12-16
 - [Phonehome: treat shield DNS](https://github.com/NethServer/nethsecurity/issues/928) (#900) by gsanchietti (Created: 2024-11-20T09:22:09Z, Updated: 2024-12-10T08:13:36Z)
 
 - [FlashStart: disable if no subscription](https://github.com/NethServer/nethsecurity/issues/926) (#900) by gsanchietti (Created: 2024-11-20T09:18:21Z, Updated: 2024-12-04T14:10:22Z)
+
+- [WireGuard configuration](https://github.com/NethServer/nethsecurity/issues/921) (#900) by gsanchietti (Created: 2024-11-19T07:42:41Z, Updated: 2024-12-16T13:35:24Z)
 
 - [MAC Binding with DHCP Reservation and Firewall Configuration](https://github.com/NethServer/nethsecurity/issues/918) (#900) by Tbaile (Created: 2024-11-15T11:18:43Z, Updated: 2024-12-13T09:15:16Z)
 
