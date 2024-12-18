@@ -1,6 +1,6 @@
 +++
 title = 'Open Pull Requests'
-date = 2024-12-17
+date = 2024-12-18
 +++
 
 ## Organization: nethserver
@@ -9,16 +9,21 @@ date = 2024-12-17
 
 -  :zzz: **[Suppressing SMTP Smuggling / CVE-2023-51764](https://github.com/NethServer/nethserver-mail/pull/266)** by *jenszo* - Reviewers: *filippocarletti* - Created at: 2024-01-07T21:46:25Z
 
-### NethServer/ns8-core 4 
+### NethServer/ns8-core 3 
 
+- :eyes:  **[fix(ui): support for preventing app installation](https://github.com/NethServer/ns8-core/pull/776)** by *andre8244* - Reviewers: *None* - Created at: 2024-12-17T15:33:31Z
+- :eyes:  **[Specify error reason for incompatible apps](https://github.com/NethServer/ns8-core/pull/775)** by *DavidePrincipi* - Reviewers: *None* - Created at: 2024-12-17T11:51:15Z
 -   **[fix(ui): skip apps restore on multi-node cluster](https://github.com/NethServer/ns8-core/pull/771)** by *andre8244* - Reviewers: *Tbaile* - Created at: 2024-12-16T15:41:10Z
-- :eyes:  **[Implement cluster backup single node cluster flag](https://github.com/NethServer/ns8-core/pull/770)** by *DavidePrincipi* - Reviewers: *None* - Created at: 2024-12-13T15:08:36Z
-- :eyes:  **[Implement determine-restore-eligibility action](https://github.com/NethServer/ns8-core/pull/769)** by *DavidePrincipi* - Reviewers: *None* - Created at: 2024-12-13T13:40:51Z
--   **[fix: limit clone/move/restore app only to eligible nodes](https://github.com/NethServer/ns8-core/pull/768)** by *andre8244* - Reviewers: *Tbaile* - Created at: 2024-12-12T16:48:31Z
 
 ### NethServer/ns8-github-actions 1 
 
 - :eyes:  **[Add image analysis workflow with Trivy](https://github.com/NethServer/ns8-github-actions/pull/23)** by *Amygos* - Reviewers: *None* - Created at: 2024-11-20T10:46:48Z
+
+### NethServer/nethserver-ns8-migration 3 
+
+-   **[Validate user domain by name](https://github.com/NethServer/nethserver-ns8-migration/pull/103)** by *DavidePrincipi* - Reviewers: *stephdl* - Created at: 2024-12-17T16:52:10Z
+-   **[Add installation checks for mail and ejabberd on nodes](https://github.com/NethServer/nethserver-ns8-migration/pull/102)** by *stephdl* - Reviewers: *DavidePrincipi, andre8244* - Created at: 2024-12-17T15:43:41Z
+-   **[Install nethvoice-proxy during nethvoice migration](https://github.com/NethServer/nethserver-ns8-migration/pull/100)** by *stephdl* - Reviewers: *DavidePrincipi, Stell0* - Created at: 2024-12-16T15:44:13Z
 
 ### NethServer/nethsecurity 1 
 
@@ -32,8 +37,9 @@ date = 2024-12-17
 
 - :eyes:  **[chore(main): release 1.16.2](https://github.com/NethServer/nethsecurity-ui/pull/464)** by *gsanchietti* - Reviewers: *None* - Created at: 2024-12-13T11:48:47Z
 
-### NethServer/nethsecurity-docs 8 
+### NethServer/nethsecurity-docs 9 
 
+-   **[feat(release): add 1.4 changelog](https://github.com/NethServer/nethsecurity-docs/pull/146)** by *gsanchietti* - Reviewers: *cotosso* - Created at: 2024-12-17T07:31:25Z
 - :eyes:  **[feat: add wireguard](https://github.com/NethServer/nethsecurity-docs/pull/145)** by *gsanchietti* - Reviewers: *None* - Created at: 2024-12-16T11:57:41Z
 - :eyes:  **[Update hotspot.rst](https://github.com/NethServer/nethsecurity-docs/pull/144)** by *cotosso* - Reviewers: *None* - Created at: 2024-12-16T08:38:03Z
 -   **[feat: add speedtest](https://github.com/NethServer/nethsecurity-docs/pull/142)** by *gsanchietti* - Reviewers: *cotosso* - Created at: 2024-12-13T13:50:38Z
@@ -53,10 +59,6 @@ date = 2024-12-17
 
 ## Organization: nethesis
 
-### nethesis/nethcti-server 1 
-
--   **[feat(physical_device): astproxy cancel action](https://github.com/nethesis/nethcti-server/pull/324)** by *tonyco97* - Reviewers: *Stell0, edospadoni* - Created at: 2024-12-16T08:50:47Z
-
 ### nethesis/nethcti-app-android 1 
 
 -  :zzz: **[Removed old notificator](https://github.com/nethesis/nethcti-app-android/pull/30)** by *mirkopruiti* - Reviewers: *b9874e40962149eee62a8fd3bc4e709e* - Created at: 2023-08-02T09:35:24Z
@@ -65,9 +67,8 @@ date = 2024-12-17
 
 -  :zzz: **[Removed old notification service usage](https://github.com/nethesis/nethcti-app-iphone/pull/37)** by *NicolaMrAPPs* - Reviewers: *b9874e40962149eee62a8fd3bc4e709e* - Created at: 2023-08-02T09:19:30Z
 
-### nethesis/ns8-nethvoice 2 
+### nethesis/ns8-nethvoice 1 
 
--   **[fix: set correct ownership for customer_card volume in entrypoint](https://github.com/nethesis/ns8-nethvoice/pull/349)** by *Stell0* - Reviewers: *Amygos* - Created at: 2024-12-16T15:59:08Z
 -   **[feat(trunks): allow to enable/disable TOPOS for each trunk](https://github.com/nethesis/ns8-nethvoice/pull/341)** by *Stell0* - Reviewers: *Amygos, andrea-marchionni* - Created at: 2024-11-29T16:58:10Z
 
 ### nethesis/ns8-nethvoice-proxy 1 

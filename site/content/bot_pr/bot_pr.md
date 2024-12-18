@@ -1,6 +1,6 @@
 +++
 title = 'Open Pull Requests by Bots'
-date = 2024-12-17
+date = 2024-12-18
 +++
 
 ## Organization: nethserver
@@ -9,8 +9,9 @@ date = 2024-12-17
 
 - :eyes: :zzz: **[Bump vue from 2.6.9 to 3.5.12 in /ui](https://github.com/NethServer/nethserver-business/pull/5)** by *dependabot[bot]* - Reviewers: *None* - Created at: 2024-10-25T07:47:46Z
 
-### NethServer/ns8-core 1 
+### NethServer/ns8-core 2 
 
+- :eyes:  **[Translations update from Hosted Weblate](https://github.com/NethServer/ns8-core/pull/774)** by *weblate* - Reviewers: *None* - Created at: 2024-12-17T09:34:09Z
 - :eyes: :zzz: **[chore(deps): update dependency grafana/loki to v3](https://github.com/NethServer/ns8-core/pull/724)** by *renovate[bot]* - Reviewers: *None* - Created at: 2024-10-07T13:37:42Z
 
 ### NethServer/ns8-dokuwiki 2 
@@ -83,10 +84,6 @@ date = 2024-12-17
 - :eyes: :zzz: **[chore(deps): update grafana/grafana docker tag to v11](https://github.com/NethServer/ns8-grafana/pull/21)** by *renovate[bot]* - Reviewers: *None* - Created at: 2024-08-11T20:52:17Z
 - :eyes: :zzz: **[chore(deps): update node.js to v18.20.5](https://github.com/NethServer/ns8-grafana/pull/19)** by *renovate[bot]* - Reviewers: *None* - Created at: 2024-08-10T17:51:29Z
 - :eyes: :zzz: **[chore(deps): update grafana/grafana docker tag to v10.4.14](https://github.com/NethServer/ns8-grafana/pull/18)** by *renovate[bot]* - Reviewers: *None* - Created at: 2024-08-07T15:46:22Z
-
-### NethServer/nethsecurity 1 
-
-- :eyes:  **[chore: bump ns packages (automatic)](https://github.com/NethServer/nethsecurity/pull/948)** by *github-actions[bot]* - Reviewers: *None* - Created at: 2024-12-03T11:51:00Z
 
 ### NethServer/nethsecurity-controller 1 
 
@@ -221,10 +218,6 @@ date = 2024-12-17
 ### nethesis/nethvoice-report 1 
 
 -  :zzz: **[Bump dompurify from 2.2.0 to 2.5.6 in /ui](https://github.com/nethesis/nethvoice-report/pull/200)** by *dependabot[bot]* - Reviewers: *andre8244* - Created at: 2024-09-17T06:13:46Z
-
-### nethesis/ns8-nethvoice 1 
-
-- :eyes:  **[chore(deps): update ghcr.io/nethesis/nethvoice-cti docker tag to v0.2.3](https://github.com/nethesis/ns8-nethvoice/pull/350)** by *renovate[bot]* - Reviewers: *None* - Created at: 2024-12-16T20:30:27Z
 
 ### nethesis/parceler 1 
 

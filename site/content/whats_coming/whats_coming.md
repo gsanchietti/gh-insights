@@ -2,13 +2,17 @@
 
 title = 'To be released soon'
 
-date = 2024-12-17
+date = 2024-12-18
 
 +++
 
+### NethServer
+
+- [Add Settings > Firewall shortcut to global search](https://github.com/NethServer/dev/issues/7220) (#7060) by andre8244 (Created: 2024-12-17T09:40:46Z, Updated: 2024-12-17T17:06:00Z)
+
 ### NethVoice
 
-- [NethVoice CTI: transfer doesn't work using click to call in NethVoice CTI with  NethLink  as main device](https://github.com/NethServer/dev/issues/7060) (#7060) by edospadoni (Created: 2024-10-10T15:56:33Z, Updated: 2024-12-12T10:04:13Z)
+- [NethVoice CTI: transfer doesn't work using click to call in NethVoice CTI with  NethLink  as main device](https://github.com/NethServer/dev/issues/7060) (#7060) by edospadoni (Created: 2024-10-10T15:56:33Z, Updated: 2024-12-17T10:00:24Z)
 
 ### NethSecurity
 
