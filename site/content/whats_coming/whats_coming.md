@@ -2,43 +2,17 @@
 
 title = 'To be released soon'
 
-date = 2024-12-18
+date = 2024-12-19
 
 +++
 
-### NethServer
-
-- [Add Settings > Firewall shortcut to global search](https://github.com/NethServer/dev/issues/7220) (#7060) by andre8244 (Created: 2024-12-17T09:40:46Z, Updated: 2024-12-17T17:06:00Z)
-
 ### NethVoice
 
+- [Unable to Save Customer Card Template on NethVoice Wizard](https://github.com/NethServer/dev/issues/7219) (#7060) by Amygos (Created: 2024-12-17T09:31:07Z, Updated: 2024-12-18T15:37:27Z)
+
+- [NethLink: the icon on the traybar is virtually impossible to see if the dark theme is set on Windows](https://github.com/NethServer/dev/issues/7214) (#7060) by edospadoni (Created: 2024-12-16T09:36:23Z, Updated: 2024-12-18T16:06:22Z)
+
+- [NethVoice: First Wizard Configuration Fails Due to Race Condition](https://github.com/NethServer/dev/issues/7191) (#7060) by Amygos (Created: 2024-11-28T17:05:55Z, Updated: 2024-12-18T15:10:26Z)
+
 - [NethVoice CTI: transfer doesn't work using click to call in NethVoice CTI with  NethLink  as main device](https://github.com/NethServer/dev/issues/7060) (#7060) by edospadoni (Created: 2024-10-10T15:56:33Z, Updated: 2024-12-17T10:00:24Z)
-
-### NethSecurity
-
-- [Migration: VPN accounts not visible if username contains uppercase letters](https://github.com/NethServer/nethsecurity/issues/966) (#900) by gsanchietti (Created: 2024-12-10T08:46:16Z, Updated: 2024-12-10T12:59:51Z)
-
-- [Fork mwan3 to add rules for router initiated traffic](https://github.com/NethServer/nethsecurity/issues/963) (#900) by filippocarletti (Created: 2024-12-09T15:35:42Z, Updated: 2024-12-13T09:57:25Z)
-
-- [Storage disk not displayed in UI after system update](https://github.com/NethServer/nethsecurity/issues/960) (#900) by cotosso (Created: 2024-12-06T10:19:28Z, Updated: 2024-12-10T09:21:18Z)
-
-- [Flashstart fails to send heartbeats](https://github.com/NethServer/nethsecurity/issues/955) (#900) by Tbaile (Created: 2024-12-05T13:12:24Z, Updated: 2024-12-13T09:53:45Z)
-
-- [Dashboard - Internet Connection: Incorrect Error Message Despite Successful API Response](https://github.com/NethServer/nethsecurity/issues/945) (#900) by francio87 (Created: 2024-12-02T14:10:59Z, Updated: 2024-12-13T09:53:49Z)
-
-- [Monitoring: error when OpenVPN RoadWarrior has an incomplete configuration](https://github.com/NethServer/nethsecurity/issues/943) (#900) by Tbaile (Created: 2024-11-29T16:44:01Z, Updated: 2024-12-09T11:06:54Z)
-
-- [NUT experimental support](https://github.com/NethServer/nethsecurity/issues/942) (#900) by gsanchietti (Created: 2024-11-29T14:55:03Z, Updated: 2024-12-05T13:59:29Z)
-
-- [Improve netifyd network configuration](https://github.com/NethServer/nethsecurity/issues/929) (#900) by gsanchietti (Created: 2024-11-20T09:32:10Z, Updated: 2024-12-06T16:46:17Z)
-
-- [Phonehome: treat shield DNS](https://github.com/NethServer/nethsecurity/issues/928) (#900) by gsanchietti (Created: 2024-11-20T09:22:09Z, Updated: 2024-12-10T08:13:36Z)
-
-- [FlashStart: disable if no subscription](https://github.com/NethServer/nethsecurity/issues/926) (#900) by gsanchietti (Created: 2024-11-20T09:18:21Z, Updated: 2024-12-04T14:10:22Z)
-
-- [WireGuard configuration](https://github.com/NethServer/nethsecurity/issues/921) (#900) by gsanchietti (Created: 2024-11-19T07:42:41Z, Updated: 2024-12-16T13:35:24Z)
-
-- [MAC Binding with DHCP Reservation and Firewall Configuration](https://github.com/NethServer/nethsecurity/issues/918) (#900) by Tbaile (Created: 2024-11-15T11:18:43Z, Updated: 2024-12-13T09:15:16Z)
-
-- [Realtime monitoring: traffic details](https://github.com/NethServer/nethsecurity/issues/900) (#900) by gsanchietti (Created: 2024-11-12T08:09:28Z, Updated: 2024-12-13T10:23:57Z)
 

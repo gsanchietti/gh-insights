@@ -1,19 +1,9 @@
 +++
 title = 'Open Pull Requests'
-date = 2024-12-18
+date = 2024-12-19
 +++
 
 ## Organization: nethserver
-
-### NethServer/nethserver-mail 1 
-
--  :zzz: **[Suppressing SMTP Smuggling / CVE-2023-51764](https://github.com/NethServer/nethserver-mail/pull/266)** by *jenszo* - Reviewers: *filippocarletti* - Created at: 2024-01-07T21:46:25Z
-
-### NethServer/ns8-core 3 
-
-- :eyes:  **[fix(ui): support for preventing app installation](https://github.com/NethServer/ns8-core/pull/776)** by *andre8244* - Reviewers: *None* - Created at: 2024-12-17T15:33:31Z
-- :eyes:  **[Specify error reason for incompatible apps](https://github.com/NethServer/ns8-core/pull/775)** by *DavidePrincipi* - Reviewers: *None* - Created at: 2024-12-17T11:51:15Z
--   **[fix(ui): skip apps restore on multi-node cluster](https://github.com/NethServer/ns8-core/pull/771)** by *andre8244* - Reviewers: *Tbaile* - Created at: 2024-12-16T15:41:10Z
 
 ### NethServer/ns8-github-actions 1 
 
@@ -21,13 +11,13 @@ date = 2024-12-18
 
 ### NethServer/nethserver-ns8-migration 3 
 
--   **[Validate user domain by name](https://github.com/NethServer/nethserver-ns8-migration/pull/103)** by *DavidePrincipi* - Reviewers: *stephdl* - Created at: 2024-12-17T16:52:10Z
--   **[Add installation checks for mail and ejabberd on nodes](https://github.com/NethServer/nethserver-ns8-migration/pull/102)** by *stephdl* - Reviewers: *DavidePrincipi, andre8244* - Created at: 2024-12-17T15:43:41Z
--   **[Install nethvoice-proxy during nethvoice migration](https://github.com/NethServer/nethserver-ns8-migration/pull/100)** by *stephdl* - Reviewers: *DavidePrincipi, Stell0* - Created at: 2024-12-16T15:44:13Z
+-   **[Remove obsolete user domain validation code](https://github.com/NethServer/nethserver-ns8-migration/pull/104)** by *DavidePrincipi* - Reviewers: *stephdl* - Created at: 2024-12-18T16:04:44Z
+-   **[Add installation checks for mail and ejabberd on nodes](https://github.com/NethServer/nethserver-ns8-migration/pull/102)** by *stephdl* - Reviewers: *DavidePrincipi* - Created at: 2024-12-17T15:43:41Z
+-   **[Install nethvoice-proxy during nethvoice migration](https://github.com/NethServer/nethserver-ns8-migration/pull/100)** by *stephdl* - Reviewers: *Stell0* - Created at: 2024-12-16T15:44:13Z
 
 ### NethServer/nethsecurity 1 
 
--   **[Controller: Handle empty HTTP response and add restart functionality for ns-plug service](https://github.com/NethServer/nethsecurity/pull/977)** by *stephdl* - Reviewers: *gsanchietti* - Created at: 2024-12-13T13:34:22Z
+-   **[Controller: Handle empty HTTP response and add restart functionality for ns-plug service](https://github.com/NethServer/nethsecurity/pull/977)** by *stephdl* - Reviewers: *filippocarletti* - Created at: 2024-12-13T13:34:22Z
 
 ### NethServer/ns8-mail 1 
 
@@ -36,18 +26,6 @@ date = 2024-12-18
 ### NethServer/nethsecurity-ui 1 
 
 - :eyes:  **[chore(main): release 1.16.2](https://github.com/NethServer/nethsecurity-ui/pull/464)** by *gsanchietti* - Reviewers: *None* - Created at: 2024-12-13T11:48:47Z
-
-### NethServer/nethsecurity-docs 9 
-
--   **[feat(release): add 1.4 changelog](https://github.com/NethServer/nethsecurity-docs/pull/146)** by *gsanchietti* - Reviewers: *cotosso* - Created at: 2024-12-17T07:31:25Z
-- :eyes:  **[feat: add wireguard](https://github.com/NethServer/nethsecurity-docs/pull/145)** by *gsanchietti* - Reviewers: *None* - Created at: 2024-12-16T11:57:41Z
-- :eyes:  **[Update hotspot.rst](https://github.com/NethServer/nethsecurity-docs/pull/144)** by *cotosso* - Reviewers: *None* - Created at: 2024-12-16T08:38:03Z
--   **[feat: add speedtest](https://github.com/NethServer/nethsecurity-docs/pull/142)** by *gsanchietti* - Reviewers: *cotosso* - Created at: 2024-12-13T13:50:38Z
--   **[docs: added mac-ip binding documentation](https://github.com/NethServer/nethsecurity-docs/pull/141)** by *Tbaile* - Reviewers: *filippocarletti* - Created at: 2024-12-10T16:58:46Z
-- :eyes:  **[docs: expanded monitoring section with latest changes](https://github.com/NethServer/nethsecurity-docs/pull/139)** by *Tbaile* - Reviewers: *None* - Created at: 2024-12-06T09:39:59Z
-- :eyes:  **[feat(ips): add snort3 chapter](https://github.com/NethServer/nethsecurity-docs/pull/137)** by *gsanchietti* - Reviewers: *None* - Created at: 2024-12-03T16:45:09Z
-- :eyes:  **[Add instructions for excluding interfaces in Netifyd](https://github.com/NethServer/nethsecurity-docs/pull/136)** by *stephdl* - Reviewers: *None* - Created at: 2024-12-03T10:47:00Z
-- :eyes:  **[Nut](https://github.com/NethServer/nethsecurity-docs/pull/135)** by *gsanchietti* - Reviewers: *None* - Created at: 2024-12-02T17:10:10Z
 
 ### NethServer/ns8-dnsmasq 1 
 
@@ -66,6 +44,10 @@ date = 2024-12-18
 ### nethesis/nethcti-app-iphone 1 
 
 -  :zzz: **[Removed old notification service usage](https://github.com/nethesis/nethcti-app-iphone/pull/37)** by *NicolaMrAPPs* - Reviewers: *b9874e40962149eee62a8fd3bc4e709e* - Created at: 2023-08-02T09:19:30Z
+
+### nethesis/nethvoice-report 1 
+
+-   **[Fix problem with - in name agent](https://github.com/nethesis/nethvoice-report/pull/201)** by *andrea-marchionni* - Reviewers: *Stell0* - Created at: 2024-12-18T15:59:27Z
 
 ### nethesis/ns8-nethvoice 1 
 
