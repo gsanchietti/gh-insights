@@ -1,6 +1,6 @@
 +++
 title = 'Open Pull Requests'
-date = 2024-12-19
+date = 2024-12-20
 +++
 
 ## Organization: nethserver
@@ -9,11 +9,13 @@ date = 2024-12-19
 
 - :eyes:  **[Add image analysis workflow with Trivy](https://github.com/NethServer/ns8-github-actions/pull/23)** by *Amygos* - Reviewers: *None* - Created at: 2024-11-20T10:46:48Z
 
-### NethServer/nethserver-ns8-migration 3 
+### NethServer/ns8-nextcloud 1 
 
--   **[Remove obsolete user domain validation code](https://github.com/NethServer/nethserver-ns8-migration/pull/104)** by *DavidePrincipi* - Reviewers: *stephdl* - Created at: 2024-12-18T16:04:44Z
--   **[Add installation checks for mail and ejabberd on nodes](https://github.com/NethServer/nethserver-ns8-migration/pull/102)** by *stephdl* - Reviewers: *DavidePrincipi* - Created at: 2024-12-17T15:43:41Z
--   **[Install nethvoice-proxy during nethvoice migration](https://github.com/NethServer/nethserver-ns8-migration/pull/100)** by *stephdl* - Reviewers: *Stell0* - Created at: 2024-12-16T15:44:13Z
+- :eyes:  **[Update Nextcloud version to 29.0.10](https://github.com/NethServer/ns8-nextcloud/pull/119)** by *stephdl* - Reviewers: *None* - Created at: 2024-12-19T09:52:11Z
+
+### NethServer/nethserver-ns8-migration 1 
+
+- :eyes:  **[Add installation checks for mail and ejabberd on nodes](https://github.com/NethServer/nethserver-ns8-migration/pull/102)** by *stephdl* - Reviewers: *None* - Created at: 2024-12-17T15:43:41Z
 
 ### NethServer/nethsecurity 1 
 
