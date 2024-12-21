@@ -1,20 +1,21 @@
 +++
 title = 'Open Pull Requests'
-date = 2024-12-20
+date = 2024-12-21
 +++
 
 ## Organization: nethserver
 
 ### NethServer/ns8-github-actions 1 
 
-- :eyes:  **[Add image analysis workflow with Trivy](https://github.com/NethServer/ns8-github-actions/pull/23)** by *Amygos* - Reviewers: *None* - Created at: 2024-11-20T10:46:48Z
+- :eyes: :zzz: **[Add image analysis workflow with Trivy](https://github.com/NethServer/ns8-github-actions/pull/23)** by *Amygos* - Reviewers: *None* - Created at: 2024-11-20T10:46:48Z
 
 ### NethServer/ns8-nextcloud 1 
 
 - :eyes:  **[Update Nextcloud version to 29.0.10](https://github.com/NethServer/ns8-nextcloud/pull/119)** by *stephdl* - Reviewers: *None* - Created at: 2024-12-19T09:52:11Z
 
-### NethServer/nethserver-ns8-migration 1 
+### NethServer/nethserver-ns8-migration 2 
 
+- :eyes:  **[Add AD provider installation checks for cluster nodes and dashboard selection](https://github.com/NethServer/nethserver-ns8-migration/pull/106)** by *stephdl* - Reviewers: *None* - Created at: 2024-12-20T16:55:02Z
 - :eyes:  **[Add installation checks for mail and ejabberd on nodes](https://github.com/NethServer/nethserver-ns8-migration/pull/102)** by *stephdl* - Reviewers: *None* - Created at: 2024-12-17T15:43:41Z
 
 ### NethServer/nethsecurity 1 
@@ -28,10 +29,6 @@ date = 2024-12-20
 ### NethServer/nethsecurity-ui 1 
 
 - :eyes:  **[chore(main): release 1.16.2](https://github.com/NethServer/nethsecurity-ui/pull/464)** by *gsanchietti* - Reviewers: *None* - Created at: 2024-12-13T11:48:47Z
-
-### NethServer/ns8-dnsmasq 1 
-
-- :eyes:  **[feat: adding configurable gateway for DHCP server](https://github.com/NethServer/ns8-dnsmasq/pull/23)** by *Tbaile* - Reviewers: *None* - Created at: 2024-12-13T14:06:51Z
 
 ### NethServer/nethlink 1 
 
@@ -51,8 +48,9 @@ date = 2024-12-20
 
 -   **[Fix problem with - in name agent](https://github.com/nethesis/nethvoice-report/pull/201)** by *andrea-marchionni* - Reviewers: *Stell0* - Created at: 2024-12-18T15:59:27Z
 
-### nethesis/ns8-nethvoice 1 
+### nethesis/ns8-nethvoice 2 
 
+- :eyes:  **[fix(proxy): prevent adding proxy to trunk identity0 for TIM](https://github.com/nethesis/ns8-nethvoice/pull/354)** by *Stell0* - Reviewers: *None* - Created at: 2024-12-20T09:43:27Z
 -   **[feat(trunks): allow to enable/disable TOPOS for each trunk](https://github.com/nethesis/ns8-nethvoice/pull/341)** by *Stell0* - Reviewers: *Amygos, andrea-marchionni* - Created at: 2024-11-29T16:58:10Z
 
 ### nethesis/ns8-nethvoice-proxy 1 
