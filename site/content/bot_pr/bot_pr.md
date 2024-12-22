@@ -1,6 +1,6 @@
 +++
 title = 'Open Pull Requests by Bots'
-date = 2024-12-21
+date = 2024-12-22
 +++
 
 ## Organization: nethserver
@@ -13,8 +13,9 @@ date = 2024-12-21
 
 - :eyes:  **[Translations update from Hosted Weblate](https://github.com/NethServer/ns8-kickstart/pull/36)** by *weblate* - Reviewers: *None* - Created at: 2024-12-20T12:37:29Z
 
-### NethServer/ns8-dokuwiki 3 
+### NethServer/ns8-dokuwiki 4 
 
+- :eyes:  **[chore(deps): update ghcr.io/marketsquare/robotframework-browser/rfbrowser-stable docker tag to v19](https://github.com/NethServer/ns8-dokuwiki/pull/36)** by *renovate[bot]* - Reviewers: *None* - Created at: 2024-12-21T23:44:44Z
 - :eyes:  **[chore(deps): update ghcr.io/marketsquare/robotframework-browser/rfbrowser-stable docker tag to v10.1.0](https://github.com/NethServer/ns8-dokuwiki/pull/35)** by *renovate[bot]* - Reviewers: *None* - Created at: 2024-12-20T15:37:55Z
 - :eyes:  **[chore(deps): update bitnami/dokuwiki docker tag to v20240206.1.0-debian-12-r24](https://github.com/NethServer/ns8-dokuwiki/pull/34)** by *renovate[bot]* - Reviewers: *None* - Created at: 2024-12-20T15:37:52Z
 - :eyes:  **[Translations update from Hosted Weblate](https://github.com/NethServer/ns8-dokuwiki/pull/33)** by *weblate* - Reviewers: *None* - Created at: 2024-12-20T12:26:51Z
@@ -78,8 +79,10 @@ date = 2024-12-21
 - :eyes:  **[chore(deps): update node.js to v18.20.5](https://github.com/NethServer/ns8-node_exporter/pull/12)** by *renovate[bot]* - Reviewers: *None* - Created at: 2024-12-20T15:10:15Z
 - :eyes:  **[Translations update from Hosted Weblate](https://github.com/NethServer/ns8-node_exporter/pull/11)** by *weblate* - Reviewers: *None* - Created at: 2024-12-20T11:49:16Z
 
-### NethServer/ns8-prometheus 3 
+### NethServer/ns8-prometheus 5 
 
+- :eyes:  **[chore(deps): update ghcr.io/marketsquare/robotframework-browser/rfbrowser-stable docker tag to v19](https://github.com/NethServer/ns8-prometheus/pull/19)** by *renovate[bot]* - Reviewers: *None* - Created at: 2024-12-21T23:42:38Z
+- :eyes:  **[chore(deps): update quay.io/prometheus/prometheus docker tag to v2.55.1](https://github.com/NethServer/ns8-prometheus/pull/18)** by *renovate[bot]* - Reviewers: *None* - Created at: 2024-12-21T23:42:35Z
 - :eyes:  **[chore(deps): update node.js to v18.20.5](https://github.com/NethServer/ns8-prometheus/pull/17)** by *renovate[bot]* - Reviewers: *None* - Created at: 2024-12-20T15:41:27Z
 - :eyes:  **[chore(deps): update ghcr.io/marketsquare/robotframework-browser/rfbrowser-stable docker tag to v10.1.0](https://github.com/NethServer/ns8-prometheus/pull/16)** by *renovate[bot]* - Reviewers: *None* - Created at: 2024-12-20T15:41:17Z
 - :eyes:  **[Translations update from Hosted Weblate](https://github.com/NethServer/ns8-prometheus/pull/15)** by *weblate* - Reviewers: *None* - Created at: 2024-12-20T11:25:34Z
@@ -137,8 +140,9 @@ date = 2024-12-21
 - :eyes:  **[Translations update from Hosted Weblate](https://github.com/NethServer/ns8-crowdsec/pull/62)** by *weblate* - Reviewers: *None* - Created at: 2024-12-19T11:45:45Z
 -   **[chore(deps): update crowdsecurity/crowdsec docker tag to v1.6.4](https://github.com/NethServer/ns8-crowdsec/pull/60)** by *renovate[bot]* - Reviewers: *stephdl* - Created at: 2024-11-26T20:31:23Z
 
-### NethServer/ns8-ejabberd 1 
+### NethServer/ns8-ejabberd 2 
 
+- :eyes:  **[Translations update from Hosted Weblate](https://github.com/NethServer/ns8-ejabberd/pull/58)** by *weblate* - Reviewers: *None* - Created at: 2024-12-21T14:52:47Z
 -  :zzz: **[chore(deps): update ejabberd/ecs docker tag to v24.12](https://github.com/NethServer/ns8-ejabberd/pull/56)** by *renovate[bot]* - Reviewers: *stephdl* - Created at: 2024-10-29T19:31:36Z
 
 ### NethServer/nethsecurity-ui 1 
@@ -199,6 +203,10 @@ date = 2024-12-21
 ### nethesis/nethserver-tancredi 1 
 
 -   **[Bump tancredi version](https://github.com/nethesis/nethserver-tancredi/pull/147)** by *nethbot* - Reviewers: *Stell0, andrea-marchionni* - Created at: 2024-12-18T12:59:47Z
+
+### nethesis/ns8-nethvoice 1 
+
+- :eyes:  **[Translations update from Hosted Weblate](https://github.com/nethesis/ns8-nethvoice/pull/356)** by *weblate* - Reviewers: *None* - Created at: 2024-12-21T14:51:45Z
 
 ### nethesis/parceler 1 
 
