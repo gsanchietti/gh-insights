@@ -1,6 +1,6 @@
 +++
 title = 'Open Pull Requests by Bots'
-date = 2024-12-22
+date = 2024-12-23
 +++
 
 ## Organization: nethserver
@@ -79,8 +79,9 @@ date = 2024-12-22
 - :eyes:  **[chore(deps): update node.js to v18.20.5](https://github.com/NethServer/ns8-node_exporter/pull/12)** by *renovate[bot]* - Reviewers: *None* - Created at: 2024-12-20T15:10:15Z
 - :eyes:  **[Translations update from Hosted Weblate](https://github.com/NethServer/ns8-node_exporter/pull/11)** by *weblate* - Reviewers: *None* - Created at: 2024-12-20T11:49:16Z
 
-### NethServer/ns8-prometheus 5 
+### NethServer/ns8-prometheus 6 
 
+- :eyes:  **[chore(deps): update quay.io/prometheus/prometheus docker tag to v3](https://github.com/NethServer/ns8-prometheus/pull/20)** by *renovate[bot]* - Reviewers: *None* - Created at: 2024-12-22T11:44:25Z
 - :eyes:  **[chore(deps): update ghcr.io/marketsquare/robotframework-browser/rfbrowser-stable docker tag to v19](https://github.com/NethServer/ns8-prometheus/pull/19)** by *renovate[bot]* - Reviewers: *None* - Created at: 2024-12-21T23:42:38Z
 - :eyes:  **[chore(deps): update quay.io/prometheus/prometheus docker tag to v2.55.1](https://github.com/NethServer/ns8-prometheus/pull/18)** by *renovate[bot]* - Reviewers: *None* - Created at: 2024-12-21T23:42:35Z
 - :eyes:  **[chore(deps): update node.js to v18.20.5](https://github.com/NethServer/ns8-prometheus/pull/17)** by *renovate[bot]* - Reviewers: *None* - Created at: 2024-12-20T15:41:27Z
