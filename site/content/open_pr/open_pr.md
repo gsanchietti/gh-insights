@@ -1,6 +1,6 @@
 +++
 title = 'Open Pull Requests'
-date = 2024-12-23
+date = 2024-12-24
 +++
 
 ## Organization: nethserver
@@ -9,26 +9,32 @@ date = 2024-12-23
 
 - :eyes: :zzz: **[Add image analysis workflow with Trivy](https://github.com/NethServer/ns8-github-actions/pull/23)** by *Amygos* - Reviewers: *None* - Created at: 2024-11-20T10:46:48Z
 
-### NethServer/ns8-nextcloud 1 
-
-- :eyes:  **[Update Nextcloud version to 29.0.10](https://github.com/NethServer/ns8-nextcloud/pull/119)** by *stephdl* - Reviewers: *None* - Created at: 2024-12-19T09:52:11Z
-
 ### NethServer/nethserver-ns8-migration 2 
 
 - :eyes:  **[Add AD provider installation checks for cluster nodes and dashboard selection](https://github.com/NethServer/nethserver-ns8-migration/pull/106)** by *stephdl* - Reviewers: *None* - Created at: 2024-12-20T16:55:02Z
 - :eyes:  **[Add installation checks for mail and ejabberd on nodes](https://github.com/NethServer/nethserver-ns8-migration/pull/102)** by *stephdl* - Reviewers: *None* - Created at: 2024-12-17T15:43:41Z
 
-### NethServer/nethsecurity 1 
+### NethServer/nethsecurity 2 
 
+-   **[fix(ns-api): gracefully handle error when checking for updates](https://github.com/NethServer/nethsecurity/pull/990)** by *Tbaile* - Reviewers: *gsanchietti* - Created at: 2024-12-23T13:24:33Z
 -   **[Controller: Handle empty HTTP response and add restart functionality for ns-plug service](https://github.com/NethServer/nethsecurity/pull/977)** by *stephdl* - Reviewers: *filippocarletti* - Created at: 2024-12-13T13:34:22Z
 
 ### NethServer/ns8-mail 1 
 
 - :eyes:  **[Document Rspamd Bayesian filter bulk training](https://github.com/NethServer/ns8-mail/pull/152)** by *DavidePrincipi* - Reviewers: *None* - Created at: 2024-12-10T09:33:24Z
 
-### NethServer/nethsecurity-ui 1 
+### NethServer/ns8-webtop 1 
 
+-   **[Add RAM availability to configuration and settings](https://github.com/NethServer/ns8-webtop/pull/101)** by *stephdl* - Reviewers: *Amygos, gsanchietti, lucagasparini* - Created at: 2024-12-23T10:11:43Z
+
+### NethServer/nethsecurity-ui 2 
+
+-   **[fix(updates): gracefully handle error for updates](https://github.com/NethServer/nethsecurity-ui/pull/466)** by *Tbaile* - Reviewers: *andre8244* - Created at: 2024-12-23T15:30:14Z
 - :eyes:  **[chore(main): release 1.16.2](https://github.com/NethServer/nethsecurity-ui/pull/464)** by *gsanchietti* - Reviewers: *None* - Created at: 2024-12-13T11:48:47Z
+
+### NethServer/ns8-dnsmasq 1 
+
+-   **[fix: removing global addresses from interface selection](https://github.com/NethServer/ns8-dnsmasq/pull/24)** by *Tbaile* - Reviewers: *DavidePrincipi* - Created at: 2024-12-20T11:26:22Z
 
 ### NethServer/nethlink 1 
 

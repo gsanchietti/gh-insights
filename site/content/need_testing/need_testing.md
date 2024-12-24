@@ -1,7 +1,11 @@
 +++
-title = 'Need testing (8)'
-date = 2024-12-23
+title = 'Need testing (10)'
+date = 2024-12-24
 +++
+
+## NoMilestone
+- **[Collabora: upgrade to 24.04.11.1.1](https://github.com/NethServer/dev/issues/7232)** (#7118) by *stephdl* (Created: 2024-12-23, Updated: 2024-12-23T09:25:42Z)
+- **[Nextcloud: Upgrade to 29](https://github.com/NethServer/dev/issues/7225)** (#7118) by *stephdl* (Created: 2024-12-19, Updated: 2024-12-23T16:01:21Z)
 
 ## NethServer
 - **[Save a click to install core updates](https://github.com/NethServer/dev/issues/7227)** (#7118) by *andre8244* (Created: 2024-12-20, Updated: 2024-12-20T16:30:41Z)

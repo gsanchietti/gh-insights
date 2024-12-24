@@ -1,6 +1,6 @@
 +++
 title = 'Open Pull Requests by Bots'
-date = 2024-12-23
+date = 2024-12-24
 +++
 
 ## Organization: nethserver
@@ -106,11 +106,6 @@ date = 2024-12-23
 -  :zzz: **[chore(deps): update mattermost/mattermost-team-edition docker tag to v10](https://github.com/NethServer/ns8-mattermost/pull/80)** by *renovate[bot]* - Reviewers: *DavidePrincipi* - Created at: 2024-09-03T13:25:57Z
 -  :zzz: **[chore(deps): update node.js to v18.20.5](https://github.com/NethServer/ns8-mattermost/pull/66)** by *renovate[bot]* - Reviewers: *stephdl* - Created at: 2024-02-16T01:54:48Z
 -  :zzz: **[chore(deps): update postgres docker tag to v13.18](https://github.com/NethServer/ns8-mattermost/pull/65)** by *renovate[bot]* - Reviewers: *DavidePrincipi* - Created at: 2024-02-13T01:36:43Z
-
-### NethServer/ns8-collabora 2 
-
-- :eyes:  **[Translations update from Hosted Weblate](https://github.com/NethServer/ns8-collabora/pull/36)** by *weblate* - Reviewers: *None* - Created at: 2024-12-20T10:50:39Z
--  :zzz: **[chore(deps): update collabora/code docker tag to v24.04.11.1.1](https://github.com/NethServer/ns8-collabora/pull/33)** by *renovate[bot]* - Reviewers: *stephdl* - Created at: 2024-09-12T21:04:05Z
 
 ### NethServer/ns8-webtop 7 
 
