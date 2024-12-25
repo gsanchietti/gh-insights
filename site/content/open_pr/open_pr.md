@@ -1,6 +1,6 @@
 +++
 title = 'Open Pull Requests'
-date = 2024-12-24
+date = 2024-12-25
 +++
 
 ## Organization: nethserver
@@ -11,7 +11,7 @@ date = 2024-12-24
 
 ### NethServer/nethserver-ns8-migration 2 
 
-- :eyes:  **[Add AD provider installation checks for cluster nodes and dashboard selection](https://github.com/NethServer/nethserver-ns8-migration/pull/106)** by *stephdl* - Reviewers: *None* - Created at: 2024-12-20T16:55:02Z
+-   **[Add AD provider installation checks for cluster nodes and dashboard selection](https://github.com/NethServer/nethserver-ns8-migration/pull/109)** by *stephdl* - Reviewers: *DavidePrincipi* - Created at: 2024-12-24T11:13:17Z
 - :eyes:  **[Add installation checks for mail and ejabberd on nodes](https://github.com/NethServer/nethserver-ns8-migration/pull/102)** by *stephdl* - Reviewers: *None* - Created at: 2024-12-17T15:43:41Z
 
 ### NethServer/nethsecurity 2 

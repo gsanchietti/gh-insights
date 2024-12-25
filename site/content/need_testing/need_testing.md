@@ -1,6 +1,6 @@
 +++
 title = 'Need testing (10)'
-date = 2024-12-24
+date = 2024-12-25
 +++
 
 ## NoMilestone
@@ -9,8 +9,8 @@ date = 2024-12-24
 
 ## NethServer
 - **[Save a click to install core updates](https://github.com/NethServer/dev/issues/7227)** (#7118) by *andre8244* (Created: 2024-12-20, Updated: 2024-12-20T16:30:41Z)
-- **[NS7 join fails if user domain directory.nh exists](https://github.com/NethServer/dev/issues/7222)** (#7118) by *nrauso* (Created: 2024-12-17, Updated: 2024-12-20T15:29:56Z)
-- **[Nethvoice: install nethvoice proxy as a migration dependency](https://github.com/NethServer/dev/issues/7221)** (#7118) by *stephdl* (Created: 2024-12-17, Updated: 2024-12-20T15:44:05Z)
+- :point_right: **[NS7 join fails if user domain directory.nh exists](https://github.com/NethServer/dev/issues/7222)** (#7118) by *nrauso* (Created: 2024-12-17, Updated: 2024-12-20T15:29:56Z)
+- :point_right: **[Nethvoice: install nethvoice proxy as a migration dependency](https://github.com/NethServer/dev/issues/7221)** (#7118) by *stephdl* (Created: 2024-12-17, Updated: 2024-12-20T15:44:05Z)
 - :point_right: **[nethsecurity-controller: clone and move issue](https://github.com/NethServer/dev/issues/7204)** (#7118) by *stephdl* (Created: 2024-12-10, Updated: 2024-12-20T10:52:20Z)
 - :point_right: **[nethsecurity-controller: backups and restoration issue](https://github.com/NethServer/dev/issues/7203)** (#7118) by *stephdl* (Created: 2024-12-10, Updated: 2024-12-20T10:52:09Z)
 
