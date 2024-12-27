@@ -1,6 +1,6 @@
 +++
 title = 'Open Pull Requests by Bots'
-date = 2024-12-26
+date = 2024-12-27
 +++
 
 ## Organization: nethserver
@@ -45,8 +45,8 @@ date = 2024-12-26
 
 ### NethServer/ns8-ldapproxy 2 
 
--   **[chore(deps): update nginx docker tag to v1.27.3](https://github.com/NethServer/ns8-ldapproxy/pull/18)** by *renovate[bot]* - Reviewers: *DavidePrincipi* - Created at: 2024-11-27T01:46:44Z
--   **[chore(deps): update ghcr.io/marketsquare/robotframework-browser/rfbrowser-stable docker tag to v19](https://github.com/NethServer/ns8-ldapproxy/pull/17)** by *renovate[bot]* - Reviewers: *DavidePrincipi* - Created at: 2024-11-26T11:31:21Z
+-  :zzz: **[chore(deps): update nginx docker tag to v1.27.3](https://github.com/NethServer/ns8-ldapproxy/pull/18)** by *renovate[bot]* - Reviewers: *DavidePrincipi* - Created at: 2024-11-27T01:46:44Z
+-  :zzz: **[chore(deps): update ghcr.io/marketsquare/robotframework-browser/rfbrowser-stable docker tag to v19](https://github.com/NethServer/ns8-ldapproxy/pull/17)** by *renovate[bot]* - Reviewers: *DavidePrincipi* - Created at: 2024-11-26T11:31:21Z
 
 ### NethServer/ns8-samba 5 
 
@@ -134,7 +134,7 @@ date = 2024-12-26
 
 - :eyes:  **[chore(deps): update ghcr.io/marketsquare/robotframework-browser/rfbrowser-stable docker tag to v19.1.2](https://github.com/NethServer/ns8-crowdsec/pull/63)** by *renovate[bot]* - Reviewers: *None* - Created at: 2024-12-20T22:49:56Z
 - :eyes:  **[Translations update from Hosted Weblate](https://github.com/NethServer/ns8-crowdsec/pull/62)** by *weblate* - Reviewers: *None* - Created at: 2024-12-19T11:45:45Z
--   **[chore(deps): update crowdsecurity/crowdsec docker tag to v1.6.4](https://github.com/NethServer/ns8-crowdsec/pull/60)** by *renovate[bot]* - Reviewers: *stephdl* - Created at: 2024-11-26T20:31:23Z
+-  :zzz: **[chore(deps): update crowdsecurity/crowdsec docker tag to v1.6.4](https://github.com/NethServer/ns8-crowdsec/pull/60)** by *renovate[bot]* - Reviewers: *stephdl* - Created at: 2024-11-26T20:31:23Z
 
 ### NethServer/ns8-ejabberd 2 
 
