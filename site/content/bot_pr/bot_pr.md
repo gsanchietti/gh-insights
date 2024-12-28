@@ -1,6 +1,6 @@
 +++
 title = 'Open Pull Requests by Bots'
-date = 2024-12-27
+date = 2024-12-28
 +++
 
 ## Organization: nethserver
@@ -28,7 +28,7 @@ date = 2024-12-27
 ### NethServer/ns8-webserver 5 
 
 - :eyes:  **[Translations update from Hosted Weblate](https://github.com/NethServer/ns8-webserver/pull/87)** by *weblate* - Reviewers: *None* - Created at: 2024-12-20T12:16:15Z
--   **[chore(deps): update ghcr.io/marketsquare/robotframework-browser/rfbrowser-stable docker tag to v19](https://github.com/NethServer/ns8-webserver/pull/83)** by *renovate[bot]* - Reviewers: *stephdl* - Created at: 2024-11-27T11:53:06Z
+-  :zzz: **[chore(deps): update ghcr.io/marketsquare/robotframework-browser/rfbrowser-stable docker tag to v19](https://github.com/NethServer/ns8-webserver/pull/83)** by *renovate[bot]* - Reviewers: *stephdl* - Created at: 2024-11-27T11:53:06Z
 -  :zzz: **[chore(deps): update drakkan/sftpgo docker tag to v2.6.4](https://github.com/NethServer/ns8-webserver/pull/82)** by *renovate[bot]* - Reviewers: *stephdl* - Created at: 2024-11-16T02:40:46Z
 -  :zzz: **[chore(deps): update nginx docker tag to v1.27.3](https://github.com/NethServer/ns8-webserver/pull/78)** by *renovate[bot]* - Reviewers: *stephdl* - Created at: 2024-10-17T13:37:50Z
 -  :zzz: **[chore(deps): update ghcr.io/marketsquare/robotframework-browser/rfbrowser-stable docker tag to v10.1.0](https://github.com/NethServer/ns8-webserver/pull/76)** by *renovate[bot]* - Reviewers: *stephdl* - Created at: 2024-10-17T13:08:31Z
