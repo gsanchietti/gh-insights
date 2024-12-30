@@ -1,6 +1,6 @@
 +++
 title = 'Open Pull Requests'
-date = 2024-12-29
+date = 2024-12-30
 +++
 
 ## Organization: nethserver
@@ -57,7 +57,7 @@ date = 2024-12-29
 ### nethesis/ns8-nethvoice 2 
 
 - :eyes:  **[fix(proxy): prevent adding proxy to trunk identity0 for TIM](https://github.com/nethesis/ns8-nethvoice/pull/354)** by *Stell0* - Reviewers: *None* - Created at: 2024-12-20T09:43:27Z
--   **[feat(trunks): allow to enable/disable TOPOS for each trunk](https://github.com/nethesis/ns8-nethvoice/pull/341)** by *Stell0* - Reviewers: *Amygos, andrea-marchionni* - Created at: 2024-11-29T16:58:10Z
+-  :zzz: **[feat(trunks): allow to enable/disable TOPOS for each trunk](https://github.com/nethesis/ns8-nethvoice/pull/341)** by *Stell0* - Reviewers: *Amygos, andrea-marchionni* - Created at: 2024-11-29T16:58:10Z
 
 ### nethesis/ns8-nethvoice-proxy 1 
 
