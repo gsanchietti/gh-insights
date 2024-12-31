@@ -1,6 +1,6 @@
 +++
 title = 'Open Pull Requests'
-date = 2024-12-30
+date = 2024-12-31
 +++
 
 ## Organization: nethserver
@@ -27,8 +27,13 @@ date = 2024-12-30
 
 -   **[Add RAM availability to configuration and settings](https://github.com/NethServer/ns8-webtop/pull/101)** by *stephdl* - Reviewers: *Amygos, gsanchietti, lucagasparini* - Created at: 2024-12-23T10:11:43Z
 
-### NethServer/nethsecurity-ui 2 
+### NethServer/ns8-ejabberd 1 
 
+-   **[Set default_version for mod_http_api to 2](https://github.com/NethServer/ns8-ejabberd/pull/59)** by *stephdl* - Reviewers: *gsanchietti, DavidePrincipi* - Created at: 2024-12-30T11:40:20Z
+
+### NethServer/nethsecurity-ui 3 
+
+-   **[feat(netify): UI to manage the service](https://github.com/NethServer/nethsecurity-ui/pull/467)** by *stephdl* - Reviewers: *andre8244* - Created at: 2024-12-27T15:47:36Z
 -   **[fix(updates): gracefully handle error for updates](https://github.com/NethServer/nethsecurity-ui/pull/466)** by *Tbaile* - Reviewers: *andre8244* - Created at: 2024-12-23T15:30:14Z
 - :eyes:  **[chore(main): release 1.16.2](https://github.com/NethServer/nethsecurity-ui/pull/464)** by *gsanchietti* - Reviewers: *None* - Created at: 2024-12-13T11:48:47Z
 
