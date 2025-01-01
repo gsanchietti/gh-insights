@@ -1,6 +1,6 @@
 +++
 title = 'Open Pull Requests by Bots'
-date = 2024-12-31
+date = 2025-01-01
 +++
 
 ## Organization: nethserver
@@ -20,10 +20,9 @@ date = 2024-12-31
 - :eyes:  **[chore(deps): update bitnami/dokuwiki docker tag to v20240206.1.0-debian-12-r24](https://github.com/NethServer/ns8-dokuwiki/pull/34)** by *renovate[bot]* - Reviewers: *None* - Created at: 2024-12-20T15:37:52Z
 - :eyes:  **[Translations update from Hosted Weblate](https://github.com/NethServer/ns8-dokuwiki/pull/33)** by *weblate* - Reviewers: *None* - Created at: 2024-12-20T12:26:51Z
 
-### NethServer/ns8-mariadb 2 
+### NethServer/ns8-mariadb 1 
 
 - :eyes:  **[Translations update from Hosted Weblate](https://github.com/NethServer/ns8-mariadb/pull/45)** by *weblate* - Reviewers: *None* - Created at: 2024-12-20T11:49:35Z
--  :zzz: **[chore(deps): update mariadb docker tag to v10.11.10](https://github.com/NethServer/ns8-mariadb/pull/44)** by *renovate[bot]* - Reviewers: *stephdl* - Created at: 2024-11-15T04:24:55Z
 
 ### NethServer/ns8-webserver 2 
 
@@ -139,10 +138,6 @@ date = 2024-12-31
 ### NethServer/ns8-sogo 1 
 
 -  :zzz: **[Configure Renovate](https://github.com/NethServer/ns8-sogo/pull/16)** by *renovate[bot]* - Reviewers: *stephdl* - Created at: 2024-03-22T10:33:51Z
-
-### NethServer/ns8-postgresql 1 
-
--  :zzz: **[chore(deps): update dpage/pgadmin4 docker tag to v8.14](https://github.com/NethServer/ns8-postgresql/pull/22)** by *renovate[bot]* - Reviewers: *stephdl* - Created at: 2024-11-14T08:16:14Z
 
 ### NethServer/ns8-dnsmasq 1 
 

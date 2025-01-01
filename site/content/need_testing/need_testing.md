@@ -1,10 +1,11 @@
 +++
-title = 'Need testing (12)'
-date = 2024-12-31
+title = 'Need testing (13)'
+date = 2025-01-01
 +++
 
 ## NoMilestone
-- **[Crowdsec: upgrade to 1.6.4](https://github.com/NethServer/dev/issues/7236)** (#7118) by *stephdl* (Created: 2024-12-30, Updated: 2024-12-30T16:34:48Z)
+- **[Mariadb: upgrade to 10.11.10](https://github.com/NethServer/dev/issues/7237)** (#7118) by *stephdl* (Created: 2024-12-31, Updated: 2024-12-31T09:49:49Z)
+- **[Crowdsec: upgrade to 1.6.4](https://github.com/NethServer/dev/issues/7236)** (#7118) by *stephdl* (Created: 2024-12-30, Updated: 2024-12-31T09:46:41Z)
 - **[Webserver: upgrade dependencies(nginx sftpgo, php-fpm)](https://github.com/NethServer/dev/issues/7234)** (#7118) by *stephdl* (Created: 2024-12-30, Updated: 2024-12-30T15:10:13Z)
 - :point_right: **[Collabora: upgrade to 24.04.11.1.1](https://github.com/NethServer/dev/issues/7232)** (#7118) by *stephdl* (Created: 2024-12-23, Updated: 2024-12-23T09:25:42Z)
 - :point_right: **[Nextcloud: Upgrade to 29](https://github.com/NethServer/dev/issues/7225)** (#7118) by *stephdl* (Created: 2024-12-19, Updated: 2024-12-23T16:01:21Z)
