@@ -1,6 +1,6 @@
 +++
 title = 'Open Pull Requests'
-date = 2025-01-02
+date = 2025-01-03
 +++
 
 ## Organization: nethserver
@@ -14,8 +14,11 @@ date = 2025-01-02
 -   **[Add AD provider installation checks for cluster nodes and dashboard selection](https://github.com/NethServer/nethserver-ns8-migration/pull/109)** by *stephdl* - Reviewers: *DavidePrincipi* - Created at: 2024-12-24T11:13:17Z
 - :eyes:  **[Add installation checks for mail and ejabberd on nodes](https://github.com/NethServer/nethserver-ns8-migration/pull/102)** by *stephdl* - Reviewers: *None* - Created at: 2024-12-17T15:43:41Z
 
-### NethServer/nethsecurity 2 
+### NethServer/nethsecurity 5 
 
+-   **[ns-plug: avoid mwan3 alerts during restart](https://github.com/NethServer/nethsecurity/pull/994)** by *filippocarletti* - Reviewers: *gsanchietti* - Created at: 2025-01-02T18:00:30Z
+-   **[ns-plug: mwan3 hooks needs bash](https://github.com/NethServer/nethsecurity/pull/993)** by *filippocarletti* - Reviewers: *gsanchietti* - Created at: 2025-01-02T17:04:25Z
+-   **[mwan3: run user scripts in backgorund](https://github.com/NethServer/nethsecurity/pull/992)** by *filippocarletti* - Reviewers: *gsanchietti* - Created at: 2025-01-02T14:10:30Z
 -   **[fix(ns-api): gracefully handle error when checking for updates](https://github.com/NethServer/nethsecurity/pull/990)** by *Tbaile* - Reviewers: *gsanchietti* - Created at: 2024-12-23T13:24:33Z
 -   **[Controller: Handle empty HTTP response and add restart functionality for ns-plug service](https://github.com/NethServer/nethsecurity/pull/977)** by *stephdl* - Reviewers: *filippocarletti* - Created at: 2024-12-13T13:34:22Z
 
@@ -26,6 +29,10 @@ date = 2025-01-02
 ### NethServer/ns8-webtop 1 
 
 -   **[Add RAM availability to configuration and settings](https://github.com/NethServer/ns8-webtop/pull/101)** by *stephdl* - Reviewers: *Amygos, gsanchietti, lucagasparini* - Created at: 2024-12-23T10:11:43Z
+
+### NethServer/python3-nethsec 1 
+
+- :eyes:  **[feat(firewall): add is_zone function to check if a zone still exist](https://github.com/NethServer/python3-nethsec/pull/82)** by *stephdl* - Reviewers: *None* - Created at: 2025-01-02T12:10:06Z
 
 ### NethServer/ns8-ejabberd 1 
 
