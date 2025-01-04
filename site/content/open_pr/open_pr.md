@@ -1,6 +1,6 @@
 +++
 title = 'Open Pull Requests'
-date = 2025-01-03
+date = 2025-01-04
 +++
 
 ## Organization: nethserver
@@ -32,14 +32,15 @@ date = 2025-01-03
 
 ### NethServer/python3-nethsec 1 
 
-- :eyes:  **[feat(firewall): add is_zone function to check if a zone still exist](https://github.com/NethServer/python3-nethsec/pull/82)** by *stephdl* - Reviewers: *None* - Created at: 2025-01-02T12:10:06Z
+-   **[feat(firewall): add is_zone function to check if a zone still exist](https://github.com/NethServer/python3-nethsec/pull/82)** by *stephdl* - Reviewers: *gsanchietti* - Created at: 2025-01-02T12:10:06Z
 
 ### NethServer/ns8-ejabberd 1 
 
 -   **[Set default_version for mod_http_api to 2](https://github.com/NethServer/ns8-ejabberd/pull/59)** by *stephdl* - Reviewers: *gsanchietti, DavidePrincipi* - Created at: 2024-12-30T11:40:20Z
 
-### NethServer/nethsecurity-ui 3 
+### NethServer/nethsecurity-ui 4 
 
+-   **[feat(firewall rule): highlight rules on non-existent zones](https://github.com/NethServer/nethsecurity-ui/pull/468)** by *stephdl* - Reviewers: *andre8244* - Created at: 2025-01-03T10:37:50Z
 -   **[feat(netify): UI to manage the service](https://github.com/NethServer/nethsecurity-ui/pull/467)** by *stephdl* - Reviewers: *andre8244* - Created at: 2024-12-27T15:47:36Z
 -   **[fix(updates): gracefully handle error for updates](https://github.com/NethServer/nethsecurity-ui/pull/466)** by *Tbaile* - Reviewers: *andre8244* - Created at: 2024-12-23T15:30:14Z
 - :eyes:  **[chore(main): release 1.16.2](https://github.com/NethServer/nethsecurity-ui/pull/464)** by *gsanchietti* - Reviewers: *None* - Created at: 2024-12-13T11:48:47Z

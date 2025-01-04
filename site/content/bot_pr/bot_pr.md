@@ -1,6 +1,6 @@
 +++
 title = 'Open Pull Requests by Bots'
-date = 2025-01-03
+date = 2025-01-04
 +++
 
 ## Organization: nethserver
