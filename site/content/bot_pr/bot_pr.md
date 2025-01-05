@@ -1,6 +1,6 @@
 +++
 title = 'Open Pull Requests by Bots'
-date = 2025-01-04
+date = 2025-01-05
 +++
 
 ## Organization: nethserver
@@ -49,7 +49,7 @@ date = 2025-01-04
 - :eyes:  **[chore(deps): update dependency marketsquare/robotframework-browser to v19.1.2](https://github.com/NethServer/ns8-samba/pull/70)** by *renovate[bot]* - Reviewers: *None* - Created at: 2024-12-20T21:48:37Z
 - :eyes:  **[chore(deps): update dependency nethserver/ns8-user-manager to v1.0.2](https://github.com/NethServer/ns8-samba/pull/69)** by *renovate[bot]* - Reviewers: *None* - Created at: 2024-12-20T17:55:37Z
 - :eyes:  **[Translations update from Hosted Weblate](https://github.com/NethServer/ns8-samba/pull/68)** by *weblate* - Reviewers: *None* - Created at: 2024-12-20T12:26:30Z
--   **[chore(deps): update library/ubuntu docker tag to v24.10](https://github.com/NethServer/ns8-samba/pull/63)** by *renovate[bot]* - Reviewers: *DavidePrincipi* - Created at: 2024-12-05T08:13:37Z
+-  :zzz: **[chore(deps): update library/ubuntu docker tag to v24.10](https://github.com/NethServer/ns8-samba/pull/63)** by *renovate[bot]* - Reviewers: *DavidePrincipi* - Created at: 2024-12-05T08:13:37Z
 -  :zzz: **[chore(deps): update library/ubuntu docker tag to v25](https://github.com/NethServer/ns8-samba/pull/59)** by *renovate[bot]* - Reviewers: *DavidePrincipi* - Created at: 2024-11-16T07:19:59Z
 
 ### NethServer/ns8-loki 4 
@@ -93,7 +93,7 @@ date = 2025-01-04
 
 - :eyes:  **[chore(deps): update dependency marketsquare/robotframework-browser to v19.1.2](https://github.com/NethServer/ns8-mail/pull/154)** by *renovate[bot]* - Reviewers: *None* - Created at: 2024-12-20T22:20:00Z
 - :eyes:  **[Translations update from Hosted Weblate](https://github.com/NethServer/ns8-mail/pull/153)** by *weblate* - Reviewers: *None* - Created at: 2024-12-20T11:26:12Z
--   **[chore(deps): update alpine docker tag to v3.21.0](https://github.com/NethServer/ns8-mail/pull/149)** by *renovate[bot]* - Reviewers: *stephdl* - Created at: 2024-12-06T02:31:34Z
+-  :zzz: **[chore(deps): update alpine docker tag to v3.21.0](https://github.com/NethServer/ns8-mail/pull/149)** by *renovate[bot]* - Reviewers: *stephdl* - Created at: 2024-12-06T02:31:34Z
 
 ### NethServer/ns8-mattermost 5 
 
