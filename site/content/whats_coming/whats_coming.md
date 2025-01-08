@@ -2,9 +2,15 @@
 
 title = 'To be released soon'
 
-date = 2025-01-07
+date = 2025-01-08
 
 +++
+
+### NethServer
+
+- [Ejabberd: upgrade to 24.12](https://github.com/NethServer/dev/issues/7233) (#7060) by stephdl (Created: 2024-12-30T11:19:47Z, Updated: 2025-01-07T11:30:27Z)
+
+- [Dnsmasq - add DHCP config field for default gateway](https://github.com/NethServer/dev/issues/7208) (#7060) by nrauso (Created: 2024-12-11T09:07:41Z, Updated: 2025-01-07T09:09:53Z)
 
 ### NethVoice
 
@@ -16,7 +22,7 @@ date = 2025-01-07
 
 - [NethVoice CTI: transfer doesn't work using click to call in NethVoice CTI with  NethLink  as main device](https://github.com/NethServer/dev/issues/7060) (#7060) by edospadoni (Created: 2024-10-10T15:56:33Z, Updated: 2024-12-17T10:00:24Z)
 
-### NethServer
+### NethSecurity
 
-- [Dnsmasq - add DHCP config field for default gateway](https://github.com/NethServer/dev/issues/7208) (#7060) by nrauso (Created: 2024-12-11T09:07:41Z, Updated: 2024-12-20T17:01:19Z)
+- [Unit registration fails when specifying a unit name containing spaces](https://github.com/NethServer/nethsecurity/issues/952) (#952) by cotosso (Created: 2024-12-05T08:40:58Z, Updated: 2025-01-07T14:24:05Z)
 

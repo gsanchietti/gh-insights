@@ -1,6 +1,6 @@
 +++
 title = 'Open Pull Requests'
-date = 2025-01-07
+date = 2025-01-08
 +++
 
 ## Organization: nethserver
@@ -9,17 +9,17 @@ date = 2025-01-07
 
 - :eyes: :zzz: **[Add image analysis workflow with Trivy](https://github.com/NethServer/ns8-github-actions/pull/23)** by *Amygos* - Reviewers: *None* - Created at: 2024-11-20T10:46:48Z
 
-### NethServer/nethserver-ns8-migration 2 
+### NethServer/nethserver-ns8-migration 3 
 
--   **[Add AD provider installation checks for cluster nodes and dashboard selection](https://github.com/NethServer/nethserver-ns8-migration/pull/109)** by *stephdl* - Reviewers: *DavidePrincipi* - Created at: 2024-12-24T11:13:17Z
+- :eyes:  **[Add AD provider installation checks for cluster nodes and dashboard selection](https://github.com/NethServer/nethserver-ns8-migration/pull/109)** by *stephdl* - Reviewers: *None* - Created at: 2024-12-24T11:13:17Z
+- :eyes:  **[Lock UI during app installation/bind](https://github.com/NethServer/nethserver-ns8-migration/pull/105)** by *DavidePrincipi* - Reviewers: *None* - Created at: 2024-12-20T15:29:04Z
 - :eyes:  **[Add installation checks for mail and ejabberd on nodes](https://github.com/NethServer/nethserver-ns8-migration/pull/102)** by *stephdl* - Reviewers: *None* - Created at: 2024-12-17T15:43:41Z
 
-### NethServer/nethsecurity 5 
+### NethServer/nethsecurity 4 
 
--   **[ns-plug: avoid mwan3 alerts during restart](https://github.com/NethServer/nethsecurity/pull/994)** by *filippocarletti* - Reviewers: *gsanchietti* - Created at: 2025-01-02T18:00:30Z
--   **[ns-plug: mwan3 hooks needs bash](https://github.com/NethServer/nethsecurity/pull/993)** by *filippocarletti* - Reviewers: *gsanchietti* - Created at: 2025-01-02T17:04:25Z
--   **[mwan3: run user scripts in backgorund](https://github.com/NethServer/nethsecurity/pull/992)** by *filippocarletti* - Reviewers: *gsanchietti* - Created at: 2025-01-02T14:10:30Z
--   **[fix(ns-api): gracefully handle error when checking for updates](https://github.com/NethServer/nethsecurity/pull/990)** by *Tbaile* - Reviewers: *gsanchietti* - Created at: 2024-12-23T13:24:33Z
+-   **[ns-plug: avoid mwan3 alerts during restart](https://github.com/NethServer/nethsecurity/pull/994)** by *filippocarletti* - Reviewers: *Tbaile* - Created at: 2025-01-02T18:00:30Z
+- :eyes:  **[ns-plug: mwan3 hooks needs bash](https://github.com/NethServer/nethsecurity/pull/993)** by *filippocarletti* - Reviewers: *None* - Created at: 2025-01-02T17:04:25Z
+- :eyes:  **[mwan3: run user scripts in backgorund](https://github.com/NethServer/nethsecurity/pull/992)** by *filippocarletti* - Reviewers: *None* - Created at: 2025-01-02T14:10:30Z
 -   **[Controller: Handle empty HTTP response and add restart functionality for ns-plug service](https://github.com/NethServer/nethsecurity/pull/977)** by *stephdl* - Reviewers: *filippocarletti* - Created at: 2024-12-13T13:34:22Z
 
 ### NethServer/ns8-mail 1 
@@ -28,26 +28,20 @@ date = 2025-01-07
 
 ### NethServer/ns8-webtop 1 
 
--   **[Add RAM availability to configuration and settings](https://github.com/NethServer/ns8-webtop/pull/101)** by *stephdl* - Reviewers: *Amygos, gsanchietti, lucagasparini* - Created at: 2024-12-23T10:11:43Z
+-   **[Add RAM availability to configuration and settings](https://github.com/NethServer/ns8-webtop/pull/101)** by *stephdl* - Reviewers: *gsanchietti* - Created at: 2024-12-23T10:11:43Z
 
 ### NethServer/python3-nethsec 1 
 
--   **[feat(firewall): add is_zone function to check if a zone still exist](https://github.com/NethServer/python3-nethsec/pull/82)** by *stephdl* - Reviewers: *gsanchietti* - Created at: 2025-01-02T12:10:06Z
+-   **[feat(firewall): fix is_zone function to check if a zone still exist](https://github.com/NethServer/python3-nethsec/pull/84)** by *stephdl* - Reviewers: *gsanchietti* - Created at: 2025-01-07T18:02:30Z
 
-### NethServer/ns8-ejabberd 1 
+### NethServer/nethsecurity-ui 2 
 
--   **[Set default_version for mod_http_api to 2](https://github.com/NethServer/ns8-ejabberd/pull/59)** by *stephdl* - Reviewers: *gsanchietti, DavidePrincipi* - Created at: 2024-12-30T11:40:20Z
-
-### NethServer/nethsecurity-ui 4 
-
--   **[feat(firewall rule): highlight rules on non-existent zones](https://github.com/NethServer/nethsecurity-ui/pull/468)** by *stephdl* - Reviewers: *andre8244* - Created at: 2025-01-03T10:37:50Z
--   **[feat(netify): UI to manage the service](https://github.com/NethServer/nethsecurity-ui/pull/467)** by *stephdl* - Reviewers: *andre8244* - Created at: 2024-12-27T15:47:36Z
--   **[fix(updates): gracefully handle error for updates](https://github.com/NethServer/nethsecurity-ui/pull/466)** by *Tbaile* - Reviewers: *andre8244* - Created at: 2024-12-23T15:30:14Z
-- :eyes:  **[chore(main): release 1.16.2](https://github.com/NethServer/nethsecurity-ui/pull/464)** by *gsanchietti* - Reviewers: *None* - Created at: 2024-12-13T11:48:47Z
+- :eyes:  **[feat(firewall rule): highlight rules on non-existent zones](https://github.com/NethServer/nethsecurity-ui/pull/468)** by *stephdl* - Reviewers: *None* - Created at: 2025-01-03T10:37:50Z
+- :eyes:  **[feat: added netify interface](https://github.com/NethServer/nethsecurity-ui/pull/467)** by *stephdl* - Reviewers: *None* - Created at: 2024-12-27T15:47:36Z
 
 ### NethServer/ns8-dnsmasq 1 
 
--   **[fix: removing global addresses from interface selection](https://github.com/NethServer/ns8-dnsmasq/pull/24)** by *Tbaile* - Reviewers: *DavidePrincipi* - Created at: 2024-12-20T11:26:22Z
+- :eyes:  **[fix: removing global addresses from interface selection](https://github.com/NethServer/ns8-dnsmasq/pull/24)** by *Tbaile* - Reviewers: *None* - Created at: 2024-12-20T11:26:22Z
 
 ### NethServer/nethlink 1 
 

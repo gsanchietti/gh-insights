@@ -1,6 +1,6 @@
 +++
 title = 'Open Pull Requests by Bots'
-date = 2025-01-07
+date = 2025-01-08
 +++
 
 ## Organization: nethserver
@@ -67,7 +67,7 @@ date = 2025-01-07
 
 - :eyes:  **[chore(deps): update dependency marketsquare/robotframework-browser to v19.1.2](https://github.com/NethServer/ns8-openldap/pull/49)** by *renovate[bot]* - Reviewers: *None* - Created at: 2024-12-20T21:22:21Z
 - :eyes:  **[chore(deps): update dependency nethserver/ns8-user-manager to v1.0.2](https://github.com/NethServer/ns8-openldap/pull/48)** by *renovate[bot]* - Reviewers: *None* - Created at: 2024-12-20T18:21:25Z
-- :eyes: :zzz: **[chore(deps): update alpine docker tag to v3.21.0](https://github.com/NethServer/ns8-openldap/pull/34)** by *renovate[bot]* - Reviewers: *None* - Created at: 2024-01-27T01:35:10Z
+- :eyes: :zzz: **[chore(deps): update alpine docker tag to v3.21.1](https://github.com/NethServer/ns8-openldap/pull/34)** by *renovate[bot]* - Reviewers: *None* - Created at: 2024-01-27T01:35:10Z
 
 ### NethServer/ns8-node_exporter 3 
 
@@ -75,19 +75,22 @@ date = 2025-01-07
 - :eyes:  **[chore(deps): update node.js to v18.20.5](https://github.com/NethServer/ns8-node_exporter/pull/12)** by *renovate[bot]* - Reviewers: *None* - Created at: 2024-12-20T15:10:15Z
 - :eyes:  **[Translations update from Hosted Weblate](https://github.com/NethServer/ns8-node_exporter/pull/11)** by *weblate* - Reviewers: *None* - Created at: 2024-12-20T11:49:16Z
 
-### NethServer/ns8-prometheus 6 
+### NethServer/ns8-prometheus 1 
 
-- :eyes:  **[chore(deps): update quay.io/prometheus/prometheus docker tag to v3](https://github.com/NethServer/ns8-prometheus/pull/20)** by *renovate[bot]* - Reviewers: *None* - Created at: 2024-12-22T11:44:25Z
-- :eyes:  **[chore(deps): update ghcr.io/marketsquare/robotframework-browser/rfbrowser-stable docker tag to v19](https://github.com/NethServer/ns8-prometheus/pull/19)** by *renovate[bot]* - Reviewers: *None* - Created at: 2024-12-21T23:42:38Z
-- :eyes:  **[chore(deps): update quay.io/prometheus/prometheus docker tag to v2.55.1](https://github.com/NethServer/ns8-prometheus/pull/18)** by *renovate[bot]* - Reviewers: *None* - Created at: 2024-12-21T23:42:35Z
-- :eyes:  **[chore(deps): update node.js to v18.20.5](https://github.com/NethServer/ns8-prometheus/pull/17)** by *renovate[bot]* - Reviewers: *None* - Created at: 2024-12-20T15:41:27Z
-- :eyes:  **[chore(deps): update ghcr.io/marketsquare/robotframework-browser/rfbrowser-stable docker tag to v10.1.0](https://github.com/NethServer/ns8-prometheus/pull/16)** by *renovate[bot]* - Reviewers: *None* - Created at: 2024-12-20T15:41:17Z
-- :eyes:  **[Translations update from Hosted Weblate](https://github.com/NethServer/ns8-prometheus/pull/15)** by *weblate* - Reviewers: *None* - Created at: 2024-12-20T11:25:34Z
+-   **[chore(deps): update quay.io/prometheus/prometheus docker tag to v3](https://github.com/NethServer/ns8-prometheus/pull/20)** by *renovate[bot]* - Reviewers: *stephdl* - Created at: 2024-12-22T11:44:25Z
 
 ### NethServer/ns8-grafana 2 
 
 - :eyes:  **[chore(deps): update ghcr.io/marketsquare/robotframework-browser/rfbrowser-stable docker tag to v19.1.2](https://github.com/NethServer/ns8-grafana/pull/26)** by *renovate[bot]* - Reviewers: *None* - Created at: 2024-12-20T22:05:46Z
 - :eyes:  **[Translations update from Hosted Weblate](https://github.com/NethServer/ns8-grafana/pull/25)** by *weblate* - Reviewers: *None* - Created at: 2024-12-19T17:40:06Z
+
+### NethServer/nethsecurity 1 
+
+- :eyes:  **[build(deps): Update ns-ui package (automated)](https://github.com/NethServer/nethsecurity/pull/1003)** by *github-actions[bot]* - Reviewers: *None* - Created at: 2025-01-07T16:48:08Z
+
+### NethServer/nethsecurity-controller 1 
+
+- :eyes:  **[build(deps): Update ns-ui package (automated)](https://github.com/NethServer/nethsecurity-controller/pull/55)** by *github-actions[bot]* - Reviewers: *None* - Created at: 2025-01-08T01:11:55Z
 
 ### NethServer/ns8-mail 3 
 
