@@ -1,6 +1,6 @@
 +++
 title = 'Open Pull Requests'
-date = 2025-01-08
+date = 2025-01-09
 +++
 
 ## Organization: nethserver
@@ -9,11 +9,9 @@ date = 2025-01-08
 
 - :eyes: :zzz: **[Add image analysis workflow with Trivy](https://github.com/NethServer/ns8-github-actions/pull/23)** by *Amygos* - Reviewers: *None* - Created at: 2024-11-20T10:46:48Z
 
-### NethServer/nethserver-ns8-migration 3 
+### NethServer/nethserver-ns8-migration 1 
 
 - :eyes:  **[Add AD provider installation checks for cluster nodes and dashboard selection](https://github.com/NethServer/nethserver-ns8-migration/pull/109)** by *stephdl* - Reviewers: *None* - Created at: 2024-12-24T11:13:17Z
-- :eyes:  **[Lock UI during app installation/bind](https://github.com/NethServer/nethserver-ns8-migration/pull/105)** by *DavidePrincipi* - Reviewers: *None* - Created at: 2024-12-20T15:29:04Z
-- :eyes:  **[Add installation checks for mail and ejabberd on nodes](https://github.com/NethServer/nethserver-ns8-migration/pull/102)** by *stephdl* - Reviewers: *None* - Created at: 2024-12-17T15:43:41Z
 
 ### NethServer/nethsecurity 4 
 
@@ -26,18 +24,17 @@ date = 2025-01-08
 
 - :eyes:  **[Document Rspamd Bayesian filter bulk training](https://github.com/NethServer/ns8-mail/pull/152)** by *DavidePrincipi* - Reviewers: *None* - Created at: 2024-12-10T09:33:24Z
 
-### NethServer/ns8-webtop 1 
+### NethServer/ns8-docs 1 
 
--   **[Add RAM availability to configuration and settings](https://github.com/NethServer/ns8-webtop/pull/101)** by *stephdl* - Reviewers: *gsanchietti* - Created at: 2024-12-23T10:11:43Z
+-   **[Update Netdata retention information for v2](https://github.com/NethServer/ns8-docs/pull/137)** by *DavidePrincipi* - Reviewers: *nrauso* - Created at: 2025-01-08T16:59:16Z
 
-### NethServer/python3-nethsec 1 
+### NethServer/nethsecurity-ui 1 
 
--   **[feat(firewall): fix is_zone function to check if a zone still exist](https://github.com/NethServer/python3-nethsec/pull/84)** by *stephdl* - Reviewers: *gsanchietti* - Created at: 2025-01-07T18:02:30Z
+-   **[fix(rules): correctly set action color](https://github.com/NethServer/nethsecurity-ui/pull/477)** by *gsanchietti* - Reviewers: *andre8244* - Created at: 2025-01-08T17:16:00Z
 
-### NethServer/nethsecurity-ui 2 
+### NethServer/nethsecurity-docs 1 
 
-- :eyes:  **[feat(firewall rule): highlight rules on non-existent zones](https://github.com/NethServer/nethsecurity-ui/pull/468)** by *stephdl* - Reviewers: *None* - Created at: 2025-01-03T10:37:50Z
-- :eyes:  **[feat: added netify interface](https://github.com/NethServer/nethsecurity-ui/pull/467)** by *stephdl* - Reviewers: *None* - Created at: 2024-12-27T15:47:36Z
+-   **[Netify informatics UI](https://github.com/NethServer/nethsecurity-docs/pull/147)** by *gsanchietti* - Reviewers: *cotosso* - Created at: 2025-01-08T14:15:12Z
 
 ### NethServer/ns8-dnsmasq 1 
 
@@ -61,10 +58,9 @@ date = 2025-01-08
 
 -   **[Fix problem with - in name agent](https://github.com/nethesis/nethvoice-report/pull/201)** by *andrea-marchionni* - Reviewers: *Stell0* - Created at: 2024-12-18T15:59:27Z
 
-### nethesis/ns8-nethvoice 2 
+### nethesis/ns8-nethvoice 1 
 
 - :eyes:  **[fix(proxy): prevent adding proxy to trunk identity0 for TIM](https://github.com/nethesis/ns8-nethvoice/pull/354)** by *Stell0* - Reviewers: *None* - Created at: 2024-12-20T09:43:27Z
--  :zzz: **[feat(trunks): allow to enable/disable TOPOS for each trunk](https://github.com/nethesis/ns8-nethvoice/pull/341)** by *Stell0* - Reviewers: *Amygos, andrea-marchionni* - Created at: 2024-11-29T16:58:10Z
 
 ### nethesis/ns8-nethvoice-proxy 1 
 
