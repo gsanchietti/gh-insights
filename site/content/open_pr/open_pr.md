@@ -1,6 +1,6 @@
 +++
 title = 'Open Pull Requests'
-date = 2025-01-09
+date = 2025-01-10
 +++
 
 ## Organization: nethserver
@@ -9,12 +9,10 @@ date = 2025-01-09
 
 - :eyes: :zzz: **[Add image analysis workflow with Trivy](https://github.com/NethServer/ns8-github-actions/pull/23)** by *Amygos* - Reviewers: *None* - Created at: 2024-11-20T10:46:48Z
 
-### NethServer/nethserver-ns8-migration 1 
+### NethServer/nethsecurity 6 
 
-- :eyes:  **[Add AD provider installation checks for cluster nodes and dashboard selection](https://github.com/NethServer/nethserver-ns8-migration/pull/109)** by *stephdl* - Reviewers: *None* - Created at: 2024-12-24T11:13:17Z
-
-### NethServer/nethsecurity 4 
-
+-   **[feat(snort): adding API for UI](https://github.com/NethServer/nethsecurity/pull/1011)** by *Tbaile* - Reviewers: *gsanchietti* - Created at: 2025-01-09T14:09:24Z
+- :eyes:  **[fix(ns-api): fix dns-list-settings](https://github.com/NethServer/nethsecurity/pull/1008)** by *andre8244* - Reviewers: *None* - Created at: 2025-01-09T09:02:16Z
 -   **[ns-plug: avoid mwan3 alerts during restart](https://github.com/NethServer/nethsecurity/pull/994)** by *filippocarletti* - Reviewers: *Tbaile* - Created at: 2025-01-02T18:00:30Z
 - :eyes:  **[ns-plug: mwan3 hooks needs bash](https://github.com/NethServer/nethsecurity/pull/993)** by *filippocarletti* - Reviewers: *None* - Created at: 2025-01-02T17:04:25Z
 - :eyes:  **[mwan3: run user scripts in backgorund](https://github.com/NethServer/nethsecurity/pull/992)** by *filippocarletti* - Reviewers: *None* - Created at: 2025-01-02T14:10:30Z
@@ -22,23 +20,11 @@ date = 2025-01-09
 
 ### NethServer/ns8-mail 1 
 
-- :eyes:  **[Document Rspamd Bayesian filter bulk training](https://github.com/NethServer/ns8-mail/pull/152)** by *DavidePrincipi* - Reviewers: *None* - Created at: 2024-12-10T09:33:24Z
-
-### NethServer/ns8-docs 1 
-
--   **[Update Netdata retention information for v2](https://github.com/NethServer/ns8-docs/pull/137)** by *DavidePrincipi* - Reviewers: *nrauso* - Created at: 2025-01-08T16:59:16Z
-
-### NethServer/nethsecurity-ui 1 
-
--   **[fix(rules): correctly set action color](https://github.com/NethServer/nethsecurity-ui/pull/477)** by *gsanchietti* - Reviewers: *andre8244* - Created at: 2025-01-08T17:16:00Z
+- :eyes: :zzz: **[Document Rspamd Bayesian filter bulk training](https://github.com/NethServer/ns8-mail/pull/152)** by *DavidePrincipi* - Reviewers: *None* - Created at: 2024-12-10T09:33:24Z
 
 ### NethServer/nethsecurity-docs 1 
 
 -   **[Netify informatics UI](https://github.com/NethServer/nethsecurity-docs/pull/147)** by *gsanchietti* - Reviewers: *cotosso* - Created at: 2025-01-08T14:15:12Z
-
-### NethServer/ns8-dnsmasq 1 
-
-- :eyes:  **[fix: removing global addresses from interface selection](https://github.com/NethServer/ns8-dnsmasq/pull/24)** by *Tbaile* - Reviewers: *None* - Created at: 2024-12-20T11:26:22Z
 
 ### NethServer/nethlink 1 
 
@@ -61,6 +47,10 @@ date = 2025-01-09
 ### nethesis/ns8-nethvoice 1 
 
 - :eyes:  **[fix(proxy): prevent adding proxy to trunk identity0 for TIM](https://github.com/nethesis/ns8-nethvoice/pull/354)** by *Stell0* - Reviewers: *None* - Created at: 2024-12-20T09:43:27Z
+
+### nethesis/nethvoice-cti 1 
+
+-   **[fix: wrong device selection inside topBar](https://github.com/nethesis/nethvoice-cti/pull/277)** by *tonyco97* - Reviewers: *edospadoni* - Created at: 2025-01-09T10:31:08Z
 
 ### nethesis/ns8-nethvoice-proxy 1 
 
