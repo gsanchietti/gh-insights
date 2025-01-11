@@ -1,6 +1,6 @@
 +++
 title = 'Open Pull Requests'
-date = 2025-01-10
+date = 2025-01-11
 +++
 
 ## Organization: nethserver
@@ -9,18 +9,21 @@ date = 2025-01-10
 
 - :eyes: :zzz: **[Add image analysis workflow with Trivy](https://github.com/NethServer/ns8-github-actions/pull/23)** by *Amygos* - Reviewers: *None* - Created at: 2024-11-20T10:46:48Z
 
-### NethServer/nethsecurity 6 
+### NethServer/nethsecurity 4 
 
--   **[feat(snort): adding API for UI](https://github.com/NethServer/nethsecurity/pull/1011)** by *Tbaile* - Reviewers: *gsanchietti* - Created at: 2025-01-09T14:09:24Z
-- :eyes:  **[fix(ns-api): fix dns-list-settings](https://github.com/NethServer/nethsecurity/pull/1008)** by *andre8244* - Reviewers: *None* - Created at: 2025-01-09T09:02:16Z
+-   **[feat(snort): adding API for UI](https://github.com/NethServer/nethsecurity/pull/1011)** by *Tbaile* - Reviewers: *filippocarletti, gsanchietti* - Created at: 2025-01-09T14:09:24Z
 -   **[ns-plug: avoid mwan3 alerts during restart](https://github.com/NethServer/nethsecurity/pull/994)** by *filippocarletti* - Reviewers: *Tbaile* - Created at: 2025-01-02T18:00:30Z
 - :eyes:  **[ns-plug: mwan3 hooks needs bash](https://github.com/NethServer/nethsecurity/pull/993)** by *filippocarletti* - Reviewers: *None* - Created at: 2025-01-02T17:04:25Z
 - :eyes:  **[mwan3: run user scripts in backgorund](https://github.com/NethServer/nethsecurity/pull/992)** by *filippocarletti* - Reviewers: *None* - Created at: 2025-01-02T14:10:30Z
--   **[Controller: Handle empty HTTP response and add restart functionality for ns-plug service](https://github.com/NethServer/nethsecurity/pull/977)** by *stephdl* - Reviewers: *filippocarletti* - Created at: 2024-12-13T13:34:22Z
 
-### NethServer/ns8-mail 1 
+### NethServer/ns8-mail 2 
 
+-   **[Override default_process_limit](https://github.com/NethServer/ns8-mail/pull/155)** by *DavidePrincipi* - Reviewers: *stephdl* - Created at: 2025-01-09T16:19:20Z
 - :eyes: :zzz: **[Document Rspamd Bayesian filter bulk training](https://github.com/NethServer/ns8-mail/pull/152)** by *DavidePrincipi* - Reviewers: *None* - Created at: 2024-12-10T09:33:24Z
+
+### NethServer/nethsecurity-ui 1 
+
+- :eyes:  **[Port forward: Add tooltip for inactive port forwards and translations](https://github.com/NethServer/nethsecurity-ui/pull/482)** by *stephdl* - Reviewers: *None* - Created at: 2025-01-10T16:48:15Z
 
 ### NethServer/nethsecurity-docs 1 
 
