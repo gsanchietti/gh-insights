@@ -1,6 +1,6 @@
 +++
 title = 'Open Pull Requests by Bots'
-date = 2025-01-11
+date = 2025-01-12
 +++
 
 ## Organization: nethserver
@@ -163,7 +163,7 @@ date = 2025-01-11
 
 ### nethesis/dartagnan 1 
 
-- :eyes:  **[Bump golang.org/x/crypto from 0.23.0 to 0.31.0 in /athos](https://github.com/nethesis/dartagnan/pull/34)** by *dependabot[bot]* - Reviewers: *None* - Created at: 2024-12-12T07:57:07Z
+- :eyes: :zzz: **[Bump golang.org/x/crypto from 0.23.0 to 0.31.0 in /athos](https://github.com/nethesis/dartagnan/pull/34)** by *dependabot[bot]* - Reviewers: *None* - Created at: 2024-12-12T07:57:07Z
 
 ### nethesis/contatta 1 
 

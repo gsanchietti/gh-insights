@@ -1,6 +1,6 @@
 +++
 title = 'Open Pull Requests'
-date = 2025-01-11
+date = 2025-01-12
 +++
 
 ## Organization: nethserver
@@ -31,7 +31,7 @@ date = 2025-01-11
 
 ### NethServer/nethlink 1 
 
-- :eyes:  **[feat(click2call): added new event to handle physical phones](https://github.com/NethServer/nethlink/pull/41)** by *therockerline* - Reviewers: *None* - Created at: 2024-12-12T19:00:16Z
+- :eyes: :zzz: **[feat(click2call): added new event to handle physical phones](https://github.com/NethServer/nethlink/pull/41)** by *therockerline* - Reviewers: *None* - Created at: 2024-12-12T19:00:16Z
 
 ## Organization: nethesis
 
