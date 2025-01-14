@@ -2,15 +2,15 @@
 
 title = 'To be released soon'
 
-date = 2025-01-13
+date = 2025-01-14
 
 +++
 
 ### NethServer
 
-- [Crowdsec: upgrade to 1.6.4](https://github.com/NethServer/dev/issues/7236) (#7060) by stephdl (Created: 2024-12-30T16:10:28Z, Updated: 2025-01-10T17:27:50Z)
+- [Increase default process limit in dovecot](https://github.com/NethServer/dev/issues/7244) (#7060) by lucagasparini (Created: 2025-01-10T08:27:35Z, Updated: 2025-01-13T15:55:36Z)
 
-- [Nextcloud: Upgrade to 29](https://github.com/NethServer/dev/issues/7225) (#7060) by stephdl (Created: 2024-12-19T09:47:23Z, Updated: 2025-01-10T13:43:04Z)
+- [Migration: prevent app migration to nodes with allocated ports](https://github.com/NethServer/dev/issues/7226) (#7060) by stephdl (Created: 2024-12-19T14:20:20Z, Updated: 2025-01-13T18:30:44Z)
 
 ### NethVoice
 

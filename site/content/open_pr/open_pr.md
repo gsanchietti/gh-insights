@@ -1,33 +1,33 @@
 +++
 title = 'Open Pull Requests'
-date = 2025-01-13
+date = 2025-01-14
 +++
 
 ## Organization: nethserver
+
+### NethServer/ns8-core 1 
+
+-   **[Define HOME_BASEDIR node variable](https://github.com/NethServer/ns8-core/pull/772)** by *DavidePrincipi* - Reviewers: *Amygos, gsanchietti* - Created at: 2024-12-16T15:45:14Z
 
 ### NethServer/ns8-github-actions 1 
 
 - :eyes: :zzz: **[Add image analysis workflow with Trivy](https://github.com/NethServer/ns8-github-actions/pull/23)** by *Amygos* - Reviewers: *None* - Created at: 2024-11-20T10:46:48Z
 
-### NethServer/nethsecurity 4 
+### NethServer/nethsecurity 1 
 
--   **[feat(snort): adding API for UI](https://github.com/NethServer/nethsecurity/pull/1011)** by *Tbaile* - Reviewers: *filippocarletti, gsanchietti* - Created at: 2025-01-09T14:09:24Z
--   **[ns-plug: avoid mwan3 alerts during restart](https://github.com/NethServer/nethsecurity/pull/994)** by *filippocarletti* - Reviewers: *Tbaile* - Created at: 2025-01-02T18:00:30Z
-- :eyes:  **[ns-plug: mwan3 hooks needs bash](https://github.com/NethServer/nethsecurity/pull/993)** by *filippocarletti* - Reviewers: *None* - Created at: 2025-01-02T17:04:25Z
-- :eyes:  **[mwan3: run user scripts in backgorund](https://github.com/NethServer/nethsecurity/pull/992)** by *filippocarletti* - Reviewers: *None* - Created at: 2025-01-02T14:10:30Z
+- :eyes:  **[ns-plug: avoid mwan3 alerts during restart](https://github.com/NethServer/nethsecurity/pull/994)** by *filippocarletti* - Reviewers: *None* - Created at: 2025-01-02T18:00:30Z
 
-### NethServer/ns8-mail 2 
+### NethServer/python3-nethsec 1 
 
--   **[Override default_process_limit](https://github.com/NethServer/ns8-mail/pull/155)** by *DavidePrincipi* - Reviewers: *stephdl* - Created at: 2025-01-09T16:19:20Z
-- :eyes: :zzz: **[Document Rspamd Bayesian filter bulk training](https://github.com/NethServer/ns8-mail/pull/152)** by *DavidePrincipi* - Reviewers: *None* - Created at: 2024-12-10T09:33:24Z
+- :eyes:  **[Feat(Inventory): check backup passphrase existence and date](https://github.com/NethServer/python3-nethsec/pull/86)** by *stephdl* - Reviewers: *None* - Created at: 2025-01-13T16:39:15Z
 
 ### NethServer/nethsecurity-ui 1 
 
-- :eyes:  **[Port forward: Add tooltip for inactive port forwards and translations](https://github.com/NethServer/nethsecurity-ui/pull/482)** by *stephdl* - Reviewers: *None* - Created at: 2025-01-10T16:48:15Z
+- :eyes:  **[fix(port forward): adding tooltip for disabled port forwards](https://github.com/NethServer/nethsecurity-ui/pull/482)** by *stephdl* - Reviewers: *None* - Created at: 2025-01-10T16:48:15Z
 
 ### NethServer/nethsecurity-docs 1 
 
--   **[Netify informatics UI](https://github.com/NethServer/nethsecurity-docs/pull/147)** by *gsanchietti* - Reviewers: *cotosso* - Created at: 2025-01-08T14:15:12Z
+-   **[Netify informatics UI](https://github.com/NethServer/nethsecurity-docs/pull/147)** by *gsanchietti* - Reviewers: *filippocarletti, cotosso* - Created at: 2025-01-08T14:15:12Z
 
 ### NethServer/nethlink 1 
 
@@ -50,10 +50,6 @@ date = 2025-01-13
 ### nethesis/ns8-nethvoice 1 
 
 - :eyes:  **[fix(proxy): prevent adding proxy to trunk identity0 for TIM](https://github.com/nethesis/ns8-nethvoice/pull/354)** by *Stell0* - Reviewers: *None* - Created at: 2024-12-20T09:43:27Z
-
-### nethesis/nethvoice-cti 1 
-
--   **[fix: wrong device selection inside topBar](https://github.com/nethesis/nethvoice-cti/pull/277)** by *tonyco97* - Reviewers: *edospadoni* - Created at: 2025-01-09T10:31:08Z
 
 ### nethesis/ns8-nethvoice-proxy 1 
 
