@@ -1,6 +1,6 @@
 +++
 title = 'Open Pull Requests'
-date = 2025-01-14
+date = 2025-01-15
 +++
 
 ## Organization: nethserver
@@ -13,17 +13,21 @@ date = 2025-01-14
 
 - :eyes: :zzz: **[Add image analysis workflow with Trivy](https://github.com/NethServer/ns8-github-actions/pull/23)** by *Amygos* - Reviewers: *None* - Created at: 2024-11-20T10:46:48Z
 
-### NethServer/nethsecurity 1 
+### NethServer/nethsecurity 3 
 
+- :eyes:  **[fix(core): disable failsafe](https://github.com/NethServer/nethsecurity/pull/1021)** by *filippocarletti* - Reviewers: *None* - Created at: 2025-01-14T14:21:40Z
+- :eyes:  **[feat(ips): added bypass APIs](https://github.com/NethServer/nethsecurity/pull/1020)** by *Tbaile* - Reviewers: *None* - Created at: 2025-01-14T11:56:45Z
 - :eyes:  **[ns-plug: avoid mwan3 alerts during restart](https://github.com/NethServer/nethsecurity/pull/994)** by *filippocarletti* - Reviewers: *None* - Created at: 2025-01-02T18:00:30Z
 
-### NethServer/python3-nethsec 1 
+### NethServer/python3-nethsec 2 
 
-- :eyes:  **[Feat(Inventory): check backup passphrase existence and date](https://github.com/NethServer/python3-nethsec/pull/86)** by *stephdl* - Reviewers: *None* - Created at: 2025-01-13T16:39:15Z
+- :eyes:  **[feat(inventory): track new Snort, WireGuard and MAC binding features](https://github.com/NethServer/python3-nethsec/pull/87)** by *stephdl* - Reviewers: *None* - Created at: 2025-01-14T11:01:31Z
+- :eyes:  **[feat(inventory): check backup passphrase existence and date](https://github.com/NethServer/python3-nethsec/pull/86)** by *stephdl* - Reviewers: *None* - Created at: 2025-01-13T16:39:15Z
 
-### NethServer/nethsecurity-ui 1 
+### NethServer/nethsecurity-ui 2 
 
-- :eyes:  **[fix(port forward): adding tooltip for disabled port forwards](https://github.com/NethServer/nethsecurity-ui/pull/482)** by *stephdl* - Reviewers: *None* - Created at: 2025-01-10T16:48:15Z
+- :eyes:  **[feat(ips): added bypass view](https://github.com/NethServer/nethsecurity-ui/pull/484)** by *Tbaile* - Reviewers: *None* - Created at: 2025-01-14T10:33:13Z
+- :eyes:  **[chore(main): release 1.17.4](https://github.com/NethServer/nethsecurity-ui/pull/483)** by *gsanchietti* - Reviewers: *None* - Created at: 2025-01-14T08:26:42Z
 
 ### NethServer/nethsecurity-docs 1 
 
@@ -47,8 +51,10 @@ date = 2025-01-14
 
 -   **[Fix problem with - in name agent](https://github.com/nethesis/nethvoice-report/pull/201)** by *andrea-marchionni* - Reviewers: *Stell0* - Created at: 2024-12-18T15:59:27Z
 
-### nethesis/ns8-nethvoice 1 
+### nethesis/ns8-nethvoice 3 
 
+- :eyes:  **[feature(FreePBX): Allow to install custom modules](https://github.com/nethesis/ns8-nethvoice/pull/359)** by *Stell0* - Reviewers: *None* - Created at: 2025-01-14T16:11:22Z
+- :eyes:  **[feat(provisioning): Update Nethesis NP X5 phone firmware](https://github.com/nethesis/ns8-nethvoice/pull/358)** by *Stell0* - Reviewers: *None* - Created at: 2025-01-14T14:24:02Z
 - :eyes:  **[fix(proxy): prevent adding proxy to trunk identity0 for TIM](https://github.com/nethesis/ns8-nethvoice/pull/354)** by *Stell0* - Reviewers: *None* - Created at: 2024-12-20T09:43:27Z
 
 ### nethesis/ns8-nethvoice-proxy 1 

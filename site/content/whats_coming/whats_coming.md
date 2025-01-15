@@ -2,13 +2,15 @@
 
 title = 'To be released soon'
 
-date = 2025-01-14
+date = 2025-01-15
 
 +++
 
 ### NethServer
 
 - [Increase default process limit in dovecot](https://github.com/NethServer/dev/issues/7244) (#7060) by lucagasparini (Created: 2025-01-10T08:27:35Z, Updated: 2025-01-13T15:55:36Z)
+
+- [Browser page refresh leads to Start migration button again](https://github.com/NethServer/dev/issues/7239) (#7060) by DavidePrincipi (Created: 2025-01-07T15:31:38Z, Updated: 2025-01-14T16:20:38Z)
 
 - [Migration: prevent app migration to nodes with allocated ports](https://github.com/NethServer/dev/issues/7226) (#7060) by stephdl (Created: 2024-12-19T14:20:20Z, Updated: 2025-01-13T18:30:44Z)
 
