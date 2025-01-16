@@ -1,6 +1,6 @@
 +++
 title = 'Open Pull Requests by Bots'
-date = 2025-01-15
+date = 2025-01-16
 +++
 
 ## Organization: nethserver
@@ -69,10 +69,6 @@ date = 2025-01-15
 - :eyes:  **[chore(deps): update quay.io/prometheus/node-exporter docker tag to v1.8.2](https://github.com/NethServer/ns8-node_exporter/pull/13)** by *renovate[bot]* - Reviewers: *None* - Created at: 2024-12-20T15:10:18Z
 - :eyes:  **[chore(deps): update node.js to v18.20.5](https://github.com/NethServer/ns8-node_exporter/pull/12)** by *renovate[bot]* - Reviewers: *None* - Created at: 2024-12-20T15:10:15Z
 - :eyes:  **[Translations update from Hosted Weblate](https://github.com/NethServer/ns8-node_exporter/pull/11)** by *weblate* - Reviewers: *None* - Created at: 2024-12-20T11:49:16Z
-
-### NethServer/ns8-prometheus 1 
-
--   **[chore(deps): update quay.io/prometheus/prometheus docker tag to v3](https://github.com/NethServer/ns8-prometheus/pull/20)** by *renovate[bot]* - Reviewers: *stephdl* - Created at: 2024-12-22T11:44:25Z
 
 ### NethServer/ns8-grafana 2 
 
@@ -154,9 +150,5 @@ date = 2025-01-15
 ### nethesis/ns8-nethvoice 1 
 
 - :eyes:  **[Translations update from Hosted Weblate](https://github.com/nethesis/ns8-nethvoice/pull/356)** by *weblate* - Reviewers: *None* - Created at: 2024-12-21T14:51:45Z
-
-### nethesis/nethvoice-cti 1 
-
-- :eyes:  **[build(deps): Update phone-island dependency (automated)](https://github.com/nethesis/nethvoice-cti/pull/280)** by *github-actions[bot]* - Reviewers: *None* - Created at: 2025-01-15T00:17:30Z
 
 

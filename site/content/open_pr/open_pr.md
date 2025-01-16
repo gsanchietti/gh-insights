@@ -1,41 +1,44 @@
 +++
 title = 'Open Pull Requests'
-date = 2025-01-15
+date = 2025-01-16
 +++
 
 ## Organization: nethserver
 
 ### NethServer/ns8-core 1 
 
--   **[Define HOME_BASEDIR node variable](https://github.com/NethServer/ns8-core/pull/772)** by *DavidePrincipi* - Reviewers: *Amygos, gsanchietti* - Created at: 2024-12-16T15:45:14Z
+-  :zzz: **[Define HOME_BASEDIR node variable](https://github.com/NethServer/ns8-core/pull/772)** by *DavidePrincipi* - Reviewers: *Amygos* - Created at: 2024-12-16T15:45:14Z
 
 ### NethServer/ns8-github-actions 1 
 
 - :eyes: :zzz: **[Add image analysis workflow with Trivy](https://github.com/NethServer/ns8-github-actions/pull/23)** by *Amygos* - Reviewers: *None* - Created at: 2024-11-20T10:46:48Z
 
+### NethServer/ns8-webserver 1 
+
+- :eyes:  **[fix(sftpgo): set owner of root folder to sftpgo user](https://github.com/NethServer/ns8-webserver/pull/89)** by *stephdl* - Reviewers: *None* - Created at: 2025-01-15T21:31:40Z
+
 ### NethServer/nethsecurity 3 
 
+- :eyes:  **[feat(ips): adding rules management](https://github.com/NethServer/nethsecurity/pull/1029)** by *Tbaile* - Reviewers: *None* - Created at: 2025-01-15T14:35:30Z
 - :eyes:  **[fix(core): disable failsafe](https://github.com/NethServer/nethsecurity/pull/1021)** by *filippocarletti* - Reviewers: *None* - Created at: 2025-01-14T14:21:40Z
-- :eyes:  **[feat(ips): added bypass APIs](https://github.com/NethServer/nethsecurity/pull/1020)** by *Tbaile* - Reviewers: *None* - Created at: 2025-01-14T11:56:45Z
 - :eyes:  **[ns-plug: avoid mwan3 alerts during restart](https://github.com/NethServer/nethsecurity/pull/994)** by *filippocarletti* - Reviewers: *None* - Created at: 2025-01-02T18:00:30Z
 
-### NethServer/python3-nethsec 2 
+### NethServer/ns8-mail 1 
 
-- :eyes:  **[feat(inventory): track new Snort, WireGuard and MAC binding features](https://github.com/NethServer/python3-nethsec/pull/87)** by *stephdl* - Reviewers: *None* - Created at: 2025-01-14T11:01:31Z
-- :eyes:  **[feat(inventory): check backup passphrase existence and date](https://github.com/NethServer/python3-nethsec/pull/86)** by *stephdl* - Reviewers: *None* - Created at: 2025-01-13T16:39:15Z
+- :eyes:  **[Remove non-migratable catchall handling for UnknownRecipientsActionAction](https://github.com/NethServer/ns8-mail/pull/157)** by *stephdl* - Reviewers: *None* - Created at: 2025-01-15T13:30:32Z
+
+### NethServer/python3-nethsec 1 
+
+- :eyes:  **[feat(inventory):  add suppress rule to snort statistics ](https://github.com/NethServer/python3-nethsec/pull/88)** by *stephdl* - Reviewers: *None* - Created at: 2025-01-15T15:11:43Z
+
+### NethServer/ns8-docs 1 
+
+- :eyes:  **[Click to call in NethVoice](https://github.com/NethServer/ns8-docs/pull/138)** by *andrea-marchionni* - Reviewers: *None* - Created at: 2025-01-15T15:20:21Z
 
 ### NethServer/nethsecurity-ui 2 
 
-- :eyes:  **[feat(ips): added bypass view](https://github.com/NethServer/nethsecurity-ui/pull/484)** by *Tbaile* - Reviewers: *None* - Created at: 2025-01-14T10:33:13Z
+- :eyes:  **[feat(ips): rule management](https://github.com/NethServer/nethsecurity-ui/pull/485)** by *Tbaile* - Reviewers: *None* - Created at: 2025-01-15T14:37:34Z
 - :eyes:  **[chore(main): release 1.17.4](https://github.com/NethServer/nethsecurity-ui/pull/483)** by *gsanchietti* - Reviewers: *None* - Created at: 2025-01-14T08:26:42Z
-
-### NethServer/nethsecurity-docs 1 
-
--   **[Netify informatics UI](https://github.com/NethServer/nethsecurity-docs/pull/147)** by *gsanchietti* - Reviewers: *filippocarletti, cotosso* - Created at: 2025-01-08T14:15:12Z
-
-### NethServer/nethlink 1 
-
-- :eyes: :zzz: **[feat(click2call): added new event to handle physical phones](https://github.com/NethServer/nethlink/pull/41)** by *therockerline* - Reviewers: *None* - Created at: 2024-12-12T19:00:16Z
 
 ## Organization: nethesis
 
