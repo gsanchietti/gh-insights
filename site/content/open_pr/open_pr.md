@@ -1,13 +1,13 @@
 +++
 title = 'Open Pull Requests'
-date = 2025-01-16
+date = 2025-01-17
 +++
 
 ## Organization: nethserver
 
 ### NethServer/ns8-core 1 
 
--  :zzz: **[Define HOME_BASEDIR node variable](https://github.com/NethServer/ns8-core/pull/772)** by *DavidePrincipi* - Reviewers: *Amygos* - Created at: 2024-12-16T15:45:14Z
+- :eyes: :zzz: **[Define HOME_BASEDIR node variable](https://github.com/NethServer/ns8-core/pull/772)** by *DavidePrincipi* - Reviewers: *None* - Created at: 2024-12-16T15:45:14Z
 
 ### NethServer/ns8-github-actions 1 
 
@@ -17,28 +17,31 @@ date = 2025-01-16
 
 - :eyes:  **[fix(sftpgo): set owner of root folder to sftpgo user](https://github.com/NethServer/ns8-webserver/pull/89)** by *stephdl* - Reviewers: *None* - Created at: 2025-01-15T21:31:40Z
 
+### NethServer/nethserver-ns8-migration 1 
+
+-   **[Fix external LDAP user domain validation](https://github.com/NethServer/nethserver-ns8-migration/pull/111)** by *DavidePrincipi* - Reviewers: *gsanchietti, stephdl* - Created at: 2025-01-16T15:02:03Z
+
 ### NethServer/nethsecurity 3 
 
-- :eyes:  **[feat(ips): adding rules management](https://github.com/NethServer/nethsecurity/pull/1029)** by *Tbaile* - Reviewers: *None* - Created at: 2025-01-15T14:35:30Z
+- :eyes:  **[feat(ips): adding suppression alerts](https://github.com/NethServer/nethsecurity/pull/1033)** by *Tbaile* - Reviewers: *None* - Created at: 2025-01-16T16:18:34Z
 - :eyes:  **[fix(core): disable failsafe](https://github.com/NethServer/nethsecurity/pull/1021)** by *filippocarletti* - Reviewers: *None* - Created at: 2025-01-14T14:21:40Z
 - :eyes:  **[ns-plug: avoid mwan3 alerts during restart](https://github.com/NethServer/nethsecurity/pull/994)** by *filippocarletti* - Reviewers: *None* - Created at: 2025-01-02T18:00:30Z
 
-### NethServer/ns8-mail 1 
-
-- :eyes:  **[Remove non-migratable catchall handling for UnknownRecipientsActionAction](https://github.com/NethServer/ns8-mail/pull/157)** by *stephdl* - Reviewers: *None* - Created at: 2025-01-15T13:30:32Z
-
 ### NethServer/python3-nethsec 1 
 
-- :eyes:  **[feat(inventory):  add suppress rule to snort statistics ](https://github.com/NethServer/python3-nethsec/pull/88)** by *stephdl* - Reviewers: *None* - Created at: 2025-01-15T15:11:43Z
+- :eyes:  **[feat(inventory): count disabled mac binding only on valid interfaces](https://github.com/NethServer/python3-nethsec/pull/89)** by *stephdl* - Reviewers: *None* - Created at: 2025-01-16T14:45:55Z
+
+### NethServer/ns8-crowdsec 1 
+
+- :eyes:  **[Add nethvoice whitelist configuration](https://github.com/NethServer/ns8-crowdsec/pull/65)** by *stephdl* - Reviewers: *None* - Created at: 2025-01-16T09:29:44Z
 
 ### NethServer/ns8-docs 1 
 
-- :eyes:  **[Click to call in NethVoice](https://github.com/NethServer/ns8-docs/pull/138)** by *andrea-marchionni* - Reviewers: *None* - Created at: 2025-01-15T15:20:21Z
+-   **[Add mail server feature for unknown recipients to migration documentation](https://github.com/NethServer/ns8-docs/pull/140)** by *stephdl* - Reviewers: *nrauso* - Created at: 2025-01-16T10:10:10Z
 
-### NethServer/nethsecurity-ui 2 
+### NethServer/nethsecurity-ui 1 
 
-- :eyes:  **[feat(ips): rule management](https://github.com/NethServer/nethsecurity-ui/pull/485)** by *Tbaile* - Reviewers: *None* - Created at: 2025-01-15T14:37:34Z
-- :eyes:  **[chore(main): release 1.17.4](https://github.com/NethServer/nethsecurity-ui/pull/483)** by *gsanchietti* - Reviewers: *None* - Created at: 2025-01-14T08:26:42Z
+-   **[feat(ips): added alert suppression ](https://github.com/NethServer/nethsecurity-ui/pull/487)** by *Tbaile* - Reviewers: *andre8244* - Created at: 2025-01-16T16:23:16Z
 
 ## Organization: nethesis
 
@@ -56,8 +59,8 @@ date = 2025-01-16
 
 ### nethesis/ns8-nethvoice 3 
 
+-   **[fix(wizard-api): return null with 200 instead of 404 for unconfigured items](https://github.com/nethesis/ns8-nethvoice/pull/361)** by *Stell0* - Reviewers: *Amygos* - Created at: 2025-01-16T11:24:08Z
 - :eyes:  **[feature(FreePBX): Allow to install custom modules](https://github.com/nethesis/ns8-nethvoice/pull/359)** by *Stell0* - Reviewers: *None* - Created at: 2025-01-14T16:11:22Z
-- :eyes:  **[feat(provisioning): Update Nethesis NP X5 phone firmware](https://github.com/nethesis/ns8-nethvoice/pull/358)** by *Stell0* - Reviewers: *None* - Created at: 2025-01-14T14:24:02Z
 - :eyes:  **[fix(proxy): prevent adding proxy to trunk identity0 for TIM](https://github.com/nethesis/ns8-nethvoice/pull/354)** by *Stell0* - Reviewers: *None* - Created at: 2024-12-20T09:43:27Z
 
 ### nethesis/ns8-nethvoice-proxy 1 

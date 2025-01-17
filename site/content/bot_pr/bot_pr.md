@@ -1,6 +1,6 @@
 +++
 title = 'Open Pull Requests by Bots'
-date = 2025-01-16
+date = 2025-01-17
 +++
 
 ## Organization: nethserver
@@ -75,9 +75,10 @@ date = 2025-01-16
 - :eyes:  **[chore(deps): update ghcr.io/marketsquare/robotframework-browser/rfbrowser-stable docker tag to v19.1.2](https://github.com/NethServer/ns8-grafana/pull/26)** by *renovate[bot]* - Reviewers: *None* - Created at: 2024-12-20T22:05:46Z
 - :eyes:  **[Translations update from Hosted Weblate](https://github.com/NethServer/ns8-grafana/pull/25)** by *weblate* - Reviewers: *None* - Created at: 2024-12-19T17:40:06Z
 
-### NethServer/nethsecurity 1 
+### NethServer/nethsecurity-controller 2 
 
-- :eyes:  **[chore: bump ns packages (automatic)](https://github.com/NethServer/nethsecurity/pull/1013)** by *github-actions[bot]* - Reviewers: *None* - Created at: 2025-01-10T14:26:04Z
+- :eyes:  **[build(deps): Update ns-ui package (automated)](https://github.com/NethServer/nethsecurity-controller/pull/79)** by *github-actions[bot]* - Reviewers: *None* - Created at: 2025-01-17T01:09:14Z
+- :eyes:  **[chore(deps): update dependency go to v1.23.5](https://github.com/NethServer/nethsecurity-controller/pull/66)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-01-13T14:55:23Z
 
 ### NethServer/ns8-mattermost 3 
 
@@ -87,7 +88,7 @@ date = 2025-01-16
 
 ### NethServer/ns8-collabora 1 
 
-- :eyes:  **[chore(deps): update collabora/code docker tag to v24.04.11.2.1](https://github.com/NethServer/ns8-collabora/pull/37)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-01-09T15:06:16Z
+- :eyes:  **[chore(deps): update collabora/code docker tag to v24.04.11.3.1](https://github.com/NethServer/ns8-collabora/pull/37)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-01-09T15:06:16Z
 
 ### NethServer/ns8-webtop 7 
 
@@ -110,6 +111,10 @@ date = 2025-01-16
 ### NethServer/ns8-crowdsec 1 
 
 - :eyes:  **[chore(deps): update ghcr.io/marketsquare/robotframework-browser/rfbrowser-stable docker tag to v19.1.2](https://github.com/NethServer/ns8-crowdsec/pull/63)** by *renovate[bot]* - Reviewers: *None* - Created at: 2024-12-20T22:49:56Z
+
+### NethServer/ns8-docs 1 
+
+- :eyes:  **[Translations update from Hosted Weblate](https://github.com/NethServer/ns8-docs/pull/139)** by *weblate* - Reviewers: *None* - Created at: 2025-01-16T08:34:06Z
 
 ### NethServer/ns8-sogo 1 
 
@@ -146,9 +151,5 @@ date = 2025-01-16
 
 - :eyes:  **[Bump rexml from 3.3.3 to 3.3.9](https://github.com/nethesis/docs/pull/15)** by *dependabot[bot]* - Reviewers: *None* - Created at: 2024-12-18T13:00:05Z
 - :eyes:  **[Bump webrick from 1.8.1 to 1.8.2](https://github.com/nethesis/docs/pull/14)** by *dependabot[bot]* - Reviewers: *None* - Created at: 2024-12-18T13:00:03Z
-
-### nethesis/ns8-nethvoice 1 
-
-- :eyes:  **[Translations update from Hosted Weblate](https://github.com/nethesis/ns8-nethvoice/pull/356)** by *weblate* - Reviewers: *None* - Created at: 2024-12-21T14:51:45Z
 
 
