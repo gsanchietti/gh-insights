@@ -1,47 +1,46 @@
 +++
 title = 'Open Pull Requests'
-date = 2025-01-17
+date = 2025-01-18
 +++
 
 ## Organization: nethserver
 
 ### NethServer/ns8-core 1 
 
-- :eyes: :zzz: **[Define HOME_BASEDIR node variable](https://github.com/NethServer/ns8-core/pull/772)** by *DavidePrincipi* - Reviewers: *None* - Created at: 2024-12-16T15:45:14Z
+- :eyes:  **[feat(phonehome): add new info](https://github.com/NethServer/ns8-core/pull/784)** by *gsanchietti* - Reviewers: *None* - Created at: 2025-01-17T16:59:33Z
 
 ### NethServer/ns8-github-actions 1 
 
 - :eyes: :zzz: **[Add image analysis workflow with Trivy](https://github.com/NethServer/ns8-github-actions/pull/23)** by *Amygos* - Reviewers: *None* - Created at: 2024-11-20T10:46:48Z
 
-### NethServer/ns8-webserver 1 
+### NethServer/ns8-webserver 2 
 
+- :eyes:  **[Add cron support to sftpgo container and update backup configuration](https://github.com/NethServer/ns8-webserver/pull/90)** by *stephdl* - Reviewers: *None* - Created at: 2025-01-17T15:46:36Z
 - :eyes:  **[fix(sftpgo): set owner of root folder to sftpgo user](https://github.com/NethServer/ns8-webserver/pull/89)** by *stephdl* - Reviewers: *None* - Created at: 2025-01-15T21:31:40Z
 
-### NethServer/nethserver-ns8-migration 1 
+### NethServer/nethsecurity 4 
 
--   **[Fix external LDAP user domain validation](https://github.com/NethServer/nethserver-ns8-migration/pull/111)** by *DavidePrincipi* - Reviewers: *gsanchietti, stephdl* - Created at: 2025-01-16T15:02:03Z
-
-### NethServer/nethsecurity 3 
-
-- :eyes:  **[feat(ips): adding suppression alerts](https://github.com/NethServer/nethsecurity/pull/1033)** by *Tbaile* - Reviewers: *None* - Created at: 2025-01-16T16:18:34Z
+-   **[feat(ips): added event page](https://github.com/NethServer/nethsecurity/pull/1034)** by *Tbaile* - Reviewers: *gsanchietti* - Created at: 2025-01-17T17:07:05Z
 - :eyes:  **[fix(core): disable failsafe](https://github.com/NethServer/nethsecurity/pull/1021)** by *filippocarletti* - Reviewers: *None* - Created at: 2025-01-14T14:21:40Z
+- :eyes:  **[fix(ns-api): fix dns-list-settings](https://github.com/NethServer/nethsecurity/pull/1008)** by *andre8244* - Reviewers: *None* - Created at: 2025-01-09T09:02:16Z
 - :eyes:  **[ns-plug: avoid mwan3 alerts during restart](https://github.com/NethServer/nethsecurity/pull/994)** by *filippocarletti* - Reviewers: *None* - Created at: 2025-01-02T18:00:30Z
-
-### NethServer/python3-nethsec 1 
-
-- :eyes:  **[feat(inventory): count disabled mac binding only on valid interfaces](https://github.com/NethServer/python3-nethsec/pull/89)** by *stephdl* - Reviewers: *None* - Created at: 2025-01-16T14:45:55Z
 
 ### NethServer/ns8-crowdsec 1 
 
-- :eyes:  **[Add nethvoice whitelist configuration](https://github.com/NethServer/ns8-crowdsec/pull/65)** by *stephdl* - Reviewers: *None* - Created at: 2025-01-16T09:29:44Z
+-   **[Add nethvoice whitelist configuration](https://github.com/NethServer/ns8-crowdsec/pull/65)** by *stephdl* - Reviewers: *Stell0* - Created at: 2025-01-16T09:29:44Z
 
 ### NethServer/ns8-docs 1 
 
 -   **[Add mail server feature for unknown recipients to migration documentation](https://github.com/NethServer/ns8-docs/pull/140)** by *stephdl* - Reviewers: *nrauso* - Created at: 2025-01-16T10:10:10Z
 
-### NethServer/nethsecurity-ui 1 
+### NethServer/nethsecurity-ui 2 
 
--   **[feat(ips): added alert suppression ](https://github.com/NethServer/nethsecurity-ui/pull/487)** by *Tbaile* - Reviewers: *andre8244* - Created at: 2025-01-16T16:23:16Z
+-   **[feat(ips): added event list and actions](https://github.com/NethServer/nethsecurity-ui/pull/488)** by *Tbaile* - Reviewers: *andre8244* - Created at: 2025-01-17T17:08:54Z
+-   **[feat: add threat shield dns](https://github.com/NethServer/nethsecurity-ui/pull/479)** by *andre8244* - Reviewers: *Tbaile* - Created at: 2025-01-09T09:04:23Z
+
+### NethServer/nethlink 1 
+
+- :eyes:  **[fix: add nullish check on draggingWindows and on deviceIcon](https://github.com/NethServer/nethlink/pull/44)** by *therockerline* - Reviewers: *None* - Created at: 2025-01-17T10:37:56Z
 
 ## Organization: nethesis
 
@@ -55,7 +54,7 @@ date = 2025-01-17
 
 ### nethesis/nethvoice-report 1 
 
--   **[Fix problem with - in name agent](https://github.com/nethesis/nethvoice-report/pull/201)** by *andrea-marchionni* - Reviewers: *Stell0* - Created at: 2024-12-18T15:59:27Z
+-  :zzz: **[Fix problem with - in name agent](https://github.com/nethesis/nethvoice-report/pull/201)** by *andrea-marchionni* - Reviewers: *Stell0* - Created at: 2024-12-18T15:59:27Z
 
 ### nethesis/ns8-nethvoice 3 
 

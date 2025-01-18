@@ -1,6 +1,6 @@
 +++
 title = 'Open Pull Requests by Bots'
-date = 2025-01-17
+date = 2025-01-18
 +++
 
 ## Organization: nethserver
@@ -56,7 +56,7 @@ date = 2025-01-17
 
 ### NethServer/ns8-traefik 1 
 
--  :zzz: **[chore(deps): update traefik docker tag to v2.11.18](https://github.com/NethServer/ns8-traefik/pull/61)** by *renovate[bot]* - Reviewers: *DavidePrincipi* - Created at: 2024-07-03T03:26:30Z
+- :eyes:  **[chore(deps): update traefik docker tag to v3](https://github.com/NethServer/ns8-traefik/pull/68)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-01-17T20:41:24Z
 
 ### NethServer/ns8-openldap 3 
 
@@ -75,9 +75,8 @@ date = 2025-01-17
 - :eyes:  **[chore(deps): update ghcr.io/marketsquare/robotframework-browser/rfbrowser-stable docker tag to v19.1.2](https://github.com/NethServer/ns8-grafana/pull/26)** by *renovate[bot]* - Reviewers: *None* - Created at: 2024-12-20T22:05:46Z
 - :eyes:  **[Translations update from Hosted Weblate](https://github.com/NethServer/ns8-grafana/pull/25)** by *weblate* - Reviewers: *None* - Created at: 2024-12-19T17:40:06Z
 
-### NethServer/nethsecurity-controller 2 
+### NethServer/nethsecurity-controller 1 
 
-- :eyes:  **[build(deps): Update ns-ui package (automated)](https://github.com/NethServer/nethsecurity-controller/pull/79)** by *github-actions[bot]* - Reviewers: *None* - Created at: 2025-01-17T01:09:14Z
 - :eyes:  **[chore(deps): update dependency go to v1.23.5](https://github.com/NethServer/nethsecurity-controller/pull/66)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-01-13T14:55:23Z
 
 ### NethServer/ns8-mattermost 3 
@@ -112,10 +111,6 @@ date = 2025-01-17
 
 - :eyes:  **[chore(deps): update ghcr.io/marketsquare/robotframework-browser/rfbrowser-stable docker tag to v19.1.2](https://github.com/NethServer/ns8-crowdsec/pull/63)** by *renovate[bot]* - Reviewers: *None* - Created at: 2024-12-20T22:49:56Z
 
-### NethServer/ns8-docs 1 
-
-- :eyes:  **[Translations update from Hosted Weblate](https://github.com/NethServer/ns8-docs/pull/139)** by *weblate* - Reviewers: *None* - Created at: 2025-01-16T08:34:06Z
-
 ### NethServer/ns8-sogo 1 
 
 -  :zzz: **[Configure Renovate](https://github.com/NethServer/ns8-sogo/pull/16)** by *renovate[bot]* - Reviewers: *stephdl* - Created at: 2024-03-22T10:33:51Z
@@ -149,7 +144,7 @@ date = 2025-01-17
 
 ### nethesis/docs 2 
 
-- :eyes:  **[Bump rexml from 3.3.3 to 3.3.9](https://github.com/nethesis/docs/pull/15)** by *dependabot[bot]* - Reviewers: *None* - Created at: 2024-12-18T13:00:05Z
-- :eyes:  **[Bump webrick from 1.8.1 to 1.8.2](https://github.com/nethesis/docs/pull/14)** by *dependabot[bot]* - Reviewers: *None* - Created at: 2024-12-18T13:00:03Z
+- :eyes: :zzz: **[Bump rexml from 3.3.3 to 3.3.9](https://github.com/nethesis/docs/pull/15)** by *dependabot[bot]* - Reviewers: *None* - Created at: 2024-12-18T13:00:05Z
+- :eyes: :zzz: **[Bump webrick from 1.8.1 to 1.8.2](https://github.com/nethesis/docs/pull/14)** by *dependabot[bot]* - Reviewers: *None* - Created at: 2024-12-18T13:00:03Z
 
 
