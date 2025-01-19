@@ -1,6 +1,6 @@
 +++
 title = 'Open Pull Requests'
-date = 2025-01-18
+date = 2025-01-19
 +++
 
 ## Organization: nethserver
@@ -12,11 +12,6 @@ date = 2025-01-18
 ### NethServer/ns8-github-actions 1 
 
 - :eyes: :zzz: **[Add image analysis workflow with Trivy](https://github.com/NethServer/ns8-github-actions/pull/23)** by *Amygos* - Reviewers: *None* - Created at: 2024-11-20T10:46:48Z
-
-### NethServer/ns8-webserver 2 
-
-- :eyes:  **[Add cron support to sftpgo container and update backup configuration](https://github.com/NethServer/ns8-webserver/pull/90)** by *stephdl* - Reviewers: *None* - Created at: 2025-01-17T15:46:36Z
-- :eyes:  **[fix(sftpgo): set owner of root folder to sftpgo user](https://github.com/NethServer/ns8-webserver/pull/89)** by *stephdl* - Reviewers: *None* - Created at: 2025-01-15T21:31:40Z
 
 ### NethServer/nethsecurity 4 
 
