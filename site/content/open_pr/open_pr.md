@@ -1,6 +1,6 @@
 +++
 title = 'Open Pull Requests'
-date = 2025-01-19
+date = 2025-01-20
 +++
 
 ## Organization: nethserver
@@ -55,7 +55,7 @@ date = 2025-01-19
 
 -   **[fix(wizard-api): return null with 200 instead of 404 for unconfigured items](https://github.com/nethesis/ns8-nethvoice/pull/361)** by *Stell0* - Reviewers: *Amygos* - Created at: 2025-01-16T11:24:08Z
 - :eyes:  **[feature(FreePBX): Allow to install custom modules](https://github.com/nethesis/ns8-nethvoice/pull/359)** by *Stell0* - Reviewers: *None* - Created at: 2025-01-14T16:11:22Z
-- :eyes:  **[fix(proxy): prevent adding proxy to trunk identity0 for TIM](https://github.com/nethesis/ns8-nethvoice/pull/354)** by *Stell0* - Reviewers: *None* - Created at: 2024-12-20T09:43:27Z
+- :eyes: :zzz: **[fix(proxy): prevent adding proxy to trunk identity0 for TIM](https://github.com/nethesis/ns8-nethvoice/pull/354)** by *Stell0* - Reviewers: *None* - Created at: 2024-12-20T09:43:27Z
 
 ### nethesis/ns8-nethvoice-proxy 1 
 
