@@ -1,13 +1,13 @@
 +++
 title = 'Open Pull Requests'
-date = 2025-01-21
+date = 2025-01-22
 +++
 
 ## Organization: nethserver
 
 ### NethServer/ns8-core 1 
 
-- :eyes:  **[feat(phonehome): add new info](https://github.com/NethServer/ns8-core/pull/784)** by *gsanchietti* - Reviewers: *None* - Created at: 2025-01-17T16:59:33Z
+-   **[feat(phonehome): add new info](https://github.com/NethServer/ns8-core/pull/784)** by *gsanchietti* - Reviewers: *DavidePrincipi* - Created at: 2025-01-17T16:59:33Z
 
 ### NethServer/ns8-github-actions 1 
 
@@ -19,12 +19,18 @@ date = 2025-01-21
 - :eyes:  **[fix(core): disable failsafe](https://github.com/NethServer/nethsecurity/pull/1021)** by *filippocarletti* - Reviewers: *None* - Created at: 2025-01-14T14:21:40Z
 - :eyes:  **[ns-plug: avoid mwan3 alerts during restart](https://github.com/NethServer/nethsecurity/pull/994)** by *filippocarletti* - Reviewers: *None* - Created at: 2025-01-02T18:00:30Z
 
+### NethServer/ns8-mail 1 
+
+- :eyes:  **[fix(postfix): remove deprecated smtpd_tls_dh1024_param_file from main.cf](https://github.com/NethServer/ns8-mail/pull/160)** by *stephdl* - Reviewers: *None* - Created at: 2025-01-21T15:23:24Z
+
 ### NethServer/ns8-crowdsec 1 
 
 -   **[Add nethvoice whitelist configuration](https://github.com/NethServer/ns8-crowdsec/pull/65)** by *stephdl* - Reviewers: *Stell0* - Created at: 2025-01-16T09:29:44Z
 
-### NethServer/nethsecurity-ui 1 
+### NethServer/nethsecurity-ui 3 
 
+- :eyes:  **[chore(main): release 1.18.2](https://github.com/NethServer/nethsecurity-ui/pull/497)** by *gsanchietti* - Reviewers: *None* - Created at: 2025-01-21T13:47:27Z
+-   **[feat(host set): add validation for IP range compatibility with port forwards](https://github.com/NethServer/nethsecurity-ui/pull/496)** by *stephdl* - Reviewers: *andre8244, Tbaile* - Created at: 2025-01-21T11:32:55Z
 - :eyes:  **[feat(ips): added event list and actions](https://github.com/NethServer/nethsecurity-ui/pull/488)** by *Tbaile* - Reviewers: *None* - Created at: 2025-01-17T17:08:54Z
 
 ### NethServer/nethlink 1 
@@ -32,6 +38,10 @@ date = 2025-01-21
 - :eyes:  **[fix: add nullish check on draggingWindows and on deviceIcon](https://github.com/NethServer/nethlink/pull/44)** by *therockerline* - Reviewers: *None* - Created at: 2025-01-17T10:37:56Z
 
 ## Organization: nethesis
+
+### nethesis/icaro 1 
+
+- :eyes:  **[sun, wax & wings. added whatsapp login](https://github.com/nethesis/icaro/pull/196)** by *edospadoni* - Reviewers: *None* - Created at: 2025-01-21T08:16:31Z
 
 ### nethesis/nethcti-app-android 1 
 
