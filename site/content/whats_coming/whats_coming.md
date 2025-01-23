@@ -2,31 +2,21 @@
 
 title = 'To be released soon'
 
-date = 2025-01-22
+date = 2025-01-23
 
 +++
 
 ### NethServer
 
-- [Postfix: SMTPUTF8 is required, but was not offered](https://github.com/NethServer/dev/issues/7265) (#7221) by stephdl (Created: 2025-01-17T14:38:21Z, Updated: 2025-01-20T11:18:41Z)
+- [Mail(postfix): smtpd_tls_dh1024_param_file will be removed](https://github.com/NethServer/dev/issues/7275) (#7251) by stephdl (Created: 2025-01-21T14:43:39Z, Updated: 2025-01-22T13:48:14Z)
 
-- [Postfix Relay Rules are not applied after creation](https://github.com/NethServer/dev/issues/7264) (#7221) by stephdl (Created: 2025-01-17T11:55:43Z, Updated: 2025-01-21T16:22:16Z)
+- [Expand phonehome to collect NethServer 8 usage data](https://github.com/NethServer/dev/issues/7274) (#7251) by gsanchietti (Created: 2025-01-21T11:30:10Z, Updated: 2025-01-22T17:19:01Z)
 
-- [NethSecurity Controller:  failed API errors after restart make UI unusable](https://github.com/NethServer/dev/issues/7251) (#7221) by gsanchietti (Created: 2025-01-14T15:11:14Z, Updated: 2025-01-15T10:19:29Z)
+- [Postfix: SMTPUTF8 is required, but was not offered](https://github.com/NethServer/dev/issues/7265) (#7251) by stephdl (Created: 2025-01-17T14:38:21Z, Updated: 2025-01-20T11:18:41Z)
 
-- [Corrupted system directory permissions after Core update](https://github.com/NethServer/dev/issues/7250) (#7221) by DavidePrincipi (Created: 2025-01-14T09:33:05Z, Updated: 2025-01-21T18:26:23Z)
+- [Postfix Relay Rules are not applied after creation](https://github.com/NethServer/dev/issues/7264) (#7251) by stephdl (Created: 2025-01-17T11:55:43Z, Updated: 2025-01-21T16:22:16Z)
 
-- [Configurable app home directory base path](https://github.com/NethServer/dev/issues/7249) (#7221) by DavidePrincipi (Created: 2025-01-13T13:56:02Z, Updated: 2025-01-20T17:43:50Z)
+- [Wrong migration of Mail's "Accept Unknown Recipients" setting](https://github.com/NethServer/dev/issues/7257) (#7251) by stephdl (Created: 2025-01-15T10:55:32Z, Updated: 2025-01-22T13:15:39Z)
 
-- [Browser page refresh leads to Start migration button again](https://github.com/NethServer/dev/issues/7239) (#7221) by DavidePrincipi (Created: 2025-01-07T15:31:38Z, Updated: 2025-01-20T10:13:20Z)
-
-- [Migration: prevent app migration to nodes with allocated ports](https://github.com/NethServer/dev/issues/7226) (#7221) by stephdl (Created: 2024-12-19T14:20:20Z, Updated: 2025-01-20T10:13:18Z)
-
-- [NS7 join fails if user domain directory.nh exists](https://github.com/NethServer/dev/issues/7222) (#7221) by nrauso (Created: 2024-12-17T16:48:35Z, Updated: 2025-01-21T17:58:03Z)
-
-- [Nethvoice: install nethvoice proxy as a migration dependency](https://github.com/NethServer/dev/issues/7221) (#7221) by stephdl (Created: 2024-12-17T15:25:18Z, Updated: 2025-01-20T15:02:03Z)
-
-### NoMilestone
-
-- [Wrong migration of Mail's "Accept Unknown Recipients" setting](https://github.com/NethServer/dev/issues/7257) (#7221) by stephdl (Created: 2025-01-15T10:55:32Z, Updated: 2025-01-17T09:19:27Z)
+- [NethSecurity Controller:  failed API errors after restart make UI unusable](https://github.com/NethServer/dev/issues/7251) (#7251) by gsanchietti (Created: 2025-01-14T15:11:14Z, Updated: 2025-01-15T10:19:29Z)
 

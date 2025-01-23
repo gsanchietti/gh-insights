@@ -1,13 +1,13 @@
 +++
 title = 'Open Pull Requests'
-date = 2025-01-22
+date = 2025-01-23
 +++
 
 ## Organization: nethserver
 
 ### NethServer/ns8-core 1 
 
--   **[feat(phonehome): add new info](https://github.com/NethServer/ns8-core/pull/784)** by *gsanchietti* - Reviewers: *DavidePrincipi* - Created at: 2025-01-17T16:59:33Z
+-   **[Fix clean up of old image files](https://github.com/NethServer/ns8-core/pull/787)** by *DavidePrincipi* - Reviewers: *gsanchietti* - Created at: 2025-01-22T16:24:56Z
 
 ### NethServer/ns8-github-actions 1 
 
@@ -15,13 +15,13 @@ date = 2025-01-22
 
 ### NethServer/nethsecurity 3 
 
-- :eyes:  **[feat(ips): added event page](https://github.com/NethServer/nethsecurity/pull/1034)** by *Tbaile* - Reviewers: *None* - Created at: 2025-01-17T17:07:05Z
-- :eyes:  **[fix(core): disable failsafe](https://github.com/NethServer/nethsecurity/pull/1021)** by *filippocarletti* - Reviewers: *None* - Created at: 2025-01-14T14:21:40Z
+- :eyes:  **[feat: added IPS APIs](https://github.com/NethServer/nethsecurity/pull/1041)** by *Tbaile* - Reviewers: *None* - Created at: 2025-01-22T11:25:33Z
+-   **[fix(core): disable failsafe](https://github.com/NethServer/nethsecurity/pull/1021)** by *filippocarletti* - Reviewers: *Tbaile* - Created at: 2025-01-14T14:21:40Z
 - :eyes:  **[ns-plug: avoid mwan3 alerts during restart](https://github.com/NethServer/nethsecurity/pull/994)** by *filippocarletti* - Reviewers: *None* - Created at: 2025-01-02T18:00:30Z
 
 ### NethServer/ns8-mail 1 
 
-- :eyes:  **[fix(postfix): remove deprecated smtpd_tls_dh1024_param_file from main.cf](https://github.com/NethServer/ns8-mail/pull/160)** by *stephdl* - Reviewers: *None* - Created at: 2025-01-21T15:23:24Z
+-   **[fix(acl): normalize user and group names to lowercase in ACL listing](https://github.com/NethServer/ns8-mail/pull/163)** by *stephdl* - Reviewers: *DavidePrincipi* - Created at: 2025-01-22T17:29:19Z
 
 ### NethServer/ns8-crowdsec 1 
 
@@ -29,9 +29,9 @@ date = 2025-01-22
 
 ### NethServer/nethsecurity-ui 3 
 
-- :eyes:  **[chore(main): release 1.18.2](https://github.com/NethServer/nethsecurity-ui/pull/497)** by *gsanchietti* - Reviewers: *None* - Created at: 2025-01-21T13:47:27Z
--   **[feat(host set): add validation for IP range compatibility with port forwards](https://github.com/NethServer/nethsecurity-ui/pull/496)** by *stephdl* - Reviewers: *andre8244, Tbaile* - Created at: 2025-01-21T11:32:55Z
-- :eyes:  **[feat(ips): added event list and actions](https://github.com/NethServer/nethsecurity-ui/pull/488)** by *Tbaile* - Reviewers: *None* - Created at: 2025-01-17T17:08:54Z
+- :eyes:  **[chore(ips): localization](https://github.com/NethServer/nethsecurity-ui/pull/499)** by *Tbaile* - Reviewers: *None* - Created at: 2025-01-22T15:30:41Z
+- :eyes:  **[chore(main): release 1.19.0](https://github.com/NethServer/nethsecurity-ui/pull/497)** by *gsanchietti* - Reviewers: *None* - Created at: 2025-01-21T13:47:27Z
+-   **[feat(host set): add validation for IP range compatibility with port forwards](https://github.com/NethServer/nethsecurity-ui/pull/496)** by *stephdl* - Reviewers: *Tbaile, andre8244* - Created at: 2025-01-21T11:32:55Z
 
 ### NethServer/nethlink 1 
 
