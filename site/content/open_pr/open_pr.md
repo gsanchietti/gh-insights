@@ -1,13 +1,9 @@
 +++
 title = 'Open Pull Requests'
-date = 2025-01-23
+date = 2025-01-24
 +++
 
 ## Organization: nethserver
-
-### NethServer/ns8-core 1 
-
--   **[Fix clean up of old image files](https://github.com/NethServer/ns8-core/pull/787)** by *DavidePrincipi* - Reviewers: *gsanchietti* - Created at: 2025-01-22T16:24:56Z
 
 ### NethServer/ns8-github-actions 1 
 
@@ -15,23 +11,22 @@ date = 2025-01-23
 
 ### NethServer/nethsecurity 3 
 
-- :eyes:  **[feat: added IPS APIs](https://github.com/NethServer/nethsecurity/pull/1041)** by *Tbaile* - Reviewers: *None* - Created at: 2025-01-22T11:25:33Z
+-   **[fix(readme): allow rules with same src/dest zone](https://github.com/NethServer/nethsecurity/pull/1042)** by *andre8244* - Reviewers: *Tbaile* - Created at: 2025-01-23T16:04:48Z
 -   **[fix(core): disable failsafe](https://github.com/NethServer/nethsecurity/pull/1021)** by *filippocarletti* - Reviewers: *Tbaile* - Created at: 2025-01-14T14:21:40Z
 - :eyes:  **[ns-plug: avoid mwan3 alerts during restart](https://github.com/NethServer/nethsecurity/pull/994)** by *filippocarletti* - Reviewers: *None* - Created at: 2025-01-02T18:00:30Z
 
-### NethServer/ns8-mail 1 
+### NethServer/python3-nethsec 1 
 
--   **[fix(acl): normalize user and group names to lowercase in ACL listing](https://github.com/NethServer/ns8-mail/pull/163)** by *stephdl* - Reviewers: *DavidePrincipi* - Created at: 2025-01-22T17:29:19Z
+-   **[fix(firewall): allow rules with same src/dest zone](https://github.com/NethServer/python3-nethsec/pull/91)** by *andre8244* - Reviewers: *Tbaile* - Created at: 2025-01-23T16:05:39Z
 
 ### NethServer/ns8-crowdsec 1 
 
 -   **[Add nethvoice whitelist configuration](https://github.com/NethServer/ns8-crowdsec/pull/65)** by *stephdl* - Reviewers: *Stell0* - Created at: 2025-01-16T09:29:44Z
 
-### NethServer/nethsecurity-ui 3 
+### NethServer/nethsecurity-ui 2 
 
-- :eyes:  **[chore(ips): localization](https://github.com/NethServer/nethsecurity-ui/pull/499)** by *Tbaile* - Reviewers: *None* - Created at: 2025-01-22T15:30:41Z
-- :eyes:  **[chore(main): release 1.19.0](https://github.com/NethServer/nethsecurity-ui/pull/497)** by *gsanchietti* - Reviewers: *None* - Created at: 2025-01-21T13:47:27Z
--   **[feat(host set): add validation for IP range compatibility with port forwards](https://github.com/NethServer/nethsecurity-ui/pull/496)** by *stephdl* - Reviewers: *Tbaile, andre8244* - Created at: 2025-01-21T11:32:55Z
+-   **[fix(firewall): allow rules with same src/dest zone](https://github.com/NethServer/nethsecurity-ui/pull/500)** by *andre8244* - Reviewers: *Tbaile* - Created at: 2025-01-23T16:04:00Z
+- :eyes:  **[feat(host set): add validation for IP range compatibility with port forwards](https://github.com/NethServer/nethsecurity-ui/pull/496)** by *stephdl* - Reviewers: *None* - Created at: 2025-01-21T11:32:55Z
 
 ### NethServer/nethlink 1 
 
@@ -55,8 +50,10 @@ date = 2025-01-23
 
 -  :zzz: **[Fix problem with - in name agent](https://github.com/nethesis/nethvoice-report/pull/201)** by *andrea-marchionni* - Reviewers: *Stell0* - Created at: 2024-12-18T15:59:27Z
 
-### nethesis/ns8-nethvoice 3 
+### nethesis/ns8-nethvoice 5 
 
+-   **[Add new providers VoipTel 2 and Terrecablate](https://github.com/nethesis/ns8-nethvoice/pull/367)** by *andrea-marchionni* - Reviewers: *Stell0* - Created at: 2025-01-23T14:37:42Z
+- :eyes:  **[fix(systemd): fix env vars with special chars](https://github.com/nethesis/ns8-nethvoice/pull/366)** by *Amygos* - Reviewers: *None* - Created at: 2025-01-22T17:07:13Z
 -   **[fix(wizard-api): return null with 200 instead of 404 for unconfigured items](https://github.com/nethesis/ns8-nethvoice/pull/361)** by *Stell0* - Reviewers: *Amygos* - Created at: 2025-01-16T11:24:08Z
 -   **[feature(FreePBX): Allow to install custom modules](https://github.com/nethesis/ns8-nethvoice/pull/359)** by *Stell0* - Reviewers: *Amygos* - Created at: 2025-01-14T16:11:22Z
 - :eyes: :zzz: **[fix(proxy): prevent adding proxy to trunk identity0 for TIM](https://github.com/nethesis/ns8-nethvoice/pull/354)** by *Stell0* - Reviewers: *None* - Created at: 2024-12-20T09:43:27Z

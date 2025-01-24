@@ -1,6 +1,6 @@
 +++
 title = 'Open Pull Requests by Bots'
-date = 2025-01-23
+date = 2025-01-24
 +++
 
 ## Organization: nethserver
@@ -100,10 +100,6 @@ date = 2025-01-23
 - :eyes:  **[build(deps): Update ns-ui package (automated)](https://github.com/NethServer/nethsecurity-controller/pull/80)** by *github-actions[bot]* - Reviewers: *None* - Created at: 2025-01-21T01:09:24Z
 - :eyes:  **[chore(deps): update dependency go to v1.23.5](https://github.com/NethServer/nethsecurity-controller/pull/66)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-01-13T14:55:23Z
 
-### NethServer/ns8-mail 1 
-
-- :eyes:  **[Translations update from Hosted Weblate](https://github.com/NethServer/ns8-mail/pull/161)** by *weblate* - Reviewers: *None* - Created at: 2025-01-22T04:44:59Z
-
 ### NethServer/ns8-nethsecurity-controller 1 
 
 - :eyes:  **[chore(deps): update node.js to v18.20.6](https://github.com/NethServer/ns8-nethsecurity-controller/pull/72)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-01-22T20:59:50Z
@@ -118,7 +114,7 @@ date = 2025-01-23
 ### NethServer/ns8-collabora 2 
 
 - :eyes:  **[Translations update from Hosted Weblate](https://github.com/NethServer/ns8-collabora/pull/38)** by *weblate* - Reviewers: *None* - Created at: 2025-01-20T14:47:04Z
-- :eyes:  **[chore(deps): update collabora/code docker tag to v24.04.11.3.1](https://github.com/NethServer/ns8-collabora/pull/37)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-01-09T15:06:16Z
+- :eyes:  **[chore(deps): update collabora/code docker tag to v24.04.12.1.1](https://github.com/NethServer/ns8-collabora/pull/37)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-01-09T15:06:16Z
 
 ### NethServer/ns8-webtop 7 
 
@@ -159,8 +155,9 @@ date = 2025-01-23
 
 - :eyes:  **[Translations update from Hosted Weblate](https://github.com/NethServer/ns8-imapsync/pull/35)** by *weblate* - Reviewers: *None* - Created at: 2025-01-21T11:44:53Z
 
-### NethServer/ns8-user-manager 1 
+### NethServer/ns8-user-manager 2 
 
+- :eyes:  **[chore(deps): update dependency vite to v6.0.9 [security]](https://github.com/NethServer/ns8-user-manager/pull/64)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-01-23T23:05:25Z
 - :eyes:  **[chore(deps): update node.js to v22.13.1](https://github.com/NethServer/ns8-user-manager/pull/63)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-01-21T18:46:18Z
 
 ### NethServer/ns8-sogo 1 
