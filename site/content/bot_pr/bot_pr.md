@@ -1,6 +1,6 @@
 +++
 title = 'Open Pull Requests by Bots'
-date = 2025-01-24
+date = 2025-01-25
 +++
 
 ## Organization: nethserver
@@ -154,11 +154,6 @@ date = 2025-01-24
 ### NethServer/ns8-imapsync 1 
 
 - :eyes:  **[Translations update from Hosted Weblate](https://github.com/NethServer/ns8-imapsync/pull/35)** by *weblate* - Reviewers: *None* - Created at: 2025-01-21T11:44:53Z
-
-### NethServer/ns8-user-manager 2 
-
-- :eyes:  **[chore(deps): update dependency vite to v6.0.9 [security]](https://github.com/NethServer/ns8-user-manager/pull/64)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-01-23T23:05:25Z
-- :eyes:  **[chore(deps): update node.js to v22.13.1](https://github.com/NethServer/ns8-user-manager/pull/63)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-01-21T18:46:18Z
 
 ### NethServer/ns8-sogo 1 
 
