@@ -1,6 +1,6 @@
 +++
 title = 'Open Pull Requests'
-date = 2025-01-26
+date = 2025-01-27
 +++
 
 ## Organization: nethserver
@@ -14,8 +14,9 @@ date = 2025-01-26
 
 - :eyes: :zzz: **[Add image analysis workflow with Trivy](https://github.com/NethServer/ns8-github-actions/pull/23)** by *Amygos* - Reviewers: *None* - Created at: 2024-11-20T10:46:48Z
 
-### NethServer/nethsecurity 3 
+### NethServer/nethsecurity 4 
 
+-   **[ns-snort-rules: block instead of drop](https://github.com/NethServer/nethsecurity/pull/1043)** by *filippocarletti* - Reviewers: *gsanchietti, Tbaile* - Created at: 2025-01-26T14:31:06Z
 -   **[fix(firewall): allow rules with same src/dest zone](https://github.com/NethServer/nethsecurity/pull/1042)** by *andre8244* - Reviewers: *Tbaile* - Created at: 2025-01-23T16:04:48Z
 -   **[fix(core): disable failsafe](https://github.com/NethServer/nethsecurity/pull/1021)** by *filippocarletti* - Reviewers: *Tbaile* - Created at: 2025-01-14T14:21:40Z
 - :eyes:  **[ns-plug: avoid mwan3 alerts during restart](https://github.com/NethServer/nethsecurity/pull/994)** by *filippocarletti* - Reviewers: *None* - Created at: 2025-01-02T18:00:30Z
