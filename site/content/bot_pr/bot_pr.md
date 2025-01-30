@@ -1,6 +1,6 @@
 +++
 title = 'Open Pull Requests by Bots'
-date = 2025-01-29
+date = 2025-01-30
 +++
 
 ## Organization: nethserver
@@ -60,12 +60,13 @@ date = 2025-01-29
 ### NethServer/ns8-loki 4 
 
 -  :zzz: **[chore(deps): update ghcr.io/marketsquare/robotframework-browser/rfbrowser-stable docker tag to v19.2.0](https://github.com/NethServer/ns8-loki/pull/34)** by *renovate[bot]* - Reviewers: *Amygos* - Created at: 2024-12-20T21:53:49Z
--  :zzz: **[chore(deps): update traefik docker tag to v2.11.18](https://github.com/NethServer/ns8-loki/pull/30)** by *renovate[bot]* - Reviewers: *Amygos* - Created at: 2024-11-20T19:13:22Z
+-  :zzz: **[chore(deps): update traefik docker tag to v2.11.19](https://github.com/NethServer/ns8-loki/pull/30)** by *renovate[bot]* - Reviewers: *Amygos* - Created at: 2024-11-20T19:13:22Z
 -  :zzz: **[chore(deps): update traefik docker tag to v3](https://github.com/NethServer/ns8-loki/pull/23)** by *renovate[bot]* - Reviewers: *Amygos* - Created at: 2024-07-30T17:21:16Z
 -  :zzz: **[chore(deps): update grafana/loki docker tag to v3](https://github.com/NethServer/ns8-loki/pull/19)** by *renovate[bot]* - Reviewers: *DavidePrincipi* - Created at: 2024-07-30T12:05:22Z
 
-### NethServer/ns8-traefik 2 
+### NethServer/ns8-traefik 3 
 
+- :eyes:  **[chore(deps): update traefik docker tag to v2.11.19](https://github.com/NethServer/ns8-traefik/pull/71)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-01-29T20:33:18Z
 -   **[chore(deps): update ghcr.io/marketsquare/robotframework-browser/rfbrowser-stable docker tag to v19.2.0](https://github.com/NethServer/ns8-traefik/pull/70)** by *renovate[bot]* - Reviewers: *Amygos* - Created at: 2025-01-26T16:22:41Z
 - :eyes:  **[chore(deps): update traefik docker tag to v3](https://github.com/NethServer/ns8-traefik/pull/68)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-01-17T20:41:24Z
 
