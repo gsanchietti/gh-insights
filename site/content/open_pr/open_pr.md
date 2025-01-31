@@ -1,6 +1,6 @@
 +++
 title = 'Open Pull Requests'
-date = 2025-01-30
+date = 2025-01-31
 +++
 
 ## Organization: nethserver
@@ -15,13 +15,13 @@ date = 2025-01-30
 
 - :eyes: :zzz: **[Add image analysis workflow with Trivy](https://github.com/NethServer/ns8-github-actions/pull/23)** by *Amygos* - Reviewers: *None* - Created at: 2024-11-20T10:46:48Z
 
+### NethServer/nethsecurity 1 
+
+-   **[Mwan3 alerts](https://github.com/NethServer/nethsecurity/pull/1058)** by *filippocarletti* - Reviewers: *Tbaile* - Created at: 2025-01-30T15:04:44Z
+
 ### NethServer/ns8-webtop 1 
 
 - :eyes:  **[feat(phonebook): add WebTop phonebook integration](https://github.com/NethServer/ns8-webtop/pull/104)** by *Amygos* - Reviewers: *None* - Created at: 2025-01-27T10:35:26Z
-
-### NethServer/ns8-crowdsec 1 
-
-- :eyes:  **[Add nethvoice whitelist configuration](https://github.com/NethServer/ns8-crowdsec/pull/65)** by *stephdl* - Reviewers: *None* - Created at: 2025-01-16T09:29:44Z
 
 ### NethServer/nethsecurity-ui 1 
 
@@ -49,10 +49,9 @@ date = 2025-01-30
 
 - :eyes:  **[Add emergency number to prevent the phone from freezing ](https://github.com/nethesis/tancredi/pull/305)** by *andrea-marchionni* - Reviewers: *None* - Created at: 2025-01-29T10:09:31Z
 
-### nethesis/ns8-nethvoice 2 
+### nethesis/ns8-nethvoice 1 
 
--   **[feature(sftp): Add sftp do access recordings](https://github.com/nethesis/ns8-nethvoice/pull/369)** by *Stell0* - Reviewers: *Amygos* - Created at: 2025-01-27T16:45:02Z
--   **[fix(wizard-api): return null with 200 instead of 404 for unconfigured items](https://github.com/nethesis/ns8-nethvoice/pull/361)** by *Stell0* - Reviewers: *Amygos* - Created at: 2025-01-16T11:24:08Z
+- :eyes:  **[feature(sftp): Add sftp do access recordings](https://github.com/nethesis/ns8-nethvoice/pull/369)** by *Stell0* - Reviewers: *None* - Created at: 2025-01-27T16:45:02Z
 
 ### nethesis/ns8-nethvoice-proxy 1 
 
