@@ -1,6 +1,6 @@
 +++
-title = 'Need testing (4)'
-date = 2025-01-31
+title = 'Need testing (5)'
+date = 2025-02-01
 +++
 
 ## NoMilestone
@@ -11,5 +11,6 @@ date = 2025-01-31
 - :point_right: **[Issue with Environment Variable in Freepbx Service with Systemd and Podman](https://github.com/NethServer/dev/issues/7254)** (#7254) by *Amygos* (Created: 2025-01-14, Updated: 2025-01-29T15:03:36Z)
 
 ## NethSecurity
-- :point_right: **[IPS UI](https://github.com/NethServer/nethsecurity/issues/976)** (#976) by *gsanchietti* (Created: 2024-12-13, Updated: 2025-01-29T16:44:36Z)
+- :point_right: **[IPS UI](https://github.com/NethServer/nethsecurity/issues/976)** (#906) by *gsanchietti* (Created: 2024-12-13, Updated: 2025-01-29T16:44:36Z)
+- :point_right: **[UI for Threat Shield DNS](https://github.com/NethServer/nethsecurity/issues/906)** (#906) by *gsanchietti* (Created: 2024-11-12, Updated: 2025-01-31T08:43:17Z)
 

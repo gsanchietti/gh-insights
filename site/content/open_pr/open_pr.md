@@ -1,6 +1,6 @@
 +++
 title = 'Open Pull Requests'
-date = 2025-01-31
+date = 2025-02-01
 +++
 
 ## Organization: nethserver
@@ -17,7 +17,7 @@ date = 2025-01-31
 
 ### NethServer/nethsecurity 1 
 
--   **[Mwan3 alerts](https://github.com/NethServer/nethsecurity/pull/1058)** by *filippocarletti* - Reviewers: *Tbaile* - Created at: 2025-01-30T15:04:44Z
+-   **[fix(ns-plug): treat SIGHUP as non-error in mwan signaling](https://github.com/NethServer/nethsecurity/pull/1058)** by *filippocarletti* - Reviewers: *Tbaile* - Created at: 2025-01-30T15:04:44Z
 
 ### NethServer/ns8-webtop 1 
 
