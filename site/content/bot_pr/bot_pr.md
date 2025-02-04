@@ -1,12 +1,13 @@
 +++
 title = 'Open Pull Requests by Bots'
-date = 2025-02-03
+date = 2025-02-04
 +++
 
 ## Organization: nethserver
 
-### NethServer/ns8-core 1 
+### NethServer/ns8-core 2 
 
+- :eyes:  **[Translations update from Hosted Weblate](https://github.com/NethServer/ns8-core/pull/798)** by *weblate* - Reviewers: *None* - Created at: 2025-02-03T13:06:46Z
 -  :zzz: **[chore(deps): update dependency grafana/loki to v3](https://github.com/NethServer/ns8-core/pull/724)** by *renovate[bot]* - Reviewers: *DavidePrincipi* - Created at: 2024-10-07T13:37:42Z
 
 ### NethServer/ns8-kickstart 1 
@@ -92,7 +93,7 @@ date = 2025-02-03
 
 ### NethServer/ns8-grafana 4 
 
-- :eyes:  **[chore(deps): update grafana/grafana docker tag to v11.5.0](https://github.com/NethServer/ns8-grafana/pull/28)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-01-28T14:09:44Z
+- :eyes:  **[chore(deps): update grafana/grafana docker tag to v11.5.1](https://github.com/NethServer/ns8-grafana/pull/28)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-01-28T14:09:44Z
 - :eyes:  **[chore(deps): update node.js to v18.20.6](https://github.com/NethServer/ns8-grafana/pull/27)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-01-22T18:43:27Z
 - :eyes: :zzz: **[chore(deps): update ghcr.io/marketsquare/robotframework-browser/rfbrowser-stable docker tag to v19.3.0](https://github.com/NethServer/ns8-grafana/pull/26)** by *renovate[bot]* - Reviewers: *None* - Created at: 2024-12-20T22:05:46Z
 - :eyes: :zzz: **[Translations update from Hosted Weblate](https://github.com/NethServer/ns8-grafana/pull/25)** by *weblate* - Reviewers: *None* - Created at: 2024-12-19T17:40:06Z
@@ -146,7 +147,7 @@ date = 2025-02-03
 - :eyes: :zzz: **[chore(deps): update dependency marketsquare/robotframework-browser to v19.3.0](https://github.com/NethServer/ns8-piler/pull/31)** by *renovate[bot]* - Reviewers: *None* - Created at: 2024-12-20T22:41:22Z
 -  :zzz: **[chore(deps): update mariadb docker tag to v11](https://github.com/NethServer/ns8-piler/pull/27)** by *renovate[bot]* - Reviewers: *stephdl* - Created at: 2024-05-31T09:50:40Z
 -  :zzz: **[chore(deps): update sutoj/piler docker tag to v1.4.7](https://github.com/NethServer/ns8-piler/pull/26)** by *renovate[bot]* - Reviewers: *stephdl* - Created at: 2024-05-31T09:50:37Z
--  :zzz: **[chore(deps): update memcached docker tag to v1.6.34](https://github.com/NethServer/ns8-piler/pull/24)** by *renovate[bot]* - Reviewers: *stephdl* - Created at: 2024-05-31T08:18:14Z
+-  :zzz: **[chore(deps): update memcached docker tag to v1.6.35](https://github.com/NethServer/ns8-piler/pull/24)** by *renovate[bot]* - Reviewers: *stephdl* - Created at: 2024-05-31T08:18:14Z
 -  :zzz: **[chore(deps): update mariadb docker tag to v10.11.10](https://github.com/NethServer/ns8-piler/pull/23)** by *renovate[bot]* - Reviewers: *stephdl* - Created at: 2024-05-31T08:18:09Z
 
 ### NethServer/ns8-crowdsec 2 

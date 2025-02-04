@@ -1,14 +1,12 @@
 +++
 title = 'Open Pull Requests'
-date = 2025-02-03
+date = 2025-02-04
 +++
 
 ## Organization: nethserver
 
-### NethServer/ns8-core 3 
+### NethServer/ns8-core 1 
 
-- :eyes:  **[feat(metadata): add relnotes_url to module metadata for release changelog](https://github.com/NethServer/ns8-core/pull/797)** by *stephdl* - Reviewers: *None* - Created at: 2025-01-29T15:36:59Z
-- :eyes:  **[feat(softwareCenter): add release note URLs for GitHub code repositories](https://github.com/NethServer/ns8-core/pull/795)** by *stephdl* - Reviewers: *None* - Created at: 2025-01-29T10:36:57Z
 - :eyes:  **[Special restore-module behavior for Traefik](https://github.com/NethServer/ns8-core/pull/790)** by *DavidePrincipi* - Reviewers: *None* - Created at: 2025-01-24T09:29:16Z
 
 ### NethServer/ns8-github-actions 1 
