@@ -1,6 +1,6 @@
 +++
 title = 'Open Pull Requests by Bots'
-date = 2025-02-04
+date = 2025-02-05
 +++
 
 ## Organization: nethserver
@@ -49,14 +49,9 @@ date = 2025-02-04
 -  :zzz: **[chore(deps): update nginx docker tag to v1.27.3](https://github.com/NethServer/ns8-ldapproxy/pull/18)** by *renovate[bot]* - Reviewers: *DavidePrincipi* - Created at: 2024-11-27T01:46:44Z
 -  :zzz: **[chore(deps): update ghcr.io/marketsquare/robotframework-browser/rfbrowser-stable docker tag to v19](https://github.com/NethServer/ns8-ldapproxy/pull/17)** by *renovate[bot]* - Reviewers: *DavidePrincipi* - Created at: 2024-11-26T11:31:21Z
 
-### NethServer/ns8-samba 6 
+### NethServer/ns8-samba 1 
 
-- :eyes:  **[chore(deps): update node.js to v22.13.1](https://github.com/NethServer/ns8-samba/pull/71)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-01-08T15:15:07Z
 - :eyes: :zzz: **[chore(deps): update dependency marketsquare/robotframework-browser to v19.3.0](https://github.com/NethServer/ns8-samba/pull/70)** by *renovate[bot]* - Reviewers: *None* - Created at: 2024-12-20T21:48:37Z
-- :eyes: :zzz: **[chore(deps): update dependency nethserver/ns8-user-manager to v1.0.2](https://github.com/NethServer/ns8-samba/pull/69)** by *renovate[bot]* - Reviewers: *None* - Created at: 2024-12-20T17:55:37Z
-- :eyes: :zzz: **[Translations update from Hosted Weblate](https://github.com/NethServer/ns8-samba/pull/68)** by *weblate* - Reviewers: *None* - Created at: 2024-12-20T12:26:30Z
--  :zzz: **[chore(deps): update library/ubuntu docker tag to v24.10](https://github.com/NethServer/ns8-samba/pull/63)** by *renovate[bot]* - Reviewers: *DavidePrincipi* - Created at: 2024-12-05T08:13:37Z
--  :zzz: **[chore(deps): update library/ubuntu docker tag to v25](https://github.com/NethServer/ns8-samba/pull/59)** by *renovate[bot]* - Reviewers: *DavidePrincipi* - Created at: 2024-11-16T07:19:59Z
 
 ### NethServer/ns8-loki 4 
 
@@ -105,14 +100,15 @@ date = 2025-02-04
 ### NethServer/nethsecurity-controller 2 
 
 - :eyes:  **[build(deps): Update ns-ui package (automated)](https://github.com/NethServer/nethsecurity-controller/pull/83)** by *github-actions[bot]* - Reviewers: *None* - Created at: 2025-01-29T01:09:34Z
-- :eyes:  **[chore(deps): update dependency go to v1.23.5](https://github.com/NethServer/nethsecurity-controller/pull/66)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-01-13T14:55:23Z
+- :eyes:  **[chore(deps): update dependency go to v1.23.6](https://github.com/NethServer/nethsecurity-controller/pull/66)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-01-13T14:55:23Z
 
 ### NethServer/ns8-mail 1 
 
 - :eyes:  **[chore(deps): update ghcr.io/marketsquare/robotframework-browser/rfbrowser-stable docker tag to v19.3.0](https://github.com/NethServer/ns8-mail/pull/164)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-01-26T17:02:40Z
 
-### NethServer/ns8-nethsecurity-controller 1 
+### NethServer/ns8-nethsecurity-controller 2 
 
+- :eyes:  **[chore(deps): update ghcr.io/nethserver/nethsecurity-ui docker tag to v1.3.6](https://github.com/NethServer/ns8-nethsecurity-controller/pull/75)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-02-04T10:57:58Z
 - :eyes:  **[chore(deps): update ghcr.io/marketsquare/robotframework-browser/rfbrowser-stable docker tag to v19.3.0](https://github.com/NethServer/ns8-nethsecurity-controller/pull/73)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-01-26T16:34:20Z
 
 ### NethServer/ns8-mattermost 5 
@@ -186,7 +182,7 @@ date = 2025-02-04
 ### NethServer/ns8-netdata 2 
 
 - :eyes:  **[chore(deps): update ghcr.io/marketsquare/robotframework-browser/rfbrowser-stable docker tag to v19.3.0](https://github.com/NethServer/ns8-netdata/pull/30)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-01-26T17:54:39Z
-- :eyes:  **[chore(deps): update netdata/netdata docker tag to v2.2.3](https://github.com/NethServer/ns8-netdata/pull/29)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-01-22T16:59:00Z
+- :eyes:  **[chore(deps): update netdata/netdata docker tag to v2.2.4](https://github.com/NethServer/ns8-netdata/pull/29)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-01-22T16:59:00Z
 
 ### NethServer/ns8-passbolt 1 
 

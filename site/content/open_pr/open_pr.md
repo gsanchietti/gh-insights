@@ -1,6 +1,6 @@
 +++
 title = 'Open Pull Requests'
-date = 2025-02-04
+date = 2025-02-05
 +++
 
 ## Organization: nethserver
@@ -15,7 +15,7 @@ date = 2025-02-04
 
 ### NethServer/nethsecurity 1 
 
--   **[fix(ns-plug): treat SIGHUP as non-error in mwan signaling](https://github.com/NethServer/nethsecurity/pull/1058)** by *filippocarletti* - Reviewers: *Tbaile* - Created at: 2025-01-30T15:04:44Z
+-   **[fix(ns-migration): avoid ovpn tunnel collision](https://github.com/NethServer/nethsecurity/pull/1063)** by *gsanchietti* - Reviewers: *Tbaile* - Created at: 2025-02-04T15:55:15Z
 
 ### NethServer/ns8-webtop 1 
 
