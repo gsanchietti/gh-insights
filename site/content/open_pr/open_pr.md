@@ -1,6 +1,6 @@
 +++
 title = 'Open Pull Requests'
-date = 2025-02-06
+date = 2025-02-07
 +++
 
 ## Organization: nethserver
@@ -15,11 +15,11 @@ date = 2025-02-06
 
 ### NethServer/nethsecurity 1 
 
--   **[fix(snort3): support spaces in suppress description](https://github.com/NethServer/nethsecurity/pull/1065)** by *filippocarletti* - Reviewers: *gsanchietti, Tbaile* - Created at: 2025-02-05T11:53:19Z
+-   **[fix(migration): fixing duplicate mwan policies](https://github.com/NethServer/nethsecurity/pull/1068)** by *Tbaile* - Reviewers: *gsanchietti* - Created at: 2025-02-06T14:18:17Z
 
 ### NethServer/ns8-mattermost 1 
 
--   **[Update Mattermost to v10 and PostgreSQL to v17](https://github.com/NethServer/ns8-mattermost/pull/91)** by *stephdl* - Reviewers: *DavidePrincipi* - Created at: 2025-02-05T08:53:37Z
+- :eyes:  **[Update Mattermost to v10 and PostgreSQL to v17](https://github.com/NethServer/ns8-mattermost/pull/91)** by *stephdl* - Reviewers: *None* - Created at: 2025-02-05T08:53:37Z
 
 ### NethServer/ns8-webtop 1 
 
@@ -29,9 +29,13 @@ date = 2025-02-06
 
 - :eyes:  **[fix(ips): replacing drop with block](https://github.com/NethServer/nethsecurity-ui/pull/501)** by *Tbaile* - Reviewers: *None* - Created at: 2025-01-27T08:09:59Z
 
+### NethServer/nethsecurity-docs 1 
+
+-   **[feat: add threat shield dns documentation](https://github.com/NethServer/nethsecurity-docs/pull/148)** by *andre8244* - Reviewers: *cotosso, Tbaile* - Created at: 2025-02-06T15:26:00Z
+
 ### NethServer/ns8-imapsync 1 
 
-- :eyes:  **[Add file age check and maxage parameter for synchronization](https://github.com/NethServer/ns8-imapsync/pull/37)** by *stephdl* - Reviewers: *None* - Created at: 2025-02-05T15:10:08Z
+-   **[Add file age check and maxage parameter for synchronization](https://github.com/NethServer/ns8-imapsync/pull/37)** by *stephdl* - Reviewers: *DavidePrincipi* - Created at: 2025-02-05T15:10:08Z
 
 ### NethServer/nethlink 1 
 
@@ -51,18 +55,16 @@ date = 2025-02-06
 
 -  :zzz: **[Removed old notification service usage](https://github.com/nethesis/nethcti-app-iphone/pull/37)** by *NicolaMrAPPs* - Reviewers: *b9874e40962149eee62a8fd3bc4e709e* - Created at: 2023-08-02T09:19:30Z
 
-### nethesis/tancredi 1 
+### nethesis/ns8-nethvoice 4 
 
-- :eyes:  **[Add emergency number to prevent the phone from freezing ](https://github.com/nethesis/tancredi/pull/305)** by *andrea-marchionni* - Reviewers: *None* - Created at: 2025-01-29T10:09:31Z
-
-### nethesis/ns8-nethvoice 2 
-
+- :eyes:  **[feat(freepbx): Install asterisk-cli FreePBX module to allow access to…](https://github.com/nethesis/ns8-nethvoice/pull/375)** by *Stell0* - Reviewers: *None* - Created at: 2025-02-06T15:21:13Z
+-   **[feat(lookup): Add Zucchetti Infinity API in lookup sample scripts](https://github.com/nethesis/ns8-nethvoice/pull/374)** by *Stell0* - Reviewers: *Amygos* - Created at: 2025-02-06T11:03:33Z
 -   **[feat(asterisk): Update Asterisk to 18.26.1](https://github.com/nethesis/ns8-nethvoice/pull/373)** by *Stell0* - Reviewers: *Amygos* - Created at: 2025-02-05T17:52:28Z
 - :eyes:  **[feature(sftp): Add sftp do access recordings](https://github.com/nethesis/ns8-nethvoice/pull/369)** by *Stell0* - Reviewers: *None* - Created at: 2025-01-27T16:45:02Z
 
 ### nethesis/ns8-nethvoice-proxy 2 
 
--   **[fix(kamailio.cfg): Log rejected INVITES or REGISTER for unrecognized …](https://github.com/nethesis/ns8-nethvoice-proxy/pull/52)** by *Stell0* - Reviewers: *Amygos* - Created at: 2025-02-05T16:56:33Z
+- :eyes:  **[fix(kamailio.cfg): Log rejected INVITES or REGISTER for unrecognized …](https://github.com/nethesis/ns8-nethvoice-proxy/pull/52)** by *Stell0* - Reviewers: *None* - Created at: 2025-02-05T16:56:33Z
 - :eyes: :zzz: **[Remove Route header handling for inbound packets](https://github.com/nethesis/ns8-nethvoice-proxy/pull/49)** by *Amygos* - Reviewers: *None* - Created at: 2024-12-06T15:26:49Z
 
 ### nethesis/vue-components 2 

@@ -2,13 +2,11 @@
 
 title = 'To be released soon'
 
-date = 2025-02-06
+date = 2025-02-07
 
 +++
 
 ### NethServer
-
-- [Mail: Enable Substring Search in Dovecot Flatcurve Plugin](https://github.com/NethServer/dev/issues/7292) (#7251) by stephdl (Created: 2025-01-29T16:39:38Z, Updated: 2025-02-05T10:04:50Z)
 
 - [System Logs Loki settings UI glitches](https://github.com/NethServer/dev/issues/7280) (#7251) by stephdl (Created: 2025-01-24T11:23:04Z, Updated: 2025-01-29T14:50:20Z)
 
@@ -17,6 +15,10 @@ date = 2025-02-06
 - [NethSecurity Controller:  failed API errors after restart make UI unusable](https://github.com/NethServer/dev/issues/7251) (#7251) by gsanchietti (Created: 2025-01-14T15:11:14Z, Updated: 2025-01-15T10:19:29Z)
 
 ### NethSecurity
+
+- [Migration: losing configurations for openvpn tunnels with similar names](https://github.com/NethServer/nethsecurity/issues/1062) (#989) by francio87 (Created: 2025-02-04T15:50:11Z, Updated: 2025-02-06T09:59:14Z)
+
+- [Migration: openvpn device name lenght](https://github.com/NethServer/nethsecurity/issues/1061) (#989) by francio87 (Created: 2025-02-04T15:27:01Z, Updated: 2025-02-06T09:59:06Z)
 
 - [Avoid mwan3 alerts during service restart](https://github.com/NethServer/nethsecurity/issues/1054) (#989) by gsanchietti (Created: 2025-01-29T15:53:45Z, Updated: 2025-02-04T17:06:56Z)
 
