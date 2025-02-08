@@ -1,6 +1,6 @@
 +++
 title = 'Open Pull Requests by Bots'
-date = 2025-02-07
+date = 2025-02-08
 +++
 
 ## Organization: nethserver
@@ -25,8 +25,9 @@ date = 2025-02-07
 - :eyes:  **[chore(deps): update phpmyadmin/phpmyadmin docker tag to v5.2.2](https://github.com/NethServer/ns8-mariadb/pull/46)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-01-22T02:03:07Z
 - :eyes: :zzz: **[Translations update from Hosted Weblate](https://github.com/NethServer/ns8-mariadb/pull/45)** by *weblate* - Reviewers: *None* - Created at: 2024-12-20T11:49:35Z
 
-### NethServer/ns8-webserver 4 
+### NethServer/ns8-webserver 5 
 
+- :eyes:  **[chore(deps): update drakkan/sftpgo docker tag to v2.6.5](https://github.com/NethServer/ns8-webserver/pull/93)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-02-07T21:04:48Z
 - :eyes:  **[chore(deps): update nginx docker tag to v1.27.4](https://github.com/NethServer/ns8-webserver/pull/92)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-02-06T01:39:11Z
 - :eyes:  **[Translations update from Hosted Weblate](https://github.com/NethServer/ns8-webserver/pull/91)** by *weblate* - Reviewers: *None* - Created at: 2025-01-22T07:27:31Z
 -  :zzz: **[chore(deps): update ghcr.io/marketsquare/robotframework-browser/rfbrowser-stable docker tag to v19](https://github.com/NethServer/ns8-webserver/pull/83)** by *renovate[bot]* - Reviewers: *stephdl* - Created at: 2024-11-27T11:53:06Z
@@ -99,8 +100,9 @@ date = 2025-02-07
 
 - :eyes:  **[chore: bump ns packages (automatic)](https://github.com/NethServer/nethsecurity/pull/1036)** by *github-actions[bot]* - Reviewers: *None* - Created at: 2025-01-20T11:48:15Z
 
-### NethServer/nethsecurity-controller 2 
+### NethServer/nethsecurity-controller 3 
 
+- :eyes:  **[fix(deps): update module golang.org/x/crypto to v0.33.0](https://github.com/NethServer/nethsecurity-controller/pull/84)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-02-08T01:26:39Z
 - :eyes:  **[build(deps): Update ns-ui package (automated)](https://github.com/NethServer/nethsecurity-controller/pull/83)** by *github-actions[bot]* - Reviewers: *None* - Created at: 2025-01-29T01:09:34Z
 - :eyes:  **[chore(deps): update dependency go to v1.23.6](https://github.com/NethServer/nethsecurity-controller/pull/66)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-01-13T14:55:23Z
 
@@ -204,10 +206,6 @@ date = 2025-02-07
 
 - :eyes: :zzz: **[Bump rexml from 3.3.3 to 3.3.9](https://github.com/nethesis/docs/pull/15)** by *dependabot[bot]* - Reviewers: *None* - Created at: 2024-12-18T13:00:05Z
 - :eyes: :zzz: **[Bump webrick from 1.8.1 to 1.8.2](https://github.com/nethesis/docs/pull/14)** by *dependabot[bot]* - Reviewers: *None* - Created at: 2024-12-18T13:00:03Z
-
-### nethesis/nethserver-tancredi 1 
-
--   **[Bump tancredi version](https://github.com/nethesis/nethserver-tancredi/pull/149)** by *nethbot* - Reviewers: *Stell0, andrea-marchionni* - Created at: 2025-02-06T14:49:05Z
 
 ### nethesis/ns8-nethvoice 1 
 
