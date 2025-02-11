@@ -1,39 +1,43 @@
 +++
 title = 'Open Pull Requests'
-date = 2025-02-10
+date = 2025-02-11
 +++
 
 ## Organization: nethserver
 
-### NethServer/ns8-core 1 
+### NethServer/ns8-core 2 
 
+- :eyes:  **[fix: broken forced remove-module](https://github.com/NethServer/ns8-core/pull/799)** by *DavidePrincipi* - Reviewers: *None* - Created at: 2025-02-10T15:03:05Z
 - :eyes:  **[Special restore-module behavior for Traefik](https://github.com/NethServer/ns8-core/pull/790)** by *DavidePrincipi* - Reviewers: *None* - Created at: 2025-01-24T09:29:16Z
 
 ### NethServer/ns8-github-actions 1 
 
 - :eyes: :zzz: **[Add image analysis workflow with Trivy](https://github.com/NethServer/ns8-github-actions/pull/23)** by *Amygos* - Reviewers: *None* - Created at: 2024-11-20T10:46:48Z
 
-### NethServer/ns8-traefik 3 
+### NethServer/ns8-webserver 1 
 
--   **[feat: pass custom args to Podman](https://github.com/NethServer/ns8-traefik/pull/74)** by *DavidePrincipi* - Reviewers: *Tbaile* - Created at: 2025-02-07T16:04:27Z
--   **[feat: verify chain of uploaded certificate](https://github.com/NethServer/ns8-traefik/pull/73)** by *DavidePrincipi* - Reviewers: *Tbaile* - Created at: 2025-02-07T15:38:30Z
+-   **[Enable SCP command in SFTP server configuration](https://github.com/NethServer/ns8-webserver/pull/94)** by *stephdl* - Reviewers: *DavidePrincipi* - Created at: 2025-02-10T09:35:12Z
+
+### NethServer/ns8-traefik 1 
+
 -   **[Upgrade to single ACME default certificate](https://github.com/NethServer/ns8-traefik/pull/72)** by *DavidePrincipi* - Reviewers: *Amygos* - Created at: 2025-02-07T10:50:46Z
 
 ### NethServer/nethsecurity 1 
 
--   **[fix(migration): fixing duplicate mwan policies](https://github.com/NethServer/nethsecurity/pull/1068)** by *Tbaile* - Reviewers: *gsanchietti* - Created at: 2025-02-06T14:18:17Z
+- :eyes:  **[fix(migration): fixing duplicate mwan policies](https://github.com/NethServer/nethsecurity/pull/1068)** by *Tbaile* - Reviewers: *None* - Created at: 2025-02-06T14:18:17Z
 
 ### NethServer/ns8-mattermost 1 
 
 - :eyes:  **[Update Mattermost to v10 and PostgreSQL to v17](https://github.com/NethServer/ns8-mattermost/pull/91)** by *stephdl* - Reviewers: *None* - Created at: 2025-02-05T08:53:37Z
 
-### NethServer/ns8-webtop 1 
+### NethServer/ns8-webtop 2 
 
+-   **[fix(build): move jcharset-2.0.jar to correct path](https://github.com/NethServer/ns8-webtop/pull/106)** by *gsanchietti* - Reviewers: *Amygos* - Created at: 2025-02-10T15:35:46Z
 - :eyes:  **[feat(phonebook): add WebTop phonebook integration](https://github.com/NethServer/ns8-webtop/pull/104)** by *Amygos* - Reviewers: *None* - Created at: 2025-01-27T10:35:26Z
 
 ### NethServer/ns8-crowdsec 1 
 
--   **[Build bouncer from Alpine and install from GitHub page](https://github.com/NethServer/ns8-crowdsec/pull/67)** by *stephdl* - Reviewers: *DavidePrincipi* - Created at: 2025-02-07T11:58:11Z
+- :eyes:  **[Build bouncer from Alpine and install from GitHub page](https://github.com/NethServer/ns8-crowdsec/pull/67)** by *stephdl* - Reviewers: *None* - Created at: 2025-02-07T11:58:11Z
 
 ### NethServer/nethsecurity-ui 1 
 
@@ -41,11 +45,7 @@ date = 2025-02-10
 
 ### NethServer/nethsecurity-docs 1 
 
--   **[feat: add threat shield dns documentation](https://github.com/NethServer/nethsecurity-docs/pull/148)** by *andre8244* - Reviewers: *cotosso* - Created at: 2025-02-06T15:26:00Z
-
-### NethServer/ns8-imapsync 1 
-
-- :eyes:  **[Add file age check and maxage parameter for synchronization](https://github.com/NethServer/ns8-imapsync/pull/37)** by *stephdl* - Reviewers: *None* - Created at: 2025-02-05T15:10:08Z
+-   **[feat: add threat shield dns documentation](https://github.com/NethServer/nethsecurity-docs/pull/148)** by *andre8244* - Reviewers: *cotosso, filippocarletti* - Created at: 2025-02-06T15:26:00Z
 
 ### NethServer/nethlink 1 
 
@@ -70,7 +70,7 @@ date = 2025-02-10
 -   **[fix(nethcti-server): remove useless volume](https://github.com/nethesis/ns8-nethvoice/pull/376)** by *Stell0* - Reviewers: *Amygos* - Created at: 2025-02-07T09:44:58Z
 -   **[feat(lookup): Add Zucchetti Infinity API in lookup sample scripts](https://github.com/nethesis/ns8-nethvoice/pull/374)** by *Stell0* - Reviewers: *Amygos* - Created at: 2025-02-06T11:03:33Z
 -   **[feat(asterisk): Update Asterisk to 18.26.1](https://github.com/nethesis/ns8-nethvoice/pull/373)** by *Stell0* - Reviewers: *Amygos* - Created at: 2025-02-05T17:52:28Z
-- :eyes:  **[feature(sftp): Add sftp do access recordings](https://github.com/nethesis/ns8-nethvoice/pull/369)** by *Stell0* - Reviewers: *None* - Created at: 2025-01-27T16:45:02Z
+-   **[feature(sftp): Add sftp do access recordings](https://github.com/nethesis/ns8-nethvoice/pull/369)** by *Stell0* - Reviewers: *Amygos* - Created at: 2025-01-27T16:45:02Z
 
 ### nethesis/ns8-nethvoice-proxy 2 
 
