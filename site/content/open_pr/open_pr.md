@@ -1,6 +1,6 @@
 +++
 title = 'Open Pull Requests'
-date = 2025-02-11
+date = 2025-02-12
 +++
 
 ## Organization: nethserver
@@ -22,33 +22,31 @@ date = 2025-02-11
 
 -   **[Upgrade to single ACME default certificate](https://github.com/NethServer/ns8-traefik/pull/72)** by *DavidePrincipi* - Reviewers: *Amygos* - Created at: 2025-02-07T10:50:46Z
 
-### NethServer/nethsecurity 1 
+### NethServer/nethsecurity 3 
 
-- :eyes:  **[fix(migration): fixing duplicate mwan policies](https://github.com/NethServer/nethsecurity/pull/1068)** by *Tbaile* - Reviewers: *None* - Created at: 2025-02-06T14:18:17Z
+- :eyes:  **[Improve coova-chilli proxy debug handling and enforce HTTP/1.1 for curl compatibility](https://github.com/NethServer/nethsecurity/pull/1076)** by *Amygos* - Reviewers: *None* - Created at: 2025-02-11T16:23:29Z
+-   **[fix(migration): handle truncated wan ](https://github.com/NethServer/nethsecurity/pull/1073)** by *gsanchietti* - Reviewers: *Tbaile* - Created at: 2025-02-11T13:09:42Z
+-   **[build(snort3): update snort package](https://github.com/NethServer/nethsecurity/pull/1072)** by *Tbaile* - Reviewers: *filippocarletti* - Created at: 2025-02-11T09:58:08Z
 
 ### NethServer/ns8-mattermost 1 
 
 - :eyes:  **[Update Mattermost to v10 and PostgreSQL to v17](https://github.com/NethServer/ns8-mattermost/pull/91)** by *stephdl* - Reviewers: *None* - Created at: 2025-02-05T08:53:37Z
 
-### NethServer/ns8-webtop 2 
+### NethServer/ns8-webtop 1 
 
--   **[fix(build): move jcharset-2.0.jar to correct path](https://github.com/NethServer/ns8-webtop/pull/106)** by *gsanchietti* - Reviewers: *Amygos* - Created at: 2025-02-10T15:35:46Z
 - :eyes:  **[feat(phonebook): add WebTop phonebook integration](https://github.com/NethServer/ns8-webtop/pull/104)** by *Amygos* - Reviewers: *None* - Created at: 2025-01-27T10:35:26Z
 
-### NethServer/ns8-crowdsec 1 
+### NethServer/nethserver-firewall-migration 1 
 
-- :eyes:  **[Build bouncer from Alpine and install from GitHub page](https://github.com/NethServer/ns8-crowdsec/pull/67)** by *stephdl* - Reviewers: *None* - Created at: 2025-02-07T11:58:11Z
+-   **[fix(network): do not use label for wans](https://github.com/NethServer/nethserver-firewall-migration/pull/57)** by *gsanchietti* - Reviewers: *Tbaile* - Created at: 2025-02-11T13:16:46Z
 
 ### NethServer/nethsecurity-ui 1 
 
 - :eyes:  **[fix(ips): replacing drop with block](https://github.com/NethServer/nethsecurity-ui/pull/501)** by *Tbaile* - Reviewers: *None* - Created at: 2025-01-27T08:09:59Z
 
-### NethServer/nethsecurity-docs 1 
+### NethServer/nethlink 2 
 
--   **[feat: add threat shield dns documentation](https://github.com/NethServer/nethsecurity-docs/pull/148)** by *andre8244* - Reviewers: *cotosso, filippocarletti* - Created at: 2025-02-06T15:26:00Z
-
-### NethServer/nethlink 1 
-
+-   **[chore(dep): update phone-island](https://github.com/NethServer/nethlink/pull/46)** by *tonyco97* - Reviewers: *edospadoni* - Created at: 2025-02-11T10:45:49Z
 - :eyes:  **[fix: add the try catch block on UPDATE_SHARED_STATE to catch the error when a page has been destroyed before electron can share the updated data with it](https://github.com/NethServer/nethlink/pull/45)** by *therockerline* - Reviewers: *None* - Created at: 2025-01-29T10:04:34Z
 
 ## Organization: nethesis
