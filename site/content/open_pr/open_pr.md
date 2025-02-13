@@ -1,12 +1,13 @@
 +++
 title = 'Open Pull Requests'
-date = 2025-02-12
+date = 2025-02-13
 +++
 
 ## Organization: nethserver
 
-### NethServer/ns8-core 2 
+### NethServer/ns8-core 3 
 
+- :eyes:  **[feat(ldap): alter  external LDAP domains](https://github.com/NethServer/ns8-core/pull/806)** by *stephdl* - Reviewers: *None* - Created at: 2025-02-12T08:54:10Z
 - :eyes:  **[fix: broken forced remove-module](https://github.com/NethServer/ns8-core/pull/799)** by *DavidePrincipi* - Reviewers: *None* - Created at: 2025-02-10T15:03:05Z
 - :eyes:  **[Special restore-module behavior for Traefik](https://github.com/NethServer/ns8-core/pull/790)** by *DavidePrincipi* - Reviewers: *None* - Created at: 2025-01-24T09:29:16Z
 
@@ -18,15 +19,16 @@ date = 2025-02-12
 
 -   **[Enable SCP command in SFTP server configuration](https://github.com/NethServer/ns8-webserver/pull/94)** by *stephdl* - Reviewers: *DavidePrincipi* - Created at: 2025-02-10T09:35:12Z
 
-### NethServer/ns8-traefik 1 
+### NethServer/ns8-traefik 3 
 
+-   **[feat: add IPAllowList to route management](https://github.com/NethServer/ns8-traefik/pull/76)** by *DavidePrincipi* - Reviewers: *Amygos* - Created at: 2025-02-12T18:03:52Z
+-   **[feat: frontend proxies configuration](https://github.com/NethServer/ns8-traefik/pull/75)** by *DavidePrincipi* - Reviewers: *gsanchietti* - Created at: 2025-02-12T16:15:47Z
 -   **[Upgrade to single ACME default certificate](https://github.com/NethServer/ns8-traefik/pull/72)** by *DavidePrincipi* - Reviewers: *Amygos* - Created at: 2025-02-07T10:50:46Z
 
-### NethServer/nethsecurity 3 
+### NethServer/nethsecurity 2 
 
 - :eyes:  **[Improve coova-chilli proxy debug handling and enforce HTTP/1.1 for curl compatibility](https://github.com/NethServer/nethsecurity/pull/1076)** by *Amygos* - Reviewers: *None* - Created at: 2025-02-11T16:23:29Z
 -   **[fix(migration): handle truncated wan ](https://github.com/NethServer/nethsecurity/pull/1073)** by *gsanchietti* - Reviewers: *Tbaile* - Created at: 2025-02-11T13:09:42Z
--   **[build(snort3): update snort package](https://github.com/NethServer/nethsecurity/pull/1072)** by *Tbaile* - Reviewers: *filippocarletti* - Created at: 2025-02-11T09:58:08Z
 
 ### NethServer/ns8-mattermost 1 
 
@@ -38,11 +40,11 @@ date = 2025-02-12
 
 ### NethServer/nethserver-firewall-migration 1 
 
--   **[fix(network): do not use label for wans](https://github.com/NethServer/nethserver-firewall-migration/pull/57)** by *gsanchietti* - Reviewers: *Tbaile* - Created at: 2025-02-11T13:16:46Z
+- :eyes:  **[fix(network): do not use label for wans](https://github.com/NethServer/nethserver-firewall-migration/pull/57)** by *gsanchietti* - Reviewers: *None* - Created at: 2025-02-11T13:16:46Z
 
-### NethServer/nethsecurity-ui 1 
+### NethServer/ns8-imapsync 1 
 
-- :eyes:  **[fix(ips): replacing drop with block](https://github.com/NethServer/nethsecurity-ui/pull/501)** by *Tbaile* - Reviewers: *None* - Created at: 2025-01-27T08:09:59Z
+- :eyes:  **[Fix unnecessary quotes around FOLDER_INBOX in syncctl script when only inbox  ](https://github.com/NethServer/ns8-imapsync/pull/38)** by *stephdl* - Reviewers: *None* - Created at: 2025-02-12T13:31:02Z
 
 ### NethServer/nethlink 2 
 
