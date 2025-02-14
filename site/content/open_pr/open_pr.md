@@ -1,6 +1,6 @@
 +++
 title = 'Open Pull Requests'
-date = 2025-02-13
+date = 2025-02-14
 +++
 
 ## Organization: nethserver
@@ -15,13 +15,10 @@ date = 2025-02-13
 
 - :eyes: :zzz: **[Add image analysis workflow with Trivy](https://github.com/NethServer/ns8-github-actions/pull/23)** by *Amygos* - Reviewers: *None* - Created at: 2024-11-20T10:46:48Z
 
-### NethServer/ns8-webserver 1 
+### NethServer/ns8-traefik 4 
 
--   **[Enable SCP command in SFTP server configuration](https://github.com/NethServer/ns8-webserver/pull/94)** by *stephdl* - Reviewers: *DavidePrincipi* - Created at: 2025-02-10T09:35:12Z
-
-### NethServer/ns8-traefik 3 
-
--   **[feat: add IPAllowList to route management](https://github.com/NethServer/ns8-traefik/pull/76)** by *DavidePrincipi* - Reviewers: *Amygos* - Created at: 2025-02-12T18:03:52Z
+-   **[Restore Traefik custom configuration ](https://github.com/NethServer/ns8-traefik/pull/77)** by *DavidePrincipi* - Reviewers: *gsanchietti* - Created at: 2025-02-13T15:14:36Z
+- :eyes:  **[feat: add IPAllowList to route management](https://github.com/NethServer/ns8-traefik/pull/76)** by *DavidePrincipi* - Reviewers: *None* - Created at: 2025-02-12T18:03:52Z
 -   **[feat: frontend proxies configuration](https://github.com/NethServer/ns8-traefik/pull/75)** by *DavidePrincipi* - Reviewers: *gsanchietti* - Created at: 2025-02-12T16:15:47Z
 -   **[Upgrade to single ACME default certificate](https://github.com/NethServer/ns8-traefik/pull/72)** by *DavidePrincipi* - Reviewers: *Amygos* - Created at: 2025-02-07T10:50:46Z
 
@@ -42,10 +39,6 @@ date = 2025-02-13
 
 - :eyes:  **[fix(network): do not use label for wans](https://github.com/NethServer/nethserver-firewall-migration/pull/57)** by *gsanchietti* - Reviewers: *None* - Created at: 2025-02-11T13:16:46Z
 
-### NethServer/ns8-imapsync 1 
-
-- :eyes:  **[Fix unnecessary quotes around FOLDER_INBOX in syncctl script when only inbox  ](https://github.com/NethServer/ns8-imapsync/pull/38)** by *stephdl* - Reviewers: *None* - Created at: 2025-02-12T13:31:02Z
-
 ### NethServer/nethlink 2 
 
 -   **[chore(dep): update phone-island](https://github.com/NethServer/nethlink/pull/46)** by *tonyco97* - Reviewers: *edospadoni* - Created at: 2025-02-11T10:45:49Z
@@ -53,9 +46,9 @@ date = 2025-02-13
 
 ## Organization: nethesis
 
-### nethesis/nethserver-phonebook-mysql 1 
+### nethesis/nethvoice-wizard-ui 1 
 
--   **[feat(sources): Add Zucchetti Infinity as phonebook source](https://github.com/nethesis/nethserver-phonebook-mysql/pull/51)** by *Stell0* - Reviewers: *Amygos* - Created at: 2025-01-28T15:25:45Z
+- :eyes:  **[Add NP-X5 v2](https://github.com/nethesis/nethvoice-wizard-ui/pull/196)** by *andrea-marchionni* - Reviewers: *None* - Created at: 2025-02-13T11:32:26Z
 
 ### nethesis/nethcti-app-android 1 
 
@@ -65,12 +58,14 @@ date = 2025-02-13
 
 -  :zzz: **[Removed old notification service usage](https://github.com/nethesis/nethcti-app-iphone/pull/37)** by *NicolaMrAPPs* - Reviewers: *b9874e40962149eee62a8fd3bc4e709e* - Created at: 2023-08-02T09:19:30Z
 
-### nethesis/ns8-nethvoice 4 
+### nethesis/tancredi 1 
 
+- :eyes:  **[Add NP-X5 v2](https://github.com/nethesis/tancredi/pull/306)** by *andrea-marchionni* - Reviewers: *None* - Created at: 2025-02-13T11:32:35Z
+
+### nethesis/ns8-nethvoice 2 
+
+- :eyes:  **[Add NP-X5 v2](https://github.com/nethesis/ns8-nethvoice/pull/380)** by *andrea-marchionni* - Reviewers: *None* - Created at: 2025-02-13T11:32:44Z
 -   **[fix(nethcti-server): remove useless volume](https://github.com/nethesis/ns8-nethvoice/pull/376)** by *Stell0* - Reviewers: *Amygos* - Created at: 2025-02-07T09:44:58Z
--   **[feat(lookup): Add Zucchetti Infinity API in lookup sample scripts](https://github.com/nethesis/ns8-nethvoice/pull/374)** by *Stell0* - Reviewers: *Amygos* - Created at: 2025-02-06T11:03:33Z
--   **[feat(asterisk): Update Asterisk to 18.26.1](https://github.com/nethesis/ns8-nethvoice/pull/373)** by *Stell0* - Reviewers: *Amygos* - Created at: 2025-02-05T17:52:28Z
--   **[feature(sftp): Add sftp do access recordings](https://github.com/nethesis/ns8-nethvoice/pull/369)** by *Stell0* - Reviewers: *Amygos* - Created at: 2025-01-27T16:45:02Z
 
 ### nethesis/ns8-nethvoice-proxy 2 
 
