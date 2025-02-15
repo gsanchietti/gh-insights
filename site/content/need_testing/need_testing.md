@@ -1,11 +1,11 @@
 +++
 title = 'Need testing (8)'
-date = 2025-02-14
+date = 2025-02-15
 +++
 
 ## NethServer
 - **[Crowdesc: upgrade the bouncer to v0.0.31 and the LAPI to 1.6.5](https://github.com/NethServer/dev/issues/7307)** (#7140) by *stephdl* (Created: 2025-02-11, Updated: 2025-02-12T09:01:41Z)
-- :point_right: **[High system load with concurrent Imapsync connectors](https://github.com/NethServer/dev/issues/7296)** (#7140) by *nrauso* (Created: 2025-02-05, Updated: 2025-02-13T16:02:46Z)
+- :point_right: **[High system load with concurrent Imapsync connectors](https://github.com/NethServer/dev/issues/7296)** (#7140) by *nrauso* (Created: 2025-02-05, Updated: 2025-02-14T15:23:01Z)
 
 ## NethVoice
 - :point_right: **[Update Asterisk to 18.26.1](https://github.com/NethServer/dev/issues/7297)** (#7140) by *Stell0* (Created: 2025-02-05, Updated: 2025-02-05T17:54:57Z)

@@ -1,12 +1,13 @@
 +++
 title = 'Open Pull Requests'
-date = 2025-02-14
+date = 2025-02-15
 +++
 
 ## Organization: nethserver
 
-### NethServer/ns8-core 3 
+### NethServer/ns8-core 4 
 
+- :eyes:  **[fix(ldap): Update domain configuration and reload event](https://github.com/NethServer/ns8-core/pull/809)** by *stephdl* - Reviewers: *None* - Created at: 2025-02-14T10:47:10Z
 - :eyes:  **[feat(ldap): alter  external LDAP domains](https://github.com/NethServer/ns8-core/pull/806)** by *stephdl* - Reviewers: *None* - Created at: 2025-02-12T08:54:10Z
 - :eyes:  **[fix: broken forced remove-module](https://github.com/NethServer/ns8-core/pull/799)** by *DavidePrincipi* - Reviewers: *None* - Created at: 2025-02-10T15:03:05Z
 - :eyes:  **[Special restore-module behavior for Traefik](https://github.com/NethServer/ns8-core/pull/790)** by *DavidePrincipi* - Reviewers: *None* - Created at: 2025-01-24T09:29:16Z
@@ -17,15 +18,20 @@ date = 2025-02-14
 
 ### NethServer/ns8-traefik 4 
 
+-   **[feat: add IPAllowList to route management](https://github.com/NethServer/ns8-traefik/pull/79)** by *DavidePrincipi* - Reviewers: *Amygos* - Created at: 2025-02-14T17:36:10Z
+-   **[feat: frontend proxies configuration (2)](https://github.com/NethServer/ns8-traefik/pull/78)** by *DavidePrincipi* - Reviewers: *gsanchietti* - Created at: 2025-02-14T17:29:55Z
 -   **[Restore Traefik custom configuration ](https://github.com/NethServer/ns8-traefik/pull/77)** by *DavidePrincipi* - Reviewers: *gsanchietti* - Created at: 2025-02-13T15:14:36Z
-- :eyes:  **[feat: add IPAllowList to route management](https://github.com/NethServer/ns8-traefik/pull/76)** by *DavidePrincipi* - Reviewers: *None* - Created at: 2025-02-12T18:03:52Z
--   **[feat: frontend proxies configuration](https://github.com/NethServer/ns8-traefik/pull/75)** by *DavidePrincipi* - Reviewers: *gsanchietti* - Created at: 2025-02-12T16:15:47Z
--   **[Upgrade to single ACME default certificate](https://github.com/NethServer/ns8-traefik/pull/72)** by *DavidePrincipi* - Reviewers: *Amygos* - Created at: 2025-02-07T10:50:46Z
+- :eyes:  **[Upgrade to single ACME default certificate](https://github.com/NethServer/ns8-traefik/pull/72)** by *DavidePrincipi* - Reviewers: *None* - Created at: 2025-02-07T10:50:46Z
 
-### NethServer/nethsecurity 2 
+### NethServer/nethsecurity 3 
 
-- :eyes:  **[Improve coova-chilli proxy debug handling and enforce HTTP/1.1 for curl compatibility](https://github.com/NethServer/nethsecurity/pull/1076)** by *Amygos* - Reviewers: *None* - Created at: 2025-02-11T16:23:29Z
--   **[fix(migration): handle truncated wan ](https://github.com/NethServer/nethsecurity/pull/1073)** by *gsanchietti* - Reviewers: *Tbaile* - Created at: 2025-02-11T13:09:42Z
+-   **[fix(coova-chilli): enforce HTTP/1.1 for curl compatibility](https://github.com/NethServer/nethsecurity/pull/1076)** by *Amygos* - Reviewers: *gsanchietti, Tbaile* - Created at: 2025-02-11T16:23:29Z
+- :eyes:  **[fix(migration): handle truncated wan ](https://github.com/NethServer/nethsecurity/pull/1073)** by *gsanchietti* - Reviewers: *None* - Created at: 2025-02-11T13:09:42Z
+-  :zzz: **[High availability stack](https://github.com/NethServer/nethsecurity/pull/871)** by *gsanchietti* - Reviewers: *Tbaile* - Created at: 2024-10-23T15:36:11Z
+
+### NethServer/ns8-mail 1 
+
+-   **[fix(rspamd): remove NIXSPAM RBL configuration](https://github.com/NethServer/ns8-mail/pull/168)** by *DavidePrincipi* - Reviewers: *filippocarletti* - Created at: 2025-02-14T16:00:17Z
 
 ### NethServer/ns8-mattermost 1 
 
@@ -39,10 +45,9 @@ date = 2025-02-14
 
 - :eyes:  **[fix(network): do not use label for wans](https://github.com/NethServer/nethserver-firewall-migration/pull/57)** by *gsanchietti* - Reviewers: *None* - Created at: 2025-02-11T13:16:46Z
 
-### NethServer/nethlink 2 
+### NethServer/nethlink 1 
 
 -   **[chore(dep): update phone-island](https://github.com/NethServer/nethlink/pull/46)** by *tonyco97* - Reviewers: *edospadoni* - Created at: 2025-02-11T10:45:49Z
-- :eyes:  **[fix: add the try catch block on UPDATE_SHARED_STATE to catch the error when a page has been destroyed before electron can share the updated data with it](https://github.com/NethServer/nethlink/pull/45)** by *therockerline* - Reviewers: *None* - Created at: 2025-01-29T10:04:34Z
 
 ## Organization: nethesis
 
@@ -65,11 +70,10 @@ date = 2025-02-14
 ### nethesis/ns8-nethvoice 2 
 
 - :eyes:  **[Add NP-X5 v2](https://github.com/nethesis/ns8-nethvoice/pull/380)** by *andrea-marchionni* - Reviewers: *None* - Created at: 2025-02-13T11:32:44Z
--   **[fix(nethcti-server): remove useless volume](https://github.com/nethesis/ns8-nethvoice/pull/376)** by *Stell0* - Reviewers: *Amygos* - Created at: 2025-02-07T09:44:58Z
+- :eyes:  **[fix(nethcti-server): remove useless volume](https://github.com/nethesis/ns8-nethvoice/pull/376)** by *Stell0* - Reviewers: *None* - Created at: 2025-02-07T09:44:58Z
 
-### nethesis/ns8-nethvoice-proxy 2 
+### nethesis/ns8-nethvoice-proxy 1 
 
-- :eyes:  **[fix(kamailio.cfg): Log rejected INVITES or REGISTER for unrecognized …](https://github.com/nethesis/ns8-nethvoice-proxy/pull/52)** by *Stell0* - Reviewers: *None* - Created at: 2025-02-05T16:56:33Z
 - :eyes: :zzz: **[Remove Route header handling for inbound packets](https://github.com/nethesis/ns8-nethvoice-proxy/pull/49)** by *Amygos* - Reviewers: *None* - Created at: 2024-12-06T15:26:49Z
 
 ### nethesis/vue-components 2 
