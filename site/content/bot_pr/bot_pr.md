@@ -1,6 +1,6 @@
 +++
 title = 'Open Pull Requests by Bots'
-date = 2025-02-16
+date = 2025-02-17
 +++
 
 ## Organization: nethserver
@@ -72,7 +72,7 @@ date = 2025-02-16
 
 - :eyes:  **[chore(deps): update traefik docker tag to v2.11.20](https://github.com/NethServer/ns8-traefik/pull/71)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-01-29T20:33:18Z
 - :eyes:  **[chore(deps): update ghcr.io/marketsquare/robotframework-browser/rfbrowser-stable docker tag to v19.3.1](https://github.com/NethServer/ns8-traefik/pull/70)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-01-26T16:22:41Z
-- :eyes:  **[chore(deps): update traefik docker tag to v3](https://github.com/NethServer/ns8-traefik/pull/68)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-01-17T20:41:24Z
+- :eyes: :zzz: **[chore(deps): update traefik docker tag to v3](https://github.com/NethServer/ns8-traefik/pull/68)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-01-17T20:41:24Z
 
 ### NethServer/ns8-openldap 4 
 
