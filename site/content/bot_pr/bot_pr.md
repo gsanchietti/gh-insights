@@ -1,12 +1,13 @@
 +++
 title = 'Open Pull Requests by Bots'
-date = 2025-02-17
+date = 2025-02-18
 +++
 
 ## Organization: nethserver
 
-### NethServer/ns8-core 8 
+### NethServer/ns8-core 9 
 
+- :eyes:  **[chore(deps): bump elliptic from 6.5.4 to 6.6.1 in /core/ui](https://github.com/NethServer/ns8-core/pull/810)** by *dependabot[bot]* - Reviewers: *None* - Created at: 2025-02-17T09:19:37Z
 - :eyes:  **[chore(deps): update dependency grafana/loki to v2.9.12](https://github.com/NethServer/ns8-core/pull/808)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-02-13T16:56:32Z
 - :eyes:  **[chore(deps): update grafana/promtail docker tag to v3](https://github.com/NethServer/ns8-core/pull/805)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-02-11T01:12:03Z
 - :eyes:  **[chore(deps): update ghcr.io/marketsquare/robotframework-browser/rfbrowser-stable docker tag to v19](https://github.com/NethServer/ns8-core/pull/804)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-02-11T01:11:58Z
@@ -68,11 +69,9 @@ date = 2025-02-17
 -  :zzz: **[chore(deps): update traefik docker tag to v3](https://github.com/NethServer/ns8-loki/pull/23)** by *renovate[bot]* - Reviewers: *Amygos* - Created at: 2024-07-30T17:21:16Z
 -  :zzz: **[chore(deps): update grafana/loki docker tag to v3](https://github.com/NethServer/ns8-loki/pull/19)** by *renovate[bot]* - Reviewers: *DavidePrincipi* - Created at: 2024-07-30T12:05:22Z
 
-### NethServer/ns8-traefik 3 
+### NethServer/ns8-traefik 1 
 
-- :eyes:  **[chore(deps): update traefik docker tag to v2.11.20](https://github.com/NethServer/ns8-traefik/pull/71)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-01-29T20:33:18Z
 - :eyes:  **[chore(deps): update ghcr.io/marketsquare/robotframework-browser/rfbrowser-stable docker tag to v19.3.1](https://github.com/NethServer/ns8-traefik/pull/70)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-01-26T16:22:41Z
-- :eyes: :zzz: **[chore(deps): update traefik docker tag to v3](https://github.com/NethServer/ns8-traefik/pull/68)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-01-17T20:41:24Z
 
 ### NethServer/ns8-openldap 4 
 
@@ -83,7 +82,7 @@ date = 2025-02-17
 
 ### NethServer/ns8-node_exporter 3 
 
-- :eyes: :zzz: **[chore(deps): update quay.io/prometheus/node-exporter docker tag to v1.8.2](https://github.com/NethServer/ns8-node_exporter/pull/13)** by *renovate[bot]* - Reviewers: *None* - Created at: 2024-12-20T15:10:18Z
+- :eyes: :zzz: **[chore(deps): update quay.io/prometheus/node-exporter docker tag to v1.9.0](https://github.com/NethServer/ns8-node_exporter/pull/13)** by *renovate[bot]* - Reviewers: *None* - Created at: 2024-12-20T15:10:18Z
 - :eyes: :zzz: **[chore(deps): update node.js to v18.20.6](https://github.com/NethServer/ns8-node_exporter/pull/12)** by *renovate[bot]* - Reviewers: *None* - Created at: 2024-12-20T15:10:15Z
 - :eyes: :zzz: **[Translations update from Hosted Weblate](https://github.com/NethServer/ns8-node_exporter/pull/11)** by *weblate* - Reviewers: *None* - Created at: 2024-12-20T11:49:16Z
 
@@ -163,10 +162,6 @@ date = 2025-02-17
 
 - :eyes:  **[chore(deps): update alpine docker tag to v3.21.3](https://github.com/NethServer/ns8-crowdsec/pull/69)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-02-14T22:00:49Z
 - :eyes: :zzz: **[chore(deps): update ghcr.io/marketsquare/robotframework-browser/rfbrowser-stable docker tag to v19.3.1](https://github.com/NethServer/ns8-crowdsec/pull/63)** by *renovate[bot]* - Reviewers: *None* - Created at: 2024-12-20T22:49:56Z
-
-### NethServer/ns8-docs 1 
-
-- :eyes:  **[Translations update from Hosted Weblate](https://github.com/NethServer/ns8-docs/pull/141)** by *weblate* - Reviewers: *None* - Created at: 2025-01-18T16:00:41Z
 
 ### NethServer/ns8-imapsync 2 
 
