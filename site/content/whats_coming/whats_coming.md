@@ -2,13 +2,19 @@
 
 title = 'To be released soon'
 
-date = 2025-02-18
+date = 2025-02-19
 
 +++
 
 ### NethVoice
 
 - [NethVoice CTI: privacy in not active on the drawer](https://github.com/NethServer/dev/issues/7304) (#7247) by andrea-marchionni (Created: 2025-02-10T15:09:57Z, Updated: 2025-02-17T14:48:18Z)
+
+- [Update Asterisk to 18.26.1](https://github.com/NethServer/dev/issues/7297) (#7247) by Stell0 (Created: 2025-02-05T17:23:22Z, Updated: 2025-02-18T09:45:58Z)
+
+- [NethVoice: Snom phones freeze asking emergency number](https://github.com/NethServer/dev/issues/7291) (#7247) by andrea-marchionni (Created: 2025-01-29T10:13:35Z, Updated: 2025-02-18T11:20:14Z)
+
+- [Add Zucchetti Infinity as phonebook source](https://github.com/NethServer/dev/issues/7287) (#7247) by Stell0 (Created: 2025-01-28T15:24:52Z, Updated: 2025-02-18T11:16:44Z)
 
 - [NethVoice: make easier access to Asterisk log](https://github.com/NethServer/dev/issues/7270) (#7247) by andrea-marchionni (Created: 2025-01-21T08:25:31Z, Updated: 2025-02-17T14:47:56Z)
 
