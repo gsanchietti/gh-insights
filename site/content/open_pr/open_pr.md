@@ -1,28 +1,17 @@
 +++
 title = 'Open Pull Requests'
-date = 2025-02-19
+date = 2025-02-20
 +++
 
 ## Organization: nethserver
-
-### NethServer/ns8-core 3 
-
-- :eyes:  **[Add i18n messages for duplicate group and user names](https://github.com/NethServer/ns8-core/pull/813)** by *stephdl* - Reviewers: *None* - Created at: 2025-02-18T16:20:03Z
-- :eyes:  **[fix(ldap): Update domain configuration and reload event](https://github.com/NethServer/ns8-core/pull/809)** by *stephdl* - Reviewers: *None* - Created at: 2025-02-14T10:47:10Z
-- :eyes:  **[feat(ldap): alter  external LDAP domains](https://github.com/NethServer/ns8-core/pull/806)** by *stephdl* - Reviewers: *None* - Created at: 2025-02-12T08:54:10Z
 
 ### NethServer/ns8-github-actions 1 
 
 - :eyes: :zzz: **[Add image analysis workflow with Trivy](https://github.com/NethServer/ns8-github-actions/pull/23)** by *Amygos* - Reviewers: *None* - Created at: 2024-11-20T10:46:48Z
 
-### NethServer/ns8-samba 2 
-
-- :eyes:  **[Check for user name conflicts with existing groups during validation](https://github.com/NethServer/ns8-samba/pull/75)** by *stephdl* - Reviewers: *None* - Created at: 2025-02-18T16:04:35Z
-- :eyes:  **[Specify object types for group member management](https://github.com/NethServer/ns8-samba/pull/74)** by *stephdl* - Reviewers: *None* - Created at: 2025-02-18T11:21:33Z
-
 ### NethServer/ns8-traefik 1 
 
--   **[Use TLS-ALPN-01 challenge](https://github.com/NethServer/ns8-traefik/pull/81)** by *DavidePrincipi* - Reviewers: *Amygos* - Created at: 2025-02-18T15:50:10Z
+-   **[Control cluster-admin HTTP route with API](https://github.com/NethServer/ns8-traefik/pull/82)** by *DavidePrincipi* - Reviewers: *Amygos* - Created at: 2025-02-19T18:09:05Z
 
 ### NethServer/nethsecurity 4 
 
@@ -30,10 +19,6 @@ date = 2025-02-19
 -   **[fix(coova-chilli): enforce HTTP/1.1 for curl compatibility](https://github.com/NethServer/nethsecurity/pull/1076)** by *Amygos* - Reviewers: *gsanchietti, Tbaile* - Created at: 2025-02-11T16:23:29Z
 - :eyes:  **[fix(migration): handle truncated wan ](https://github.com/NethServer/nethsecurity/pull/1073)** by *gsanchietti* - Reviewers: *None* - Created at: 2025-02-11T13:09:42Z
 -  :zzz: **[High availability stack](https://github.com/NethServer/nethsecurity/pull/871)** by *gsanchietti* - Reviewers: *Tbaile* - Created at: 2024-10-23T15:36:11Z
-
-### NethServer/ns8-mail 1 
-
-- :eyes:  **[Change button style and add delete confirmation modal for filter rules](https://github.com/NethServer/ns8-mail/pull/170)** by *stephdl* - Reviewers: *None* - Created at: 2025-02-17T15:04:48Z
 
 ### NethServer/ns8-mattermost 1 
 
@@ -49,11 +34,15 @@ date = 2025-02-19
 
 ### NethServer/ns8-docs 1 
 
--   **[feat: TLS-ALPN-01 challenge requirements](https://github.com/NethServer/ns8-docs/pull/145)** by *DavidePrincipi* - Reviewers: *gsanchietti* - Created at: 2025-02-18T17:07:02Z
+- :eyes:  **[feat: TLS-ALPN-01 challenge requirements](https://github.com/NethServer/ns8-docs/pull/145)** by *DavidePrincipi* - Reviewers: *None* - Created at: 2025-02-18T17:07:02Z
 
 ### NethServer/nethsecurity-docs 1 
 
 -   **[Update dns_dhcp.rst](https://github.com/NethServer/nethsecurity-docs/pull/150)** by *cotosso* - Reviewers: *filippocarletti* - Created at: 2025-02-17T15:55:29Z
+
+### NethServer/ns8-imapsync 1 
+
+- :eyes:  **[Refactor timestamp file handling in syncctl](https://github.com/NethServer/ns8-imapsync/pull/40)** by *stephdl* - Reviewers: *None* - Created at: 2025-02-19T14:19:17Z
 
 ### NethServer/nethlink 1 
 
@@ -90,8 +79,9 @@ date = 2025-02-19
 
 - :eyes: :zzz: **[Remove Route header handling for inbound packets](https://github.com/nethesis/ns8-nethvoice-proxy/pull/49)** by *Amygos* - Reviewers: *None* - Created at: 2024-12-06T15:26:49Z
 
-### nethesis/vue-components 2 
+### nethesis/vue-components 3 
 
+-   **[chore: maintenance tasks](https://github.com/nethesis/vue-components/pull/83)** by *Tbaile* - Reviewers: *andre8244* - Created at: 2025-02-19T15:02:12Z
 - :eyes: :zzz: **[fix!: enforcing types on parent projects](https://github.com/nethesis/vue-components/pull/81)** by *Tbaile* - Reviewers: *None* - Created at: 2024-11-07T13:55:58Z
 - :eyes: :zzz: **[fix: fixed issue with missing dependencies](https://github.com/nethesis/vue-components/pull/70)** by *Tbaile* - Reviewers: *None* - Created at: 2024-08-09T12:06:23Z
 

@@ -2,11 +2,13 @@
 
 title = 'To be released soon'
 
-date = 2025-02-19
+date = 2025-02-20
 
 +++
 
 ### NethVoice
+
+- [NethCQR doesn't answer before asking for DTMF](https://github.com/NethServer/dev/issues/7330) (#7247) by Stell0 (Created: 2025-02-19T16:04:28Z, Updated: 2025-02-19T16:40:10Z)
 
 - [NethVoice CTI: privacy in not active on the drawer](https://github.com/NethServer/dev/issues/7304) (#7247) by andrea-marchionni (Created: 2025-02-10T15:09:57Z, Updated: 2025-02-17T14:48:18Z)
 
