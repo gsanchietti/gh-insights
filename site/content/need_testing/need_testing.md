@@ -1,9 +1,10 @@
 +++
-title = 'Need testing (10)'
-date = 2025-02-20
+title = 'Need testing (12)'
+date = 2025-02-21
 +++
 
 ## NethServer
+- **[Imasync: Folder synchronization timestamp  is not honored](https://github.com/NethServer/dev/issues/7329)** (#7216) by *stephdl* (Created: 2025-02-19, Updated: 2025-02-20T14:29:18Z)
 - **[external account provider:  form is not empty when we add a new provider](https://github.com/NethServer/dev/issues/7326)** (#7216) by *stephdl* (Created: 2025-02-19, Updated: 2025-02-19T11:36:37Z)
 - **[Unhandled user and group name conflict within Samba AD](https://github.com/NethServer/dev/issues/7322)** (#7216) by *stephdl* (Created: 2025-02-18, Updated: 2025-02-19T14:02:12Z)
 - **[Core: external ldap provider cannot be removed](https://github.com/NethServer/dev/issues/7315)** (#7216) by *stephdl* (Created: 2025-02-14, Updated: 2025-02-19T11:31:12Z)
@@ -14,6 +15,7 @@ date = 2025-02-20
 
 ## NethVoice
 - **[NethVoice: Implement SFTP Access for Recordings](https://github.com/NethServer/dev/issues/7323)** (#7216) by *Amygos* (Created: 2025-02-18, Updated: 2025-02-18T14:24:52Z)
+- :point_right: **[NethVoice: add Terrecablate and  VoiPTel VoIP provider into wizard menu](https://github.com/NethServer/dev/issues/7290)** (#7216) by *andrea-marchionni* (Created: 2025-01-29, Updated: 2025-02-20T15:08:47Z)
 
 ## NoMilestone
 - :point_right: **[NethVoice Tancredi: update firmware for NP-X5 v1](https://github.com/NethServer/dev/issues/7216)** (#7216) by *andrea-marchionni* (Created: 2024-12-16, Updated: 2025-02-17T17:10:02Z)
