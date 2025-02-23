@@ -1,6 +1,6 @@
 +++
 title = 'Open Pull Requests by Bots'
-date = 2025-02-22
+date = 2025-02-23
 +++
 
 ## Organization: nethserver
@@ -151,7 +151,7 @@ date = 2025-02-22
 - :eyes: :zzz: **[chore(deps): update dependency marketsquare/robotframework-browser to v19.3.1](https://github.com/NethServer/ns8-piler/pull/31)** by *renovate[bot]* - Reviewers: *None* - Created at: 2024-12-20T22:41:22Z
 -  :zzz: **[chore(deps): update mariadb docker tag to v11](https://github.com/NethServer/ns8-piler/pull/27)** by *renovate[bot]* - Reviewers: *stephdl* - Created at: 2024-05-31T09:50:40Z
 -  :zzz: **[chore(deps): update sutoj/piler docker tag to v1.4.7](https://github.com/NethServer/ns8-piler/pull/26)** by *renovate[bot]* - Reviewers: *stephdl* - Created at: 2024-05-31T09:50:37Z
--  :zzz: **[chore(deps): update memcached docker tag to v1.6.36](https://github.com/NethServer/ns8-piler/pull/24)** by *renovate[bot]* - Reviewers: *stephdl* - Created at: 2024-05-31T08:18:14Z
+-  :zzz: **[chore(deps): update memcached docker tag to v1.6.37](https://github.com/NethServer/ns8-piler/pull/24)** by *renovate[bot]* - Reviewers: *stephdl* - Created at: 2024-05-31T08:18:14Z
 -  :zzz: **[chore(deps): update mariadb docker tag to v10.11.11](https://github.com/NethServer/ns8-piler/pull/23)** by *renovate[bot]* - Reviewers: *stephdl* - Created at: 2024-05-31T08:18:09Z
 
 ### NethServer/ns8-crowdsec 2 
