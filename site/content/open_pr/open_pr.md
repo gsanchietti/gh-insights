@@ -1,6 +1,6 @@
 +++
 title = 'Open Pull Requests'
-date = 2025-02-24
+date = 2025-02-25
 +++
 
 ## Organization: nethserver
@@ -10,14 +10,9 @@ date = 2025-02-24
 - :eyes:  **[Enhance Module Info Workflow with Release Type and Images List](https://github.com/NethServer/ns8-github-actions/pull/25)** by *Amygos* - Reviewers: *None* - Created at: 2025-02-20T16:22:59Z
 - :eyes: :zzz: **[Add image analysis workflow with Trivy](https://github.com/NethServer/ns8-github-actions/pull/23)** by *Amygos* - Reviewers: *None* - Created at: 2024-11-20T10:46:48Z
 
-### NethServer/ns8-traefik 1 
-
--   **[feat(certs): capture ACME error message](https://github.com/NethServer/ns8-traefik/pull/83)** by *DavidePrincipi* - Reviewers: *Amygos, gsanchietti* - Created at: 2025-02-21T16:02:42Z
-
-### NethServer/nethsecurity 3 
+### NethServer/nethsecurity 2 
 
 -   **[fix(coova-chilli): enforce HTTP/1.1 for curl compatibility](https://github.com/NethServer/nethsecurity/pull/1076)** by *Amygos* - Reviewers: *gsanchietti, Tbaile* - Created at: 2025-02-11T16:23:29Z
-- :eyes:  **[fix(migration): handle truncated wan ](https://github.com/NethServer/nethsecurity/pull/1073)** by *gsanchietti* - Reviewers: *None* - Created at: 2025-02-11T13:09:42Z
 -  :zzz: **[High availability stack](https://github.com/NethServer/nethsecurity/pull/871)** by *gsanchietti* - Reviewers: *Tbaile* - Created at: 2024-10-23T15:36:11Z
 
 ### NethServer/ns8-mattermost 1 
@@ -68,8 +63,9 @@ date = 2025-02-24
 - :eyes:  **[feat(freepbx): API for triggering phones configuration reload](https://github.com/nethesis/ns8-nethvoice/pull/383)** by *Stell0* - Reviewers: *None* - Created at: 2025-02-17T11:13:55Z
 - :eyes:  **[Add NP-X5 v2](https://github.com/nethesis/ns8-nethvoice/pull/380)** by *andrea-marchionni* - Reviewers: *None* - Created at: 2025-02-13T11:32:44Z
 
-### nethesis/ns8-nethvoice-proxy 1 
+### nethesis/ns8-nethvoice-proxy 2 
 
+-   **[chore(modules): bump kamailio version to 5.8.5](https://github.com/nethesis/ns8-nethvoice-proxy/pull/53)** by *Amygos* - Reviewers: *Stell0* - Created at: 2025-02-24T15:13:27Z
 - :eyes: :zzz: **[Remove Route header handling for inbound packets](https://github.com/nethesis/ns8-nethvoice-proxy/pull/49)** by *Amygos* - Reviewers: *None* - Created at: 2024-12-06T15:26:49Z
 
 ### nethesis/vue-components 2 

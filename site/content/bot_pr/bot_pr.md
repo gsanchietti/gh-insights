@@ -1,6 +1,6 @@
 +++
 title = 'Open Pull Requests by Bots'
-date = 2025-02-24
+date = 2025-02-25
 +++
 
 ## Organization: nethserver
@@ -32,8 +32,9 @@ date = 2025-02-24
 - :eyes: :zzz: **[chore(deps): update phpmyadmin/phpmyadmin docker tag to v5.2.2](https://github.com/NethServer/ns8-mariadb/pull/46)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-01-22T02:03:07Z
 - :eyes: :zzz: **[Translations update from Hosted Weblate](https://github.com/NethServer/ns8-mariadb/pull/45)** by *weblate* - Reviewers: *None* - Created at: 2024-12-20T11:49:35Z
 
-### NethServer/ns8-webserver 2 
+### NethServer/ns8-webserver 3 
 
+- :eyes:  **[chore(deps): update drakkan/sftpgo docker tag to v2.6.6](https://github.com/NethServer/ns8-webserver/pull/95)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-02-24T21:58:21Z
 -  :zzz: **[chore(deps): update ghcr.io/marketsquare/robotframework-browser/rfbrowser-stable docker tag to v19](https://github.com/NethServer/ns8-webserver/pull/83)** by *renovate[bot]* - Reviewers: *stephdl* - Created at: 2024-11-27T11:53:06Z
 -  :zzz: **[chore(deps): update ghcr.io/marketsquare/robotframework-browser/rfbrowser-stable docker tag to v10.1.0](https://github.com/NethServer/ns8-webserver/pull/76)** by *renovate[bot]* - Reviewers: *stephdl* - Created at: 2024-10-17T13:08:31Z
 
@@ -64,7 +65,7 @@ date = 2025-02-24
 
 - :eyes:  **[chore(deps): update grafana/loki docker tag to v2.9.12](https://github.com/NethServer/ns8-loki/pull/36)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-02-13T16:41:59Z
 - :eyes: :zzz: **[chore(deps): update ghcr.io/marketsquare/robotframework-browser/rfbrowser-stable docker tag to v19.3.1](https://github.com/NethServer/ns8-loki/pull/34)** by *renovate[bot]* - Reviewers: *None* - Created at: 2024-12-20T21:53:49Z
--  :zzz: **[chore(deps): update traefik docker tag to v2.11.20](https://github.com/NethServer/ns8-loki/pull/30)** by *renovate[bot]* - Reviewers: *Amygos* - Created at: 2024-11-20T19:13:22Z
+-  :zzz: **[chore(deps): update traefik docker tag to v2.11.21](https://github.com/NethServer/ns8-loki/pull/30)** by *renovate[bot]* - Reviewers: *Amygos* - Created at: 2024-11-20T19:13:22Z
 -  :zzz: **[chore(deps): update traefik docker tag to v3](https://github.com/NethServer/ns8-loki/pull/23)** by *renovate[bot]* - Reviewers: *Amygos* - Created at: 2024-07-30T17:21:16Z
 -  :zzz: **[chore(deps): update grafana/loki docker tag to v3](https://github.com/NethServer/ns8-loki/pull/19)** by *renovate[bot]* - Reviewers: *DavidePrincipi* - Created at: 2024-07-30T12:05:22Z
 
@@ -98,11 +99,12 @@ date = 2025-02-24
 
 - :eyes:  **[chore: bump ns packages (automatic)](https://github.com/NethServer/nethsecurity/pull/1071)** by *github-actions[bot]* - Reviewers: *None* - Created at: 2025-02-10T15:48:19Z
 
-### NethServer/nethsecurity-controller 4 
+### NethServer/nethsecurity-controller 5 
 
+- :eyes:  **[fix(deps): update module github.com/appleboy/gin-jwt/v2 to v2.10.2](https://github.com/NethServer/nethsecurity-controller/pull/87)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-02-24T16:05:55Z
 - :eyes:  **[fix(deps): update github.com/nethserver/nethsecurity-api digest to c1e7d61](https://github.com/NethServer/nethsecurity-controller/pull/86)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-02-13T12:03:10Z
 - :eyes:  **[build(deps): Update ns-ui package (automated)](https://github.com/NethServer/nethsecurity-controller/pull/85)** by *github-actions[bot]* - Reviewers: *None* - Created at: 2025-02-13T01:11:28Z
-- :eyes:  **[fix(deps): update module golang.org/x/crypto to v0.34.0](https://github.com/NethServer/nethsecurity-controller/pull/84)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-02-08T01:26:39Z
+- :eyes:  **[fix(deps): update module golang.org/x/crypto to v0.35.0](https://github.com/NethServer/nethsecurity-controller/pull/84)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-02-08T01:26:39Z
 - :eyes: :zzz: **[chore(deps): update dependency go to v1.24.0](https://github.com/NethServer/nethsecurity-controller/pull/66)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-01-13T14:55:23Z
 
 ### NethServer/ns8-mail 3 
