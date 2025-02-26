@@ -1,14 +1,22 @@
 +++
 title = 'Open Pull Requests'
-date = 2025-02-25
+date = 2025-02-26
 +++
 
 ## Organization: nethserver
+
+### NethServer/ns8-core 1 
+
+-   **[Monitoring: integrate metrics inside the core](https://github.com/NethServer/ns8-core/pull/816)** by *gsanchietti* - Reviewers: *DavidePrincipi* - Created at: 2025-02-19T16:54:48Z
 
 ### NethServer/ns8-github-actions 2 
 
 - :eyes:  **[Enhance Module Info Workflow with Release Type and Images List](https://github.com/NethServer/ns8-github-actions/pull/25)** by *Amygos* - Reviewers: *None* - Created at: 2025-02-20T16:22:59Z
 - :eyes: :zzz: **[Add image analysis workflow with Trivy](https://github.com/NethServer/ns8-github-actions/pull/23)** by *Amygos* - Reviewers: *None* - Created at: 2024-11-20T10:46:48Z
+
+### NethServer/ns8-traefik 1 
+
+-   **[fix!: avoid temporary Traefik cert](https://github.com/NethServer/ns8-traefik/pull/84)** by *DavidePrincipi* - Reviewers: *Amygos, gsanchietti* - Created at: 2025-02-25T11:42:01Z
 
 ### NethServer/nethsecurity 2 
 
@@ -37,7 +45,7 @@ date = 2025-02-25
 
 ### NethServer/nethlink 2 
 
--   **[Fix-powerup](https://github.com/NethServer/nethlink/pull/48)** by *therockerline* - Reviewers: *edospadoni, tonyco97* - Created at: 2025-02-21T09:52:32Z
+-   **[fix(ibernation): avoid token expiration after suspend](https://github.com/NethServer/nethlink/pull/48)** by *therockerline* - Reviewers: *edospadoni, tonyco97* - Created at: 2025-02-21T09:52:32Z
 -   **[fix: missing contact detail if company](https://github.com/NethServer/nethlink/pull/47)** by *tonyco97* - Reviewers: *edospadoni, therockerline* - Created at: 2025-02-20T11:55:29Z
 
 ## Organization: nethesis
@@ -63,14 +71,21 @@ date = 2025-02-25
 - :eyes:  **[feat(freepbx): API for triggering phones configuration reload](https://github.com/nethesis/ns8-nethvoice/pull/383)** by *Stell0* - Reviewers: *None* - Created at: 2025-02-17T11:13:55Z
 - :eyes:  **[Add NP-X5 v2](https://github.com/nethesis/ns8-nethvoice/pull/380)** by *andrea-marchionni* - Reviewers: *None* - Created at: 2025-02-13T11:32:44Z
 
-### nethesis/ns8-nethvoice-proxy 2 
+### nethesis/phone-island 1 
 
--   **[chore(modules): bump kamailio version to 5.8.5](https://github.com/nethesis/ns8-nethvoice-proxy/pull/53)** by *Amygos* - Reviewers: *Stell0* - Created at: 2025-02-24T15:13:27Z
+-   **[feat: created new switch devices view](https://github.com/nethesis/phone-island/pull/79)** by *tonyco97* - Reviewers: *edospadoni* - Created at: 2025-02-11T16:17:00Z
+
+### nethesis/ns8-nethvoice-proxy 1 
+
 - :eyes: :zzz: **[Remove Route header handling for inbound packets](https://github.com/nethesis/ns8-nethvoice-proxy/pull/49)** by *Amygos* - Reviewers: *None* - Created at: 2024-12-06T15:26:49Z
 
 ### nethesis/vue-components 2 
 
 - :eyes: :zzz: **[fix!: enforcing types on parent projects](https://github.com/nethesis/vue-components/pull/81)** by *Tbaile* - Reviewers: *None* - Created at: 2024-11-07T13:55:58Z
 - :eyes: :zzz: **[fix: fixed issue with missing dependencies](https://github.com/nethesis/vue-components/pull/70)** by *Tbaile* - Reviewers: *None* - Created at: 2024-08-09T12:06:23Z
+
+### nethesis/parceler 1 
+
+- :eyes:  **[chore(main): release 1.0.1](https://github.com/nethesis/parceler/pull/21)** by *Tbaile* - Reviewers: *None* - Created at: 2025-02-25T10:45:40Z
 
 
