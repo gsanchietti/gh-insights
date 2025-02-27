@@ -1,13 +1,13 @@
 +++
 title = 'Open Pull Requests'
-date = 2025-02-26
+date = 2025-02-27
 +++
 
 ## Organization: nethserver
 
 ### NethServer/ns8-core 1 
 
--   **[Monitoring: integrate metrics inside the core](https://github.com/NethServer/ns8-core/pull/816)** by *gsanchietti* - Reviewers: *DavidePrincipi* - Created at: 2025-02-19T16:54:48Z
+- :eyes:  **[Monitoring: integrate metrics inside the core](https://github.com/NethServer/ns8-core/pull/816)** by *gsanchietti* - Reviewers: *None* - Created at: 2025-02-19T16:54:48Z
 
 ### NethServer/ns8-github-actions 2 
 
@@ -29,7 +29,7 @@ date = 2025-02-26
 
 ### NethServer/ns8-webtop 1 
 
-- :eyes:  **[feat(phonebook): add WebTop phonebook integration](https://github.com/NethServer/ns8-webtop/pull/104)** by *Amygos* - Reviewers: *None* - Created at: 2025-01-27T10:35:26Z
+- :eyes: :zzz: **[feat(phonebook): add WebTop phonebook integration](https://github.com/NethServer/ns8-webtop/pull/104)** by *Amygos* - Reviewers: *None* - Created at: 2025-01-27T10:35:26Z
 
 ### NethServer/nethserver-firewall-migration 1 
 
@@ -45,8 +45,8 @@ date = 2025-02-26
 
 ### NethServer/nethlink 2 
 
+- :eyes:  **[chore(dep): update phone-island](https://github.com/NethServer/nethlink/pull/49)** by *edospadoni* - Reviewers: *None* - Created at: 2025-02-26T15:12:48Z
 -   **[fix(ibernation): avoid token expiration after suspend](https://github.com/NethServer/nethlink/pull/48)** by *therockerline* - Reviewers: *edospadoni, tonyco97* - Created at: 2025-02-21T09:52:32Z
--   **[fix: missing contact detail if company](https://github.com/NethServer/nethlink/pull/47)** by *tonyco97* - Reviewers: *edospadoni, therockerline* - Created at: 2025-02-20T11:55:29Z
 
 ## Organization: nethesis
 
@@ -66,14 +66,19 @@ date = 2025-02-26
 
 - :eyes:  **[Add NP-X5 v2](https://github.com/nethesis/tancredi/pull/306)** by *andrea-marchionni* - Reviewers: *None* - Created at: 2025-02-13T11:32:35Z
 
-### nethesis/ns8-nethvoice 2 
+### nethesis/ns8-nethvoice 3 
 
+- :eyes:  **[feat(phonebook): update python mysql connector library](https://github.com/nethesis/ns8-nethvoice/pull/393)** by *viktec* - Reviewers: *None* - Created at: 2025-02-26T16:47:39Z
 - :eyes:  **[feat(freepbx): API for triggering phones configuration reload](https://github.com/nethesis/ns8-nethvoice/pull/383)** by *Stell0* - Reviewers: *None* - Created at: 2025-02-17T11:13:55Z
 - :eyes:  **[Add NP-X5 v2](https://github.com/nethesis/ns8-nethvoice/pull/380)** by *andrea-marchionni* - Reviewers: *None* - Created at: 2025-02-13T11:32:44Z
 
+### nethesis/nethvoice-cti 1 
+
+- :eyes:  **[chore(dep): update phone-island](https://github.com/nethesis/nethvoice-cti/pull/287)** by *edospadoni* - Reviewers: *None* - Created at: 2025-02-26T15:10:26Z
+
 ### nethesis/phone-island 1 
 
--   **[feat: created new switch devices view](https://github.com/nethesis/phone-island/pull/79)** by *tonyco97* - Reviewers: *edospadoni* - Created at: 2025-02-11T16:17:00Z
+-   **[feat: fix top e right dimension](https://github.com/nethesis/phone-island/pull/80)** by *tonyco97* - Reviewers: *edospadoni* - Created at: 2025-02-26T18:51:49Z
 
 ### nethesis/ns8-nethvoice-proxy 1 
 

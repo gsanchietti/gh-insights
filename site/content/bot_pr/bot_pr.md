@@ -1,6 +1,6 @@
 +++
 title = 'Open Pull Requests by Bots'
-date = 2025-02-26
+date = 2025-02-27
 +++
 
 ## Organization: nethserver
@@ -69,9 +69,8 @@ date = 2025-02-26
 -  :zzz: **[chore(deps): update traefik docker tag to v3](https://github.com/NethServer/ns8-loki/pull/23)** by *renovate[bot]* - Reviewers: *Amygos* - Created at: 2024-07-30T17:21:16Z
 -  :zzz: **[chore(deps): update grafana/loki docker tag to v3](https://github.com/NethServer/ns8-loki/pull/19)** by *renovate[bot]* - Reviewers: *DavidePrincipi* - Created at: 2024-07-30T12:05:22Z
 
-### NethServer/ns8-traefik 2 
+### NethServer/ns8-traefik 1 
 
-- :eyes:  **[chore(deps): update traefik docker tag to v3.3.4](https://github.com/NethServer/ns8-traefik/pull/86)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-02-25T23:14:36Z
 - :eyes: :zzz: **[chore(deps): update ghcr.io/marketsquare/robotframework-browser/rfbrowser-stable docker tag to v19.3.1](https://github.com/NethServer/ns8-traefik/pull/70)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-01-26T16:22:41Z
 
 ### NethServer/ns8-openldap 4 
@@ -86,8 +85,9 @@ date = 2025-02-26
 - :eyes:  **[chore(deps): update node.js to v18.20.7](https://github.com/NethServer/ns8-node_exporter/pull/14)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-02-20T18:45:06Z
 - :eyes: :zzz: **[chore(deps): update quay.io/prometheus/node-exporter docker tag to v1.9.0](https://github.com/NethServer/ns8-node_exporter/pull/13)** by *renovate[bot]* - Reviewers: *None* - Created at: 2024-12-20T15:10:18Z
 
-### NethServer/ns8-prometheus 2 
+### NethServer/ns8-prometheus 3 
 
+- :eyes:  **[chore(deps): update quay.io/prometheus/prometheus docker tag to v3.2.1](https://github.com/NethServer/ns8-prometheus/pull/29)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-02-26T11:51:55Z
 - :eyes:  **[chore(deps): update node.js to v18.20.7](https://github.com/NethServer/ns8-prometheus/pull/28)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-02-20T19:01:48Z
 - :eyes: :zzz: **[chore(deps): update ghcr.io/marketsquare/robotframework-browser/rfbrowser-stable docker tag to v19.3.1](https://github.com/NethServer/ns8-prometheus/pull/26)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-01-26T16:40:44Z
 
