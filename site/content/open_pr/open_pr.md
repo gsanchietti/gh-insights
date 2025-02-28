@@ -1,18 +1,18 @@
 +++
 title = 'Open Pull Requests'
-date = 2025-02-27
+date = 2025-02-28
 +++
 
 ## Organization: nethserver
-
-### NethServer/ns8-core 1 
-
-- :eyes:  **[Monitoring: integrate metrics inside the core](https://github.com/NethServer/ns8-core/pull/816)** by *gsanchietti* - Reviewers: *None* - Created at: 2025-02-19T16:54:48Z
 
 ### NethServer/ns8-github-actions 2 
 
 - :eyes:  **[Enhance Module Info Workflow with Release Type and Images List](https://github.com/NethServer/ns8-github-actions/pull/25)** by *Amygos* - Reviewers: *None* - Created at: 2025-02-20T16:22:59Z
 - :eyes: :zzz: **[Add image analysis workflow with Trivy](https://github.com/NethServer/ns8-github-actions/pull/23)** by *Amygos* - Reviewers: *None* - Created at: 2024-11-20T10:46:48Z
+
+### NethServer/ns8-samba 1 
+
+-   **[fix: migration with no shares](https://github.com/NethServer/ns8-samba/pull/78)** by *DavidePrincipi* - Reviewers: *gsanchietti* - Created at: 2025-02-27T15:58:30Z
 
 ### NethServer/ns8-traefik 1 
 
@@ -35,9 +35,15 @@ date = 2025-02-27
 
 - :eyes:  **[fix(network): do not use label for wans](https://github.com/NethServer/nethserver-firewall-migration/pull/57)** by *gsanchietti* - Reviewers: *None* - Created at: 2025-02-11T13:16:46Z
 
-### NethServer/ns8-docs 1 
+### NethServer/ns8-docs 3 
 
+-   **[Nethvoice fixes](https://github.com/NethServer/ns8-docs/pull/148)** by *gsanchietti* - Reviewers: *andrea-marchionni* - Created at: 2025-02-27T16:42:49Z
+- :eyes:  **[feat: describe new metrics stack](https://github.com/NethServer/ns8-docs/pull/146)** by *gsanchietti* - Reviewers: *None* - Created at: 2025-02-27T08:56:43Z
 - :eyes:  **[feat: TLS-ALPN-01 challenge requirements](https://github.com/NethServer/ns8-docs/pull/145)** by *DavidePrincipi* - Reviewers: *None* - Created at: 2025-02-18T17:07:02Z
+
+### NethServer/nethsecurity-ui 1 
+
+-   **[build: maintenance tasks](https://github.com/NethServer/nethsecurity-ui/pull/519)** by *Tbaile* - Reviewers: *andre8244* - Created at: 2025-02-27T08:25:40Z
 
 ### NethServer/nethsecurity-docs 1 
 
@@ -75,10 +81,6 @@ date = 2025-02-27
 ### nethesis/nethvoice-cti 1 
 
 - :eyes:  **[chore(dep): update phone-island](https://github.com/nethesis/nethvoice-cti/pull/287)** by *edospadoni* - Reviewers: *None* - Created at: 2025-02-26T15:10:26Z
-
-### nethesis/phone-island 1 
-
--   **[feat: fix top e right dimension](https://github.com/nethesis/phone-island/pull/80)** by *tonyco97* - Reviewers: *edospadoni* - Created at: 2025-02-26T18:51:49Z
 
 ### nethesis/ns8-nethvoice-proxy 1 
 
