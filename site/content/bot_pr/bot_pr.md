@@ -1,6 +1,6 @@
 +++
 title = 'Open Pull Requests by Bots'
-date = 2025-02-28
+date = 2025-03-01
 +++
 
 ## Organization: nethserver
@@ -148,6 +148,10 @@ date = 2025-02-28
 -  :zzz: **[chore(deps): update memcached docker tag to v1.6.37](https://github.com/NethServer/ns8-piler/pull/24)** by *renovate[bot]* - Reviewers: *stephdl* - Created at: 2024-05-31T08:18:14Z
 -  :zzz: **[chore(deps): update mariadb docker tag to v10.11.11](https://github.com/NethServer/ns8-piler/pull/23)** by *renovate[bot]* - Reviewers: *stephdl* - Created at: 2024-05-31T08:18:09Z
 
+### NethServer/phonehome-server 1 
+
+- :eyes:  **[fix(deps): update dependency laravel/framework to v12](https://github.com/NethServer/phonehome-server/pull/127)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-03-01T01:48:09Z
+
 ### NethServer/ns8-crowdsec 2 
 
 - :eyes:  **[chore(deps): update alpine docker tag to v3.21.3](https://github.com/NethServer/ns8-crowdsec/pull/69)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-02-14T22:00:49Z
@@ -165,6 +169,10 @@ date = 2025-02-28
 ### NethServer/ns8-sogo 1 
 
 -  :zzz: **[Configure Renovate](https://github.com/NethServer/ns8-sogo/pull/16)** by *renovate[bot]* - Reviewers: *stephdl* - Created at: 2024-03-22T10:33:51Z
+
+### NethServer/ns8-postgresql 1 
+
+- :eyes:  **[chore(deps): update dpage/pgadmin4 docker tag to v9.1](https://github.com/NethServer/ns8-postgresql/pull/24)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-02-28T06:03:37Z
 
 ### NethServer/ns8-dnsmasq 3 
 

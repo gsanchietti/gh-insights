@@ -1,6 +1,6 @@
 +++
 title = 'Open Pull Requests'
-date = 2025-02-28
+date = 2025-03-01
 +++
 
 ## Organization: nethserver
@@ -9,10 +9,6 @@ date = 2025-02-28
 
 - :eyes:  **[Enhance Module Info Workflow with Release Type and Images List](https://github.com/NethServer/ns8-github-actions/pull/25)** by *Amygos* - Reviewers: *None* - Created at: 2025-02-20T16:22:59Z
 - :eyes: :zzz: **[Add image analysis workflow with Trivy](https://github.com/NethServer/ns8-github-actions/pull/23)** by *Amygos* - Reviewers: *None* - Created at: 2024-11-20T10:46:48Z
-
-### NethServer/ns8-samba 1 
-
--   **[fix: migration with no shares](https://github.com/NethServer/ns8-samba/pull/78)** by *DavidePrincipi* - Reviewers: *gsanchietti* - Created at: 2025-02-27T15:58:30Z
 
 ### NethServer/ns8-traefik 1 
 
@@ -37,13 +33,13 @@ date = 2025-02-28
 
 ### NethServer/ns8-docs 3 
 
--   **[Nethvoice fixes](https://github.com/NethServer/ns8-docs/pull/148)** by *gsanchietti* - Reviewers: *andrea-marchionni* - Created at: 2025-02-27T16:42:49Z
+- :eyes:  **[Nethvoice fixes](https://github.com/NethServer/ns8-docs/pull/148)** by *gsanchietti* - Reviewers: *None* - Created at: 2025-02-27T16:42:49Z
 - :eyes:  **[feat: describe new metrics stack](https://github.com/NethServer/ns8-docs/pull/146)** by *gsanchietti* - Reviewers: *None* - Created at: 2025-02-27T08:56:43Z
 - :eyes:  **[feat: TLS-ALPN-01 challenge requirements](https://github.com/NethServer/ns8-docs/pull/145)** by *DavidePrincipi* - Reviewers: *None* - Created at: 2025-02-18T17:07:02Z
 
 ### NethServer/nethsecurity-ui 1 
 
--   **[build: maintenance tasks](https://github.com/NethServer/nethsecurity-ui/pull/519)** by *Tbaile* - Reviewers: *andre8244* - Created at: 2025-02-27T08:25:40Z
+- :eyes:  **[build: maintenance tasks](https://github.com/NethServer/nethsecurity-ui/pull/519)** by *Tbaile* - Reviewers: *None* - Created at: 2025-02-27T08:25:40Z
 
 ### NethServer/nethsecurity-docs 1 
 
@@ -78,9 +74,9 @@ date = 2025-02-28
 - :eyes:  **[feat(freepbx): API for triggering phones configuration reload](https://github.com/nethesis/ns8-nethvoice/pull/383)** by *Stell0* - Reviewers: *None* - Created at: 2025-02-17T11:13:55Z
 - :eyes:  **[Add NP-X5 v2](https://github.com/nethesis/ns8-nethvoice/pull/380)** by *andrea-marchionni* - Reviewers: *None* - Created at: 2025-02-13T11:32:44Z
 
-### nethesis/nethvoice-cti 1 
+### nethesis/phone-island 1 
 
-- :eyes:  **[chore(dep): update phone-island](https://github.com/nethesis/nethvoice-cti/pull/287)** by *edospadoni* - Reviewers: *None* - Created at: 2025-02-26T15:10:26Z
+-   **[fix: avoid error if user has no device](https://github.com/nethesis/phone-island/pull/82)** by *tonyco97* - Reviewers: *edospadoni* - Created at: 2025-02-28T14:34:06Z
 
 ### nethesis/ns8-nethvoice-proxy 1 
 
