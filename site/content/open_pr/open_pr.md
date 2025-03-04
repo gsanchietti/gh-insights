@@ -1,6 +1,6 @@
 +++
 title = 'Open Pull Requests'
-date = 2025-03-03
+date = 2025-03-04
 +++
 
 ## Organization: nethserver
@@ -14,8 +14,10 @@ date = 2025-03-03
 
 -   **[fix!: avoid temporary Traefik cert](https://github.com/NethServer/ns8-traefik/pull/84)** by *DavidePrincipi* - Reviewers: *Amygos, gsanchietti* - Created at: 2025-02-25T11:42:01Z
 
-### NethServer/nethsecurity 2 
+### NethServer/nethsecurity 4 
 
+-   **[feat(packages): add f2fsck](https://github.com/NethServer/nethsecurity/pull/1106)** by *filippocarletti* - Reviewers: *gsanchietti, Tbaile* - Created at: 2025-03-03T17:14:14Z
+-   **[fix(ns-plug): restarting ns-plug indefinetly](https://github.com/NethServer/nethsecurity/pull/1104)** by *Tbaile* - Reviewers: *gsanchietti* - Created at: 2025-03-03T13:22:06Z
 -   **[fix(coova-chilli): enforce HTTP/1.1 for curl compatibility](https://github.com/NethServer/nethsecurity/pull/1076)** by *Amygos* - Reviewers: *gsanchietti, Tbaile* - Created at: 2025-02-11T16:23:29Z
 -  :zzz: **[High availability stack](https://github.com/NethServer/nethsecurity/pull/871)** by *gsanchietti* - Reviewers: *Tbaile* - Created at: 2024-10-23T15:36:11Z
 
@@ -31,15 +33,14 @@ date = 2025-03-03
 
 - :eyes:  **[fix(network): do not use label for wans](https://github.com/NethServer/nethserver-firewall-migration/pull/57)** by *gsanchietti* - Reviewers: *None* - Created at: 2025-02-11T13:16:46Z
 
-### NethServer/ns8-docs 3 
+### NethServer/ns8-docs 2 
 
-- :eyes:  **[Nethvoice fixes](https://github.com/NethServer/ns8-docs/pull/148)** by *gsanchietti* - Reviewers: *None* - Created at: 2025-02-27T16:42:49Z
 - :eyes:  **[feat: describe new metrics stack](https://github.com/NethServer/ns8-docs/pull/146)** by *gsanchietti* - Reviewers: *None* - Created at: 2025-02-27T08:56:43Z
 - :eyes:  **[feat: TLS-ALPN-01 challenge requirements](https://github.com/NethServer/ns8-docs/pull/145)** by *DavidePrincipi* - Reviewers: *None* - Created at: 2025-02-18T17:07:02Z
 
 ### NethServer/nethsecurity-ui 1 
 
-- :eyes:  **[build: maintenance tasks](https://github.com/NethServer/nethsecurity-ui/pull/519)** by *Tbaile* - Reviewers: *None* - Created at: 2025-02-27T08:25:40Z
+-   **[feat(dhcp): MAC-IP Binding](https://github.com/NethServer/nethsecurity-ui/pull/520)** by *Tbaile* - Reviewers: *andre8244* - Created at: 2025-03-03T07:39:43Z
 
 ### NethServer/nethsecurity-docs 1 
 
@@ -73,10 +74,6 @@ date = 2025-03-03
 - :eyes:  **[feat(phonebook): update python mysql connector library](https://github.com/nethesis/ns8-nethvoice/pull/393)** by *viktec* - Reviewers: *None* - Created at: 2025-02-26T16:47:39Z
 - :eyes:  **[feat(freepbx): API for triggering phones configuration reload](https://github.com/nethesis/ns8-nethvoice/pull/383)** by *Stell0* - Reviewers: *None* - Created at: 2025-02-17T11:13:55Z
 - :eyes:  **[Add NP-X5 v2](https://github.com/nethesis/ns8-nethvoice/pull/380)** by *andrea-marchionni* - Reviewers: *None* - Created at: 2025-02-13T11:32:44Z
-
-### nethesis/phone-island 1 
-
--   **[fix: avoid error if user has no device](https://github.com/nethesis/phone-island/pull/82)** by *tonyco97* - Reviewers: *edospadoni* - Created at: 2025-02-28T14:34:06Z
 
 ### nethesis/ns8-nethvoice-proxy 1 
 
