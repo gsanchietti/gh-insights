@@ -2,25 +2,21 @@
 
 title = 'To be released soon'
 
-date = 2025-03-04
+date = 2025-03-05
 
 +++
 
-### NethVoice
-
-- [NethVoice CTI: expiration timeout is not compatible](https://github.com/NethServer/dev/issues/7336) (#7153) by andrea-marchionni (Created: 2025-03-03T14:39:51Z, Updated: 2025-03-03T17:30:19Z)
-
-- [NethVoice: make easier access to Asterisk log](https://github.com/NethServer/dev/issues/7270) (#7153) by andrea-marchionni (Created: 2025-01-21T08:25:31Z, Updated: 2025-03-03T18:02:14Z)
-
-- [NethVoice CTI: Phone Island must facilitate the switch of calls between devices](https://github.com/NethServer/dev/issues/7153) (#7153) by andrea-marchionni (Created: 2024-11-18T10:10:26Z, Updated: 2025-03-03T17:31:33Z)
-
 ### NethServer
 
-- [external account provider:  form is not empty when we add a new provider](https://github.com/NethServer/dev/issues/7326) (#7153) by stephdl (Created: 2025-02-19T11:01:31Z, Updated: 2025-02-27T16:45:35Z)
+- [external account provider:  form is not empty when we add a new provider](https://github.com/NethServer/dev/issues/7326) (#7298) by stephdl (Created: 2025-02-19T11:01:31Z, Updated: 2025-02-27T16:45:35Z)
 
-- [Core: external ldap provider cannot be removed](https://github.com/NethServer/dev/issues/7315) (#7153) by stephdl (Created: 2025-02-14T10:22:52Z, Updated: 2025-02-27T16:43:25Z)
+- [Core: external ldap provider cannot be removed](https://github.com/NethServer/dev/issues/7315) (#7298) by stephdl (Created: 2025-02-14T10:22:52Z, Updated: 2025-02-27T16:43:25Z)
 
-- [Edit provider configuration from interface](https://github.com/NethServer/dev/issues/7298) (#7153) by lucagasparini (Created: 2025-02-06T10:47:58Z, Updated: 2025-02-21T11:56:23Z)
+- [Edit provider configuration from interface](https://github.com/NethServer/dev/issues/7298) (#7298) by lucagasparini (Created: 2025-02-06T10:47:58Z, Updated: 2025-02-21T11:56:23Z)
+
+### NethVoice
+
+- [NethLink: Missing phonebook informations](https://github.com/NethServer/dev/issues/7325) (#7298) by fabbri-marco (Created: 2025-02-19T09:33:43Z, Updated: 2025-03-04T14:40:55Z)
 
 ### NethSecurity
 
