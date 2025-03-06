@@ -1,17 +1,16 @@
 +++
 title = 'Open Pull Requests by Bots'
-date = 2025-03-05
+date = 2025-03-06
 +++
 
 ## Organization: nethserver
 
-### NethServer/ns8-core 8 
+### NethServer/ns8-core 7 
 
 - :eyes:  **[chore(deps): update dependency grafana/loki to v2.9.12](https://github.com/NethServer/ns8-core/pull/808)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-02-13T16:56:32Z
 - :eyes:  **[chore(deps): update grafana/promtail docker tag to v3](https://github.com/NethServer/ns8-core/pull/805)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-02-11T01:12:03Z
 - :eyes:  **[chore(deps): update ghcr.io/marketsquare/robotframework-browser/rfbrowser-stable docker tag to v19](https://github.com/NethServer/ns8-core/pull/804)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-02-11T01:11:58Z
 - :eyes:  **[chore(deps): update redis docker tag to v7.4.2](https://github.com/NethServer/ns8-core/pull/803)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-02-10T22:03:57Z
-- :eyes:  **[chore(deps): update golang docker tag to v1.24.1](https://github.com/NethServer/ns8-core/pull/802)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-02-10T22:03:54Z
 - :eyes:  **[chore(deps): update alpine docker tag to v3.21.3](https://github.com/NethServer/ns8-core/pull/801)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-02-10T16:43:09Z
 - :eyes:  **[chore(deps): update grafana/promtail docker tag to v2.9.12](https://github.com/NethServer/ns8-core/pull/800)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-02-10T16:43:05Z
 -  :zzz: **[chore(deps): update dependency grafana/loki to v3](https://github.com/NethServer/ns8-core/pull/724)** by *renovate[bot]* - Reviewers: *DavidePrincipi* - Created at: 2024-10-07T13:37:42Z
@@ -96,7 +95,7 @@ date = 2025-03-05
 - :eyes:  **[fix(deps): update module github.com/appleboy/gin-jwt/v2 to v2.10.2](https://github.com/NethServer/nethsecurity-controller/pull/87)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-02-24T16:05:55Z
 - :eyes:  **[fix(deps): update github.com/nethserver/nethsecurity-api digest to c1e7d61](https://github.com/NethServer/nethsecurity-controller/pull/86)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-02-13T12:03:10Z
 - :eyes:  **[build(deps): Update ns-ui package (automated)](https://github.com/NethServer/nethsecurity-controller/pull/85)** by *github-actions[bot]* - Reviewers: *None* - Created at: 2025-02-13T01:11:28Z
-- :eyes:  **[fix(deps): update module golang.org/x/crypto to v0.35.0](https://github.com/NethServer/nethsecurity-controller/pull/84)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-02-08T01:26:39Z
+- :eyes:  **[fix(deps): update module golang.org/x/crypto to v0.36.0](https://github.com/NethServer/nethsecurity-controller/pull/84)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-02-08T01:26:39Z
 - :eyes: :zzz: **[chore(deps): update dependency go to v1.24.1](https://github.com/NethServer/nethsecurity-controller/pull/66)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-01-13T14:55:23Z
 
 ### NethServer/ns8-mail 3 
@@ -149,10 +148,6 @@ date = 2025-03-05
 -  :zzz: **[chore(deps): update memcached docker tag to v1.6.37](https://github.com/NethServer/ns8-piler/pull/24)** by *renovate[bot]* - Reviewers: *stephdl* - Created at: 2024-05-31T08:18:14Z
 -  :zzz: **[chore(deps): update mariadb docker tag to v10.11.11](https://github.com/NethServer/ns8-piler/pull/23)** by *renovate[bot]* - Reviewers: *stephdl* - Created at: 2024-05-31T08:18:09Z
 
-### NethServer/phonehome-server 1 
-
-- :eyes:  **[fix(deps): update dependency laravel/framework to v12](https://github.com/NethServer/phonehome-server/pull/127)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-03-01T01:48:09Z
-
 ### NethServer/ns8-crowdsec 2 
 
 - :eyes:  **[chore(deps): update alpine docker tag to v3.21.3](https://github.com/NethServer/ns8-crowdsec/pull/69)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-02-14T22:00:49Z
@@ -199,10 +194,6 @@ date = 2025-03-05
 ### nethesis/nethvoice-wizard-restapi 1 
 
 - :eyes: :zzz: **[Bump guzzlehttp/guzzle from 6.5.7 to 7.5.0 in /root/usr/src/google_speech_php](https://github.com/nethesis/nethvoice-wizard-restapi/pull/206)** by *dependabot[bot]* - Reviewers: *None* - Created at: 2023-01-09T08:53:05Z
-
-### nethesis/dartagnan 1 
-
-- :eyes: :zzz: **[Bump golang.org/x/crypto from 0.23.0 to 0.31.0 in /athos](https://github.com/nethesis/dartagnan/pull/34)** by *dependabot[bot]* - Reviewers: *None* - Created at: 2024-12-12T07:57:07Z
 
 ### nethesis/contatta 1 
 

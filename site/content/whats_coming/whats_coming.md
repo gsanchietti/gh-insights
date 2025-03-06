@@ -2,27 +2,21 @@
 
 title = 'To be released soon'
 
-date = 2025-03-05
+date = 2025-03-06
 
 +++
 
-### NethServer
-
-- [external account provider:  form is not empty when we add a new provider](https://github.com/NethServer/dev/issues/7326) (#7298) by stephdl (Created: 2025-02-19T11:01:31Z, Updated: 2025-02-27T16:45:35Z)
-
-- [Core: external ldap provider cannot be removed](https://github.com/NethServer/dev/issues/7315) (#7298) by stephdl (Created: 2025-02-14T10:22:52Z, Updated: 2025-02-27T16:43:25Z)
-
-- [Edit provider configuration from interface](https://github.com/NethServer/dev/issues/7298) (#7298) by lucagasparini (Created: 2025-02-06T10:47:58Z, Updated: 2025-02-21T11:56:23Z)
-
 ### NethVoice
 
-- [NethLink: Missing phonebook informations](https://github.com/NethServer/dev/issues/7325) (#7298) by fabbri-marco (Created: 2025-02-19T09:33:43Z, Updated: 2025-03-04T14:40:55Z)
+- [NethLink: Missing phonebook informations](https://github.com/NethServer/dev/issues/7325) (#7325) by fabbri-marco (Created: 2025-02-19T09:33:43Z, Updated: 2025-03-04T14:40:55Z)
 
 ### NethSecurity
 
 - [BanIP breaks with 24.10](https://github.com/NethServer/nethsecurity/issues/1096) (#813) by Tbaile (Created: 2025-02-24T08:21:07Z, Updated: 2025-03-03T13:25:38Z)
 
 - [DHCP range validation](https://github.com/NethServer/nethsecurity/issues/1089) (#813) by Tbaile (Created: 2025-02-20T09:13:27Z, Updated: 2025-03-03T09:17:33Z)
+
+- [Real-time monitor: accept firewall rules with log enabled counted as Blocked Threat](https://github.com/NethServer/nethsecurity/issues/1081) (#813) by francio87 (Created: 2025-02-13T17:44:40Z, Updated: 2025-03-05T11:30:37Z)
 
 - [API security improvements](https://github.com/NethServer/nethsecurity/issues/1075) (#813) by Tbaile (Created: 2025-02-11T15:24:26Z, Updated: 2025-03-03T09:51:34Z)
 
