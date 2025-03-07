@@ -1,6 +1,6 @@
 +++
 title = 'Open Pull Requests'
-date = 2025-03-06
+date = 2025-03-07
 +++
 
 ## Organization: nethserver
@@ -16,7 +16,7 @@ date = 2025-03-06
 
 ### NethServer/ns8-traefik 1 
 
--   **[fix!: avoid temporary Traefik cert](https://github.com/NethServer/ns8-traefik/pull/84)** by *DavidePrincipi* - Reviewers: *Amygos* - Created at: 2025-02-25T11:42:01Z
+-   **[feat: wildcard and sans certificates](https://github.com/NethServer/ns8-traefik/pull/89)** by *DavidePrincipi* - Reviewers: *Amygos, gsanchietti* - Created at: 2025-03-06T16:31:21Z
 
 ### NethServer/nethsecurity 4 
 
@@ -41,9 +41,8 @@ date = 2025-03-06
 
 - :eyes:  **[fix(network): do not use label for wans](https://github.com/NethServer/nethserver-firewall-migration/pull/57)** by *gsanchietti* - Reviewers: *None* - Created at: 2025-02-11T13:16:46Z
 
-### NethServer/ns8-docs 2 
+### NethServer/ns8-docs 1 
 
-- :eyes:  **[feat: describe new metrics stack](https://github.com/NethServer/ns8-docs/pull/146)** by *gsanchietti* - Reviewers: *None* - Created at: 2025-02-27T08:56:43Z
 - :eyes:  **[feat: TLS-ALPN-01 challenge requirements](https://github.com/NethServer/ns8-docs/pull/145)** by *DavidePrincipi* - Reviewers: *None* - Created at: 2025-02-18T17:07:02Z
 
 ### NethServer/nethsecurity-docs 3 
@@ -70,9 +69,8 @@ date = 2025-03-06
 
 -  :zzz: **[Removed old notification service usage](https://github.com/nethesis/nethcti-app-iphone/pull/37)** by *NicolaMrAPPs* - Reviewers: *b9874e40962149eee62a8fd3bc4e709e* - Created at: 2023-08-02T09:19:30Z
 
-### nethesis/tancredi 2 
+### nethesis/tancredi 1 
 
--   **[chore(actions): added SBOM scan](https://github.com/nethesis/tancredi/pull/308)** by *edospadoni* - Reviewers: *Amygos* - Created at: 2025-03-04T08:46:03Z
 - :eyes:  **[Add NP-X5 v2](https://github.com/nethesis/tancredi/pull/306)** by *andrea-marchionni* - Reviewers: *None* - Created at: 2025-02-13T11:32:35Z
 
 ### nethesis/ns8-nethvoice 4 
@@ -82,8 +80,17 @@ date = 2025-03-06
 - :eyes:  **[feat(freepbx): API for triggering phones configuration reload](https://github.com/nethesis/ns8-nethvoice/pull/383)** by *Stell0* - Reviewers: *None* - Created at: 2025-02-17T11:13:55Z
 - :eyes:  **[Add NP-X5 v2](https://github.com/nethesis/ns8-nethvoice/pull/380)** by *andrea-marchionni* - Reviewers: *None* - Created at: 2025-02-13T11:32:44Z
 
-### nethesis/ns8-nethvoice-proxy 1 
+### nethesis/nethvoice-cti 1 
 
+-   **[feat: add settings for video input devices](https://github.com/nethesis/nethvoice-cti/pull/288)** by *andre8244* - Reviewers: *tonyco97* - Created at: 2025-03-06T11:06:31Z
+
+### nethesis/phone-island 1 
+
+-   **[feat: added videocall](https://github.com/nethesis/phone-island/pull/83)** by *edospadoni* - Reviewers: *tonyco97* - Created at: 2025-03-04T09:20:00Z
+
+### nethesis/ns8-nethvoice-proxy 2 
+
+-   **[fix(route): Rewrite $ru and $du sips:xx@yy => sip:xx@yy;transport=udp](https://github.com/nethesis/ns8-nethvoice-proxy/pull/54)** by *Stell0* - Reviewers: *Amygos* - Created at: 2025-03-06T11:01:07Z
 - :eyes: :zzz: **[Remove Route header handling for inbound packets](https://github.com/nethesis/ns8-nethvoice-proxy/pull/49)** by *Amygos* - Reviewers: *None* - Created at: 2024-12-06T15:26:49Z
 
 ### nethesis/vue-components 2 

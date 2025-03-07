@@ -2,11 +2,13 @@
 
 title = 'To be released soon'
 
-date = 2025-03-06
+date = 2025-03-07
 
 +++
 
 ### NethVoice
+
+- [NethLink: check user status after pc ibernation ( Windows OS )](https://github.com/NethServer/dev/issues/7328) (#7325) by tonyco97 (Created: 2025-02-19T14:36:21Z, Updated: 2025-03-06T10:51:28Z)
 
 - [NethLink: Missing phonebook informations](https://github.com/NethServer/dev/issues/7325) (#7325) by fabbri-marco (Created: 2025-02-19T09:33:43Z, Updated: 2025-03-04T14:40:55Z)
 
