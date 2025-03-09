@@ -1,6 +1,6 @@
 +++
 title = 'Open Pull Requests by Bots'
-date = 2025-03-08
+date = 2025-03-09
 +++
 
 ## Organization: nethserver
@@ -24,7 +24,7 @@ date = 2025-03-08
 
 ### NethServer/ns8-mariadb 3 
 
-- :eyes:  **[chore(deps): update mariadb docker tag to v10.11.11](https://github.com/NethServer/ns8-mariadb/pull/47)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-02-06T05:38:50Z
+- :eyes: :zzz: **[chore(deps): update mariadb docker tag to v10.11.11](https://github.com/NethServer/ns8-mariadb/pull/47)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-02-06T05:38:50Z
 - :eyes: :zzz: **[chore(deps): update phpmyadmin/phpmyadmin docker tag to v5.2.2](https://github.com/NethServer/ns8-mariadb/pull/46)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-01-22T02:03:07Z
 - :eyes: :zzz: **[Translations update from Hosted Weblate](https://github.com/NethServer/ns8-mariadb/pull/45)** by *weblate* - Reviewers: *None* - Created at: 2024-12-20T11:49:35Z
 
@@ -131,7 +131,7 @@ date = 2025-03-08
 ### NethServer/ns8-roundcubemail 3 
 
 - :eyes:  **[Update roundcube/roundcubemail Docker tag to v1.6.10](https://github.com/NethServer/ns8-roundcubemail/pull/52)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-02-13T15:23:19Z
-- :eyes:  **[Update mariadb Docker tag to v10.11.11](https://github.com/NethServer/ns8-roundcubemail/pull/51)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-02-06T04:42:36Z
+- :eyes: :zzz: **[Update mariadb Docker tag to v10.11.11](https://github.com/NethServer/ns8-roundcubemail/pull/51)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-02-06T04:42:36Z
 - :eyes: :zzz: **[Translations update from Hosted Weblate](https://github.com/NethServer/ns8-roundcubemail/pull/50)** by *weblate* - Reviewers: *None* - Created at: 2025-01-21T03:11:49Z
 
 ### NethServer/ns8-piler 5 
