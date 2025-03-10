@@ -1,6 +1,6 @@
 +++
 title = 'Open Pull Requests by Bots'
-date = 2025-03-09
+date = 2025-03-10
 +++
 
 ## Organization: nethserver
@@ -93,7 +93,7 @@ date = 2025-03-09
 - :eyes:  **[fix(deps): update module github.com/appleboy/gin-jwt/v2 to v2.10.2](https://github.com/NethServer/nethsecurity-controller/pull/87)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-02-24T16:05:55Z
 - :eyes:  **[fix(deps): update github.com/nethserver/nethsecurity-api digest to c1e7d61](https://github.com/NethServer/nethsecurity-controller/pull/86)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-02-13T12:03:10Z
 - :eyes:  **[build(deps): Update ns-ui package (automated)](https://github.com/NethServer/nethsecurity-controller/pull/85)** by *github-actions[bot]* - Reviewers: *None* - Created at: 2025-02-13T01:11:28Z
-- :eyes:  **[fix(deps): update module golang.org/x/crypto to v0.36.0](https://github.com/NethServer/nethsecurity-controller/pull/84)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-02-08T01:26:39Z
+- :eyes: :zzz: **[fix(deps): update module golang.org/x/crypto to v0.36.0](https://github.com/NethServer/nethsecurity-controller/pull/84)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-02-08T01:26:39Z
 - :eyes: :zzz: **[chore(deps): update dependency go to v1.24.1](https://github.com/NethServer/nethsecurity-controller/pull/66)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-01-13T14:55:23Z
 
 ### NethServer/ns8-mail 3 
