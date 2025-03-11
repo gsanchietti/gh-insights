@@ -1,8 +1,8 @@
 +++
 
-title = '# Workload: 2025-03-10'
+title = '# Workload: 2025-03-11'
 
-date = 2025-03-10
+date = 2025-03-11
 
 +++
 
@@ -11,42 +11,38 @@ Workload: 5 issues, 0 PRs
 
 
 Assigned Issues:
-- [NethLink: design to show all phone number of a phonebook contact](https://github.com/NethServer/dev/issues/7340) - Working for 5 days
-- [NethVoice CTI: Display call queue information - UI design](https://github.com/NethServer/dev/issues/7333) - Working for 11 days
-- [NethVoice CTI streaming UI design ](https://github.com/NethServer/dev/issues/7272) - Working for 47 days
-- [NethVoice CTI cdr UI design](https://github.com/NethServer/dev/issues/7271) - Working for 47 days
-- [NethVoice CTI: pickup UI design](https://github.com/NethServer/dev/issues/7263) - Working for 51 days
+- [NethLink: design to show all phone number of a phonebook contact](https://github.com/NethServer/dev/issues/7340) - Working for 6 days
+- [NethVoice CTI: Display call queue information - UI design](https://github.com/NethServer/dev/issues/7333) - Working for 12 days
+- [NethVoice CTI streaming UI design ](https://github.com/NethServer/dev/issues/7272) - Working for 48 days
+- [NethVoice CTI cdr UI design](https://github.com/NethServer/dev/issues/7271) - Working for 48 days
+- [NethVoice CTI: pickup UI design](https://github.com/NethServer/dev/issues/7263) - Working for 52 days
 ---
 
 ### Amygos <img src='https://avatars.githubusercontent.com/u/510232?v=4&s=64' width='64' height='64' style='float:right;' /> ###
+Workload: 5 issues, 0 PRs
+
+
+Assigned Issues:
+- [coova-chilli: issue with internet access after successful authentication](https://github.com/NethServer/nethsecurity/issues/1113) - Working for 3 days
+- [NethVoice: add new version of Nethesis NPX5](https://github.com/NethServer/dev/issues/7314) - Working for 25 days
+- [Integrate centralized contact sharing between WebTop and NethVoice in NS8](https://github.com/NethServer/dev/issues/7261) - Working for 52 days
+- [CTI Login Failure After NethVoice Module Move](https://github.com/NethServer/dev/issues/7258) - Working for 54 days
+- [Add TIM trunks support using proxy](https://github.com/NethServer/dev/issues/7240) - Working for 61 days
+---
+
+### DavidePrincipi <img src='https://avatars.githubusercontent.com/u/2920838?v=4&s=64' width='64' height='64' style='float:right;' /> ###
 Workload: 5 issues, 1 PRs
 
 
 Assigned Issues:
-- [coova-chilli: issue with internet access after successful authentication](https://github.com/NethServer/nethsecurity/issues/1113) - Working for 2 days
-- [NethVoice: add new version of Nethesis NPX5](https://github.com/NethServer/dev/issues/7314) - Working for 24 days
-- [Integrate centralized contact sharing between WebTop and NethVoice in NS8](https://github.com/NethServer/dev/issues/7261) - Working for 51 days
-- [CTI Login Failure After NethVoice Module Move](https://github.com/NethServer/dev/issues/7258) - Working for 53 days
-- [Add TIM trunks support using proxy](https://github.com/NethServer/dev/issues/7240) - Working for 60 days
+- [Task progress lost and timeout during migration](https://github.com/NethServer/dev/issues/7319) - Working for 21 days
+- [Limit access to HTTP routes by client IP](https://github.com/NethServer/dev/issues/7312) - Working for 26 days
+- [Trust of forwarded headers in Traefik](https://github.com/NethServer/dev/issues/7305) - Working for 28 days
+- [Install custom CA certificate in Traefik](https://github.com/NethServer/dev/issues/7300) - Working for 31 days
+- [HOME_BASEDIR in Disk usage docs](https://github.com/NethServer/dev/issues/7276) - Working for 47 days
 
 Assigned Pull Requests:
-- [fix(coova-chilli): enforce HTTP/1.1 for curl compatibility](https://github.com/NethServer/nethsecurity/pull/1076) - Working for 26 days
----
-
-### DavidePrincipi <img src='https://avatars.githubusercontent.com/u/2920838?v=4&s=64' width='64' height='64' style='float:right;' /> ###
-Workload: 5 issues, 2 PRs
-
-
-Assigned Issues:
-- [Task progress lost and timeout during migration](https://github.com/NethServer/dev/issues/7319) - Working for 20 days
-- [Limit access to HTTP routes by client IP](https://github.com/NethServer/dev/issues/7312) - Working for 25 days
-- [Trust of forwarded headers in Traefik](https://github.com/NethServer/dev/issues/7305) - Working for 27 days
-- [Install custom CA certificate in Traefik](https://github.com/NethServer/dev/issues/7300) - Working for 30 days
-- [HOME_BASEDIR in Disk usage docs](https://github.com/NethServer/dev/issues/7276) - Working for 46 days
-
-Assigned Pull Requests:
-- [feat: set-route patch behavior](https://github.com/NethServer/ns8-traefik/pull/91) - Working for 2 days
-- [Configure Renovate](https://github.com/NethServer/ns8-passbolt/pull/1) - Working for 139 days
+- [Configure Renovate](https://github.com/NethServer/ns8-passbolt/pull/1) - Working for 140 days
 ---
 
 ### Stell0 <img src='https://avatars.githubusercontent.com/u/4547897?v=4&s=64' width='64' height='64' style='float:right;' /> ###
@@ -54,32 +50,20 @@ Workload: 3 issues, 0 PRs
 
 
 Assigned Issues:
-- [Snom cordless REINVITE with TLS doesn't work](https://github.com/NethServer/dev/issues/7337) - Working for 6 days
-- [NethVoice: recall on busy doesn't work](https://github.com/NethServer/dev/issues/7303) - Working for 27 days
-- [NethAI integration backend](https://github.com/NethServer/dev/issues/7248) - Working for 55 days
+- [Snom cordless REINVITE with TLS doesn't work](https://github.com/NethServer/dev/issues/7337) - Working for 7 days
+- [NethVoice: recall on busy doesn't work](https://github.com/NethServer/dev/issues/7303) - Working for 28 days
+- [NethAI integration backend](https://github.com/NethServer/dev/issues/7248) - Working for 56 days
 ---
 
 ### Tbaile <img src='https://avatars.githubusercontent.com/u/8052641?v=4&s=64' width='64' height='64' style='float:right;' /> ###
-Workload: 5 issues, 1 PRs
+Workload: 4 issues, 0 PRs
 
 
 Assigned Issues:
-- [DPI Filter does not support VLAN filtering after Netifyd configuration changes](https://github.com/NethServer/nethsecurity/issues/1101) - Working for 9 days
-- [Mockup for backup encryption](https://github.com/NethServer/nethsecurity/issues/1099) - Working for 11 days
-- [Secure installation flag](https://github.com/NethServer/nethsecurity/issues/1088) - Working for 17 days
-- [Upgrade to OpenWRT `24.10.0`](https://github.com/NethServer/nethsecurity/issues/1074) - Working for 26 days
-- [Backup encryption required for firewalls with a subscription](https://github.com/NethServer/nethsecurity/issues/1019) - Working for 54 days
-
-Assigned Pull Requests:
-- [fix(coova-chilli): enforce HTTP/1.1 for curl compatibility](https://github.com/NethServer/nethsecurity/pull/1076) - Working for 26 days
----
-
-### andre8244 <img src='https://avatars.githubusercontent.com/u/4612169?v=4&s=64' width='64' height='64' style='float:right;' /> ###
-Workload: 1 issues, 0 PRs
-
-
-Assigned Issues:
-- [Mockup for backup encryption](https://github.com/NethServer/nethsecurity/issues/1099) - Working for 11 days
+- [DPI Filter does not support VLAN filtering after Netifyd configuration changes](https://github.com/NethServer/nethsecurity/issues/1101) - Working for 10 days
+- [Secure installation flag](https://github.com/NethServer/nethsecurity/issues/1088) - Working for 18 days
+- [Upgrade to OpenWRT `24.10.0`](https://github.com/NethServer/nethsecurity/issues/1074) - Working for 27 days
+- [Backup encryption required for firewalls with a subscription](https://github.com/NethServer/nethsecurity/issues/1019) - Working for 55 days
 ---
 
 ### andrea-marchionni <img src='https://avatars.githubusercontent.com/u/6448460?v=4&s=64' width='64' height='64' style='float:right;' /> ###
@@ -87,7 +71,7 @@ Workload: 1 issues, 0 PRs
 
 
 Assigned Issues:
-- [NethLink: Crash when switching Windows language from Italian to English](https://github.com/NethServer/dev/issues/7327) - Working for 18 days
+- [NethLink: Crash when switching Windows language from Italian to English](https://github.com/NethServer/dev/issues/7327) - Working for 19 days
 ---
 
 ### cotosso <img src='https://avatars.githubusercontent.com/u/7226896?v=4&s=64' width='64' height='64' style='float:right;' /> ###
@@ -95,9 +79,9 @@ Workload: 3 issues, 0 PRs
 
 
 Assigned Issues:
-- [Mockup for backup encryption](https://github.com/NethServer/nethsecurity/issues/1099) - Working for 11 days
-- [DHCP range validation](https://github.com/NethServer/nethsecurity/issues/1089) - Working for 17 days
-- [Disable SNMP by default](https://github.com/NethServer/nethsecurity/issues/1028) - Working for 53 days
+- [DHCP range validation](https://github.com/NethServer/nethsecurity/issues/1089) - Working for 18 days
+- [Disable SNMP by default](https://github.com/NethServer/nethsecurity/issues/1028) - Working for 54 days
+- [MAC binding UI](https://github.com/NethServer/nethsecurity/issues/973) - Working for 88 days
 ---
 
 ### edospadoni <img src='https://avatars.githubusercontent.com/u/6152486?v=4&s=64' width='64' height='64' style='float:right;' /> ###
@@ -105,11 +89,11 @@ Workload: 1 issues, 2 PRs
 
 
 Assigned Issues:
-- [NethVoice CTI: activate the pickup feature](https://github.com/NethServer/dev/issues/7262) - Working for 51 days
+- [NethVoice CTI: activate the pickup feature](https://github.com/NethServer/dev/issues/7262) - Working for 52 days
 
 Assigned Pull Requests:
-- [fix(deps): update module golang.org/x/crypto to v0.36.0](https://github.com/NethServer/nethsecurity-controller/pull/84) - Working for 30 days
-- [chore(deps): update dependency go to v1.24.1](https://github.com/NethServer/nethsecurity-controller/pull/66) - Working for 55 days
+- [fix(deps): update module golang.org/x/crypto to v0.36.0](https://github.com/NethServer/nethsecurity-controller/pull/84) - Working for 31 days
+- [chore(deps): update dependency go to v1.24.1](https://github.com/NethServer/nethsecurity-controller/pull/66) - Working for 56 days
 ---
 
 ### filippocarletti <img src='https://avatars.githubusercontent.com/u/106798?v=4&s=64' width='64' height='64' style='float:right;' /> ###
@@ -117,10 +101,10 @@ Workload: 1 issues, 1 PRs
 
 
 Assigned Issues:
-- [Upgrade to OpenWRT `24.10.0`](https://github.com/NethServer/nethsecurity/issues/1074) - Working for 26 days
+- [Upgrade to OpenWRT `24.10.0`](https://github.com/NethServer/nethsecurity/issues/1074) - Working for 27 days
 
 Assigned Pull Requests:
-- [High availability stack](https://github.com/NethServer/nethsecurity/pull/871) - Working for 137 days
+- [High availability stack](https://github.com/NethServer/nethsecurity/pull/871) - Working for 138 days
 ---
 
 ### francio87 <img src='https://avatars.githubusercontent.com/u/42090061?v=4&s=64' width='64' height='64' style='float:right;' /> ###
@@ -128,21 +112,20 @@ Workload: 0 issues, 1 PRs
 
 
 Assigned Pull Requests:
-- [High availability stack](https://github.com/NethServer/nethsecurity/pull/871) - Working for 137 days
+- [High availability stack](https://github.com/NethServer/nethsecurity/pull/871) - Working for 138 days
 ---
 
 ### gsanchietti <img src='https://avatars.githubusercontent.com/u/804596?v=4&s=64' width='64' height='64' style='float:right;' /> ###
-Workload: 2 issues, 3 PRs
+Workload: 1 issues, 3 PRs
 
 
 Assigned Issues:
-- [Mockup for backup encryption](https://github.com/NethServer/nethsecurity/issues/1099) - Working for 11 days
-- [Expiring password email notification](https://github.com/NethServer/dev/issues/7229) - Working for 79 days
+- [Expiring password email notification](https://github.com/NethServer/dev/issues/7229) - Working for 80 days
 
 Assigned Pull Requests:
-- [Mail notification](https://github.com/NethServer/ns8-core/pull/823) - Working for 3 days
-- [feat: handle mail field](https://github.com/NethServer/ns8-samba/pull/80) - Working for 3 days
-- [feat: handle mail field](https://github.com/NethServer/ns8-openldap/pull/53) - Working for 3 days
+- [Mail notification](https://github.com/NethServer/ns8-core/pull/823) - Working for 4 days
+- [feat: handle mail field](https://github.com/NethServer/ns8-samba/pull/80) - Working for 4 days
+- [feat: handle mail field](https://github.com/NethServer/ns8-openldap/pull/53) - Working for 4 days
 ---
 
 ### stephdl <img src='https://avatars.githubusercontent.com/u/3164851?v=4&s=64' width='64' height='64' style='float:right;' /> ###
@@ -150,8 +133,8 @@ Workload: 2 issues, 0 PRs
 
 
 Assigned Issues:
-- [Upgrade to Mattermost 10 ESR](https://github.com/NethServer/dev/issues/7245) - Working for 58 days
-- [Overcoming Imapsync Limitations: Working with Sieve Filters](https://github.com/NethServer/dev/issues/7230) - Working for 79 days
+- [Upgrade to Mattermost 10 ESR](https://github.com/NethServer/dev/issues/7245) - Working for 59 days
+- [Overcoming Imapsync Limitations: Working with Sieve Filters](https://github.com/NethServer/dev/issues/7230) - Working for 80 days
 ---
 
 ### therockerline <img src='https://avatars.githubusercontent.com/u/12746889?v=4&s=64' width='64' height='64' style='float:right;' /> ###
@@ -159,7 +142,7 @@ Workload: 0 issues, 1 PRs
 
 
 Assigned Pull Requests:
-- [fix(ibernation): avoid token expiration after suspend](https://github.com/NethServer/nethlink/pull/51) - Working for 4 days
+- [fix(ibernation): avoid token expiration after suspend](https://github.com/NethServer/nethlink/pull/51) - Working for 5 days
 ---
 
 ### tommaso-ascani <img src='https://avatars.githubusercontent.com/u/31596042?v=4&s=64' width='64' height='64' style='float:right;' /> ###
@@ -167,7 +150,7 @@ Workload: 0 issues, 1 PRs
 
 
 Assigned Pull Requests:
-- [feat: voicemail side menu](https://github.com/nethesis/nethvoice-cti/pull/286) - Working for 17 days
+- [feat: voicemail side menu](https://github.com/nethesis/nethvoice-cti/pull/286) - Working for 18 days
 ---
 
 ### tonyco97 <img src='https://avatars.githubusercontent.com/u/36625268?v=4&s=64' width='64' height='64' style='float:right;' /> ###
@@ -175,11 +158,11 @@ Workload: 1 issues, 2 PRs
 
 
 Assigned Issues:
-- [NethVoice CTI: activate the pickup feature](https://github.com/NethServer/dev/issues/7262) - Working for 51 days
+- [NethVoice CTI: activate the pickup feature](https://github.com/NethServer/dev/issues/7262) - Working for 52 days
 
 Assigned Pull Requests:
-- [feat: new post api for physical reconfiguration](https://github.com/nethesis/ns8-nethvoice/pull/387) - Working for 19 days
-- [feat: Created new all permission for groups](https://github.com/nethesis/ns8-nethvoice/pull/368) - Working for 41 days
+- [feat: new post api for physical reconfiguration](https://github.com/nethesis/ns8-nethvoice/pull/387) - Working for 20 days
+- [feat: Created new all permission for groups](https://github.com/nethesis/ns8-nethvoice/pull/368) - Working for 42 days
 ---
 
 ### viktec <img src='https://avatars.githubusercontent.com/u/48328088?v=4&s=64' width='64' height='64' style='float:right;' /> ###
@@ -187,6 +170,6 @@ Workload: 1 issues, 0 PRs
 
 
 Assigned Issues:
-- [NethLink: Crash when switching Windows language from Italian to English](https://github.com/NethServer/dev/issues/7327) - Working for 18 days
+- [NethLink: Crash when switching Windows language from Italian to English](https://github.com/NethServer/dev/issues/7327) - Working for 19 days
 ---
 
