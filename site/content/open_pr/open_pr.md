@@ -1,6 +1,6 @@
 +++
 title = 'Open Pull Requests'
-date = 2025-03-11
+date = 2025-03-12
 +++
 
 ## Organization: nethserver
@@ -11,21 +11,28 @@ date = 2025-03-11
 
 ### NethServer/ns8-core 1 
 
-- :eyes:  **[Implement get-certificate helper for apps](https://github.com/NethServer/ns8-core/pull/824)** by *DavidePrincipi* - Reviewers: *None* - Created at: 2025-03-07T14:57:39Z
+-   **[Mail notification](https://github.com/NethServer/ns8-core/pull/823)** by *gsanchietti* - Reviewers: *DavidePrincipi, andre8244* - Created at: 2025-03-06T15:11:30Z
 
-### NethServer/ns8-github-actions 2 
+### NethServer/ns8-github-actions 1 
 
-- :eyes:  **[Enhance Module Info Workflow with Release Type and Images List](https://github.com/NethServer/ns8-github-actions/pull/25)** by *Amygos* - Reviewers: *None* - Created at: 2025-02-20T16:22:59Z
-- :eyes: :zzz: **[Add image analysis workflow with Trivy](https://github.com/NethServer/ns8-github-actions/pull/23)** by *Amygos* - Reviewers: *None* - Created at: 2024-11-20T10:46:48Z
+-  :zzz: **[Add GitHub Workflow for Container Scanning and SBOM Generation Using Trivy](https://github.com/NethServer/ns8-github-actions/pull/23)** by *Amygos* - Reviewers: *DavidePrincipi, edospadoni, Tbaile* - Created at: 2024-11-20T10:46:48Z
 
-### NethServer/ns8-traefik 1 
+### NethServer/ns8-samba 1 
 
-- :eyes:  **[feat: wildcard and sans certificates](https://github.com/NethServer/ns8-traefik/pull/89)** by *DavidePrincipi* - Reviewers: *None* - Created at: 2025-03-06T16:31:21Z
+-   **[feat: handle mail field](https://github.com/NethServer/ns8-samba/pull/80)** by *gsanchietti* - Reviewers: *DavidePrincipi* - Created at: 2025-03-06T14:19:21Z
+
+### NethServer/ns8-openldap 1 
+
+- :eyes:  **[feat: handle mail field](https://github.com/NethServer/ns8-openldap/pull/53)** by *gsanchietti* - Reviewers: *None* - Created at: 2025-03-06T14:17:01Z
 
 ### NethServer/nethsecurity 2 
 
 -   **[feat(ns-dpi): supporting vlans](https://github.com/NethServer/nethsecurity/pull/1110)** by *Tbaile* - Reviewers: *gsanchietti* - Created at: 2025-03-06T09:48:32Z
 -  :zzz: **[High availability stack](https://github.com/NethServer/nethsecurity/pull/871)** by *gsanchietti* - Reviewers: *Tbaile* - Created at: 2024-10-23T15:36:11Z
+
+### NethServer/ns8-mail 1 
+
+- :eyes:  **[Implement Core 3.6 get-certificate for TLS](https://github.com/NethServer/ns8-mail/pull/172)** by *DavidePrincipi* - Reviewers: *None* - Created at: 2025-03-10T16:23:24Z
 
 ### NethServer/ns8-nethsecurity-controller 1 
 
@@ -47,6 +54,10 @@ date = 2025-03-11
 
 - :eyes:  **[feat(dpi): added vlans in listed devices](https://github.com/NethServer/python3-nethsec/pull/94)** by *Tbaile* - Reviewers: *None* - Created at: 2025-03-06T09:47:02Z
 
+### NethServer/ns8-ejabberd 1 
+
+- :eyes:  **[feat: certificate-changed event handler](https://github.com/NethServer/ns8-ejabberd/pull/63)** by *DavidePrincipi* - Reviewers: *None* - Created at: 2025-03-11T14:47:42Z
+
 ### NethServer/ns8-docs 1 
 
 - :eyes:  **[feat: TLS-ALPN-01 challenge requirements](https://github.com/NethServer/ns8-docs/pull/145)** by *DavidePrincipi* - Reviewers: *None* - Created at: 2025-02-18T17:07:02Z
@@ -57,14 +68,9 @@ date = 2025-03-11
 -   **[feat: added more doc for MAC-IP binding](https://github.com/NethServer/nethsecurity-docs/pull/153)** by *Tbaile* - Reviewers: *gsanchietti, cotosso* - Created at: 2025-02-27T09:39:41Z
 -   **[Update dns_dhcp.rst](https://github.com/NethServer/nethsecurity-docs/pull/150)** by *cotosso* - Reviewers: *filippocarletti* - Created at: 2025-02-17T15:55:29Z
 
-### NethServer/ns8-user-manager 1 
-
-- :eyes:  **[feat: user mail and password expiration](https://github.com/NethServer/ns8-user-manager/pull/68)** by *gsanchietti* - Reviewers: *None* - Created at: 2025-03-07T15:55:02Z
-
-### NethServer/nethlink 2 
+### NethServer/nethlink 1 
 
 -   **[feat(videocall): update phone-island to support videocall](https://github.com/NethServer/nethlink/pull/52)** by *tonyco97* - Reviewers: *edospadoni* - Created at: 2025-03-07T15:47:53Z
--   **[fix(ibernation): avoid token expiration after suspend](https://github.com/NethServer/nethlink/pull/51)** by *therockerline* - Reviewers: *edospadoni, tonyco97* - Created at: 2025-03-05T16:41:08Z
 
 ## Organization: nethesis
 
@@ -86,14 +92,19 @@ date = 2025-03-11
 
 ### nethesis/ns8-nethvoice 5 
 
-- :eyes:  **[feat(videocall): migrate to janus 1.x and set new codecs](https://github.com/nethesis/ns8-nethvoice/pull/399)** by *edospadoni* - Reviewers: *None* - Created at: 2025-03-05T13:21:35Z
+- :eyes:  **[feat(videocall & screen-share): migrate to janus 1.x and set new codecs](https://github.com/nethesis/ns8-nethvoice/pull/399)** by *edospadoni* - Reviewers: *None* - Created at: 2025-03-05T13:21:35Z
 -   **[fix(recallonbusy): Use hints to define devices state instead of DeviceState](https://github.com/nethesis/ns8-nethvoice/pull/398)** by *Stell0* - Reviewers: *Amygos* - Created at: 2025-03-04T17:35:58Z
 - :eyes:  **[feat(phonebook): update python mysql connector library](https://github.com/nethesis/ns8-nethvoice/pull/393)** by *viktec* - Reviewers: *None* - Created at: 2025-02-26T16:47:39Z
 - :eyes:  **[feat(freepbx): API for triggering phones configuration reload](https://github.com/nethesis/ns8-nethvoice/pull/383)** by *Stell0* - Reviewers: *None* - Created at: 2025-02-17T11:13:55Z
 - :eyes:  **[Add NP-X5 v2](https://github.com/nethesis/ns8-nethvoice/pull/380)** by *andrea-marchionni* - Reviewers: *None* - Created at: 2025-02-13T11:32:44Z
 
-### nethesis/ns8-nethvoice-proxy 1 
+### nethesis/phone-island 1 
 
+-   **[fix: missing recording view](https://github.com/nethesis/phone-island/pull/84)** by *tonyco97* - Reviewers: *edospadoni* - Created at: 2025-03-11T13:58:37Z
+
+### nethesis/ns8-nethvoice-proxy 2 
+
+-   **[feat: certificate-changed event handler](https://github.com/nethesis/ns8-nethvoice-proxy/pull/55)** by *DavidePrincipi* - Reviewers: *Amygos, Stell0* - Created at: 2025-03-11T16:17:54Z
 - :eyes: :zzz: **[Remove Route header handling for inbound packets](https://github.com/nethesis/ns8-nethvoice-proxy/pull/49)** by *Amygos* - Reviewers: *None* - Created at: 2024-12-06T15:26:49Z
 
 ### nethesis/vue-components 2 
