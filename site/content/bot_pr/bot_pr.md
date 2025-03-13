@@ -1,16 +1,17 @@
 +++
 title = 'Open Pull Requests by Bots'
-date = 2025-03-12
+date = 2025-03-13
 +++
 
 ## Organization: nethserver
 
-### NethServer/ns8-core 5 
+### NethServer/ns8-core 6 
 
-- :eyes:  **[chore(deps): update dependency grafana/loki to v2.9.12](https://github.com/NethServer/ns8-core/pull/808)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-02-13T16:56:32Z
-- :eyes:  **[chore(deps): update grafana/promtail docker tag to v3](https://github.com/NethServer/ns8-core/pull/805)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-02-11T01:12:03Z
-- :eyes:  **[chore(deps): update ghcr.io/marketsquare/robotframework-browser/rfbrowser-stable docker tag to v19](https://github.com/NethServer/ns8-core/pull/804)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-02-11T01:11:58Z
-- :eyes:  **[chore(deps): update grafana/promtail docker tag to v2.9.12](https://github.com/NethServer/ns8-core/pull/800)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-02-10T16:43:05Z
+- :eyes:  **[Translations update from Hosted Weblate](https://github.com/NethServer/ns8-core/pull/826)** by *weblate* - Reviewers: *None* - Created at: 2025-03-12T16:53:09Z
+- :eyes:  **[chore(deps): update dependency grafana/loki to v2.9.13](https://github.com/NethServer/ns8-core/pull/808)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-02-13T16:56:32Z
+- :eyes: :zzz: **[chore(deps): update grafana/promtail docker tag to v3](https://github.com/NethServer/ns8-core/pull/805)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-02-11T01:12:03Z
+- :eyes: :zzz: **[chore(deps): update ghcr.io/marketsquare/robotframework-browser/rfbrowser-stable docker tag to v19](https://github.com/NethServer/ns8-core/pull/804)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-02-11T01:11:58Z
+- :eyes: :zzz: **[chore(deps): update grafana/promtail docker tag to v2.9.13](https://github.com/NethServer/ns8-core/pull/800)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-02-10T16:43:05Z
 -  :zzz: **[chore(deps): update dependency grafana/loki to v3](https://github.com/NethServer/ns8-core/pull/724)** by *renovate[bot]* - Reviewers: *DavidePrincipi* - Created at: 2024-10-07T13:37:42Z
 
 ### NethServer/ns8-kickstart 1 
@@ -53,14 +54,13 @@ date = 2025-03-12
 
 -  :zzz: **[chore(deps): update ghcr.io/marketsquare/robotframework-browser/rfbrowser-stable docker tag to v19.3.1](https://github.com/NethServer/ns8-ldapproxy/pull/17)** by *renovate[bot]* - Reviewers: *DavidePrincipi* - Created at: 2024-11-26T11:31:21Z
 
-### NethServer/ns8-samba 2 
+### NethServer/ns8-samba 1 
 
-- :eyes:  **[chore(deps): update dependency nethserver/ns8-user-manager to v1.1.1](https://github.com/NethServer/ns8-samba/pull/83)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-03-11T19:30:07Z
 - :eyes:  **[chore(deps): update ghcr.io/marketsquare/robotframework-browser/rfbrowser-stable docker tag to v19.3.1](https://github.com/NethServer/ns8-samba/pull/77)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-02-21T09:59:59Z
 
 ### NethServer/ns8-loki 5 
 
-- :eyes:  **[chore(deps): update grafana/loki docker tag to v2.9.12](https://github.com/NethServer/ns8-loki/pull/36)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-02-13T16:41:59Z
+- :eyes:  **[chore(deps): update grafana/loki docker tag to v2.9.13](https://github.com/NethServer/ns8-loki/pull/36)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-02-13T16:41:59Z
 - :eyes: :zzz: **[chore(deps): update ghcr.io/marketsquare/robotframework-browser/rfbrowser-stable docker tag to v19.3.1](https://github.com/NethServer/ns8-loki/pull/34)** by *renovate[bot]* - Reviewers: *None* - Created at: 2024-12-20T21:53:49Z
 -  :zzz: **[chore(deps): update traefik docker tag to v2.11.21](https://github.com/NethServer/ns8-loki/pull/30)** by *renovate[bot]* - Reviewers: *Amygos* - Created at: 2024-11-20T19:13:22Z
 -  :zzz: **[chore(deps): update traefik docker tag to v3](https://github.com/NethServer/ns8-loki/pull/23)** by *renovate[bot]* - Reviewers: *Amygos* - Created at: 2024-07-30T17:21:16Z
@@ -85,7 +85,7 @@ date = 2025-03-12
 
 ### NethServer/nethsecurity 1 
 
-- :eyes:  **[chore: bump ns packages (automatic)](https://github.com/NethServer/nethsecurity/pull/1071)** by *github-actions[bot]* - Reviewers: *None* - Created at: 2025-02-10T15:48:19Z
+- :eyes: :zzz: **[chore: bump ns packages (automatic)](https://github.com/NethServer/nethsecurity/pull/1071)** by *github-actions[bot]* - Reviewers: *None* - Created at: 2025-02-10T15:48:19Z
 
 ### NethServer/nethsecurity-controller 5 
 

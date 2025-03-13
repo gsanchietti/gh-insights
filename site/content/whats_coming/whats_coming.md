@@ -2,17 +2,19 @@
 
 title = 'To be released soon'
 
-date = 2025-03-12
+date = 2025-03-13
 
 +++
 
 ### NethVoice
 
-- [NethLink: check user status after pc ibernation ( Windows OS )](https://github.com/NethServer/dev/issues/7328) (#7325) by tonyco97 (Created: 2025-02-19T14:36:21Z, Updated: 2025-03-06T10:51:28Z)
+- [NethVoice CTI: Display call queue information - UI design](https://github.com/NethServer/dev/issues/7333) (#7263) by AmaLuci (Created: 2025-02-26T11:09:47Z, Updated: 2025-03-12T09:22:44Z)
 
-- [NethLink: Crash when switching Windows language from Italian to English](https://github.com/NethServer/dev/issues/7327) (#7325) by viktec (Created: 2025-02-19T14:35:23Z, Updated: 2025-03-11T08:24:50Z)
+- [NethVoice CTI: pickup UI design](https://github.com/NethServer/dev/issues/7263) (#7263) by andrea-marchionni (Created: 2025-01-17T11:30:17Z, Updated: 2025-03-12T09:20:57Z)
 
-- [NethLink: Missing phonebook informations](https://github.com/NethServer/dev/issues/7325) (#7325) by fabbri-marco (Created: 2025-02-19T09:33:43Z, Updated: 2025-03-04T14:40:55Z)
+### NethServer
+
+- [Install custom CA certificate in Traefik](https://github.com/NethServer/dev/issues/7300) (#7263) by DavidePrincipi (Created: 2025-02-07T15:08:12Z, Updated: 2025-03-12T14:02:20Z)
 
 ### NethSecurity
 

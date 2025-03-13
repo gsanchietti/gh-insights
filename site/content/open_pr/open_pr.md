@@ -1,6 +1,6 @@
 +++
 title = 'Open Pull Requests'
-date = 2025-03-12
+date = 2025-03-13
 +++
 
 ## Organization: nethserver
@@ -9,30 +9,15 @@ date = 2025-03-12
 
 - :eyes:  **[Update Asterisk jail configuration for fail2ban](https://github.com/NethServer/nethserver-fail2ban/pull/123)** by *stephdl* - Reviewers: *None* - Created at: 2025-03-04T17:08:36Z
 
-### NethServer/ns8-core 1 
-
--   **[Mail notification](https://github.com/NethServer/ns8-core/pull/823)** by *gsanchietti* - Reviewers: *DavidePrincipi, andre8244* - Created at: 2025-03-06T15:11:30Z
-
 ### NethServer/ns8-github-actions 1 
 
--  :zzz: **[Add GitHub Workflow for Container Scanning and SBOM Generation Using Trivy](https://github.com/NethServer/ns8-github-actions/pull/23)** by *Amygos* - Reviewers: *DavidePrincipi, edospadoni, Tbaile* - Created at: 2024-11-20T10:46:48Z
+- :eyes: :zzz: **[Add GitHub Workflow for Container Scanning and SBOM Generation Using Trivy](https://github.com/NethServer/ns8-github-actions/pull/23)** by *Amygos* - Reviewers: *None* - Created at: 2024-11-20T10:46:48Z
 
-### NethServer/ns8-samba 1 
+### NethServer/nethsecurity 3 
 
--   **[feat: handle mail field](https://github.com/NethServer/ns8-samba/pull/80)** by *gsanchietti* - Reviewers: *DavidePrincipi* - Created at: 2025-03-06T14:19:21Z
-
-### NethServer/ns8-openldap 1 
-
-- :eyes:  **[feat: handle mail field](https://github.com/NethServer/ns8-openldap/pull/53)** by *gsanchietti* - Reviewers: *None* - Created at: 2025-03-06T14:17:01Z
-
-### NethServer/nethsecurity 2 
-
+-   **[fix(adblock): restart firewall when reloading or restarting adblock](https://github.com/NethServer/nethsecurity/pull/1121)** by *Tbaile* - Reviewers: *gsanchietti* - Created at: 2025-03-12T14:37:36Z
 -   **[feat(ns-dpi): supporting vlans](https://github.com/NethServer/nethsecurity/pull/1110)** by *Tbaile* - Reviewers: *gsanchietti* - Created at: 2025-03-06T09:48:32Z
 -  :zzz: **[High availability stack](https://github.com/NethServer/nethsecurity/pull/871)** by *gsanchietti* - Reviewers: *Tbaile* - Created at: 2024-10-23T15:36:11Z
-
-### NethServer/ns8-mail 1 
-
-- :eyes:  **[Implement Core 3.6 get-certificate for TLS](https://github.com/NethServer/ns8-mail/pull/172)** by *DavidePrincipi* - Reviewers: *None* - Created at: 2025-03-10T16:23:24Z
 
 ### NethServer/ns8-nethsecurity-controller 1 
 
@@ -50,17 +35,9 @@ date = 2025-03-12
 
 - :eyes:  **[fix(network): do not use label for wans](https://github.com/NethServer/nethserver-firewall-migration/pull/57)** by *gsanchietti* - Reviewers: *None* - Created at: 2025-02-11T13:16:46Z
 
-### NethServer/python3-nethsec 1 
-
-- :eyes:  **[feat(dpi): added vlans in listed devices](https://github.com/NethServer/python3-nethsec/pull/94)** by *Tbaile* - Reviewers: *None* - Created at: 2025-03-06T09:47:02Z
-
 ### NethServer/ns8-ejabberd 1 
 
 - :eyes:  **[feat: certificate-changed event handler](https://github.com/NethServer/ns8-ejabberd/pull/63)** by *DavidePrincipi* - Reviewers: *None* - Created at: 2025-03-11T14:47:42Z
-
-### NethServer/ns8-docs 1 
-
-- :eyes:  **[feat: TLS-ALPN-01 challenge requirements](https://github.com/NethServer/ns8-docs/pull/145)** by *DavidePrincipi* - Reviewers: *None* - Created at: 2025-02-18T17:07:02Z
 
 ### NethServer/nethsecurity-docs 3 
 
@@ -90,8 +67,9 @@ date = 2025-03-12
 
 - :eyes:  **[Add NP-X5 v2](https://github.com/nethesis/tancredi/pull/306)** by *andrea-marchionni* - Reviewers: *None* - Created at: 2025-02-13T11:32:35Z
 
-### nethesis/ns8-nethvoice 5 
+### nethesis/ns8-nethvoice 6 
 
+- :eyes:  **[fix(events): validate ICEENFORCE in proxy settings](https://github.com/nethesis/ns8-nethvoice/pull/401)** by *Amygos* - Reviewers: *None* - Created at: 2025-03-12T15:41:31Z
 - :eyes:  **[feat(videocall & screen-share): migrate to janus 1.x and set new codecs](https://github.com/nethesis/ns8-nethvoice/pull/399)** by *edospadoni* - Reviewers: *None* - Created at: 2025-03-05T13:21:35Z
 -   **[fix(recallonbusy): Use hints to define devices state instead of DeviceState](https://github.com/nethesis/ns8-nethvoice/pull/398)** by *Stell0* - Reviewers: *Amygos* - Created at: 2025-03-04T17:35:58Z
 - :eyes:  **[feat(phonebook): update python mysql connector library](https://github.com/nethesis/ns8-nethvoice/pull/393)** by *viktec* - Reviewers: *None* - Created at: 2025-02-26T16:47:39Z
