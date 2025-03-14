@@ -1,13 +1,13 @@
 +++
 title = 'Open Pull Requests by Bots'
-date = 2025-03-13
+date = 2025-03-14
 +++
 
 ## Organization: nethserver
 
 ### NethServer/ns8-core 6 
 
-- :eyes:  **[Translations update from Hosted Weblate](https://github.com/NethServer/ns8-core/pull/826)** by *weblate* - Reviewers: *None* - Created at: 2025-03-12T16:53:09Z
+- :eyes:  **[chore(deps): update redis docker tag to v7.4.2](https://github.com/NethServer/ns8-core/pull/830)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-03-13T14:07:34Z
 - :eyes:  **[chore(deps): update dependency grafana/loki to v2.9.13](https://github.com/NethServer/ns8-core/pull/808)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-02-13T16:56:32Z
 - :eyes: :zzz: **[chore(deps): update grafana/promtail docker tag to v3](https://github.com/NethServer/ns8-core/pull/805)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-02-11T01:12:03Z
 - :eyes: :zzz: **[chore(deps): update ghcr.io/marketsquare/robotframework-browser/rfbrowser-stable docker tag to v19](https://github.com/NethServer/ns8-core/pull/804)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-02-11T01:11:58Z
@@ -113,7 +113,7 @@ date = 2025-03-13
 ### NethServer/ns8-collabora 2 
 
 - :eyes: :zzz: **[Translations update from Hosted Weblate](https://github.com/NethServer/ns8-collabora/pull/38)** by *weblate* - Reviewers: *None* - Created at: 2025-01-20T14:47:04Z
-- :eyes: :zzz: **[chore(deps): update collabora/code docker tag to v24.04.13.1.1](https://github.com/NethServer/ns8-collabora/pull/37)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-01-09T15:06:16Z
+- :eyes: :zzz: **[chore(deps): update collabora/code docker tag to v24.04.13.2.1](https://github.com/NethServer/ns8-collabora/pull/37)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-01-09T15:06:16Z
 
 ### NethServer/ns8-webtop 7 
 
@@ -212,9 +212,8 @@ date = 2025-03-13
 
 -   **[Bump tancredi version](https://github.com/nethesis/nethserver-tancredi/pull/150)** by *nethbot* - Reviewers: *Stell0, andrea-marchionni* - Created at: 2025-03-06T14:33:05Z
 
-### nethesis/ns8-nethvoice 2 
+### nethesis/ns8-nethvoice 1 
 
-- :eyes:  **[chore(deps): update ghcr.io/nethesis/nethvoice-cti docker tag to v0.5.0](https://github.com/nethesis/ns8-nethvoice/pull/400)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-03-07T19:38:25Z
 - :eyes: :zzz: **[Translations update from Hosted Weblate](https://github.com/nethesis/ns8-nethvoice/pull/365)** by *weblate* - Reviewers: *None* - Created at: 2025-01-22T13:01:56Z
 
 ### nethesis/parceler 2 

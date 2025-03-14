@@ -1,6 +1,6 @@
 +++
 title = 'Open Pull Requests'
-date = 2025-03-13
+date = 2025-03-14
 +++
 
 ## Organization: nethserver
@@ -9,14 +9,16 @@ date = 2025-03-13
 
 - :eyes:  **[Update Asterisk jail configuration for fail2ban](https://github.com/NethServer/nethserver-fail2ban/pull/123)** by *stephdl* - Reviewers: *None* - Created at: 2025-03-04T17:08:36Z
 
+### NethServer/ns8-core 1 
+
+-   **[fix(password-warning): multiple fixes](https://github.com/NethServer/ns8-core/pull/832)** by *gsanchietti* - Reviewers: *DavidePrincipi* - Created at: 2025-03-13T15:58:30Z
+
 ### NethServer/ns8-github-actions 1 
 
 - :eyes: :zzz: **[Add GitHub Workflow for Container Scanning and SBOM Generation Using Trivy](https://github.com/NethServer/ns8-github-actions/pull/23)** by *Amygos* - Reviewers: *None* - Created at: 2024-11-20T10:46:48Z
 
-### NethServer/nethsecurity 3 
+### NethServer/nethsecurity 1 
 
--   **[fix(adblock): restart firewall when reloading or restarting adblock](https://github.com/NethServer/nethsecurity/pull/1121)** by *Tbaile* - Reviewers: *gsanchietti* - Created at: 2025-03-12T14:37:36Z
--   **[feat(ns-dpi): supporting vlans](https://github.com/NethServer/nethsecurity/pull/1110)** by *Tbaile* - Reviewers: *gsanchietti* - Created at: 2025-03-06T09:48:32Z
 -  :zzz: **[High availability stack](https://github.com/NethServer/nethsecurity/pull/871)** by *gsanchietti* - Reviewers: *Tbaile* - Created at: 2024-10-23T15:36:11Z
 
 ### NethServer/ns8-nethsecurity-controller 1 
@@ -33,11 +35,15 @@ date = 2025-03-13
 
 ### NethServer/nethserver-firewall-migration 1 
 
-- :eyes:  **[fix(network): do not use label for wans](https://github.com/NethServer/nethserver-firewall-migration/pull/57)** by *gsanchietti* - Reviewers: *None* - Created at: 2025-02-11T13:16:46Z
+- :eyes: :zzz: **[fix(network): do not use label for wans](https://github.com/NethServer/nethserver-firewall-migration/pull/57)** by *gsanchietti* - Reviewers: *None* - Created at: 2025-02-11T13:16:46Z
 
 ### NethServer/ns8-ejabberd 1 
 
 - :eyes:  **[feat: certificate-changed event handler](https://github.com/NethServer/ns8-ejabberd/pull/63)** by *DavidePrincipi* - Reviewers: *None* - Created at: 2025-03-11T14:47:42Z
+
+### NethServer/ns8-docs 1 
+
+- :eyes:  **[feat: describe password warning](https://github.com/NethServer/ns8-docs/pull/149)** by *gsanchietti* - Reviewers: *None* - Created at: 2025-03-13T08:54:45Z
 
 ### NethServer/nethsecurity-docs 3 
 
@@ -69,7 +75,7 @@ date = 2025-03-13
 
 ### nethesis/ns8-nethvoice 6 
 
-- :eyes:  **[fix(events): validate ICEENFORCE in proxy settings](https://github.com/nethesis/ns8-nethvoice/pull/401)** by *Amygos* - Reviewers: *None* - Created at: 2025-03-12T15:41:31Z
+- :eyes:  **[feat(conference): migrate MeetMe to ConfBridge](https://github.com/nethesis/ns8-nethvoice/pull/402)** by *edospadoni* - Reviewers: *None* - Created at: 2025-03-13T07:48:21Z
 - :eyes:  **[feat(videocall & screen-share): migrate to janus 1.x and set new codecs](https://github.com/nethesis/ns8-nethvoice/pull/399)** by *edospadoni* - Reviewers: *None* - Created at: 2025-03-05T13:21:35Z
 -   **[fix(recallonbusy): Use hints to define devices state instead of DeviceState](https://github.com/nethesis/ns8-nethvoice/pull/398)** by *Stell0* - Reviewers: *Amygos* - Created at: 2025-03-04T17:35:58Z
 - :eyes:  **[feat(phonebook): update python mysql connector library](https://github.com/nethesis/ns8-nethvoice/pull/393)** by *viktec* - Reviewers: *None* - Created at: 2025-02-26T16:47:39Z
