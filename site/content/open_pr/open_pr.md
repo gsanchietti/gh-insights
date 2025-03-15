@@ -1,6 +1,6 @@
 +++
 title = 'Open Pull Requests'
-date = 2025-03-14
+date = 2025-03-15
 +++
 
 ## Organization: nethserver
@@ -9,16 +9,27 @@ date = 2025-03-14
 
 - :eyes:  **[Update Asterisk jail configuration for fail2ban](https://github.com/NethServer/nethserver-fail2ban/pull/123)** by *stephdl* - Reviewers: *None* - Created at: 2025-03-04T17:08:36Z
 
-### NethServer/ns8-core 1 
+### NethServer/ns8-core 3 
 
--   **[fix(password-warning): multiple fixes](https://github.com/NethServer/ns8-core/pull/832)** by *gsanchietti* - Reviewers: *DavidePrincipi* - Created at: 2025-03-13T15:58:30Z
+-   **[feat: import script from ns8-docs](https://github.com/NethServer/ns8-core/pull/837)** by *DavidePrincipi* - Reviewers: *gsanchietti* - Created at: 2025-03-14T17:37:24Z
+-   **[Cluster user expiration and mail address UI](https://github.com/NethServer/ns8-core/pull/836)** by *gsanchietti* - Reviewers: *DavidePrincipi* - Created at: 2025-03-14T15:42:29Z
+- :eyes:  **[feat(ui): add ip_allowlist](https://github.com/NethServer/ns8-core/pull/831)** by *gsanchietti* - Reviewers: *None* - Created at: 2025-03-13T14:50:19Z
 
 ### NethServer/ns8-github-actions 1 
 
 - :eyes: :zzz: **[Add GitHub Workflow for Container Scanning and SBOM Generation Using Trivy](https://github.com/NethServer/ns8-github-actions/pull/23)** by *Amygos* - Reviewers: *None* - Created at: 2024-11-20T10:46:48Z
 
-### NethServer/nethsecurity 1 
+### NethServer/ns8-samba 1 
 
+-   **[feat(api): expose mail and password info](https://github.com/NethServer/ns8-samba/pull/84)** by *gsanchietti* - Reviewers: *DavidePrincipi* - Created at: 2025-03-14T14:39:26Z
+
+### NethServer/ns8-openldap 1 
+
+-   **[feat(api): expose mail and password info](https://github.com/NethServer/ns8-openldap/pull/56)** by *gsanchietti* - Reviewers: *DavidePrincipi* - Created at: 2025-03-14T15:31:32Z
+
+### NethServer/nethsecurity 2 
+
+-   **[fix(flashstart): allow firewall to bypass flashstart](https://github.com/NethServer/nethsecurity/pull/1123)** by *Tbaile* - Reviewers: *gsanchietti* - Created at: 2025-03-13T09:40:04Z
 -  :zzz: **[High availability stack](https://github.com/NethServer/nethsecurity/pull/871)** by *gsanchietti* - Reviewers: *Tbaile* - Created at: 2024-10-23T15:36:11Z
 
 ### NethServer/ns8-nethsecurity-controller 1 
@@ -43,7 +54,7 @@ date = 2025-03-14
 
 ### NethServer/ns8-docs 1 
 
-- :eyes:  **[feat: describe password warning](https://github.com/NethServer/ns8-docs/pull/149)** by *gsanchietti* - Reviewers: *None* - Created at: 2025-03-13T08:54:45Z
+-   **[feat(disk_usage): illustrate different approaches](https://github.com/NethServer/ns8-docs/pull/150)** by *DavidePrincipi* - Reviewers: *filippocarletti, gsanchietti, nrauso* - Created at: 2025-03-14T17:38:43Z
 
 ### NethServer/nethsecurity-docs 3 
 
@@ -56,6 +67,10 @@ date = 2025-03-14
 -   **[feat(videocall): update phone-island to support videocall](https://github.com/NethServer/nethlink/pull/52)** by *tonyco97* - Reviewers: *edospadoni* - Created at: 2025-03-07T15:47:53Z
 
 ## Organization: nethesis
+
+### nethesis/nethcti-server 1 
+
+- :eyes:  **[chore: migrate MeetMe to ConfBridge](https://github.com/nethesis/nethcti-server/pull/327)** by *edospadoni* - Reviewers: *None* - Created at: 2025-03-11T15:14:06Z
 
 ### nethesis/nethvoice-wizard-ui 1 
 
@@ -73,18 +88,22 @@ date = 2025-03-14
 
 - :eyes:  **[Add NP-X5 v2](https://github.com/nethesis/tancredi/pull/306)** by *andrea-marchionni* - Reviewers: *None* - Created at: 2025-02-13T11:32:35Z
 
+### nethesis/astproxy 1 
+
+- :eyes:  **[chore: migrate MeetMe to ConfBridge](https://github.com/nethesis/astproxy/pull/16)** by *edospadoni* - Reviewers: *None* - Created at: 2025-03-11T15:15:15Z
+
 ### nethesis/ns8-nethvoice 6 
 
-- :eyes:  **[feat(conference): migrate MeetMe to ConfBridge](https://github.com/nethesis/ns8-nethvoice/pull/402)** by *edospadoni* - Reviewers: *None* - Created at: 2025-03-13T07:48:21Z
+-   **[feat(conference): migrate MeetMe to ConfBridge](https://github.com/nethesis/ns8-nethvoice/pull/402)** by *edospadoni* - Reviewers: *Stell0* - Created at: 2025-03-13T07:48:21Z
 - :eyes:  **[feat(videocall & screen-share): migrate to janus 1.x and set new codecs](https://github.com/nethesis/ns8-nethvoice/pull/399)** by *edospadoni* - Reviewers: *None* - Created at: 2025-03-05T13:21:35Z
 -   **[fix(recallonbusy): Use hints to define devices state instead of DeviceState](https://github.com/nethesis/ns8-nethvoice/pull/398)** by *Stell0* - Reviewers: *Amygos* - Created at: 2025-03-04T17:35:58Z
 - :eyes:  **[feat(phonebook): update python mysql connector library](https://github.com/nethesis/ns8-nethvoice/pull/393)** by *viktec* - Reviewers: *None* - Created at: 2025-02-26T16:47:39Z
 - :eyes:  **[feat(freepbx): API for triggering phones configuration reload](https://github.com/nethesis/ns8-nethvoice/pull/383)** by *Stell0* - Reviewers: *None* - Created at: 2025-02-17T11:13:55Z
 - :eyes:  **[Add NP-X5 v2](https://github.com/nethesis/ns8-nethvoice/pull/380)** by *andrea-marchionni* - Reviewers: *None* - Created at: 2025-02-13T11:32:44Z
 
-### nethesis/phone-island 1 
+### nethesis/nethvoice-cti 1 
 
--   **[fix: missing recording view](https://github.com/nethesis/phone-island/pull/84)** by *tonyco97* - Reviewers: *edospadoni* - Created at: 2025-03-11T13:58:37Z
+- :eyes:  **[feat: voicemail side menu](https://github.com/nethesis/nethvoice-cti/pull/286)** by *tommaso-ascani* - Reviewers: *None* - Created at: 2025-02-20T09:58:58Z
 
 ### nethesis/ns8-nethvoice-proxy 2 
 

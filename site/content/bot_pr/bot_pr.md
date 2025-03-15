@@ -1,6 +1,6 @@
 +++
 title = 'Open Pull Requests by Bots'
-date = 2025-03-14
+date = 2025-03-15
 +++
 
 ## Organization: nethserver
@@ -41,7 +41,7 @@ date = 2025-03-14
 - :eyes: :zzz: **[chore(deps): update nginx docker tag to v1.27.4](https://github.com/NethServer/ns8-nextcloud/pull/133)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-02-06T01:54:16Z
 - :eyes: :zzz: **[chore(deps): update ghcr.io/marketsquare/robotframework-browser/rfbrowser-stable docker tag to v19.3.1](https://github.com/NethServer/ns8-nextcloud/pull/132)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-01-26T17:42:49Z
 - :eyes: :zzz: **[Translations update from Hosted Weblate](https://github.com/NethServer/ns8-nextcloud/pull/131)** by *weblate* - Reviewers: *None* - Created at: 2025-01-22T03:08:30Z
-- :eyes: :zzz: **[chore(deps): update docker.io/library/nextcloud docker tag to v29.0.12](https://github.com/NethServer/ns8-nextcloud/pull/130)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-01-19T09:25:53Z
+- :eyes: :zzz: **[chore(deps): update docker.io/library/nextcloud docker tag to v29.0.13](https://github.com/NethServer/ns8-nextcloud/pull/130)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-01-19T09:25:53Z
 - :eyes: :zzz: **[chore(deps): update redis docker tag to v7](https://github.com/NethServer/ns8-nextcloud/pull/129)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-01-15T00:10:32Z
 - :eyes: :zzz: **[chore(deps): update mariadb docker tag to v11](https://github.com/NethServer/ns8-nextcloud/pull/128)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-01-14T18:40:46Z
 - :eyes: :zzz: **[chore(deps): update mariadb docker tag to v10.11.11](https://github.com/NethServer/ns8-nextcloud/pull/127)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-01-14T18:40:22Z
@@ -90,8 +90,8 @@ date = 2025-03-14
 ### NethServer/nethsecurity-controller 5 
 
 - :eyes:  **[fix(deps): update module github.com/appleboy/gin-jwt/v2 to v2.10.2](https://github.com/NethServer/nethsecurity-controller/pull/87)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-02-24T16:05:55Z
-- :eyes:  **[fix(deps): update github.com/nethserver/nethsecurity-api digest to c1e7d61](https://github.com/NethServer/nethsecurity-controller/pull/86)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-02-13T12:03:10Z
-- :eyes:  **[build(deps): Update ns-ui package (automated)](https://github.com/NethServer/nethsecurity-controller/pull/85)** by *github-actions[bot]* - Reviewers: *None* - Created at: 2025-02-13T01:11:28Z
+- :eyes:  **[fix(deps): update github.com/nethserver/nethsecurity-api digest to c94f2ef](https://github.com/NethServer/nethsecurity-controller/pull/86)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-02-13T12:03:10Z
+- :eyes: :zzz: **[build(deps): Update ns-ui package (automated)](https://github.com/NethServer/nethsecurity-controller/pull/85)** by *github-actions[bot]* - Reviewers: *None* - Created at: 2025-02-13T01:11:28Z
 - :eyes: :zzz: **[fix(deps): update module golang.org/x/crypto to v0.36.0](https://github.com/NethServer/nethsecurity-controller/pull/84)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-02-08T01:26:39Z
 - :eyes: :zzz: **[chore(deps): update dependency go to v1.24.1](https://github.com/NethServer/nethsecurity-controller/pull/66)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-01-13T14:55:23Z
 
@@ -139,8 +139,9 @@ date = 2025-03-14
 -  :zzz: **[chore(deps): update memcached docker tag to v1.6.37](https://github.com/NethServer/ns8-piler/pull/24)** by *renovate[bot]* - Reviewers: *stephdl* - Created at: 2024-05-31T08:18:14Z
 -  :zzz: **[chore(deps): update mariadb docker tag to v10.11.11](https://github.com/NethServer/ns8-piler/pull/23)** by *renovate[bot]* - Reviewers: *stephdl* - Created at: 2024-05-31T08:18:09Z
 
-### NethServer/phonehome-server 1 
+### NethServer/phonehome-server 2 
 
+- :eyes:  **[chore(deps): update adminer docker tag to v5](https://github.com/NethServer/phonehome-server/pull/128)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-03-15T02:06:42Z
 - :eyes:  **[fix(deps): update dependency laravel/framework to v12](https://github.com/NethServer/phonehome-server/pull/127)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-03-01T01:48:09Z
 
 ### NethServer/ns8-crowdsec 2 
@@ -173,7 +174,7 @@ date = 2025-03-14
 
 ### NethServer/ns8-wordpress 1 
 
-- :eyes:  **[chore(deps): update wordpress docker tag to v6.7.2](https://github.com/NethServer/ns8-wordpress/pull/20)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-02-12T19:01:00Z
+- :eyes: :zzz: **[chore(deps): update wordpress docker tag to v6.7.2](https://github.com/NethServer/ns8-wordpress/pull/20)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-02-12T19:01:00Z
 
 ### NethServer/ns8-netdata 2 
 
@@ -215,6 +216,10 @@ date = 2025-03-14
 ### nethesis/ns8-nethvoice 1 
 
 - :eyes: :zzz: **[Translations update from Hosted Weblate](https://github.com/nethesis/ns8-nethvoice/pull/365)** by *weblate* - Reviewers: *None* - Created at: 2025-01-22T13:01:56Z
+
+### nethesis/nethvoice-cti 1 
+
+- :eyes:  **[build(deps): Update phone-island dependency (automated)](https://github.com/nethesis/nethvoice-cti/pull/289)** by *github-actions[bot]* - Reviewers: *None* - Created at: 2025-03-15T00:18:15Z
 
 ### nethesis/parceler 2 
 
