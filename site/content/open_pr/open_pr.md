@@ -1,6 +1,6 @@
 +++
 title = 'Open Pull Requests'
-date = 2025-03-15
+date = 2025-03-16
 +++
 
 ## Organization: nethserver
@@ -74,7 +74,7 @@ date = 2025-03-15
 
 ### nethesis/nethvoice-wizard-ui 1 
 
-- :eyes:  **[Add NP-X5 v2](https://github.com/nethesis/nethvoice-wizard-ui/pull/196)** by *andrea-marchionni* - Reviewers: *None* - Created at: 2025-02-13T11:32:26Z
+- :eyes: :zzz: **[Add NP-X5 v2](https://github.com/nethesis/nethvoice-wizard-ui/pull/196)** by *andrea-marchionni* - Reviewers: *None* - Created at: 2025-02-13T11:32:26Z
 
 ### nethesis/nethcti-app-android 1 
 
@@ -86,7 +86,7 @@ date = 2025-03-15
 
 ### nethesis/tancredi 1 
 
-- :eyes:  **[Add NP-X5 v2](https://github.com/nethesis/tancredi/pull/306)** by *andrea-marchionni* - Reviewers: *None* - Created at: 2025-02-13T11:32:35Z
+- :eyes: :zzz: **[Add NP-X5 v2](https://github.com/nethesis/tancredi/pull/306)** by *andrea-marchionni* - Reviewers: *None* - Created at: 2025-02-13T11:32:35Z
 
 ### nethesis/astproxy 1 
 
@@ -99,7 +99,7 @@ date = 2025-03-15
 -   **[fix(recallonbusy): Use hints to define devices state instead of DeviceState](https://github.com/nethesis/ns8-nethvoice/pull/398)** by *Stell0* - Reviewers: *Amygos* - Created at: 2025-03-04T17:35:58Z
 - :eyes:  **[feat(phonebook): update python mysql connector library](https://github.com/nethesis/ns8-nethvoice/pull/393)** by *viktec* - Reviewers: *None* - Created at: 2025-02-26T16:47:39Z
 - :eyes:  **[feat(freepbx): API for triggering phones configuration reload](https://github.com/nethesis/ns8-nethvoice/pull/383)** by *Stell0* - Reviewers: *None* - Created at: 2025-02-17T11:13:55Z
-- :eyes:  **[Add NP-X5 v2](https://github.com/nethesis/ns8-nethvoice/pull/380)** by *andrea-marchionni* - Reviewers: *None* - Created at: 2025-02-13T11:32:44Z
+- :eyes: :zzz: **[Add NP-X5 v2](https://github.com/nethesis/ns8-nethvoice/pull/380)** by *andrea-marchionni* - Reviewers: *None* - Created at: 2025-02-13T11:32:44Z
 
 ### nethesis/nethvoice-cti 1 
 

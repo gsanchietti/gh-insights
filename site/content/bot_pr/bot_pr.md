@@ -1,6 +1,6 @@
 +++
 title = 'Open Pull Requests by Bots'
-date = 2025-03-15
+date = 2025-03-16
 +++
 
 ## Organization: nethserver
@@ -8,7 +8,7 @@ date = 2025-03-15
 ### NethServer/ns8-core 6 
 
 - :eyes:  **[chore(deps): update redis docker tag to v7.4.2](https://github.com/NethServer/ns8-core/pull/830)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-03-13T14:07:34Z
-- :eyes:  **[chore(deps): update dependency grafana/loki to v2.9.13](https://github.com/NethServer/ns8-core/pull/808)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-02-13T16:56:32Z
+- :eyes: :zzz: **[chore(deps): update dependency grafana/loki to v2.9.13](https://github.com/NethServer/ns8-core/pull/808)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-02-13T16:56:32Z
 - :eyes: :zzz: **[chore(deps): update grafana/promtail docker tag to v3](https://github.com/NethServer/ns8-core/pull/805)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-02-11T01:12:03Z
 - :eyes: :zzz: **[chore(deps): update ghcr.io/marketsquare/robotframework-browser/rfbrowser-stable docker tag to v19](https://github.com/NethServer/ns8-core/pull/804)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-02-11T01:11:58Z
 - :eyes: :zzz: **[chore(deps): update grafana/promtail docker tag to v2.9.13](https://github.com/NethServer/ns8-core/pull/800)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-02-10T16:43:05Z
@@ -60,7 +60,7 @@ date = 2025-03-15
 
 ### NethServer/ns8-loki 5 
 
-- :eyes:  **[chore(deps): update grafana/loki docker tag to v2.9.13](https://github.com/NethServer/ns8-loki/pull/36)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-02-13T16:41:59Z
+- :eyes: :zzz: **[chore(deps): update grafana/loki docker tag to v2.9.13](https://github.com/NethServer/ns8-loki/pull/36)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-02-13T16:41:59Z
 - :eyes: :zzz: **[chore(deps): update ghcr.io/marketsquare/robotframework-browser/rfbrowser-stable docker tag to v19.3.1](https://github.com/NethServer/ns8-loki/pull/34)** by *renovate[bot]* - Reviewers: *None* - Created at: 2024-12-20T21:53:49Z
 -  :zzz: **[chore(deps): update traefik docker tag to v2.11.21](https://github.com/NethServer/ns8-loki/pull/30)** by *renovate[bot]* - Reviewers: *Amygos* - Created at: 2024-11-20T19:13:22Z
 -  :zzz: **[chore(deps): update traefik docker tag to v3](https://github.com/NethServer/ns8-loki/pull/23)** by *renovate[bot]* - Reviewers: *Amygos* - Created at: 2024-07-30T17:21:16Z
@@ -90,7 +90,7 @@ date = 2025-03-15
 ### NethServer/nethsecurity-controller 5 
 
 - :eyes:  **[fix(deps): update module github.com/appleboy/gin-jwt/v2 to v2.10.2](https://github.com/NethServer/nethsecurity-controller/pull/87)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-02-24T16:05:55Z
-- :eyes:  **[fix(deps): update github.com/nethserver/nethsecurity-api digest to c94f2ef](https://github.com/NethServer/nethsecurity-controller/pull/86)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-02-13T12:03:10Z
+- :eyes: :zzz: **[fix(deps): update github.com/nethserver/nethsecurity-api digest to c94f2ef](https://github.com/NethServer/nethsecurity-controller/pull/86)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-02-13T12:03:10Z
 - :eyes: :zzz: **[build(deps): Update ns-ui package (automated)](https://github.com/NethServer/nethsecurity-controller/pull/85)** by *github-actions[bot]* - Reviewers: *None* - Created at: 2025-02-13T01:11:28Z
 - :eyes: :zzz: **[fix(deps): update module golang.org/x/crypto to v0.36.0](https://github.com/NethServer/nethsecurity-controller/pull/84)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-02-08T01:26:39Z
 - :eyes: :zzz: **[chore(deps): update dependency go to v1.24.1](https://github.com/NethServer/nethsecurity-controller/pull/66)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-01-13T14:55:23Z
@@ -127,7 +127,7 @@ date = 2025-03-15
 
 ### NethServer/ns8-roundcubemail 3 
 
-- :eyes:  **[Update roundcube/roundcubemail Docker tag to v1.6.10](https://github.com/NethServer/ns8-roundcubemail/pull/52)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-02-13T15:23:19Z
+- :eyes: :zzz: **[Update roundcube/roundcubemail Docker tag to v1.6.10](https://github.com/NethServer/ns8-roundcubemail/pull/52)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-02-13T15:23:19Z
 - :eyes: :zzz: **[Update mariadb Docker tag to v10.11.11](https://github.com/NethServer/ns8-roundcubemail/pull/51)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-02-06T04:42:36Z
 - :eyes: :zzz: **[Translations update from Hosted Weblate](https://github.com/NethServer/ns8-roundcubemail/pull/50)** by *weblate* - Reviewers: *None* - Created at: 2025-01-21T03:11:49Z
 
