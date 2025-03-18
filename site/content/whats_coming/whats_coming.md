@@ -2,13 +2,19 @@
 
 title = 'To be released soon'
 
-date = 2025-03-17
+date = 2025-03-18
 
 +++
 
+### NethServer
+
+- [Expose IP allow list configuration in cluster web interface](https://github.com/NethServer/dev/issues/7348) (#7337) by gsanchietti (Created: 2025-03-14T14:45:16Z, Updated: 2025-03-17T13:46:39Z)
+
 ### NethVoice
 
-- [NethVoice CTI: Display call queue information - UI design](https://github.com/NethServer/dev/issues/7333) (#7333) by AmaLuci (Created: 2025-02-26T11:09:47Z, Updated: 2025-03-12T09:22:44Z)
+- [Audio issue in NethVoice CTI](https://github.com/NethServer/dev/issues/7345) (#7337) by Amygos (Created: 2025-03-12T15:33:54Z, Updated: 2025-03-17T09:06:44Z)
+
+- [Snom cordless REINVITE with TLS doesn't work](https://github.com/NethServer/dev/issues/7337) (#7337) by Stell0 (Created: 2025-03-03T17:13:45Z, Updated: 2025-03-17T11:31:37Z)
 
 ### NethSecurity
 
