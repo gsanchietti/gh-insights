@@ -1,6 +1,6 @@
 +++
 title = 'Open Pull Requests by Bots'
-date = 2025-03-19
+date = 2025-03-20
 +++
 
 ## Organization: nethserver
@@ -35,8 +35,9 @@ date = 2025-03-19
 -  :zzz: **[chore(deps): update ghcr.io/marketsquare/robotframework-browser/rfbrowser-stable docker tag to v19](https://github.com/NethServer/ns8-webserver/pull/83)** by *renovate[bot]* - Reviewers: *stephdl* - Created at: 2024-11-27T11:53:06Z
 -  :zzz: **[chore(deps): update ghcr.io/marketsquare/robotframework-browser/rfbrowser-stable docker tag to v10.1.0](https://github.com/NethServer/ns8-webserver/pull/76)** by *renovate[bot]* - Reviewers: *stephdl* - Created at: 2024-10-17T13:08:31Z
 
-### NethServer/ns8-nextcloud 1 
+### NethServer/ns8-nextcloud 2 
 
+- :eyes:  **[chore(deps): update docker.io/library/nextcloud docker tag to v30.0.8](https://github.com/NethServer/ns8-nextcloud/pull/136)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-03-20T02:08:35Z
 - :eyes: :zzz: **[chore(deps): update ghcr.io/marketsquare/robotframework-browser/rfbrowser-stable docker tag to v19.4.0](https://github.com/NethServer/ns8-nextcloud/pull/132)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-01-26T17:42:49Z
 
 ### NethServer/ns8-minio 1 
@@ -107,13 +108,12 @@ date = 2025-03-19
 - :eyes: :zzz: **[Translations update from Hosted Weblate](https://github.com/NethServer/ns8-collabora/pull/38)** by *weblate* - Reviewers: *None* - Created at: 2025-01-20T14:47:04Z
 - :eyes: :zzz: **[chore(deps): update collabora/code docker tag to v24.04.13.2.1](https://github.com/NethServer/ns8-collabora/pull/37)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-01-09T15:06:16Z
 
-### NethServer/ns8-webtop 7 
+### NethServer/ns8-webtop 6 
 
-- :eyes:  **[chore(deps): update tomcat docker tag to v9](https://github.com/NethServer/ns8-webtop/pull/107)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-03-04T22:50:16Z
 -  :zzz: **[Translations update from Hosted Weblate](https://github.com/NethServer/ns8-webtop/pull/100)** by *weblate* - Reviewers: *tonyco97* - Created at: 2024-12-20T11:31:31Z
 - :eyes: :zzz: **[chore(deps): update ghcr.io/marketsquare/robotframework-browser/rfbrowser-stable docker tag to v19.4.0](https://github.com/NethServer/ns8-webtop/pull/99)** by *renovate[bot]* - Reviewers: *None* - Created at: 2024-12-19T16:40:00Z
 -  :zzz: **[chore(deps): update php docker tag to v8](https://github.com/NethServer/ns8-webtop/pull/75)** by *renovate[bot]* - Reviewers: *Amygos* - Created at: 2024-09-23T14:30:18Z
--  :zzz: **[chore(deps): update mlocati/php-extension-installer docker tag to v2](https://github.com/NethServer/ns8-webtop/pull/64)** by *renovate[bot]* - Reviewers: *Amygos* - Created at: 2024-08-02T20:19:42Z
+-  :zzz: **[chore(deps): update mlocati/php-extension-installer docker tag to v2.7.28](https://github.com/NethServer/ns8-webtop/pull/64)** by *renovate[bot]* - Reviewers: *Amygos* - Created at: 2024-08-02T20:19:42Z
 -  :zzz: **[chore(deps): update maven docker tag to v3.8](https://github.com/NethServer/ns8-webtop/pull/57)** by *renovate[bot]* - Reviewers: *Amygos* - Created at: 2024-07-31T15:01:45Z
 -  :zzz: **[chore(deps): update mlocati/php-extension-installer docker tag to v1.5.52](https://github.com/NethServer/ns8-webtop/pull/55)** by *renovate[bot]* - Reviewers: *Amygos* - Created at: 2024-07-31T14:52:53Z
 
@@ -170,7 +170,7 @@ date = 2025-03-19
 ### NethServer/ns8-netdata 2 
 
 - :eyes: :zzz: **[chore(deps): update ghcr.io/marketsquare/robotframework-browser/rfbrowser-stable docker tag to v19.4.0](https://github.com/NethServer/ns8-netdata/pull/30)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-01-26T17:54:39Z
-- :eyes: :zzz: **[chore(deps): update netdata/netdata docker tag to v2.2.6](https://github.com/NethServer/ns8-netdata/pull/29)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-01-22T16:59:00Z
+- :eyes: :zzz: **[chore(deps): update netdata/netdata docker tag to v2.3.0](https://github.com/NethServer/ns8-netdata/pull/29)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-01-22T16:59:00Z
 
 ### NethServer/ns8-passbolt 1 
 
@@ -187,6 +187,10 @@ date = 2025-03-19
 
 - :eyes: :zzz: **[Bump guzzlehttp/guzzle from 6.5.7 to 7.5.0 in /root/usr/src/google_speech_php](https://github.com/nethesis/nethvoice-wizard-restapi/pull/206)** by *dependabot[bot]* - Reviewers: *None* - Created at: 2023-01-09T08:53:05Z
 
+### nethesis/icaro 1 
+
+- :eyes:  **[Bump jspdf from 1.3.5 to 3.0.1 in /sun/sun-ui](https://github.com/nethesis/icaro/pull/197)** by *dependabot[bot]* - Reviewers: *None* - Created at: 2025-03-19T07:36:45Z
+
 ### nethesis/contatta 1 
 
 - :eyes: :zzz: **[Bump symfony/process from 3.1.7 to 5.4.46 in /root/var/www/html/freepbx/contatta](https://github.com/nethesis/contatta/pull/17)** by *dependabot[bot]* - Reviewers: *None* - Created at: 2024-11-06T16:19:29Z
@@ -200,9 +204,9 @@ date = 2025-03-19
 
 - :eyes:  **[Bump nokogiri from 1.16.5 to 1.18.3 in /docs](https://github.com/nethesis/tancredi/pull/307)** by *dependabot[bot]* - Reviewers: *None* - Created at: 2025-02-19T13:08:45Z
 
-### nethesis/nethserver-tancredi 1 
+### nethesis/nethvoice-report 1 
 
--   **[Bump tancredi version](https://github.com/nethesis/nethserver-tancredi/pull/151)** by *nethbot* - Reviewers: *Stell0, andrea-marchionni* - Created at: 2025-03-18T14:49:58Z
+- :eyes:  **[Bump jspdf from 2.1.1 to 3.0.1 in /ui](https://github.com/nethesis/nethvoice-report/pull/203)** by *dependabot[bot]* - Reviewers: *None* - Created at: 2025-03-19T07:36:39Z
 
 ### nethesis/ns8-nethvoice 1 
 
