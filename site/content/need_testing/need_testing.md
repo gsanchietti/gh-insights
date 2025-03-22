@@ -1,6 +1,6 @@
 +++
 title = 'Need testing (8)'
-date = 2025-03-21
+date = 2025-03-22
 +++
 
 ## NethVoice
@@ -9,7 +9,7 @@ date = 2025-03-21
 - :point_right: **[NethVoice CTI / NethLink video call](https://github.com/NethServer/dev/issues/7147)** (#7147) by *Amygos* (Created: 2024-11-15, Updated: 2025-03-14T11:07:50Z)
 
 ## NethServer
-- :point_right: **[Overcoming Imapsync Limitations: Working with Sieve Filters](https://github.com/NethServer/dev/issues/7230)** (#7147) by *DavidePrincipi* (Created: 2024-12-20, Updated: 2025-03-20T10:52:31Z)
+- :point_right: **[Overcoming Imapsync Limitations: Working with Sieve Filters](https://github.com/NethServer/dev/issues/7230)** (#7147) by *DavidePrincipi* (Created: 2024-12-20, Updated: 2025-03-21T17:05:56Z)
 
 ## NethSecurity
 - **[package: add nmap in nethsecurity repos](https://github.com/NethServer/nethsecurity/issues/1129)** (#1092) by *Tbaile* (Created: 2025-03-17, Updated: 2025-03-18T08:13:40Z)

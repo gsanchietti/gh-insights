@@ -1,6 +1,6 @@
 +++
 title = 'Open Pull Requests'
-date = 2025-03-21
+date = 2025-03-22
 +++
 
 ## Organization: nethserver
@@ -35,7 +35,7 @@ date = 2025-03-21
 
 ### NethServer/nethlink 1 
 
--   **[feat(videocall): update phone-island to support videocall](https://github.com/NethServer/nethlink/pull/52)** by *tonyco97* - Reviewers: *edospadoni* - Created at: 2025-03-07T15:47:53Z
+-   **[feat(videocall & screen-share): update phone-island](https://github.com/NethServer/nethlink/pull/52)** by *tonyco97* - Reviewers: *edospadoni* - Created at: 2025-03-07T15:47:53Z
 
 ## Organization: nethesis
 
@@ -51,14 +51,19 @@ date = 2025-03-21
 
 -  :zzz: **[Removed old notification service usage](https://github.com/nethesis/nethcti-app-iphone/pull/37)** by *NicolaMrAPPs* - Reviewers: *b9874e40962149eee62a8fd3bc4e709e* - Created at: 2023-08-02T09:19:30Z
 
+### nethesis/tancredi 1 
+
+-   **[Remove sensitive data from tokenless configuration file](https://github.com/nethesis/tancredi/pull/309)** by *Stell0* - Reviewers: *Amygos* - Created at: 2025-03-21T09:30:38Z
+
 ### nethesis/astproxy 1 
 
 - :eyes:  **[chore: migrate MeetMe to ConfBridge](https://github.com/nethesis/astproxy/pull/16)** by *edospadoni* - Reviewers: *None* - Created at: 2025-03-11T15:15:15Z
 
-### nethesis/ns8-nethvoice 7 
+### nethesis/ns8-nethvoice 8 
 
+- :eyes:  **[Add WiC VoIP and modify WiC -> WiC SIP](https://github.com/nethesis/ns8-nethvoice/pull/411)** by *andrea-marchionni* - Reviewers: *None* - Created at: 2025-03-21T16:12:13Z
 - :eyes:  **[fix(configure-module): enable validation](https://github.com/nethesis/ns8-nethvoice/pull/410)** by *DavidePrincipi* - Reviewers: *None* - Created at: 2025-03-20T15:41:11Z
--   **[feat: certificate-changed event handler](https://github.com/nethesis/ns8-nethvoice/pull/409)** by *DavidePrincipi* - Reviewers: *Amygos, Stell0* - Created at: 2025-03-20T14:44:26Z
+-   **[feat: certificate-changed event handler](https://github.com/nethesis/ns8-nethvoice/pull/409)** by *DavidePrincipi* - Reviewers: *Amygos* - Created at: 2025-03-20T14:44:26Z
 -   **[refactor: restart all serivice on configure](https://github.com/nethesis/ns8-nethvoice/pull/406)** by *Amygos* - Reviewers: *Stell0* - Created at: 2025-03-18T09:38:32Z
 - :eyes:  **[feat(conference): migrate MeetMe to ConfBridge](https://github.com/nethesis/ns8-nethvoice/pull/402)** by *edospadoni* - Reviewers: *None* - Created at: 2025-03-13T07:48:21Z
 -   **[fix(recallonbusy): Use hints to define devices state instead of DeviceState](https://github.com/nethesis/ns8-nethvoice/pull/398)** by *Stell0* - Reviewers: *Amygos* - Created at: 2025-03-04T17:35:58Z
@@ -68,6 +73,10 @@ date = 2025-03-21
 ### nethesis/nethvoice-cti 1 
 
 - :eyes:  **[feat: added voicemail (side menu & settings)](https://github.com/nethesis/nethvoice-cti/pull/286)** by *tommaso-ascani* - Reviewers: *None* - Created at: 2025-02-20T09:58:58Z
+
+### nethesis/phone-island 1 
+
+-   **[fix screen sharing](https://github.com/nethesis/phone-island/pull/88)** by *andre8244* - Reviewers: *edospadoni, tonyco97* - Created at: 2025-03-21T14:07:37Z
 
 ### nethesis/ns8-nethvoice-proxy 2 
 

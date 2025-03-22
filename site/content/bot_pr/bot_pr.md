@@ -1,6 +1,6 @@
 +++
 title = 'Open Pull Requests by Bots'
-date = 2025-03-21
+date = 2025-03-22
 +++
 
 ## Organization: nethserver
@@ -81,8 +81,9 @@ date = 2025-03-21
 
 - :eyes: :zzz: **[chore: bump ns packages (automatic)](https://github.com/NethServer/nethsecurity/pull/1071)** by *github-actions[bot]* - Reviewers: *None* - Created at: 2025-02-10T15:48:19Z
 
-### NethServer/nethsecurity-controller 6 
+### NethServer/nethsecurity-controller 7 
 
+- :eyes:  **[fix(deps): update module github.com/jackc/pgx/v5 to v5.7.3](https://github.com/NethServer/nethsecurity-controller/pull/89)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-03-22T02:39:49Z
 - :eyes:  **[fix(deps): update module github.com/gin-contrib/cors to v1.7.4](https://github.com/NethServer/nethsecurity-controller/pull/88)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-03-17T11:09:16Z
 - :eyes:  **[fix(deps): update module github.com/appleboy/gin-jwt/v2 to v2.10.2](https://github.com/NethServer/nethsecurity-controller/pull/87)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-02-24T16:05:55Z
 - :eyes: :zzz: **[fix(deps): update github.com/nethserver/nethsecurity-api digest to c94f2ef](https://github.com/NethServer/nethsecurity-controller/pull/86)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-02-13T12:03:10Z
@@ -201,7 +202,7 @@ date = 2025-03-21
 
 ### nethesis/tancredi 1 
 
-- :eyes:  **[Bump nokogiri from 1.16.5 to 1.18.3 in /docs](https://github.com/nethesis/tancredi/pull/307)** by *dependabot[bot]* - Reviewers: *None* - Created at: 2025-02-19T13:08:45Z
+- :eyes:  **[Bump nokogiri from 1.16.5 to 1.18.4 in /docs](https://github.com/nethesis/tancredi/pull/310)** by *dependabot[bot]* - Reviewers: *None* - Created at: 2025-03-21T23:13:31Z
 
 ### nethesis/nethvoice-report 1 
 

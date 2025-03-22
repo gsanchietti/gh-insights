@@ -2,21 +2,19 @@
 
 title = 'To be released soon'
 
-date = 2025-03-21
+date = 2025-03-22
 
 +++
 
 ### NethVoice
 
-- [Audio issue in NethVoice CTI](https://github.com/NethServer/dev/issues/7345) (#7245) by Amygos (Created: 2025-03-12T15:33:54Z, Updated: 2025-03-17T09:06:44Z)
+- [Audio issue in NethVoice CTI](https://github.com/NethServer/dev/issues/7345) (#7261) by Amygos (Created: 2025-03-12T15:33:54Z, Updated: 2025-03-17T09:06:44Z)
 
-- [Snom cordless REINVITE with TLS doesn't work](https://github.com/NethServer/dev/issues/7337) (#7245) by Stell0 (Created: 2025-03-03T17:13:45Z, Updated: 2025-03-17T11:31:37Z)
+- [Snom cordless REINVITE with TLS doesn't work](https://github.com/NethServer/dev/issues/7337) (#7261) by Stell0 (Created: 2025-03-03T17:13:45Z, Updated: 2025-03-17T11:31:37Z)
 
 ### NethServer
 
-- [Crowdesc: upgrade the bouncer to v0.0.31 and the LAPI to 1.6.5](https://github.com/NethServer/dev/issues/7307) (#7245) by stephdl (Created: 2025-02-11T16:41:46Z, Updated: 2025-03-20T18:30:51Z)
-
-- [Upgrade to Mattermost 10 ESR](https://github.com/NethServer/dev/issues/7245) (#7245) by DavidePrincipi (Created: 2025-01-10T10:08:57Z, Updated: 2025-03-20T17:59:51Z)
+- [Integrate centralized contact sharing between WebTop and NethVoice in NS8](https://github.com/NethServer/dev/issues/7261) (#7261) by Amygos (Created: 2025-01-17T10:47:06Z, Updated: 2025-03-21T15:53:23Z)
 
 ### NoMilestone
 
