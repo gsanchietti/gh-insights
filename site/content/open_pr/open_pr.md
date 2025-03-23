@@ -1,6 +1,6 @@
 +++
 title = 'Open Pull Requests'
-date = 2025-03-22
+date = 2025-03-23
 +++
 
 ## Organization: nethserver
@@ -72,11 +72,11 @@ date = 2025-03-22
 
 ### nethesis/nethvoice-cti 1 
 
-- :eyes:  **[feat: added voicemail (side menu & settings)](https://github.com/nethesis/nethvoice-cti/pull/286)** by *tommaso-ascani* - Reviewers: *None* - Created at: 2025-02-20T09:58:58Z
+- :eyes: :zzz: **[feat: added voicemail (side menu & settings)](https://github.com/nethesis/nethvoice-cti/pull/286)** by *tommaso-ascani* - Reviewers: *None* - Created at: 2025-02-20T09:58:58Z
 
 ### nethesis/phone-island 1 
 
--   **[fix screen sharing](https://github.com/nethesis/phone-island/pull/88)** by *andre8244* - Reviewers: *edospadoni, tonyco97* - Created at: 2025-03-21T14:07:37Z
+-   **[fix(screen sharing): added close event](https://github.com/nethesis/phone-island/pull/88)** by *andre8244* - Reviewers: *edospadoni, tonyco97* - Created at: 2025-03-21T14:07:37Z
 
 ### nethesis/ns8-nethvoice-proxy 2 
 
