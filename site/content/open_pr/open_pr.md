@@ -1,18 +1,28 @@
 +++
 title = 'Open Pull Requests'
-date = 2025-03-24
+date = 2025-03-25
 +++
 
 ## Organization: nethserver
+
+### NethServer/ns8-core 1 
+
+-   **[fix(ldapclient/ad): missing maxPwdAge attribute](https://github.com/NethServer/ns8-core/pull/841)** by *DavidePrincipi* - Reviewers: *gsanchietti* - Created at: 2025-03-24T17:28:04Z
 
 ### NethServer/ns8-github-actions 1 
 
 - :eyes: :zzz: **[Add GitHub Workflow for Container Scanning and SBOM Generation Using Trivy](https://github.com/NethServer/ns8-github-actions/pull/23)** by *Amygos* - Reviewers: *None* - Created at: 2024-11-20T10:46:48Z
 
-### NethServer/nethsecurity 2 
+### NethServer/nethsecurity 4 
 
-- :eyes:  **[fix(ns-migration): create domains related to wildcards](https://github.com/NethServer/nethsecurity/pull/1132)** by *Tbaile* - Reviewers: *None* - Created at: 2025-03-17T10:55:27Z
+- :eyes:  **[fix(dpi): honor log limit](https://github.com/NethServer/nethsecurity/pull/1141)** by *gsanchietti* - Reviewers: *None* - Created at: 2025-03-24T15:51:41Z
+- :eyes:  **[fix(ns-migration): apply default logging when migrating](https://github.com/NethServer/nethsecurity/pull/1139)** by *Tbaile* - Reviewers: *None* - Created at: 2025-03-24T07:45:32Z
+- :eyes:  **[fix(ns-migration): configure netifyd on migration](https://github.com/NethServer/nethsecurity/pull/1138)** by *Tbaile* - Reviewers: *None* - Created at: 2025-03-24T07:44:05Z
 -  :zzz: **[High availability stack](https://github.com/NethServer/nethsecurity/pull/871)** by *gsanchietti* - Reviewers: *Tbaile* - Created at: 2024-10-23T15:36:11Z
+
+### NethServer/nethsecurity-controller 1 
+
+-   **[build: refactored build into containerfiles](https://github.com/NethServer/nethsecurity-controller/pull/91)** by *Tbaile* - Reviewers: *edospadoni* - Created at: 2025-03-24T14:07:12Z
 
 ### NethServer/ns8-nethsecurity-controller 1 
 
@@ -24,7 +34,7 @@ date = 2025-03-24
 
 ### NethServer/ns8-docs 2 
 
-- :eyes:  **[feat(webtop): phonebook sync](https://github.com/NethServer/ns8-docs/pull/153)** by *gsanchietti* - Reviewers: *None* - Created at: 2025-03-19T17:16:18Z
+- :eyes:  **[feat(webtop): PEC bridge customization](https://github.com/NethServer/ns8-docs/pull/154)** by *gsanchietti* - Reviewers: *None* - Created at: 2025-03-21T15:19:13Z
 - :eyes:  **[feat(Imapsync): Sieve filter support](https://github.com/NethServer/ns8-docs/pull/152)** by *DavidePrincipi* - Reviewers: *None* - Created at: 2025-03-18T17:55:48Z
 
 ### NethServer/nethsecurity-docs 3 
@@ -76,7 +86,7 @@ date = 2025-03-24
 
 ### nethesis/phone-island 1 
 
--   **[fix(screen sharing): added close event](https://github.com/nethesis/phone-island/pull/88)** by *andre8244* - Reviewers: *edospadoni, tonyco97* - Created at: 2025-03-21T14:07:37Z
+- :eyes:  **[feat: added conference](https://github.com/nethesis/phone-island/pull/86)** by *edospadoni* - Reviewers: *None* - Created at: 2025-03-11T15:17:57Z
 
 ### nethesis/ns8-nethvoice-proxy 2 
 

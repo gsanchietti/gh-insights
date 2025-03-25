@@ -2,19 +2,21 @@
 
 title = 'To be released soon'
 
-date = 2025-03-24
+date = 2025-03-25
 
 +++
 
 ### NethVoice
 
-- [Audio issue in NethVoice CTI](https://github.com/NethServer/dev/issues/7345) (#7261) by Amygos (Created: 2025-03-12T15:33:54Z, Updated: 2025-03-17T09:06:44Z)
+- [Audio issue in NethVoice CTI](https://github.com/NethServer/dev/issues/7345) (#7147) by Amygos (Created: 2025-03-12T15:33:54Z, Updated: 2025-03-17T09:06:44Z)
 
-- [Snom cordless REINVITE with TLS doesn't work](https://github.com/NethServer/dev/issues/7337) (#7261) by Stell0 (Created: 2025-03-03T17:13:45Z, Updated: 2025-03-17T11:31:37Z)
+- [Snom cordless REINVITE with TLS doesn't work](https://github.com/NethServer/dev/issues/7337) (#7147) by Stell0 (Created: 2025-03-03T17:13:45Z, Updated: 2025-03-17T11:31:37Z)
+
+- [NethVoice CTI / NethLink video call](https://github.com/NethServer/dev/issues/7147) (#7147) by Amygos (Created: 2024-11-15T10:59:24Z, Updated: 2025-03-24T14:11:31Z)
 
 ### NethServer
 
-- [Integrate centralized contact sharing between WebTop and NethVoice in NS8](https://github.com/NethServer/dev/issues/7261) (#7261) by Amygos (Created: 2025-01-17T10:47:06Z, Updated: 2025-03-21T15:53:23Z)
+- [Overcoming Imapsync Limitations: Working with Sieve Filters](https://github.com/NethServer/dev/issues/7230) (#7147) by DavidePrincipi (Created: 2024-12-20T11:43:31Z, Updated: 2025-03-24T21:36:14Z)
 
 ### NoMilestone
 
@@ -22,11 +24,19 @@ date = 2025-03-24
 
 ### NethSecurity
 
-- [Separate DNS resolution for firewall and clients using flashstart](https://github.com/NethServer/nethsecurity/issues/1125) (#813) by Tbaile (Created: 2025-03-14T09:29:51Z, Updated: 2025-03-20T13:29:06Z)
+- [DNS: missing wildcard records after migration ](https://github.com/NethServer/nethsecurity/issues/1131) (#813) by cotosso (Created: 2025-03-17T10:10:06Z, Updated: 2025-03-24T16:08:49Z)
+
+- [package: add nmap in nethsecurity repos](https://github.com/NethServer/nethsecurity/issues/1129) (#813) by Tbaile (Created: 2025-03-17T08:32:38Z, Updated: 2025-03-24T15:31:29Z)
+
+- [banip: remove nixspam list](https://github.com/NethServer/nethsecurity/issues/1127) (#813) by Tbaile (Created: 2025-03-17T08:15:30Z, Updated: 2025-03-24T15:30:02Z)
+
+- [Separate DNS resolution for firewall and clients using flashstart](https://github.com/NethServer/nethsecurity/issues/1125) (#813) by Tbaile (Created: 2025-03-14T09:29:51Z, Updated: 2025-03-24T08:05:25Z)
 
 - [threat shield: bypass entries require manual 'fw4 restart'](https://github.com/NethServer/nethsecurity/issues/1118) (#813) by Tbaile (Created: 2025-03-12T11:05:47Z, Updated: 2025-03-13T14:41:15Z)
 
 - [Openvpn Tunnel: unable to save when name exceeds 10 characters](https://github.com/NethServer/nethsecurity/issues/1117) (#813) by francio87 (Created: 2025-03-11T09:50:39Z, Updated: 2025-03-13T11:19:32Z)
+
+- [Configure logging at every controller first connection](https://github.com/NethServer/nethsecurity/issues/1115) (#813) by Tbaile (Created: 2025-03-11T09:11:28Z, Updated: 2025-03-24T16:35:21Z)
 
 - [coova-chilli: issue with internet access after successful authentication](https://github.com/NethServer/nethsecurity/issues/1113) (#813) by Amygos (Created: 2025-03-07T14:04:05Z, Updated: 2025-03-13T16:48:44Z)
 

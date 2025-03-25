@@ -1,6 +1,6 @@
 +++
 title = 'Open Pull Requests by Bots'
-date = 2025-03-24
+date = 2025-03-25
 +++
 
 ## Organization: nethserver
@@ -81,14 +81,12 @@ date = 2025-03-24
 
 - :eyes: :zzz: **[chore: bump ns packages (automatic)](https://github.com/NethServer/nethsecurity/pull/1071)** by *github-actions[bot]* - Reviewers: *None* - Created at: 2025-02-10T15:48:19Z
 
-### NethServer/nethsecurity-controller 7 
+### NethServer/nethsecurity-controller 5 
 
-- :eyes:  **[fix(deps): update module github.com/jackc/pgx/v5 to v5.7.3](https://github.com/NethServer/nethsecurity-controller/pull/89)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-03-22T02:39:49Z
+- :eyes:  **[chore(deps): update dependency nethserver/nethsecurity-ui to v1.22.0](https://github.com/NethServer/nethsecurity-controller/pull/90)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-03-24T10:00:58Z
+- :eyes:  **[fix(deps): update module github.com/jackc/pgx/v5 to v5.7.4](https://github.com/NethServer/nethsecurity-controller/pull/89)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-03-22T02:39:49Z
 - :eyes:  **[fix(deps): update module github.com/gin-contrib/cors to v1.7.4](https://github.com/NethServer/nethsecurity-controller/pull/88)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-03-17T11:09:16Z
-- :eyes:  **[fix(deps): update module github.com/appleboy/gin-jwt/v2 to v2.10.3](https://github.com/NethServer/nethsecurity-controller/pull/87)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-02-24T16:05:55Z
 - :eyes: :zzz: **[fix(deps): update github.com/nethserver/nethsecurity-api digest to c94f2ef](https://github.com/NethServer/nethsecurity-controller/pull/86)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-02-13T12:03:10Z
-- :eyes: :zzz: **[build(deps): Update ns-ui package (automated)](https://github.com/NethServer/nethsecurity-controller/pull/85)** by *github-actions[bot]* - Reviewers: *None* - Created at: 2025-02-13T01:11:28Z
-- :eyes: :zzz: **[fix(deps): update module golang.org/x/crypto to v0.36.0](https://github.com/NethServer/nethsecurity-controller/pull/84)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-02-08T01:26:39Z
 - :eyes: :zzz: **[chore(deps): update dependency go to v1.24.1](https://github.com/NethServer/nethsecurity-controller/pull/66)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-01-13T14:55:23Z
 
 ### NethServer/ns8-mail 1 
@@ -168,8 +166,9 @@ date = 2025-03-24
 
 - :eyes: :zzz: **[chore(deps): update wordpress docker tag to v6.7.2](https://github.com/NethServer/ns8-wordpress/pull/20)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-02-12T19:01:00Z
 
-### NethServer/ns8-netdata 1 
+### NethServer/ns8-netdata 2 
 
+- :eyes:  **[chore(deps): update netdata/netdata docker tag to v2.3.1](https://github.com/NethServer/ns8-netdata/pull/31)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-03-25T03:24:37Z
 - :eyes: :zzz: **[chore(deps): update ghcr.io/marketsquare/robotframework-browser/rfbrowser-stable docker tag to v19.4.0](https://github.com/NethServer/ns8-netdata/pull/30)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-01-26T17:54:39Z
 
 ### NethServer/ns8-passbolt 1 

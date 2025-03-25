@@ -1,19 +1,18 @@
 +++
-title = 'Need testing (8)'
-date = 2025-03-24
+title = 'Need testing (7)'
+date = 2025-03-25
 +++
 
-## NethVoice
-- :point_right: **[NethVoice: add new version of Nethesis NPX5](https://github.com/NethServer/dev/issues/7314)** (#7147) by *andrea-marchionni* (Created: 2025-02-13, Updated: 2025-03-19T13:25:19Z)
-- :point_right: **[NethVoice CTI / NethLink screen sharing](https://github.com/NethServer/dev/issues/7148)** (#7147) by *Amygos* (Created: 2024-11-15, Updated: 2025-03-20T18:53:25Z)
-- :point_right: **[NethVoice CTI / NethLink video call](https://github.com/NethServer/dev/issues/7147)** (#7147) by *Amygos* (Created: 2024-11-15, Updated: 2025-03-14T11:07:50Z)
-
 ## NethServer
-- :point_right: **[Overcoming Imapsync Limitations: Working with Sieve Filters](https://github.com/NethServer/dev/issues/7230)** (#7147) by *DavidePrincipi* (Created: 2024-12-20, Updated: 2025-03-21T17:05:56Z)
+- **[WebTop pecbridge update 5.4.5](https://github.com/NethServer/dev/issues/7352)** (#7148) by *lucagasparini* (Created: 2025-03-18, Updated: 2025-03-24T11:15:32Z)
+
+## NethVoice
+- :point_right: **[NethVoice: add new version of Nethesis NPX5](https://github.com/NethServer/dev/issues/7314)** (#7148) by *andrea-marchionni* (Created: 2025-02-13, Updated: 2025-03-19T13:25:19Z)
+- :point_right: **[NethVoice CTI / NethLink screen sharing](https://github.com/NethServer/dev/issues/7148)** (#7148) by *Amygos* (Created: 2024-11-15, Updated: 2025-03-24T13:22:15Z)
 
 ## NethSecurity
-- **[package: add nmap in nethsecurity repos](https://github.com/NethServer/nethsecurity/issues/1129)** (#1092) by *Tbaile* (Created: 2025-03-17, Updated: 2025-03-18T08:13:40Z)
-- **[banip: remove nixspam list](https://github.com/NethServer/nethsecurity/issues/1127)** (#1092) by *Tbaile* (Created: 2025-03-17, Updated: 2025-03-17T10:21:05Z)
-- :point_right: **[Configure logging at every controller first connection](https://github.com/NethServer/nethsecurity/issues/1115)** (#1092) by *Tbaile* (Created: 2025-03-11, Updated: 2025-03-11T10:57:48Z)
-- :point_right: **[PCI displacement updating to 24.10](https://github.com/NethServer/nethsecurity/issues/1092)** (#1092) by *Tbaile* (Created: 2025-02-21, Updated: 2025-03-14T08:18:43Z)
+- **[Migration: default logging rules are not being applied](https://github.com/NethServer/nethsecurity/issues/1136)** (#1092) by *Tbaile* (Created: 2025-03-20, Updated: 2025-03-24T08:12:43Z)
+- **[Migration: netifyd does not get configured](https://github.com/NethServer/nethsecurity/issues/1135)** (#1092) by *Tbaile* (Created: 2025-03-20, Updated: 2025-03-24T08:13:38Z)
+- :point_right: **[Multiwan: firewall persistently routes via lowest metric WAN, even if offline](https://github.com/NethServer/nethsecurity/issues/1126)** (#1092) by *francio87* (Created: 2025-03-14, Updated: 2025-03-24T14:25:14Z)
+- :point_right: **[PCI displacement updating to 24.10](https://github.com/NethServer/nethsecurity/issues/1092)** (#1092) by *Tbaile* (Created: 2025-02-21, Updated: 2025-03-24T16:10:08Z)
 
