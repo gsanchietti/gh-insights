@@ -2,7 +2,7 @@
 
 title = 'To be released soon'
 
-date = 2025-03-25
+date = 2025-03-26
 
 +++
 
@@ -14,21 +14,21 @@ date = 2025-03-25
 
 - [NethVoice CTI / NethLink video call](https://github.com/NethServer/dev/issues/7147) (#7147) by Amygos (Created: 2024-11-15T10:59:24Z, Updated: 2025-03-24T14:11:31Z)
 
-### NethServer
-
-- [Overcoming Imapsync Limitations: Working with Sieve Filters](https://github.com/NethServer/dev/issues/7230) (#7147) by DavidePrincipi (Created: 2024-12-20T11:43:31Z, Updated: 2025-03-24T21:36:14Z)
-
-### NoMilestone
-
-- [IPsec tunnel: error when modifying or deleting a tunnel](https://github.com/NethServer/nethsecurity/issues/1134) (#813) by gsanchietti (Created: 2025-03-18T13:06:40Z, Updated: 2025-03-18T15:16:27Z)
-
 ### NethSecurity
+
+- [DPI logging: firewall can crash due to numerous requests](https://github.com/NethServer/nethsecurity/issues/1140) (#813) by gsanchietti (Created: 2025-03-24T14:47:07Z, Updated: 2025-03-25T09:03:10Z)
+
+- [Migration: default logging rules are not being applied](https://github.com/NethServer/nethsecurity/issues/1136) (#813) by Tbaile (Created: 2025-03-20T13:53:43Z, Updated: 2025-03-25T12:20:32Z)
+
+- [Migration: netifyd does not get configured](https://github.com/NethServer/nethsecurity/issues/1135) (#813) by Tbaile (Created: 2025-03-20T13:49:59Z, Updated: 2025-03-25T12:34:31Z)
 
 - [DNS: missing wildcard records after migration ](https://github.com/NethServer/nethsecurity/issues/1131) (#813) by cotosso (Created: 2025-03-17T10:10:06Z, Updated: 2025-03-24T16:08:49Z)
 
 - [package: add nmap in nethsecurity repos](https://github.com/NethServer/nethsecurity/issues/1129) (#813) by Tbaile (Created: 2025-03-17T08:32:38Z, Updated: 2025-03-24T15:31:29Z)
 
 - [banip: remove nixspam list](https://github.com/NethServer/nethsecurity/issues/1127) (#813) by Tbaile (Created: 2025-03-17T08:15:30Z, Updated: 2025-03-24T15:30:02Z)
+
+- [Multiwan: firewall persistently routes via lowest metric WAN, even if offline](https://github.com/NethServer/nethsecurity/issues/1126) (#813) by francio87 (Created: 2025-03-14T12:04:09Z, Updated: 2025-03-25T10:44:34Z)
 
 - [Separate DNS resolution for firewall and clients using flashstart](https://github.com/NethServer/nethsecurity/issues/1125) (#813) by Tbaile (Created: 2025-03-14T09:29:51Z, Updated: 2025-03-24T08:05:25Z)
 
@@ -63,4 +63,8 @@ date = 2025-03-25
 - [MAC binding UI](https://github.com/NethServer/nethsecurity/issues/973) (#813) by gsanchietti (Created: 2024-12-12T13:31:20Z, Updated: 2025-03-11T09:15:50Z)
 
 - [Thread Shield: MAC address with description Ignored on allowed list ](https://github.com/NethServer/nethsecurity/issues/813) (#813) by gsanchietti (Created: 2024-10-02T08:19:55Z, Updated: 2025-03-13T14:38:16Z)
+
+### NoMilestone
+
+- [IPsec tunnel: error when modifying or deleting a tunnel](https://github.com/NethServer/nethsecurity/issues/1134) (#813) by gsanchietti (Created: 2025-03-18T13:06:40Z, Updated: 2025-03-18T15:16:27Z)
 

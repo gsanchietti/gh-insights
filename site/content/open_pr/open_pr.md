@@ -1,28 +1,31 @@
 +++
 title = 'Open Pull Requests'
-date = 2025-03-25
+date = 2025-03-26
 +++
 
 ## Organization: nethserver
 
+### NethServer/dev 1 
+
+-   **[feat: add security chapter](https://github.com/NethServer/dev/pull/7359)** by *gsanchietti* - Reviewers: *Amygos, edospadoni, Tbaile, NethNick* - Created at: 2025-03-25T15:58:45Z
+
 ### NethServer/ns8-core 1 
 
--   **[fix(ldapclient/ad): missing maxPwdAge attribute](https://github.com/NethServer/ns8-core/pull/841)** by *DavidePrincipi* - Reviewers: *gsanchietti* - Created at: 2025-03-24T17:28:04Z
+-   **[SBOM generation](https://github.com/NethServer/ns8-core/pull/842)** by *gsanchietti* - Reviewers: *Amygos* - Created at: 2025-03-25T15:51:32Z
 
-### NethServer/ns8-github-actions 1 
+### NethServer/ns8-kickstart 1 
 
-- :eyes: :zzz: **[Add GitHub Workflow for Container Scanning and SBOM Generation Using Trivy](https://github.com/NethServer/ns8-github-actions/pull/23)** by *Amygos* - Reviewers: *None* - Created at: 2024-11-20T10:46:48Z
+-   **[feat(ci): add SBOM generation](https://github.com/NethServer/ns8-kickstart/pull/37)** by *gsanchietti* - Reviewers: *Amygos* - Created at: 2025-03-25T13:53:34Z
 
-### NethServer/nethsecurity 4 
+### NethServer/ns8-traefik 1 
 
-- :eyes:  **[fix(dpi): honor log limit](https://github.com/NethServer/nethsecurity/pull/1141)** by *gsanchietti* - Reviewers: *None* - Created at: 2025-03-24T15:51:41Z
+- :eyes:  **[Update README.md](https://github.com/NethServer/ns8-traefik/pull/95)** by *neuron-ch* - Reviewers: *None* - Created at: 2025-03-25T19:47:03Z
+
+### NethServer/nethsecurity 3 
+
 - :eyes:  **[fix(ns-migration): apply default logging when migrating](https://github.com/NethServer/nethsecurity/pull/1139)** by *Tbaile* - Reviewers: *None* - Created at: 2025-03-24T07:45:32Z
 - :eyes:  **[fix(ns-migration): configure netifyd on migration](https://github.com/NethServer/nethsecurity/pull/1138)** by *Tbaile* - Reviewers: *None* - Created at: 2025-03-24T07:44:05Z
 -  :zzz: **[High availability stack](https://github.com/NethServer/nethsecurity/pull/871)** by *gsanchietti* - Reviewers: *Tbaile* - Created at: 2024-10-23T15:36:11Z
-
-### NethServer/nethsecurity-controller 1 
-
--   **[build: refactored build into containerfiles](https://github.com/NethServer/nethsecurity-controller/pull/91)** by *Tbaile* - Reviewers: *edospadoni* - Created at: 2025-03-24T14:07:12Z
 
 ### NethServer/ns8-nethsecurity-controller 1 
 
@@ -61,16 +64,13 @@ date = 2025-03-25
 
 -  :zzz: **[Removed old notification service usage](https://github.com/nethesis/nethcti-app-iphone/pull/37)** by *NicolaMrAPPs* - Reviewers: *b9874e40962149eee62a8fd3bc4e709e* - Created at: 2023-08-02T09:19:30Z
 
-### nethesis/tancredi 1 
-
--   **[Remove sensitive data from tokenless configuration file](https://github.com/nethesis/tancredi/pull/309)** by *Stell0* - Reviewers: *Amygos* - Created at: 2025-03-21T09:30:38Z
-
 ### nethesis/astproxy 1 
 
 - :eyes:  **[chore: migrate MeetMe to ConfBridge](https://github.com/nethesis/astproxy/pull/16)** by *edospadoni* - Reviewers: *None* - Created at: 2025-03-11T15:15:15Z
 
-### nethesis/ns8-nethvoice 8 
+### nethesis/ns8-nethvoice 9 
 
+- :eyes:  **[chore: update Tancredi to version 1.3.3](https://github.com/nethesis/ns8-nethvoice/pull/413)** by *Amygos* - Reviewers: *None* - Created at: 2025-03-25T14:38:35Z
 - :eyes:  **[Add WiC VoIP and modify WiC -> WiC SIP](https://github.com/nethesis/ns8-nethvoice/pull/411)** by *andrea-marchionni* - Reviewers: *None* - Created at: 2025-03-21T16:12:13Z
 - :eyes:  **[fix(configure-module): enable validation](https://github.com/nethesis/ns8-nethvoice/pull/410)** by *DavidePrincipi* - Reviewers: *None* - Created at: 2025-03-20T15:41:11Z
 -   **[feat: certificate-changed event handler](https://github.com/nethesis/ns8-nethvoice/pull/409)** by *DavidePrincipi* - Reviewers: *Amygos* - Created at: 2025-03-20T14:44:26Z
@@ -88,8 +88,10 @@ date = 2025-03-25
 
 - :eyes:  **[feat: added conference](https://github.com/nethesis/phone-island/pull/86)** by *edospadoni* - Reviewers: *None* - Created at: 2025-03-11T15:17:57Z
 
-### nethesis/ns8-nethvoice-proxy 2 
+### nethesis/ns8-nethvoice-proxy 4 
 
+-   **[fix(kamailio): use shv(debug) for debug logging](https://github.com/nethesis/ns8-nethvoice-proxy/pull/57)** by *Amygos* - Reviewers: *Stell0* - Created at: 2025-03-25T10:31:50Z
+-   **[chore(modules): bump kamailio version to 5.8.6](https://github.com/nethesis/ns8-nethvoice-proxy/pull/56)** by *Amygos* - Reviewers: *Stell0* - Created at: 2025-03-25T09:58:51Z
 - :eyes:  **[feat: certificate-changed event handler](https://github.com/nethesis/ns8-nethvoice-proxy/pull/55)** by *DavidePrincipi* - Reviewers: *None* - Created at: 2025-03-11T16:17:54Z
 - :eyes: :zzz: **[Remove Route header handling for inbound packets](https://github.com/nethesis/ns8-nethvoice-proxy/pull/49)** by *Amygos* - Reviewers: *None* - Created at: 2024-12-06T15:26:49Z
 
