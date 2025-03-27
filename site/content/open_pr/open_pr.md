@@ -1,31 +1,21 @@
 +++
 title = 'Open Pull Requests'
-date = 2025-03-26
+date = 2025-03-27
 +++
 
 ## Organization: nethserver
 
-### NethServer/dev 1 
+### NethServer/ns8-openldap 1 
 
--   **[feat: add security chapter](https://github.com/NethServer/dev/pull/7359)** by *gsanchietti* - Reviewers: *Amygos, edospadoni, Tbaile, NethNick* - Created at: 2025-03-25T15:58:45Z
+- :eyes:  **[SBOM](https://github.com/NethServer/ns8-openldap/pull/58)** by *gsanchietti* - Reviewers: *None* - Created at: 2025-03-26T10:25:22Z
 
-### NethServer/ns8-core 1 
+### NethServer/nethsecurity 1 
 
--   **[SBOM generation](https://github.com/NethServer/ns8-core/pull/842)** by *gsanchietti* - Reviewers: *Amygos* - Created at: 2025-03-25T15:51:32Z
-
-### NethServer/ns8-kickstart 1 
-
--   **[feat(ci): add SBOM generation](https://github.com/NethServer/ns8-kickstart/pull/37)** by *gsanchietti* - Reviewers: *Amygos* - Created at: 2025-03-25T13:53:34Z
-
-### NethServer/ns8-traefik 1 
-
-- :eyes:  **[Update README.md](https://github.com/NethServer/ns8-traefik/pull/95)** by *neuron-ch* - Reviewers: *None* - Created at: 2025-03-25T19:47:03Z
-
-### NethServer/nethsecurity 3 
-
-- :eyes:  **[fix(ns-migration): apply default logging when migrating](https://github.com/NethServer/nethsecurity/pull/1139)** by *Tbaile* - Reviewers: *None* - Created at: 2025-03-24T07:45:32Z
-- :eyes:  **[fix(ns-migration): configure netifyd on migration](https://github.com/NethServer/nethsecurity/pull/1138)** by *Tbaile* - Reviewers: *None* - Created at: 2025-03-24T07:44:05Z
 -  :zzz: **[High availability stack](https://github.com/NethServer/nethsecurity/pull/871)** by *gsanchietti* - Reviewers: *Tbaile* - Created at: 2024-10-23T15:36:11Z
+
+### NethServer/ns8-mail 1 
+
+- :eyes:  **[feat(ci): add SBOM generation](https://github.com/NethServer/ns8-mail/pull/175)** by *gsanchietti* - Reviewers: *None* - Created at: 2025-03-26T08:41:08Z
 
 ### NethServer/ns8-nethsecurity-controller 1 
 
@@ -46,15 +36,23 @@ date = 2025-03-26
 -   **[feat: added more doc for MAC-IP binding](https://github.com/NethServer/nethsecurity-docs/pull/153)** by *Tbaile* - Reviewers: *gsanchietti, cotosso* - Created at: 2025-02-27T09:39:41Z
 -  :zzz: **[Update dns_dhcp.rst](https://github.com/NethServer/nethsecurity-docs/pull/150)** by *cotosso* - Reviewers: *filippocarletti* - Created at: 2025-02-17T15:55:29Z
 
+### NethServer/ns8-imapsync 1 
+
+-   **[feat(delete_remote_older): retention on remote host](https://github.com/NethServer/ns8-imapsync/pull/44)** by *DavidePrincipi* - Reviewers: *gsanchietti* - Created at: 2025-03-26T19:18:07Z
+
 ### NethServer/nethlink 1 
 
--   **[feat(videocall & screen-share): update phone-island](https://github.com/NethServer/nethlink/pull/52)** by *tonyco97* - Reviewers: *edospadoni* - Created at: 2025-03-07T15:47:53Z
+-   **[feat(videocall, screen-share & conference): update phone-island](https://github.com/NethServer/nethlink/pull/52)** by *tonyco97* - Reviewers: *edospadoni* - Created at: 2025-03-07T15:47:53Z
+
+### NethServer/gh-ns8-release-module 1 
+
+-   **[fix(create): pull remote tag](https://github.com/NethServer/gh-ns8-release-module/pull/4)** by *gsanchietti* - Reviewers: *Amygos* - Created at: 2025-03-26T09:36:27Z
+
+### NethServer/ns8-metrics 1 
+
+- :eyes:  **[feta(ci): add SBOM generation](https://github.com/NethServer/ns8-metrics/pull/15)** by *gsanchietti* - Reviewers: *None* - Created at: 2025-03-26T10:38:10Z
 
 ## Organization: nethesis
-
-### nethesis/nethcti-server 1 
-
-- :eyes:  **[chore: migrate MeetMe to ConfBridge](https://github.com/nethesis/nethcti-server/pull/327)** by *edospadoni* - Reviewers: *None* - Created at: 2025-03-11T15:14:06Z
 
 ### nethesis/nethcti-app-android 1 
 
@@ -64,13 +62,10 @@ date = 2025-03-26
 
 -  :zzz: **[Removed old notification service usage](https://github.com/nethesis/nethcti-app-iphone/pull/37)** by *NicolaMrAPPs* - Reviewers: *b9874e40962149eee62a8fd3bc4e709e* - Created at: 2023-08-02T09:19:30Z
 
-### nethesis/astproxy 1 
+### nethesis/ns8-nethvoice 10 
 
-- :eyes:  **[chore: migrate MeetMe to ConfBridge](https://github.com/nethesis/astproxy/pull/16)** by *edospadoni* - Reviewers: *None* - Created at: 2025-03-11T15:15:15Z
-
-### nethesis/ns8-nethvoice 9 
-
-- :eyes:  **[chore: update Tancredi to version 1.3.3](https://github.com/nethesis/ns8-nethvoice/pull/413)** by *Amygos* - Reviewers: *None* - Created at: 2025-03-25T14:38:35Z
+- :eyes:  **[chore: update Tancredi to version 1.3.4](https://github.com/nethesis/ns8-nethvoice/pull/415)** by *Amygos* - Reviewers: *None* - Created at: 2025-03-26T15:51:03Z
+-   **[feat(ci): add SBOM generation](https://github.com/nethesis/ns8-nethvoice/pull/414)** by *gsanchietti* - Reviewers: *Amygos* - Created at: 2025-03-26T09:59:51Z
 - :eyes:  **[Add WiC VoIP and modify WiC -> WiC SIP](https://github.com/nethesis/ns8-nethvoice/pull/411)** by *andrea-marchionni* - Reviewers: *None* - Created at: 2025-03-21T16:12:13Z
 - :eyes:  **[fix(configure-module): enable validation](https://github.com/nethesis/ns8-nethvoice/pull/410)** by *DavidePrincipi* - Reviewers: *None* - Created at: 2025-03-20T15:41:11Z
 -   **[feat: certificate-changed event handler](https://github.com/nethesis/ns8-nethvoice/pull/409)** by *DavidePrincipi* - Reviewers: *Amygos* - Created at: 2025-03-20T14:44:26Z
@@ -86,7 +81,7 @@ date = 2025-03-26
 
 ### nethesis/phone-island 1 
 
-- :eyes:  **[feat: added conference](https://github.com/nethesis/phone-island/pull/86)** by *edospadoni* - Reviewers: *None* - Created at: 2025-03-11T15:17:57Z
+-   **[fix: missing recording complete](https://github.com/nethesis/phone-island/pull/89)** by *tonyco97* - Reviewers: *edospadoni* - Created at: 2025-03-26T17:14:13Z
 
 ### nethesis/ns8-nethvoice-proxy 4 
 

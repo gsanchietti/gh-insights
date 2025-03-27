@@ -2,9 +2,15 @@
 
 title = 'To be released soon'
 
-date = 2025-03-26
+date = 2025-03-27
 
 +++
+
+### NethServer
+
+- [HTTP route creation fails with TypeError](https://github.com/NethServer/dev/issues/7362) (#7147) by DavidePrincipi (Created: 2025-03-26T14:27:16Z, Updated: 2025-03-26T18:11:54Z)
+
+- [User list error with external AD domain](https://github.com/NethServer/dev/issues/7357) (#7147) by DavidePrincipi (Created: 2025-03-24T17:22:29Z, Updated: 2025-03-26T17:42:00Z)
 
 ### NethVoice
 
@@ -15,6 +21,8 @@ date = 2025-03-26
 - [NethVoice CTI / NethLink video call](https://github.com/NethServer/dev/issues/7147) (#7147) by Amygos (Created: 2024-11-15T10:59:24Z, Updated: 2025-03-24T14:11:31Z)
 
 ### NethSecurity
+
+- [CRL expiration after 6 months](https://github.com/NethServer/nethsecurity/issues/1143) (#813) by Tbaile (Created: 2025-03-25T11:27:11Z, Updated: 2025-03-26T11:19:06Z)
 
 - [DPI logging: firewall can crash due to numerous requests](https://github.com/NethServer/nethsecurity/issues/1140) (#813) by gsanchietti (Created: 2025-03-24T14:47:07Z, Updated: 2025-03-25T09:03:10Z)
 
