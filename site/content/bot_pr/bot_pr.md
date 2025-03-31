@@ -1,6 +1,6 @@
 +++
 title = 'Open Pull Requests by Bots'
-date = 2025-03-30
+date = 2025-03-31
 +++
 
 ## Organization: nethserver
@@ -83,8 +83,9 @@ date = 2025-03-30
 
 - :eyes: :zzz: **[chore: bump ns packages (automatic)](https://github.com/NethServer/nethsecurity/pull/1071)** by *github-actions[bot]* - Reviewers: *None* - Created at: 2025-02-10T15:48:19Z
 
-### NethServer/nethsecurity-controller 2 
+### NethServer/nethsecurity-controller 3 
 
+- :eyes:  **[chore(deps): update docker.io/traefik docker tag to v3](https://github.com/NethServer/nethsecurity-controller/pull/95)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-03-31T03:07:13Z
 - :eyes:  **[chore(deps): update docker.io/alpine docker tag to v3.21.3](https://github.com/NethServer/nethsecurity-controller/pull/92)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-03-25T09:07:13Z
 - :eyes: :zzz: **[fix(deps): update github.com/nethserver/nethsecurity-api digest to c94f2ef](https://github.com/NethServer/nethsecurity-controller/pull/86)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-02-13T12:03:10Z
 
@@ -133,7 +134,7 @@ date = 2025-03-30
 ### NethServer/phonehome-server 2 
 
 - :eyes:  **[chore(deps): update adminer docker tag to v5](https://github.com/NethServer/phonehome-server/pull/128)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-03-15T02:06:42Z
-- :eyes:  **[fix(deps): update dependency laravel/framework to v12](https://github.com/NethServer/phonehome-server/pull/127)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-03-01T01:48:09Z
+- :eyes: :zzz: **[fix(deps): update dependency laravel/framework to v12](https://github.com/NethServer/phonehome-server/pull/127)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-03-01T01:48:09Z
 
 ### NethServer/ns8-crowdsec 4 
 
@@ -162,7 +163,7 @@ date = 2025-03-30
 
 ### NethServer/ns8-postgresql 1 
 
-- :eyes:  **[chore(deps): update dpage/pgadmin4 docker tag to v9.1](https://github.com/NethServer/ns8-postgresql/pull/24)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-02-28T06:03:37Z
+- :eyes: :zzz: **[chore(deps): update dpage/pgadmin4 docker tag to v9.1](https://github.com/NethServer/ns8-postgresql/pull/24)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-02-28T06:03:37Z
 
 ### NethServer/ns8-dnsmasq 3 
 
