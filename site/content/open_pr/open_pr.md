@@ -1,6 +1,6 @@
 +++
 title = 'Open Pull Requests'
-date = 2025-04-02
+date = 2025-04-03
 +++
 
 ## Organization: nethserver
@@ -13,8 +13,9 @@ date = 2025-04-02
 
 -   **[feat(ci): add SBOM](https://github.com/NethServer/ns8-webserver/pull/96)** by *gsanchietti* - Reviewers: *stephdl* - Created at: 2025-03-31T14:46:38Z
 
-### NethServer/nethsecurity 1 
+### NethServer/nethsecurity 2 
 
+- :eyes:  **[fix(ns-api): cleanup threat shield initial fields ](https://github.com/NethServer/nethsecurity/pull/1151)** by *gsanchietti* - Reviewers: *None* - Created at: 2025-04-02T08:33:18Z
 -  :zzz: **[High availability stack](https://github.com/NethServer/nethsecurity/pull/871)** by *gsanchietti* - Reviewers: *Tbaile* - Created at: 2024-10-23T15:36:11Z
 
 ### NethServer/ns8-nethsecurity-controller 1 
@@ -35,8 +36,8 @@ date = 2025-04-02
 
 ### NethServer/ns8-docs 2 
 
+-   **[Release notes for Milestone 8.4](https://github.com/NethServer/ns8-docs/pull/155)** by *DavidePrincipi* - Reviewers: *gsanchietti, Tbaile, lucagasparini, nrauso* - Created at: 2025-04-02T14:55:22Z
 - :eyes:  **[feat(webtop): PEC bridge customization](https://github.com/NethServer/ns8-docs/pull/154)** by *gsanchietti* - Reviewers: *None* - Created at: 2025-03-21T15:19:13Z
--   **[feat(Imapsync): Sieve filter support](https://github.com/NethServer/ns8-docs/pull/152)** by *DavidePrincipi* - Reviewers: *gsanchietti, lucagasparini, mrmarkuz* - Created at: 2025-03-18T17:55:48Z
 
 ### NethServer/nethsecurity-docs 1 
 
@@ -68,8 +69,9 @@ date = 2025-04-02
 
 -  :zzz: **[Removed old notification service usage](https://github.com/nethesis/nethcti-app-iphone/pull/37)** by *NicolaMrAPPs* - Reviewers: *b9874e40962149eee62a8fd3bc4e709e* - Created at: 2023-08-02T09:19:30Z
 
-### nethesis/ns8-nethvoice 7 
+### nethesis/ns8-nethvoice 8 
 
+- :eyes:  **[fix(profiles): hide switchboard operator permissions](https://github.com/nethesis/ns8-nethvoice/pull/423)** by *andre8244* - Reviewers: *None* - Created at: 2025-04-02T10:40:01Z
 -   **[fix: users-admin and user-domain-changed events](https://github.com/nethesis/ns8-nethvoice/pull/422)** by *andre8244* - Reviewers: *Stell0* - Created at: 2025-04-01T08:13:22Z
 - :eyes:  **[Add WiC VoIP and modify WiC -> WiC SIP](https://github.com/nethesis/ns8-nethvoice/pull/411)** by *andrea-marchionni* - Reviewers: *None* - Created at: 2025-03-21T16:12:13Z
 - :eyes:  **[fix(configure-module): enable validation](https://github.com/nethesis/ns8-nethvoice/pull/410)** by *DavidePrincipi* - Reviewers: *None* - Created at: 2025-03-20T15:41:11Z

@@ -2,13 +2,19 @@
 
 title = 'To be released soon'
 
-date = 2025-04-02
+date = 2025-04-03
 
 +++
+
+### NethServer
+
+- [Webtop migration to NS8 and failure to access mailboxes in some cases](https://github.com/NethServer/dev/issues/7371) (#7147) by lucagasparini (Created: 2025-03-31T13:55:35Z, Updated: 2025-04-02T10:49:54Z)
 
 ### NethVoice
 
 - [Yealink 87.* firmware broken cipher for T3x and T4x family](https://github.com/NethServer/dev/issues/7361) (#7147) by Stell0 (Created: 2025-03-26T14:00:53Z, Updated: 2025-03-28T10:59:24Z)
+
+- [NethVoice Proxy: reduce log verbosity](https://github.com/NethServer/dev/issues/7356) (#7147) by Stell0 (Created: 2025-03-24T08:43:19Z, Updated: 2025-04-02T09:59:23Z)
 
 - [Enhance Tancredi two stages provisioning](https://github.com/NethServer/dev/issues/7355) (#7147) by Stell0 (Created: 2025-03-21T09:30:02Z, Updated: 2025-03-27T15:08:38Z)
 
@@ -30,5 +36,5 @@ date = 2025-04-02
 
 ### NethServer
 
-- [WebTop pecbridge update 5.4.5](https://github.com/NethServer/dev/issues/7352) (#7147) by lucagasparini (Created: 2025-03-18T21:18:16Z, Updated: 2025-03-28T15:11:58Z)
+- [WebTop pecbridge update 5.4.5](https://github.com/NethServer/dev/issues/7352) (#7147) by lucagasparini (Created: 2025-03-18T21:18:16Z, Updated: 2025-04-02T10:14:00Z)
 
