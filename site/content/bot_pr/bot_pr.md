@@ -1,6 +1,6 @@
 +++
 title = 'Open Pull Requests by Bots'
-date = 2025-04-03
+date = 2025-04-04
 +++
 
 ## Organization: nethserver
@@ -127,7 +127,7 @@ date = 2025-04-03
 
 - :eyes: :zzz: **[chore(deps): update ghcr.io/marketsquare/robotframework-browser/rfbrowser-stable docker tag to v19.4.0](https://github.com/NethServer/ns8-webtop/pull/99)** by *renovate[bot]* - Reviewers: *None* - Created at: 2024-12-19T16:40:00Z
 -  :zzz: **[chore(deps): update php docker tag to v8](https://github.com/NethServer/ns8-webtop/pull/75)** by *renovate[bot]* - Reviewers: *Amygos* - Created at: 2024-09-23T14:30:18Z
--  :zzz: **[chore(deps): update mlocati/php-extension-installer docker tag to v2](https://github.com/NethServer/ns8-webtop/pull/64)** by *renovate[bot]* - Reviewers: *Amygos* - Created at: 2024-08-02T20:19:42Z
+-  :zzz: **[chore(deps): update mlocati/php-extension-installer docker tag to v2.7.29](https://github.com/NethServer/ns8-webtop/pull/64)** by *renovate[bot]* - Reviewers: *Amygos* - Created at: 2024-08-02T20:19:42Z
 -  :zzz: **[chore(deps): update maven docker tag to v3.8](https://github.com/NethServer/ns8-webtop/pull/57)** by *renovate[bot]* - Reviewers: *Amygos* - Created at: 2024-07-31T15:01:45Z
 -  :zzz: **[chore(deps): update mlocati/php-extension-installer docker tag to v1.5.52](https://github.com/NethServer/ns8-webtop/pull/55)** by *renovate[bot]* - Reviewers: *Amygos* - Created at: 2024-07-31T14:52:53Z
 
@@ -181,7 +181,7 @@ date = 2025-04-03
 
 ### NethServer/ns8-postgresql 1 
 
-- :eyes: :zzz: **[chore(deps): update dpage/pgadmin4 docker tag to v9.1](https://github.com/NethServer/ns8-postgresql/pull/24)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-02-28T06:03:37Z
+- :eyes: :zzz: **[chore(deps): update dpage/pgadmin4 docker tag to v9.2](https://github.com/NethServer/ns8-postgresql/pull/24)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-02-28T06:03:37Z
 
 ### NethServer/ns8-dnsmasq 3 
 
@@ -239,5 +239,10 @@ date = 2025-04-03
 ### nethesis/ns8-nethvoice-proxy 1 
 
 - :eyes:  **[Translations update from Hosted Weblate](https://github.com/nethesis/ns8-nethvoice-proxy/pull/60)** by *weblate* - Reviewers: *None* - Created at: 2025-04-02T13:21:27Z
+
+### nethesis/parceler 2 
+
+- :eyes:  **[chore(deps): update docker.io/mlocati/php-extension-installer docker tag to v2.7.29](https://github.com/nethesis/parceler/pull/45)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-04-04T03:15:22Z
+- :eyes:  **[fix(deps): update dependency laravel/framework to v12.7.2](https://github.com/nethesis/parceler/pull/43)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-04-03T16:28:43Z
 
 

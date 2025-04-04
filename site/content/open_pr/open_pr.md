@@ -1,6 +1,6 @@
 +++
 title = 'Open Pull Requests'
-date = 2025-04-03
+date = 2025-04-04
 +++
 
 ## Organization: nethserver
@@ -13,14 +13,16 @@ date = 2025-04-03
 
 -   **[feat(ci): add SBOM](https://github.com/NethServer/ns8-webserver/pull/96)** by *gsanchietti* - Reviewers: *stephdl* - Created at: 2025-03-31T14:46:38Z
 
-### NethServer/nethsecurity 2 
+### NethServer/nethsecurity 3 
 
+- :eyes:  **[fix(ns-api): talkers, calculate app and proto rate](https://github.com/NethServer/nethsecurity/pull/1152)** by *gsanchietti* - Reviewers: *None* - Created at: 2025-04-03T08:02:10Z
 - :eyes:  **[fix(ns-api): cleanup threat shield initial fields ](https://github.com/NethServer/nethsecurity/pull/1151)** by *gsanchietti* - Reviewers: *None* - Created at: 2025-04-02T08:33:18Z
 -  :zzz: **[High availability stack](https://github.com/NethServer/nethsecurity/pull/871)** by *gsanchietti* - Reviewers: *Tbaile* - Created at: 2024-10-23T15:36:11Z
 
-### NethServer/ns8-nethsecurity-controller 1 
+### NethServer/ns8-nethsecurity-controller 2 
 
--   **[Fix traffic by hour histogram](https://github.com/NethServer/ns8-nethsecurity-controller/pull/78)** by *cotosso* - Reviewers: *gsanchietti* - Created at: 2025-03-04T18:04:21Z
+- :eyes:  **[fix(grafana): sorting duplicate hosts by creation date](https://github.com/NethServer/ns8-nethsecurity-controller/pull/83)** by *Tbaile* - Reviewers: *None* - Created at: 2025-04-03T14:44:51Z
+-  :zzz: **[Fix traffic by hour histogram](https://github.com/NethServer/ns8-nethsecurity-controller/pull/78)** by *cotosso* - Reviewers: *gsanchietti* - Created at: 2025-03-04T18:04:21Z
 
 ### NethServer/ns8-collabora 1 
 
@@ -36,8 +38,12 @@ date = 2025-04-03
 
 ### NethServer/ns8-docs 2 
 
--   **[Release notes for Milestone 8.4](https://github.com/NethServer/ns8-docs/pull/155)** by *DavidePrincipi* - Reviewers: *gsanchietti, Tbaile, lucagasparini, nrauso* - Created at: 2025-04-02T14:55:22Z
+-   **[Release notes for Milestone 8.4](https://github.com/NethServer/ns8-docs/pull/155)** by *DavidePrincipi* - Reviewers: *lucagasparini* - Created at: 2025-04-02T14:55:22Z
 - :eyes:  **[feat(webtop): PEC bridge customization](https://github.com/NethServer/ns8-docs/pull/154)** by *gsanchietti* - Reviewers: *None* - Created at: 2025-03-21T15:19:13Z
+
+### NethServer/nethsecurity-ui 1 
+
+- :eyes:  **[fix(monitoring): improve IP field retrieval](https://github.com/NethServer/nethsecurity-ui/pull/526)** by *gsanchietti* - Reviewers: *None* - Created at: 2025-04-02T15:08:09Z
 
 ### NethServer/nethsecurity-docs 1 
 
@@ -76,7 +82,7 @@ date = 2025-04-03
 - :eyes:  **[Add WiC VoIP and modify WiC -> WiC SIP](https://github.com/nethesis/ns8-nethvoice/pull/411)** by *andrea-marchionni* - Reviewers: *None* - Created at: 2025-03-21T16:12:13Z
 - :eyes:  **[fix(configure-module): enable validation](https://github.com/nethesis/ns8-nethvoice/pull/410)** by *DavidePrincipi* - Reviewers: *None* - Created at: 2025-03-20T15:41:11Z
 -   **[refactor: restart all serivice on configure](https://github.com/nethesis/ns8-nethvoice/pull/406)** by *Amygos* - Reviewers: *Stell0* - Created at: 2025-03-18T09:38:32Z
--   **[fix(recallonbusy): Use hints to define devices state instead of DeviceState](https://github.com/nethesis/ns8-nethvoice/pull/398)** by *Stell0* - Reviewers: *Amygos* - Created at: 2025-03-04T17:35:58Z
+-  :zzz: **[fix(recallonbusy): Use hints to define devices state instead of DeviceState](https://github.com/nethesis/ns8-nethvoice/pull/398)** by *Stell0* - Reviewers: *Amygos* - Created at: 2025-03-04T17:35:58Z
 -  :zzz: **[feat(phonebook): update python mysql connector library](https://github.com/nethesis/ns8-nethvoice/pull/393)** by *viktec* - Reviewers: *Stell0* - Created at: 2025-02-26T16:47:39Z
 - :eyes: :zzz: **[feat(freepbx): API for triggering phones configuration reload](https://github.com/nethesis/ns8-nethvoice/pull/383)** by *Stell0* - Reviewers: *None* - Created at: 2025-02-17T11:13:55Z
 

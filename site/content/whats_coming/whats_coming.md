@@ -2,7 +2,7 @@
 
 title = 'To be released soon'
 
-date = 2025-04-03
+date = 2025-04-04
 
 +++
 
@@ -18,6 +18,8 @@ date = 2025-04-03
 
 - [Enhance Tancredi two stages provisioning](https://github.com/NethServer/dev/issues/7355) (#7147) by Stell0 (Created: 2025-03-21T09:30:02Z, Updated: 2025-03-27T15:08:38Z)
 
+- [NethVoice TLS certificate-changed handler](https://github.com/NethServer/dev/issues/7350) (#7147) by DavidePrincipi (Created: 2025-03-18T08:19:37Z, Updated: 2025-04-03T15:41:19Z)
+
 - [Audio issue in NethVoice CTI](https://github.com/NethServer/dev/issues/7345) (#7147) by Amygos (Created: 2025-03-12T15:33:54Z, Updated: 2025-03-17T09:06:44Z)
 
 - [Snom cordless REINVITE with TLS doesn't work](https://github.com/NethServer/dev/issues/7337) (#7147) by Stell0 (Created: 2025-03-03T17:13:45Z, Updated: 2025-03-17T11:31:37Z)
@@ -31,6 +33,8 @@ date = 2025-04-03
 - [NethVoice CTI: deleting a recording does not work](https://github.com/NethServer/dev/issues/7255) (#7147) by andrea-marchionni (Created: 2025-01-15T08:51:44Z, Updated: 2025-03-27T15:07:28Z)
 
 - [NethVoice: reboot a configured phone doesn't work](https://github.com/NethServer/dev/issues/7151) (#7147) by andrea-marchionni (Created: 2024-11-18T09:08:09Z, Updated: 2025-03-28T18:18:27Z)
+
+- [NethVoice CTI / NethLink screen sharing](https://github.com/NethServer/dev/issues/7148) (#7147) by Amygos (Created: 2024-11-15T10:59:26Z, Updated: 2025-04-03T10:06:38Z)
 
 - [NethVoice CTI / NethLink video call](https://github.com/NethServer/dev/issues/7147) (#7147) by Amygos (Created: 2024-11-15T10:59:24Z, Updated: 2025-03-24T14:11:31Z)
 
