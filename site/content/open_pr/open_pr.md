@@ -1,6 +1,6 @@
 +++
 title = 'Open Pull Requests'
-date = 2025-04-04
+date = 2025-04-05
 +++
 
 ## Organization: nethserver
@@ -13,8 +13,9 @@ date = 2025-04-04
 
 -   **[feat(ci): add SBOM](https://github.com/NethServer/ns8-webserver/pull/96)** by *gsanchietti* - Reviewers: *stephdl* - Created at: 2025-03-31T14:46:38Z
 
-### NethServer/nethsecurity 3 
+### NethServer/nethsecurity 4 
 
+- :eyes:  **[chore(ns-api): version bump](https://github.com/NethServer/nethsecurity/pull/1153)** by *Tbaile* - Reviewers: *None* - Created at: 2025-04-04T09:57:43Z
 - :eyes:  **[fix(ns-api): talkers, calculate app and proto rate](https://github.com/NethServer/nethsecurity/pull/1152)** by *gsanchietti* - Reviewers: *None* - Created at: 2025-04-03T08:02:10Z
 - :eyes:  **[fix(ns-api): cleanup threat shield initial fields ](https://github.com/NethServer/nethsecurity/pull/1151)** by *gsanchietti* - Reviewers: *None* - Created at: 2025-04-02T08:33:18Z
 -  :zzz: **[High availability stack](https://github.com/NethServer/nethsecurity/pull/871)** by *gsanchietti* - Reviewers: *Tbaile* - Created at: 2024-10-23T15:36:11Z
@@ -36,9 +37,8 @@ date = 2025-04-04
 
 -   **[feat: certificate-changed event handler](https://github.com/NethServer/ns8-ejabberd/pull/63)** by *DavidePrincipi* - Reviewers: *stephdl* - Created at: 2025-03-11T14:47:42Z
 
-### NethServer/ns8-docs 2 
+### NethServer/ns8-docs 1 
 
--   **[Release notes for Milestone 8.4](https://github.com/NethServer/ns8-docs/pull/155)** by *DavidePrincipi* - Reviewers: *lucagasparini* - Created at: 2025-04-02T14:55:22Z
 - :eyes:  **[feat(webtop): PEC bridge customization](https://github.com/NethServer/ns8-docs/pull/154)** by *gsanchietti* - Reviewers: *None* - Created at: 2025-03-21T15:19:13Z
 
 ### NethServer/nethsecurity-ui 1 
@@ -85,6 +85,10 @@ date = 2025-04-04
 -  :zzz: **[fix(recallonbusy): Use hints to define devices state instead of DeviceState](https://github.com/nethesis/ns8-nethvoice/pull/398)** by *Stell0* - Reviewers: *Amygos* - Created at: 2025-03-04T17:35:58Z
 -  :zzz: **[feat(phonebook): update python mysql connector library](https://github.com/nethesis/ns8-nethvoice/pull/393)** by *viktec* - Reviewers: *Stell0* - Created at: 2025-02-26T16:47:39Z
 - :eyes: :zzz: **[feat(freepbx): API for triggering phones configuration reload](https://github.com/nethesis/ns8-nethvoice/pull/383)** by *Stell0* - Reviewers: *None* - Created at: 2025-02-17T11:13:55Z
+
+### nethesis/nethvoice-cti 1 
+
+-   **[fix(login): make username case insensitive](https://github.com/nethesis/nethvoice-cti/pull/297)** by *andre8244* - Reviewers: *tonyco97* - Created at: 2025-04-04T09:30:08Z
 
 ### nethesis/ns8-nethvoice-proxy 2 
 

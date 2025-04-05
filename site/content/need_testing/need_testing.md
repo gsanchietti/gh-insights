@@ -1,9 +1,8 @@
 +++
-title = 'Need testing (2)'
-date = 2025-04-04
+title = 'Need testing (1)'
+date = 2025-04-05
 +++
 
 ## NethVoice
-- :point_right: **[NethVoice CTI voicemail management](https://github.com/NethServer/dev/issues/7136)** (#7135) by *Amygos* (Created: 2024-11-15, Updated: 2025-04-03T16:00:16Z)
-- :point_right: **[NethVoice CTI / NethLink audio conference](https://github.com/NethServer/dev/issues/7135)** (#7135) by *Amygos* (Created: 2024-11-15, Updated: 2025-03-31T08:25:09Z)
+- :point_right: **[Crowdsec ban NethVoice wizard and janus](https://github.com/NethServer/dev/issues/7259)** (#7259) by *Stell0* (Created: 2025-01-16, Updated: 2025-04-04T08:47:10Z)
 
