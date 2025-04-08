@@ -1,6 +1,6 @@
 +++
 title = 'Open Pull Requests by Bots'
-date = 2025-04-07
+date = 2025-04-08
 +++
 
 ## Organization: nethserver
@@ -91,22 +91,16 @@ date = 2025-04-07
 - :eyes:  **[chore(deps): update node.js to v18.20.8](https://github.com/NethServer/ns8-grafana/pull/33)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-03-27T19:39:47Z
 - :eyes: :zzz: **[chore(deps): update ghcr.io/marketsquare/robotframework-browser/rfbrowser-stable docker tag to v19.4.0](https://github.com/NethServer/ns8-grafana/pull/26)** by *renovate[bot]* - Reviewers: *None* - Created at: 2024-12-20T22:05:46Z
 
-### NethServer/nethsecurity 2 
+### NethServer/nethsecurity 1 
 
-- :eyes:  **[build(deps): Update ns-api-server package (automated)](https://github.com/NethServer/nethsecurity/pull/1155)** by *github-actions[bot]* - Reviewers: *None* - Created at: 2025-04-05T01:47:58Z
 - :eyes: :zzz: **[chore: bump ns packages (automatic)](https://github.com/NethServer/nethsecurity/pull/1071)** by *github-actions[bot]* - Reviewers: *None* - Created at: 2025-02-10T15:48:19Z
 
-### NethServer/nethsecurity-controller 12 
+### NethServer/nethsecurity-controller 7 
 
 - :eyes:  **[chore(deps): update docker/build-push-action action to v6](https://github.com/NethServer/nethsecurity-controller/pull/106)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-04-07T03:31:11Z
 - :eyes:  **[fix(deps): update module golang.org/x/crypto to v0.37.0](https://github.com/NethServer/nethsecurity-controller/pull/105)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-04-07T03:31:07Z
 - :eyes:  **[chore(deps): update aquasecurity/trivy-action action to v0.30.0](https://github.com/NethServer/nethsecurity-controller/pull/104)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-04-07T03:31:00Z
 - :eyes:  **[fix(deps): update module github.com/mattn/go-sqlite3 to v1.14.27](https://github.com/NethServer/nethsecurity-controller/pull/103)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-04-07T03:30:56Z
-- :eyes:  **[fix(deps): update module github.com/gin-contrib/gzip to v1.2.3](https://github.com/NethServer/nethsecurity-controller/pull/102)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-04-07T03:30:51Z
-- :eyes:  **[fix(deps): update module github.com/gin-contrib/cors to v1.7.5](https://github.com/NethServer/nethsecurity-controller/pull/101)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-04-07T03:30:46Z
-- :eyes:  **[chore(deps): update docker.io/traefik docker tag to v2.11.22](https://github.com/NethServer/nethsecurity-controller/pull/100)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-04-07T03:30:29Z
-- :eyes:  **[chore(deps): update docker.io/golang docker tag to v1.24.2](https://github.com/NethServer/nethsecurity-controller/pull/99)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-04-07T03:30:25Z
-- :eyes:  **[chore(deps): update dependency go to v1.24.2](https://github.com/NethServer/nethsecurity-controller/pull/98)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-04-07T03:30:21Z
 - :eyes:  **[chore(deps): update docker.io/traefik docker tag to v3](https://github.com/NethServer/nethsecurity-controller/pull/95)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-03-31T03:07:13Z
 - :eyes:  **[chore(deps): update docker.io/alpine docker tag to v3.21.3](https://github.com/NethServer/nethsecurity-controller/pull/92)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-03-25T09:07:13Z
 - :eyes: :zzz: **[fix(deps): update github.com/nethserver/nethsecurity-api digest to 6b0bf91](https://github.com/NethServer/nethsecurity-controller/pull/86)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-02-13T12:03:10Z
@@ -246,6 +240,10 @@ date = 2025-04-07
 ### nethesis/ns8-nethvoice 1 
 
 - :eyes: :zzz: **[Translations update from Hosted Weblate](https://github.com/nethesis/ns8-nethvoice/pull/365)** by *weblate* - Reviewers: *None* - Created at: 2025-01-22T13:01:56Z
+
+### nethesis/nethvoice-cti 1 
+
+- :eyes:  **[build(deps): Update phone-island dependency (automated)](https://github.com/nethesis/nethvoice-cti/pull/298)** by *github-actions[bot]* - Reviewers: *None* - Created at: 2025-04-08T00:18:53Z
 
 ### nethesis/ns8-nethvoice-proxy 1 
 

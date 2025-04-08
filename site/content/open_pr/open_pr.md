@@ -1,6 +1,6 @@
 +++
 title = 'Open Pull Requests'
-date = 2025-04-07
+date = 2025-04-08
 +++
 
 ## Organization: nethserver
@@ -13,9 +13,8 @@ date = 2025-04-07
 
 -   **[feat(ci): add SBOM](https://github.com/NethServer/ns8-webserver/pull/96)** by *gsanchietti* - Reviewers: *stephdl* - Created at: 2025-03-31T14:46:38Z
 
-### NethServer/nethsecurity 4 
+### NethServer/nethsecurity 3 
 
-- :eyes:  **[chore(ns-api): version bump](https://github.com/NethServer/nethsecurity/pull/1153)** by *Tbaile* - Reviewers: *None* - Created at: 2025-04-04T09:57:43Z
 - :eyes:  **[fix(ns-api): talkers, calculate app and proto rate](https://github.com/NethServer/nethsecurity/pull/1152)** by *gsanchietti* - Reviewers: *None* - Created at: 2025-04-03T08:02:10Z
 - :eyes:  **[fix(ns-api): cleanup threat shield initial fields ](https://github.com/NethServer/nethsecurity/pull/1151)** by *gsanchietti* - Reviewers: *None* - Created at: 2025-04-02T08:33:18Z
 -  :zzz: **[High availability stack](https://github.com/NethServer/nethsecurity/pull/871)** by *gsanchietti* - Reviewers: *Tbaile* - Created at: 2024-10-23T15:36:11Z
@@ -57,13 +56,17 @@ date = 2025-04-07
 
 -   **[feat(ci): add SBOM](https://github.com/NethServer/ns8-postgresql/pull/25)** by *gsanchietti* - Reviewers: *stephdl* - Created at: 2025-03-31T14:47:24Z
 
+### NethServer/ns8-dnsmasq 1 
+
+- :eyes:  **[Explicitly set DNS for DHCP clients to Samba DNS when using Samba AD](https://github.com/NethServer/ns8-dnsmasq/pull/33)** by *GMouzourou* - Reviewers: *None* - Created at: 2025-04-07T23:49:19Z
+
 ### NethServer/ns8-wordpress 1 
 
 -   **[feat(ci): add SBOM](https://github.com/NethServer/ns8-wordpress/pull/21)** by *gsanchietti* - Reviewers: *stephdl* - Created at: 2025-03-31T15:01:21Z
 
 ### NethServer/nethlink 1 
 
--  :zzz: **[feat(videocall, screen-share & conference): update phone-island](https://github.com/NethServer/nethlink/pull/52)** by *tonyco97* - Reviewers: *edospadoni* - Created at: 2025-03-07T15:47:53Z
+- :eyes:  **[chore(dep): update phone-island](https://github.com/NethServer/nethlink/pull/55)** by *tonyco97* - Reviewers: *None* - Created at: 2025-04-07T15:42:22Z
 
 ## Organization: nethesis
 
@@ -75,20 +78,14 @@ date = 2025-04-07
 
 -  :zzz: **[Removed old notification service usage](https://github.com/nethesis/nethcti-app-iphone/pull/37)** by *NicolaMrAPPs* - Reviewers: *b9874e40962149eee62a8fd3bc4e709e* - Created at: 2023-08-02T09:19:30Z
 
-### nethesis/ns8-nethvoice 8 
+### nethesis/ns8-nethvoice 2 
 
-- :eyes:  **[fix(profiles): hide switchboard operator permissions](https://github.com/nethesis/ns8-nethvoice/pull/423)** by *andre8244* - Reviewers: *None* - Created at: 2025-04-02T10:40:01Z
--   **[fix: users-admin and user-domain-changed events](https://github.com/nethesis/ns8-nethvoice/pull/422)** by *andre8244* - Reviewers: *Stell0* - Created at: 2025-04-01T08:13:22Z
-- :eyes:  **[Add WiC VoIP and modify WiC -> WiC SIP](https://github.com/nethesis/ns8-nethvoice/pull/411)** by *andrea-marchionni* - Reviewers: *None* - Created at: 2025-03-21T16:12:13Z
-- :eyes:  **[fix(configure-module): enable validation](https://github.com/nethesis/ns8-nethvoice/pull/410)** by *DavidePrincipi* - Reviewers: *None* - Created at: 2025-03-20T15:41:11Z
+-   **[Add WiC VoIP and modify WiC -> WiC SIP](https://github.com/nethesis/ns8-nethvoice/pull/411)** by *andrea-marchionni* - Reviewers: *Stell0* - Created at: 2025-03-21T16:12:13Z
 -   **[refactor: restart all serivice on configure](https://github.com/nethesis/ns8-nethvoice/pull/406)** by *Amygos* - Reviewers: *Stell0* - Created at: 2025-03-18T09:38:32Z
--  :zzz: **[fix(recallonbusy): Use hints to define devices state instead of DeviceState](https://github.com/nethesis/ns8-nethvoice/pull/398)** by *Stell0* - Reviewers: *Amygos* - Created at: 2025-03-04T17:35:58Z
--  :zzz: **[feat(phonebook): update python mysql connector library](https://github.com/nethesis/ns8-nethvoice/pull/393)** by *viktec* - Reviewers: *Stell0* - Created at: 2025-02-26T16:47:39Z
-- :eyes: :zzz: **[feat(freepbx): API for triggering phones configuration reload](https://github.com/nethesis/ns8-nethvoice/pull/383)** by *Stell0* - Reviewers: *None* - Created at: 2025-02-17T11:13:55Z
 
 ### nethesis/nethvoice-cti 1 
 
--   **[fix(login): make username case insensitive](https://github.com/nethesis/nethvoice-cti/pull/297)** by *andre8244* - Reviewers: *tonyco97* - Created at: 2025-04-04T09:30:08Z
+- :eyes:  **[fix(login): make username case insensitive](https://github.com/nethesis/nethvoice-cti/pull/297)** by *andre8244* - Reviewers: *None* - Created at: 2025-04-04T09:30:08Z
 
 ### nethesis/ns8-nethvoice-proxy 2 
 
