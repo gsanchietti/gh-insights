@@ -1,9 +1,13 @@
 +++
 title = 'Open Pull Requests'
-date = 2025-04-08
+date = 2025-04-09
 +++
 
 ## Organization: nethserver
+
+### NethServer/ns8-repomd 1 
+
+- :eyes:  **[fix: pin nethvoice 1.2.1 for core <3.6](https://github.com/NethServer/ns8-repomd/pull/45)** by *DavidePrincipi* - Reviewers: *None* - Created at: 2025-04-08T14:37:04Z
 
 ### NethServer/ns8-mariadb 1 
 
@@ -13,15 +17,12 @@ date = 2025-04-08
 
 -   **[feat(ci): add SBOM](https://github.com/NethServer/ns8-webserver/pull/96)** by *gsanchietti* - Reviewers: *stephdl* - Created at: 2025-03-31T14:46:38Z
 
-### NethServer/nethsecurity 3 
+### NethServer/nethsecurity 1 
 
-- :eyes:  **[fix(ns-api): talkers, calculate app and proto rate](https://github.com/NethServer/nethsecurity/pull/1152)** by *gsanchietti* - Reviewers: *None* - Created at: 2025-04-03T08:02:10Z
-- :eyes:  **[fix(ns-api): cleanup threat shield initial fields ](https://github.com/NethServer/nethsecurity/pull/1151)** by *gsanchietti* - Reviewers: *None* - Created at: 2025-04-02T08:33:18Z
 -  :zzz: **[High availability stack](https://github.com/NethServer/nethsecurity/pull/871)** by *gsanchietti* - Reviewers: *Tbaile* - Created at: 2024-10-23T15:36:11Z
 
-### NethServer/ns8-nethsecurity-controller 2 
+### NethServer/ns8-nethsecurity-controller 1 
 
-- :eyes:  **[fix(grafana): sorting duplicate hosts by creation date](https://github.com/NethServer/ns8-nethsecurity-controller/pull/83)** by *Tbaile* - Reviewers: *None* - Created at: 2025-04-03T14:44:51Z
 -  :zzz: **[Fix traffic by hour histogram](https://github.com/NethServer/ns8-nethsecurity-controller/pull/78)** by *cotosso* - Reviewers: *gsanchietti* - Created at: 2025-03-04T18:04:21Z
 
 ### NethServer/ns8-collabora 1 
@@ -40,10 +41,6 @@ date = 2025-04-08
 
 - :eyes:  **[feat(webtop): PEC bridge customization](https://github.com/NethServer/ns8-docs/pull/154)** by *gsanchietti* - Reviewers: *None* - Created at: 2025-03-21T15:19:13Z
 
-### NethServer/nethsecurity-ui 1 
-
-- :eyes:  **[fix(monitoring): improve IP field retrieval](https://github.com/NethServer/nethsecurity-ui/pull/526)** by *gsanchietti* - Reviewers: *None* - Created at: 2025-04-02T15:08:09Z
-
 ### NethServer/nethsecurity-docs 1 
 
 -  :zzz: **[Update dns_dhcp.rst](https://github.com/NethServer/nethsecurity-docs/pull/150)** by *cotosso* - Reviewers: *filippocarletti* - Created at: 2025-02-17T15:55:29Z
@@ -56,17 +53,9 @@ date = 2025-04-08
 
 -   **[feat(ci): add SBOM](https://github.com/NethServer/ns8-postgresql/pull/25)** by *gsanchietti* - Reviewers: *stephdl* - Created at: 2025-03-31T14:47:24Z
 
-### NethServer/ns8-dnsmasq 1 
-
-- :eyes:  **[Explicitly set DNS for DHCP clients to Samba DNS when using Samba AD](https://github.com/NethServer/ns8-dnsmasq/pull/33)** by *GMouzourou* - Reviewers: *None* - Created at: 2025-04-07T23:49:19Z
-
 ### NethServer/ns8-wordpress 1 
 
 -   **[feat(ci): add SBOM](https://github.com/NethServer/ns8-wordpress/pull/21)** by *gsanchietti* - Reviewers: *stephdl* - Created at: 2025-03-31T15:01:21Z
-
-### NethServer/nethlink 1 
-
-- :eyes:  **[chore(dep): update phone-island](https://github.com/NethServer/nethlink/pull/55)** by *tonyco97* - Reviewers: *None* - Created at: 2025-04-07T15:42:22Z
 
 ## Organization: nethesis
 
@@ -82,10 +71,6 @@ date = 2025-04-08
 
 -   **[Add WiC VoIP and modify WiC -> WiC SIP](https://github.com/nethesis/ns8-nethvoice/pull/411)** by *andrea-marchionni* - Reviewers: *Stell0* - Created at: 2025-03-21T16:12:13Z
 -   **[refactor: restart all serivice on configure](https://github.com/nethesis/ns8-nethvoice/pull/406)** by *Amygos* - Reviewers: *Stell0* - Created at: 2025-03-18T09:38:32Z
-
-### nethesis/nethvoice-cti 1 
-
-- :eyes:  **[fix(login): make username case insensitive](https://github.com/nethesis/nethvoice-cti/pull/297)** by *andre8244* - Reviewers: *None* - Created at: 2025-04-04T09:30:08Z
 
 ### nethesis/ns8-nethvoice-proxy 2 
 
