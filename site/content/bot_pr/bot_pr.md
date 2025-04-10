@@ -1,16 +1,15 @@
 +++
 title = 'Open Pull Requests by Bots'
-date = 2025-04-09
+date = 2025-04-10
 +++
 
 ## Organization: nethserver
 
-### NethServer/ns8-core 10 
+### NethServer/ns8-core 9 
 
 - :eyes:  **[chore(deps): update golang docker tag to v1.24.2](https://github.com/NethServer/ns8-core/pull/848)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-04-01T21:26:37Z
 - :eyes:  **[chore(deps): update quay.io/prometheus/node-exporter docker tag to v1.9.1](https://github.com/NethServer/ns8-core/pull/847)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-04-01T16:47:58Z
 - :eyes:  **[chore(deps): bump axios from 0.21.4 to 0.30.0 in /core/ui](https://github.com/NethServer/ns8-core/pull/845)** by *dependabot[bot]* - Reviewers: *None* - Created at: 2025-03-31T06:21:46Z
-- :eyes:  **[Translations update from Hosted Weblate](https://github.com/NethServer/ns8-core/pull/844)** by *weblate* - Reviewers: *None* - Created at: 2025-03-28T17:39:04Z
 - :eyes:  **[chore(deps): update redis docker tag to v7.4.2](https://github.com/NethServer/ns8-core/pull/830)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-03-13T14:07:34Z
 - :eyes: :zzz: **[chore(deps): update dependency grafana/loki to v2.9.13](https://github.com/NethServer/ns8-core/pull/808)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-02-13T16:56:32Z
 - :eyes: :zzz: **[chore(deps): update grafana/promtail docker tag to v3](https://github.com/NethServer/ns8-core/pull/805)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-02-11T01:12:03Z
@@ -128,7 +127,7 @@ date = 2025-04-09
 
 - :eyes: :zzz: **[chore(deps): update ghcr.io/marketsquare/robotframework-browser/rfbrowser-stable docker tag to v19.4.0](https://github.com/NethServer/ns8-webtop/pull/99)** by *renovate[bot]* - Reviewers: *None* - Created at: 2024-12-19T16:40:00Z
 -  :zzz: **[chore(deps): update php docker tag to v8](https://github.com/NethServer/ns8-webtop/pull/75)** by *renovate[bot]* - Reviewers: *Amygos* - Created at: 2024-09-23T14:30:18Z
--  :zzz: **[chore(deps): update mlocati/php-extension-installer docker tag to v2.7.29](https://github.com/NethServer/ns8-webtop/pull/64)** by *renovate[bot]* - Reviewers: *Amygos* - Created at: 2024-08-02T20:19:42Z
+-  :zzz: **[chore(deps): update mlocati/php-extension-installer docker tag to v2.7.30](https://github.com/NethServer/ns8-webtop/pull/64)** by *renovate[bot]* - Reviewers: *Amygos* - Created at: 2024-08-02T20:19:42Z
 -  :zzz: **[chore(deps): update maven docker tag to v3.8](https://github.com/NethServer/ns8-webtop/pull/57)** by *renovate[bot]* - Reviewers: *Amygos* - Created at: 2024-07-31T15:01:45Z
 -  :zzz: **[chore(deps): update mlocati/php-extension-installer docker tag to v1.5.52](https://github.com/NethServer/ns8-webtop/pull/55)** by *renovate[bot]* - Reviewers: *Amygos* - Created at: 2024-07-31T14:52:53Z
 
@@ -200,8 +199,9 @@ date = 2025-04-09
 
 - :eyes: :zzz: **[Configure Renovate](https://github.com/NethServer/ns8-passbolt/pull/1)** by *renovate[bot]* - Reviewers: *None* - Created at: 2024-10-21T12:39:44Z
 
-### NethServer/ns8-metrics 1 
+### NethServer/ns8-metrics 2 
 
+- :eyes:  **[chore(deps): update python docker tag to v3.13.3](https://github.com/NethServer/ns8-metrics/pull/18)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-04-09T07:06:16Z
 - :eyes: :zzz: **[chore(deps): update ghcr.io/marketsquare/robotframework-browser/rfbrowser-stable docker tag to v19.4.0](https://github.com/NethServer/ns8-metrics/pull/5)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-02-27T13:33:08Z
 
 ## Organization: nethesis
@@ -237,9 +237,5 @@ date = 2025-04-09
 ### nethesis/ns8-nethvoice-proxy 1 
 
 - :eyes:  **[Translations update from Hosted Weblate](https://github.com/nethesis/ns8-nethvoice-proxy/pull/60)** by *weblate* - Reviewers: *None* - Created at: 2025-04-02T13:21:27Z
-
-### nethesis/parceler 1 
-
-- :eyes:  **[fix(deps): update dependency laravel/framework to v12.8.1](https://github.com/nethesis/parceler/pull/49)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-04-08T23:08:47Z
 
 

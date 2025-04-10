@@ -1,9 +1,13 @@
 +++
 title = 'Open Pull Requests'
-date = 2025-04-09
+date = 2025-04-10
 +++
 
 ## Organization: nethserver
+
+### NethServer/ns8-core 1 
+
+-   **[fix: add more specific no_version_reason](https://github.com/NethServer/ns8-core/pull/852)** by *DavidePrincipi* - Reviewers: *andre8244* - Created at: 2025-04-09T17:46:52Z
 
 ### NethServer/ns8-repomd 1 
 
@@ -17,8 +21,9 @@ date = 2025-04-09
 
 -   **[feat(ci): add SBOM](https://github.com/NethServer/ns8-webserver/pull/96)** by *gsanchietti* - Reviewers: *stephdl* - Created at: 2025-03-31T14:46:38Z
 
-### NethServer/nethsecurity 1 
+### NethServer/nethsecurity 2 
 
+- :eyes:  **[fix: replaced bonding](https://github.com/NethServer/nethsecurity/pull/1167)** by *Tbaile* - Reviewers: *None* - Created at: 2025-04-09T14:41:32Z
 -  :zzz: **[High availability stack](https://github.com/NethServer/nethsecurity/pull/871)** by *gsanchietti* - Reviewers: *Tbaile* - Created at: 2024-10-23T15:36:11Z
 
 ### NethServer/ns8-nethsecurity-controller 1 
@@ -70,10 +75,11 @@ date = 2025-04-09
 ### nethesis/ns8-nethvoice 2 
 
 -   **[Add WiC VoIP and modify WiC -> WiC SIP](https://github.com/nethesis/ns8-nethvoice/pull/411)** by *andrea-marchionni* - Reviewers: *Stell0* - Created at: 2025-03-21T16:12:13Z
--   **[refactor: restart all serivice on configure](https://github.com/nethesis/ns8-nethvoice/pull/406)** by *Amygos* - Reviewers: *Stell0* - Created at: 2025-03-18T09:38:32Z
+-   **[refactor: restart all services on configure](https://github.com/nethesis/ns8-nethvoice/pull/406)** by *Amygos* - Reviewers: *Stell0* - Created at: 2025-03-18T09:38:32Z
 
-### nethesis/ns8-nethvoice-proxy 2 
+### nethesis/ns8-nethvoice-proxy 3 
 
+- :eyes:  **[fix(remove-trunk): correct dialplan match](https://github.com/nethesis/ns8-nethvoice-proxy/pull/61)** by *Amygos* - Reviewers: *None* - Created at: 2025-04-09T11:05:22Z
 - :eyes:  **[feat(ci): add SBOM](https://github.com/nethesis/ns8-nethvoice-proxy/pull/59)** by *gsanchietti* - Reviewers: *None* - Created at: 2025-03-31T15:09:20Z
 - :eyes: :zzz: **[Remove Route header handling for inbound packets](https://github.com/nethesis/ns8-nethvoice-proxy/pull/49)** by *Amygos* - Reviewers: *None* - Created at: 2024-12-06T15:26:49Z
 
