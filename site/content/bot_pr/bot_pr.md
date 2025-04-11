@@ -1,6 +1,6 @@
 +++
 title = 'Open Pull Requests by Bots'
-date = 2025-04-10
+date = 2025-04-11
 +++
 
 ## Organization: nethserver
@@ -160,7 +160,7 @@ date = 2025-04-10
 ### NethServer/ns8-ejabberd 2 
 
 - :eyes:  **[chore(deps): update ejabberd/ecs docker tag to v25](https://github.com/NethServer/ns8-ejabberd/pull/64)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-03-28T15:41:38Z
-- :eyes:  **[chore(deps): update ghcr.io/marketsquare/robotframework-browser/rfbrowser-stable docker tag to v19.4.0](https://github.com/NethServer/ns8-ejabberd/pull/62)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-03-11T13:24:07Z
+- :eyes: :zzz: **[chore(deps): update ghcr.io/marketsquare/robotframework-browser/rfbrowser-stable docker tag to v19.4.0](https://github.com/NethServer/ns8-ejabberd/pull/62)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-03-11T13:24:07Z
 
 ### NethServer/ns8-imapsync 2 
 
@@ -179,12 +179,6 @@ date = 2025-04-10
 ### NethServer/ns8-postgresql 1 
 
 - :eyes: :zzz: **[chore(deps): update dpage/pgadmin4 docker tag to v9.2](https://github.com/NethServer/ns8-postgresql/pull/24)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-02-28T06:03:37Z
-
-### NethServer/ns8-dnsmasq 3 
-
-- :eyes: :zzz: **[chore(deps): update node.js to v18.20.8](https://github.com/NethServer/ns8-dnsmasq/pull/30)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-03-03T17:00:28Z
-- :eyes: :zzz: **[Translations update from Hosted Weblate](https://github.com/NethServer/ns8-dnsmasq/pull/27)** by *weblate* - Reviewers: *None* - Created at: 2025-01-21T02:27:40Z
-- :eyes: :zzz: **[chore(deps): update docker.io/debian docker tag to v12.10](https://github.com/NethServer/ns8-dnsmasq/pull/26)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-01-14T21:45:53Z
 
 ### NethServer/ns8-wordpress 1 
 

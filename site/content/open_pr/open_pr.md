@@ -1,17 +1,9 @@
 +++
 title = 'Open Pull Requests'
-date = 2025-04-10
+date = 2025-04-11
 +++
 
 ## Organization: nethserver
-
-### NethServer/ns8-core 1 
-
--   **[fix: add more specific no_version_reason](https://github.com/NethServer/ns8-core/pull/852)** by *DavidePrincipi* - Reviewers: *andre8244* - Created at: 2025-04-09T17:46:52Z
-
-### NethServer/ns8-repomd 1 
-
-- :eyes:  **[fix: pin nethvoice 1.2.1 for core <3.6](https://github.com/NethServer/ns8-repomd/pull/45)** by *DavidePrincipi* - Reviewers: *None* - Created at: 2025-04-08T14:37:04Z
 
 ### NethServer/ns8-mariadb 1 
 
@@ -21,9 +13,13 @@ date = 2025-04-10
 
 -   **[feat(ci): add SBOM](https://github.com/NethServer/ns8-webserver/pull/96)** by *gsanchietti* - Reviewers: *stephdl* - Created at: 2025-03-31T14:46:38Z
 
+### NethServer/ns8-loki 1 
+
+- :eyes:  **[Upgrade to Loki v3](https://github.com/NethServer/ns8-loki/pull/39)** by *gsanchietti* - Reviewers: *None* - Created at: 2025-04-10T09:19:32Z
+
 ### NethServer/nethsecurity 2 
 
-- :eyes:  **[fix: replaced bonding](https://github.com/NethServer/nethsecurity/pull/1167)** by *Tbaile* - Reviewers: *None* - Created at: 2025-04-09T14:41:32Z
+-   **[fix(snort3): generating config even without downloading rules](https://github.com/NethServer/nethsecurity/pull/1168)** by *Tbaile* - Reviewers: *filippocarletti* - Created at: 2025-04-10T08:37:28Z
 -  :zzz: **[High availability stack](https://github.com/NethServer/nethsecurity/pull/871)** by *gsanchietti* - Reviewers: *Tbaile* - Created at: 2024-10-23T15:36:11Z
 
 ### NethServer/ns8-nethsecurity-controller 1 
@@ -40,15 +36,12 @@ date = 2025-04-10
 
 ### NethServer/ns8-ejabberd 1 
 
--   **[feat: certificate-changed event handler](https://github.com/NethServer/ns8-ejabberd/pull/63)** by *DavidePrincipi* - Reviewers: *stephdl* - Created at: 2025-03-11T14:47:42Z
+-  :zzz: **[feat: certificate-changed event handler](https://github.com/NethServer/ns8-ejabberd/pull/63)** by *DavidePrincipi* - Reviewers: *stephdl* - Created at: 2025-03-11T14:47:42Z
 
-### NethServer/ns8-docs 1 
+### NethServer/ns8-docs 2 
 
+- :eyes:  **[Update nethvoice_proxy.rst](https://github.com/NethServer/ns8-docs/pull/157)** by *viktec* - Reviewers: *None* - Created at: 2025-04-10T17:06:20Z
 - :eyes:  **[feat(webtop): PEC bridge customization](https://github.com/NethServer/ns8-docs/pull/154)** by *gsanchietti* - Reviewers: *None* - Created at: 2025-03-21T15:19:13Z
-
-### NethServer/nethsecurity-docs 1 
-
--  :zzz: **[Update dns_dhcp.rst](https://github.com/NethServer/nethsecurity-docs/pull/150)** by *cotosso* - Reviewers: *filippocarletti* - Created at: 2025-02-17T15:55:29Z
 
 ### NethServer/ns8-sogo 1 
 
