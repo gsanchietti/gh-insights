@@ -1,22 +1,15 @@
 +++
-title = 'Need testing (7)'
-date = 2024-12-16
+title = 'Need testing (4)'
+date = 2025-04-16
 +++
 
-## NoMilestone
-- **[SOGo: auxiliary account toggle UI state not synchronized](https://github.com/NethServer/dev/issues/7213)** (#7152) by *stephdl* (Created: 2024-12-16, Updated: 2024-12-16T09:52:30Z)
+## NethVoice
+- **[NethVoice CTI / NethLink: phone-island close on conference start](https://github.com/NethServer/dev/issues/7406)** (#7259) by *tonyco97* (Created: 2025-04-14, Updated: 2025-04-15T13:55:13Z)
+- :point_right: **[Crowdsec ban NethVoice wizard and janus](https://github.com/NethServer/dev/issues/7259)** (#7259) by *Stell0* (Created: 2025-01-16, Updated: 2025-04-07T07:59:39Z)
 
 ## NethServer
-- **[nethsecurity-controller: clone and move issue](https://github.com/NethServer/dev/issues/7204)** (#7152) by *stephdl* (Created: 2024-12-10, Updated: 2024-12-13T10:43:29Z)
-- **[nethsecurity-controller: backups and restoration issue](https://github.com/NethServer/dev/issues/7203)** (#7152) by *stephdl* (Created: 2024-12-10, Updated: 2024-12-13T10:43:26Z)
-
-## NethVoice
-- :point_right: **[NethVoice CTI: missing feature on the phone function key configuration](https://github.com/NethServer/dev/issues/7152)** (#7152) by *andrea-marchionni* (Created: 2024-11-18, Updated: 2024-12-11T16:30:58Z)
+- :point_right: **[Task progress lost and timeout during migration](https://github.com/NethServer/dev/issues/7319)** (#7259) by *DavidePrincipi* (Created: 2025-02-17, Updated: 2025-04-15T15:16:27Z)
 
 ## NethSecurity
-- :point_right: **[Unit registration fails when specifying a unit name containing spaces](https://github.com/NethServer/nethsecurity/issues/952)** (#891) by *cotosso* (Created: 2024-12-05, Updated: 2024-12-13T09:41:47Z)
-
-## NethSecurity
-- :point_right: **[WireGuard configuration](https://github.com/NethServer/nethsecurity/issues/921)** (#891) by *gsanchietti* (Created: 2024-11-19, Updated: 2024-12-12T11:51:24Z)
-- :point_right: **[IPS: snort basic implementation](https://github.com/NethServer/nethsecurity/issues/891)** (#891) by *gsanchietti* (Created: 2024-11-07, Updated: 2024-12-13T10:31:21Z)
+- :point_right: **[DHCP: feature request to support custom DHCP options](https://github.com/NethServer/nethsecurity/issues/1070)** (#1070) by *mamengoni* (Created: 2025-02-07, Updated: 2025-04-15T15:44:02Z)
 
