@@ -1,19 +1,20 @@
 +++
 title = 'Open Pull Requests'
-date = 2025-04-16
+date = 2025-04-17
 +++
 
 ## Organization: nethserver
 
 ### NethServer/ns8-core 1 
 
-- :eyes:  **[feat(restoration): add list exclusion in  restoration replacement logic](https://github.com/NethServer/ns8-core/pull/862)** by *stephdl* - Reviewers: *None* - Created at: 2025-04-15T14:11:57Z
+-   **[feat(settings): show notifications for smarthost task events](https://github.com/NethServer/ns8-core/pull/865)** by *stephdl* - Reviewers: *andre8244* - Created at: 2025-04-16T14:39:51Z
 
-### NethServer/nethsecurity 4 
+### NethServer/ns8-nextcloud 1 
 
--   **[feat(ns-api): redirects, show all supported protocols](https://github.com/NethServer/nethsecurity/pull/1177)** by *gsanchietti* - Reviewers: *Tbaile* - Created at: 2025-04-15T15:23:17Z
-- :eyes:  **[refactor(ns-api): refactored api call that returned public ips](https://github.com/NethServer/nethsecurity/pull/1174)** by *Tbaile* - Reviewers: *None* - Created at: 2025-04-15T14:03:48Z
--   **[fix(snort3): generating config even without downloading rules](https://github.com/NethServer/nethsecurity/pull/1168)** by *Tbaile* - Reviewers: *filippocarletti* - Created at: 2025-04-10T08:37:28Z
+- :eyes:  **[feat: enhance LDAP login filter and email attribute configuration](https://github.com/NethServer/ns8-nextcloud/pull/138)** by *stephdl* - Reviewers: *None* - Created at: 2025-04-16T11:43:29Z
+
+### NethServer/nethsecurity 1 
+
 -  :zzz: **[High availability stack](https://github.com/NethServer/nethsecurity/pull/871)** by *gsanchietti* - Reviewers: *Tbaile* - Created at: 2024-10-23T15:36:11Z
 
 ### NethServer/ns8-nethsecurity-controller 1 
@@ -24,19 +25,15 @@ date = 2025-04-16
 
 -   **[Update nethvoice_proxy.rst](https://github.com/NethServer/ns8-docs/pull/157)** by *viktec* - Reviewers: *andrea-marchionni* - Created at: 2025-04-10T17:06:20Z
 
-### NethServer/nethsecurity-ui 3 
+### NethServer/nethsecurity-docs 3 
 
--   **[fix(dhcp): improve visualization of custom options](https://github.com/NethServer/nethsecurity-ui/pull/532)** by *gsanchietti* - Reviewers: *Tbaile* - Created at: 2025-04-15T14:57:55Z
-- :eyes:  **[fix(monitoring): adjusting public IP resolution](https://github.com/NethServer/nethsecurity-ui/pull/531)** by *Tbaile* - Reviewers: *None* - Created at: 2025-04-15T14:19:37Z
-- :eyes:  **[chore(main): release 1.22.2](https://github.com/NethServer/nethsecurity-ui/pull/530)** by *Tbaile* - Reviewers: *None* - Created at: 2025-04-15T12:15:30Z
-
-### NethServer/nethsecurity-docs 1 
-
+-   **[feat(backup): encryption alert](https://github.com/NethServer/nethsecurity-docs/pull/162)** by *gsanchietti* - Reviewers: *filippocarletti, cotosso* - Created at: 2025-04-16T13:52:29Z
+-   **[fix(port forward): explain any protocol, add gre](https://github.com/NethServer/nethsecurity-docs/pull/161)** by *gsanchietti* - Reviewers: *cotosso* - Created at: 2025-04-16T13:03:49Z
 -   **[feat(dhcp): non-standard custom options](https://github.com/NethServer/nethsecurity-docs/pull/160)** by *gsanchietti* - Reviewers: *cotosso* - Created at: 2025-04-15T14:49:53Z
 
 ### NethServer/nethlink 1 
 
--   **[chore(dep): update phone-island](https://github.com/NethServer/nethlink/pull/57)** by *tonyco97* - Reviewers: *edospadoni* - Created at: 2025-04-14T15:37:22Z
+- :eyes:  **[feat: added shortcut to start call](https://github.com/NethServer/nethlink/pull/56)** by *edospadoni* - Reviewers: *None* - Created at: 2025-04-10T13:22:59Z
 
 ## Organization: nethesis
 
