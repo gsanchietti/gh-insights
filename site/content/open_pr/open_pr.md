@@ -1,21 +1,17 @@
 +++
 title = 'Open Pull Requests'
-date = 2025-04-17
+date = 2025-04-18
 +++
 
 ## Organization: nethserver
 
 ### NethServer/ns8-core 1 
 
--   **[feat(settings): show notifications for smarthost task events](https://github.com/NethServer/ns8-core/pull/865)** by *stephdl* - Reviewers: *andre8244* - Created at: 2025-04-16T14:39:51Z
-
-### NethServer/ns8-nextcloud 1 
-
-- :eyes:  **[feat: enhance LDAP login filter and email attribute configuration](https://github.com/NethServer/ns8-nextcloud/pull/138)** by *stephdl* - Reviewers: *None* - Created at: 2025-04-16T11:43:29Z
+-   **[Edit generic S3 and Azure support with password fields and validation](https://github.com/NethServer/ns8-core/pull/866)** by *stephdl* - Reviewers: *andre8244* - Created at: 2025-04-17T12:55:41Z
 
 ### NethServer/nethsecurity 1 
 
--  :zzz: **[High availability stack](https://github.com/NethServer/nethsecurity/pull/871)** by *gsanchietti* - Reviewers: *Tbaile* - Created at: 2024-10-23T15:36:11Z
+- :eyes: :zzz: **[High availability stack](https://github.com/NethServer/nethsecurity/pull/871)** by *gsanchietti* - Reviewers: *None* - Created at: 2024-10-23T15:36:11Z
 
 ### NethServer/ns8-nethsecurity-controller 1 
 
@@ -25,15 +21,20 @@ date = 2025-04-17
 
 -   **[Update nethvoice_proxy.rst](https://github.com/NethServer/ns8-docs/pull/157)** by *viktec* - Reviewers: *andrea-marchionni* - Created at: 2025-04-10T17:06:20Z
 
+### NethServer/nethsecurity-ui 2 
+
+-   **[fix(ssh): configure only main dropbear server](https://github.com/NethServer/nethsecurity-ui/pull/533)** by *gsanchietti* - Reviewers: *Tbaile* - Created at: 2025-04-17T07:36:06Z
+-   **[feat: sudo mode](https://github.com/NethServer/nethsecurity-ui/pull/528)** by *Tbaile* - Reviewers: *andre8244* - Created at: 2025-04-14T10:30:42Z
+
+### NethServer/nethsecurity-api 1 
+
+-   **[feat: support for sudo mode](https://github.com/NethServer/nethsecurity-api/pull/16)** by *Tbaile* - Reviewers: *gsanchietti* - Created at: 2025-04-14T13:14:43Z
+
 ### NethServer/nethsecurity-docs 3 
 
 -   **[feat(backup): encryption alert](https://github.com/NethServer/nethsecurity-docs/pull/162)** by *gsanchietti* - Reviewers: *filippocarletti, cotosso* - Created at: 2025-04-16T13:52:29Z
 -   **[fix(port forward): explain any protocol, add gre](https://github.com/NethServer/nethsecurity-docs/pull/161)** by *gsanchietti* - Reviewers: *cotosso* - Created at: 2025-04-16T13:03:49Z
 -   **[feat(dhcp): non-standard custom options](https://github.com/NethServer/nethsecurity-docs/pull/160)** by *gsanchietti* - Reviewers: *cotosso* - Created at: 2025-04-15T14:49:53Z
-
-### NethServer/nethlink 1 
-
-- :eyes:  **[feat: added shortcut to start call](https://github.com/NethServer/nethlink/pull/56)** by *edospadoni* - Reviewers: *None* - Created at: 2025-04-10T13:22:59Z
 
 ## Organization: nethesis
 
@@ -48,7 +49,7 @@ date = 2025-04-17
 ### nethesis/ns8-nethvoice 2 
 
 -   **[Add WiC VoIP and modify WiC -> WiC SIP](https://github.com/nethesis/ns8-nethvoice/pull/411)** by *andrea-marchionni* - Reviewers: *Stell0* - Created at: 2025-03-21T16:12:13Z
--   **[refactor: restart all services on configure](https://github.com/nethesis/ns8-nethvoice/pull/406)** by *Amygos* - Reviewers: *Stell0* - Created at: 2025-03-18T09:38:32Z
+-  :zzz: **[refactor: restart all services on configure](https://github.com/nethesis/ns8-nethvoice/pull/406)** by *Amygos* - Reviewers: *Stell0* - Created at: 2025-03-18T09:38:32Z
 
 ### nethesis/ns8-nethvoice-proxy 2 
 

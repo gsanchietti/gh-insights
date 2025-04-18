@@ -1,6 +1,6 @@
 +++
 title = 'Open Pull Requests by Bots'
-date = 2025-04-17
+date = 2025-04-18
 +++
 
 ## Organization: nethserver
@@ -40,10 +40,8 @@ date = 2025-04-17
 -  :zzz: **[chore(deps): update ghcr.io/marketsquare/robotframework-browser/rfbrowser-stable docker tag to v19](https://github.com/NethServer/ns8-webserver/pull/83)** by *renovate[bot]* - Reviewers: *stephdl* - Created at: 2024-11-27T11:53:06Z
 -  :zzz: **[chore(deps): update ghcr.io/marketsquare/robotframework-browser/rfbrowser-stable docker tag to v10.1.0](https://github.com/NethServer/ns8-webserver/pull/76)** by *renovate[bot]* - Reviewers: *stephdl* - Created at: 2024-10-17T13:08:31Z
 
-### NethServer/ns8-nextcloud 3 
+### NethServer/ns8-nextcloud 1 
 
-- :eyes:  **[chore(deps): update nginx docker tag to v1.27.5](https://github.com/NethServer/ns8-nextcloud/pull/139)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-04-16T23:37:23Z
--   **[chore(deps): update docker.io/library/nextcloud docker tag to v30.0.8](https://github.com/NethServer/ns8-nextcloud/pull/136)** by *renovate[bot]* - Reviewers: *stephdl* - Created at: 2025-03-20T02:08:35Z
 - :eyes: :zzz: **[chore(deps): update ghcr.io/marketsquare/robotframework-browser/rfbrowser-stable docker tag to v19.4.0](https://github.com/NethServer/ns8-nextcloud/pull/132)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-01-26T17:42:49Z
 
 ### NethServer/ns8-minio 1 
@@ -151,9 +149,8 @@ date = 2025-04-17
 - :eyes: :zzz: **[chore(deps): update alpine docker tag to v3.21.3](https://github.com/NethServer/ns8-crowdsec/pull/69)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-02-14T22:00:49Z
 - :eyes: :zzz: **[chore(deps): update ghcr.io/marketsquare/robotframework-browser/rfbrowser-stable docker tag to v19.4.0](https://github.com/NethServer/ns8-crowdsec/pull/63)** by *renovate[bot]* - Reviewers: *None* - Created at: 2024-12-20T22:49:56Z
 
-### NethServer/ns8-ejabberd 2 
+### NethServer/ns8-ejabberd 1 
 
-- :eyes:  **[chore(deps): update ejabberd/ecs docker tag to v25.04](https://github.com/NethServer/ns8-ejabberd/pull/66)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-04-16T19:38:27Z
 - :eyes: :zzz: **[chore(deps): update ghcr.io/marketsquare/robotframework-browser/rfbrowser-stable docker tag to v19.4.0](https://github.com/NethServer/ns8-ejabberd/pull/62)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-03-11T13:24:07Z
 
 ### NethServer/ns8-imapsync 2 

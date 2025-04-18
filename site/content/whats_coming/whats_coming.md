@@ -2,15 +2,9 @@
 
 title = 'To be released soon'
 
-date = 2025-04-17
+date = 2025-04-18
 
 +++
-
-### NethVoice
-
-- [Phone Island: screen sharing turns green when in full size](https://github.com/NethServer/dev/issues/7392) (#7319) by viktec (Created: 2025-04-08T14:09:50Z, Updated: 2025-04-15T14:43:04Z)
-
-- [NethVoice / NethLink (phone island): transfer to external phone number](https://github.com/NethServer/dev/issues/7338) (#7319) by andrea-marchionni (Created: 2025-03-04T10:00:52Z, Updated: 2025-04-15T14:42:48Z)
 
 ### NethServer
 
