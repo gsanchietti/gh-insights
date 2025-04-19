@@ -1,6 +1,6 @@
 +++
 title = 'Open Pull Requests by Bots'
-date = 2025-04-18
+date = 2025-04-19
 +++
 
 ## Organization: nethserver
@@ -57,13 +57,14 @@ date = 2025-04-18
 
 - :eyes: :zzz: **[chore(deps): update ghcr.io/marketsquare/robotframework-browser/rfbrowser-stable docker tag to v19.4.0](https://github.com/NethServer/ns8-samba/pull/77)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-02-21T09:59:59Z
 
-### NethServer/ns8-loki 1 
+### NethServer/ns8-loki 2 
 
+- :eyes:  **[chore(deps): update traefik docker tag to v3.3.6](https://github.com/NethServer/ns8-loki/pull/40)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-04-18T18:23:19Z
 - :eyes: :zzz: **[chore(deps): update ghcr.io/marketsquare/robotframework-browser/rfbrowser-stable docker tag to v19.4.0](https://github.com/NethServer/ns8-loki/pull/34)** by *renovate[bot]* - Reviewers: *None* - Created at: 2024-12-20T21:53:49Z
 
 ### NethServer/ns8-traefik 2 
 
-- :eyes:  **[chore(deps): update traefik docker tag to v3.3.5](https://github.com/NethServer/ns8-traefik/pull/97)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-03-31T23:52:07Z
+- :eyes:  **[chore(deps): update traefik docker tag to v3.3.6](https://github.com/NethServer/ns8-traefik/pull/97)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-03-31T23:52:07Z
 - :eyes: :zzz: **[chore(deps): update ghcr.io/marketsquare/robotframework-browser/rfbrowser-stable docker tag to v19.4.0](https://github.com/NethServer/ns8-traefik/pull/70)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-01-26T16:22:41Z
 
 ### NethServer/ns8-openldap 1 
@@ -81,8 +82,10 @@ date = 2025-04-18
 - :eyes:  **[chore(deps): update node.js to v18.20.8](https://github.com/NethServer/ns8-grafana/pull/33)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-03-27T19:39:47Z
 - :eyes: :zzz: **[chore(deps): update ghcr.io/marketsquare/robotframework-browser/rfbrowser-stable docker tag to v19.4.0](https://github.com/NethServer/ns8-grafana/pull/26)** by *renovate[bot]* - Reviewers: *None* - Created at: 2024-12-20T22:05:46Z
 
-### NethServer/nethsecurity 1 
+### NethServer/nethsecurity 3 
 
+- :eyes:  **[build(deps): Update ns-api-server package (automated)](https://github.com/NethServer/nethsecurity/pull/1186)** by *github-actions[bot]* - Reviewers: *None* - Created at: 2025-04-19T01:47:27Z
+- :eyes:  **[build(deps): Update ns-ui package (automated)](https://github.com/NethServer/nethsecurity/pull/1185)** by *github-actions[bot]* - Reviewers: *None* - Created at: 2025-04-19T01:46:43Z
 - :eyes: :zzz: **[chore: bump ns packages (automatic)](https://github.com/NethServer/nethsecurity/pull/1071)** by *github-actions[bot]* - Reviewers: *None* - Created at: 2025-02-10T15:48:19Z
 
 ### NethServer/nethsecurity-controller 4 
@@ -90,7 +93,7 @@ date = 2025-04-18
 - :eyes:  **[chore(deps): update docker/build-push-action action to v6](https://github.com/NethServer/nethsecurity-controller/pull/106)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-04-07T03:31:11Z
 - :eyes:  **[chore(deps): update docker.io/traefik docker tag to v3](https://github.com/NethServer/nethsecurity-controller/pull/95)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-03-31T03:07:13Z
 - :eyes:  **[chore(deps): update docker.io/alpine docker tag to v3.21.3](https://github.com/NethServer/nethsecurity-controller/pull/92)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-03-25T09:07:13Z
-- :eyes: :zzz: **[fix(deps): update github.com/nethserver/nethsecurity-api digest to 6b0bf91](https://github.com/NethServer/nethsecurity-controller/pull/86)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-02-13T12:03:10Z
+- :eyes: :zzz: **[fix(deps): update github.com/nethserver/nethsecurity-api digest to 2c5fdbc](https://github.com/NethServer/nethsecurity-controller/pull/86)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-02-13T12:03:10Z
 
 ### NethServer/ns8-mail 2 
 
@@ -158,14 +161,16 @@ date = 2025-04-18
 - :eyes:  **[Translations update from Hosted Weblate](https://github.com/NethServer/ns8-imapsync/pull/52)** by *weblate* - Reviewers: *None* - Created at: 2025-04-04T11:02:47Z
 - :eyes: :zzz: **[chore(deps): update ghcr.io/marketsquare/robotframework-browser/rfbrowser-stable docker tag to v19.4.0](https://github.com/NethServer/ns8-imapsync/pull/36)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-01-26T16:23:25Z
 
-### NethServer/ns8-sogo 2 
+### NethServer/ns8-sogo 4 
 
+- :eyes:  **[chore(deps): update mariadb docker tag to v11](https://github.com/NethServer/ns8-sogo/pull/34)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-04-18T23:46:47Z
+- :eyes:  **[chore(deps): update ghcr.io/marketsquare/robotframework-browser/rfbrowser-stable docker tag to v19](https://github.com/NethServer/ns8-sogo/pull/33)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-04-18T23:46:44Z
 - :eyes:  **[chore(deps): update ghcr.io/marketsquare/robotframework-browser/rfbrowser-stable docker tag to v10.1.0](https://github.com/NethServer/ns8-sogo/pull/32)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-04-14T07:48:57Z
 - :eyes:  **[chore(deps): update mariadb docker tag to v10.11.11](https://github.com/NethServer/ns8-sogo/pull/31)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-04-14T07:48:54Z
 
 ### NethServer/ns8-porthos 2 
 
-- :eyes:  **[chore(deps): update nginx docker tag to v1.27.4](https://github.com/NethServer/ns8-porthos/pull/7)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-04-01T07:14:40Z
+- :eyes:  **[chore(deps): update nginx docker tag to v1.27.5](https://github.com/NethServer/ns8-porthos/pull/7)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-04-01T07:14:40Z
 - :eyes:  **[chore(deps): update debian docker tag to v12.10](https://github.com/NethServer/ns8-porthos/pull/6)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-04-01T07:14:37Z
 
 ### NethServer/ns8-postgresql 1 
@@ -203,7 +208,7 @@ date = 2025-04-18
 
 ### nethesis/icaro 1 
 
-- :eyes:  **[Bump jspdf from 1.3.5 to 3.0.1 in /sun/sun-ui](https://github.com/nethesis/icaro/pull/197)** by *dependabot[bot]* - Reviewers: *None* - Created at: 2025-03-19T07:36:45Z
+- :eyes: :zzz: **[Bump jspdf from 1.3.5 to 3.0.1 in /sun/sun-ui](https://github.com/nethesis/icaro/pull/197)** by *dependabot[bot]* - Reviewers: *None* - Created at: 2025-03-19T07:36:45Z
 
 ### nethesis/contatta 1 
 
@@ -215,7 +220,7 @@ date = 2025-04-18
 
 ### nethesis/nethvoice-report 1 
 
-- :eyes:  **[Bump jspdf from 2.1.1 to 3.0.1 in /ui](https://github.com/nethesis/nethvoice-report/pull/203)** by *dependabot[bot]* - Reviewers: *None* - Created at: 2025-03-19T07:36:39Z
+- :eyes: :zzz: **[Bump jspdf from 2.1.1 to 3.0.1 in /ui](https://github.com/nethesis/nethvoice-report/pull/203)** by *dependabot[bot]* - Reviewers: *None* - Created at: 2025-03-19T07:36:39Z
 
 ### nethesis/ns8-nethvoice 1 
 

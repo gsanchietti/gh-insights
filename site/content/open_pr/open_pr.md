@@ -1,16 +1,17 @@
 +++
 title = 'Open Pull Requests'
-date = 2025-04-18
+date = 2025-04-19
 +++
 
 ## Organization: nethserver
 
 ### NethServer/ns8-core 1 
 
--   **[Edit generic S3 and Azure support with password fields and validation](https://github.com/NethServer/ns8-core/pull/866)** by *stephdl* - Reviewers: *andre8244* - Created at: 2025-04-17T12:55:41Z
+-   **[Improve podman image retrieval and removal logic](https://github.com/NethServer/ns8-core/pull/867)** by *stephdl* - Reviewers: *DavidePrincipi* - Created at: 2025-04-18T12:55:52Z
 
-### NethServer/nethsecurity 1 
+### NethServer/nethsecurity 2 
 
+-   **[implementing sudo mode](https://github.com/NethServer/nethsecurity/pull/1184)** by *Tbaile* - Reviewers: *cotosso* - Created at: 2025-04-18T12:36:21Z
 - :eyes: :zzz: **[High availability stack](https://github.com/NethServer/nethsecurity/pull/871)** by *gsanchietti* - Reviewers: *None* - Created at: 2024-10-23T15:36:11Z
 
 ### NethServer/ns8-nethsecurity-controller 1 
@@ -21,14 +22,9 @@ date = 2025-04-18
 
 -   **[Update nethvoice_proxy.rst](https://github.com/NethServer/ns8-docs/pull/157)** by *viktec* - Reviewers: *andrea-marchionni* - Created at: 2025-04-10T17:06:20Z
 
-### NethServer/nethsecurity-ui 2 
+### NethServer/nethsecurity-ui 1 
 
--   **[fix(ssh): configure only main dropbear server](https://github.com/NethServer/nethsecurity-ui/pull/533)** by *gsanchietti* - Reviewers: *Tbaile* - Created at: 2025-04-17T07:36:06Z
--   **[feat: sudo mode](https://github.com/NethServer/nethsecurity-ui/pull/528)** by *Tbaile* - Reviewers: *andre8244* - Created at: 2025-04-14T10:30:42Z
-
-### NethServer/nethsecurity-api 1 
-
--   **[feat: support for sudo mode](https://github.com/NethServer/nethsecurity-api/pull/16)** by *Tbaile* - Reviewers: *gsanchietti* - Created at: 2025-04-14T13:14:43Z
+- :eyes:  **[fix(ssh): configure only main dropbear server](https://github.com/NethServer/nethsecurity-ui/pull/533)** by *gsanchietti* - Reviewers: *None* - Created at: 2025-04-17T07:36:06Z
 
 ### NethServer/nethsecurity-docs 3 
 
@@ -51,8 +47,9 @@ date = 2025-04-18
 -   **[Add WiC VoIP and modify WiC -> WiC SIP](https://github.com/nethesis/ns8-nethvoice/pull/411)** by *andrea-marchionni* - Reviewers: *Stell0* - Created at: 2025-03-21T16:12:13Z
 -  :zzz: **[refactor: restart all services on configure](https://github.com/nethesis/ns8-nethvoice/pull/406)** by *Amygos* - Reviewers: *Stell0* - Created at: 2025-03-18T09:38:32Z
 
-### nethesis/ns8-nethvoice-proxy 2 
+### nethesis/ns8-nethvoice-proxy 3 
 
+- :eyes:  **[Add backup and restore procedure](https://github.com/nethesis/ns8-nethvoice-proxy/pull/62)** by *Amygos* - Reviewers: *None* - Created at: 2025-04-18T09:14:07Z
 -   **[fix(remove-trunk): correct dialplan match](https://github.com/nethesis/ns8-nethvoice-proxy/pull/61)** by *Amygos* - Reviewers: *Stell0* - Created at: 2025-04-09T11:05:22Z
 - :eyes: :zzz: **[Remove Route header handling for inbound packets](https://github.com/nethesis/ns8-nethvoice-proxy/pull/49)** by *Amygos* - Reviewers: *None* - Created at: 2024-12-06T15:26:49Z
 

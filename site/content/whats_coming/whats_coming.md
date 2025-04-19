@@ -2,7 +2,7 @@
 
 title = 'To be released soon'
 
-date = 2025-04-18
+date = 2025-04-19
 
 +++
 
@@ -11,6 +11,10 @@ date = 2025-04-18
 - [Compatibility check in add-node](https://github.com/NethServer/dev/issues/7376) (#7319) by DavidePrincipi (Created: 2025-04-03T11:02:39Z, Updated: 2025-04-15T14:45:04Z)
 
 - [Task progress lost and timeout during migration](https://github.com/NethServer/dev/issues/7319) (#7319) by DavidePrincipi (Created: 2025-02-17T08:25:05Z, Updated: 2025-04-16T07:54:27Z)
+
+### NethVoice
+
+- [NethVoice CTI: privacy settings are not applied](https://github.com/NethServer/dev/issues/7363) (#7319) by margit86 (Created: 2025-03-26T16:09:06Z, Updated: 2025-04-18T07:45:32Z)
 
 ### NethSecurity
 
