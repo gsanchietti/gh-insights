@@ -1,6 +1,6 @@
 +++
 title = 'Open Pull Requests by Bots'
-date = 2025-04-19
+date = 2025-04-20
 +++
 
 ## Organization: nethserver
@@ -148,7 +148,7 @@ date = 2025-04-19
 ### NethServer/ns8-crowdsec 4 
 
 - :eyes:  **[Translations update from Hosted Weblate](https://github.com/NethServer/ns8-crowdsec/pull/71)** by *weblate* - Reviewers: *None* - Created at: 2025-03-28T10:23:35Z
-- :eyes:  **[chore(deps): update crowdsecurity/crowdsec docker tag to v1.6.8](https://github.com/NethServer/ns8-crowdsec/pull/70)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-03-20T12:14:25Z
+- :eyes: :zzz: **[chore(deps): update crowdsecurity/crowdsec docker tag to v1.6.8](https://github.com/NethServer/ns8-crowdsec/pull/70)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-03-20T12:14:25Z
 - :eyes: :zzz: **[chore(deps): update alpine docker tag to v3.21.3](https://github.com/NethServer/ns8-crowdsec/pull/69)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-02-14T22:00:49Z
 - :eyes: :zzz: **[chore(deps): update ghcr.io/marketsquare/robotframework-browser/rfbrowser-stable docker tag to v19.4.0](https://github.com/NethServer/ns8-crowdsec/pull/63)** by *renovate[bot]* - Reviewers: *None* - Created at: 2024-12-20T22:49:56Z
 
@@ -161,8 +161,9 @@ date = 2025-04-19
 - :eyes:  **[Translations update from Hosted Weblate](https://github.com/NethServer/ns8-imapsync/pull/52)** by *weblate* - Reviewers: *None* - Created at: 2025-04-04T11:02:47Z
 - :eyes: :zzz: **[chore(deps): update ghcr.io/marketsquare/robotframework-browser/rfbrowser-stable docker tag to v19.4.0](https://github.com/NethServer/ns8-imapsync/pull/36)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-01-26T16:23:25Z
 
-### NethServer/ns8-sogo 4 
+### NethServer/ns8-sogo 5 
 
+- :eyes:  **[chore(deps): update mcr.microsoft.com/devcontainers/javascript-node docker tag to v1](https://github.com/NethServer/ns8-sogo/pull/35)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-04-19T19:33:38Z
 - :eyes:  **[chore(deps): update mariadb docker tag to v11](https://github.com/NethServer/ns8-sogo/pull/34)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-04-18T23:46:47Z
 - :eyes:  **[chore(deps): update ghcr.io/marketsquare/robotframework-browser/rfbrowser-stable docker tag to v19](https://github.com/NethServer/ns8-sogo/pull/33)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-04-18T23:46:44Z
 - :eyes:  **[chore(deps): update ghcr.io/marketsquare/robotframework-browser/rfbrowser-stable docker tag to v10.1.0](https://github.com/NethServer/ns8-sogo/pull/32)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-04-14T07:48:57Z
