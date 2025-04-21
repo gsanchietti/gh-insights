@@ -1,6 +1,6 @@
 +++
 title = 'Open Pull Requests by Bots'
-date = 2025-04-20
+date = 2025-04-21
 +++
 
 ## Organization: nethserver
@@ -88,8 +88,11 @@ date = 2025-04-20
 - :eyes:  **[build(deps): Update ns-ui package (automated)](https://github.com/NethServer/nethsecurity/pull/1185)** by *github-actions[bot]* - Reviewers: *None* - Created at: 2025-04-19T01:46:43Z
 - :eyes: :zzz: **[chore: bump ns packages (automatic)](https://github.com/NethServer/nethsecurity/pull/1071)** by *github-actions[bot]* - Reviewers: *None* - Created at: 2025-02-10T15:48:19Z
 
-### NethServer/nethsecurity-controller 4 
+### NethServer/nethsecurity-controller 7 
 
+- :eyes:  **[chore(deps): update dependency nethserver/nethsecurity-ui to v1.23.0](https://github.com/NethServer/nethsecurity-controller/pull/110)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-04-21T03:07:37Z
+- :eyes:  **[fix(deps): update module github.com/mattn/go-sqlite3 to v1.14.28](https://github.com/NethServer/nethsecurity-controller/pull/109)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-04-21T03:07:32Z
+- :eyes:  **[chore(deps): update docker.io/traefik docker tag to v2.11.24](https://github.com/NethServer/nethsecurity-controller/pull/108)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-04-21T03:07:07Z
 - :eyes:  **[chore(deps): update docker/build-push-action action to v6](https://github.com/NethServer/nethsecurity-controller/pull/106)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-04-07T03:31:11Z
 - :eyes:  **[chore(deps): update docker.io/traefik docker tag to v3](https://github.com/NethServer/nethsecurity-controller/pull/95)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-03-31T03:07:13Z
 - :eyes:  **[chore(deps): update docker.io/alpine docker tag to v3.21.3](https://github.com/NethServer/nethsecurity-controller/pull/92)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-03-25T09:07:13Z
@@ -217,7 +220,7 @@ date = 2025-04-20
 
 ### nethesis/tancredi 1 
 
-- :eyes:  **[Bump nokogiri from 1.16.5 to 1.18.4 in /docs](https://github.com/nethesis/tancredi/pull/310)** by *dependabot[bot]* - Reviewers: *None* - Created at: 2025-03-21T23:13:31Z
+- :eyes: :zzz: **[Bump nokogiri from 1.16.5 to 1.18.4 in /docs](https://github.com/nethesis/tancredi/pull/310)** by *dependabot[bot]* - Reviewers: *None* - Created at: 2025-03-21T23:13:31Z
 
 ### nethesis/nethvoice-report 1 
 

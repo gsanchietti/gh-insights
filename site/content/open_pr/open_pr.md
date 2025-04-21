@@ -1,6 +1,6 @@
 +++
 title = 'Open Pull Requests'
-date = 2025-04-20
+date = 2025-04-21
 +++
 
 ## Organization: nethserver
@@ -44,7 +44,7 @@ date = 2025-04-20
 
 ### nethesis/ns8-nethvoice 2 
 
--   **[Add WiC VoIP and modify WiC -> WiC SIP](https://github.com/nethesis/ns8-nethvoice/pull/411)** by *andrea-marchionni* - Reviewers: *Stell0* - Created at: 2025-03-21T16:12:13Z
+-  :zzz: **[Add WiC VoIP and modify WiC -> WiC SIP](https://github.com/nethesis/ns8-nethvoice/pull/411)** by *andrea-marchionni* - Reviewers: *Stell0* - Created at: 2025-03-21T16:12:13Z
 -  :zzz: **[refactor: restart all services on configure](https://github.com/nethesis/ns8-nethvoice/pull/406)** by *Amygos* - Reviewers: *Stell0* - Created at: 2025-03-18T09:38:32Z
 
 ### nethesis/ns8-nethvoice-proxy 3 
