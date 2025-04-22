@@ -1,6 +1,6 @@
 +++
 title = 'Open Pull Requests by Bots'
-date = 2025-04-21
+date = 2025-04-22
 +++
 
 ## Organization: nethserver
@@ -40,8 +40,9 @@ date = 2025-04-21
 -  :zzz: **[chore(deps): update ghcr.io/marketsquare/robotframework-browser/rfbrowser-stable docker tag to v19](https://github.com/NethServer/ns8-webserver/pull/83)** by *renovate[bot]* - Reviewers: *stephdl* - Created at: 2024-11-27T11:53:06Z
 -  :zzz: **[chore(deps): update ghcr.io/marketsquare/robotframework-browser/rfbrowser-stable docker tag to v10.1.0](https://github.com/NethServer/ns8-webserver/pull/76)** by *renovate[bot]* - Reviewers: *stephdl* - Created at: 2024-10-17T13:08:31Z
 
-### NethServer/ns8-nextcloud 1 
+### NethServer/ns8-nextcloud 2 
 
+- :eyes:  **[chore(deps): update docker.io/library/nextcloud docker tag to v30.0.10](https://github.com/NethServer/ns8-nextcloud/pull/140)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-04-22T03:49:55Z
 - :eyes: :zzz: **[chore(deps): update ghcr.io/marketsquare/robotframework-browser/rfbrowser-stable docker tag to v19.4.0](https://github.com/NethServer/ns8-nextcloud/pull/132)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-01-26T17:42:49Z
 
 ### NethServer/ns8-minio 1 
@@ -88,11 +89,9 @@ date = 2025-04-21
 - :eyes:  **[build(deps): Update ns-ui package (automated)](https://github.com/NethServer/nethsecurity/pull/1185)** by *github-actions[bot]* - Reviewers: *None* - Created at: 2025-04-19T01:46:43Z
 - :eyes: :zzz: **[chore: bump ns packages (automatic)](https://github.com/NethServer/nethsecurity/pull/1071)** by *github-actions[bot]* - Reviewers: *None* - Created at: 2025-02-10T15:48:19Z
 
-### NethServer/nethsecurity-controller 7 
+### NethServer/nethsecurity-controller 5 
 
 - :eyes:  **[chore(deps): update dependency nethserver/nethsecurity-ui to v1.23.0](https://github.com/NethServer/nethsecurity-controller/pull/110)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-04-21T03:07:37Z
-- :eyes:  **[fix(deps): update module github.com/mattn/go-sqlite3 to v1.14.28](https://github.com/NethServer/nethsecurity-controller/pull/109)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-04-21T03:07:32Z
-- :eyes:  **[chore(deps): update docker.io/traefik docker tag to v2.11.24](https://github.com/NethServer/nethsecurity-controller/pull/108)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-04-21T03:07:07Z
 - :eyes:  **[chore(deps): update docker/build-push-action action to v6](https://github.com/NethServer/nethsecurity-controller/pull/106)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-04-07T03:31:11Z
 - :eyes:  **[chore(deps): update docker.io/traefik docker tag to v3](https://github.com/NethServer/nethsecurity-controller/pull/95)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-03-31T03:07:13Z
 - :eyes:  **[chore(deps): update docker.io/alpine docker tag to v3.21.3](https://github.com/NethServer/nethsecurity-controller/pull/92)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-03-25T09:07:13Z
@@ -220,7 +219,7 @@ date = 2025-04-21
 
 ### nethesis/tancredi 1 
 
-- :eyes: :zzz: **[Bump nokogiri from 1.16.5 to 1.18.4 in /docs](https://github.com/nethesis/tancredi/pull/310)** by *dependabot[bot]* - Reviewers: *None* - Created at: 2025-03-21T23:13:31Z
+- :eyes:  **[Bump nokogiri from 1.16.5 to 1.18.8 in /docs](https://github.com/nethesis/tancredi/pull/313)** by *dependabot[bot]* - Reviewers: *None* - Created at: 2025-04-22T04:13:05Z
 
 ### nethesis/nethvoice-report 1 
 
