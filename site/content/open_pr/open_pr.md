@@ -1,6 +1,6 @@
 +++
 title = 'Open Pull Requests'
-date = 2025-04-22
+date = 2025-04-23
 +++
 
 ## Organization: nethserver
@@ -18,6 +18,10 @@ date = 2025-04-22
 
 -  :zzz: **[Fix traffic by hour histogram](https://github.com/NethServer/ns8-nethsecurity-controller/pull/78)** by *cotosso* - Reviewers: *gsanchietti* - Created at: 2025-03-04T18:04:21Z
 
+### NethServer/ns8-crowdsec 1 
+
+- :eyes:  **[Refactor whitelisting to support only FQDN for Crowdsec 1.6.8](https://github.com/NethServer/ns8-crowdsec/pull/74)** by *stephdl* - Reviewers: *None* - Created at: 2025-04-22T15:18:53Z
+
 ### NethServer/ns8-docs 1 
 
 -   **[Update nethvoice_proxy.rst](https://github.com/NethServer/ns8-docs/pull/157)** by *viktec* - Reviewers: *andrea-marchionni* - Created at: 2025-04-10T17:06:20Z
@@ -31,6 +35,10 @@ date = 2025-04-22
 -   **[feat(backup): encryption alert](https://github.com/NethServer/nethsecurity-docs/pull/162)** by *gsanchietti* - Reviewers: *filippocarletti, cotosso* - Created at: 2025-04-16T13:52:29Z
 -   **[fix(port forward): explain any protocol, add gre](https://github.com/NethServer/nethsecurity-docs/pull/161)** by *gsanchietti* - Reviewers: *cotosso* - Created at: 2025-04-16T13:03:49Z
 -   **[feat(dhcp): non-standard custom options](https://github.com/NethServer/nethsecurity-docs/pull/160)** by *gsanchietti* - Reviewers: *cotosso* - Created at: 2025-04-15T14:49:53Z
+
+### NethServer/ns8-sogo 1 
+
+- :eyes:  **[Update Sogo version to 5.12.0 in build images](https://github.com/NethServer/ns8-sogo/pull/36)** by *stephdl* - Reviewers: *None* - Created at: 2025-04-22T09:21:49Z
 
 ## Organization: nethesis
 
