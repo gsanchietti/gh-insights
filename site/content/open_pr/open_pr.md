@@ -1,13 +1,13 @@
 +++
 title = 'Open Pull Requests'
-date = 2025-04-23
+date = 2025-04-24
 +++
 
 ## Organization: nethserver
 
 ### NethServer/ns8-core 1 
 
--   **[Improve podman image retrieval and removal logic](https://github.com/NethServer/ns8-core/pull/867)** by *stephdl* - Reviewers: *DavidePrincipi* - Created at: 2025-04-18T12:55:52Z
+- :eyes:  **[Improve podman image retrieval and removal logic](https://github.com/NethServer/ns8-core/pull/867)** by *stephdl* - Reviewers: *None* - Created at: 2025-04-18T12:55:52Z
 
 ### NethServer/nethsecurity 2 
 
@@ -18,9 +18,13 @@ date = 2025-04-23
 
 -  :zzz: **[Fix traffic by hour histogram](https://github.com/NethServer/ns8-nethsecurity-controller/pull/78)** by *cotosso* - Reviewers: *gsanchietti* - Created at: 2025-03-04T18:04:21Z
 
+### NethServer/python3-nethsec 1 
+
+-   **[feat(inventory): add ha statistics](https://github.com/NethServer/python3-nethsec/pull/98)** by *gsanchietti* - Reviewers: *Tbaile* - Created at: 2025-04-23T12:43:17Z
+
 ### NethServer/ns8-crowdsec 1 
 
-- :eyes:  **[Refactor whitelisting to support only FQDN for Crowdsec 1.6.8](https://github.com/NethServer/ns8-crowdsec/pull/74)** by *stephdl* - Reviewers: *None* - Created at: 2025-04-22T15:18:53Z
+-   **[Refactor whitelisting to support centralized_allowlists for Crowdsec 1.6.8](https://github.com/NethServer/ns8-crowdsec/pull/74)** by *stephdl* - Reviewers: *DavidePrincipi* - Created at: 2025-04-22T15:18:53Z
 
 ### NethServer/ns8-docs 1 
 
@@ -28,17 +32,13 @@ date = 2025-04-23
 
 ### NethServer/nethsecurity-ui 1 
 
-- :eyes:  **[fix(ssh): configure only main dropbear server](https://github.com/NethServer/nethsecurity-ui/pull/533)** by *gsanchietti* - Reviewers: *None* - Created at: 2025-04-17T07:36:06Z
+-   **[HA: fix SSH and add dashboard card](https://github.com/NethServer/nethsecurity-ui/pull/533)** by *gsanchietti* - Reviewers: *Tbaile* - Created at: 2025-04-17T07:36:06Z
 
 ### NethServer/nethsecurity-docs 3 
 
 -   **[feat(backup): encryption alert](https://github.com/NethServer/nethsecurity-docs/pull/162)** by *gsanchietti* - Reviewers: *filippocarletti, cotosso* - Created at: 2025-04-16T13:52:29Z
 -   **[fix(port forward): explain any protocol, add gre](https://github.com/NethServer/nethsecurity-docs/pull/161)** by *gsanchietti* - Reviewers: *cotosso* - Created at: 2025-04-16T13:03:49Z
 -   **[feat(dhcp): non-standard custom options](https://github.com/NethServer/nethsecurity-docs/pull/160)** by *gsanchietti* - Reviewers: *cotosso* - Created at: 2025-04-15T14:49:53Z
-
-### NethServer/ns8-sogo 1 
-
-- :eyes:  **[Update Sogo version to 5.12.0 in build images](https://github.com/NethServer/ns8-sogo/pull/36)** by *stephdl* - Reviewers: *None* - Created at: 2025-04-22T09:21:49Z
 
 ## Organization: nethesis
 
