@@ -1,18 +1,19 @@
 +++
 title = 'Open Pull Requests'
-date = 2025-04-24
+date = 2025-04-25
 +++
 
 ## Organization: nethserver
 
-### NethServer/ns8-core 1 
+### NethServer/ns8-core 2 
 
+-   **[Add script to clean up all restic images in NethServer modules](https://github.com/NethServer/ns8-core/pull/869)** by *stephdl* - Reviewers: *DavidePrincipi* - Created at: 2025-04-24T13:24:56Z
 - :eyes:  **[Improve podman image retrieval and removal logic](https://github.com/NethServer/ns8-core/pull/867)** by *stephdl* - Reviewers: *None* - Created at: 2025-04-18T12:55:52Z
 
 ### NethServer/nethsecurity 2 
 
 -   **[implementing sudo mode](https://github.com/NethServer/nethsecurity/pull/1184)** by *Tbaile* - Reviewers: *cotosso* - Created at: 2025-04-18T12:36:21Z
-- :eyes: :zzz: **[High availability stack](https://github.com/NethServer/nethsecurity/pull/871)** by *gsanchietti* - Reviewers: *None* - Created at: 2024-10-23T15:36:11Z
+-  :zzz: **[High availability stack](https://github.com/NethServer/nethsecurity/pull/871)** by *gsanchietti* - Reviewers: *filippocarletti, Tbaile* - Created at: 2024-10-23T15:36:11Z
 
 ### NethServer/ns8-nethsecurity-controller 1 
 
@@ -22,10 +23,6 @@ date = 2025-04-24
 
 -   **[feat(inventory): add ha statistics](https://github.com/NethServer/python3-nethsec/pull/98)** by *gsanchietti* - Reviewers: *Tbaile* - Created at: 2025-04-23T12:43:17Z
 
-### NethServer/ns8-crowdsec 1 
-
--   **[Refactor whitelisting to support centralized_allowlists for Crowdsec 1.6.8](https://github.com/NethServer/ns8-crowdsec/pull/74)** by *stephdl* - Reviewers: *DavidePrincipi* - Created at: 2025-04-22T15:18:53Z
-
 ### NethServer/ns8-docs 1 
 
 -   **[Update nethvoice_proxy.rst](https://github.com/NethServer/ns8-docs/pull/157)** by *viktec* - Reviewers: *andrea-marchionni* - Created at: 2025-04-10T17:06:20Z
@@ -34,8 +31,9 @@ date = 2025-04-24
 
 -   **[HA: fix SSH and add dashboard card](https://github.com/NethServer/nethsecurity-ui/pull/533)** by *gsanchietti* - Reviewers: *Tbaile* - Created at: 2025-04-17T07:36:06Z
 
-### NethServer/nethsecurity-docs 3 
+### NethServer/nethsecurity-docs 4 
 
+-   **[feat: add high availability](https://github.com/NethServer/nethsecurity-docs/pull/163)** by *gsanchietti* - Reviewers: *filippocarletti, cotosso* - Created at: 2025-04-24T09:54:19Z
 -   **[feat(backup): encryption alert](https://github.com/NethServer/nethsecurity-docs/pull/162)** by *gsanchietti* - Reviewers: *filippocarletti, cotosso* - Created at: 2025-04-16T13:52:29Z
 -   **[fix(port forward): explain any protocol, add gre](https://github.com/NethServer/nethsecurity-docs/pull/161)** by *gsanchietti* - Reviewers: *cotosso* - Created at: 2025-04-16T13:03:49Z
 -   **[feat(dhcp): non-standard custom options](https://github.com/NethServer/nethsecurity-docs/pull/160)** by *gsanchietti* - Reviewers: *cotosso* - Created at: 2025-04-15T14:49:53Z
