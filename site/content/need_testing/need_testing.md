@@ -1,6 +1,6 @@
 +++
 title = 'Need testing (20)'
-date = 2025-04-25
+date = 2025-04-26
 +++
 
 ## NethServer
@@ -26,8 +26,8 @@ date = 2025-04-25
 - **[Upgrade MariaDB to 10.11.11 and phpMyAdmin to 5.2.2](https://github.com/NethServer/dev/issues/7419)** (#7050) by *stephdl* (Created: 2025-04-22, Updated: 2025-04-22T13:35:25Z)
 
 ## NethSecurity
-- :point_right: **[WAN monitoring doesn't show IPs correctly](https://github.com/NethServer/nethsecurity/issues/1175)** (#1119) by *Tbaile* (Created: 2025-04-15, Updated: 2025-04-16T14:07:57Z)
+- :point_right: **[WAN monitoring doesn't show IPs correctly](https://github.com/NethServer/nethsecurity/issues/1175)** (#1119) by *Tbaile* (Created: 2025-04-15, Updated: 2025-04-25T09:48:26Z)
 - :point_right: **[snort: disabled rules are not applied until next rule download](https://github.com/NethServer/nethsecurity/issues/1165)** (#1119) by *filippocarletti* (Created: 2025-04-09, Updated: 2025-04-16T13:23:31Z)
-- :point_right: **[Certificate deletion returns error if it's still being used](https://github.com/NethServer/nethsecurity/issues/1156)** (#1119) by *Tbaile* (Created: 2025-04-07, Updated: 2025-04-16T13:23:59Z)
+- :point_right: **[Certificate deletion returns error if it's still being used](https://github.com/NethServer/nethsecurity/issues/1156)** (#1119) by *Tbaile* (Created: 2025-04-07, Updated: 2025-04-25T09:11:21Z)
 - :point_right: **[backups: send alarms to my.nethesis.it when missing passphrase](https://github.com/NethServer/nethsecurity/issues/1119)** (#1119) by *Tbaile* (Created: 2025-03-12, Updated: 2025-04-16T13:54:26Z)
 

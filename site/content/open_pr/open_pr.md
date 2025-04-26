@@ -1,6 +1,6 @@
 +++
 title = 'Open Pull Requests'
-date = 2025-04-25
+date = 2025-04-26
 +++
 
 ## Organization: nethserver
@@ -27,8 +27,9 @@ date = 2025-04-25
 
 -   **[Update nethvoice_proxy.rst](https://github.com/NethServer/ns8-docs/pull/157)** by *viktec* - Reviewers: *andrea-marchionni* - Created at: 2025-04-10T17:06:20Z
 
-### NethServer/nethsecurity-ui 1 
+### NethServer/nethsecurity-ui 2 
 
+- :eyes:  **[feat(dhcp-lease): sorting functionality, column reordering](https://github.com/NethServer/nethsecurity-ui/pull/535)** by *stephdl* - Reviewers: *None* - Created at: 2025-04-25T13:34:33Z
 -   **[HA: fix SSH and add dashboard card](https://github.com/NethServer/nethsecurity-ui/pull/533)** by *gsanchietti* - Reviewers: *Tbaile* - Created at: 2025-04-17T07:36:06Z
 
 ### NethServer/nethsecurity-docs 4 
