@@ -1,19 +1,22 @@
 +++
 title = 'Open Pull Requests'
-date = 2025-04-28
+date = 2025-04-29
 +++
 
 ## Organization: nethserver
 
-### NethServer/ns8-core 2 
+### NethServer/ns8-core 1 
 
--   **[Add script to clean up all restic images in NethServer modules](https://github.com/NethServer/ns8-core/pull/869)** by *stephdl* - Reviewers: *DavidePrincipi* - Created at: 2025-04-24T13:24:56Z
-- :eyes:  **[Improve podman image retrieval and removal logic](https://github.com/NethServer/ns8-core/pull/867)** by *stephdl* - Reviewers: *None* - Created at: 2025-04-18T12:55:52Z
+-   **[Fix Alloy configuration](https://github.com/NethServer/ns8-core/pull/870)** by *DavidePrincipi* - Reviewers: *gsanchietti* - Created at: 2025-04-28T16:04:28Z
 
 ### NethServer/nethsecurity 2 
 
--   **[implementing sudo mode](https://github.com/NethServer/nethsecurity/pull/1184)** by *Tbaile* - Reviewers: *cotosso* - Created at: 2025-04-18T12:36:21Z
+- :eyes:  **[feat(ns-api): added wizard api](https://github.com/NethServer/nethsecurity/pull/1189)** by *Tbaile* - Reviewers: *None* - Created at: 2025-04-28T09:34:28Z
 -  :zzz: **[High availability stack](https://github.com/NethServer/nethsecurity/pull/871)** by *gsanchietti* - Reviewers: *filippocarletti, Tbaile* - Created at: 2024-10-23T15:36:11Z
+
+### NethServer/ns8-mail 1 
+
+-   **[fix(import-module): Shared seen index migration](https://github.com/NethServer/ns8-mail/pull/178)** by *DavidePrincipi* - Reviewers: *stephdl* - Created at: 2025-04-28T16:27:15Z
 
 ### NethServer/ns8-nethsecurity-controller 1 
 
@@ -21,15 +24,16 @@ date = 2025-04-28
 
 ### NethServer/python3-nethsec 1 
 
--   **[feat(inventory): add ha statistics](https://github.com/NethServer/python3-nethsec/pull/98)** by *gsanchietti* - Reviewers: *Tbaile* - Created at: 2025-04-23T12:43:17Z
+- :eyes:  **[feat(inventory): add ha statistics](https://github.com/NethServer/python3-nethsec/pull/98)** by *gsanchietti* - Reviewers: *None* - Created at: 2025-04-23T12:43:17Z
 
 ### NethServer/ns8-docs 1 
 
 -   **[Update nethvoice_proxy.rst](https://github.com/NethServer/ns8-docs/pull/157)** by *viktec* - Reviewers: *andrea-marchionni* - Created at: 2025-04-10T17:06:20Z
 
-### NethServer/nethsecurity-ui 2 
+### NethServer/nethsecurity-ui 3 
 
-- :eyes:  **[feat(dhcp-lease): sorting functionality, column reordering](https://github.com/NethServer/nethsecurity-ui/pull/535)** by *stephdl* - Reviewers: *None* - Created at: 2025-04-25T13:34:33Z
+-   **[feat (dns_dhcp)Enhance filtering and sorting by device](https://github.com/NethServer/nethsecurity-ui/pull/537)** by *stephdl* - Reviewers: *Tbaile* - Created at: 2025-04-28T14:50:25Z
+- :eyes:  **[chore(main): release 1.24.0](https://github.com/NethServer/nethsecurity-ui/pull/536)** by *Tbaile* - Reviewers: *None* - Created at: 2025-04-28T13:05:57Z
 -   **[HA: fix SSH and add dashboard card](https://github.com/NethServer/nethsecurity-ui/pull/533)** by *gsanchietti* - Reviewers: *Tbaile* - Created at: 2025-04-17T07:36:06Z
 
 ### NethServer/nethsecurity-docs 4 
@@ -38,6 +42,10 @@ date = 2025-04-28
 -   **[feat(backup): encryption alert](https://github.com/NethServer/nethsecurity-docs/pull/162)** by *gsanchietti* - Reviewers: *filippocarletti, cotosso* - Created at: 2025-04-16T13:52:29Z
 -   **[fix(port forward): explain any protocol, add gre](https://github.com/NethServer/nethsecurity-docs/pull/161)** by *gsanchietti* - Reviewers: *cotosso* - Created at: 2025-04-16T13:03:49Z
 -   **[feat(dhcp): non-standard custom options](https://github.com/NethServer/nethsecurity-docs/pull/160)** by *gsanchietti* - Reviewers: *cotosso* - Created at: 2025-04-15T14:49:53Z
+
+### NethServer/nethlink 1 
+
+- :eyes:  **[chore(dep): update phone-island](https://github.com/NethServer/nethlink/pull/62)** by *tonyco97* - Reviewers: *None* - Created at: 2025-04-28T10:25:17Z
 
 ## Organization: nethesis
 

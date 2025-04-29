@@ -1,6 +1,6 @@
 +++
 title = 'Open Pull Requests by Bots'
-date = 2025-04-28
+date = 2025-04-29
 +++
 
 ## Organization: nethserver
@@ -87,10 +87,8 @@ date = 2025-04-28
 - :eyes: :zzz: **[chore(deps): update node.js to v18.20.8](https://github.com/NethServer/ns8-grafana/pull/33)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-03-27T19:39:47Z
 - :eyes: :zzz: **[chore(deps): update ghcr.io/marketsquare/robotframework-browser/rfbrowser-stable docker tag to v19.4.0](https://github.com/NethServer/ns8-grafana/pull/26)** by *renovate[bot]* - Reviewers: *None* - Created at: 2024-12-20T22:05:46Z
 
-### NethServer/nethsecurity 3 
+### NethServer/nethsecurity 1 
 
-- :eyes:  **[build(deps): Update ns-api-server package (automated)](https://github.com/NethServer/nethsecurity/pull/1186)** by *github-actions[bot]* - Reviewers: *None* - Created at: 2025-04-19T01:47:27Z
-- :eyes:  **[build(deps): Update ns-ui package (automated)](https://github.com/NethServer/nethsecurity/pull/1185)** by *github-actions[bot]* - Reviewers: *None* - Created at: 2025-04-19T01:46:43Z
 - :eyes: :zzz: **[chore: bump ns packages (automatic)](https://github.com/NethServer/nethsecurity/pull/1071)** by *github-actions[bot]* - Reviewers: *None* - Created at: 2025-02-10T15:48:19Z
 
 ### NethServer/nethsecurity-controller 5 
@@ -122,8 +120,9 @@ date = 2025-04-28
 
 - :eyes:  **[Translations update from Hosted Weblate](https://github.com/NethServer/ns8-collabora/pull/40)** by *weblate* - Reviewers: *None* - Created at: 2025-04-23T20:02:12Z
 
-### NethServer/ns8-webtop 6 
+### NethServer/ns8-webtop 7 
 
+-   **[Update to upstream release wt-5.28.1](https://github.com/NethServer/ns8-webtop/pull/117)** by *nethbot* - Reviewers: *gsanchietti* - Created at: 2025-04-28T12:39:00Z
 - :eyes:  **[Translations update from Hosted Weblate](https://github.com/NethServer/ns8-webtop/pull/113)** by *weblate* - Reviewers: *None* - Created at: 2025-04-11T12:06:14Z
 - :eyes: :zzz: **[chore(deps): update ghcr.io/marketsquare/robotframework-browser/rfbrowser-stable docker tag to v19.4.0](https://github.com/NethServer/ns8-webtop/pull/99)** by *renovate[bot]* - Reviewers: *None* - Created at: 2024-12-19T16:40:00Z
 -  :zzz: **[chore(deps): update php docker tag to v8](https://github.com/NethServer/ns8-webtop/pull/75)** by *renovate[bot]* - Reviewers: *Amygos* - Created at: 2024-09-23T14:30:18Z
@@ -157,10 +156,6 @@ date = 2025-04-28
 - :eyes:  **[Translations update from Hosted Weblate](https://github.com/NethServer/ns8-imapsync/pull/52)** by *weblate* - Reviewers: *None* - Created at: 2025-04-04T11:02:47Z
 - :eyes: :zzz: **[chore(deps): update ghcr.io/marketsquare/robotframework-browser/rfbrowser-stable docker tag to v19.4.0](https://github.com/NethServer/ns8-imapsync/pull/36)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-01-26T16:23:25Z
 
-### NethServer/ns8-user-manager 1 
-
-- :eyes:  **[chore(deps): update node.js to v22.15.0](https://github.com/NethServer/ns8-user-manager/pull/81)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-04-23T08:01:28Z
-
 ### NethServer/ns8-sogo 5 
 
 - :eyes:  **[chore(deps): update mcr.microsoft.com/devcontainers/javascript-node docker tag to v1](https://github.com/NethServer/ns8-sogo/pull/35)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-04-19T19:33:38Z
@@ -169,9 +164,8 @@ date = 2025-04-28
 - :eyes:  **[chore(deps): update ghcr.io/marketsquare/robotframework-browser/rfbrowser-stable docker tag to v10.1.0](https://github.com/NethServer/ns8-sogo/pull/32)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-04-14T07:48:57Z
 - :eyes:  **[chore(deps): update mariadb docker tag to v10.11.11](https://github.com/NethServer/ns8-sogo/pull/31)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-04-14T07:48:54Z
 
-### NethServer/ns8-porthos 2 
+### NethServer/ns8-porthos 1 
 
-- :eyes:  **[chore(deps): update nginx docker tag to v1.28.0](https://github.com/NethServer/ns8-porthos/pull/7)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-04-01T07:14:40Z
 - :eyes:  **[chore(deps): update debian docker tag to v12.10](https://github.com/NethServer/ns8-porthos/pull/6)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-04-01T07:14:37Z
 
 ### NethServer/ns8-dnsmasq 1 
