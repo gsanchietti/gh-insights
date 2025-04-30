@@ -1,22 +1,20 @@
 +++
 title = 'Open Pull Requests'
-date = 2025-04-29
+date = 2025-04-30
 +++
 
 ## Organization: nethserver
 
-### NethServer/ns8-core 1 
+### NethServer/ns8-core 2 
 
+-   **[fix(switch-leader): hide UI notifications](https://github.com/NethServer/ns8-core/pull/872)** by *DavidePrincipi* - Reviewers: *gsanchietti* - Created at: 2025-04-29T14:43:42Z
 -   **[Fix Alloy configuration](https://github.com/NethServer/ns8-core/pull/870)** by *DavidePrincipi* - Reviewers: *gsanchietti* - Created at: 2025-04-28T16:04:28Z
 
-### NethServer/nethsecurity 2 
+### NethServer/nethsecurity 3 
 
+- :eyes:  **[feat(threatshield): active block list](https://github.com/NethServer/nethsecurity/pull/1190)** by *Tbaile* - Reviewers: *None* - Created at: 2025-04-29T08:26:41Z
 - :eyes:  **[feat(ns-api): added wizard api](https://github.com/NethServer/nethsecurity/pull/1189)** by *Tbaile* - Reviewers: *None* - Created at: 2025-04-28T09:34:28Z
 -  :zzz: **[High availability stack](https://github.com/NethServer/nethsecurity/pull/871)** by *gsanchietti* - Reviewers: *filippocarletti, Tbaile* - Created at: 2024-10-23T15:36:11Z
-
-### NethServer/ns8-mail 1 
-
--   **[fix(import-module): Shared seen index migration](https://github.com/NethServer/ns8-mail/pull/178)** by *DavidePrincipi* - Reviewers: *stephdl* - Created at: 2025-04-28T16:27:15Z
 
 ### NethServer/ns8-nethsecurity-controller 1 
 
@@ -48,6 +46,10 @@ date = 2025-04-29
 - :eyes:  **[chore(dep): update phone-island](https://github.com/NethServer/nethlink/pull/62)** by *tonyco97* - Reviewers: *None* - Created at: 2025-04-28T10:25:17Z
 
 ## Organization: nethesis
+
+### nethesis/icaro 1 
+
+- :eyes:  **[chore: remove instagram auth](https://github.com/nethesis/icaro/pull/198)** by *edospadoni* - Reviewers: *None* - Created at: 2025-04-29T14:08:54Z
 
 ### nethesis/nethcti-app-android 1 
 
