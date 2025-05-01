@@ -2,23 +2,13 @@
 
 title = 'To be released soon'
 
-date = 2025-04-30
+date = 2025-05-01
 
 +++
 
-### NethVoice
-
-- [NethVoice CTI: app QR‑code login fails](https://github.com/NethServer/dev/issues/7423) (#7050) by viktec (Created: 2025-04-22T14:21:33Z, Updated: 2025-04-28T13:14:01Z)
-
-- [NethLink: with physical phone transfer from NethCTI Operators panel does not work](https://github.com/NethServer/dev/issues/7403) (#7050) by mgarra (Created: 2025-04-11T15:33:32Z, Updated: 2025-04-28T13:48:51Z)
-
-- [NethVoice CTI (Phone-Island): webcam permission check fails when already in use](https://github.com/NethServer/dev/issues/7393) (#7050) by viktec (Created: 2025-04-08T14:13:04Z, Updated: 2025-04-28T13:57:38Z)
-
-- [NethVoice CTI: privacy settings are not applied](https://github.com/NethServer/dev/issues/7363) (#7050) by margit86 (Created: 2025-03-26T16:09:06Z, Updated: 2025-04-18T07:45:32Z)
-
-- [NethVoice CTI: with active DND SIP presence must be BUSY](https://github.com/NethServer/dev/issues/7050) (#7050) by andrea-marchionni (Created: 2024-10-03T16:04:17Z, Updated: 2025-04-28T11:13:48Z)
-
 ### NethServer
+
+- [The list of application images is empty](https://github.com/NethServer/dev/issues/7430) (#7050) by stephdl (Created: 2025-04-29T08:50:43Z, Updated: 2025-04-30T08:17:59Z)
 
 - [Loki restore with "Replace" flag fails](https://github.com/NethServer/dev/issues/7405) (#7050) by gsanchietti (Created: 2025-04-14T10:33:23Z, Updated: 2025-04-28T07:30:21Z)
 
@@ -33,6 +23,18 @@ date = 2025-04-30
 - [Compatibility check in add-node](https://github.com/NethServer/dev/issues/7376) (#7050) by DavidePrincipi (Created: 2025-04-03T11:02:39Z, Updated: 2025-04-15T14:45:04Z)
 
 - [Task progress lost and timeout during migration](https://github.com/NethServer/dev/issues/7319) (#7050) by DavidePrincipi (Created: 2025-02-17T08:25:05Z, Updated: 2025-04-16T07:54:27Z)
+
+### NethVoice
+
+- [NethVoice CTI: app QR‑code login fails](https://github.com/NethServer/dev/issues/7423) (#7050) by viktec (Created: 2025-04-22T14:21:33Z, Updated: 2025-04-28T13:14:01Z)
+
+- [NethLink: with physical phone transfer from NethCTI Operators panel does not work](https://github.com/NethServer/dev/issues/7403) (#7050) by mgarra (Created: 2025-04-11T15:33:32Z, Updated: 2025-04-28T13:48:51Z)
+
+- [NethVoice CTI (Phone-Island): webcam permission check fails when already in use](https://github.com/NethServer/dev/issues/7393) (#7050) by viktec (Created: 2025-04-08T14:13:04Z, Updated: 2025-04-28T13:57:38Z)
+
+- [NethVoice CTI: privacy settings are not applied](https://github.com/NethServer/dev/issues/7363) (#7050) by margit86 (Created: 2025-03-26T16:09:06Z, Updated: 2025-04-18T07:45:32Z)
+
+- [NethVoice CTI: with active DND SIP presence must be BUSY](https://github.com/NethServer/dev/issues/7050) (#7050) by andrea-marchionni (Created: 2024-10-03T16:04:17Z, Updated: 2025-04-28T11:13:48Z)
 
 ### NethSecurity
 

@@ -1,6 +1,6 @@
 +++
 title = 'Open Pull Requests'
-date = 2025-04-30
+date = 2025-05-01
 +++
 
 ## Organization: nethserver
@@ -10,10 +10,13 @@ date = 2025-04-30
 -   **[fix(switch-leader): hide UI notifications](https://github.com/NethServer/ns8-core/pull/872)** by *DavidePrincipi* - Reviewers: *gsanchietti* - Created at: 2025-04-29T14:43:42Z
 -   **[Fix Alloy configuration](https://github.com/NethServer/ns8-core/pull/870)** by *DavidePrincipi* - Reviewers: *gsanchietti* - Created at: 2025-04-28T16:04:28Z
 
-### NethServer/nethsecurity 3 
+### NethServer/nethsecurity 6 
 
+- :eyes:  **[keepalived readme changes](https://github.com/NethServer/nethsecurity/pull/1193)** by *cotosso* - Reviewers: *None* - Created at: 2025-04-30T13:29:30Z
+-   **[fix(ns-api): fixed import/export of ovpn tunnel](https://github.com/NethServer/nethsecurity/pull/1191)** by *Tbaile* - Reviewers: *gsanchietti* - Created at: 2025-04-30T06:54:03Z
 - :eyes:  **[feat(threatshield): active block list](https://github.com/NethServer/nethsecurity/pull/1190)** by *Tbaile* - Reviewers: *None* - Created at: 2025-04-29T08:26:41Z
 - :eyes:  **[feat(ns-api): added wizard api](https://github.com/NethServer/nethsecurity/pull/1189)** by *Tbaile* - Reviewers: *None* - Created at: 2025-04-28T09:34:28Z
+-   **[fix(ipsec): clients should retry indefinitely](https://github.com/NethServer/nethsecurity/pull/1182)** by *Tbaile* - Reviewers: *gsanchietti* - Created at: 2025-04-17T13:14:52Z
 -  :zzz: **[High availability stack](https://github.com/NethServer/nethsecurity/pull/871)** by *gsanchietti* - Reviewers: *filippocarletti, Tbaile* - Created at: 2024-10-23T15:36:11Z
 
 ### NethServer/ns8-nethsecurity-controller 1 
@@ -23,6 +26,10 @@ date = 2025-04-30
 ### NethServer/python3-nethsec 1 
 
 - :eyes:  **[feat(inventory): add ha statistics](https://github.com/NethServer/python3-nethsec/pull/98)** by *gsanchietti* - Reviewers: *None* - Created at: 2025-04-23T12:43:17Z
+
+### NethServer/ns8-piler 1 
+
+- :eyes:  **[Upgrade piler to 1.4.7](https://github.com/NethServer/ns8-piler/pull/32)** by *stephdl* - Reviewers: *None* - Created at: 2025-04-30T09:52:17Z
 
 ### NethServer/ns8-docs 1 
 
