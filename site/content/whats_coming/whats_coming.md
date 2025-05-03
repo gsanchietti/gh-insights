@@ -2,7 +2,7 @@
 
 title = 'To be released soon'
 
-date = 2025-05-02
+date = 2025-05-03
 
 +++
 
@@ -35,6 +35,10 @@ date = 2025-05-02
 - [NethVoice CTI: privacy settings are not applied](https://github.com/NethServer/dev/issues/7363) (#7050) by margit86 (Created: 2025-03-26T16:09:06Z, Updated: 2025-04-18T07:45:32Z)
 
 - [NethVoice CTI: with active DND SIP presence must be BUSY](https://github.com/NethServer/dev/issues/7050) (#7050) by andrea-marchionni (Created: 2024-10-03T16:04:17Z, Updated: 2025-04-28T11:13:48Z)
+
+### NoMilestone
+
+- [Upgrade MariaDB to 10.11.11 and phpMyAdmin to 5.2.2](https://github.com/NethServer/dev/issues/7419) (#7050) by stephdl (Created: 2025-04-22T13:23:40Z, Updated: 2025-05-02T09:56:56Z)
 
 ### NethSecurity
 
