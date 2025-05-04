@@ -1,6 +1,6 @@
 +++
 title = 'Open Pull Requests'
-date = 2025-05-03
+date = 2025-05-04
 +++
 
 ## Organization: nethserver
@@ -10,8 +10,9 @@ date = 2025-05-03
 -   **[fix(switch-leader): hide UI notifications](https://github.com/NethServer/ns8-core/pull/872)** by *DavidePrincipi* - Reviewers: *gsanchietti* - Created at: 2025-04-29T14:43:42Z
 -   **[Fix Alloy configuration](https://github.com/NethServer/ns8-core/pull/870)** by *DavidePrincipi* - Reviewers: *gsanchietti* - Created at: 2025-04-28T16:04:28Z
 
-### NethServer/nethsecurity 6 
+### NethServer/nethsecurity 7 
 
+- :eyes:  **[feat(conf): enable persistent /var](https://github.com/NethServer/nethsecurity/pull/1194)** by *filippocarletti* - Reviewers: *None* - Created at: 2025-05-03T06:51:54Z
 - :eyes:  **[keepalived readme changes](https://github.com/NethServer/nethsecurity/pull/1193)** by *cotosso* - Reviewers: *None* - Created at: 2025-04-30T13:29:30Z
 -   **[fix(ns-api): fixed import/export of ovpn tunnel](https://github.com/NethServer/nethsecurity/pull/1191)** by *Tbaile* - Reviewers: *gsanchietti* - Created at: 2025-04-30T06:54:03Z
 - :eyes:  **[feat(threatshield): active block list](https://github.com/NethServer/nethsecurity/pull/1190)** by *Tbaile* - Reviewers: *None* - Created at: 2025-04-29T08:26:41Z
