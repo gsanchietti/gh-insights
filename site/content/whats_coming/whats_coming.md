@@ -2,27 +2,9 @@
 
 title = 'To be released soon'
 
-date = 2025-05-05
+date = 2025-05-06
 
 +++
-
-### NethServer
-
-- [The list of application images is empty](https://github.com/NethServer/dev/issues/7430) (#7050) by stephdl (Created: 2025-04-29T08:50:43Z, Updated: 2025-04-30T08:17:59Z)
-
-- [Loki restore with "Replace" flag fails](https://github.com/NethServer/dev/issues/7405) (#7050) by gsanchietti (Created: 2025-04-14T10:33:23Z, Updated: 2025-04-28T07:30:21Z)
-
-- [Cannot change S3 backup destination name](https://github.com/NethServer/dev/issues/7397) (#7050) by DavidePrincipi (Created: 2025-04-09T15:21:31Z, Updated: 2025-04-28T07:06:20Z)
-
-- [ns8-core: cannot restore single-instance app](https://github.com/NethServer/dev/issues/7396) (#7050) by Amygos (Created: 2025-04-09T14:24:05Z, Updated: 2025-04-29T06:58:13Z)
-
-- [Waste of disk space due to stale Restic images](https://github.com/NethServer/dev/issues/7391) (#7050) by DavidePrincipi (Created: 2025-04-08T13:03:54Z, Updated: 2025-04-29T08:08:53Z)
-
-- [UI Email Notification missing success feedback](https://github.com/NethServer/dev/issues/7377) (#7050) by DavidePrincipi (Created: 2025-04-03T11:03:20Z, Updated: 2025-04-28T06:45:26Z)
-
-- [Compatibility check in add-node](https://github.com/NethServer/dev/issues/7376) (#7050) by DavidePrincipi (Created: 2025-04-03T11:02:39Z, Updated: 2025-04-15T14:45:04Z)
-
-- [Task progress lost and timeout during migration](https://github.com/NethServer/dev/issues/7319) (#7050) by DavidePrincipi (Created: 2025-02-17T08:25:05Z, Updated: 2025-04-16T07:54:27Z)
 
 ### NethVoice
 
@@ -36,13 +18,11 @@ date = 2025-05-05
 
 - [NethVoice CTI: with active DND SIP presence must be BUSY](https://github.com/NethServer/dev/issues/7050) (#7050) by andrea-marchionni (Created: 2024-10-03T16:04:17Z, Updated: 2025-04-28T11:13:48Z)
 
-### NoMilestone
-
-- [Upgrade MariaDB to 10.11.11 and phpMyAdmin to 5.2.2](https://github.com/NethServer/dev/issues/7419) (#7050) by stephdl (Created: 2025-04-22T13:23:40Z, Updated: 2025-05-02T09:56:56Z)
-
 ### NethSecurity
 
 - [WAN monitoring doesn't show IPs correctly](https://github.com/NethServer/nethsecurity/issues/1175) (#1069) by Tbaile (Created: 2025-04-15T14:15:51Z, Updated: 2025-04-29T08:42:21Z)
+
+- [snort: disabled rules are not applied until next rule download](https://github.com/NethServer/nethsecurity/issues/1165) (#1069) by filippocarletti (Created: 2025-04-09T13:21:19Z, Updated: 2025-05-05T10:55:27Z)
 
 - [Certificate deletion returns error if it's still being used](https://github.com/NethServer/nethsecurity/issues/1156) (#1069) by Tbaile (Created: 2025-04-07T12:38:47Z, Updated: 2025-04-29T08:41:53Z)
 

@@ -1,20 +1,20 @@
 +++
 title = 'Open Pull Requests'
-date = 2025-05-05
+date = 2025-05-06
 +++
 
 ## Organization: nethserver
 
 ### NethServer/ns8-core 2 
 
+- :eyes:  **[fix(ui): consistent web-socket protocol](https://github.com/NethServer/ns8-core/pull/873)** by *DavidePrincipi* - Reviewers: *None* - Created at: 2025-05-05T12:40:40Z
 -   **[fix(switch-leader): hide UI notifications](https://github.com/NethServer/ns8-core/pull/872)** by *DavidePrincipi* - Reviewers: *gsanchietti* - Created at: 2025-04-29T14:43:42Z
--   **[Fix Alloy configuration](https://github.com/NethServer/ns8-core/pull/870)** by *DavidePrincipi* - Reviewers: *gsanchietti* - Created at: 2025-04-28T16:04:28Z
 
 ### NethServer/nethsecurity 7 
 
+- :eyes:  **[feat: disable i915](https://github.com/NethServer/nethsecurity/pull/1199)** by *filippocarletti* - Reviewers: *None* - Created at: 2025-05-05T17:59:01Z
+- :eyes:  **[feat(ns-storage) enable storage by default except](https://github.com/NethServer/nethsecurity/pull/1198)** by *filippocarletti* - Reviewers: *None* - Created at: 2025-05-05T17:52:05Z
 - :eyes:  **[feat(conf): enable persistent /var](https://github.com/NethServer/nethsecurity/pull/1194)** by *filippocarletti* - Reviewers: *None* - Created at: 2025-05-03T06:51:54Z
-- :eyes:  **[keepalived readme changes](https://github.com/NethServer/nethsecurity/pull/1193)** by *cotosso* - Reviewers: *None* - Created at: 2025-04-30T13:29:30Z
--   **[fix(ns-api): fixed import/export of ovpn tunnel](https://github.com/NethServer/nethsecurity/pull/1191)** by *Tbaile* - Reviewers: *gsanchietti* - Created at: 2025-04-30T06:54:03Z
 - :eyes:  **[feat(threatshield): active block list](https://github.com/NethServer/nethsecurity/pull/1190)** by *Tbaile* - Reviewers: *None* - Created at: 2025-04-29T08:26:41Z
 - :eyes:  **[feat(ns-api): added wizard api](https://github.com/NethServer/nethsecurity/pull/1189)** by *Tbaile* - Reviewers: *None* - Created at: 2025-04-28T09:34:28Z
 -   **[fix(ipsec): clients should retry indefinitely](https://github.com/NethServer/nethsecurity/pull/1182)** by *Tbaile* - Reviewers: *gsanchietti* - Created at: 2025-04-17T13:14:52Z
@@ -32,12 +32,14 @@ date = 2025-05-05
 
 - :eyes:  **[Upgrade piler to 1.4.7](https://github.com/NethServer/ns8-piler/pull/32)** by *stephdl* - Reviewers: *None* - Created at: 2025-04-30T09:52:17Z
 
-### NethServer/ns8-docs 1 
+### NethServer/ns8-docs 2 
 
+-   **[Add LDAP mail field instructions and optional email for user creation](https://github.com/NethServer/ns8-docs/pull/162)** by *stephdl* - Reviewers: *DavidePrincipi* - Created at: 2025-05-05T16:15:04Z
 -   **[Update nethvoice_proxy.rst](https://github.com/NethServer/ns8-docs/pull/157)** by *viktec* - Reviewers: *andrea-marchionni* - Created at: 2025-04-10T17:06:20Z
 
-### NethServer/nethsecurity-ui 3 
+### NethServer/nethsecurity-ui 4 
 
+-   **[fix(sudo): fixed some corner cases](https://github.com/NethServer/nethsecurity-ui/pull/540)** by *Tbaile* - Reviewers: *andre8244* - Created at: 2025-05-05T15:00:06Z
 -   **[feat (dns_dhcp)Enhance filtering and sorting by device](https://github.com/NethServer/nethsecurity-ui/pull/537)** by *stephdl* - Reviewers: *Tbaile* - Created at: 2025-04-28T14:50:25Z
 - :eyes:  **[chore(main): release 1.24.0](https://github.com/NethServer/nethsecurity-ui/pull/536)** by *Tbaile* - Reviewers: *None* - Created at: 2025-04-28T13:05:57Z
 -   **[HA: fix SSH and add dashboard card](https://github.com/NethServer/nethsecurity-ui/pull/533)** by *gsanchietti* - Reviewers: *Tbaile* - Created at: 2025-04-17T07:36:06Z
@@ -67,8 +69,9 @@ date = 2025-05-05
 
 -  :zzz: **[Removed old notification service usage](https://github.com/nethesis/nethcti-app-iphone/pull/37)** by *NicolaMrAPPs* - Reviewers: *b9874e40962149eee62a8fd3bc4e709e* - Created at: 2023-08-02T09:19:30Z
 
-### nethesis/ns8-nethvoice 2 
+### nethesis/ns8-nethvoice 3 
 
+-   **[fix(import): Avoid errors on import module](https://github.com/nethesis/ns8-nethvoice/pull/441)** by *Stell0* - Reviewers: *Amygos* - Created at: 2025-05-05T10:49:54Z
 -  :zzz: **[Add WiC VoIP and modify WiC -> WiC SIP](https://github.com/nethesis/ns8-nethvoice/pull/411)** by *andrea-marchionni* - Reviewers: *Stell0* - Created at: 2025-03-21T16:12:13Z
 -  :zzz: **[refactor: restart all services on configure](https://github.com/nethesis/ns8-nethvoice/pull/406)** by *Amygos* - Reviewers: *Stell0* - Created at: 2025-03-18T09:38:32Z
 
