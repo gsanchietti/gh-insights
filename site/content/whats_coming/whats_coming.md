@@ -2,17 +2,11 @@
 
 title = 'To be released soon'
 
-date = 2025-05-06
+date = 2025-05-07
 
 +++
 
 ### NethVoice
-
-- [NethVoice CTI: app QR‑code login fails](https://github.com/NethServer/dev/issues/7423) (#7050) by viktec (Created: 2025-04-22T14:21:33Z, Updated: 2025-04-28T13:14:01Z)
-
-- [NethLink: with physical phone transfer from NethCTI Operators panel does not work](https://github.com/NethServer/dev/issues/7403) (#7050) by mgarra (Created: 2025-04-11T15:33:32Z, Updated: 2025-04-28T13:48:51Z)
-
-- [NethVoice CTI (Phone-Island): webcam permission check fails when already in use](https://github.com/NethServer/dev/issues/7393) (#7050) by viktec (Created: 2025-04-08T14:13:04Z, Updated: 2025-04-28T13:57:38Z)
 
 - [NethVoice CTI: privacy settings are not applied](https://github.com/NethServer/dev/issues/7363) (#7050) by margit86 (Created: 2025-03-26T16:09:06Z, Updated: 2025-04-18T07:45:32Z)
 
