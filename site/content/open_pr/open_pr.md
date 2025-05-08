@@ -1,6 +1,6 @@
 +++
 title = 'Open Pull Requests'
-date = 2025-05-07
+date = 2025-05-08
 +++
 
 ## Organization: nethserver
@@ -9,23 +9,17 @@ date = 2025-05-07
 
 -   **[fix(switch-leader): hide UI notifications](https://github.com/NethServer/ns8-core/pull/872)** by *DavidePrincipi* - Reviewers: *gsanchietti* - Created at: 2025-04-29T14:43:42Z
 
-### NethServer/nethsecurity 7 
+### NethServer/nethsecurity 5 
 
 - :eyes:  **[feat: disable i915](https://github.com/NethServer/nethsecurity/pull/1199)** by *filippocarletti* - Reviewers: *None* - Created at: 2025-05-05T17:59:01Z
-- :eyes:  **[feat(ns-storage) enable storage by default except](https://github.com/NethServer/nethsecurity/pull/1198)** by *filippocarletti* - Reviewers: *None* - Created at: 2025-05-05T17:52:05Z
-- :eyes:  **[feat(conf): enable persistent /var](https://github.com/NethServer/nethsecurity/pull/1194)** by *filippocarletti* - Reviewers: *None* - Created at: 2025-05-03T06:51:54Z
-- :eyes:  **[feat(threatshield): active block list](https://github.com/NethServer/nethsecurity/pull/1190)** by *Tbaile* - Reviewers: *None* - Created at: 2025-04-29T08:26:41Z
+-   **[feat(ns-storage) enable storage by default](https://github.com/NethServer/nethsecurity/pull/1198)** by *filippocarletti* - Reviewers: *Tbaile* - Created at: 2025-05-05T17:52:05Z
+- :eyes:  **[feat(threatshield): active block list and ip search](https://github.com/NethServer/nethsecurity/pull/1190)** by *Tbaile* - Reviewers: *None* - Created at: 2025-04-29T08:26:41Z
 - :eyes:  **[feat(ns-api): added wizard api](https://github.com/NethServer/nethsecurity/pull/1189)** by *Tbaile* - Reviewers: *None* - Created at: 2025-04-28T09:34:28Z
--   **[fix(ipsec): clients should retry indefinitely](https://github.com/NethServer/nethsecurity/pull/1182)** by *Tbaile* - Reviewers: *gsanchietti* - Created at: 2025-04-17T13:14:52Z
 -  :zzz: **[High availability stack](https://github.com/NethServer/nethsecurity/pull/871)** by *gsanchietti* - Reviewers: *filippocarletti, Tbaile* - Created at: 2024-10-23T15:36:11Z
 
 ### NethServer/ns8-nethsecurity-controller 1 
 
 -  :zzz: **[Fix traffic by hour histogram](https://github.com/NethServer/ns8-nethsecurity-controller/pull/78)** by *cotosso* - Reviewers: *gsanchietti* - Created at: 2025-03-04T18:04:21Z
-
-### NethServer/ns8-webtop 1 
-
-- :eyes:  **[Add Tomcat configuration and custom JARs support for webtop-webapp](https://github.com/NethServer/ns8-webtop/pull/118)** by *stephdl* - Reviewers: *None* - Created at: 2025-05-06T08:49:51Z
 
 ### NethServer/python3-nethsec 1 
 
@@ -37,18 +31,19 @@ date = 2025-05-07
 
 ### NethServer/ns8-docs 2 
 
-- :eyes:  **[Add LDAP mail field instructions and optional email for user creation](https://github.com/NethServer/ns8-docs/pull/162)** by *stephdl* - Reviewers: *None* - Created at: 2025-05-05T16:15:04Z
+-   **[fix: update os_network.rst](https://github.com/NethServer/ns8-docs/pull/163)** by *DavidePrincipi* - Reviewers: *nrauso* - Created at: 2025-05-07T10:13:22Z
 -   **[Update nethvoice_proxy.rst](https://github.com/NethServer/ns8-docs/pull/157)** by *viktec* - Reviewers: *andrea-marchionni* - Created at: 2025-04-10T17:06:20Z
 
 ### NethServer/nethsecurity-ui 4 
 
-- :eyes:  **[fix(ssh): configure only main dropbear server](https://github.com/NethServer/nethsecurity-ui/pull/541)** by *gsanchietti* - Reviewers: *None* - Created at: 2025-05-06T07:09:05Z
+- :eyes:  **[feat: add setup wizard](https://github.com/NethServer/nethsecurity-ui/pull/539)** by *andre8244* - Reviewers: *None* - Created at: 2025-05-05T07:24:37Z
+-   **[feat(threatshield): add currently banned ip list and ban search](https://github.com/NethServer/nethsecurity-ui/pull/538)** by *Tbaile* - Reviewers: *andre8244* - Created at: 2025-04-29T14:17:07Z
 -   **[feat (dns_dhcp)Enhance filtering and sorting by device](https://github.com/NethServer/nethsecurity-ui/pull/537)** by *stephdl* - Reviewers: *Tbaile* - Created at: 2025-04-28T14:50:25Z
-- :eyes:  **[chore(main): release 1.24.0](https://github.com/NethServer/nethsecurity-ui/pull/536)** by *Tbaile* - Reviewers: *None* - Created at: 2025-04-28T13:05:57Z
 - :eyes:  **[HA: add dashboard card](https://github.com/NethServer/nethsecurity-ui/pull/533)** by *gsanchietti* - Reviewers: *None* - Created at: 2025-04-17T07:36:06Z
 
-### NethServer/nethsecurity-docs 4 
+### NethServer/nethsecurity-docs 5 
 
+-   **[feat: add setup wizard](https://github.com/NethServer/nethsecurity-docs/pull/165)** by *andre8244* - Reviewers: *cotosso* - Created at: 2025-05-07T15:35:38Z
 -   **[feat: add high availability](https://github.com/NethServer/nethsecurity-docs/pull/163)** by *gsanchietti* - Reviewers: *filippocarletti, cotosso* - Created at: 2025-04-24T09:54:19Z
 -   **[feat(backup): encryption alert](https://github.com/NethServer/nethsecurity-docs/pull/162)** by *gsanchietti* - Reviewers: *filippocarletti, cotosso* - Created at: 2025-04-16T13:52:29Z
 -   **[fix(port forward): explain any protocol, add gre](https://github.com/NethServer/nethsecurity-docs/pull/161)** by *gsanchietti* - Reviewers: *cotosso* - Created at: 2025-04-16T13:03:49Z
@@ -74,17 +69,16 @@ date = 2025-05-07
 
 ### nethesis/ns8-nethvoice 1 
 
--   **[On update, try-restart freepbx only if there aren't active calls](https://github.com/nethesis/ns8-nethvoice/pull/442)** by *Stell0* - Reviewers: *Amygos* - Created at: 2025-05-06T15:39:43Z
+- :eyes:  **[On update, try-restart freepbx only if there aren't active calls](https://github.com/nethesis/ns8-nethvoice/pull/442)** by *Stell0* - Reviewers: *None* - Created at: 2025-05-06T15:39:43Z
 
 ### nethesis/ns8-nethvoice-proxy 3 
 
 - :eyes:  **[Fix SIP Call Termination Issues with Multiple Record-Route Headers](https://github.com/nethesis/ns8-nethvoice-proxy/pull/63)** by *Stell0* - Reviewers: *None* - Created at: 2025-05-06T10:12:51Z
-- :eyes:  **[Add backup and restore procedure](https://github.com/nethesis/ns8-nethvoice-proxy/pull/62)** by *Amygos* - Reviewers: *None* - Created at: 2025-04-18T09:14:07Z
+-   **[Add backup and restore procedure](https://github.com/nethesis/ns8-nethvoice-proxy/pull/62)** by *Amygos* - Reviewers: *Stell0* - Created at: 2025-04-18T09:14:07Z
 - :eyes: :zzz: **[Remove Route header handling for inbound packets](https://github.com/nethesis/ns8-nethvoice-proxy/pull/49)** by *Amygos* - Reviewers: *None* - Created at: 2024-12-06T15:26:49Z
 
-### nethesis/vue-components 3 
+### nethesis/vue-components 2 
 
--   **[Use IconDefinition type for icons](https://github.com/nethesis/vue-components/pull/84)** by *andre8244* - Reviewers: *Tbaile* - Created at: 2025-04-29T08:38:46Z
 - :eyes: :zzz: **[fix!: enforcing types on parent projects](https://github.com/nethesis/vue-components/pull/81)** by *Tbaile* - Reviewers: *None* - Created at: 2024-11-07T13:55:58Z
 - :eyes: :zzz: **[fix: fixed issue with missing dependencies](https://github.com/nethesis/vue-components/pull/70)** by *Tbaile* - Reviewers: *None* - Created at: 2024-08-09T12:06:23Z
 
