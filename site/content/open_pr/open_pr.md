@@ -1,6 +1,6 @@
 +++
 title = 'Open Pull Requests'
-date = 2025-05-09
+date = 2025-05-10
 +++
 
 ## Organization: nethserver
@@ -13,10 +13,9 @@ date = 2025-05-09
 
 -   **[feat(NethVoice): Migrate NethHotel database](https://github.com/NethServer/nethserver-ns8-migration/pull/115)** by *Stell0* - Reviewers: *Amygos* - Created at: 2025-04-28T07:45:05Z
 
-### NethServer/nethsecurity 7 
+### NethServer/nethsecurity 6 
 
 - :eyes:  **[fix:(ns-api): removed kernel filtering, just count banned ips](https://github.com/NethServer/nethsecurity/pull/1207)** by *Tbaile* - Reviewers: *None* - Created at: 2025-05-08T12:24:25Z
--   **[Improve readme and contributing guidelines](https://github.com/NethServer/nethsecurity/pull/1204)** by *gsanchietti* - Reviewers: *Tbaile* - Created at: 2025-05-08T07:45:18Z
 - :eyes:  **[feat: disable i915](https://github.com/NethServer/nethsecurity/pull/1199)** by *filippocarletti* - Reviewers: *None* - Created at: 2025-05-05T17:59:01Z
 -   **[feat(ns-storage) enable storage by default](https://github.com/NethServer/nethsecurity/pull/1198)** by *filippocarletti* - Reviewers: *Tbaile* - Created at: 2025-05-05T17:52:05Z
 - :eyes:  **[feat(threatshield): active block list and ip search](https://github.com/NethServer/nethsecurity/pull/1190)** by *Tbaile* - Reviewers: *None* - Created at: 2025-04-29T08:26:41Z
@@ -41,9 +40,8 @@ date = 2025-05-09
 -   **[fix: update os_network.rst](https://github.com/NethServer/ns8-docs/pull/163)** by *DavidePrincipi* - Reviewers: *nrauso* - Created at: 2025-05-07T10:13:22Z
 -   **[Update nethvoice_proxy.rst](https://github.com/NethServer/ns8-docs/pull/157)** by *viktec* - Reviewers: *andrea-marchionni* - Created at: 2025-04-10T17:06:20Z
 
-### NethServer/nethsecurity-ui 6 
+### NethServer/nethsecurity-ui 5 
 
--   **[fix: replace string icons with IconDefinition](https://github.com/NethServer/nethsecurity-ui/pull/547)** by *andre8244* - Reviewers: *Tbaile* - Created at: 2025-05-08T13:10:28Z
 - :eyes:  **[chore(main): release 1.24.2](https://github.com/NethServer/nethsecurity-ui/pull/546)** by *Tbaile* - Reviewers: *None* - Created at: 2025-05-08T10:26:25Z
 - :eyes:  **[feat: add setup wizard](https://github.com/NethServer/nethsecurity-ui/pull/539)** by *andre8244* - Reviewers: *None* - Created at: 2025-05-05T07:24:37Z
 - :eyes:  **[feat(threatshield): add currently banned ip list and ban search](https://github.com/NethServer/nethsecurity-ui/pull/538)** by *Tbaile* - Reviewers: *None* - Created at: 2025-04-29T14:17:07Z
@@ -52,7 +50,7 @@ date = 2025-05-09
 
 ### NethServer/nethsecurity-docs 5 
 
-- :eyes:  **[feat: add setup wizard](https://github.com/NethServer/nethsecurity-docs/pull/165)** by *andre8244* - Reviewers: *None* - Created at: 2025-05-07T15:35:38Z
+- :eyes:  **[feat: re-add setup wizard](https://github.com/NethServer/nethsecurity-docs/pull/166)** by *andre8244* - Reviewers: *None* - Created at: 2025-05-09T08:04:35Z
 -   **[feat: add high availability](https://github.com/NethServer/nethsecurity-docs/pull/163)** by *gsanchietti* - Reviewers: *filippocarletti, cotosso* - Created at: 2025-04-24T09:54:19Z
 -   **[feat(backup): encryption alert](https://github.com/NethServer/nethsecurity-docs/pull/162)** by *gsanchietti* - Reviewers: *filippocarletti, cotosso* - Created at: 2025-04-16T13:52:29Z
 -   **[fix(port forward): explain any protocol, add gre](https://github.com/NethServer/nethsecurity-docs/pull/161)** by *gsanchietti* - Reviewers: *cotosso* - Created at: 2025-04-16T13:03:49Z
@@ -90,9 +88,5 @@ date = 2025-05-09
 
 - :eyes: :zzz: **[fix!: enforcing types on parent projects](https://github.com/nethesis/vue-components/pull/81)** by *Tbaile* - Reviewers: *None* - Created at: 2024-11-07T13:55:58Z
 - :eyes: :zzz: **[fix: fixed issue with missing dependencies](https://github.com/nethesis/vue-components/pull/70)** by *Tbaile* - Reviewers: *None* - Created at: 2024-08-09T12:06:23Z
-
-### nethesis/parceler 1 
-
-- :eyes: :zzz: **[chore(main): release 1.0.1](https://github.com/nethesis/parceler/pull/21)** by *Tbaile* - Reviewers: *None* - Created at: 2025-02-25T10:45:40Z
 
 

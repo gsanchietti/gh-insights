@@ -2,7 +2,7 @@
 
 title = 'To be released soon'
 
-date = 2025-05-09
+date = 2025-05-10
 
 +++
 
@@ -30,7 +30,7 @@ date = 2025-05-09
 
 - [backups: send alarms to my.nethesis.it when missing passphrase](https://github.com/NethServer/nethsecurity/issues/1119) (#1069) by Tbaile (Created: 2025-03-12T13:19:49Z, Updated: 2025-05-07T14:15:13Z)
 
-- [Add sorting arrows to table columns in static leases list](https://github.com/NethServer/nethsecurity/issues/1087) (#1069) by cotosso (Created: 2025-02-18T14:16:28Z, Updated: 2025-05-08T10:10:43Z)
+- [Add sorting arrows to table columns in static leases list](https://github.com/NethServer/nethsecurity/issues/1087) (#1069) by cotosso (Created: 2025-02-18T14:16:28Z, Updated: 2025-05-09T07:37:46Z)
 
 - [Move "reservation name" field to the last column in static leases list](https://github.com/NethServer/nethsecurity/issues/1086) (#1069) by cotosso (Created: 2025-02-18T14:11:10Z, Updated: 2025-05-08T08:27:37Z)
 
