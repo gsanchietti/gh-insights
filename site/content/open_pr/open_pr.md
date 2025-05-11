@@ -1,6 +1,6 @@
 +++
 title = 'Open Pull Requests'
-date = 2025-05-10
+date = 2025-05-11
 +++
 
 ## Organization: nethserver
@@ -38,7 +38,7 @@ date = 2025-05-10
 
 - :eyes:  **[Update note about IP change to clarify need for correct reconfiguration](https://github.com/NethServer/ns8-docs/pull/164)** by *IgonetIT* - Reviewers: *None* - Created at: 2025-05-08T09:20:48Z
 -   **[fix: update os_network.rst](https://github.com/NethServer/ns8-docs/pull/163)** by *DavidePrincipi* - Reviewers: *nrauso* - Created at: 2025-05-07T10:13:22Z
--   **[Update nethvoice_proxy.rst](https://github.com/NethServer/ns8-docs/pull/157)** by *viktec* - Reviewers: *andrea-marchionni* - Created at: 2025-04-10T17:06:20Z
+-  :zzz: **[Update nethvoice_proxy.rst](https://github.com/NethServer/ns8-docs/pull/157)** by *viktec* - Reviewers: *andrea-marchionni* - Created at: 2025-04-10T17:06:20Z
 
 ### NethServer/nethsecurity-ui 5 
 

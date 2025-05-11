@@ -1,6 +1,6 @@
 +++
 title = 'Open Pull Requests by Bots'
-date = 2025-05-10
+date = 2025-05-11
 +++
 
 ## Organization: nethserver
@@ -128,7 +128,7 @@ date = 2025-05-10
 - :eyes:  **[Translations update from Hosted Weblate](https://github.com/NethServer/ns8-webtop/pull/113)** by *weblate* - Reviewers: *None* - Created at: 2025-04-11T12:06:14Z
 - :eyes: :zzz: **[chore(deps): update ghcr.io/marketsquare/robotframework-browser/rfbrowser-stable docker tag to v19.5.1](https://github.com/NethServer/ns8-webtop/pull/99)** by *renovate[bot]* - Reviewers: *None* - Created at: 2024-12-19T16:40:00Z
 - :eyes: :zzz: **[chore(deps): update php docker tag to v8](https://github.com/NethServer/ns8-webtop/pull/75)** by *renovate[bot]* - Reviewers: *None* - Created at: 2024-09-23T14:30:18Z
-- :eyes: :zzz: **[chore(deps): update mlocati/php-extension-installer docker tag to v2.7.33](https://github.com/NethServer/ns8-webtop/pull/64)** by *renovate[bot]* - Reviewers: *None* - Created at: 2024-08-02T20:19:42Z
+- :eyes: :zzz: **[chore(deps): update mlocati/php-extension-installer docker tag to v2.7.34](https://github.com/NethServer/ns8-webtop/pull/64)** by *renovate[bot]* - Reviewers: *None* - Created at: 2024-08-02T20:19:42Z
 - :eyes: :zzz: **[chore(deps): update maven docker tag to v3.8](https://github.com/NethServer/ns8-webtop/pull/57)** by *renovate[bot]* - Reviewers: *None* - Created at: 2024-07-31T15:01:45Z
 - :eyes: :zzz: **[chore(deps): update mlocati/php-extension-installer docker tag to v1.5.52](https://github.com/NethServer/ns8-webtop/pull/55)** by *renovate[bot]* - Reviewers: *None* - Created at: 2024-07-31T14:52:53Z
 
