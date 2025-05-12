@@ -102,8 +102,14 @@ def create_change_list(issues):
         if any('milestone goal' in label['name'] for label in issue['labels']):
             icon = f"{title} :crown:"  # Highlight the title
         announcement += f"#### {title} ([{issue['number']}]({url})) {icon}\n"
-        explanation = ghexplain.issue(url)
-        announcement += f"{explanation}\n Issue type: {issue['type']['name']}\n"
+        try:
+            explanation = ghexplain.issue(url)
+        except Exception as e:
+            print(f"[ERROR] Skipping issue {issue['number']} due to error: {e}", file=sys.stderr)
+            continue
+        announcement += f"{explanation}\n"
+        if 'type' in issue and issue['type']:
+            announcement += f"Issue type: {issue['type']['name']}\n"
         if icon:
             announcement += "\nThis feature is a milestone goal.\n\n"
     return announcement
@@ -168,6 +174,12 @@ if __name__ == "__main__":
     if not announcement.strip() or not title.strip():
         print("Error: Announcement or title is empty.", file=sys.stderr)
         sys.exit(1)
+
+    # Output the announcement to a file for later use
+    file = f"announcement-{args.product}-{args.language}.md"
+    print(f"Writing announcement to {file}", file=sys.stderr)
+    with open(file, "w") as f:
+        f.write(announcement)
 
     # Send to Discourse
     headers = {"Accept": "application/json; charset=utf-8", "Api-Username": discourse_api_username, "Api-Key": discourse_api_key}
