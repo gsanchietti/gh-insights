@@ -1,6 +1,6 @@
 +++
 title = 'Open Pull Requests by Bots'
-date = 2025-05-11
+date = 2025-05-12
 +++
 
 ## Organization: nethserver
@@ -9,7 +9,7 @@ date = 2025-05-11
 
 - :eyes:  **[chore(deps): update redis docker tag to v8](https://github.com/NethServer/ns8-core/pull/874)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-05-05T23:35:26Z
 - :eyes:  **[chore(deps): update dependency grafana/loki to v3.5.0](https://github.com/NethServer/ns8-core/pull/868)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-04-23T03:15:08Z
-- :eyes:  **[chore(deps): update grafana/alloy docker tag to v1.8.3](https://github.com/NethServer/ns8-core/pull/856)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-04-11T15:55:19Z
+- :eyes: :zzz: **[chore(deps): update grafana/alloy docker tag to v1.8.3](https://github.com/NethServer/ns8-core/pull/856)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-04-11T15:55:19Z
 - :eyes: :zzz: **[chore(deps): update golang docker tag to v1.24.3](https://github.com/NethServer/ns8-core/pull/848)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-04-01T21:26:37Z
 - :eyes: :zzz: **[chore(deps): bump axios from 0.21.4 to 0.30.0 in /core/ui](https://github.com/NethServer/ns8-core/pull/845)** by *dependabot[bot]* - Reviewers: *None* - Created at: 2025-03-31T06:21:46Z
 - :eyes: :zzz: **[chore(deps): update redis docker tag to v7.4.3](https://github.com/NethServer/ns8-core/pull/830)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-03-13T14:07:34Z
@@ -91,8 +91,11 @@ date = 2025-05-11
 
 - :eyes: :zzz: **[chore: bump ns packages (automatic)](https://github.com/NethServer/nethsecurity/pull/1071)** by *github-actions[bot]* - Reviewers: *None* - Created at: 2025-02-10T15:48:19Z
 
-### NethServer/nethsecurity-controller 5 
+### NethServer/nethsecurity-controller 8 
 
+- :eyes:  **[fix(deps): update module golang.org/x/crypto to v0.38.0](https://github.com/NethServer/nethsecurity-controller/pull/113)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-05-12T01:44:53Z
+- :eyes:  **[chore(deps): update docker.io/golang docker tag to v1.24.3](https://github.com/NethServer/nethsecurity-controller/pull/112)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-05-12T01:44:36Z
+- :eyes:  **[chore(deps): update dependency go to v1.24.3](https://github.com/NethServer/nethsecurity-controller/pull/111)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-05-12T01:44:32Z
 - :eyes:  **[chore(deps): update dependency nethserver/nethsecurity-ui to v1.24.1](https://github.com/NethServer/nethsecurity-controller/pull/110)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-04-21T03:07:37Z
 - :eyes: :zzz: **[chore(deps): update docker/build-push-action action to v6](https://github.com/NethServer/nethsecurity-controller/pull/106)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-04-07T03:31:11Z
 - :eyes: :zzz: **[chore(deps): update docker.io/traefik docker tag to v3](https://github.com/NethServer/nethsecurity-controller/pull/95)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-03-31T03:07:13Z
@@ -125,7 +128,7 @@ date = 2025-05-11
 
 ### NethServer/ns8-webtop 6 
 
-- :eyes:  **[Translations update from Hosted Weblate](https://github.com/NethServer/ns8-webtop/pull/113)** by *weblate* - Reviewers: *None* - Created at: 2025-04-11T12:06:14Z
+- :eyes: :zzz: **[Translations update from Hosted Weblate](https://github.com/NethServer/ns8-webtop/pull/113)** by *weblate* - Reviewers: *None* - Created at: 2025-04-11T12:06:14Z
 - :eyes: :zzz: **[chore(deps): update ghcr.io/marketsquare/robotframework-browser/rfbrowser-stable docker tag to v19.5.1](https://github.com/NethServer/ns8-webtop/pull/99)** by *renovate[bot]* - Reviewers: *None* - Created at: 2024-12-19T16:40:00Z
 - :eyes: :zzz: **[chore(deps): update php docker tag to v8](https://github.com/NethServer/ns8-webtop/pull/75)** by *renovate[bot]* - Reviewers: *None* - Created at: 2024-09-23T14:30:18Z
 - :eyes: :zzz: **[chore(deps): update mlocati/php-extension-installer docker tag to v2.7.34](https://github.com/NethServer/ns8-webtop/pull/64)** by *renovate[bot]* - Reviewers: *None* - Created at: 2024-08-02T20:19:42Z
@@ -182,7 +185,7 @@ date = 2025-05-11
 
 ### NethServer/ns8-dnsmasq 1 
 
-- :eyes:  **[Translations update from Hosted Weblate](https://github.com/NethServer/ns8-dnsmasq/pull/34)** by *weblate* - Reviewers: *None* - Created at: 2025-04-11T22:15:47Z
+- :eyes: :zzz: **[Translations update from Hosted Weblate](https://github.com/NethServer/ns8-dnsmasq/pull/34)** by *weblate* - Reviewers: *None* - Created at: 2025-04-11T22:15:47Z
 
 ### NethServer/ns8-wordpress 1 
 
