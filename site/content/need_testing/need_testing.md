@@ -1,11 +1,10 @@
 +++
-title = 'Need testing (7)'
-date = 2025-05-12
+title = 'Need testing (6)'
+date = 2025-05-13
 +++
 
 ## NethServer
-- **[WebTop pecbridge update 5.4.7](https://github.com/NethServer/dev/issues/7447)** (#7258) by *lucagasparini* (Created: 2025-05-08, Updated: 2025-05-08T12:15:06Z)
-- :point_right: **[Webtop custom .jar files](https://github.com/NethServer/dev/issues/7381)** (#7258) by *DavidePrincipi* (Created: 2025-04-07, Updated: 2025-05-07T10:20:14Z)
+- **[Nextcloud configure-module throws an error because the notify-push server version is different from the app version](https://github.com/NethServer/dev/issues/7450)** (#7258) by *mrmarkuz* (Created: 2025-05-09, Updated: 2025-05-12T09:02:14Z)
 
 ## NethVoice
 - **[Delay FreePBX restart on update if there are active calls](https://github.com/NethServer/dev/issues/7442)** (#7258) by *Stell0* (Created: 2025-05-06, Updated: 2025-05-09T07:31:30Z)
