@@ -1,6 +1,6 @@
 +++
 title = 'Open Pull Requests by Bots'
-date = 2025-05-13
+date = 2025-05-14
 +++
 
 ## Organization: nethserver
@@ -85,6 +85,10 @@ date = 2025-05-13
 - :eyes:  **[chore(deps): update grafana/grafana docker tag to v11.6.1](https://github.com/NethServer/ns8-grafana/pull/34)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-04-23T22:57:03Z
 - :eyes: :zzz: **[chore(deps): update node.js to v18.20.8](https://github.com/NethServer/ns8-grafana/pull/33)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-03-27T19:39:47Z
 - :eyes: :zzz: **[chore(deps): update ghcr.io/marketsquare/robotframework-browser/rfbrowser-stable docker tag to v19.5.1](https://github.com/NethServer/ns8-grafana/pull/26)** by *renovate[bot]* - Reviewers: *None* - Created at: 2024-12-20T22:05:46Z
+
+### NethServer/nethsecurity 1 
+
+- :eyes:  **[chore: bump ns packages (automatic)](https://github.com/NethServer/nethsecurity/pull/1211)** by *github-actions[bot]* - Reviewers: *None* - Created at: 2025-05-13T07:28:46Z
 
 ### NethServer/nethsecurity-controller 4 
 
@@ -190,12 +194,8 @@ date = 2025-05-13
 
 - :eyes: :zzz: **[Configure Renovate](https://github.com/NethServer/ns8-passbolt/pull/1)** by *renovate[bot]* - Reviewers: *None* - Created at: 2024-10-21T12:39:44Z
 
-### NethServer/ns8-metrics 5 
+### NethServer/ns8-metrics 1 
 
-- :eyes:  **[chore(deps): update grafana/grafana docker tag to v12](https://github.com/NethServer/ns8-metrics/pull/22)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-05-05T16:20:05Z
-- :eyes:  **[chore(deps): update grafana/grafana docker tag to v11.6.1](https://github.com/NethServer/ns8-metrics/pull/20)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-04-23T23:08:23Z
-- :eyes:  **[chore(deps): update quay.io/prometheus/prometheus docker tag to v3.3.1](https://github.com/NethServer/ns8-metrics/pull/19)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-04-15T17:08:35Z
-- :eyes: :zzz: **[chore(deps): update python docker tag to v3.13.3](https://github.com/NethServer/ns8-metrics/pull/18)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-04-09T07:06:16Z
 - :eyes: :zzz: **[chore(deps): update ghcr.io/marketsquare/robotframework-browser/rfbrowser-stable docker tag to v19.5.1](https://github.com/NethServer/ns8-metrics/pull/5)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-02-27T13:33:08Z
 
 ## Organization: nethesis

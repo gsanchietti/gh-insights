@@ -1,24 +1,22 @@
 +++
 title = 'Open Pull Requests'
-date = 2025-05-13
+date = 2025-05-14
 +++
 
 ## Organization: nethserver
 
 ### NethServer/ns8-core 1 
 
--   **[fix(switch-leader): hide UI notifications](https://github.com/NethServer/ns8-core/pull/872)** by *DavidePrincipi* - Reviewers: *gsanchietti* - Created at: 2025-04-29T14:43:42Z
+-   **[Add metrics settings and configuration features](https://github.com/NethServer/ns8-core/pull/875)** by *stephdl* - Reviewers: *gsanchietti, DavidePrincipi, andre8244* - Created at: 2025-05-12T15:57:25Z
 
 ### NethServer/nethserver-ns8-migration 1 
 
 - :eyes:  **[feat(NethVoice): Migrate NethHotel database](https://github.com/NethServer/nethserver-ns8-migration/pull/115)** by *Stell0* - Reviewers: *None* - Created at: 2025-04-28T07:45:05Z
 
-### NethServer/nethsecurity 7 
+### NethServer/nethsecurity 5 
 
--   **[build: fix board.d for Z9](https://github.com/NethServer/nethsecurity/pull/1210)** by *filippocarletti* - Reviewers: *cotosso, Tbaile* - Created at: 2025-05-12T14:12:11Z
-- :eyes:  **[fix:(ns-api): removed kernel filtering, just count banned ips](https://github.com/NethServer/nethsecurity/pull/1207)** by *Tbaile* - Reviewers: *None* - Created at: 2025-05-08T12:24:25Z
+-   **[build: fix board.d for Z9](https://github.com/NethServer/nethsecurity/pull/1210)** by *filippocarletti* - Reviewers: *cotosso* - Created at: 2025-05-12T14:12:11Z
 - :eyes:  **[feat: disable i915](https://github.com/NethServer/nethsecurity/pull/1199)** by *filippocarletti* - Reviewers: *None* - Created at: 2025-05-05T17:59:01Z
--   **[feat(ns-storage) enable storage by default](https://github.com/NethServer/nethsecurity/pull/1198)** by *filippocarletti* - Reviewers: *Tbaile* - Created at: 2025-05-05T17:52:05Z
 - :eyes:  **[feat(threatshield): active block list and ip search](https://github.com/NethServer/nethsecurity/pull/1190)** by *Tbaile* - Reviewers: *None* - Created at: 2025-04-29T08:26:41Z
 - :eyes:  **[feat(ns-api): added wizard api](https://github.com/NethServer/nethsecurity/pull/1189)** by *Tbaile* - Reviewers: *None* - Created at: 2025-04-28T09:34:28Z
 -  :zzz: **[High availability stack](https://github.com/NethServer/nethsecurity/pull/871)** by *gsanchietti* - Reviewers: *filippocarletti, Tbaile* - Created at: 2024-10-23T15:36:11Z
@@ -47,10 +45,9 @@ date = 2025-05-13
 -   **[fix: update os_network.rst](https://github.com/NethServer/ns8-docs/pull/163)** by *DavidePrincipi* - Reviewers: *nrauso* - Created at: 2025-05-07T10:13:22Z
 -  :zzz: **[Update nethvoice_proxy.rst](https://github.com/NethServer/ns8-docs/pull/157)** by *viktec* - Reviewers: *andrea-marchionni* - Created at: 2025-04-10T17:06:20Z
 
-### NethServer/nethsecurity-ui 5 
+### NethServer/nethsecurity-ui 4 
 
-- :eyes:  **[chore(main): release 1.24.2](https://github.com/NethServer/nethsecurity-ui/pull/546)** by *Tbaile* - Reviewers: *None* - Created at: 2025-05-08T10:26:25Z
--   **[feat: add setup wizard](https://github.com/NethServer/nethsecurity-ui/pull/539)** by *andre8244* - Reviewers: *Tbaile* - Created at: 2025-05-05T07:24:37Z
+- :eyes:  **[chore(main): release 1.25.0](https://github.com/NethServer/nethsecurity-ui/pull/546)** by *Tbaile* - Reviewers: *None* - Created at: 2025-05-08T10:26:25Z
 - :eyes:  **[feat(threatshield): add currently banned ip list and ban search](https://github.com/NethServer/nethsecurity-ui/pull/538)** by *Tbaile* - Reviewers: *None* - Created at: 2025-04-29T14:17:07Z
 -   **[feat (dns_dhcp)Enhance filtering and sorting by device](https://github.com/NethServer/nethsecurity-ui/pull/537)** by *stephdl* - Reviewers: *Tbaile* - Created at: 2025-04-28T14:50:25Z
 - :eyes:  **[HA: add dashboard card](https://github.com/NethServer/nethsecurity-ui/pull/533)** by *gsanchietti* - Reviewers: *None* - Created at: 2025-04-17T07:36:06Z
@@ -60,10 +57,9 @@ date = 2025-05-13
 - :eyes:  **[feat: re-add setup wizard](https://github.com/NethServer/nethsecurity-docs/pull/166)** by *andre8244* - Reviewers: *None* - Created at: 2025-05-09T08:04:35Z
 -   **[feat: add high availability](https://github.com/NethServer/nethsecurity-docs/pull/163)** by *gsanchietti* - Reviewers: *filippocarletti, cotosso* - Created at: 2025-04-24T09:54:19Z
 
-### NethServer/nethlink 2 
+### NethServer/nethlink 1 
 
-- :eyes:  **[Add support for additional phone numbers in search results and details page updates](https://github.com/NethServer/nethlink/pull/63)** by *therockerline* - Reviewers: *None* - Created at: 2025-05-12T14:49:45Z
-- :eyes:  **[chore(dep): update phone-island](https://github.com/NethServer/nethlink/pull/62)** by *tonyco97* - Reviewers: *None* - Created at: 2025-04-28T10:25:17Z
+- :eyes:  **[feat: add support for displaying additional phone numbers in search results](https://github.com/NethServer/nethlink/pull/63)** by *therockerline* - Reviewers: *None* - Created at: 2025-05-12T14:49:45Z
 
 ## Organization: nethesis
 
