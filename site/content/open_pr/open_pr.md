@@ -1,20 +1,27 @@
 +++
 title = 'Open Pull Requests'
-date = 2025-05-14
+date = 2025-05-15
 +++
 
 ## Organization: nethserver
 
-### NethServer/ns8-core 1 
+### NethServer/ns8-core 2 
 
--   **[Add metrics settings and configuration features](https://github.com/NethServer/ns8-core/pull/875)** by *stephdl* - Reviewers: *gsanchietti, DavidePrincipi, andre8244* - Created at: 2025-05-12T15:57:25Z
+-   **[feat(api-server): add X-Auth-User header](https://github.com/NethServer/ns8-core/pull/876)** by *gsanchietti* - Reviewers: *DavidePrincipi* - Created at: 2025-05-13T16:05:26Z
+-   **[Add metrics settings and configuration features](https://github.com/NethServer/ns8-core/pull/875)** by *stephdl* - Reviewers: *gsanchietti* - Created at: 2025-05-12T15:57:25Z
+
+### NethServer/ns8-traefik 1 
+
+-   **[feat(set-route): add authResponseHeaders option](https://github.com/NethServer/ns8-traefik/pull/98)** by *gsanchietti* - Reviewers: *DavidePrincipi* - Created at: 2025-05-14T07:48:07Z
 
 ### NethServer/nethserver-ns8-migration 1 
 
 - :eyes:  **[feat(NethVoice): Migrate NethHotel database](https://github.com/NethServer/nethserver-ns8-migration/pull/115)** by *Stell0* - Reviewers: *None* - Created at: 2025-04-28T07:45:05Z
 
-### NethServer/nethsecurity 5 
+### NethServer/nethsecurity 7 
 
+- :eyes:  **[fix: storage creation must be after syslog setup](https://github.com/NethServer/nethsecurity/pull/1214)** by *filippocarletti* - Reviewers: *None* - Created at: 2025-05-14T10:34:38Z
+-   **[OpenVPN RW: add remote validation for OTP authentication](https://github.com/NethServer/nethsecurity/pull/1213)** by *gsanchietti* - Reviewers: *Tbaile* - Created at: 2025-05-14T10:24:28Z
 -   **[build: fix board.d for Z9](https://github.com/NethServer/nethsecurity/pull/1210)** by *filippocarletti* - Reviewers: *cotosso* - Created at: 2025-05-12T14:12:11Z
 - :eyes:  **[feat: disable i915](https://github.com/NethServer/nethsecurity/pull/1199)** by *filippocarletti* - Reviewers: *None* - Created at: 2025-05-05T17:59:01Z
 - :eyes:  **[feat(threatshield): active block list and ip search](https://github.com/NethServer/nethsecurity/pull/1190)** by *Tbaile* - Reviewers: *None* - Created at: 2025-04-29T08:26:41Z
@@ -24,12 +31,6 @@ date = 2025-05-14
 ### NethServer/ns8-nethsecurity-controller 1 
 
 -  :zzz: **[Fix traffic by hour histogram](https://github.com/NethServer/ns8-nethsecurity-controller/pull/78)** by *cotosso* - Reviewers: *gsanchietti* - Created at: 2025-03-04T18:04:21Z
-
-### NethServer/ns8-webtop 3 
-
-- :eyes:  **[fix(zpush): add SMTP config](https://github.com/NethServer/ns8-webtop/pull/124)** by *gsanchietti* - Reviewers: *None* - Created at: 2025-05-12T15:11:32Z
--   **[Add Tomcat configuration and custom JARs support](https://github.com/NethServer/ns8-webtop/pull/122)** by *stephdl* - Reviewers: *Amygos* - Created at: 2025-05-12T07:34:45Z
--   **[fix(phonebook): use UUIDv1 as contact_id](https://github.com/NethServer/ns8-webtop/pull/119)** by *gsanchietti* - Reviewers: *Amygos* - Created at: 2025-05-06T13:16:37Z
 
 ### NethServer/python3-nethsec 1 
 
@@ -45,8 +46,10 @@ date = 2025-05-14
 -   **[fix: update os_network.rst](https://github.com/NethServer/ns8-docs/pull/163)** by *DavidePrincipi* - Reviewers: *nrauso* - Created at: 2025-05-07T10:13:22Z
 -  :zzz: **[Update nethvoice_proxy.rst](https://github.com/NethServer/ns8-docs/pull/157)** by *viktec* - Reviewers: *andrea-marchionni* - Created at: 2025-04-10T17:06:20Z
 
-### NethServer/nethsecurity-ui 4 
+### NethServer/nethsecurity-ui 6 
 
+- :eyes:  **[Enhance filtering and error handling in StaticLeases component](https://github.com/NethServer/nethsecurity-ui/pull/549)** by *stephdl* - Reviewers: *None* - Created at: 2025-05-14T15:16:09Z
+-   **[feat(ovpnrw): show invalid users](https://github.com/NethServer/nethsecurity-ui/pull/548)** by *gsanchietti* - Reviewers: *Tbaile* - Created at: 2025-05-14T13:11:15Z
 - :eyes:  **[chore(main): release 1.25.0](https://github.com/NethServer/nethsecurity-ui/pull/546)** by *Tbaile* - Reviewers: *None* - Created at: 2025-05-08T10:26:25Z
 - :eyes:  **[feat(threatshield): add currently banned ip list and ban search](https://github.com/NethServer/nethsecurity-ui/pull/538)** by *Tbaile* - Reviewers: *None* - Created at: 2025-04-29T14:17:07Z
 -   **[feat (dns_dhcp)Enhance filtering and sorting by device](https://github.com/NethServer/nethsecurity-ui/pull/537)** by *stephdl* - Reviewers: *Tbaile* - Created at: 2025-04-28T14:50:25Z
@@ -60,6 +63,11 @@ date = 2025-05-14
 ### NethServer/nethlink 1 
 
 - :eyes:  **[feat: add support for displaying additional phone numbers in search results](https://github.com/NethServer/nethlink/pull/63)** by *therockerline* - Reviewers: *None* - Created at: 2025-05-12T14:49:45Z
+
+### NethServer/ns8-metrics 2 
+
+-   **[feat(grafana): integrated authentication](https://github.com/NethServer/ns8-metrics/pull/25)** by *gsanchietti* - Reviewers: *DavidePrincipi* - Created at: 2025-05-14T07:57:16Z
+-   **[Grafana and Prometheus provisioning](https://github.com/NethServer/ns8-metrics/pull/24)** by *gsanchietti* - Reviewers: *DavidePrincipi* - Created at: 2025-05-12T15:28:55Z
 
 ## Organization: nethesis
 
@@ -77,13 +85,13 @@ date = 2025-05-14
 
 ### nethesis/ns8-nethvoice 2 
 
--   **[feat(configure-module): publish SIP UDP srv key](https://github.com/nethesis/ns8-nethvoice/pull/446)** by *Amygos* - Reviewers: *Stell0* - Created at: 2025-05-12T14:19:22Z
-- :eyes:  **[feat(hotel): Port NethHotel from NethVoice14](https://github.com/nethesis/ns8-nethvoice/pull/436)** by *Stell0* - Reviewers: *None* - Created at: 2025-04-18T07:12:02Z
+- :eyes:  **[fix(voicemail): Use custom python app instead of s-nail for voicemails](https://github.com/nethesis/ns8-nethvoice/pull/447)** by *Stell0* - Reviewers: *None* - Created at: 2025-05-14T12:27:39Z
+-   **[feat(hotel): Port NethHotel from NethVoice14](https://github.com/nethesis/ns8-nethvoice/pull/436)** by *Stell0* - Reviewers: *Amygos* - Created at: 2025-04-18T07:12:02Z
 
 ### nethesis/ns8-nethvoice-proxy 3 
 
 - :eyes:  **[Fix SIP Call Termination Issues with Multiple Record-Route Headers](https://github.com/nethesis/ns8-nethvoice-proxy/pull/63)** by *Stell0* - Reviewers: *None* - Created at: 2025-05-06T10:12:51Z
--   **[Add backup and restore procedure](https://github.com/nethesis/ns8-nethvoice-proxy/pull/62)** by *Amygos* - Reviewers: *Stell0* - Created at: 2025-04-18T09:14:07Z
+- :eyes:  **[Add backup and restore procedure](https://github.com/nethesis/ns8-nethvoice-proxy/pull/62)** by *Amygos* - Reviewers: *None* - Created at: 2025-04-18T09:14:07Z
 - :eyes: :zzz: **[Remove Route header handling for inbound packets](https://github.com/nethesis/ns8-nethvoice-proxy/pull/49)** by *Amygos* - Reviewers: *None* - Created at: 2024-12-06T15:26:49Z
 
 ### nethesis/vue-components 2 
