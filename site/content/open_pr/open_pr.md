@@ -1,27 +1,25 @@
 +++
 title = 'Open Pull Requests'
-date = 2025-05-15
+date = 2025-05-16
 +++
 
 ## Organization: nethserver
 
-### NethServer/ns8-core 2 
+### NethServer/ns8-core 1 
 
--   **[feat(api-server): add X-Auth-User header](https://github.com/NethServer/ns8-core/pull/876)** by *gsanchietti* - Reviewers: *DavidePrincipi* - Created at: 2025-05-13T16:05:26Z
 -   **[Add metrics settings and configuration features](https://github.com/NethServer/ns8-core/pull/875)** by *stephdl* - Reviewers: *gsanchietti* - Created at: 2025-05-12T15:57:25Z
 
-### NethServer/ns8-traefik 1 
+### NethServer/ns8-ui-lib 1 
 
--   **[feat(set-route): add authResponseHeaders option](https://github.com/NethServer/ns8-traefik/pull/98)** by *gsanchietti* - Reviewers: *DavidePrincipi* - Created at: 2025-05-14T07:48:07Z
+-   **[feat(NsComboBox): add readonly support](https://github.com/NethServer/ns8-ui-lib/pull/37)** by *andre8244* - Reviewers: *Tbaile* - Created at: 2025-05-15T15:13:23Z
 
 ### NethServer/nethserver-ns8-migration 1 
 
 - :eyes:  **[feat(NethVoice): Migrate NethHotel database](https://github.com/NethServer/nethserver-ns8-migration/pull/115)** by *Stell0* - Reviewers: *None* - Created at: 2025-04-28T07:45:05Z
 
-### NethServer/nethsecurity 7 
+### NethServer/nethsecurity 6 
 
-- :eyes:  **[fix: storage creation must be after syslog setup](https://github.com/NethServer/nethsecurity/pull/1214)** by *filippocarletti* - Reviewers: *None* - Created at: 2025-05-14T10:34:38Z
--   **[OpenVPN RW: add remote validation for OTP authentication](https://github.com/NethServer/nethsecurity/pull/1213)** by *gsanchietti* - Reviewers: *Tbaile* - Created at: 2025-05-14T10:24:28Z
+- :eyes:  **[OpenVPN RW: add remote validation for OTP authentication](https://github.com/NethServer/nethsecurity/pull/1213)** by *gsanchietti* - Reviewers: *None* - Created at: 2025-05-14T10:24:28Z
 -   **[build: fix board.d for Z9](https://github.com/NethServer/nethsecurity/pull/1210)** by *filippocarletti* - Reviewers: *cotosso* - Created at: 2025-05-12T14:12:11Z
 - :eyes:  **[feat: disable i915](https://github.com/NethServer/nethsecurity/pull/1199)** by *filippocarletti* - Reviewers: *None* - Created at: 2025-05-05T17:59:01Z
 - :eyes:  **[feat(threatshield): active block list and ip search](https://github.com/NethServer/nethsecurity/pull/1190)** by *Tbaile* - Reviewers: *None* - Created at: 2025-04-29T08:26:41Z
@@ -46,13 +44,11 @@ date = 2025-05-15
 -   **[fix: update os_network.rst](https://github.com/NethServer/ns8-docs/pull/163)** by *DavidePrincipi* - Reviewers: *nrauso* - Created at: 2025-05-07T10:13:22Z
 -  :zzz: **[Update nethvoice_proxy.rst](https://github.com/NethServer/ns8-docs/pull/157)** by *viktec* - Reviewers: *andrea-marchionni* - Created at: 2025-04-10T17:06:20Z
 
-### NethServer/nethsecurity-ui 6 
+### NethServer/nethsecurity-ui 4 
 
-- :eyes:  **[Enhance filtering and error handling in StaticLeases component](https://github.com/NethServer/nethsecurity-ui/pull/549)** by *stephdl* - Reviewers: *None* - Created at: 2025-05-14T15:16:09Z
--   **[feat(ovpnrw): show invalid users](https://github.com/NethServer/nethsecurity-ui/pull/548)** by *gsanchietti* - Reviewers: *Tbaile* - Created at: 2025-05-14T13:11:15Z
-- :eyes:  **[chore(main): release 1.25.0](https://github.com/NethServer/nethsecurity-ui/pull/546)** by *Tbaile* - Reviewers: *None* - Created at: 2025-05-08T10:26:25Z
+-   **[feat(dhcp): enhance filtering and sorting by device](https://github.com/NethServer/nethsecurity-ui/pull/549)** by *stephdl* - Reviewers: *andre8244* - Created at: 2025-05-14T15:16:09Z
+- :eyes:  **[feat(ovpnrw): show invalid users](https://github.com/NethServer/nethsecurity-ui/pull/548)** by *gsanchietti* - Reviewers: *None* - Created at: 2025-05-14T13:11:15Z
 - :eyes:  **[feat(threatshield): add currently banned ip list and ban search](https://github.com/NethServer/nethsecurity-ui/pull/538)** by *Tbaile* - Reviewers: *None* - Created at: 2025-04-29T14:17:07Z
--   **[feat (dns_dhcp)Enhance filtering and sorting by device](https://github.com/NethServer/nethsecurity-ui/pull/537)** by *stephdl* - Reviewers: *Tbaile* - Created at: 2025-04-28T14:50:25Z
 - :eyes:  **[HA: add dashboard card](https://github.com/NethServer/nethsecurity-ui/pull/533)** by *gsanchietti* - Reviewers: *None* - Created at: 2025-04-17T07:36:06Z
 
 ### NethServer/nethsecurity-docs 2 
@@ -60,14 +56,10 @@ date = 2025-05-15
 - :eyes:  **[feat: re-add setup wizard](https://github.com/NethServer/nethsecurity-docs/pull/166)** by *andre8244* - Reviewers: *None* - Created at: 2025-05-09T08:04:35Z
 -   **[feat: add high availability](https://github.com/NethServer/nethsecurity-docs/pull/163)** by *gsanchietti* - Reviewers: *filippocarletti, cotosso* - Created at: 2025-04-24T09:54:19Z
 
-### NethServer/nethlink 1 
+### NethServer/nethlink 2 
 
+-   **[feat: Add preferred devices management](https://github.com/NethServer/nethlink/pull/64)** by *therockerline* - Reviewers: *edospadoni* - Created at: 2025-05-15T16:01:37Z
 - :eyes:  **[feat: add support for displaying additional phone numbers in search results](https://github.com/NethServer/nethlink/pull/63)** by *therockerline* - Reviewers: *None* - Created at: 2025-05-12T14:49:45Z
-
-### NethServer/ns8-metrics 2 
-
--   **[feat(grafana): integrated authentication](https://github.com/NethServer/ns8-metrics/pull/25)** by *gsanchietti* - Reviewers: *DavidePrincipi* - Created at: 2025-05-14T07:57:16Z
--   **[Grafana and Prometheus provisioning](https://github.com/NethServer/ns8-metrics/pull/24)** by *gsanchietti* - Reviewers: *DavidePrincipi* - Created at: 2025-05-12T15:28:55Z
 
 ## Organization: nethesis
 
