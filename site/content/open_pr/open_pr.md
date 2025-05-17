@@ -1,20 +1,22 @@
 +++
 title = 'Open Pull Requests'
-date = 2025-05-16
+date = 2025-05-17
 +++
 
 ## Organization: nethserver
 
 ### NethServer/ns8-core 1 
 
--   **[Add metrics settings and configuration features](https://github.com/NethServer/ns8-core/pull/875)** by *stephdl* - Reviewers: *gsanchietti* - Created at: 2025-05-12T15:57:25Z
+-   **[Update date formatting in LokiCard component](https://github.com/NethServer/ns8-core/pull/879)** by *stephdl* - Reviewers: *andre8244* - Created at: 2025-05-16T14:05:06Z
 
-### NethServer/ns8-ui-lib 1 
+### NethServer/ns8-samba 2 
 
--   **[feat(NsComboBox): add readonly support](https://github.com/NethServer/ns8-ui-lib/pull/37)** by *andre8244* - Reviewers: *Tbaile* - Created at: 2025-05-15T15:13:23Z
+-   **[feat: provision metrics](https://github.com/NethServer/ns8-samba/pull/93)** by *gsanchietti* - Reviewers: *DavidePrincipi* - Created at: 2025-05-16T14:09:45Z
+-   **[Samba Audit DB implementation](https://github.com/NethServer/ns8-samba/pull/92)** by *DavidePrincipi* - Reviewers: *gsanchietti* - Created at: 2025-05-15T15:32:12Z
 
-### NethServer/nethserver-ns8-migration 1 
+### NethServer/nethserver-ns8-migration 2 
 
+-   **[Fix abort action requiring sudo rights for migration log](https://github.com/NethServer/nethserver-ns8-migration/pull/117)** by *stephdl* - Reviewers: *DavidePrincipi* - Created at: 2025-05-16T13:29:17Z
 - :eyes:  **[feat(NethVoice): Migrate NethHotel database](https://github.com/NethServer/nethserver-ns8-migration/pull/115)** by *Stell0* - Reviewers: *None* - Created at: 2025-04-28T07:45:05Z
 
 ### NethServer/nethsecurity 6 
@@ -30,6 +32,10 @@ date = 2025-05-16
 
 -  :zzz: **[Fix traffic by hour histogram](https://github.com/NethServer/ns8-nethsecurity-controller/pull/78)** by *cotosso* - Reviewers: *gsanchietti* - Created at: 2025-03-04T18:04:21Z
 
+### NethServer/ns8-mattermost 1 
+
+-   **[Update Mattermost and Postgres image versions](https://github.com/NethServer/ns8-mattermost/pull/106)** by *stephdl* - Reviewers: *DavidePrincipi* - Created at: 2025-05-16T14:42:42Z
+
 ### NethServer/python3-nethsec 1 
 
 - :eyes:  **[feat(inventory): add ha statistics](https://github.com/NethServer/python3-nethsec/pull/98)** by *gsanchietti* - Reviewers: *None* - Created at: 2025-04-23T12:43:17Z
@@ -38,21 +44,23 @@ date = 2025-05-16
 
 - :eyes:  **[Upgrade piler to 1.4.7](https://github.com/NethServer/ns8-piler/pull/32)** by *stephdl* - Reviewers: *None* - Created at: 2025-04-30T09:52:17Z
 
-### NethServer/ns8-docs 3 
+### NethServer/ns8-docs 4 
 
+- :eyes:  **[add Yealink T7X T8X AX](https://github.com/NethServer/ns8-docs/pull/165)** by *andrea-marchionni* - Reviewers: *None* - Created at: 2025-05-16T16:03:23Z
 - :eyes:  **[Update note about IP change to clarify need for correct reconfiguration](https://github.com/NethServer/ns8-docs/pull/164)** by *IgonetIT* - Reviewers: *None* - Created at: 2025-05-08T09:20:48Z
 -   **[fix: update os_network.rst](https://github.com/NethServer/ns8-docs/pull/163)** by *DavidePrincipi* - Reviewers: *nrauso* - Created at: 2025-05-07T10:13:22Z
 -  :zzz: **[Update nethvoice_proxy.rst](https://github.com/NethServer/ns8-docs/pull/157)** by *viktec* - Reviewers: *andrea-marchionni* - Created at: 2025-04-10T17:06:20Z
 
 ### NethServer/nethsecurity-ui 4 
 
--   **[feat(dhcp): enhance filtering and sorting by device](https://github.com/NethServer/nethsecurity-ui/pull/549)** by *stephdl* - Reviewers: *andre8244* - Created at: 2025-05-14T15:16:09Z
+- :eyes:  **[feat(dhcp): enhance filtering and sorting by device](https://github.com/NethServer/nethsecurity-ui/pull/549)** by *stephdl* - Reviewers: *None* - Created at: 2025-05-14T15:16:09Z
 - :eyes:  **[feat(ovpnrw): show invalid users](https://github.com/NethServer/nethsecurity-ui/pull/548)** by *gsanchietti* - Reviewers: *None* - Created at: 2025-05-14T13:11:15Z
 - :eyes:  **[feat(threatshield): add currently banned ip list and ban search](https://github.com/NethServer/nethsecurity-ui/pull/538)** by *Tbaile* - Reviewers: *None* - Created at: 2025-04-29T14:17:07Z
 - :eyes:  **[HA: add dashboard card](https://github.com/NethServer/nethsecurity-ui/pull/533)** by *gsanchietti* - Reviewers: *None* - Created at: 2025-04-17T07:36:06Z
 
-### NethServer/nethsecurity-docs 2 
+### NethServer/nethsecurity-docs 3 
 
+-   **[Logs on storage by default](https://github.com/NethServer/nethsecurity-docs/pull/167)** by *cotosso* - Reviewers: *filippocarletti, gsanchietti* - Created at: 2025-05-16T14:19:42Z
 - :eyes:  **[feat: re-add setup wizard](https://github.com/NethServer/nethsecurity-docs/pull/166)** by *andre8244* - Reviewers: *None* - Created at: 2025-05-09T08:04:35Z
 -   **[feat: add high availability](https://github.com/NethServer/nethsecurity-docs/pull/163)** by *gsanchietti* - Reviewers: *filippocarletti, cotosso* - Created at: 2025-04-24T09:54:19Z
 
@@ -74,6 +82,10 @@ date = 2025-05-16
 ### nethesis/nethcti-app-iphone 1 
 
 -  :zzz: **[Removed old notification service usage](https://github.com/nethesis/nethcti-app-iphone/pull/37)** by *NicolaMrAPPs* - Reviewers: *b9874e40962149eee62a8fd3bc4e709e* - Created at: 2023-08-02T09:19:30Z
+
+### nethesis/tancredi 1 
+
+- :eyes:  **[add Yealink T7X T8X AX](https://github.com/nethesis/tancredi/pull/314)** by *andrea-marchionni* - Reviewers: *None* - Created at: 2025-05-16T16:02:05Z
 
 ### nethesis/ns8-nethvoice 2 
 
