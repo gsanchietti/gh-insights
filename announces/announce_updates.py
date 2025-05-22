@@ -28,7 +28,7 @@ def create_announcement_title(product, language):
         ("user", f"""Create a title for the following announcement for product {product}.
         The post will be sent to Discourse community.
         Keep it brief and clear, ensuring it's understandable to a technical audience unfamiliar with the codebase.
-        Each product should have different titles and emoticons. Use these emoticons:
+        Each product should have different titles and emoticons. Use no more than one emoticon. Use these emoticons:
          - NethServer: something related to containers or packages
          - NethSecurity: something related to security, shield, wall or firewall
          - NethVoice: something related to telephony or voice
