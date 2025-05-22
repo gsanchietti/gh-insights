@@ -16,15 +16,30 @@ from langchain_openai import ChatOpenAI
 from langchain.prompts import ChatPromptTemplate
 import random
 import time
+import json
 
+def translate_announcement_prompt(announcement, language):
+    """Create a prompt for the LLM to translate the announcement."""
+    return ChatPromptTemplate.from_messages([
+        ("system", f"You are a professional translator."),
+        ("user", f"Translate the following announcement into {language}. Keep markdown formatting and do not change the meaning.\n\n{announcement}.")
+   ])
 
-def create_announcement_title(product, language):
+def translate_announcement_title_prompt(title, language):
+    """Create a prompt for the LLM to translate the title."""
+    return ChatPromptTemplate.from_messages([
+        ("system", f"You are a professional translator."),
+        ("user", f"Translate the following title into {language}. Keep markdown formatting and do not change the meaning.\n\n{title}.")
+   ])
+
+def create_announcement_title(product):
     """Create a prompt for the LLM to generate a title for the announcement."""
     return ChatPromptTemplate.from_messages([
-        ("system", f"""You are an expert in creating titles for release notes.
-        Your goal is to create a title that summarizes the release notes.
+        ("system", f"""You are an expert in communication, to explain techincal things to non-techincal peopole.
+        Your goal is to create a title that summarizes the list of changes.
+        This is not a full release, but just a summary of recent changes.
         You can use emoticons but not bold or italic.
-        Write in {language}"""),
+        Write in English"""),
         ("user", f"""Create a title for the following announcement for product {product}.
         The post will be sent to Discourse community.
         Keep it brief and clear, ensuring it's understandable to a technical audience unfamiliar with the codebase.
@@ -36,18 +51,18 @@ def create_announcement_title(product, language):
         """)
     ])
 
-def create_announcement_prompt(product, issues, language):
+def create_announcement_prompt(product, issues):
 	"""Create a prompt for the LLM to generate the announcement."""
 	return ChatPromptTemplate.from_messages([
 		("system", f"""You are an expert in simplifying technical release notes for broader audiences.
 		Your goal is to explain complex release notes, focusing on clarity and relevance for community users
-        without deep technical knowledge.
+        without deep technical knowledge. This is not a full release, but just a summary of recent changes.
         You're given a list of issues already explained.
         Organize them for a release announcement.
         First, explain the features than list the bug fixes.
         Try to highlight the most important features and bug fixes.
         Do not invent any information.
-		Write in {language}"""),
+		Write in English"""),
 		("user", f"""Create a 2-week summary for the following product {product}.
         Use a professional style and a friendly tone.
         The summary should be suitable for a community audience.
@@ -56,7 +71,7 @@ def create_announcement_prompt(product, issues, language):
 		Keep it brief and clear, ensuring it's understandable to a technical audience unfamiliar with the codebase.
         If an issue is a Design type, highlight that a mockup is available but the feature is not implemented yet.
    
-        Each product should have different titles and emoticons. Use these emoticons:
+        Each product should have different titles and emoticons. Use no more than one emoticon. Use these emoticons:
          - NethServer: something related to containers or packages
          - NethSecurity: something related to security, shield, wall or firewall
          - NethVoice: something related to telephony or voice
@@ -116,30 +131,13 @@ def create_change_list(issues):
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(description="Announce weekly updates.")
-    parser.add_argument("--discourse-host", required=True, help="Discourse host (required).")
-    parser.add_argument("--discourse-category-id", required=True, type=int, help="Discourse category ID (required).")
-    parser.add_argument("--discourse-tags", type=lambda s: s.split(','), help="Optional comma-separated list of tags for the Discourse post.")
-    parser.add_argument("--github-repository", required=True, help="Repository in the form Organization/repository (required).")
-    parser.add_argument("--product", required=True, help="Product name (required).")
-    parser.add_argument("--language", default="english", help="Language for the announcement (default: english).")
+    parser.add_argument("--config-file", required=True, help="Path to the configuration file (required).")
     args = parser.parse_args()
 
     # Get environment variable for GitHub token
     gh_token = os.getenv("GITHUB_TOKEN")
     if not gh_token:
         print("Error: GITHUB_TOKEN environment variable is not set.", file=sys.stderr)
-        sys.exit(1)
-
-    # Get environment variable for Discourse API username
-    discourse_api_username = os.getenv("DISCOURSE_API_USERNAME")
-    if not discourse_api_username:
-        print("Error: DISCOURSE_API_USERNAME environment variable is not set.", file=sys.stderr)
-        sys.exit(1)
-
-    # Get environment variable for Discourse API key
-    discourse_api_key = os.getenv("DISCOURSE_API_KEY")
-    if not discourse_api_key:
-        print("Error: DISCOURSE_API_KEY environment variable is not set.", file=sys.stderr)
         sys.exit(1)
 
     # Check if the script is running on GitHub CI
@@ -151,47 +149,73 @@ if __name__ == "__main__":
     # Get the date from two weeks ago in ISO format
     two_weeks_ago = (datetime.now(timezone.utc) - timedelta(days=14)).replace(hour=0, minute=0, second=1, microsecond=0).isoformat()
 
-    closed_issues = fetch_closed_issues(gh_token, args.product, args.github_repository, two_weeks_ago)
-    if not closed_issues:
-        print("No updates", file=sys.stderr)
-        sys.exit(0)
-    changes = create_change_list(closed_issues)  
-
     # Create the LLM chain
     llm = ChatOpenAI(
         model="gpt-4o-mini",
         api_key=gh_token,
         base_url="https://models.inference.ai.azure.com",
-        #rate_limiter=rate_limiter
     )
 
-	# Generate the announcement
-    response = llm.invoke(create_announcement_prompt(args.product, changes, args.language).format_prompt())
-    announcement = response.content
-    title = llm.invoke(create_announcement_title(args.product, args.language).format_prompt()).content
+    # Load the configuration file
+    with open(args.config_file, "r") as fp:
+        config = json.load(fp)
 
-    # Exit if announcement or title are empty
-    if not announcement.strip() or not title.strip():
-        print("Error: Announcement or title is empty.", file=sys.stderr)
-        sys.exit(1)
+    to_be_published = []
 
-    # Output the announcement to a file for later use
-    file = f"announcement-{args.product}-{args.language}.md"
-    print(f"Writing announcement to {file}", file=sys.stderr)
-    with open(file, "w") as f:
-        f.write(announcement)
+    # Generate the announcement for each product
+    for product in config["products"]:
+        print(f"Processing product: {product.get('name')}", file=sys.stderr)
+        closed_issues = fetch_closed_issues(gh_token, product.get('name'), product.get('repository'), two_weeks_ago)
+
+        if not closed_issues:
+            print(f"Skipping {product.get('name')}: no closed issues", file=sys.stderr)
+        else:
+            changes = create_change_list(closed_issues)  
+
+            # Generate the English announcement
+            response_en = llm.invoke(create_announcement_prompt(product.get('name'), changes).format_prompt())
+            announcement_en = response_en.content
+            title_en = llm.invoke(create_announcement_title(product.get('name')).format_prompt()).content
+
+            if not announcement_en.strip() or not title_en.strip():
+                print("Error on English announcement: content or title is empty.", file=sys.stderr)
+            else:
+                print(f"Writing announcement to file: announcement-{product.get('name')}-en.md", file=sys.stderr)
+                with open(f"announcement-{product.get('name')}-en.md", "w") as f:
+                    f.write(announcement_en)
+                to_be_published.append( {"language": "english", "title": title_en, "content": announcement_en} )
+                
+            response_it = llm.invoke(translate_announcement_prompt(announcement_en, "Italian").format_prompt())
+            announcement_it = response_it.content
+            title_it = llm.invoke(translate_announcement_title_prompt(title_en, "Italian").format_prompt()).content
+
+            if not announcement_it.strip() or not title_it.strip():
+                print("Error on Italian announcement: content or title is empty.", file=sys.stderr)
+            else:
+                print(f"Writing announcement to file: announcement-{product.get('name')}-it.md", file=sys.stderr)
+                with open(f"announcement-{product.get('name')}-it.md", "w") as f:
+                    f.write(announcement_it)
+                to_be_published.append( {"language": "italian", "title": title_it, "content": announcement_it} )
+            
+            break
 
     # Send to Discourse
-    headers = {"Accept": "application/json; charset=utf-8", "Api-Username": discourse_api_username, "Api-Key": discourse_api_key}
-    discourse_response = requests.post(
-        f'{args.discourse_host}/posts',
-        json={"raw": announcement, "category": args.discourse_category_id, "title": title, "tags": args.discourse_tags},
-        headers=headers,
-        allow_redirects=True
-    )
-    if discourse_response.status_code == 200:
-        print("Message sent to Discourse!", file=sys.stderr)
-    else:
-        print(f"Discourse response: {discourse_response.json()}", file=sys.stderr)
-        print(f"Error when sending the message to Discourse: {discourse_response.text}", file=sys.stderr)
-        sys.exit(1)
+    for draft in to_be_published:
+        discourse_config = config["discourses"][draft["language"]]
+        headers = {"Accept": "application/json; charset=utf-8", "Api-Username": discourse_config["api_username"], "Api-Key": discourse_config["api_key"]}
+
+        tmp = {"raw": draft['content'], "category": discourse_config.get("category_id"), "title": draft["title"], "tags": discourse_config.get('tags')}
+        print(f"Sending to Discourse: {tmp}", file=sys.stderr)
+        continue
+        discourse_response = requests.post(
+            f'{args.discourse_host}/posts',
+            json={"raw": draft['content'], "category": discourse_config.get("category_id"), "title": draft["title"], "tags": discourse_config.get('tags')},
+            headers=headers,
+            allow_redirects=True
+        )
+        if discourse_response.status_code == 200:
+            print("Message sent to Discourse!", file=sys.stderr)
+        else:
+            print(f"Discourse response: {discourse_response.json()}", file=sys.stderr)
+            print(f"Error when sending the message to Discourse: {discourse_response.text}", file=sys.stderr)
+            sys.exit(1)
