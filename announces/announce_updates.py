@@ -22,23 +22,23 @@ def translate_announcement_prompt(announcement, language):
     """Create a prompt for the LLM to translate the announcement."""
     return ChatPromptTemplate.from_messages([
         ("system", f"You are a professional translator."),
-        ("user", f"Translate the following announcement into {language}. Keep markdown formatting and do not change the meaning.\n\n{announcement}.")
+        ("user", f"Translate the following announcement into {language}. Do not translate everything: keep techincal terms in English. Keep markdown formatting and do not change the meaning.\n\n{announcement}.")
    ])
 
 def translate_announcement_title_prompt(title, language):
     """Create a prompt for the LLM to translate the title."""
     return ChatPromptTemplate.from_messages([
         ("system", f"You are a professional translator."),
-        ("user", f"Translate the following title into {language}. Keep markdown formatting and do not change the meaning.\n\n{title}.")
+        ("user", f"Translate the following title into {language}. Do not translate everything: keep techincal terms in English. Keep markdown formatting and do not change the meaning.\n\n{title}.")
    ])
 
 def create_announcement_title(product):
     """Create a prompt for the LLM to generate a title for the announcement."""
     return ChatPromptTemplate.from_messages([
         ("system", f"""You are an expert in communication, to explain techincal things to non-techincal peopole.
-        Your goal is to create a title that summarizes the list of changes.
+        Your goal is to create a title that summarizes the list of changes of one single product.
         This is not a full release, but just a summary of recent changes.
-        You can use emoticons but not bold or italic.
+        You can use just one emoticon, but not bold or italic.
         Write in English"""),
         ("user", f"""Create a title for the following announcement for product {product}.
         The post will be sent to Discourse community.
@@ -175,7 +175,10 @@ if __name__ == "__main__":
             # Generate the English announcement
             response_en = llm.invoke(create_announcement_prompt(product.get('name'), changes).format_prompt())
             announcement_en = response_en.content
+            print(product.get('name'), file=sys.stderr)
             title_en = llm.invoke(create_announcement_title(product.get('name')).format_prompt()).content
+            print(f"Title: {title_en}", file=sys.stderr)
+            sys.exit(0)
 
             if not announcement_en.strip() or not title_en.strip():
                 print("Error on English announcement: content or title is empty.", file=sys.stderr)
@@ -197,16 +200,11 @@ if __name__ == "__main__":
                     f.write(announcement_it)
                 to_be_published.append( {"language": "italian", "title": title_it, "content": announcement_it} )
             
-            break
-
     # Send to Discourse
     for draft in to_be_published:
         discourse_config = config["discourses"][draft["language"]]
         headers = {"Accept": "application/json; charset=utf-8", "Api-Username": discourse_config["api_username"], "Api-Key": discourse_config["api_key"]}
 
-        tmp = {"raw": draft['content'], "category": discourse_config.get("category_id"), "title": draft["title"], "tags": discourse_config.get('tags')}
-        print(f"Sending to Discourse: {tmp}", file=sys.stderr)
-        continue
         discourse_response = requests.post(
             f'{args.discourse_host}/posts',
             json={"raw": draft['content'], "category": discourse_config.get("category_id"), "title": draft["title"], "tags": discourse_config.get('tags')},
@@ -218,4 +216,3 @@ if __name__ == "__main__":
         else:
             print(f"Discourse response: {discourse_response.json()}", file=sys.stderr)
             print(f"Error when sending the message to Discourse: {discourse_response.text}", file=sys.stderr)
-            sys.exit(1)
