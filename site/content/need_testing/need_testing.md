@@ -1,18 +1,22 @@
 +++
-title = 'Need testing (7)'
-date = 2025-05-12
+title = 'Need testing (11)'
+date = 2025-05-23
 +++
 
-## NethServer
-- **[WebTop pecbridge update 5.4.7](https://github.com/NethServer/dev/issues/7447)** (#7258) by *lucagasparini* (Created: 2025-05-08, Updated: 2025-05-08T12:15:06Z)
-- :point_right: **[Webtop custom .jar files](https://github.com/NethServer/dev/issues/7381)** (#7258) by *DavidePrincipi* (Created: 2025-04-07, Updated: 2025-05-07T10:20:14Z)
-
 ## NethVoice
-- **[Delay FreePBX restart on update if there are active calls](https://github.com/NethServer/dev/issues/7442)** (#7258) by *Stell0* (Created: 2025-05-06, Updated: 2025-05-09T07:31:30Z)
-- **[NethVoice migration print varios errors when volumes are initialized](https://github.com/NethServer/dev/issues/7441)** (#7258) by *Stell0* (Created: 2025-05-06, Updated: 2025-05-07T12:30:39Z)
-- :point_right: **[NethVoice CTI - Voicemail UI Refinement](https://github.com/NethServer/dev/issues/7368)** (#7258) by *AmaLuci* (Created: 2025-03-28, Updated: 2025-05-09T14:50:53Z)
-- :point_right: **[CTI Login Failure After NethVoice Module Move](https://github.com/NethServer/dev/issues/7258)** (#7258) by *Amygos* (Created: 2025-01-15, Updated: 2025-05-06T14:24:00Z)
+- **[NethVoice: Add New VoIP Provider NetoIP to Configuration Wizard](https://github.com/NethServer/dev/issues/7471)** (#7331) by *margit86* (Created: 2025-05-19, Updated: 2025-05-19T16:13:49Z)
+- **[NethVoice: NethVoice – Add Support for New Yealink T7X, T8X, and AXX Series Model](https://github.com/NethServer/dev/issues/7469)** (#7331) by *andrea-marchionni* (Created: 2025-05-16, Updated: 2025-05-22T09:27:29Z)
+- :point_right: **[Nethvoice voicemails recognized as spam due to invalid header](https://github.com/NethServer/dev/issues/7461)** (#7331) by *Stell0* (Created: 2025-05-14, Updated: 2025-05-19T16:15:37Z)
+- :point_right: **[NethHotel: port old NethHotel from NethVoice14](https://github.com/NethServer/dev/issues/7425)** (#7331) by *Stell0* (Created: 2025-04-23, Updated: 2025-05-20T08:50:07Z)
+- :point_right: **[NethLink: allow Audio/Video device configuration in NethLink](https://github.com/NethServer/dev/issues/7414)** (#7331) by *edospadoni* (Created: 2025-04-18, Updated: 2025-05-20T07:03:20Z)
+- :point_right: **[NethLink: the phonebook search only displays mobile numbers.](https://github.com/NethServer/dev/issues/7339)** (#7331) by *andrea-marchionni* (Created: 2025-03-04, Updated: 2025-05-19T07:55:24Z)
+- :point_right: **[Update VoIP providers at module update](https://github.com/NethServer/dev/issues/7331)** (#7331) by *Stell0* (Created: 2025-02-21, Updated: 2025-05-21T10:01:34Z)
 
-## NoMilestone
-- :point_right: **[NethVoice: WiC trunks](https://github.com/NethServer/dev/issues/7370)** (#7258) by *Amygos* (Created: 2025-03-28, Updated: 2025-05-06T14:24:02Z)
+## NethServer
+- :point_right: **[WebTop 5.28.5](https://github.com/NethServer/dev/issues/7415)** (#7331) by *lucagasparini* (Created: 2025-04-18, Updated: 2025-05-21T09:00:36Z)
+
+## NethSecurity
+- :point_right: **[openvpn: issues with user renaming and login consistency](https://github.com/NethServer/nethsecurity/issues/1209)** (#924) by *Tbaile* (Created: 2025-05-09, Updated: 2025-05-21T13:26:33Z)
+- :point_right: **[Add dropdown filter for static leases by interface](https://github.com/NethServer/nethsecurity/issues/1085)** (#924) by *cotosso* (Created: 2025-02-18, Updated: 2025-05-21T15:19:38Z)
+- :point_right: **[Threat shield IP UI: manage list of blocked IPs](https://github.com/NethServer/nethsecurity/issues/924)** (#924) by *gsanchietti* (Created: 2024-11-20, Updated: 2025-05-21T15:17:39Z)
 
