@@ -1,6 +1,6 @@
 +++
 title = 'Open Pull Requests by Bots'
-date = 2025-05-23
+date = 2025-05-24
 +++
 
 ## Organization: nethserver
@@ -15,14 +15,6 @@ date = 2025-05-23
 - :eyes: :zzz: **[chore(deps): update redis docker tag to v7.4.3](https://github.com/NethServer/ns8-core/pull/830)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-03-13T14:07:34Z
 - :eyes: :zzz: **[chore(deps): update ghcr.io/marketsquare/robotframework-browser/rfbrowser-stable docker tag to v19](https://github.com/NethServer/ns8-core/pull/804)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-02-11T01:11:58Z
 
-### NethServer/ns8-kickstart 5 
-
-- :eyes:  **[build(deps): bump axios from 0.21.2 to 1.9.0 in /ui](https://github.com/NethServer/ns8-kickstart/pull/55)** by *dependabot[bot]* - Reviewers: *None* - Created at: 2025-05-23T01:09:33Z
-- :eyes:  **[build(deps): bump @carbon/icons-vue from 10.41.0 to 10.99.1 in /ui](https://github.com/NethServer/ns8-kickstart/pull/54)** by *dependabot[bot]* - Reviewers: *None* - Created at: 2025-05-23T01:09:19Z
-- :eyes:  **[build(deps): bump sass from 1.43.4 to 1.89.0 in /ui](https://github.com/NethServer/ns8-kickstart/pull/53)** by *dependabot[bot]* - Reviewers: *None* - Created at: 2025-05-23T01:08:51Z
-- :eyes:  **[build(deps): bump @nethserver/ns8-ui-lib from 0.1.25 to 1.3.0 in /ui](https://github.com/NethServer/ns8-kickstart/pull/52)** by *dependabot[bot]* - Reviewers: *None* - Created at: 2025-05-23T01:08:38Z
-- :eyes:  **[build(deps-dev): bump @vue/cli-plugin-eslint from 4.5.13 to 4.5.19 in /ui](https://github.com/NethServer/ns8-kickstart/pull/51)** by *dependabot[bot]* - Reviewers: *None* - Created at: 2025-05-23T01:08:31Z
-
 ### NethServer/ns8-dokuwiki 2 
 
 - :eyes: :zzz: **[chore(deps): update ghcr.io/marketsquare/robotframework-browser/rfbrowser-stable docker tag to v19.5.1](https://github.com/NethServer/ns8-dokuwiki/pull/41)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-01-26T17:30:14Z
@@ -31,11 +23,11 @@ date = 2025-05-23
 ### NethServer/ns8-mariadb 2 
 
 - :eyes:  **[chore(deps): update mariadb docker tag to v10.11.13](https://github.com/NethServer/ns8-mariadb/pull/50)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-05-23T02:53:20Z
-- :eyes:  **[Translations update from Hosted Weblate](https://github.com/NethServer/ns8-mariadb/pull/49)** by *weblate* - Reviewers: *None* - Created at: 2025-04-23T20:01:51Z
+- :eyes: :zzz: **[Translations update from Hosted Weblate](https://github.com/NethServer/ns8-mariadb/pull/49)** by *weblate* - Reviewers: *None* - Created at: 2025-04-23T20:01:51Z
 
 ### NethServer/ns8-webserver 4 
 
-- :eyes:  **[chore(deps): update nginx docker tag to v1.28.0](https://github.com/NethServer/ns8-webserver/pull/100)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-04-23T23:50:31Z
+- :eyes: :zzz: **[chore(deps): update nginx docker tag to v1.28.0](https://github.com/NethServer/ns8-webserver/pull/100)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-04-23T23:50:31Z
 - :eyes: :zzz: **[Translations update from Hosted Weblate](https://github.com/NethServer/ns8-webserver/pull/99)** by *weblate* - Reviewers: *None* - Created at: 2025-04-22T10:10:04Z
 -  :zzz: **[chore(deps): update ghcr.io/marketsquare/robotframework-browser/rfbrowser-stable docker tag to v19](https://github.com/NethServer/ns8-webserver/pull/83)** by *renovate[bot]* - Reviewers: *stephdl* - Created at: 2024-11-27T11:53:06Z
 -  :zzz: **[chore(deps): update ghcr.io/marketsquare/robotframework-browser/rfbrowser-stable docker tag to v10.1.0](https://github.com/NethServer/ns8-webserver/pull/76)** by *renovate[bot]* - Reviewers: *stephdl* - Created at: 2024-10-17T13:08:31Z
@@ -111,7 +103,7 @@ date = 2025-05-23
 ### NethServer/ns8-collabora 2 
 
 - :eyes:  **[chore(deps): update collabora/code docker tag to v25](https://github.com/NethServer/ns8-collabora/pull/41)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-04-30T17:04:56Z
-- :eyes:  **[Translations update from Hosted Weblate](https://github.com/NethServer/ns8-collabora/pull/40)** by *weblate* - Reviewers: *None* - Created at: 2025-04-23T20:02:12Z
+- :eyes: :zzz: **[Translations update from Hosted Weblate](https://github.com/NethServer/ns8-collabora/pull/40)** by *weblate* - Reviewers: *None* - Created at: 2025-04-23T20:02:12Z
 
 ### NethServer/ns8-webtop 1 
 

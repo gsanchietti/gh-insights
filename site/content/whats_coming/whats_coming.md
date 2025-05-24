@@ -2,13 +2,15 @@
 
 title = 'To be released soon'
 
-date = 2025-05-23
+date = 2025-05-24
 
 +++
 
 ### NethServer
 
 - [WebTop pecbridge update 5.4.8](https://github.com/NethServer/dev/issues/7447) (#7381) by lucagasparini (Created: 2025-05-08T09:29:17Z, Updated: 2025-05-12T10:06:19Z)
+
+- [WebTop 5.28.5](https://github.com/NethServer/dev/issues/7415) (#7381) by lucagasparini (Created: 2025-04-18T13:12:42Z, Updated: 2025-05-23T07:29:18Z)
 
 - [Webtop custom .jar files](https://github.com/NethServer/dev/issues/7381) (#7381) by DavidePrincipi (Created: 2025-04-07T12:14:26Z, Updated: 2025-05-14T12:27:47Z)
 
