@@ -1,6 +1,6 @@
 +++
 title = 'Open Pull Requests'
-date = 2025-05-24
+date = 2025-05-25
 +++
 
 ## Organization: nethserver
@@ -44,7 +44,7 @@ date = 2025-05-24
 - :eyes:  **[Update dpi_filter.rst](https://github.com/NethServer/nethsecurity-docs/pull/168)** by *cotosso* - Reviewers: *None* - Created at: 2025-05-20T13:17:23Z
 - :eyes:  **[Logs on storage by default](https://github.com/NethServer/nethsecurity-docs/pull/167)** by *cotosso* - Reviewers: *None* - Created at: 2025-05-16T14:19:42Z
 - :eyes:  **[feat: re-add setup wizard](https://github.com/NethServer/nethsecurity-docs/pull/166)** by *andre8244* - Reviewers: *None* - Created at: 2025-05-09T08:04:35Z
--   **[feat: add high availability](https://github.com/NethServer/nethsecurity-docs/pull/163)** by *gsanchietti* - Reviewers: *filippocarletti, cotosso* - Created at: 2025-04-24T09:54:19Z
+-  :zzz: **[feat: add high availability](https://github.com/NethServer/nethsecurity-docs/pull/163)** by *gsanchietti* - Reviewers: *filippocarletti, cotosso* - Created at: 2025-04-24T09:54:19Z
 
 ### NethServer/nethlink 1 
 
