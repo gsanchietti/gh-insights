@@ -1,6 +1,6 @@
 +++
 title = 'Open Pull Requests by Bots'
-date = 2025-05-25
+date = 2025-05-26
 +++
 
 ## Organization: nethserver
@@ -14,6 +14,14 @@ date = 2025-05-25
 - :eyes: :zzz: **[chore(deps): bump axios from 0.21.4 to 0.30.0 in /core/ui](https://github.com/NethServer/ns8-core/pull/845)** by *dependabot[bot]* - Reviewers: *None* - Created at: 2025-03-31T06:21:46Z
 - :eyes: :zzz: **[chore(deps): update redis docker tag to v7.4.3](https://github.com/NethServer/ns8-core/pull/830)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-03-13T14:07:34Z
 - :eyes: :zzz: **[chore(deps): update ghcr.io/marketsquare/robotframework-browser/rfbrowser-stable docker tag to v19](https://github.com/NethServer/ns8-core/pull/804)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-02-11T01:11:58Z
+
+### NethServer/ns8-kickstart 5 
+
+- :eyes:  **[build(deps): bump vue-axios from 3.2.4 to 3.5.2 in /ui](https://github.com/NethServer/ns8-kickstart/pull/60)** by *dependabot[bot]* - Reviewers: *None* - Created at: 2025-05-26T00:33:12Z
+- :eyes:  **[build(deps-dev): bump @vue/cli-plugin-babel from 4.5.13 to 5.0.8 in /ui](https://github.com/NethServer/ns8-kickstart/pull/59)** by *dependabot[bot]* - Reviewers: *None* - Created at: 2025-05-26T00:31:55Z
+- :eyes:  **[build(deps-dev): bump eslint-plugin-prettier from 3.4.0 to 3.4.1 in /ui](https://github.com/NethServer/ns8-kickstart/pull/58)** by *dependabot[bot]* - Reviewers: *None* - Created at: 2025-05-26T00:28:48Z
+- :eyes:  **[build(deps): bump carbon-components from 10.46.0 to 10.59.1 in /ui](https://github.com/NethServer/ns8-kickstart/pull/57)** by *dependabot[bot]* - Reviewers: *None* - Created at: 2025-05-26T00:26:39Z
+- :eyes:  **[build(deps): bump @carbon/vue from 2.40.0 to 3.0.26 in /ui](https://github.com/NethServer/ns8-kickstart/pull/56)** by *dependabot[bot]* - Reviewers: *None* - Created at: 2025-05-26T00:25:03Z
 
 ### NethServer/ns8-dokuwiki 2 
 
@@ -78,8 +86,10 @@ date = 2025-05-25
 
 - :eyes:  **[chore: bump ns packages (automatic)](https://github.com/NethServer/nethsecurity/pull/1211)** by *github-actions[bot]* - Reviewers: *None* - Created at: 2025-05-13T07:28:46Z
 
-### NethServer/nethsecurity-controller 4 
+### NethServer/nethsecurity-controller 6 
 
+- :eyes:  **[chore(deps): update dependency nethserver/nethsecurity-ui to v1.25.0](https://github.com/NethServer/nethsecurity-controller/pull/117)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-05-26T01:33:20Z
+- :eyes:  **[fix(deps): update module github.com/gin-gonic/gin to v1.10.1](https://github.com/NethServer/nethsecurity-controller/pull/116)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-05-26T01:33:14Z
 - :eyes: :zzz: **[chore(deps): update docker/build-push-action action to v6](https://github.com/NethServer/nethsecurity-controller/pull/106)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-04-07T03:31:11Z
 - :eyes: :zzz: **[chore(deps): update docker.io/traefik docker tag to v3](https://github.com/NethServer/nethsecurity-controller/pull/95)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-03-31T03:07:13Z
 - :eyes: :zzz: **[chore(deps): update docker.io/alpine docker tag to v3.21.3](https://github.com/NethServer/nethsecurity-controller/pull/92)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-03-25T09:07:13Z
