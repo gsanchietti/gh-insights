@@ -1,13 +1,12 @@
 +++
 title = 'Open Pull Requests'
-date = 2025-05-26
+date = 2025-05-27
 +++
 
 ## Organization: nethserver
 
-### NethServer/nethsecurity 4 
+### NethServer/nethsecurity 3 
 
-- :eyes:  **[fix(banip): remove non-existing lists](https://github.com/NethServer/nethsecurity/pull/1229)** by *gsanchietti* - Reviewers: *None* - Created at: 2025-05-23T12:30:03Z
 - :eyes:  **[build: fix board.d for Z9](https://github.com/NethServer/nethsecurity/pull/1210)** by *filippocarletti* - Reviewers: *None* - Created at: 2025-05-12T14:12:11Z
 - :eyes:  **[feat: disable i915](https://github.com/NethServer/nethsecurity/pull/1199)** by *filippocarletti* - Reviewers: *None* - Created at: 2025-05-05T17:59:01Z
 -  :zzz: **[High availability stack](https://github.com/NethServer/nethsecurity/pull/871)** by *gsanchietti* - Reviewers: *filippocarletti, Tbaile* - Created at: 2024-10-23T15:36:11Z
@@ -18,7 +17,7 @@ date = 2025-05-26
 
 ### NethServer/ns8-webtop 1 
 
--   **[Feat: autoconfiguration for email clients](https://github.com/NethServer/ns8-webtop/pull/128)** by *stephdl* - Reviewers: *DavidePrincipi, lucagasparini* - Created at: 2025-05-20T14:28:48Z
+- :eyes:  **[Feat: autoconfiguration for email clients](https://github.com/NethServer/ns8-webtop/pull/128)** by *stephdl* - Reviewers: *None* - Created at: 2025-05-20T14:28:48Z
 
 ### NethServer/python3-nethsec 1 
 
@@ -28,15 +27,19 @@ date = 2025-05-26
 
 - :eyes:  **[Upgrade piler to 1.4.7](https://github.com/NethServer/ns8-piler/pull/32)** by *stephdl* - Reviewers: *None* - Created at: 2025-04-30T09:52:17Z
 
-### NethServer/ns8-docs 3 
+### NethServer/ns8-crowdsec 1 
 
+- :eyes:  **[Add FreePBX configurations and parser to default installation](https://github.com/NethServer/ns8-crowdsec/pull/77)** by *stephdl* - Reviewers: *None* - Created at: 2025-05-26T11:13:45Z
+
+### NethServer/ns8-docs 4 
+
+- :eyes:  **[fix(metrics): remove language selection](https://github.com/NethServer/ns8-docs/pull/167)** by *gsanchietti* - Reviewers: *None* - Created at: 2025-05-26T13:20:09Z
 - :eyes:  **[add Yealink T7X T8X AX](https://github.com/NethServer/ns8-docs/pull/165)** by *andrea-marchionni* - Reviewers: *None* - Created at: 2025-05-16T16:03:23Z
 - :eyes:  **[Update note about IP change to clarify need for correct reconfiguration](https://github.com/NethServer/ns8-docs/pull/164)** by *IgonetIT* - Reviewers: *None* - Created at: 2025-05-08T09:20:48Z
 -  :zzz: **[Update nethvoice_proxy.rst](https://github.com/NethServer/ns8-docs/pull/157)** by *viktec* - Reviewers: *andrea-marchionni* - Created at: 2025-04-10T17:06:20Z
 
-### NethServer/nethsecurity-ui 2 
+### NethServer/nethsecurity-ui 1 
 
-- :eyes:  **[chore(main): release 1.26.0](https://github.com/NethServer/nethsecurity-ui/pull/553)** by *Tbaile* - Reviewers: *None* - Created at: 2025-05-22T09:49:02Z
 - :eyes: :zzz: **[HA: add dashboard card](https://github.com/NethServer/nethsecurity-ui/pull/533)** by *gsanchietti* - Reviewers: *None* - Created at: 2025-04-17T07:36:06Z
 
 ### NethServer/nethsecurity-docs 4 
@@ -49,6 +52,10 @@ date = 2025-05-26
 ### NethServer/nethlink 1 
 
 -   **[feat: add preferred devices management](https://github.com/NethServer/nethlink/pull/64)** by *therockerline* - Reviewers: *edospadoni* - Created at: 2025-05-15T16:01:37Z
+
+### NethServer/ns8-dependencytrack 1 
+
+- :eyes:  **[dependency trackinitial release](https://github.com/NethServer/ns8-dependencytrack/pull/4)** by *stephdl* - Reviewers: *None* - Created at: 2025-05-26T16:23:38Z
 
 ## Organization: nethesis
 
@@ -64,8 +71,9 @@ date = 2025-05-26
 
 -  :zzz: **[Removed old notification service usage](https://github.com/nethesis/nethcti-app-iphone/pull/37)** by *NicolaMrAPPs* - Reviewers: *b9874e40962149eee62a8fd3bc4e709e* - Created at: 2023-08-02T09:19:30Z
 
-### nethesis/ns8-nethvoice 1 
+### nethesis/ns8-nethvoice 2 
 
+- :eyes:  **[fix(update): update mysql after restart and block update untill services restart](https://github.com/nethesis/ns8-nethvoice/pull/456)** by *Stell0* - Reviewers: *None* - Created at: 2025-05-26T12:17:03Z
 - :eyes:  **[feat(API): POST and GET for extension displayname](https://github.com/nethesis/ns8-nethvoice/pull/454)** by *Stell0* - Reviewers: *None* - Created at: 2025-05-21T15:38:38Z
 
 ### nethesis/nethvoice-cti 1 
