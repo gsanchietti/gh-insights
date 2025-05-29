@@ -2,7 +2,7 @@
 
 title = 'To be released soon'
 
-date = 2025-05-28
+date = 2025-05-29
 
 +++
 
@@ -14,11 +14,13 @@ date = 2025-05-28
 
 ### NethServer
 
-- [WebTop pecbridge update 5.4.8](https://github.com/NethServer/dev/issues/7447) (#7381) by lucagasparini (Created: 2025-05-08T09:29:17Z, Updated: 2025-05-12T10:06:19Z)
-
 - [Webtop custom .jar files](https://github.com/NethServer/dev/issues/7381) (#7381) by DavidePrincipi (Created: 2025-04-07T12:14:26Z, Updated: 2025-05-14T12:27:47Z)
 
 ### NethSecurity
+
+- [Add Subscription sync status in UI](https://github.com/NethServer/nethsecurity/issues/1176) (#924) by filippocarletti (Created: 2025-04-15T14:21:57Z, Updated: 2025-05-28T15:49:59Z)
+
+- [Add dropdown filter for static leases by interface](https://github.com/NethServer/nethsecurity/issues/1085) (#924) by cotosso (Created: 2025-02-18T13:56:14Z, Updated: 2025-05-28T15:27:52Z)
 
 - [Ensure Default Log Storage on Persistent Storage Instead of RAM](https://github.com/NethServer/nethsecurity/issues/1082) (#924) by cotosso (Created: 2025-02-17T21:42:09Z, Updated: 2025-05-19T13:30:56Z)
 

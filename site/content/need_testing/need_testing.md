@@ -1,6 +1,6 @@
 +++
-title = 'Need testing (12)'
-date = 2025-05-28
+title = 'Need testing (11)'
+date = 2025-05-29
 +++
 
 ## NethVoice
@@ -12,10 +12,11 @@ date = 2025-05-28
 - :point_right: **[Update VoIP providers at module update](https://github.com/NethServer/dev/issues/7331)** (#7113) by *Stell0* (Created: 2025-02-21, Updated: 2025-05-27T08:56:41Z)
 - :point_right: **[Nethvoice Proxy: add backup and restore procedure](https://github.com/NethServer/dev/issues/7113)** (#7113) by *Amygos* (Created: 2024-11-14, Updated: 2025-05-27T15:13:59Z)
 
+## NethServer
+- :point_right: **[Avoid multiple TLS certificates for the same server name](https://github.com/NethServer/dev/issues/7383)** (#7113) by *DavidePrincipi* (Created: 2025-04-07, Updated: 2025-05-28T10:47:14Z)
+
 ## NethSecurity
-- **[Unable to delete pending Let's Encrypt certificate](https://github.com/NethServer/nethsecurity/issues/1226)** (#1157) by *francio87* (Created: 2025-05-22, Updated: 2025-05-26T13:01:21Z)
 - :point_right: **[openvpn: issues with user renaming and login consistency](https://github.com/NethServer/nethsecurity/issues/1209)** (#1157) by *Tbaile* (Created: 2025-05-09, Updated: 2025-05-21T13:26:33Z)
-- :point_right: **[Add Subscription sync status in UI](https://github.com/NethServer/nethsecurity/issues/1176)** (#1157) by *filippocarletti* (Created: 2025-04-15, Updated: 2025-05-26T13:00:59Z)
 - :point_right: **[Refactor FlashStart](https://github.com/NethServer/nethsecurity/issues/1162)** (#1157) by *Tbaile* (Created: 2025-04-08, Updated: 2025-05-26T12:57:17Z)
 - :point_right: **[Security wizard](https://github.com/NethServer/nethsecurity/issues/1157)** (#1157) by *Tbaile* (Created: 2025-04-07, Updated: 2025-05-26T12:46:11Z)
 

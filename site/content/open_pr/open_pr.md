@@ -1,18 +1,14 @@
 +++
 title = 'Open Pull Requests'
-date = 2025-05-28
+date = 2025-05-29
 +++
 
 ## Organization: nethserver
 
-### NethServer/ns8-core 1 
-
--   **[fix: improve tls certificates & http routes pages](https://github.com/NethServer/ns8-core/pull/887)** by *andre8244* - Reviewers: *edospadoni* - Created at: 2025-05-26T14:41:47Z
-
 ### NethServer/nethsecurity 5 
 
-- :eyes:  **[fix(https-dns-proxy): patched default config, disabling service](https://github.com/NethServer/nethsecurity/pull/1237)** by *Tbaile* - Reviewers: *None* - Created at: 2025-05-27T14:24:12Z
--   **[feat(ns-api): added device narrowing for nats](https://github.com/NethServer/nethsecurity/pull/1235)** by *Tbaile* - Reviewers: *gsanchietti* - Created at: 2025-05-27T14:10:10Z
+- :eyes:  **[feat(ns-api): added device narrowing for nats](https://github.com/NethServer/nethsecurity/pull/1235)** by *Tbaile* - Reviewers: *None* - Created at: 2025-05-27T14:10:10Z
+-   **[fix(ns-storage): use filesystem label](https://github.com/NethServer/nethsecurity/pull/1234)** by *filippocarletti* - Reviewers: *gsanchietti, Tbaile* - Created at: 2025-05-27T13:18:04Z
 - :eyes:  **[build: fix board.d for Z9](https://github.com/NethServer/nethsecurity/pull/1210)** by *filippocarletti* - Reviewers: *None* - Created at: 2025-05-12T14:12:11Z
 - :eyes:  **[feat: disable i915](https://github.com/NethServer/nethsecurity/pull/1199)** by *filippocarletti* - Reviewers: *None* - Created at: 2025-05-05T17:59:01Z
 -  :zzz: **[High availability stack](https://github.com/NethServer/nethsecurity/pull/871)** by *gsanchietti* - Reviewers: *filippocarletti, Tbaile* - Created at: 2024-10-23T15:36:11Z
@@ -25,9 +21,8 @@ date = 2025-05-28
 
 - :eyes:  **[Feat: autoconfiguration for email clients](https://github.com/NethServer/ns8-webtop/pull/128)** by *stephdl* - Reviewers: *None* - Created at: 2025-05-20T14:28:48Z
 
-### NethServer/python3-nethsec 2 
+### NethServer/python3-nethsec 1 
 
--   **[feat(firewall): added device for SNATs](https://github.com/NethServer/python3-nethsec/pull/99)** by *Tbaile* - Reviewers: *gsanchietti* - Created at: 2025-05-27T14:08:41Z
 - :eyes: :zzz: **[feat(inventory): add ha statistics](https://github.com/NethServer/python3-nethsec/pull/98)** by *gsanchietti* - Reviewers: *None* - Created at: 2025-04-23T12:43:17Z
 
 ### NethServer/ns8-piler 1 
@@ -45,11 +40,9 @@ date = 2025-05-28
 - :eyes:  **[Update note about IP change to clarify need for correct reconfiguration](https://github.com/NethServer/ns8-docs/pull/164)** by *IgonetIT* - Reviewers: *None* - Created at: 2025-05-08T09:20:48Z
 -  :zzz: **[Update nethvoice_proxy.rst](https://github.com/NethServer/ns8-docs/pull/157)** by *viktec* - Reviewers: *andrea-marchionni* - Created at: 2025-04-10T17:06:20Z
 
-### NethServer/nethsecurity-ui 4 
+### NethServer/nethsecurity-ui 2 
 
--   **[feat(nat): added device specification for NATs](https://github.com/NethServer/nethsecurity-ui/pull/563)** by *Tbaile* - Reviewers: *andre8244* - Created at: 2025-05-27T14:12:29Z
--   **[fix(dhcp): Enhance lease filtering and sorting functionality](https://github.com/NethServer/nethsecurity-ui/pull/562)** by *stephdl* - Reviewers: *andre8244, Tbaile* - Created at: 2025-05-27T14:00:22Z
-- :eyes:  **[chore(main): release 1.26.2](https://github.com/NethServer/nethsecurity-ui/pull/561)** by *Tbaile* - Reviewers: *None* - Created at: 2025-05-27T09:15:26Z
+- :eyes:  **[fix(dashboard): fixed storage usage bar if is zero](https://github.com/NethServer/nethsecurity-ui/pull/564)** by *Tbaile* - Reviewers: *None* - Created at: 2025-05-28T13:58:09Z
 - :eyes: :zzz: **[HA: add dashboard card](https://github.com/NethServer/nethsecurity-ui/pull/533)** by *gsanchietti* - Reviewers: *None* - Created at: 2025-04-17T07:36:06Z
 
 ### NethServer/nethsecurity-docs 3 
@@ -68,6 +61,10 @@ date = 2025-05-28
 
 ## Organization: nethesis
 
+### nethesis/nethserver-phonebook-mysql 1 
+
+- :eyes:  **[feature(users): Add pbx users mobile number to phonebook](https://github.com/nethesis/nethserver-phonebook-mysql/pull/53)** by *Stell0* - Reviewers: *None* - Created at: 2025-05-28T15:27:46Z
+
 ### nethesis/nethcti-app-android 1 
 
 -  :zzz: **[Removed old notificator](https://github.com/nethesis/nethcti-app-android/pull/30)** by *mirkopruiti* - Reviewers: *b9874e40962149eee62a8fd3bc4e709e* - Created at: 2023-08-02T09:35:24Z
@@ -75,6 +72,10 @@ date = 2025-05-28
 ### nethesis/nethcti-app-iphone 1 
 
 -  :zzz: **[Removed old notification service usage](https://github.com/nethesis/nethcti-app-iphone/pull/37)** by *NicolaMrAPPs* - Reviewers: *b9874e40962149eee62a8fd3bc4e709e* - Created at: 2023-08-02T09:19:30Z
+
+### nethesis/ns8-nethvoice 1 
+
+- :eyes:  **[fix: correct case for lets_encrypt env check](https://github.com/nethesis/ns8-nethvoice/pull/458)** by *Amygos* - Reviewers: *None* - Created at: 2025-05-28T13:44:35Z
 
 ### nethesis/nethvoice-cti 1 
 

@@ -1,13 +1,13 @@
 +++
 title = 'Open Pull Requests by Bots'
-date = 2025-05-28
+date = 2025-05-29
 +++
 
 ## Organization: nethserver
 
 ### NethServer/ns8-core 7 
 
-- :eyes:  **[Translations update from Hosted Weblate](https://github.com/NethServer/ns8-core/pull/883)** by *weblate* - Reviewers: *None* - Created at: 2025-05-22T08:04:48Z
+- :eyes:  **[Translations update from Hosted Weblate](https://github.com/NethServer/ns8-core/pull/891)** by *weblate* - Reviewers: *None* - Created at: 2025-05-28T12:37:06Z
 - :eyes:  **[chore(deps): update redis docker tag to v8](https://github.com/NethServer/ns8-core/pull/874)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-05-05T23:35:26Z
 - :eyes: :zzz: **[chore(deps): update dependency grafana/loki to v3.5.1](https://github.com/NethServer/ns8-core/pull/868)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-04-23T03:15:08Z
 - :eyes: :zzz: **[chore(deps): update golang docker tag to v1.24.3](https://github.com/NethServer/ns8-core/pull/848)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-04-01T21:26:37Z
@@ -88,7 +88,7 @@ date = 2025-05-28
 
 ### NethServer/nethsecurity-controller 4 
 
-- :eyes:  **[chore(deps): update dependency nethserver/nethsecurity-ui to v1.26.1](https://github.com/NethServer/nethsecurity-controller/pull/117)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-05-26T01:33:20Z
+- :eyes:  **[chore(deps): update dependency nethserver/nethsecurity-ui to v1.27.0](https://github.com/NethServer/nethsecurity-controller/pull/117)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-05-26T01:33:20Z
 - :eyes: :zzz: **[chore(deps): update docker.io/traefik docker tag to v3](https://github.com/NethServer/nethsecurity-controller/pull/95)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-03-31T03:07:13Z
 - :eyes: :zzz: **[chore(deps): update docker.io/alpine docker tag to v3.21.3](https://github.com/NethServer/nethsecurity-controller/pull/92)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-03-25T09:07:13Z
 - :eyes: :zzz: **[fix(deps): update github.com/nethserver/nethsecurity-api digest to 5c3308e](https://github.com/NethServer/nethsecurity-controller/pull/86)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-02-13T12:03:10Z
@@ -140,6 +140,10 @@ date = 2025-05-28
 ### NethServer/ns8-ejabberd 1 
 
 - :eyes: :zzz: **[chore(deps): update ghcr.io/marketsquare/robotframework-browser/rfbrowser-stable docker tag to v19.5.1](https://github.com/NethServer/ns8-ejabberd/pull/62)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-03-11T13:24:07Z
+
+### NethServer/nethsecurity-docs 1 
+
+- :eyes:  **[[BOT] Update Italian translation](https://github.com/NethServer/nethsecurity-docs/pull/171)** by *github-actions[bot]* - Reviewers: *None* - Created at: 2025-05-28T13:20:23Z
 
 ### NethServer/ns8-imapsync 2 
 
