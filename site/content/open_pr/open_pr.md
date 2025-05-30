@@ -1,16 +1,19 @@
 +++
 title = 'Open Pull Requests'
-date = 2025-05-29
+date = 2025-05-30
 +++
 
 ## Organization: nethserver
 
-### NethServer/nethsecurity 5 
+### NethServer/ns8-samba 1 
 
-- :eyes:  **[feat(ns-api): added device narrowing for nats](https://github.com/NethServer/nethsecurity/pull/1235)** by *Tbaile* - Reviewers: *None* - Created at: 2025-05-27T14:10:10Z
--   **[fix(ns-storage): use filesystem label](https://github.com/NethServer/nethsecurity/pull/1234)** by *filippocarletti* - Reviewers: *gsanchietti, Tbaile* - Created at: 2025-05-27T13:18:04Z
-- :eyes:  **[build: fix board.d for Z9](https://github.com/NethServer/nethsecurity/pull/1210)** by *filippocarletti* - Reviewers: *None* - Created at: 2025-05-12T14:12:11Z
-- :eyes:  **[feat: disable i915](https://github.com/NethServer/nethsecurity/pull/1199)** by *filippocarletti* - Reviewers: *None* - Created at: 2025-05-05T17:59:01Z
+-   **[Samba Member role with File Server](https://github.com/NethServer/ns8-samba/pull/91)** by *DavidePrincipi* - Reviewers: *gsanchietti* - Created at: 2025-05-15T13:20:21Z
+
+### NethServer/nethsecurity 4 
+
+-   **[feat(ns-import): add version to migration log](https://github.com/NethServer/nethsecurity/pull/1243)** by *gsanchietti* - Reviewers: *Tbaile* - Created at: 2025-05-29T16:14:06Z
+- :eyes:  **[fix(flashstart): few flashstart adjustments](https://github.com/NethServer/nethsecurity/pull/1242)** by *Tbaile* - Reviewers: *None* - Created at: 2025-05-29T15:56:52Z
+- :eyes:  **[fix(ns-storage): use filesystem label](https://github.com/NethServer/nethsecurity/pull/1234)** by *filippocarletti* - Reviewers: *None* - Created at: 2025-05-27T13:18:04Z
 -  :zzz: **[High availability stack](https://github.com/NethServer/nethsecurity/pull/871)** by *gsanchietti* - Reviewers: *filippocarletti, Tbaile* - Created at: 2024-10-23T15:36:11Z
 
 ### NethServer/ns8-nethsecurity-controller 1 
@@ -20,6 +23,10 @@ date = 2025-05-29
 ### NethServer/ns8-webtop 1 
 
 - :eyes:  **[Feat: autoconfiguration for email clients](https://github.com/NethServer/ns8-webtop/pull/128)** by *stephdl* - Reviewers: *None* - Created at: 2025-05-20T14:28:48Z
+
+### NethServer/nethserver-firewall-migration 1 
+
+-   **[feat: add version to exported archive](https://github.com/NethServer/nethserver-firewall-migration/pull/58)** by *gsanchietti* - Reviewers: *Tbaile* - Created at: 2025-05-29T14:43:10Z
 
 ### NethServer/python3-nethsec 1 
 
@@ -42,7 +49,7 @@ date = 2025-05-29
 
 ### NethServer/nethsecurity-ui 2 
 
-- :eyes:  **[fix(dashboard): fixed storage usage bar if is zero](https://github.com/NethServer/nethsecurity-ui/pull/564)** by *Tbaile* - Reviewers: *None* - Created at: 2025-05-28T13:58:09Z
+- :eyes:  **[chore(main): release 1.27.2](https://github.com/NethServer/nethsecurity-ui/pull/566)** by *Tbaile* - Reviewers: *None* - Created at: 2025-05-29T07:14:27Z
 - :eyes: :zzz: **[HA: add dashboard card](https://github.com/NethServer/nethsecurity-ui/pull/533)** by *gsanchietti* - Reviewers: *None* - Created at: 2025-04-17T07:36:06Z
 
 ### NethServer/nethsecurity-docs 3 
@@ -81,8 +88,9 @@ date = 2025-05-29
 
 -   **[fix: new UI style for standard Operators](https://github.com/nethesis/nethvoice-cti/pull/306)** by *tonyco97* - Reviewers: *edospadoni* - Created at: 2025-05-13T10:05:17Z
 
-### nethesis/ns8-nethvoice-proxy 3 
+### nethesis/ns8-nethvoice-proxy 4 
 
+-   **[feat: optimize container images with reduced attack surface and improved build efficiency](https://github.com/nethesis/ns8-nethvoice-proxy/pull/65)** by *Amygos* - Reviewers: *Stell0* - Created at: 2025-05-29T15:29:34Z
 - :eyes:  **[fix(kamailio): set destination using R-URI to avoide destination to be setted by remote Route](https://github.com/nethesis/ns8-nethvoice-proxy/pull/64)** by *Stell0* - Reviewers: *None* - Created at: 2025-05-20T10:16:54Z
 - :eyes:  **[Fix SIP Call Termination Issues with Multiple Record-Route Headers](https://github.com/nethesis/ns8-nethvoice-proxy/pull/63)** by *Stell0* - Reviewers: *None* - Created at: 2025-05-06T10:12:51Z
 - :eyes: :zzz: **[Remove Route header handling for inbound packets](https://github.com/nethesis/ns8-nethvoice-proxy/pull/49)** by *Amygos* - Reviewers: *None* - Created at: 2024-12-06T15:26:49Z

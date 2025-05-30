@@ -1,6 +1,6 @@
 +++
-title = 'Need testing (11)'
-date = 2025-05-29
+title = 'Need testing (12)'
+date = 2025-05-30
 +++
 
 ## NethVoice
@@ -13,10 +13,11 @@ date = 2025-05-29
 - :point_right: **[Nethvoice Proxy: add backup and restore procedure](https://github.com/NethServer/dev/issues/7113)** (#7113) by *Amygos* (Created: 2024-11-14, Updated: 2025-05-27T15:13:59Z)
 
 ## NethServer
-- :point_right: **[Avoid multiple TLS certificates for the same server name](https://github.com/NethServer/dev/issues/7383)** (#7113) by *DavidePrincipi* (Created: 2025-04-07, Updated: 2025-05-28T10:47:14Z)
+- :point_right: **[Avoid multiple TLS certificates for the same server name](https://github.com/NethServer/dev/issues/7383)** (#7113) by *DavidePrincipi* (Created: 2025-04-07, Updated: 2025-05-29T16:41:43Z)
 
 ## NethSecurity
-- :point_right: **[openvpn: issues with user renaming and login consistency](https://github.com/NethServer/nethsecurity/issues/1209)** (#1157) by *Tbaile* (Created: 2025-05-09, Updated: 2025-05-21T13:26:33Z)
-- :point_right: **[Refactor FlashStart](https://github.com/NethServer/nethsecurity/issues/1162)** (#1157) by *Tbaile* (Created: 2025-04-08, Updated: 2025-05-26T12:57:17Z)
-- :point_right: **[Security wizard](https://github.com/NethServer/nethsecurity/issues/1157)** (#1157) by *Tbaile* (Created: 2025-04-07, Updated: 2025-05-26T12:46:11Z)
+- :point_right: **[openvpn: issues with user renaming and login consistency](https://github.com/NethServer/nethsecurity/issues/1209)** (#1092) by *Tbaile* (Created: 2025-05-09, Updated: 2025-05-21T13:26:33Z)
+- :point_right: **[Refactor FlashStart](https://github.com/NethServer/nethsecurity/issues/1162)** (#1092) by *Tbaile* (Created: 2025-04-08, Updated: 2025-05-29T14:32:38Z)
+- :point_right: **[Security wizard](https://github.com/NethServer/nethsecurity/issues/1157)** (#1092) by *Tbaile* (Created: 2025-04-07, Updated: 2025-05-29T15:42:44Z)
+- :point_right: **[PCI displacement updating to 24.10](https://github.com/NethServer/nethsecurity/issues/1092)** (#1092) by *Tbaile* (Created: 2025-02-21, Updated: 2025-05-29T08:43:47Z)
 
