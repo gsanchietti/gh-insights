@@ -1,18 +1,13 @@
 +++
 title = 'Open Pull Requests'
-date = 2025-05-30
+date = 2025-05-31
 +++
 
 ## Organization: nethserver
 
-### NethServer/ns8-samba 1 
+### NethServer/nethsecurity 3 
 
--   **[Samba Member role with File Server](https://github.com/NethServer/ns8-samba/pull/91)** by *DavidePrincipi* - Reviewers: *gsanchietti* - Created at: 2025-05-15T13:20:21Z
-
-### NethServer/nethsecurity 4 
-
--   **[feat(ns-import): add version to migration log](https://github.com/NethServer/nethsecurity/pull/1243)** by *gsanchietti* - Reviewers: *Tbaile* - Created at: 2025-05-29T16:14:06Z
-- :eyes:  **[fix(flashstart): few flashstart adjustments](https://github.com/NethServer/nethsecurity/pull/1242)** by *Tbaile* - Reviewers: *None* - Created at: 2025-05-29T15:56:52Z
+- :eyes:  **[feat(ns-import): add version to migration log](https://github.com/NethServer/nethsecurity/pull/1243)** by *gsanchietti* - Reviewers: *None* - Created at: 2025-05-29T16:14:06Z
 - :eyes:  **[fix(ns-storage): use filesystem label](https://github.com/NethServer/nethsecurity/pull/1234)** by *filippocarletti* - Reviewers: *None* - Created at: 2025-05-27T13:18:04Z
 -  :zzz: **[High availability stack](https://github.com/NethServer/nethsecurity/pull/871)** by *gsanchietti* - Reviewers: *filippocarletti, Tbaile* - Created at: 2024-10-23T15:36:11Z
 
@@ -26,7 +21,7 @@ date = 2025-05-30
 
 ### NethServer/nethserver-firewall-migration 1 
 
--   **[feat: add version to exported archive](https://github.com/NethServer/nethserver-firewall-migration/pull/58)** by *gsanchietti* - Reviewers: *Tbaile* - Created at: 2025-05-29T14:43:10Z
+- :eyes:  **[feat: add version to exported archive](https://github.com/NethServer/nethserver-firewall-migration/pull/58)** by *gsanchietti* - Reviewers: *None* - Created at: 2025-05-29T14:43:10Z
 
 ### NethServer/python3-nethsec 1 
 
@@ -34,7 +29,7 @@ date = 2025-05-30
 
 ### NethServer/ns8-piler 1 
 
-- :eyes:  **[Upgrade piler to 1.4.7](https://github.com/NethServer/ns8-piler/pull/32)** by *stephdl* - Reviewers: *None* - Created at: 2025-04-30T09:52:17Z
+- :eyes: :zzz: **[Upgrade piler to 1.4.7](https://github.com/NethServer/ns8-piler/pull/32)** by *stephdl* - Reviewers: *None* - Created at: 2025-04-30T09:52:17Z
 
 ### NethServer/ns8-crowdsec 1 
 
@@ -47,14 +42,13 @@ date = 2025-05-30
 - :eyes:  **[Update note about IP change to clarify need for correct reconfiguration](https://github.com/NethServer/ns8-docs/pull/164)** by *IgonetIT* - Reviewers: *None* - Created at: 2025-05-08T09:20:48Z
 -  :zzz: **[Update nethvoice_proxy.rst](https://github.com/NethServer/ns8-docs/pull/157)** by *viktec* - Reviewers: *andrea-marchionni* - Created at: 2025-04-10T17:06:20Z
 
-### NethServer/nethsecurity-ui 2 
+### NethServer/nethsecurity-ui 1 
 
-- :eyes:  **[chore(main): release 1.27.2](https://github.com/NethServer/nethsecurity-ui/pull/566)** by *Tbaile* - Reviewers: *None* - Created at: 2025-05-29T07:14:27Z
 - :eyes: :zzz: **[HA: add dashboard card](https://github.com/NethServer/nethsecurity-ui/pull/533)** by *gsanchietti* - Reviewers: *None* - Created at: 2025-04-17T07:36:06Z
 
 ### NethServer/nethsecurity-docs 3 
 
-- :eyes:  **[Logs on storage by default](https://github.com/NethServer/nethsecurity-docs/pull/167)** by *cotosso* - Reviewers: *None* - Created at: 2025-05-16T14:19:42Z
+- :eyes:  **[feat(storage): enable by default](https://github.com/NethServer/nethsecurity-docs/pull/167)** by *cotosso* - Reviewers: *None* - Created at: 2025-05-16T14:19:42Z
 - :eyes:  **[feat: re-add setup wizard](https://github.com/NethServer/nethsecurity-docs/pull/166)** by *andre8244* - Reviewers: *None* - Created at: 2025-05-09T08:04:35Z
 -  :zzz: **[feat: add high availability](https://github.com/NethServer/nethsecurity-docs/pull/163)** by *gsanchietti* - Reviewers: *filippocarletti, cotosso* - Created at: 2025-04-24T09:54:19Z
 
@@ -70,7 +64,7 @@ date = 2025-05-30
 
 ### nethesis/nethserver-phonebook-mysql 1 
 
-- :eyes:  **[feature(users): Add pbx users mobile number to phonebook](https://github.com/nethesis/nethserver-phonebook-mysql/pull/53)** by *Stell0* - Reviewers: *None* - Created at: 2025-05-28T15:27:46Z
+-   **[feature(users): Add pbx users mobile number to phonebook](https://github.com/nethesis/nethserver-phonebook-mysql/pull/53)** by *Stell0* - Reviewers: *Amygos* - Created at: 2025-05-28T15:27:46Z
 
 ### nethesis/nethcti-app-android 1 
 
@@ -80,13 +74,19 @@ date = 2025-05-30
 
 -  :zzz: **[Removed old notification service usage](https://github.com/nethesis/nethcti-app-iphone/pull/37)** by *NicolaMrAPPs* - Reviewers: *b9874e40962149eee62a8fd3bc4e709e* - Created at: 2023-08-02T09:19:30Z
 
-### nethesis/ns8-nethvoice 1 
+### nethesis/ns8-nethvoice 3 
 
+- :eyes:  **[feature(freepbx): Update all FreePBX modules to lates available 16.x](https://github.com/nethesis/ns8-nethvoice/pull/460)** by *Stell0* - Reviewers: *None* - Created at: 2025-05-30T16:00:22Z
+-   **[feature(dialplan): Make dialplan compliant with TIM requisites](https://github.com/nethesis/ns8-nethvoice/pull/459)** by *Stell0* - Reviewers: *andrea-marchionni* - Created at: 2025-05-30T08:57:28Z
 - :eyes:  **[fix: correct case for lets_encrypt env check](https://github.com/nethesis/ns8-nethvoice/pull/458)** by *Amygos* - Reviewers: *None* - Created at: 2025-05-28T13:44:35Z
 
 ### nethesis/nethvoice-cti 1 
 
 -   **[fix: new UI style for standard Operators](https://github.com/nethesis/nethvoice-cti/pull/306)** by *tonyco97* - Reviewers: *edospadoni* - Created at: 2025-05-13T10:05:17Z
+
+### nethesis/phone-island 1 
+
+- :eyes:  **[fix: incorrect transfer status](https://github.com/nethesis/phone-island/pull/98)** by *tonyco97* - Reviewers: *None* - Created at: 2025-05-23T08:14:27Z
 
 ### nethesis/ns8-nethvoice-proxy 4 
 

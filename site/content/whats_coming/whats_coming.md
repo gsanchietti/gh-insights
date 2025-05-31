@@ -2,21 +2,25 @@
 
 title = 'To be released soon'
 
-date = 2025-05-30
+date = 2025-05-31
 
 +++
 
 ### NethVoice
 
-- [NethVoice: add a POST and a GET API to write and read the extensions displayname](https://github.com/NethServer/dev/issues/7475) (#7346) by Stell0 (Created: 2025-05-21T12:37:33Z, Updated: 2025-05-27T13:20:22Z)
+- [NethVoice: add a POST and a GET API to write and read the extensions displayname](https://github.com/NethServer/dev/issues/7475) (#7272) by Stell0 (Created: 2025-05-21T12:37:33Z, Updated: 2025-05-27T13:20:22Z)
 
-- [NethVoice: NethVoice – Add Support for New Yealink T7X, T8X, and AXX Series Model](https://github.com/NethServer/dev/issues/7469) (#7346) by andrea-marchionni (Created: 2025-05-16T15:59:30Z, Updated: 2025-05-27T14:27:28Z)
+- [NethVoice: NethVoice – Add Support for New Yealink T7X, T8X, and AXX Series Model](https://github.com/NethServer/dev/issues/7469) (#7272) by andrea-marchionni (Created: 2025-05-16T15:59:30Z, Updated: 2025-05-27T14:27:28Z)
+
+- [Nethvoice voicemails recognized as spam due to invalid header](https://github.com/NethServer/dev/issues/7461) (#7272) by Stell0 (Created: 2025-05-14T12:27:28Z, Updated: 2025-05-30T10:19:46Z)
+
+- [NethVoice CTI streaming UI design ](https://github.com/NethServer/dev/issues/7272) (#7272) by andrea-marchionni (Created: 2025-01-21T08:30:45Z, Updated: 2025-05-30T08:06:44Z)
 
 ### NethServer
 
-- [Webtop custom .jar files](https://github.com/NethServer/dev/issues/7381) (#7346) by DavidePrincipi (Created: 2025-04-07T12:14:26Z, Updated: 2025-05-14T12:27:47Z)
+- [Show File Server host and NT domain name](https://github.com/NethServer/dev/issues/7387) (#7272) by DavidePrincipi (Created: 2025-04-08T10:38:11Z, Updated: 2025-05-30T17:33:33Z)
 
-- [Temporary duplicate items after TLS cert request](https://github.com/NethServer/dev/issues/7346) (#7346) by DavidePrincipi (Created: 2025-03-13T15:25:01Z, Updated: 2025-05-29T16:44:50Z)
+- [Temporary duplicate items after TLS cert request](https://github.com/NethServer/dev/issues/7346) (#7272) by DavidePrincipi (Created: 2025-03-13T15:25:01Z, Updated: 2025-05-29T16:44:50Z)
 
 ### NethSecurity
 
