@@ -1,12 +1,13 @@
 +++
 title = 'Open Pull Requests by Bots'
-date = 2025-05-31
+date = 2025-06-01
 +++
 
 ## Organization: nethserver
 
-### NethServer/ns8-core 7 
+### NethServer/ns8-core 8 
 
+- :eyes:  **[Translations update from Hosted Weblate](https://github.com/NethServer/ns8-core/pull/897)** by *weblate* - Reviewers: *None* - Created at: 2025-05-31T15:06:29Z
 - :eyes:  **[chore(deps): update alpine docker tag to v3.22.0](https://github.com/NethServer/ns8-core/pull/896)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-05-30T22:33:09Z
 - :eyes:  **[chore(deps): update redis docker tag to v8](https://github.com/NethServer/ns8-core/pull/874)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-05-05T23:35:26Z
 - :eyes: :zzz: **[chore(deps): update dependency grafana/loki to v3.5.1](https://github.com/NethServer/ns8-core/pull/868)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-04-23T03:15:08Z
@@ -53,8 +54,9 @@ date = 2025-05-31
 - :eyes: :zzz: **[chore(deps): update nginx docker tag to v1.28.0](https://github.com/NethServer/ns8-ldapproxy/pull/20)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-04-16T19:31:21Z
 -  :zzz: **[chore(deps): update ghcr.io/marketsquare/robotframework-browser/rfbrowser-stable docker tag to v19.5.1](https://github.com/NethServer/ns8-ldapproxy/pull/17)** by *renovate[bot]* - Reviewers: *DavidePrincipi* - Created at: 2024-11-26T11:31:21Z
 
-### NethServer/ns8-samba 2 
+### NethServer/ns8-samba 3 
 
+- :eyes:  **[Translations update from Hosted Weblate](https://github.com/NethServer/ns8-samba/pull/96)** by *weblate* - Reviewers: *None* - Created at: 2025-05-31T16:04:23Z
 - :eyes:  **[chore(deps): update timescale/timescaledb docker tag to v2.20.1](https://github.com/NethServer/ns8-samba/pull/95)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-05-30T13:53:53Z
 - :eyes: :zzz: **[chore(deps): update ghcr.io/marketsquare/robotframework-browser/rfbrowser-stable docker tag to v19.5.1](https://github.com/NethServer/ns8-samba/pull/77)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-02-21T09:59:59Z
 
@@ -74,8 +76,9 @@ date = 2025-05-31
 - :eyes:  **[chore(deps): update alpine docker tag to v3.22.0](https://github.com/NethServer/ns8-openldap/pull/60)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-05-30T23:03:38Z
 - :eyes: :zzz: **[chore(deps): update dependency marketsquare/robotframework-browser to v19.5.1](https://github.com/NethServer/ns8-openldap/pull/49)** by *renovate[bot]* - Reviewers: *None* - Created at: 2024-12-20T21:22:21Z
 
-### NethServer/ns8-prometheus 1 
+### NethServer/ns8-prometheus 2 
 
+- :eyes:  **[chore(deps): update quay.io/prometheus/prometheus docker tag to v3.4.1](https://github.com/NethServer/ns8-prometheus/pull/33)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-05-31T14:35:56Z
 - :eyes: :zzz: **[chore(deps): update ghcr.io/marketsquare/robotframework-browser/rfbrowser-stable docker tag to v19.5.1](https://github.com/NethServer/ns8-prometheus/pull/26)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-01-26T16:40:44Z
 
 ### NethServer/ns8-grafana 3 
@@ -147,6 +150,10 @@ date = 2025-05-31
 
 - :eyes: :zzz: **[chore(deps): update ghcr.io/marketsquare/robotframework-browser/rfbrowser-stable docker tag to v19.5.1](https://github.com/NethServer/ns8-ejabberd/pull/62)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-03-11T13:24:07Z
 
+### NethServer/nethsecurity-ui 1 
+
+- :eyes:  **[Translations update from Hosted Weblate](https://github.com/NethServer/nethsecurity-ui/pull/569)** by *weblate* - Reviewers: *None* - Created at: 2025-05-31T15:06:40Z
+
 ### NethServer/nethsecurity-docs 1 
 
 - :eyes:  **[[BOT] Update Italian translation](https://github.com/NethServer/nethsecurity-docs/pull/171)** by *github-actions[bot]* - Reviewers: *None* - Created at: 2025-05-28T13:20:23Z
@@ -157,8 +164,9 @@ date = 2025-05-31
 - :eyes: :zzz: **[Translations update from Hosted Weblate](https://github.com/NethServer/ns8-imapsync/pull/52)** by *weblate* - Reviewers: *None* - Created at: 2025-04-04T11:02:47Z
 - :eyes: :zzz: **[chore(deps): update ghcr.io/marketsquare/robotframework-browser/rfbrowser-stable docker tag to v19.5.1](https://github.com/NethServer/ns8-imapsync/pull/36)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-01-26T16:23:25Z
 
-### NethServer/ns8-user-manager 1 
+### NethServer/ns8-user-manager 2 
 
+- :eyes:  **[chore(deps): lock file maintenance](https://github.com/NethServer/ns8-user-manager/pull/88)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-06-01T00:25:41Z
 - :eyes:  **[fix(deps): update dependency @nethesis/vue-components to v2](https://github.com/NethServer/ns8-user-manager/pull/84)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-05-07T12:55:16Z
 
 ### NethServer/ns8-sogo 5 
@@ -185,7 +193,7 @@ date = 2025-05-31
 ### NethServer/ns8-wordpress 2 
 
 - :eyes:  **[chore(deps): update mariadb docker tag to v10.11.13](https://github.com/NethServer/ns8-wordpress/pull/23)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-05-23T04:08:17Z
-- :eyes:  **[chore(deps): update wordpress docker tag to v6.8.1](https://github.com/NethServer/ns8-wordpress/pull/22)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-05-01T22:57:26Z
+- :eyes: :zzz: **[chore(deps): update wordpress docker tag to v6.8.1](https://github.com/NethServer/ns8-wordpress/pull/22)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-05-01T22:57:26Z
 
 ### NethServer/ns8-netdata 2 
 
@@ -199,7 +207,7 @@ date = 2025-05-31
 ### NethServer/ns8-metrics 3 
 
 - :eyes:  **[chore(deps): update grafana/grafana docker tag to v12.0.1](https://github.com/NethServer/ns8-metrics/pull/29)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-05-22T22:38:45Z
-- :eyes:  **[chore(deps): update quay.io/prometheus/prometheus docker tag to v3.4.0](https://github.com/NethServer/ns8-metrics/pull/27)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-05-17T10:17:51Z
+- :eyes:  **[chore(deps): update quay.io/prometheus/prometheus docker tag to v3.4.1](https://github.com/NethServer/ns8-metrics/pull/27)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-05-17T10:17:51Z
 - :eyes: :zzz: **[chore(deps): update ghcr.io/marketsquare/robotframework-browser/rfbrowser-stable docker tag to v19.5.1](https://github.com/NethServer/ns8-metrics/pull/5)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-02-27T13:33:08Z
 
 ### NethServer/ns8-dependencytrack 2 
@@ -239,5 +247,9 @@ date = 2025-05-31
 ### nethesis/ns8-nethvoice-proxy 1 
 
 -  :zzz: **[Translations update from Hosted Weblate](https://github.com/nethesis/ns8-nethvoice-proxy/pull/60)** by *weblate* - Reviewers: *tonyco97* - Created at: 2025-04-02T13:21:27Z
+
+### nethesis/parceler 1 
+
+- :eyes:  **[chore(deps): lock file maintenance](https://github.com/nethesis/parceler/pull/75)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-06-01T01:28:29Z
 
 
