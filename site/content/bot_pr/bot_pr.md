@@ -1,6 +1,6 @@
 +++
 title = 'Open Pull Requests by Bots'
-date = 2025-06-01
+date = 2025-06-02
 +++
 
 ## Organization: nethserver
@@ -18,11 +18,11 @@ date = 2025-06-01
 
 ### NethServer/ns8-kickstart 5 
 
+- :eyes:  **[build(deps): bump @carbon/vue from 2.40.0 to 3.0.27 in /ui](https://github.com/NethServer/ns8-kickstart/pull/61)** by *dependabot[bot]* - Reviewers: *None* - Created at: 2025-06-02T00:55:05Z
 - :eyes:  **[build(deps): bump vue-axios from 3.2.4 to 3.5.2 in /ui](https://github.com/NethServer/ns8-kickstart/pull/60)** by *dependabot[bot]* - Reviewers: *None* - Created at: 2025-05-26T00:33:12Z
 - :eyes:  **[build(deps-dev): bump @vue/cli-plugin-babel from 4.5.13 to 5.0.8 in /ui](https://github.com/NethServer/ns8-kickstart/pull/59)** by *dependabot[bot]* - Reviewers: *None* - Created at: 2025-05-26T00:31:55Z
 - :eyes:  **[build(deps-dev): bump eslint-plugin-prettier from 3.4.0 to 3.4.1 in /ui](https://github.com/NethServer/ns8-kickstart/pull/58)** by *dependabot[bot]* - Reviewers: *None* - Created at: 2025-05-26T00:28:48Z
 - :eyes:  **[build(deps): bump carbon-components from 10.46.0 to 10.59.1 in /ui](https://github.com/NethServer/ns8-kickstart/pull/57)** by *dependabot[bot]* - Reviewers: *None* - Created at: 2025-05-26T00:26:39Z
-- :eyes:  **[build(deps): bump @carbon/vue from 2.40.0 to 3.0.26 in /ui](https://github.com/NethServer/ns8-kickstart/pull/56)** by *dependabot[bot]* - Reviewers: *None* - Created at: 2025-05-26T00:25:03Z
 
 ### NethServer/ns8-dokuwiki 2 
 
@@ -92,8 +92,9 @@ date = 2025-06-01
 - :eyes:  **[build(deps): Update ns-ui package (automated)](https://github.com/NethServer/nethsecurity/pull/1245)** by *github-actions[bot]* - Reviewers: *None* - Created at: 2025-05-30T15:27:45Z
 - :eyes:  **[chore: bump ns packages (automatic)](https://github.com/NethServer/nethsecurity/pull/1231)** by *github-actions[bot]* - Reviewers: *None* - Created at: 2025-05-26T06:56:00Z
 
-### NethServer/nethsecurity-controller 4 
+### NethServer/nethsecurity-controller 5 
 
+- :eyes:  **[chore(deps): update docker.io/traefik docker tag to v2.11.25](https://github.com/NethServer/nethsecurity-controller/pull/118)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-06-02T01:15:29Z
 - :eyes:  **[chore(deps): update dependency nethserver/nethsecurity-ui to v1.27.2](https://github.com/NethServer/nethsecurity-controller/pull/117)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-05-26T01:33:20Z
 - :eyes: :zzz: **[chore(deps): update docker.io/traefik docker tag to v3](https://github.com/NethServer/nethsecurity-controller/pull/95)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-03-31T03:07:13Z
 - :eyes: :zzz: **[chore(deps): update docker.io/alpine docker tag to v3.21.3](https://github.com/NethServer/nethsecurity-controller/pull/92)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-03-25T09:07:13Z
@@ -102,7 +103,7 @@ date = 2025-06-01
 ### NethServer/ns8-mail 3 
 
 - :eyes:  **[chore(deps): update alpine docker tag to v3.22.0](https://github.com/NethServer/ns8-mail/pull/180)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-05-30T21:48:21Z
-- :eyes:  **[Translations update from Hosted Weblate](https://github.com/NethServer/ns8-mail/pull/179)** by *weblate* - Reviewers: *None* - Created at: 2025-05-02T15:13:12Z
+- :eyes: :zzz: **[Translations update from Hosted Weblate](https://github.com/NethServer/ns8-mail/pull/179)** by *weblate* - Reviewers: *None* - Created at: 2025-05-02T15:13:12Z
 - :eyes: :zzz: **[chore(deps): update ghcr.io/marketsquare/robotframework-browser/rfbrowser-stable docker tag to v19.5.1](https://github.com/NethServer/ns8-mail/pull/164)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-01-26T17:02:40Z
 
 ### NethServer/ns8-nethsecurity-controller 2 
@@ -247,9 +248,5 @@ date = 2025-06-01
 ### nethesis/ns8-nethvoice-proxy 1 
 
 -  :zzz: **[Translations update from Hosted Weblate](https://github.com/nethesis/ns8-nethvoice-proxy/pull/60)** by *weblate* - Reviewers: *tonyco97* - Created at: 2025-04-02T13:21:27Z
-
-### nethesis/parceler 1 
-
-- :eyes:  **[chore(deps): lock file maintenance](https://github.com/nethesis/parceler/pull/75)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-06-01T01:28:29Z
 
 
