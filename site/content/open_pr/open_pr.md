@@ -1,6 +1,6 @@
 +++
 title = 'Open Pull Requests'
-date = 2025-06-02
+date = 2025-06-03
 +++
 
 ## Organization: nethserver
@@ -14,10 +14,6 @@ date = 2025-06-02
 ### NethServer/ns8-nethsecurity-controller 1 
 
 -  :zzz: **[Fix traffic by hour histogram](https://github.com/NethServer/ns8-nethsecurity-controller/pull/78)** by *cotosso* - Reviewers: *gsanchietti* - Created at: 2025-03-04T18:04:21Z
-
-### NethServer/ns8-webtop 1 
-
-- :eyes:  **[Feat: autoconfiguration for email clients](https://github.com/NethServer/ns8-webtop/pull/128)** by *stephdl* - Reviewers: *None* - Created at: 2025-05-20T14:28:48Z
 
 ### NethServer/nethserver-firewall-migration 1 
 
@@ -35,8 +31,9 @@ date = 2025-06-02
 
 - :eyes:  **[Add FreePBX configurations and parser to default installation](https://github.com/NethServer/ns8-crowdsec/pull/77)** by *stephdl* - Reviewers: *None* - Created at: 2025-05-26T11:13:45Z
 
-### NethServer/ns8-docs 4 
+### NethServer/ns8-docs 5 
 
+-   **[Add autoconfiguration support for email clients](https://github.com/NethServer/ns8-docs/pull/169)** by *stephdl* - Reviewers: *DavidePrincipi* - Created at: 2025-06-02T08:42:16Z
 - :eyes:  **[fix(metrics): remove language selection](https://github.com/NethServer/ns8-docs/pull/167)** by *gsanchietti* - Reviewers: *None* - Created at: 2025-05-26T13:20:09Z
 - :eyes:  **[add Yealink T7X T8X AX](https://github.com/NethServer/ns8-docs/pull/165)** by *andrea-marchionni* - Reviewers: *None* - Created at: 2025-05-16T16:03:23Z
 - :eyes:  **[Update note about IP change to clarify need for correct reconfiguration](https://github.com/NethServer/ns8-docs/pull/164)** by *IgonetIT* - Reviewers: *None* - Created at: 2025-05-08T09:20:48Z

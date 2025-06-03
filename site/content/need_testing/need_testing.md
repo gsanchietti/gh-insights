@@ -1,6 +1,6 @@
 +++
 title = 'Need testing (14)'
-date = 2025-06-02
+date = 2025-06-03
 +++
 
 ## NethVoice
@@ -12,8 +12,8 @@ date = 2025-06-02
 - :point_right: **[Nethvoice Proxy: add backup and restore procedure](https://github.com/NethServer/dev/issues/7113)** (#7113) by *Amygos* (Created: 2024-11-14, Updated: 2025-05-27T15:13:59Z)
 
 ## NethServer
-- :point_right: **[File Server netbios aliases](https://github.com/NethServer/dev/issues/7388)** (#7113) by *DavidePrincipi* (Created: 2025-04-08, Updated: 2025-05-30T17:38:53Z)
-- :point_right: **[Samba File Server as AD domain member ](https://github.com/NethServer/dev/issues/7384)** (#7113) by *DavidePrincipi* (Created: 2025-04-07, Updated: 2025-05-30T17:32:52Z)
+- :point_right: **[Webtop mail mobile clients autoconfig/autodiscovery](https://github.com/NethServer/dev/issues/7451)** (#7113) by *DavidePrincipi* (Created: 2025-05-09, Updated: 2025-06-02T08:58:07Z)
+- :point_right: **[Samba File Server as AD domain member ](https://github.com/NethServer/dev/issues/7384)** (#7113) by *DavidePrincipi* (Created: 2025-04-07, Updated: 2025-06-02T16:30:10Z)
 - :point_right: **[Avoid multiple TLS certificates for the same server name](https://github.com/NethServer/dev/issues/7383)** (#7113) by *DavidePrincipi* (Created: 2025-04-07, Updated: 2025-05-29T16:41:43Z)
 
 ## NethSecurity

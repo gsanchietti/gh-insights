@@ -2,7 +2,7 @@
 
 title = 'To be released soon'
 
-date = 2025-06-02
+date = 2025-06-03
 
 +++
 
@@ -17,6 +17,8 @@ date = 2025-06-02
 - [NethVoice CTI streaming UI design ](https://github.com/NethServer/dev/issues/7272) (#7272) by andrea-marchionni (Created: 2025-01-21T08:30:45Z, Updated: 2025-05-30T08:06:44Z)
 
 ### NethServer
+
+- [File Server netbios aliases](https://github.com/NethServer/dev/issues/7388) (#7272) by DavidePrincipi (Created: 2025-04-08T10:40:52Z, Updated: 2025-06-02T09:17:24Z)
 
 - [Show File Server host and NT domain name](https://github.com/NethServer/dev/issues/7387) (#7272) by DavidePrincipi (Created: 2025-04-08T10:38:11Z, Updated: 2025-05-30T17:33:33Z)
 
