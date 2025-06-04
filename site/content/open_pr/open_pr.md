@@ -1,23 +1,27 @@
 +++
 title = 'Open Pull Requests'
-date = 2025-06-03
+date = 2025-06-04
 +++
 
 ## Organization: nethserver
 
+### NethServer/ns8-samba 1 
+
+- :eyes:  **[Add EditSharedFolderModal and advanced settings for shared folders](https://github.com/NethServer/ns8-samba/pull/98)** by *stephdl* - Reviewers: *None* - Created at: 2025-06-03T13:59:09Z
+
 ### NethServer/nethsecurity 3 
 
-- :eyes:  **[feat(ns-import): add version to migration log](https://github.com/NethServer/nethsecurity/pull/1243)** by *gsanchietti* - Reviewers: *None* - Created at: 2025-05-29T16:14:06Z
+- :eyes:  **[fix(port forward): allow redirect to firewall](https://github.com/NethServer/nethsecurity/pull/1246)** by *Tbaile* - Reviewers: *None* - Created at: 2025-06-03T14:50:46Z
 - :eyes:  **[fix(ns-storage): use filesystem label](https://github.com/NethServer/nethsecurity/pull/1234)** by *filippocarletti* - Reviewers: *None* - Created at: 2025-05-27T13:18:04Z
 -  :zzz: **[High availability stack](https://github.com/NethServer/nethsecurity/pull/871)** by *gsanchietti* - Reviewers: *filippocarletti, Tbaile* - Created at: 2024-10-23T15:36:11Z
+
+### NethServer/ns8-mail 1 
+
+-   **[fix: mixed-case ACL group match](https://github.com/NethServer/ns8-mail/pull/181)** by *DavidePrincipi* - Reviewers: *gsanchietti* - Created at: 2025-06-03T16:13:15Z
 
 ### NethServer/ns8-nethsecurity-controller 1 
 
 -  :zzz: **[Fix traffic by hour histogram](https://github.com/NethServer/ns8-nethsecurity-controller/pull/78)** by *cotosso* - Reviewers: *gsanchietti* - Created at: 2025-03-04T18:04:21Z
-
-### NethServer/nethserver-firewall-migration 1 
-
-- :eyes:  **[feat: add version to exported archive](https://github.com/NethServer/nethserver-firewall-migration/pull/58)** by *gsanchietti* - Reviewers: *None* - Created at: 2025-05-29T14:43:10Z
 
 ### NethServer/python3-nethsec 1 
 
@@ -39,12 +43,16 @@ date = 2025-06-03
 - :eyes:  **[Update note about IP change to clarify need for correct reconfiguration](https://github.com/NethServer/ns8-docs/pull/164)** by *IgonetIT* - Reviewers: *None* - Created at: 2025-05-08T09:20:48Z
 -  :zzz: **[Update nethvoice_proxy.rst](https://github.com/NethServer/ns8-docs/pull/157)** by *viktec* - Reviewers: *andrea-marchionni* - Created at: 2025-04-10T17:06:20Z
 
-### NethServer/nethsecurity-ui 1 
+### NethServer/nethsecurity-ui 4 
 
+-   **[fix: skip wizard check while on controller](https://github.com/NethServer/nethsecurity-ui/pull/573)** by *andre8244* - Reviewers: *Tbaile* - Created at: 2025-06-03T16:00:13Z
+-   **[fix: ssh keys list while opening unit ssh terminal](https://github.com/NethServer/nethsecurity-ui/pull/572)** by *andre8244* - Reviewers: *Tbaile* - Created at: 2025-06-03T15:51:52Z
+-   **[fix(port forward): enabled possibility to set rules for firewall](https://github.com/NethServer/nethsecurity-ui/pull/571)** by *Tbaile* - Reviewers: *andre8244* - Created at: 2025-06-03T14:51:15Z
 - :eyes: :zzz: **[HA: add dashboard card](https://github.com/NethServer/nethsecurity-ui/pull/533)** by *gsanchietti* - Reviewers: *None* - Created at: 2025-04-17T07:36:06Z
 
-### NethServer/nethsecurity-docs 3 
+### NethServer/nethsecurity-docs 4 
 
+-   **[fix(i18n): add translation for storage and ts-ip](https://github.com/NethServer/nethsecurity-docs/pull/172)** by *gsanchietti* - Reviewers: *filippocarletti, cotosso* - Created at: 2025-06-03T14:19:16Z
 - :eyes:  **[feat(storage): enable by default](https://github.com/NethServer/nethsecurity-docs/pull/167)** by *cotosso* - Reviewers: *None* - Created at: 2025-05-16T14:19:42Z
 - :eyes:  **[feat: re-add setup wizard](https://github.com/NethServer/nethsecurity-docs/pull/166)** by *andre8244* - Reviewers: *None* - Created at: 2025-05-09T08:04:35Z
 -  :zzz: **[feat: add high availability](https://github.com/NethServer/nethsecurity-docs/pull/163)** by *gsanchietti* - Reviewers: *filippocarletti, cotosso* - Created at: 2025-04-24T09:54:19Z
@@ -61,7 +69,7 @@ date = 2025-06-03
 
 ### nethesis/nethserver-phonebook-mysql 1 
 
--   **[feature(users): Add pbx users mobile number to phonebook](https://github.com/nethesis/nethserver-phonebook-mysql/pull/53)** by *Stell0* - Reviewers: *Amygos* - Created at: 2025-05-28T15:27:46Z
+- :eyes:  **[feature(users): Add pbx users mobile number to phonebook](https://github.com/nethesis/nethserver-phonebook-mysql/pull/53)** by *Stell0* - Reviewers: *None* - Created at: 2025-05-28T15:27:46Z
 
 ### nethesis/nethcti-app-android 1 
 
@@ -71,19 +79,12 @@ date = 2025-06-03
 
 -  :zzz: **[Removed old notification service usage](https://github.com/nethesis/nethcti-app-iphone/pull/37)** by *NicolaMrAPPs* - Reviewers: *b9874e40962149eee62a8fd3bc4e709e* - Created at: 2023-08-02T09:19:30Z
 
-### nethesis/ns8-nethvoice 3 
+### nethesis/ns8-nethvoice 4 
 
+-   **[fix: added missing streaming configuration page](https://github.com/nethesis/ns8-nethvoice/pull/462)** by *tonyco97* - Reviewers: *edospadoni* - Created at: 2025-06-03T15:08:23Z
 - :eyes:  **[feature(freepbx): Update all FreePBX modules to lates available 16.x](https://github.com/nethesis/ns8-nethvoice/pull/460)** by *Stell0* - Reviewers: *None* - Created at: 2025-05-30T16:00:22Z
 -   **[feature(dialplan): Make dialplan compliant with TIM requisites](https://github.com/nethesis/ns8-nethvoice/pull/459)** by *Stell0* - Reviewers: *andrea-marchionni* - Created at: 2025-05-30T08:57:28Z
 - :eyes:  **[fix: correct case for lets_encrypt env check](https://github.com/nethesis/ns8-nethvoice/pull/458)** by *Amygos* - Reviewers: *None* - Created at: 2025-05-28T13:44:35Z
-
-### nethesis/nethvoice-cti 1 
-
--   **[fix: new UI style for standard Operators](https://github.com/nethesis/nethvoice-cti/pull/306)** by *tonyco97* - Reviewers: *edospadoni* - Created at: 2025-05-13T10:05:17Z
-
-### nethesis/phone-island 1 
-
-- :eyes:  **[fix: incorrect transfer status](https://github.com/nethesis/phone-island/pull/98)** by *tonyco97* - Reviewers: *None* - Created at: 2025-05-23T08:14:27Z
 
 ### nethesis/ns8-nethvoice-proxy 4 
 
