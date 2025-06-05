@@ -2,29 +2,31 @@
 
 title = 'To be released soon'
 
-date = 2025-06-04
+date = 2025-06-05
 
 +++
 
 ### NethVoice
 
-- [NethVoice: add a POST and a GET API to write and read the extensions displayname](https://github.com/NethServer/dev/issues/7475) (#7272) by Stell0 (Created: 2025-05-21T12:37:33Z, Updated: 2025-05-27T13:20:22Z)
+- [NethVoice: add a POST and a GET API to write and read the extensions displayname](https://github.com/NethServer/dev/issues/7475) (#7339) by Stell0 (Created: 2025-05-21T12:37:33Z, Updated: 2025-05-27T13:20:22Z)
 
-- [NethVoice: NethVoice – Add Support for New Yealink T7X, T8X, and AXX Series Model](https://github.com/NethServer/dev/issues/7469) (#7272) by andrea-marchionni (Created: 2025-05-16T15:59:30Z, Updated: 2025-05-27T14:27:28Z)
+- [NethVoice: NethVoice – Add Support for New Yealink T7X, T8X, and AXX Series Model](https://github.com/NethServer/dev/issues/7469) (#7339) by andrea-marchionni (Created: 2025-05-16T15:59:30Z, Updated: 2025-05-27T14:27:28Z)
 
-- [Nethvoice voicemails recognized as spam due to invalid header](https://github.com/NethServer/dev/issues/7461) (#7272) by Stell0 (Created: 2025-05-14T12:27:28Z, Updated: 2025-05-30T10:19:46Z)
+- [Nethvoice voicemails recognized as spam due to invalid header](https://github.com/NethServer/dev/issues/7461) (#7339) by Stell0 (Created: 2025-05-14T12:27:28Z, Updated: 2025-05-30T10:19:46Z)
 
-- [NethVoice CTI streaming UI design ](https://github.com/NethServer/dev/issues/7272) (#7272) by andrea-marchionni (Created: 2025-01-21T08:30:45Z, Updated: 2025-05-30T08:06:44Z)
+- [NethLink: allow Audio/Video device configuration in NethLink](https://github.com/NethServer/dev/issues/7414) (#7339) by edospadoni (Created: 2025-04-18T12:08:38Z, Updated: 2025-06-04T09:14:19Z)
+
+- [NethLink: the phonebook search only displays mobile numbers.](https://github.com/NethServer/dev/issues/7339) (#7339) by andrea-marchionni (Created: 2025-03-04T10:10:32Z, Updated: 2025-06-04T08:39:54Z)
 
 ### NethServer
 
-- [Restore procedure error with stale destination contents](https://github.com/NethServer/dev/issues/7470) (#7272) by nrauso (Created: 2025-05-19T10:23:58Z, Updated: 2025-06-03T14:38:16Z)
+- [Restore procedure error with stale destination contents](https://github.com/NethServer/dev/issues/7470) (#7339) by nrauso (Created: 2025-05-19T10:23:58Z, Updated: 2025-06-03T14:38:16Z)
 
-- [File Server netbios aliases](https://github.com/NethServer/dev/issues/7388) (#7272) by DavidePrincipi (Created: 2025-04-08T10:40:52Z, Updated: 2025-06-02T09:17:24Z)
+- [File Server netbios aliases](https://github.com/NethServer/dev/issues/7388) (#7339) by DavidePrincipi (Created: 2025-04-08T10:40:52Z, Updated: 2025-06-02T09:17:24Z)
 
-- [Show File Server host and NT domain name](https://github.com/NethServer/dev/issues/7387) (#7272) by DavidePrincipi (Created: 2025-04-08T10:38:11Z, Updated: 2025-05-30T17:33:33Z)
+- [Show File Server host and NT domain name](https://github.com/NethServer/dev/issues/7387) (#7339) by DavidePrincipi (Created: 2025-04-08T10:38:11Z, Updated: 2025-05-30T17:33:33Z)
 
-- [Temporary duplicate items after TLS cert request](https://github.com/NethServer/dev/issues/7346) (#7272) by DavidePrincipi (Created: 2025-03-13T15:25:01Z, Updated: 2025-05-29T16:44:50Z)
+- [Temporary duplicate items after TLS cert request](https://github.com/NethServer/dev/issues/7346) (#7339) by DavidePrincipi (Created: 2025-03-13T15:25:01Z, Updated: 2025-05-29T16:44:50Z)
 
 ### NoMilestone
 

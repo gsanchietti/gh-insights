@@ -1,18 +1,13 @@
 +++
 title = 'Open Pull Requests'
-date = 2025-06-04
+date = 2025-06-05
 +++
 
 ## Organization: nethserver
 
-### NethServer/ns8-samba 1 
+### NethServer/nethsecurity 2 
 
-- :eyes:  **[Add EditSharedFolderModal and advanced settings for shared folders](https://github.com/NethServer/ns8-samba/pull/98)** by *stephdl* - Reviewers: *None* - Created at: 2025-06-03T13:59:09Z
-
-### NethServer/nethsecurity 3 
-
-- :eyes:  **[fix(port forward): allow redirect to firewall](https://github.com/NethServer/nethsecurity/pull/1246)** by *Tbaile* - Reviewers: *None* - Created at: 2025-06-03T14:50:46Z
-- :eyes:  **[fix(ns-storage): use filesystem label](https://github.com/NethServer/nethsecurity/pull/1234)** by *filippocarletti* - Reviewers: *None* - Created at: 2025-05-27T13:18:04Z
+-   **[fix(flashstart): fixed euci sync issue](https://github.com/NethServer/nethsecurity/pull/1250)** by *Tbaile* - Reviewers: *gsanchietti* - Created at: 2025-06-04T12:54:25Z
 -  :zzz: **[High availability stack](https://github.com/NethServer/nethsecurity/pull/871)** by *gsanchietti* - Reviewers: *filippocarletti, Tbaile* - Created at: 2024-10-23T15:36:11Z
 
 ### NethServer/ns8-mail 1 
@@ -31,35 +26,24 @@ date = 2025-06-04
 
 - :eyes: :zzz: **[Upgrade piler to 1.4.7](https://github.com/NethServer/ns8-piler/pull/32)** by *stephdl* - Reviewers: *None* - Created at: 2025-04-30T09:52:17Z
 
-### NethServer/ns8-crowdsec 1 
-
-- :eyes:  **[Add FreePBX configurations and parser to default installation](https://github.com/NethServer/ns8-crowdsec/pull/77)** by *stephdl* - Reviewers: *None* - Created at: 2025-05-26T11:13:45Z
-
-### NethServer/ns8-docs 5 
+### NethServer/ns8-docs 4 
 
 -   **[Add autoconfiguration support for email clients](https://github.com/NethServer/ns8-docs/pull/169)** by *stephdl* - Reviewers: *DavidePrincipi* - Created at: 2025-06-02T08:42:16Z
 - :eyes:  **[fix(metrics): remove language selection](https://github.com/NethServer/ns8-docs/pull/167)** by *gsanchietti* - Reviewers: *None* - Created at: 2025-05-26T13:20:09Z
 - :eyes:  **[add Yealink T7X T8X AX](https://github.com/NethServer/ns8-docs/pull/165)** by *andrea-marchionni* - Reviewers: *None* - Created at: 2025-05-16T16:03:23Z
 - :eyes:  **[Update note about IP change to clarify need for correct reconfiguration](https://github.com/NethServer/ns8-docs/pull/164)** by *IgonetIT* - Reviewers: *None* - Created at: 2025-05-08T09:20:48Z
--  :zzz: **[Update nethvoice_proxy.rst](https://github.com/NethServer/ns8-docs/pull/157)** by *viktec* - Reviewers: *andrea-marchionni* - Created at: 2025-04-10T17:06:20Z
 
-### NethServer/nethsecurity-ui 4 
+### NethServer/nethsecurity-ui 2 
 
--   **[fix: skip wizard check while on controller](https://github.com/NethServer/nethsecurity-ui/pull/573)** by *andre8244* - Reviewers: *Tbaile* - Created at: 2025-06-03T16:00:13Z
--   **[fix: ssh keys list while opening unit ssh terminal](https://github.com/NethServer/nethsecurity-ui/pull/572)** by *andre8244* - Reviewers: *Tbaile* - Created at: 2025-06-03T15:51:52Z
--   **[fix(port forward): enabled possibility to set rules for firewall](https://github.com/NethServer/nethsecurity-ui/pull/571)** by *Tbaile* - Reviewers: *andre8244* - Created at: 2025-06-03T14:51:15Z
+- :eyes:  **[chore(main): release 1.27.4](https://github.com/NethServer/nethsecurity-ui/pull/576)** by *Tbaile* - Reviewers: *None* - Created at: 2025-06-04T10:49:10Z
 - :eyes: :zzz: **[HA: add dashboard card](https://github.com/NethServer/nethsecurity-ui/pull/533)** by *gsanchietti* - Reviewers: *None* - Created at: 2025-04-17T07:36:06Z
 
 ### NethServer/nethsecurity-docs 4 
 
--   **[fix(i18n): add translation for storage and ts-ip](https://github.com/NethServer/nethsecurity-docs/pull/172)** by *gsanchietti* - Reviewers: *filippocarletti, cotosso* - Created at: 2025-06-03T14:19:16Z
+-   **[fix(i18n): add translation for storage and ts-ip](https://github.com/NethServer/nethsecurity-docs/pull/172)** by *gsanchietti* - Reviewers: *cotosso* - Created at: 2025-06-03T14:19:16Z
 - :eyes:  **[feat(storage): enable by default](https://github.com/NethServer/nethsecurity-docs/pull/167)** by *cotosso* - Reviewers: *None* - Created at: 2025-05-16T14:19:42Z
 - :eyes:  **[feat: re-add setup wizard](https://github.com/NethServer/nethsecurity-docs/pull/166)** by *andre8244* - Reviewers: *None* - Created at: 2025-05-09T08:04:35Z
 -  :zzz: **[feat: add high availability](https://github.com/NethServer/nethsecurity-docs/pull/163)** by *gsanchietti* - Reviewers: *filippocarletti, cotosso* - Created at: 2025-04-24T09:54:19Z
-
-### NethServer/nethlink 1 
-
--   **[feat: add preferred devices management](https://github.com/NethServer/nethlink/pull/64)** by *therockerline* - Reviewers: *edospadoni* - Created at: 2025-05-15T16:01:37Z
 
 ### NethServer/ns8-dependencytrack 1 
 
