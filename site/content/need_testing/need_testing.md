@@ -1,17 +1,13 @@
 +++
-title = 'Need testing (26)'
-date = 2025-06-05
+title = 'Need testing (23)'
+date = 2025-06-06
 +++
 
 ## NethServer
-- **[Ldapproxy restart timeout error on worker node](https://github.com/NethServer/dev/issues/7491)** (#7113) by *nrauso* (Created: 2025-06-03, Updated: 2025-06-03T14:38:33Z)
 - **[Upgrade Roundcube module to version 1.6.11 with mariadb 10.11.13](https://github.com/NethServer/dev/issues/7490)** (#7113) by *stephdl* (Created: 2025-06-03, Updated: 2025-06-03T08:44:52Z)
-- :point_right: **[Crowdsec: SIP bruteforce traffic not banned](https://github.com/NethServer/dev/issues/7481)** (#7113) by *nrauso* (Created: 2025-05-26, Updated: 2025-06-04T15:10:32Z)
-- :point_right: **[Webtop mail mobile clients autoconfig/autodiscovery](https://github.com/NethServer/dev/issues/7451)** (#7113) by *DavidePrincipi* (Created: 2025-05-09, Updated: 2025-06-04T18:05:51Z)
-- :point_right: **[Samba VFS recycle bin](https://github.com/NethServer/dev/issues/7390)** (#7113) by *DavidePrincipi* (Created: 2025-04-08, Updated: 2025-06-04T15:40:22Z)
-- :point_right: **[Samba share access audit log](https://github.com/NethServer/dev/issues/7386)** (#7113) by *DavidePrincipi* (Created: 2025-04-08, Updated: 2025-06-04T15:40:29Z)
-- :point_right: **[Samba File Server as AD domain member ](https://github.com/NethServer/dev/issues/7384)** (#7113) by *DavidePrincipi* (Created: 2025-04-07, Updated: 2025-06-04T09:31:14Z)
-- :point_right: **[Avoid multiple TLS certificates for the same server name](https://github.com/NethServer/dev/issues/7383)** (#7113) by *DavidePrincipi* (Created: 2025-04-07, Updated: 2025-05-29T16:41:43Z)
+- :point_right: **[Crowdsec: SIP bruteforce traffic not banned](https://github.com/NethServer/dev/issues/7481)** (#7113) by *nrauso* (Created: 2025-05-26, Updated: 2025-06-05T17:00:54Z)
+- :point_right: **[Mixed case group name prevents access to public Mail folder](https://github.com/NethServer/dev/issues/7480)** (#7113) by *mrmarkuz* (Created: 2025-05-26, Updated: 2025-06-05T09:52:24Z)
+- :point_right: **[Samba VFS recycle bin](https://github.com/NethServer/dev/issues/7390)** (#7113) by *DavidePrincipi* (Created: 2025-04-08, Updated: 2025-06-05T09:46:34Z)
 
 ## NethVoice
 - :point_right: **[NethVoice CTI: Operator last login shows incorrect time (+2 hours) in Operator Statistics page](https://github.com/NethServer/dev/issues/7484)** (#7113) by *viktec* (Created: 2025-05-28, Updated: 2025-06-03T14:26:33Z)
@@ -31,6 +27,7 @@ date = 2025-06-05
 
 ## NethSecurity
 - :point_right: **[ns-storage can fill root filesystem](https://github.com/NethServer/nethsecurity/issues/1233)** (#1092) by *filippocarletti* (Created: 2025-05-27, Updated: 2025-06-04T14:40:15Z)
+- :point_right: **[Port forward creation: destination address field mandatory](https://github.com/NethServer/nethsecurity/issues/1220)** (#1092) by *filippocarletti* (Created: 2025-05-19, Updated: 2025-06-05T06:43:31Z)
 - :point_right: **[openvpn: issues with user renaming and login consistency](https://github.com/NethServer/nethsecurity/issues/1209)** (#1092) by *Tbaile* (Created: 2025-05-09, Updated: 2025-05-21T13:26:33Z)
 - :point_right: **[Refactor FlashStart](https://github.com/NethServer/nethsecurity/issues/1162)** (#1092) by *Tbaile* (Created: 2025-04-08, Updated: 2025-05-29T14:32:38Z)
 - :point_right: **[PCI displacement updating to 24.10](https://github.com/NethServer/nethsecurity/issues/1092)** (#1092) by *Tbaile* (Created: 2025-02-21, Updated: 2025-05-29T08:43:47Z)

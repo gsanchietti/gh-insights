@@ -1,18 +1,14 @@
 +++
 title = 'Open Pull Requests'
-date = 2025-06-05
+date = 2025-06-06
 +++
 
 ## Organization: nethserver
 
 ### NethServer/nethsecurity 2 
 
--   **[fix(flashstart): fixed euci sync issue](https://github.com/NethServer/nethsecurity/pull/1250)** by *Tbaile* - Reviewers: *gsanchietti* - Created at: 2025-06-04T12:54:25Z
+- :eyes:  **[fix(flashstart): fix euci sync issue and disabled WAN DHCP resolver](https://github.com/NethServer/nethsecurity/pull/1250)** by *Tbaile* - Reviewers: *None* - Created at: 2025-06-04T12:54:25Z
 -  :zzz: **[High availability stack](https://github.com/NethServer/nethsecurity/pull/871)** by *gsanchietti* - Reviewers: *filippocarletti, Tbaile* - Created at: 2024-10-23T15:36:11Z
-
-### NethServer/ns8-mail 1 
-
--   **[fix: mixed-case ACL group match](https://github.com/NethServer/ns8-mail/pull/181)** by *DavidePrincipi* - Reviewers: *gsanchietti* - Created at: 2025-06-03T16:13:15Z
 
 ### NethServer/ns8-nethsecurity-controller 1 
 
@@ -28,22 +24,23 @@ date = 2025-06-05
 
 ### NethServer/ns8-docs 4 
 
--   **[Add autoconfiguration support for email clients](https://github.com/NethServer/ns8-docs/pull/169)** by *stephdl* - Reviewers: *DavidePrincipi* - Created at: 2025-06-02T08:42:16Z
+-   **[Add autoconfiguration support for email clients](https://github.com/NethServer/ns8-docs/pull/169)** by *stephdl* - Reviewers: *lucagasparini* - Created at: 2025-06-02T08:42:16Z
 - :eyes:  **[fix(metrics): remove language selection](https://github.com/NethServer/ns8-docs/pull/167)** by *gsanchietti* - Reviewers: *None* - Created at: 2025-05-26T13:20:09Z
 - :eyes:  **[add Yealink T7X T8X AX](https://github.com/NethServer/ns8-docs/pull/165)** by *andrea-marchionni* - Reviewers: *None* - Created at: 2025-05-16T16:03:23Z
 - :eyes:  **[Update note about IP change to clarify need for correct reconfiguration](https://github.com/NethServer/ns8-docs/pull/164)** by *IgonetIT* - Reviewers: *None* - Created at: 2025-05-08T09:20:48Z
 
-### NethServer/nethsecurity-ui 2 
+### NethServer/nethsecurity-ui 3 
 
 - :eyes:  **[chore(main): release 1.27.4](https://github.com/NethServer/nethsecurity-ui/pull/576)** by *Tbaile* - Reviewers: *None* - Created at: 2025-06-04T10:49:10Z
+-   **[chore!: upgrade tailwindcss to v4](https://github.com/NethServer/nethsecurity-ui/pull/570)** by *andre8244* - Reviewers: *Tbaile* - Created at: 2025-06-03T08:44:17Z
 - :eyes: :zzz: **[HA: add dashboard card](https://github.com/NethServer/nethsecurity-ui/pull/533)** by *gsanchietti* - Reviewers: *None* - Created at: 2025-04-17T07:36:06Z
 
 ### NethServer/nethsecurity-docs 4 
 
--   **[fix(i18n): add translation for storage and ts-ip](https://github.com/NethServer/nethsecurity-docs/pull/172)** by *gsanchietti* - Reviewers: *cotosso* - Created at: 2025-06-03T14:19:16Z
+-   **[Flashstart Pro Plus revised doc](https://github.com/NethServer/nethsecurity-docs/pull/174)** by *cotosso* - Reviewers: *Tbaile, francio87* - Created at: 2025-06-05T15:24:06Z
 - :eyes:  **[feat(storage): enable by default](https://github.com/NethServer/nethsecurity-docs/pull/167)** by *cotosso* - Reviewers: *None* - Created at: 2025-05-16T14:19:42Z
 - :eyes:  **[feat: re-add setup wizard](https://github.com/NethServer/nethsecurity-docs/pull/166)** by *andre8244* - Reviewers: *None* - Created at: 2025-05-09T08:04:35Z
--  :zzz: **[feat: add high availability](https://github.com/NethServer/nethsecurity-docs/pull/163)** by *gsanchietti* - Reviewers: *filippocarletti, cotosso* - Created at: 2025-04-24T09:54:19Z
+-  :zzz: **[feat: add high availability](https://github.com/NethServer/nethsecurity-docs/pull/163)** by *gsanchietti* - Reviewers: *filippocarletti* - Created at: 2025-04-24T09:54:19Z
 
 ### NethServer/ns8-dependencytrack 1 
 
@@ -70,15 +67,20 @@ date = 2025-06-05
 -   **[feature(dialplan): Make dialplan compliant with TIM requisites](https://github.com/nethesis/ns8-nethvoice/pull/459)** by *Stell0* - Reviewers: *andrea-marchionni* - Created at: 2025-05-30T08:57:28Z
 - :eyes:  **[fix: correct case for lets_encrypt env check](https://github.com/nethesis/ns8-nethvoice/pull/458)** by *Amygos* - Reviewers: *None* - Created at: 2025-05-28T13:44:35Z
 
+### nethesis/phone-island 1 
+
+- :eyes:  **[fix: added missing socket events to manage streaming device](https://github.com/nethesis/phone-island/pull/99)** by *tonyco97* - Reviewers: *None* - Created at: 2025-06-05T12:34:53Z
+
 ### nethesis/ns8-nethvoice-proxy 4 
 
 -   **[feat: optimize container images with reduced attack surface and improved build efficiency](https://github.com/nethesis/ns8-nethvoice-proxy/pull/65)** by *Amygos* - Reviewers: *Stell0* - Created at: 2025-05-29T15:29:34Z
 - :eyes:  **[fix(kamailio): set destination using R-URI to avoide destination to be setted by remote Route](https://github.com/nethesis/ns8-nethvoice-proxy/pull/64)** by *Stell0* - Reviewers: *None* - Created at: 2025-05-20T10:16:54Z
-- :eyes:  **[Fix SIP Call Termination Issues with Multiple Record-Route Headers](https://github.com/nethesis/ns8-nethvoice-proxy/pull/63)** by *Stell0* - Reviewers: *None* - Created at: 2025-05-06T10:12:51Z
+- :eyes: :zzz: **[Fix SIP Call Termination Issues with Multiple Record-Route Headers](https://github.com/nethesis/ns8-nethvoice-proxy/pull/63)** by *Stell0* - Reviewers: *None* - Created at: 2025-05-06T10:12:51Z
 - :eyes: :zzz: **[Remove Route header handling for inbound packets](https://github.com/nethesis/ns8-nethvoice-proxy/pull/49)** by *Amygos* - Reviewers: *None* - Created at: 2024-12-06T15:26:49Z
 
-### nethesis/vue-components 2 
+### nethesis/vue-components 3 
 
+-   **[chore!: upgrade to tailwindcss 4](https://github.com/nethesis/vue-components/pull/86)** by *andre8244* - Reviewers: *Tbaile* - Created at: 2025-05-28T11:00:44Z
 - :eyes: :zzz: **[fix!: enforcing types on parent projects](https://github.com/nethesis/vue-components/pull/81)** by *Tbaile* - Reviewers: *None* - Created at: 2024-11-07T13:55:58Z
 - :eyes: :zzz: **[fix: fixed issue with missing dependencies](https://github.com/nethesis/vue-components/pull/70)** by *Tbaile* - Reviewers: *None* - Created at: 2024-08-09T12:06:23Z
 
