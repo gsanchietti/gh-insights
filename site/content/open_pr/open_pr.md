@@ -1,6 +1,6 @@
 +++
 title = 'Open Pull Requests'
-date = 2025-06-07
+date = 2025-06-08
 +++
 
 ## Organization: nethserver
@@ -21,11 +21,15 @@ date = 2025-06-07
 
 - :eyes: :zzz: **[Upgrade piler to 1.4.7](https://github.com/NethServer/ns8-piler/pull/32)** by *stephdl* - Reviewers: *None* - Created at: 2025-04-30T09:52:17Z
 
+### NethServer/ns8-crowdsec 1 
+
+-   **[whitelist freepbx extension reload](https://github.com/NethServer/ns8-crowdsec/pull/79)** by *stephdl* - Reviewers: *DavidePrincipi, Stell0* - Created at: 2025-06-07T09:50:50Z
+
 ### NethServer/ns8-docs 3 
 
 - :eyes:  **[fix(metrics): remove language selection](https://github.com/NethServer/ns8-docs/pull/167)** by *gsanchietti* - Reviewers: *None* - Created at: 2025-05-26T13:20:09Z
 - :eyes:  **[add Yealink T7X T8X AX](https://github.com/NethServer/ns8-docs/pull/165)** by *andrea-marchionni* - Reviewers: *None* - Created at: 2025-05-16T16:03:23Z
-- :eyes:  **[Update note about IP change to clarify need for correct reconfiguration](https://github.com/NethServer/ns8-docs/pull/164)** by *IgonetIT* - Reviewers: *None* - Created at: 2025-05-08T09:20:48Z
+- :eyes: :zzz: **[Update note about IP change to clarify need for correct reconfiguration](https://github.com/NethServer/ns8-docs/pull/164)** by *IgonetIT* - Reviewers: *None* - Created at: 2025-05-08T09:20:48Z
 
 ### NethServer/nethsecurity-ui 3 
 

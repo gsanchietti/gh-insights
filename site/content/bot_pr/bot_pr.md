@@ -1,6 +1,6 @@
 +++
 title = 'Open Pull Requests by Bots'
-date = 2025-06-07
+date = 2025-06-08
 +++
 
 ## Organization: nethserver
@@ -233,9 +233,5 @@ date = 2025-06-07
 ### nethesis/nethvoice-report 1 
 
 - :eyes: :zzz: **[Bump jspdf from 2.1.1 to 3.0.1 in /ui](https://github.com/nethesis/nethvoice-report/pull/203)** by *dependabot[bot]* - Reviewers: *None* - Created at: 2025-03-19T07:36:39Z
-
-### nethesis/parceler 1 
-
-- :eyes:  **[chore(deps): update php docker tag to v8.4.8](https://github.com/nethesis/parceler/pull/79)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-06-07T00:55:10Z
 
 
