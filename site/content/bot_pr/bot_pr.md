@@ -1,6 +1,6 @@
 +++
 title = 'Open Pull Requests by Bots'
-date = 2025-06-08
+date = 2025-06-09
 +++
 
 ## Organization: nethserver
@@ -90,8 +90,12 @@ date = 2025-06-08
 
 - :eyes:  **[chore: bump ns packages (automatic)](https://github.com/NethServer/nethsecurity/pull/1249)** by *github-actions[bot]* - Reviewers: *None* - Created at: 2025-06-04T10:02:10Z
 
-### NethServer/nethsecurity-controller 4 
+### NethServer/nethsecurity-controller 8 
 
+- :eyes:  **[fix(deps): update module golang.org/x/crypto to v0.39.0](https://github.com/NethServer/nethsecurity-controller/pull/122)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-06-09T01:01:16Z
+- :eyes:  **[chore(deps): update aquasecurity/trivy-action action to v0.31.0](https://github.com/NethServer/nethsecurity-controller/pull/121)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-06-09T01:00:59Z
+- :eyes:  **[chore(deps): update docker.io/golang docker tag to v1.24.4](https://github.com/NethServer/nethsecurity-controller/pull/120)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-06-09T01:00:55Z
+- :eyes:  **[chore(deps): update dependency go to v1.24.4](https://github.com/NethServer/nethsecurity-controller/pull/119)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-06-09T01:00:51Z
 - :eyes:  **[chore(deps): update dependency nethserver/nethsecurity-ui to v1.27.3](https://github.com/NethServer/nethsecurity-controller/pull/117)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-05-26T01:33:20Z
 - :eyes: :zzz: **[chore(deps): update docker.io/traefik docker tag to v3](https://github.com/NethServer/nethsecurity-controller/pull/95)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-03-31T03:07:13Z
 - :eyes: :zzz: **[chore(deps): update docker.io/alpine docker tag to v3.21.3](https://github.com/NethServer/nethsecurity-controller/pull/92)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-03-25T09:07:13Z
@@ -130,7 +134,7 @@ date = 2025-06-08
 
 ### NethServer/phonehome-server 3 
 
-- :eyes:  **[chore(deps): update grafana/grafana-oss docker tag to v12](https://github.com/NethServer/phonehome-server/pull/129)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-05-10T02:39:40Z
+- :eyes: :zzz: **[chore(deps): update grafana/grafana-oss docker tag to v12](https://github.com/NethServer/phonehome-server/pull/129)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-05-10T02:39:40Z
 - :eyes: :zzz: **[chore(deps): update adminer docker tag to v5](https://github.com/NethServer/phonehome-server/pull/128)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-03-15T02:06:42Z
 - :eyes: :zzz: **[fix(deps): update dependency laravel/framework to v12](https://github.com/NethServer/phonehome-server/pull/127)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-03-01T01:48:09Z
 

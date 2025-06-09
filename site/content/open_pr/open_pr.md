@@ -1,6 +1,6 @@
 +++
 title = 'Open Pull Requests'
-date = 2025-06-08
+date = 2025-06-09
 +++
 
 ## Organization: nethserver
@@ -41,7 +41,7 @@ date = 2025-06-08
 
 - :eyes:  **[feat(flashstart): added documentation about proplus](https://github.com/NethServer/nethsecurity-docs/pull/174)** by *cotosso* - Reviewers: *None* - Created at: 2025-06-05T15:24:06Z
 - :eyes:  **[feat(storage): enable by default](https://github.com/NethServer/nethsecurity-docs/pull/167)** by *cotosso* - Reviewers: *None* - Created at: 2025-05-16T14:19:42Z
--   **[feat: re-add setup wizard](https://github.com/NethServer/nethsecurity-docs/pull/166)** by *andre8244* - Reviewers: *gsanchietti, Tbaile* - Created at: 2025-05-09T08:04:35Z
+-  :zzz: **[feat: re-add setup wizard](https://github.com/NethServer/nethsecurity-docs/pull/166)** by *andre8244* - Reviewers: *gsanchietti, Tbaile* - Created at: 2025-05-09T08:04:35Z
 -  :zzz: **[feat: add high availability](https://github.com/NethServer/nethsecurity-docs/pull/163)** by *gsanchietti* - Reviewers: *filippocarletti* - Created at: 2025-04-24T09:54:19Z
 
 ### NethServer/ns8-dependencytrack 1 
