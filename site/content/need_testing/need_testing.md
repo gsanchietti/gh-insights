@@ -1,6 +1,6 @@
 +++
-title = 'Need testing (13)'
-date = 2025-06-09
+title = 'Need testing (11)'
+date = 2025-06-10
 +++
 
 ## NethServer
@@ -16,9 +16,7 @@ date = 2025-06-09
 - :point_right: **[Nethvoice Proxy: add backup and restore procedure](https://github.com/NethServer/dev/issues/7113)** (#7113) by *Amygos* (Created: 2024-11-14, Updated: 2025-05-27T15:13:59Z)
 
 ## NethSecurity
-- :point_right: **[ns-storage can fill root filesystem](https://github.com/NethServer/nethsecurity/issues/1233)** (#1092) by *filippocarletti* (Created: 2025-05-27, Updated: 2025-06-04T14:40:15Z)
-- :point_right: **[Port forward creation: destination address field mandatory](https://github.com/NethServer/nethsecurity/issues/1220)** (#1092) by *filippocarletti* (Created: 2025-05-19, Updated: 2025-06-05T06:43:31Z)
-- :point_right: **[openvpn: issues with user renaming and login consistency](https://github.com/NethServer/nethsecurity/issues/1209)** (#1092) by *Tbaile* (Created: 2025-05-09, Updated: 2025-05-21T13:26:33Z)
-- :point_right: **[Refactor FlashStart](https://github.com/NethServer/nethsecurity/issues/1162)** (#1092) by *Tbaile* (Created: 2025-04-08, Updated: 2025-05-29T14:32:38Z)
-- :point_right: **[PCI displacement updating to 24.10](https://github.com/NethServer/nethsecurity/issues/1092)** (#1092) by *Tbaile* (Created: 2025-02-21, Updated: 2025-05-29T08:43:47Z)
+- :point_right: **[openvpn: issues with user renaming and login consistency](https://github.com/NethServer/nethsecurity/issues/1209)** (#920) by *Tbaile* (Created: 2025-05-09, Updated: 2025-06-09T12:48:00Z)
+- :point_right: **[Refactor FlashStart](https://github.com/NethServer/nethsecurity/issues/1162)** (#920) by *Tbaile* (Created: 2025-04-08, Updated: 2025-05-29T14:32:38Z)
+- :point_right: **[High Availability](https://github.com/NethServer/nethsecurity/issues/920)** (#920) by *gsanchietti* (Created: 2024-11-19, Updated: 2025-06-09T13:41:52Z)
 

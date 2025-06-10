@@ -1,13 +1,14 @@
 +++
 title = 'Open Pull Requests'
-date = 2025-06-09
+date = 2025-06-10
 +++
 
 ## Organization: nethserver
 
-### NethServer/nethsecurity 1 
+### NethServer/nethsecurity 2 
 
--  :zzz: **[High availability stack](https://github.com/NethServer/nethsecurity/pull/871)** by *gsanchietti* - Reviewers: *filippocarletti, Tbaile* - Created at: 2024-10-23T15:36:11Z
+-   **[fix: distfeed-setup was not setting dev channel](https://github.com/NethServer/nethsecurity/pull/1258)** by *gsanchietti* - Reviewers: *Tbaile* - Created at: 2025-06-09T15:53:20Z
+- :eyes:  **[fix(dhcp): forbid duplicate ip address reservations](https://github.com/NethServer/nethsecurity/pull/1257)** by *Tbaile* - Reviewers: *None* - Created at: 2025-06-09T07:55:29Z
 
 ### NethServer/ns8-nethsecurity-controller 1 
 
@@ -33,15 +34,15 @@ date = 2025-06-09
 
 ### NethServer/nethsecurity-ui 3 
 
-- :eyes:  **[chore(main): release 1.27.4](https://github.com/NethServer/nethsecurity-ui/pull/576)** by *Tbaile* - Reviewers: *None* - Created at: 2025-06-04T10:49:10Z
+- :eyes:  **[fix(lang): add error for duplicate IP reservation](https://github.com/NethServer/nethsecurity-ui/pull/580)** by *Tbaile* - Reviewers: *None* - Created at: 2025-06-09T07:56:39Z
+- :eyes:  **[chore(main): release 1.28.0](https://github.com/NethServer/nethsecurity-ui/pull/576)** by *Tbaile* - Reviewers: *None* - Created at: 2025-06-04T10:49:10Z
 -   **[chore!: upgrade tailwindcss to v4](https://github.com/NethServer/nethsecurity-ui/pull/570)** by *andre8244* - Reviewers: *Tbaile* - Created at: 2025-06-03T08:44:17Z
-- :eyes: :zzz: **[HA: add dashboard card](https://github.com/NethServer/nethsecurity-ui/pull/533)** by *gsanchietti* - Reviewers: *None* - Created at: 2025-04-17T07:36:06Z
 
 ### NethServer/nethsecurity-docs 4 
 
 - :eyes:  **[feat(flashstart): added documentation about proplus](https://github.com/NethServer/nethsecurity-docs/pull/174)** by *cotosso* - Reviewers: *None* - Created at: 2025-06-05T15:24:06Z
 - :eyes:  **[feat(storage): enable by default](https://github.com/NethServer/nethsecurity-docs/pull/167)** by *cotosso* - Reviewers: *None* - Created at: 2025-05-16T14:19:42Z
--  :zzz: **[feat: re-add setup wizard](https://github.com/NethServer/nethsecurity-docs/pull/166)** by *andre8244* - Reviewers: *gsanchietti, Tbaile* - Created at: 2025-05-09T08:04:35Z
+- :eyes: :zzz: **[feat: re-add setup wizard](https://github.com/NethServer/nethsecurity-docs/pull/166)** by *andre8244* - Reviewers: *None* - Created at: 2025-05-09T08:04:35Z
 -  :zzz: **[feat: add high availability](https://github.com/NethServer/nethsecurity-docs/pull/163)** by *gsanchietti* - Reviewers: *filippocarletti* - Created at: 2025-04-24T09:54:19Z
 
 ### NethServer/ns8-dependencytrack 1 
@@ -75,9 +76,8 @@ date = 2025-06-09
 - :eyes:  **[fix(kamailio): set destination using R-URI to avoide destination to be setted by remote Route](https://github.com/nethesis/ns8-nethvoice-proxy/pull/64)** by *Stell0* - Reviewers: *None* - Created at: 2025-05-20T10:16:54Z
 - :eyes: :zzz: **[Remove Route header handling for inbound packets](https://github.com/nethesis/ns8-nethvoice-proxy/pull/49)** by *Amygos* - Reviewers: *None* - Created at: 2024-12-06T15:26:49Z
 
-### nethesis/vue-components 2 
+### nethesis/vue-components 1 
 
-- :eyes:  **[chore(main): release 3.0.0](https://github.com/nethesis/vue-components/pull/87)** by *Tbaile* - Reviewers: *None* - Created at: 2025-06-06T14:00:54Z
--   **[chore!: upgrade to tailwindcss 4](https://github.com/nethesis/vue-components/pull/86)** by *andre8244* - Reviewers: *Tbaile* - Created at: 2025-05-28T11:00:44Z
+- :eyes:  **[chore(main): release 3.0.1](https://github.com/nethesis/vue-components/pull/89)** by *Tbaile* - Reviewers: *None* - Created at: 2025-06-09T09:30:53Z
 
 

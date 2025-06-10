@@ -2,7 +2,7 @@
 
 title = 'To be released soon'
 
-date = 2025-06-09
+date = 2025-06-10
 
 +++
 
@@ -50,7 +50,11 @@ date = 2025-06-09
 
 - [Include version details in migration files](https://github.com/NethServer/nethsecurity/issues/1238) (#924) by francio87 (Created: 2025-05-28T09:52:22Z, Updated: 2025-06-05T06:44:32Z)
 
+- [ns-storage can fill root filesystem](https://github.com/NethServer/nethsecurity/issues/1233) (#924) by filippocarletti (Created: 2025-05-27T09:40:40Z, Updated: 2025-06-09T15:59:06Z)
+
 - [Unable to delete pending Let's Encrypt certificate](https://github.com/NethServer/nethsecurity/issues/1226) (#924) by francio87 (Created: 2025-05-22T08:05:08Z, Updated: 2025-05-29T07:40:29Z)
+
+- [Port forward creation: destination address field mandatory](https://github.com/NethServer/nethsecurity/issues/1220) (#924) by filippocarletti (Created: 2025-05-19T14:10:45Z, Updated: 2025-06-09T14:20:36Z)
 
 - [Add exit device to SNAT](https://github.com/NethServer/nethsecurity/issues/1183) (#924) by Tbaile (Created: 2025-04-18T12:13:33Z, Updated: 2025-06-03T08:45:41Z)
 
@@ -58,9 +62,11 @@ date = 2025-06-09
 
 - [Security wizard](https://github.com/NethServer/nethsecurity/issues/1157) (#924) by Tbaile (Created: 2025-04-07T13:29:01Z, Updated: 2025-06-03T08:58:06Z)
 
+- [PCI displacement updating to 24.10](https://github.com/NethServer/nethsecurity/issues/1092) (#924) by Tbaile (Created: 2025-02-21T15:49:24Z, Updated: 2025-06-09T13:32:32Z)
+
 - [Add dropdown filter for static leases by interface](https://github.com/NethServer/nethsecurity/issues/1085) (#924) by cotosso (Created: 2025-02-18T13:56:14Z, Updated: 2025-05-28T15:27:52Z)
 
-- [Ensure Default Log Storage on Persistent Storage Instead of RAM](https://github.com/NethServer/nethsecurity/issues/1082) (#924) by cotosso (Created: 2025-02-17T21:42:09Z, Updated: 2025-05-19T13:30:56Z)
+- [Ensure Default Log Storage on Persistent Storage Instead of RAM](https://github.com/NethServer/nethsecurity/issues/1082) (#924) by cotosso (Created: 2025-02-17T21:42:09Z, Updated: 2025-06-09T13:41:51Z)
 
 - [Threat shield IP UI: manage list of blocked IPs](https://github.com/NethServer/nethsecurity/issues/924) (#924) by gsanchietti (Created: 2024-11-20T09:16:06Z, Updated: 2025-05-26T10:28:26Z)
 
