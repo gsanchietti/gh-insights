@@ -1,14 +1,9 @@
 +++
 title = 'Open Pull Requests'
-date = 2025-06-10
+date = 2025-06-11
 +++
 
 ## Organization: nethserver
-
-### NethServer/nethsecurity 2 
-
--   **[fix: distfeed-setup was not setting dev channel](https://github.com/NethServer/nethsecurity/pull/1258)** by *gsanchietti* - Reviewers: *Tbaile* - Created at: 2025-06-09T15:53:20Z
-- :eyes:  **[fix(dhcp): forbid duplicate ip address reservations](https://github.com/NethServer/nethsecurity/pull/1257)** by *Tbaile* - Reviewers: *None* - Created at: 2025-06-09T07:55:29Z
 
 ### NethServer/ns8-nethsecurity-controller 1 
 
@@ -32,14 +27,13 @@ date = 2025-06-10
 - :eyes:  **[add Yealink T7X T8X AX](https://github.com/NethServer/ns8-docs/pull/165)** by *andrea-marchionni* - Reviewers: *None* - Created at: 2025-05-16T16:03:23Z
 - :eyes: :zzz: **[Update note about IP change to clarify need for correct reconfiguration](https://github.com/NethServer/ns8-docs/pull/164)** by *IgonetIT* - Reviewers: *None* - Created at: 2025-05-08T09:20:48Z
 
-### NethServer/nethsecurity-ui 3 
+### NethServer/nethsecurity-ui 1 
 
-- :eyes:  **[fix(lang): add error for duplicate IP reservation](https://github.com/NethServer/nethsecurity-ui/pull/580)** by *Tbaile* - Reviewers: *None* - Created at: 2025-06-09T07:56:39Z
-- :eyes:  **[chore(main): release 1.28.0](https://github.com/NethServer/nethsecurity-ui/pull/576)** by *Tbaile* - Reviewers: *None* - Created at: 2025-06-04T10:49:10Z
 -   **[chore!: upgrade tailwindcss to v4](https://github.com/NethServer/nethsecurity-ui/pull/570)** by *andre8244* - Reviewers: *Tbaile* - Created at: 2025-06-03T08:44:17Z
 
-### NethServer/nethsecurity-docs 4 
+### NethServer/nethsecurity-docs 5 
 
+-   **[fix: add new ai-translated chapters](https://github.com/NethServer/nethsecurity-docs/pull/178)** by *gsanchietti* - Reviewers: *filippocarletti* - Created at: 2025-06-10T12:47:58Z
 - :eyes:  **[feat(flashstart): added documentation about proplus](https://github.com/NethServer/nethsecurity-docs/pull/174)** by *cotosso* - Reviewers: *None* - Created at: 2025-06-05T15:24:06Z
 - :eyes:  **[feat(storage): enable by default](https://github.com/NethServer/nethsecurity-docs/pull/167)** by *cotosso* - Reviewers: *None* - Created at: 2025-05-16T14:19:42Z
 - :eyes: :zzz: **[feat: re-add setup wizard](https://github.com/NethServer/nethsecurity-docs/pull/166)** by *andre8244* - Reviewers: *None* - Created at: 2025-05-09T08:04:35Z
@@ -50,10 +44,6 @@ date = 2025-06-10
 - :eyes:  **[dependency trackinitial release](https://github.com/NethServer/ns8-dependencytrack/pull/4)** by *stephdl* - Reviewers: *None* - Created at: 2025-05-26T16:23:38Z
 
 ## Organization: nethesis
-
-### nethesis/nethserver-phonebook-mysql 1 
-
-- :eyes:  **[feature(users): Add pbx users mobile number to phonebook](https://github.com/nethesis/nethserver-phonebook-mysql/pull/53)** by *Stell0* - Reviewers: *None* - Created at: 2025-05-28T15:27:46Z
 
 ### nethesis/nethcti-app-android 1 
 
@@ -67,6 +57,10 @@ date = 2025-06-10
 
 -   **[fix: added missing streaming configuration page](https://github.com/nethesis/ns8-nethvoice/pull/462)** by *tonyco97* - Reviewers: *edospadoni* - Created at: 2025-06-03T15:08:23Z
 
+### nethesis/nethvoice-cti 1 
+
+- :eyes:  **[fix: created streaming card and minor UI fix](https://github.com/nethesis/nethvoice-cti/pull/307)** by *tonyco97* - Reviewers: *None* - Created at: 2025-06-04T08:23:33Z
+
 ### nethesis/phone-island 1 
 
 - :eyes:  **[fix: added missing socket events to manage streaming device](https://github.com/nethesis/phone-island/pull/99)** by *tonyco97* - Reviewers: *None* - Created at: 2025-06-05T12:34:53Z
@@ -75,9 +69,5 @@ date = 2025-06-10
 
 - :eyes:  **[fix(kamailio): set destination using R-URI to avoide destination to be setted by remote Route](https://github.com/nethesis/ns8-nethvoice-proxy/pull/64)** by *Stell0* - Reviewers: *None* - Created at: 2025-05-20T10:16:54Z
 - :eyes: :zzz: **[Remove Route header handling for inbound packets](https://github.com/nethesis/ns8-nethvoice-proxy/pull/49)** by *Amygos* - Reviewers: *None* - Created at: 2024-12-06T15:26:49Z
-
-### nethesis/vue-components 1 
-
-- :eyes:  **[chore(main): release 3.0.1](https://github.com/nethesis/vue-components/pull/89)** by *Tbaile* - Reviewers: *None* - Created at: 2025-06-09T09:30:53Z
 
 
