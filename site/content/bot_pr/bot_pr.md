@@ -1,6 +1,6 @@
 +++
 title = 'Open Pull Requests by Bots'
-date = 2025-06-11
+date = 2025-06-12
 +++
 
 ## Organization: nethserver
@@ -54,7 +54,7 @@ date = 2025-06-11
 
 ### NethServer/ns8-samba 2 
 
-- :eyes:  **[chore(deps): update timescale/timescaledb docker tag to v2.20.2](https://github.com/NethServer/ns8-samba/pull/95)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-05-30T13:53:53Z
+- :eyes:  **[chore(deps): update timescale/timescaledb docker tag to v2.20.3](https://github.com/NethServer/ns8-samba/pull/95)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-05-30T13:53:53Z
 - :eyes: :zzz: **[chore(deps): update ghcr.io/marketsquare/robotframework-browser/rfbrowser-stable docker tag to v19.5.1](https://github.com/NethServer/ns8-samba/pull/77)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-02-21T09:59:59Z
 
 ### NethServer/ns8-loki 3 
@@ -92,7 +92,7 @@ date = 2025-06-11
 ### NethServer/nethsecurity-controller 5 
 
 - :eyes:  **[chore(deps): update aquasecurity/trivy-action action to v0.31.0](https://github.com/NethServer/nethsecurity-controller/pull/121)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-06-09T01:00:59Z
-- :eyes:  **[chore(deps): update dependency nethserver/nethsecurity-ui to v1.28.0](https://github.com/NethServer/nethsecurity-controller/pull/117)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-05-26T01:33:20Z
+- :eyes:  **[chore(deps): update dependency nethserver/nethsecurity-ui to v1.28.1](https://github.com/NethServer/nethsecurity-controller/pull/117)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-05-26T01:33:20Z
 - :eyes: :zzz: **[chore(deps): update docker.io/traefik docker tag to v3](https://github.com/NethServer/nethsecurity-controller/pull/95)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-03-31T03:07:13Z
 - :eyes: :zzz: **[chore(deps): update docker.io/alpine docker tag to v3.21.3](https://github.com/NethServer/nethsecurity-controller/pull/92)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-03-25T09:07:13Z
 - :eyes: :zzz: **[fix(deps): update github.com/nethserver/nethsecurity-api digest to 5c3308e](https://github.com/NethServer/nethsecurity-controller/pull/86)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-02-13T12:03:10Z
@@ -237,5 +237,9 @@ date = 2025-06-11
 ### nethesis/nethvoice-report 1 
 
 - :eyes: :zzz: **[Bump jspdf from 2.1.1 to 3.0.1 in /ui](https://github.com/nethesis/nethvoice-report/pull/203)** by *dependabot[bot]* - Reviewers: *None* - Created at: 2025-03-19T07:36:39Z
+
+### nethesis/ns8-nethvoice-proxy 1 
+
+- :eyes:  **[build(deps): bump follow-redirects from 1.14.3 to 1.15.9 in /ui](https://github.com/nethesis/ns8-nethvoice-proxy/pull/67)** by *dependabot[bot]* - Reviewers: *None* - Created at: 2025-06-11T14:58:18Z
 
 

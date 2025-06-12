@@ -2,7 +2,7 @@
 
 title = 'To be released soon'
 
-date = 2025-06-11
+date = 2025-06-12
 
 +++
 
@@ -17,6 +17,8 @@ date = 2025-06-11
 - [NethVoice: add a POST and a GET API to write and read the extensions displayname](https://github.com/NethServer/dev/issues/7475) (#7171) by Stell0 (Created: 2025-05-21T12:37:33Z, Updated: 2025-05-27T13:20:22Z)
 
 - [Phone Island: Device switch button missing or not always shown on incoming calls](https://github.com/NethServer/dev/issues/7473) (#7171) by viktec (Created: 2025-05-20T14:32:01Z, Updated: 2025-06-06T08:37:48Z)
+
+- [NethVoice: Add New VoIP Provider NetoIP to Configuration Wizard](https://github.com/NethServer/dev/issues/7471) (#7171) by margit86 (Created: 2025-05-19T13:54:43Z, Updated: 2025-06-11T15:20:39Z)
 
 - [NethVoice: NethVoice – Add Support for New Yealink T7X, T8X, and AXX Series Model](https://github.com/NethServer/dev/issues/7469) (#7171) by andrea-marchionni (Created: 2025-05-16T15:59:30Z, Updated: 2025-05-27T14:27:28Z)
 
@@ -36,6 +38,8 @@ date = 2025-06-11
 
 ### NethSecurity
 
+- [DHCP Reservations: Duplicate IP for Multiple MACs Causes Service Failures](https://github.com/NethServer/nethsecurity/issues/1254) (#920) by Tbaile (Created: 2025-06-06T08:52:59Z, Updated: 2025-06-11T06:47:18Z)
+
 - [Include version details in migration files](https://github.com/NethServer/nethsecurity/issues/1238) (#920) by francio87 (Created: 2025-05-28T09:52:22Z, Updated: 2025-06-05T06:44:32Z)
 
 - [ns-storage can fill root filesystem](https://github.com/NethServer/nethsecurity/issues/1233) (#920) by filippocarletti (Created: 2025-05-27T09:40:40Z, Updated: 2025-06-09T15:59:06Z)
@@ -43,6 +47,10 @@ date = 2025-06-11
 - [Unable to delete pending Let's Encrypt certificate](https://github.com/NethServer/nethsecurity/issues/1226) (#920) by francio87 (Created: 2025-05-22T08:05:08Z, Updated: 2025-05-29T07:40:29Z)
 
 - [Port forward creation: destination address field mandatory](https://github.com/NethServer/nethsecurity/issues/1220) (#920) by filippocarletti (Created: 2025-05-19T14:10:45Z, Updated: 2025-06-09T14:20:36Z)
+
+- [UI allows creation of custom zone with name starting with a number](https://github.com/NethServer/nethsecurity/issues/1219) (#920) by francio87 (Created: 2025-05-16T15:42:37Z, Updated: 2025-06-11T06:41:17Z)
+
+- [openvpn: issues with user renaming and login consistency](https://github.com/NethServer/nethsecurity/issues/1209) (#920) by Tbaile (Created: 2025-05-09T13:24:56Z, Updated: 2025-06-11T10:03:51Z)
 
 - [Add exit device to SNAT](https://github.com/NethServer/nethsecurity/issues/1183) (#920) by Tbaile (Created: 2025-04-18T12:13:33Z, Updated: 2025-06-03T08:45:41Z)
 
