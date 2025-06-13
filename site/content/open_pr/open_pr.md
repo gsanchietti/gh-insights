@@ -1,17 +1,29 @@
 +++
 title = 'Open Pull Requests'
-date = 2025-06-12
+date = 2025-06-13
 +++
 
 ## Organization: nethserver
 
 ### NethServer/ns8-core 1 
 
-- :eyes:  **[fix: add i18n string for NsBackupCard & update stories](https://github.com/NethServer/ns8-core/pull/901)** by *andre8244* - Reviewers: *None* - Created at: 2025-06-11T14:59:06Z
+-   **[Update error message for inaccessible backup repository](https://github.com/NethServer/ns8-core/pull/903)** by *stephdl* - Reviewers: *DavidePrincipi, andre8244* - Created at: 2025-06-12T13:26:26Z
+
+### NethServer/ns8-openldap 1 
+
+- :eyes:  **[fix(login): ensure username is case-insensitive during user lookup](https://github.com/NethServer/ns8-openldap/pull/62)** by *stephdl* - Reviewers: *None* - Created at: 2025-06-12T10:07:26Z
 
 ### NethServer/ns8-nethsecurity-controller 1 
 
 -  :zzz: **[Fix traffic by hour histogram](https://github.com/NethServer/ns8-nethsecurity-controller/pull/78)** by *cotosso* - Reviewers: *gsanchietti* - Created at: 2025-03-04T18:04:21Z
+
+### NethServer/ns8-webtop 1 
+
+- :eyes:  **[feat: Update Tomcat and Postgres images](https://github.com/NethServer/ns8-webtop/pull/134)** by *stephdl* - Reviewers: *None* - Created at: 2025-06-12T09:22:40Z
+
+### NethServer/nethserver-firewall-migration 1 
+
+- :eyes:  **[fix(openvpn): exit if rw server is disabled](https://github.com/NethServer/nethserver-firewall-migration/pull/60)** by *Tbaile* - Reviewers: *None* - Created at: 2025-06-12T14:54:50Z
 
 ### NethServer/ns8-piler 1 
 
@@ -23,8 +35,9 @@ date = 2025-06-12
 - :eyes:  **[add Yealink T7X T8X AX](https://github.com/NethServer/ns8-docs/pull/165)** by *andrea-marchionni* - Reviewers: *None* - Created at: 2025-05-16T16:03:23Z
 - :eyes: :zzz: **[Update note about IP change to clarify need for correct reconfiguration](https://github.com/NethServer/ns8-docs/pull/164)** by *IgonetIT* - Reviewers: *None* - Created at: 2025-05-08T09:20:48Z
 
-### NethServer/nethsecurity-ui 1 
+### NethServer/nethsecurity-ui 2 
 
+- :eyes:  **[chore(main): release 1.28.2](https://github.com/NethServer/nethsecurity-ui/pull/586)** by *Tbaile* - Reviewers: *None* - Created at: 2025-06-12T07:27:44Z
 -   **[chore!: upgrade tailwindcss to v4](https://github.com/NethServer/nethsecurity-ui/pull/570)** by *andre8244* - Reviewers: *Tbaile* - Created at: 2025-06-03T08:44:17Z
 
 ### NethServer/nethsecurity-docs 4 
@@ -48,9 +61,8 @@ date = 2025-06-12
 
 -  :zzz: **[Removed old notification service usage](https://github.com/nethesis/nethcti-app-iphone/pull/37)** by *NicolaMrAPPs* - Reviewers: *b9874e40962149eee62a8fd3bc4e709e* - Created at: 2023-08-02T09:19:30Z
 
-### nethesis/ns8-nethvoice 2 
+### nethesis/ns8-nethvoice 1 
 
--   **[feat(hotel): Enable Hotel only if Subscription is enabled](https://github.com/nethesis/ns8-nethvoice/pull/470)** by *Stell0* - Reviewers: *andre8244* - Created at: 2025-06-11T14:15:42Z
 -   **[fix: added missing streaming configuration page](https://github.com/nethesis/ns8-nethvoice/pull/462)** by *tonyco97* - Reviewers: *edospadoni* - Created at: 2025-06-03T15:08:23Z
 
 ### nethesis/nethvoice-cti 2 
@@ -66,5 +78,9 @@ date = 2025-06-12
 
 - :eyes:  **[fix(kamailio): set destination using R-URI to avoide destination to be setted by remote Route](https://github.com/nethesis/ns8-nethvoice-proxy/pull/64)** by *Stell0* - Reviewers: *None* - Created at: 2025-05-20T10:16:54Z
 - :eyes: :zzz: **[Remove Route header handling for inbound packets](https://github.com/nethesis/ns8-nethvoice-proxy/pull/49)** by *Amygos* - Reviewers: *None* - Created at: 2024-12-06T15:26:49Z
+
+### nethesis/nethvoice-client-docs 1 
+
+-   **[fix: removed unused documentation](https://github.com/nethesis/nethvoice-client-docs/pull/13)** by *tonyco97* - Reviewers: *edospadoni* - Created at: 2025-06-12T14:31:35Z
 
 
