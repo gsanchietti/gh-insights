@@ -1,17 +1,17 @@
 +++
 title = 'Open Pull Requests'
-date = 2025-06-13
+date = 2025-06-14
 +++
 
 ## Organization: nethserver
 
 ### NethServer/ns8-core 1 
 
--   **[Update error message for inaccessible backup repository](https://github.com/NethServer/ns8-core/pull/903)** by *stephdl* - Reviewers: *DavidePrincipi, andre8244* - Created at: 2025-06-12T13:26:26Z
+- :eyes:  **[Update error message for inaccessible backup repository](https://github.com/NethServer/ns8-core/pull/903)** by *stephdl* - Reviewers: *None* - Created at: 2025-06-12T13:26:26Z
 
-### NethServer/ns8-openldap 1 
+### NethServer/ns8-samba 1 
 
-- :eyes:  **[fix(login): ensure username is case-insensitive during user lookup](https://github.com/NethServer/ns8-openldap/pull/62)** by *stephdl* - Reviewers: *None* - Created at: 2025-06-12T10:07:26Z
+-   **[Set minimum password age to 0 days](https://github.com/NethServer/ns8-samba/pull/107)** by *stephdl* - Reviewers: *DavidePrincipi* - Created at: 2025-06-13T16:03:42Z
 
 ### NethServer/ns8-nethsecurity-controller 1 
 
@@ -19,11 +19,7 @@ date = 2025-06-13
 
 ### NethServer/ns8-webtop 1 
 
-- :eyes:  **[feat: Update Tomcat and Postgres images](https://github.com/NethServer/ns8-webtop/pull/134)** by *stephdl* - Reviewers: *None* - Created at: 2025-06-12T09:22:40Z
-
-### NethServer/nethserver-firewall-migration 1 
-
-- :eyes:  **[fix(openvpn): exit if rw server is disabled](https://github.com/NethServer/nethserver-firewall-migration/pull/60)** by *Tbaile* - Reviewers: *None* - Created at: 2025-06-12T14:54:50Z
+-   **[feat: Update Tomcat and Postgres images](https://github.com/NethServer/ns8-webtop/pull/134)** by *stephdl* - Reviewers: *Amygos, DavidePrincipi* - Created at: 2025-06-12T09:22:40Z
 
 ### NethServer/ns8-piler 1 
 
@@ -46,10 +42,6 @@ date = 2025-06-13
 - :eyes:  **[feat(storage): enable by default](https://github.com/NethServer/nethsecurity-docs/pull/167)** by *cotosso* - Reviewers: *None* - Created at: 2025-05-16T14:19:42Z
 - :eyes: :zzz: **[feat: re-add setup wizard](https://github.com/NethServer/nethsecurity-docs/pull/166)** by *andre8244* - Reviewers: *None* - Created at: 2025-05-09T08:04:35Z
 -  :zzz: **[feat: add high availability](https://github.com/NethServer/nethsecurity-docs/pull/163)** by *gsanchietti* - Reviewers: *filippocarletti* - Created at: 2025-04-24T09:54:19Z
-
-### NethServer/ns8-dependencytrack 1 
-
-- :eyes:  **[dependency trackinitial release](https://github.com/NethServer/ns8-dependencytrack/pull/4)** by *stephdl* - Reviewers: *None* - Created at: 2025-05-26T16:23:38Z
 
 ## Organization: nethesis
 
@@ -78,9 +70,5 @@ date = 2025-06-13
 
 - :eyes:  **[fix(kamailio): set destination using R-URI to avoide destination to be setted by remote Route](https://github.com/nethesis/ns8-nethvoice-proxy/pull/64)** by *Stell0* - Reviewers: *None* - Created at: 2025-05-20T10:16:54Z
 - :eyes: :zzz: **[Remove Route header handling for inbound packets](https://github.com/nethesis/ns8-nethvoice-proxy/pull/49)** by *Amygos* - Reviewers: *None* - Created at: 2024-12-06T15:26:49Z
-
-### nethesis/nethvoice-client-docs 1 
-
--   **[fix: removed unused documentation](https://github.com/nethesis/nethvoice-client-docs/pull/13)** by *tonyco97* - Reviewers: *edospadoni* - Created at: 2025-06-12T14:31:35Z
 
 

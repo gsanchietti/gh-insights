@@ -1,6 +1,6 @@
 +++
-title = 'Need testing (6)'
-date = 2025-06-13
+title = 'Need testing (7)'
+date = 2025-06-14
 +++
 
 ## NethVoice
@@ -10,6 +10,7 @@ date = 2025-06-13
 - :point_right: **[Nethvoice Proxy: add backup and restore procedure](https://github.com/NethServer/dev/issues/7113)** (#7113) by *Amygos* (Created: 2024-11-14, Updated: 2025-05-27T15:13:59Z)
 
 ## NethServer
+- :point_right: **[Mixed-case usernames break user portal permissions](https://github.com/NethServer/dev/issues/7482)** (#7113) by *mrmarkuz* (Created: 2025-05-27, Updated: 2025-06-13T12:52:24Z)
 - :point_right: **[Crowdsec: SIP bruteforce traffic not banned](https://github.com/NethServer/dev/issues/7481)** (#7113) by *nrauso* (Created: 2025-05-26, Updated: 2025-06-05T17:00:54Z)
 
 ## NethSecurity

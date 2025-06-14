@@ -2,7 +2,7 @@
 
 title = 'To be released soon'
 
-date = 2025-06-13
+date = 2025-06-14
 
 +++
 
@@ -49,6 +49,8 @@ date = 2025-06-13
 - [NethVoice CTI parameterized URL](https://github.com/NethServer/dev/issues/7137) (#7137) by Amygos (Created: 2024-11-15T10:45:43Z, Updated: 2025-06-12T10:15:43Z)
 
 ### NethSecurity
+
+- [Migration: Unable to configure Road Warrior](https://github.com/NethServer/nethsecurity/issues/1267) (#920) by francio87 (Created: 2025-06-12T12:56:35Z, Updated: 2025-06-13T11:40:33Z)
 
 - [DHCP Reservations: Duplicate IP for Multiple MACs Causes Service Failures](https://github.com/NethServer/nethsecurity/issues/1254) (#920) by Tbaile (Created: 2025-06-06T08:52:59Z, Updated: 2025-06-11T06:47:18Z)
 
