@@ -1,6 +1,6 @@
 +++
 title = 'Open Pull Requests by Bots'
-date = 2025-06-15
+date = 2025-06-16
 +++
 
 ## Organization: nethserver
@@ -45,7 +45,7 @@ date = 2025-06-15
 
 - :eyes:  **[chore(deps): update redis docker tag to v7.4.4](https://github.com/NethServer/ns8-nextcloud/pull/148)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-05-30T01:45:53Z
 - :eyes:  **[chore(deps): update mariadb docker tag to v10.11.13](https://github.com/NethServer/ns8-nextcloud/pull/147)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-05-23T01:51:01Z
-- :eyes:  **[chore(deps): update docker.io/library/nextcloud docker tag to v30.0.12](https://github.com/NethServer/ns8-nextcloud/pull/146)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-05-16T22:22:05Z
+- :eyes: :zzz: **[chore(deps): update docker.io/library/nextcloud docker tag to v30.0.12](https://github.com/NethServer/ns8-nextcloud/pull/146)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-05-16T22:22:05Z
 - :eyes: :zzz: **[chore(deps): update redis docker tag to v8](https://github.com/NethServer/ns8-nextcloud/pull/143)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-05-05T22:03:18Z
 - :eyes: :zzz: **[chore(deps): update ghcr.io/marketsquare/robotframework-browser/rfbrowser-stable docker tag to v19.6.0](https://github.com/NethServer/ns8-nextcloud/pull/132)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-01-26T17:42:49Z
 

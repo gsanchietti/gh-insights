@@ -1,6 +1,6 @@
 +++
 title = 'Open Pull Requests'
-date = 2025-06-15
+date = 2025-06-16
 +++
 
 ## Organization: nethserver
@@ -28,7 +28,7 @@ date = 2025-06-15
 ### NethServer/ns8-docs 3 
 
 - :eyes:  **[fix(metrics): remove language selection](https://github.com/NethServer/ns8-docs/pull/167)** by *gsanchietti* - Reviewers: *None* - Created at: 2025-05-26T13:20:09Z
-- :eyes:  **[add Yealink T7X T8X AX](https://github.com/NethServer/ns8-docs/pull/165)** by *andrea-marchionni* - Reviewers: *None* - Created at: 2025-05-16T16:03:23Z
+- :eyes: :zzz: **[add Yealink T7X T8X AX](https://github.com/NethServer/ns8-docs/pull/165)** by *andrea-marchionni* - Reviewers: *None* - Created at: 2025-05-16T16:03:23Z
 - :eyes: :zzz: **[Update note about IP change to clarify need for correct reconfiguration](https://github.com/NethServer/ns8-docs/pull/164)** by *IgonetIT* - Reviewers: *None* - Created at: 2025-05-08T09:20:48Z
 
 ### NethServer/nethsecurity-ui 2 
@@ -39,7 +39,7 @@ date = 2025-06-15
 ### NethServer/nethsecurity-docs 4 
 
 - :eyes:  **[feat(flashstart): added documentation about proplus](https://github.com/NethServer/nethsecurity-docs/pull/174)** by *cotosso* - Reviewers: *None* - Created at: 2025-06-05T15:24:06Z
-- :eyes:  **[feat(storage): enable by default](https://github.com/NethServer/nethsecurity-docs/pull/167)** by *cotosso* - Reviewers: *None* - Created at: 2025-05-16T14:19:42Z
+- :eyes: :zzz: **[feat(storage): enable by default](https://github.com/NethServer/nethsecurity-docs/pull/167)** by *cotosso* - Reviewers: *None* - Created at: 2025-05-16T14:19:42Z
 - :eyes: :zzz: **[feat: re-add setup wizard](https://github.com/NethServer/nethsecurity-docs/pull/166)** by *andre8244* - Reviewers: *None* - Created at: 2025-05-09T08:04:35Z
 -  :zzz: **[feat: add high availability](https://github.com/NethServer/nethsecurity-docs/pull/163)** by *gsanchietti* - Reviewers: *filippocarletti* - Created at: 2025-04-24T09:54:19Z
 
