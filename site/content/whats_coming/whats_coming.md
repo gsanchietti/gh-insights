@@ -2,7 +2,7 @@
 
 title = 'To be released soon'
 
-date = 2025-06-16
+date = 2025-06-17
 
 +++
 
@@ -32,6 +32,8 @@ date = 2025-06-16
 
 - [Nethvoice CTI: Inconsistent "Add to phonebook" option from call history](https://github.com/NethServer/dev/issues/7457) (#7137) by viktec (Created: 2025-05-14T08:13:44Z, Updated: 2025-06-06T08:38:39Z)
 
+- [NethHotel: port old NethHotel from NethVoice14](https://github.com/NethServer/dev/issues/7425) (#7137) by Stell0 (Created: 2025-04-23T06:57:45Z, Updated: 2025-06-16T15:03:26Z)
+
 - [NethLink: allow Audio/Video device configuration in NethLink](https://github.com/NethServer/dev/issues/7414) (#7137) by edospadoni (Created: 2025-04-18T12:08:38Z, Updated: 2025-06-04T09:14:19Z)
 
 - [NethLink: the phonebook search only displays mobile numbers.](https://github.com/NethServer/dev/issues/7339) (#7137) by andrea-marchionni (Created: 2025-03-04T10:10:32Z, Updated: 2025-06-04T08:39:54Z)
@@ -47,6 +49,10 @@ date = 2025-06-16
 - [NethVoice CTI: Add Phone Extension to Operator Cards](https://github.com/NethServer/dev/issues/7171) (#7137) by AmaLuci (Created: 2024-11-22T10:27:36Z, Updated: 2025-06-06T09:44:30Z)
 
 - [NethVoice CTI parameterized URL](https://github.com/NethServer/dev/issues/7137) (#7137) by Amygos (Created: 2024-11-15T10:45:43Z, Updated: 2025-06-12T10:15:43Z)
+
+### NethServer
+
+- [Mixed-case usernames break user portal permissions](https://github.com/NethServer/dev/issues/7482) (#7137) by mrmarkuz (Created: 2025-05-27T11:18:26Z, Updated: 2025-06-16T08:10:58Z)
 
 ### NethSecurity
 
@@ -73,6 +79,8 @@ date = 2025-06-16
 - [Add exit device to SNAT](https://github.com/NethServer/nethsecurity/issues/1183) (#920) by Tbaile (Created: 2025-04-18T12:13:33Z, Updated: 2025-06-03T08:45:41Z)
 
 - [Add Subscription sync status in UI](https://github.com/NethServer/nethsecurity/issues/1176) (#920) by filippocarletti (Created: 2025-04-15T14:21:57Z, Updated: 2025-05-28T15:49:59Z)
+
+- [Refactor FlashStart](https://github.com/NethServer/nethsecurity/issues/1162) (#920) by Tbaile (Created: 2025-04-08T13:37:18Z, Updated: 2025-06-16T08:22:44Z)
 
 - [Security wizard](https://github.com/NethServer/nethsecurity/issues/1157) (#920) by Tbaile (Created: 2025-04-07T13:29:01Z, Updated: 2025-06-03T08:58:06Z)
 
