@@ -2,11 +2,13 @@
 
 title = 'To be released soon'
 
-date = 2025-06-17
+date = 2025-06-18
 
 +++
 
 ### NethVoice
+
+- [Calls from new created trunks arrives as anonymous](https://github.com/NethServer/dev/issues/7501) (#7137) by Stell0 (Created: 2025-06-12T14:10:24Z, Updated: 2025-06-17T14:31:14Z)
 
 - [NethVoice CTI: create new phone-island token for NethLink](https://github.com/NethServer/dev/issues/7500) (#7137) by edospadoni (Created: 2025-06-12T07:06:50Z, Updated: 2025-06-12T14:07:21Z)
 
@@ -53,6 +55,8 @@ date = 2025-06-17
 ### NethServer
 
 - [Mixed-case usernames break user portal permissions](https://github.com/NethServer/dev/issues/7482) (#7137) by mrmarkuz (Created: 2025-05-27T11:18:26Z, Updated: 2025-06-16T08:10:58Z)
+
+- [Display backup destination validation details](https://github.com/NethServer/dev/issues/7167) (#7137) by DavidePrincipi (Created: 2024-11-20T15:53:15Z, Updated: 2025-06-17T11:52:02Z)
 
 ### NethSecurity
 

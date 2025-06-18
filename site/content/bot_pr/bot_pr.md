@@ -1,6 +1,6 @@
 +++
 title = 'Open Pull Requests by Bots'
-date = 2025-06-17
+date = 2025-06-18
 +++
 
 ## Organization: nethserver
@@ -82,7 +82,7 @@ date = 2025-06-17
 
 ### NethServer/ns8-grafana 3 
 
-- :eyes:  **[chore(deps): update grafana/grafana docker tag to v12.0.1](https://github.com/NethServer/ns8-grafana/pull/38)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-05-22T20:07:45Z
+- :eyes:  **[chore(deps): update grafana/grafana docker tag to v12.0.2](https://github.com/NethServer/ns8-grafana/pull/38)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-05-22T20:07:45Z
 - :eyes:  **[Translations update from Hosted Weblate](https://github.com/NethServer/ns8-grafana/pull/37)** by *weblate* - Reviewers: *None* - Created at: 2025-05-22T07:06:34Z
 - :eyes: :zzz: **[chore(deps): update ghcr.io/marketsquare/robotframework-browser/rfbrowser-stable docker tag to v19.6.0](https://github.com/NethServer/ns8-grafana/pull/26)** by *renovate[bot]* - Reviewers: *None* - Created at: 2024-12-20T22:05:46Z
 
@@ -109,7 +109,7 @@ date = 2025-06-17
 
 ### NethServer/ns8-mattermost 3 
 
-- :eyes:  **[chore(deps): update mattermost/mattermost-team-edition docker tag to v10.9.0](https://github.com/NethServer/ns8-mattermost/pull/108)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-05-29T15:34:02Z
+- :eyes:  **[chore(deps): update mattermost/mattermost-team-edition docker tag to v10.9.1](https://github.com/NethServer/ns8-mattermost/pull/108)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-05-29T15:34:02Z
 - :eyes: :zzz: **[chore(deps): update node.js to v18.20.8](https://github.com/NethServer/ns8-mattermost/pull/100)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-03-27T19:28:37Z
 - :eyes: :zzz: **[chore(deps): update ghcr.io/marketsquare/robotframework-browser/rfbrowser-stable docker tag to v19.6.0](https://github.com/NethServer/ns8-mattermost/pull/90)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-01-26T17:22:22Z
 
@@ -196,14 +196,13 @@ date = 2025-06-17
 ### NethServer/ns8-metrics 4 
 
 - :eyes:  **[chore(deps): update python docker tag to v3.13.5](https://github.com/NethServer/ns8-metrics/pull/30)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-06-04T18:42:31Z
-- :eyes:  **[chore(deps): update grafana/grafana docker tag to v12.0.1](https://github.com/NethServer/ns8-metrics/pull/29)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-05-22T22:38:45Z
+- :eyes:  **[chore(deps): update grafana/grafana docker tag to v12.0.2](https://github.com/NethServer/ns8-metrics/pull/29)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-05-22T22:38:45Z
 - :eyes: :zzz: **[chore(deps): update quay.io/prometheus/prometheus docker tag to v3.4.1](https://github.com/NethServer/ns8-metrics/pull/27)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-05-17T10:17:51Z
 - :eyes: :zzz: **[chore(deps): update ghcr.io/marketsquare/robotframework-browser/rfbrowser-stable docker tag to v19.6.0](https://github.com/NethServer/ns8-metrics/pull/5)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-02-27T13:33:08Z
 
-### NethServer/ns8-dependencytrack 4 
+### NethServer/ns8-dependencytrack 3 
 
 - :eyes:  **[chore(deps): update mcr.microsoft.com/devcontainers/javascript-node docker tag to v1](https://github.com/NethServer/ns8-dependencytrack/pull/17)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-06-16T19:10:35Z
-- :eyes:  **[chore(deps): update ghcr.io/marketsquare/robotframework-browser/rfbrowser-stable docker tag to v19](https://github.com/NethServer/ns8-dependencytrack/pull/16)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-06-16T14:27:26Z
 - :eyes:  **[chore(deps): update nginx docker tag to v1.28.0](https://github.com/NethServer/ns8-dependencytrack/pull/15)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-06-16T14:27:23Z
 - :eyes:  **[chore(deps): update ghcr.io/marketsquare/robotframework-browser/rfbrowser-stable docker tag to v10.1.0](https://github.com/NethServer/ns8-dependencytrack/pull/12)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-06-16T08:02:25Z
 
@@ -236,12 +235,8 @@ date = 2025-06-17
 
 - :eyes: :zzz: **[Bump jspdf from 2.1.1 to 3.0.1 in /ui](https://github.com/nethesis/nethvoice-report/pull/203)** by *dependabot[bot]* - Reviewers: *None* - Created at: 2025-03-19T07:36:39Z
 
-### nethesis/ns8-nethvoice 1 
-
-- :eyes:  **[chore(deps): update ghcr.io/nethesis/nethvoice-cti docker tag to v0.10.4](https://github.com/nethesis/ns8-nethvoice/pull/481)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-06-16T15:02:57Z
-
 ### nethesis/nethvoice-cti 1 
 
-- :eyes:  **[build(deps): Update phone-island dependency (automated)](https://github.com/nethesis/nethvoice-cti/pull/311)** by *github-actions[bot]* - Reviewers: *None* - Created at: 2025-06-17T00:20:38Z
+- :eyes:  **[build(deps): Update phone-island dependency (automated)](https://github.com/nethesis/nethvoice-cti/pull/312)** by *github-actions[bot]* - Reviewers: *None* - Created at: 2025-06-18T00:20:33Z
 
 

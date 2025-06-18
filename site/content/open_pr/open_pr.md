@@ -1,23 +1,23 @@
 +++
 title = 'Open Pull Requests'
-date = 2025-06-17
+date = 2025-06-18
 +++
 
 ## Organization: nethserver
 
 ### NethServer/ns8-repomd 7 
 
-- :eyes:  **[Update url of documentation](https://github.com/NethServer/ns8-repomd/pull/52)** by *stephdl* - Reviewers: *None* - Created at: 2025-06-16T16:09:59Z
-- :eyes:  **[Update url of documentation](https://github.com/NethServer/ns8-repomd/pull/51)** by *stephdl* - Reviewers: *None* - Created at: 2025-06-16T16:08:15Z
-- :eyes:  **[Update url of documentation](https://github.com/NethServer/ns8-repomd/pull/50)** by *stephdl* - Reviewers: *None* - Created at: 2025-06-16T16:06:30Z
-- :eyes:  **[Update url of documentation](https://github.com/NethServer/ns8-repomd/pull/49)** by *stephdl* - Reviewers: *None* - Created at: 2025-06-16T16:04:19Z
-- :eyes:  **[Update url of documentation](https://github.com/NethServer/ns8-repomd/pull/48)** by *stephdl* - Reviewers: *None* - Created at: 2025-06-16T16:02:38Z
-- :eyes:  **[Update url of documentation](https://github.com/NethServer/ns8-repomd/pull/47)** by *stephdl* - Reviewers: *None* - Created at: 2025-06-16T15:18:45Z
-- :eyes:  **[Update url of documentation](https://github.com/NethServer/ns8-repomd/pull/46)** by *stephdl* - Reviewers: *None* - Created at: 2025-06-16T15:16:54Z
+-   **[Update url of documentation](https://github.com/NethServer/ns8-repomd/pull/52)** by *stephdl* - Reviewers: *DavidePrincipi* - Created at: 2025-06-16T16:09:59Z
+-   **[Update url of documentation](https://github.com/NethServer/ns8-repomd/pull/51)** by *stephdl* - Reviewers: *DavidePrincipi* - Created at: 2025-06-16T16:08:15Z
+-   **[Update url of documentation](https://github.com/NethServer/ns8-repomd/pull/50)** by *stephdl* - Reviewers: *DavidePrincipi* - Created at: 2025-06-16T16:06:30Z
+-   **[Update url of documentation](https://github.com/NethServer/ns8-repomd/pull/49)** by *stephdl* - Reviewers: *DavidePrincipi* - Created at: 2025-06-16T16:04:19Z
+-   **[Update url of documentation](https://github.com/NethServer/ns8-repomd/pull/48)** by *stephdl* - Reviewers: *DavidePrincipi* - Created at: 2025-06-16T16:02:38Z
+-   **[Update url of documentation](https://github.com/NethServer/ns8-repomd/pull/47)** by *stephdl* - Reviewers: *DavidePrincipi* - Created at: 2025-06-16T15:18:45Z
+-   **[Update url of documentation](https://github.com/NethServer/ns8-repomd/pull/46)** by *stephdl* - Reviewers: *DavidePrincipi* - Created at: 2025-06-16T15:16:54Z
 
 ### NethServer/ns8-dokuwiki 1 
 
-- :eyes:  **[Update url of documentation](https://github.com/NethServer/ns8-dokuwiki/pull/42)** by *stephdl* - Reviewers: *None* - Created at: 2025-06-16T15:09:12Z
+-   **[Update url of documentation](https://github.com/NethServer/ns8-dokuwiki/pull/42)** by *stephdl* - Reviewers: *DavidePrincipi* - Created at: 2025-06-16T15:09:12Z
 
 ### NethServer/ns8-samba 1 
 
@@ -25,50 +25,55 @@ date = 2025-06-17
 
 ### NethServer/ns8-openldap 1 
 
-- :eyes:  **[Update url of documentation](https://github.com/NethServer/ns8-openldap/pull/63)** by *stephdl* - Reviewers: *None* - Created at: 2025-06-16T15:21:11Z
+-   **[Update url of documentation](https://github.com/NethServer/ns8-openldap/pull/63)** by *stephdl* - Reviewers: *DavidePrincipi* - Created at: 2025-06-16T15:21:11Z
 
 ### NethServer/ns8-prometheus 1 
 
-- :eyes:  **[Update url of documentation](https://github.com/NethServer/ns8-prometheus/pull/34)** by *stephdl* - Reviewers: *None* - Created at: 2025-06-16T15:11:01Z
+-   **[Update url of documentation](https://github.com/NethServer/ns8-prometheus/pull/34)** by *stephdl* - Reviewers: *DavidePrincipi* - Created at: 2025-06-16T15:11:01Z
 
 ### NethServer/ns8-grafana 1 
 
-- :eyes:  **[Update url of documentation](https://github.com/NethServer/ns8-grafana/pull/39)** by *stephdl* - Reviewers: *None* - Created at: 2025-06-16T15:58:09Z
+-   **[Update url of documentation](https://github.com/NethServer/ns8-grafana/pull/39)** by *stephdl* - Reviewers: *DavidePrincipi* - Created at: 2025-06-16T15:58:09Z
 
 ### NethServer/ns8-mail 1 
 
-- :eyes:  **[Update url of documentation](https://github.com/NethServer/ns8-mail/pull/183)** by *stephdl* - Reviewers: *None* - Created at: 2025-06-16T16:14:15Z
+-   **[Update url of documentation](https://github.com/NethServer/ns8-mail/pull/183)** by *stephdl* - Reviewers: *DavidePrincipi* - Created at: 2025-06-16T16:14:15Z
 
 ### NethServer/ns8-nethsecurity-controller 2 
 
-- :eyes:  **[Update url of documentation](https://github.com/NethServer/ns8-nethsecurity-controller/pull/88)** by *stephdl* - Reviewers: *None* - Created at: 2025-06-16T15:02:08Z
+-   **[Update url of documentation](https://github.com/NethServer/ns8-nethsecurity-controller/pull/88)** by *stephdl* - Reviewers: *DavidePrincipi* - Created at: 2025-06-16T15:02:08Z
 -  :zzz: **[Fix traffic by hour histogram](https://github.com/NethServer/ns8-nethsecurity-controller/pull/78)** by *cotosso* - Reviewers: *gsanchietti* - Created at: 2025-03-04T18:04:21Z
 
 ### NethServer/ns8-mattermost 1 
 
-- :eyes:  **[Update url of documentation](https://github.com/NethServer/ns8-mattermost/pull/109)** by *stephdl* - Reviewers: *None* - Created at: 2025-06-16T15:37:00Z
+-   **[Update url of documentation](https://github.com/NethServer/ns8-mattermost/pull/109)** by *stephdl* - Reviewers: *DavidePrincipi* - Created at: 2025-06-16T15:37:00Z
 
 ### NethServer/ns8-collabora 1 
 
-- :eyes:  **[Update url of documentation](https://github.com/NethServer/ns8-collabora/pull/42)** by *stephdl* - Reviewers: *None* - Created at: 2025-06-16T15:44:41Z
+-   **[Update url of documentation](https://github.com/NethServer/ns8-collabora/pull/42)** by *stephdl* - Reviewers: *DavidePrincipi* - Created at: 2025-06-16T15:44:41Z
 
-### NethServer/ns8-webtop 2 
+### NethServer/ns8-webtop 3 
 
-- :eyes:  **[Update url of documentation](https://github.com/NethServer/ns8-webtop/pull/135)** by *stephdl* - Reviewers: *None* - Created at: 2025-06-16T15:05:44Z
--   **[feat: Update Tomcat and Postgres images](https://github.com/NethServer/ns8-webtop/pull/134)** by *stephdl* - Reviewers: *DavidePrincipi* - Created at: 2025-06-12T09:22:40Z
+- :eyes:  **[feat: added OTP and maintenance pages](https://github.com/NethServer/ns8-webtop/pull/136)** by *edospadoni* - Reviewers: *None* - Created at: 2025-06-17T10:57:57Z
+-   **[Update url of documentation](https://github.com/NethServer/ns8-webtop/pull/135)** by *stephdl* - Reviewers: *DavidePrincipi* - Created at: 2025-06-16T15:05:44Z
+-   **[feat: Update Tomcat and Postgres images](https://github.com/NethServer/ns8-webtop/pull/134)** by *stephdl* - Reviewers: *Amygos, DavidePrincipi* - Created at: 2025-06-12T09:22:40Z
 
 ### NethServer/ns8-roundcubemail 2 
 
-- :eyes:  **[Update url of documentation](https://github.com/NethServer/ns8-roundcubemail/pull/57)** by *stephdl* - Reviewers: *None* - Created at: 2025-06-16T15:43:13Z
-- :eyes:  **[Update url of documentation](https://github.com/NethServer/ns8-roundcubemail/pull/56)** by *stephdl* - Reviewers: *None* - Created at: 2025-06-16T15:38:28Z
+-   **[Update url of documentation](https://github.com/NethServer/ns8-roundcubemail/pull/57)** by *stephdl* - Reviewers: *DavidePrincipi* - Created at: 2025-06-16T15:43:13Z
+-   **[Update url of documentation](https://github.com/NethServer/ns8-roundcubemail/pull/56)** by *stephdl* - Reviewers: *DavidePrincipi* - Created at: 2025-06-16T15:38:28Z
 
 ### NethServer/ns8-piler 1 
 
 - :eyes: :zzz: **[Upgrade piler to 1.4.7](https://github.com/NethServer/ns8-piler/pull/32)** by *stephdl* - Reviewers: *None* - Created at: 2025-04-30T09:52:17Z
 
+### NethServer/ns8-crowdsec 1 
+
+-   **[Fix grok patterns for FreePBX log registration failures](https://github.com/NethServer/ns8-crowdsec/pull/80)** by *stephdl* - Reviewers: *Stell0* - Created at: 2025-06-17T13:41:00Z
+
 ### NethServer/ns8-ejabberd 1 
 
-- :eyes:  **[Update url of documentation](https://github.com/NethServer/ns8-ejabberd/pull/67)** by *stephdl* - Reviewers: *None* - Created at: 2025-06-16T15:59:45Z
+-   **[Update url of documentation](https://github.com/NethServer/ns8-ejabberd/pull/67)** by *stephdl* - Reviewers: *DavidePrincipi* - Created at: 2025-06-16T15:59:45Z
 
 ### NethServer/ns8-docs 3 
 
@@ -90,14 +95,15 @@ date = 2025-06-17
 
 ### NethServer/ns8-imapsync 1 
 
-- :eyes:  **[Update url of documentation](https://github.com/NethServer/ns8-imapsync/pull/54)** by *stephdl* - Reviewers: *None* - Created at: 2025-06-16T15:23:34Z
+-   **[Update url of documentation](https://github.com/NethServer/ns8-imapsync/pull/54)** by *stephdl* - Reviewers: *DavidePrincipi* - Created at: 2025-06-16T15:23:34Z
 
-### NethServer/ns8-nethforge 4 
+### NethServer/ns8-nethforge 5 
 
-- :eyes:  **[Update url of documentation](https://github.com/NethServer/ns8-nethforge/pull/27)** by *stephdl* - Reviewers: *None* - Created at: 2025-06-16T16:12:48Z
-- :eyes:  **[Update url of documentation](https://github.com/NethServer/ns8-nethforge/pull/26)** by *stephdl* - Reviewers: *None* - Created at: 2025-06-16T15:47:11Z
-- :eyes:  **[Update url of documentation](https://github.com/NethServer/ns8-nethforge/pull/25)** by *stephdl* - Reviewers: *None* - Created at: 2025-06-16T15:29:58Z
-- :eyes:  **[Update url of documentation](https://github.com/NethServer/ns8-nethforge/pull/24)** by *stephdl* - Reviewers: *None* - Created at: 2025-06-16T15:27:51Z
+- :eyes:  **[Add DependencyTrack metadata and screenshots](https://github.com/NethServer/ns8-nethforge/pull/29)** by *stephdl* - Reviewers: *None* - Created at: 2025-06-17T08:49:50Z
+-   **[Update url of documentation](https://github.com/NethServer/ns8-nethforge/pull/27)** by *stephdl* - Reviewers: *DavidePrincipi* - Created at: 2025-06-16T16:12:48Z
+-   **[Update url of documentation](https://github.com/NethServer/ns8-nethforge/pull/26)** by *stephdl* - Reviewers: *DavidePrincipi* - Created at: 2025-06-16T15:47:11Z
+-   **[Update url of documentation](https://github.com/NethServer/ns8-nethforge/pull/25)** by *stephdl* - Reviewers: *DavidePrincipi* - Created at: 2025-06-16T15:29:58Z
+-   **[Update url of documentation](https://github.com/NethServer/ns8-nethforge/pull/24)** by *stephdl* - Reviewers: *DavidePrincipi* - Created at: 2025-06-16T15:27:51Z
 
 ## Organization: nethesis
 
@@ -115,11 +121,15 @@ date = 2025-06-17
 
 ### nethesis/nethvoice-cti 1 
 
-- :eyes:  **[fix: created streaming card and minor UI fix](https://github.com/nethesis/nethvoice-cti/pull/307)** by *tonyco97* - Reviewers: *None* - Created at: 2025-06-04T08:23:33Z
+- :eyes:  **[feat: created streaming card section](https://github.com/nethesis/nethvoice-cti/pull/307)** by *tonyco97* - Reviewers: *None* - Created at: 2025-06-04T08:23:33Z
 
 ### nethesis/ns8-nethvoice-proxy 2 
 
 - :eyes:  **[fix(kamailio): set destination using R-URI to avoide destination to be setted by remote Route](https://github.com/nethesis/ns8-nethvoice-proxy/pull/64)** by *Stell0* - Reviewers: *None* - Created at: 2025-05-20T10:16:54Z
 - :eyes: :zzz: **[Remove Route header handling for inbound packets](https://github.com/nethesis/ns8-nethvoice-proxy/pull/49)** by *Amygos* - Reviewers: *None* - Created at: 2024-12-06T15:26:49Z
+
+### nethesis/nethcti-middleware 1 
+
+-   **[build: switch to multi-stage build with Alpine](https://github.com/nethesis/nethcti-middleware/pull/1)** by *Amygos* - Reviewers: *edospadoni, tommaso-ascani* - Created at: 2025-06-17T14:48:15Z
 
 
