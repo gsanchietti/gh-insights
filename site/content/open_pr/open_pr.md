@@ -1,6 +1,6 @@
 +++
 title = 'Open Pull Requests'
-date = 2025-06-19
+date = 2025-06-20
 +++
 
 ## Organization: nethserver
@@ -9,35 +9,29 @@ date = 2025-06-19
 
 -   **[fix(api): allow restore if repo is not available](https://github.com/NethServer/ns8-core/pull/904)** by *gsanchietti* - Reviewers: *DavidePrincipi* - Created at: 2025-06-18T06:43:28Z
 
-### NethServer/ns8-repomd 2 
-
-- :eyes:  **[Update url of documentation](https://github.com/NethServer/ns8-repomd/pull/51)** by *stephdl* - Reviewers: *None* - Created at: 2025-06-16T16:08:15Z
-- :eyes:  **[Update url of documentation](https://github.com/NethServer/ns8-repomd/pull/46)** by *stephdl* - Reviewers: *None* - Created at: 2025-06-16T15:16:54Z
-
 ### NethServer/ns8-samba 1 
 
 -   **[Set minimum password age to 0 days](https://github.com/NethServer/ns8-samba/pull/107)** by *stephdl* - Reviewers: *DavidePrincipi* - Created at: 2025-06-13T16:03:42Z
 
 ### NethServer/ns8-grafana 1 
 
-- :eyes:  **[Update url of documentation](https://github.com/NethServer/ns8-grafana/pull/39)** by *stephdl* - Reviewers: *None* - Created at: 2025-06-16T15:58:09Z
+-   **[Update url of documentation](https://github.com/NethServer/ns8-grafana/pull/39)** by *stephdl* - Reviewers: *DavidePrincipi* - Created at: 2025-06-16T15:58:09Z
+
+### NethServer/nethserver-ns8-migration 1 
+
+-   **[Add LeaderIpAddress handling for cluster node identification](https://github.com/NethServer/nethserver-ns8-migration/pull/118)** by *stephdl* - Reviewers: *andre8244* - Created at: 2025-06-19T14:20:50Z
 
 ### NethServer/ns8-mail 1 
 
--   **[Postfix LDAP mailboxes lookup](https://github.com/NethServer/ns8-mail/pull/184)** by *DavidePrincipi* - Reviewers: *andre8244* - Created at: 2025-06-18T15:20:41Z
+- :eyes:  **[Postfix LDAP mailboxes lookup](https://github.com/NethServer/ns8-mail/pull/184)** by *DavidePrincipi* - Reviewers: *None* - Created at: 2025-06-18T15:20:41Z
 
-### NethServer/ns8-webtop 2 
+### NethServer/ns8-webtop 1 
 
--   **[feat: added OTP and maintenance pages](https://github.com/NethServer/ns8-webtop/pull/136)** by *edospadoni* - Reviewers: *Amygos* - Created at: 2025-06-17T10:57:57Z
--   **[feat: Update Tomcat and Postgres images](https://github.com/NethServer/ns8-webtop/pull/134)** by *stephdl* - Reviewers: *Amygos* - Created at: 2025-06-12T09:22:40Z
+-   **[feat: Update Tomcat and Postgres images](https://github.com/NethServer/ns8-webtop/pull/134)** by *stephdl* - Reviewers: *Amygos, DavidePrincipi* - Created at: 2025-06-12T09:22:40Z
 
 ### NethServer/ns8-piler 1 
 
-- :eyes: :zzz: **[Upgrade piler to 1.4.7](https://github.com/NethServer/ns8-piler/pull/32)** by *stephdl* - Reviewers: *None* - Created at: 2025-04-30T09:52:17Z
-
-### NethServer/ns8-crowdsec 1 
-
--   **[Fix grok patterns for FreePBX log registration failures](https://github.com/NethServer/ns8-crowdsec/pull/80)** by *stephdl* - Reviewers: *Stell0* - Created at: 2025-06-17T13:41:00Z
+-   **[Refactor service startup and add Manticore and MariaDB configurations for 1.4.7](https://github.com/NethServer/ns8-piler/pull/34)** by *stephdl* - Reviewers: *DavidePrincipi* - Created at: 2025-06-19T10:01:41Z
 
 ### NethServer/ns8-docs 4 
 
@@ -46,23 +40,18 @@ date = 2025-06-19
 - :eyes: :zzz: **[add Yealink T7X T8X AX](https://github.com/NethServer/ns8-docs/pull/165)** by *andrea-marchionni* - Reviewers: *None* - Created at: 2025-05-16T16:03:23Z
 - :eyes: :zzz: **[Update note about IP change to clarify need for correct reconfiguration](https://github.com/NethServer/ns8-docs/pull/164)** by *IgonetIT* - Reviewers: *None* - Created at: 2025-05-08T09:20:48Z
 
-### NethServer/nethsecurity-ui 3 
+### NethServer/nethsecurity-ui 1 
 
-- :eyes:  **[fix(dpi): allowed insertion of CIDRs in exceptions](https://github.com/NethServer/nethsecurity-ui/pull/587)** by *Tbaile* - Reviewers: *None* - Created at: 2025-06-18T12:55:15Z
-- :eyes:  **[chore(main): release 1.28.2](https://github.com/NethServer/nethsecurity-ui/pull/586)** by *Tbaile* - Reviewers: *None* - Created at: 2025-06-12T07:27:44Z
 -   **[chore!: upgrade tailwindcss to v4](https://github.com/NethServer/nethsecurity-ui/pull/570)** by *andre8244* - Reviewers: *Tbaile* - Created at: 2025-06-03T08:44:17Z
 
-### NethServer/nethsecurity-docs 5 
+### NethServer/nethsecurity-docs 6 
 
+- :eyes:  **[feat: added changelog](https://github.com/NethServer/nethsecurity-docs/pull/183)** by *Tbaile* - Reviewers: *None* - Created at: 2025-06-19T07:39:23Z
 - :eyes:  **[fix: added CIDR references where needed](https://github.com/NethServer/nethsecurity-docs/pull/182)** by *Tbaile* - Reviewers: *None* - Created at: 2025-06-18T13:01:15Z
 - :eyes:  **[feat(flashstart): added documentation about proplus](https://github.com/NethServer/nethsecurity-docs/pull/174)** by *cotosso* - Reviewers: *None* - Created at: 2025-06-05T15:24:06Z
 - :eyes: :zzz: **[feat(storage): enable by default](https://github.com/NethServer/nethsecurity-docs/pull/167)** by *cotosso* - Reviewers: *None* - Created at: 2025-05-16T14:19:42Z
 - :eyes: :zzz: **[feat: re-add setup wizard](https://github.com/NethServer/nethsecurity-docs/pull/166)** by *andre8244* - Reviewers: *None* - Created at: 2025-05-09T08:04:35Z
 -  :zzz: **[feat: add high availability](https://github.com/NethServer/nethsecurity-docs/pull/163)** by *gsanchietti* - Reviewers: *filippocarletti* - Created at: 2025-04-24T09:54:19Z
-
-### NethServer/ns8-nethforge 1 
-
-- :eyes:  **[Update url of documentation](https://github.com/NethServer/ns8-nethforge/pull/27)** by *stephdl* - Reviewers: *None* - Created at: 2025-06-16T16:12:48Z
 
 ## Organization: nethesis
 
@@ -74,8 +63,9 @@ date = 2025-06-19
 
 -  :zzz: **[Removed old notification service usage](https://github.com/nethesis/nethcti-app-iphone/pull/37)** by *NicolaMrAPPs* - Reviewers: *b9874e40962149eee62a8fd3bc4e709e* - Created at: 2023-08-02T09:19:30Z
 
-### nethesis/ns8-nethvoice 1 
+### nethesis/ns8-nethvoice 2 
 
+-   **[fix: update metadata.json](https://github.com/nethesis/ns8-nethvoice/pull/483)** by *DavidePrincipi* - Reviewers: *andrea-marchionni* - Created at: 2025-06-19T16:14:11Z
 -   **[fix: added missing streaming configuration page](https://github.com/nethesis/ns8-nethvoice/pull/462)** by *tonyco97* - Reviewers: *edospadoni* - Created at: 2025-06-03T15:08:23Z
 
 ### nethesis/nethvoice-cti 1 
@@ -88,11 +78,11 @@ date = 2025-06-19
 
 ### nethesis/ns8-nethvoice-proxy 2 
 
-- :eyes:  **[fix(kamailio): set destination using R-URI to avoide destination to be setted by remote Route](https://github.com/nethesis/ns8-nethvoice-proxy/pull/64)** by *Stell0* - Reviewers: *None* - Created at: 2025-05-20T10:16:54Z
+- :eyes: :zzz: **[fix(kamailio): set destination using R-URI to avoide destination to be setted by remote Route](https://github.com/nethesis/ns8-nethvoice-proxy/pull/64)** by *Stell0* - Reviewers: *None* - Created at: 2025-05-20T10:16:54Z
 - :eyes: :zzz: **[Remove Route header handling for inbound packets](https://github.com/nethesis/ns8-nethvoice-proxy/pull/49)** by *Amygos* - Reviewers: *None* - Created at: 2024-12-06T15:26:49Z
 
 ### nethesis/nethcti-middleware 1 
 
--   **[build: switch to multi-stage build with Alpine](https://github.com/nethesis/nethcti-middleware/pull/1)** by *Amygos* - Reviewers: *edospadoni, tommaso-ascani* - Created at: 2025-06-17T14:48:15Z
+-   **[build: switch to multi-stage build with Alpine](https://github.com/nethesis/nethcti-middleware/pull/1)** by *Amygos* - Reviewers: *tommaso-ascani* - Created at: 2025-06-17T14:48:15Z
 
 

@@ -2,7 +2,7 @@
 
 title = 'To be released soon'
 
-date = 2025-06-19
+date = 2025-06-20
 
 +++
 
@@ -13,6 +13,8 @@ date = 2025-06-19
 - [NethVoice CTI: create new phone-island token for NethLink](https://github.com/NethServer/dev/issues/7500) (#7113) by edospadoni (Created: 2025-06-12T07:06:50Z, Updated: 2025-06-12T14:07:21Z)
 
 - [NethVoice CTI:  Failure to open customer card](https://github.com/NethServer/dev/issues/7495) (#7113) by fabbri-marco (Created: 2025-06-05T14:46:06Z, Updated: 2025-06-12T11:10:53Z)
+
+- [NethVoice: add cellphone to user contacts on NethVoice phonebook](https://github.com/NethServer/dev/issues/7487) (#7113) by andrea-marchionni (Created: 2025-05-29T08:44:53Z, Updated: 2025-06-19T16:26:33Z)
 
 - [NethVoice Proxy: Incoming SIP Call Termination Fails Due to Inconsistent BYE Request-URI with Voipvoice Provider](https://github.com/NethServer/dev/issues/7485) (#7113) by Amygos (Created: 2025-05-28T15:31:17Z, Updated: 2025-06-06T13:27:28Z)
 
@@ -59,6 +61,8 @@ date = 2025-06-19
 ### NethServer
 
 - [Mixed-case usernames break user portal permissions](https://github.com/NethServer/dev/issues/7482) (#7113) by mrmarkuz (Created: 2025-05-27T11:18:26Z, Updated: 2025-06-16T08:10:58Z)
+
+- [WebTop Mockup and UI for OTP page and Maintenance](https://github.com/NethServer/dev/issues/7410) (#7113) by edospadoni (Created: 2025-04-16T08:34:44Z, Updated: 2025-06-19T11:54:24Z)
 
 - [Display backup destination validation details](https://github.com/NethServer/dev/issues/7167) (#7113) by DavidePrincipi (Created: 2024-11-20T15:53:15Z, Updated: 2025-06-17T11:52:02Z)
 
