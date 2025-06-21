@@ -2,11 +2,13 @@
 
 title = 'To be released soon'
 
-date = 2025-06-20
+date = 2025-06-21
 
 +++
 
 ### NethVoice
+
+- [NethLink: Update download opens inside the app instead of the default browser](https://github.com/NethServer/dev/issues/7511) (#7113) by mgarra (Created: 2025-06-18T11:06:19Z, Updated: 2025-06-20T16:17:43Z)
 
 - [Calls from new created trunks arrives as anonymous](https://github.com/NethServer/dev/issues/7501) (#7113) by Stell0 (Created: 2025-06-12T14:10:24Z, Updated: 2025-06-17T14:31:14Z)
 
@@ -36,7 +38,7 @@ date = 2025-06-20
 
 - [Nethvoice CTI: Inconsistent "Add to phonebook" option from call history](https://github.com/NethServer/dev/issues/7457) (#7113) by viktec (Created: 2025-05-14T08:13:44Z, Updated: 2025-06-06T08:38:39Z)
 
-- [NethHotel: port old NethHotel from NethVoice14](https://github.com/NethServer/dev/issues/7425) (#7113) by Stell0 (Created: 2025-04-23T06:57:45Z, Updated: 2025-06-16T15:03:26Z)
+- [NethHotel: port old NethHotel from NethVoice14](https://github.com/NethServer/dev/issues/7425) (#7113) by Stell0 (Created: 2025-04-23T06:57:45Z, Updated: 2025-06-20T14:07:53Z)
 
 - [NethLink: allow Audio/Video device configuration in NethLink](https://github.com/NethServer/dev/issues/7414) (#7113) by edospadoni (Created: 2025-04-18T12:08:38Z, Updated: 2025-06-04T09:14:19Z)
 

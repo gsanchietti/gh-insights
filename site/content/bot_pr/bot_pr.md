@@ -1,6 +1,6 @@
 +++
 title = 'Open Pull Requests by Bots'
-date = 2025-06-20
+date = 2025-06-21
 +++
 
 ## Organization: nethserver
@@ -46,12 +46,17 @@ date = 2025-06-20
 - :eyes: :zzz: **[chore(deps): update redis docker tag to v8](https://github.com/NethServer/ns8-nextcloud/pull/143)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-05-05T22:03:18Z
 - :eyes: :zzz: **[chore(deps): update ghcr.io/marketsquare/robotframework-browser/rfbrowser-stable docker tag to v19.6.0](https://github.com/NethServer/ns8-nextcloud/pull/132)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-01-26T17:42:49Z
 
+### NethServer/ns8-minio 1 
+
+- :eyes:  **[Translations update from Hosted Weblate](https://github.com/NethServer/ns8-minio/pull/13)** by *weblate* - Reviewers: *None* - Created at: 2025-06-20T15:03:35Z
+
 ### NethServer/ns8-ldapproxy 1 
 
 -  :zzz: **[chore(deps): update ghcr.io/marketsquare/robotframework-browser/rfbrowser-stable docker tag to v19.6.0](https://github.com/NethServer/ns8-ldapproxy/pull/17)** by *renovate[bot]* - Reviewers: *DavidePrincipi* - Created at: 2024-11-26T11:31:21Z
 
-### NethServer/ns8-samba 3 
+### NethServer/ns8-samba 4 
 
+- :eyes:  **[Translations update from Hosted Weblate](https://github.com/NethServer/ns8-samba/pull/108)** by *weblate* - Reviewers: *None* - Created at: 2025-06-20T15:03:24Z
 - :eyes:  **[chore(deps): update dependency nethserver/ns8-user-manager to v1.1.5](https://github.com/NethServer/ns8-samba/pull/106)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-06-12T16:27:31Z
 - :eyes:  **[chore(deps): update timescale/timescaledb docker tag to v2.20.3](https://github.com/NethServer/ns8-samba/pull/95)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-05-30T13:53:53Z
 - :eyes: :zzz: **[chore(deps): update ghcr.io/marketsquare/robotframework-browser/rfbrowser-stable docker tag to v19.6.0](https://github.com/NethServer/ns8-samba/pull/77)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-02-21T09:59:59Z
@@ -94,8 +99,9 @@ date = 2025-06-20
 - :eyes: :zzz: **[chore(deps): update docker.io/alpine docker tag to v3.21.3](https://github.com/NethServer/nethsecurity-controller/pull/92)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-03-25T09:07:13Z
 - :eyes: :zzz: **[fix(deps): update github.com/nethserver/nethsecurity-api digest to 5c3308e](https://github.com/NethServer/nethsecurity-controller/pull/86)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-02-13T12:03:10Z
 
-### NethServer/ns8-mail 2 
+### NethServer/ns8-mail 3 
 
+- :eyes:  **[Translations update from Hosted Weblate](https://github.com/NethServer/ns8-mail/pull/185)** by *weblate* - Reviewers: *None* - Created at: 2025-06-20T15:03:03Z
 - :eyes:  **[chore(deps): update alpine docker tag to v3.22.0](https://github.com/NethServer/ns8-mail/pull/180)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-05-30T21:48:21Z
 - :eyes: :zzz: **[chore(deps): update ghcr.io/marketsquare/robotframework-browser/rfbrowser-stable docker tag to v19.6.0](https://github.com/NethServer/ns8-mail/pull/164)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-01-26T17:02:40Z
 
@@ -104,14 +110,16 @@ date = 2025-06-20
 - :eyes: :zzz: **[build(deps): bump axios from 0.21.2 to 0.30.0 in /ui](https://github.com/NethServer/ns8-nethsecurity-controller/pull/82)** by *dependabot[bot]* - Reviewers: *None* - Created at: 2025-04-01T07:05:59Z
 - :eyes: :zzz: **[chore(deps): update ghcr.io/marketsquare/robotframework-browser/rfbrowser-stable docker tag to v19.6.0](https://github.com/NethServer/ns8-nethsecurity-controller/pull/73)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-01-26T16:34:20Z
 
-### NethServer/ns8-mattermost 3 
+### NethServer/ns8-mattermost 4 
 
+- :eyes:  **[Translations update from Hosted Weblate](https://github.com/NethServer/ns8-mattermost/pull/110)** by *weblate* - Reviewers: *None* - Created at: 2025-06-20T15:02:31Z
 - :eyes:  **[chore(deps): update mattermost/mattermost-team-edition docker tag to v10.9.2](https://github.com/NethServer/ns8-mattermost/pull/108)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-05-29T15:34:02Z
 - :eyes: :zzz: **[chore(deps): update node.js to v18.20.8](https://github.com/NethServer/ns8-mattermost/pull/100)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-03-27T19:28:37Z
 - :eyes: :zzz: **[chore(deps): update ghcr.io/marketsquare/robotframework-browser/rfbrowser-stable docker tag to v19.6.0](https://github.com/NethServer/ns8-mattermost/pull/90)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-01-26T17:22:22Z
 
-### NethServer/ns8-collabora 1 
+### NethServer/ns8-collabora 2 
 
+- :eyes:  **[Translations update from Hosted Weblate](https://github.com/NethServer/ns8-collabora/pull/44)** by *weblate* - Reviewers: *None* - Created at: 2025-06-20T15:04:07Z
 - :eyes:  **[chore(deps): update collabora/code docker tag to v25.04.3.1.1](https://github.com/NethServer/ns8-collabora/pull/43)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-06-19T15:41:58Z
 
 ### NethServer/ns8-webtop 3 
@@ -211,10 +219,10 @@ date = 2025-06-20
 
 ### nethesis/nethcti-server 4 
 
-- :eyes:  **[Bump cookie and socket.io in /root/usr/lib/node/nethcti-server](https://github.com/nethesis/nethcti-server/pull/333)** by *dependabot[bot]* - Reviewers: *None* - Created at: 2025-05-21T07:42:47Z
-- :eyes:  **[Bump braces and nodemon in /root/usr/lib/node/nethcti-server](https://github.com/nethesis/nethcti-server/pull/331)** by *dependabot[bot]* - Reviewers: *None* - Created at: 2025-05-21T07:42:41Z
-- :eyes:  **[Bump ejs from 2.5.6 to 3.1.10 in /root/usr/lib/node/nethcti-server](https://github.com/nethesis/nethcti-server/pull/329)** by *dependabot[bot]* - Reviewers: *None* - Created at: 2025-05-21T07:42:38Z
-- :eyes:  **[Bump mysql2 from 2.3.3 to 3.9.8 in /root/usr/lib/node/nethcti-server](https://github.com/nethesis/nethcti-server/pull/330)** by *dependabot[bot]* - Reviewers: *None* - Created at: 2025-05-21T07:42:38Z
+- :eyes: :zzz: **[Bump cookie and socket.io in /root/usr/lib/node/nethcti-server](https://github.com/nethesis/nethcti-server/pull/333)** by *dependabot[bot]* - Reviewers: *None* - Created at: 2025-05-21T07:42:47Z
+- :eyes: :zzz: **[Bump braces and nodemon in /root/usr/lib/node/nethcti-server](https://github.com/nethesis/nethcti-server/pull/331)** by *dependabot[bot]* - Reviewers: *None* - Created at: 2025-05-21T07:42:41Z
+- :eyes: :zzz: **[Bump ejs from 2.5.6 to 3.1.10 in /root/usr/lib/node/nethcti-server](https://github.com/nethesis/nethcti-server/pull/329)** by *dependabot[bot]* - Reviewers: *None* - Created at: 2025-05-21T07:42:38Z
+- :eyes: :zzz: **[Bump mysql2 from 2.3.3 to 3.9.8 in /root/usr/lib/node/nethcti-server](https://github.com/nethesis/nethcti-server/pull/330)** by *dependabot[bot]* - Reviewers: *None* - Created at: 2025-05-21T07:42:38Z
 
 ### nethesis/nethvoice-wizard-restapi 1 
 
@@ -230,14 +238,19 @@ date = 2025-06-20
 
 ### nethesis/nethserver-tancredi 1 
 
--   **[Bump tancredi version](https://github.com/nethesis/nethserver-tancredi/pull/154)** by *nethbot* - Reviewers: *Stell0, andrea-marchionni* - Created at: 2025-05-21T14:08:27Z
+-  :zzz: **[Bump tancredi version](https://github.com/nethesis/nethserver-tancredi/pull/154)** by *nethbot* - Reviewers: *Stell0, andrea-marchionni* - Created at: 2025-05-21T14:08:27Z
 
 ### nethesis/nethvoice-report 1 
 
 - :eyes: :zzz: **[Bump jspdf from 2.1.1 to 3.0.1 in /ui](https://github.com/nethesis/nethvoice-report/pull/203)** by *dependabot[bot]* - Reviewers: *None* - Created at: 2025-03-19T07:36:39Z
 
+### nethesis/ns8-nethvoice 2 
+
+- :eyes:  **[Translations update from Hosted Weblate](https://github.com/nethesis/ns8-nethvoice/pull/486)** by *weblate* - Reviewers: *None* - Created at: 2025-06-21T04:04:11Z
+- :eyes:  **[chore(deps): update ghcr.io/nethesis/nethvoice-cti docker tag to v0.10.5](https://github.com/nethesis/ns8-nethvoice/pull/484)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-06-20T08:09:03Z
+
 ### nethesis/nethvoice-cti 1 
 
-- :eyes:  **[build(deps): Update phone-island dependency (automated)](https://github.com/nethesis/nethvoice-cti/pull/312)** by *github-actions[bot]* - Reviewers: *None* - Created at: 2025-06-18T00:20:33Z
+- :eyes:  **[build(deps): Update phone-island dependency (automated)](https://github.com/nethesis/nethvoice-cti/pull/315)** by *github-actions[bot]* - Reviewers: *None* - Created at: 2025-06-21T00:20:33Z
 
 
