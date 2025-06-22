@@ -2,7 +2,7 @@
 
 title = 'To be released soon'
 
-date = 2025-06-21
+date = 2025-06-22
 
 +++
 
