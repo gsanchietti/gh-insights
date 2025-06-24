@@ -2,7 +2,7 @@
 
 title = 'To be released soon'
 
-date = 2025-06-23
+date = 2025-06-24
 
 +++
 
@@ -10,59 +10,19 @@ date = 2025-06-23
 
 - [NethLink: Update download opens inside the app instead of the default browser](https://github.com/NethServer/dev/issues/7511) (#7113) by mgarra (Created: 2025-06-18T11:06:19Z, Updated: 2025-06-20T16:17:43Z)
 
-- [Calls from new created trunks arrives as anonymous](https://github.com/NethServer/dev/issues/7501) (#7113) by Stell0 (Created: 2025-06-12T14:10:24Z, Updated: 2025-06-17T14:31:14Z)
-
-- [NethVoice CTI: create new phone-island token for NethLink](https://github.com/NethServer/dev/issues/7500) (#7113) by edospadoni (Created: 2025-06-12T07:06:50Z, Updated: 2025-06-12T14:07:21Z)
-
-- [NethVoice CTI:  Failure to open customer card](https://github.com/NethServer/dev/issues/7495) (#7113) by fabbri-marco (Created: 2025-06-05T14:46:06Z, Updated: 2025-06-12T11:10:53Z)
-
 - [NethVoice: add cellphone to user contacts on NethVoice phonebook](https://github.com/NethServer/dev/issues/7487) (#7113) by andrea-marchionni (Created: 2025-05-29T08:44:53Z, Updated: 2025-06-19T16:26:33Z)
 
 - [NethVoice Proxy: Incoming SIP Call Termination Fails Due to Inconsistent BYE Request-URI with Voipvoice Provider](https://github.com/NethServer/dev/issues/7485) (#7113) by Amygos (Created: 2025-05-28T15:31:17Z, Updated: 2025-06-06T13:27:28Z)
 
-- [NethVoice CTI: Operator last login shows incorrect time (+2 hours) in Operator Statistics page](https://github.com/NethServer/dev/issues/7484) (#7113) by viktec (Created: 2025-05-28T08:41:22Z, Updated: 2025-06-06T08:38:16Z)
-
-- [NethVoice CTI: Operator panel stuck on loading if the Phonebook permission is disabled](https://github.com/NethServer/dev/issues/7483) (#7113) by viktec (Created: 2025-05-27T12:51:56Z, Updated: 2025-06-06T09:18:31Z)
-
-- [NethVoice: Update FreePBX modules](https://github.com/NethServer/dev/issues/7476) (#7113) by Stell0 (Created: 2025-05-23T07:50:32Z, Updated: 2025-06-12T13:45:25Z)
-
-- [NethVoice: add a POST and a GET API to write and read the extensions displayname](https://github.com/NethServer/dev/issues/7475) (#7113) by Stell0 (Created: 2025-05-21T12:37:33Z, Updated: 2025-05-27T13:20:22Z)
-
-- [Phone Island: Device switch button missing or not always shown on incoming calls](https://github.com/NethServer/dev/issues/7473) (#7113) by viktec (Created: 2025-05-20T14:32:01Z, Updated: 2025-06-06T08:37:48Z)
-
 - [NethVoice: Add New VoIP Provider NetoIP to Configuration Wizard](https://github.com/NethServer/dev/issues/7471) (#7113) by margit86 (Created: 2025-05-19T13:54:43Z, Updated: 2025-06-11T15:20:39Z)
-
-- [NethVoice: NethVoice – Add Support for New Yealink T7X, T8X, and AXX Series Model](https://github.com/NethServer/dev/issues/7469) (#7113) by andrea-marchionni (Created: 2025-05-16T15:59:30Z, Updated: 2025-05-27T14:27:28Z)
-
-- [Nethvoice voicemails recognized as spam due to invalid header](https://github.com/NethServer/dev/issues/7461) (#7113) by Stell0 (Created: 2025-05-14T12:27:28Z, Updated: 2025-05-30T10:19:46Z)
-
-- [Nethvoice CTI: Inconsistent "Add to phonebook" option from call history](https://github.com/NethServer/dev/issues/7457) (#7113) by viktec (Created: 2025-05-14T08:13:44Z, Updated: 2025-06-06T08:38:39Z)
-
-- [NethHotel: port old NethHotel from NethVoice14](https://github.com/NethServer/dev/issues/7425) (#7113) by Stell0 (Created: 2025-04-23T06:57:45Z, Updated: 2025-06-20T14:07:53Z)
 
 - [NethLink: allow Audio/Video device configuration in NethLink](https://github.com/NethServer/dev/issues/7414) (#7113) by edospadoni (Created: 2025-04-18T12:08:38Z, Updated: 2025-06-04T09:14:19Z)
 
 - [NethLink: the phonebook search only displays mobile numbers.](https://github.com/NethServer/dev/issues/7339) (#7113) by andrea-marchionni (Created: 2025-03-04T10:10:32Z, Updated: 2025-06-04T08:39:54Z)
 
-- [Update VoIP providers at module update](https://github.com/NethServer/dev/issues/7331) (#7113) by Stell0 (Created: 2025-02-21T16:36:03Z, Updated: 2025-06-12T10:19:23Z)
-
-- [NethVoice: TIM Trunk Compatibility and Dialplan Adjustments](https://github.com/NethServer/dev/issues/7321) (#7113) by andrea-marchionni (Created: 2025-02-17T14:41:46Z, Updated: 2025-06-18T13:04:18Z)
-
-- [NethVoice CTI: Allow collapsing the right sidebar on desktop](https://github.com/NethServer/dev/issues/7317) (#7113) by AmaLuci (Created: 2025-02-14T15:59:34Z, Updated: 2025-06-06T13:46:21Z)
-
-- [NethVoice CTI: add to phonebook from recent calls list](https://github.com/NethServer/dev/issues/7293) (#7113) by andrea-marchionni (Created: 2025-01-31T11:11:47Z, Updated: 2025-06-06T15:23:44Z)
-
-- [NethVoice CTI: activate the pickup feature](https://github.com/NethServer/dev/issues/7262) (#7113) by andrea-marchionni (Created: 2025-01-17T11:23:00Z, Updated: 2025-06-12T11:00:55Z)
-
-- [NethVoice CTI: Add Phone Extension to Operator Cards](https://github.com/NethServer/dev/issues/7171) (#7113) by AmaLuci (Created: 2024-11-22T10:27:36Z, Updated: 2025-06-06T09:44:30Z)
-
-- [NethVoice CTI parameterized URL](https://github.com/NethServer/dev/issues/7137) (#7113) by Amygos (Created: 2024-11-15T10:45:43Z, Updated: 2025-06-12T10:15:43Z)
-
 - [Nethvoice Proxy: add backup and restore procedure](https://github.com/NethServer/dev/issues/7113) (#7113) by Amygos (Created: 2024-11-14T15:09:05Z, Updated: 2025-06-18T13:04:45Z)
 
 ### NethServer
-
-- [Mixed-case usernames break user portal permissions](https://github.com/NethServer/dev/issues/7482) (#7113) by mrmarkuz (Created: 2025-05-27T11:18:26Z, Updated: 2025-06-16T08:10:58Z)
 
 - [WebTop Mockup and UI for OTP page and Maintenance](https://github.com/NethServer/dev/issues/7410) (#7113) by edospadoni (Created: 2025-04-16T08:34:44Z, Updated: 2025-06-19T11:54:24Z)
 

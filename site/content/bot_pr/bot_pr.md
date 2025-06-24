@@ -1,6 +1,6 @@
 +++
 title = 'Open Pull Requests by Bots'
-date = 2025-06-23
+date = 2025-06-24
 +++
 
 ## Organization: nethserver
@@ -92,10 +92,8 @@ date = 2025-06-23
 
 - :eyes:  **[chore: bump ns packages (automatic)](https://github.com/NethServer/nethsecurity/pull/1271)** by *github-actions[bot]* - Reviewers: *None* - Created at: 2025-06-16T14:33:17Z
 
-### NethServer/nethsecurity-controller 6 
+### NethServer/nethsecurity-controller 4 
 
-- :eyes:  **[fix(deps): update module github.com/gin-contrib/cors to v1.7.6](https://github.com/NethServer/nethsecurity-controller/pull/125)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-06-23T01:39:40Z
-- :eyes:  **[chore(deps): update dependency nethserver/nethsecurity-ui to v1.28.2](https://github.com/NethServer/nethsecurity-controller/pull/124)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-06-23T01:39:16Z
 - :eyes:  **[chore(deps): update aquasecurity/trivy-action action to v0.31.0](https://github.com/NethServer/nethsecurity-controller/pull/121)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-06-09T01:00:59Z
 - :eyes: :zzz: **[chore(deps): update docker.io/traefik docker tag to v3](https://github.com/NethServer/nethsecurity-controller/pull/95)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-03-31T03:07:13Z
 - :eyes: :zzz: **[chore(deps): update docker.io/alpine docker tag to v3.21.3](https://github.com/NethServer/nethsecurity-controller/pull/92)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-03-25T09:07:13Z
