@@ -2,7 +2,7 @@
 
 title = 'To be released soon'
 
-date = 2025-06-24
+date = 2025-06-25
 
 +++
 
@@ -23,6 +23,8 @@ date = 2025-06-24
 - [Nethvoice Proxy: add backup and restore procedure](https://github.com/NethServer/dev/issues/7113) (#7113) by Amygos (Created: 2024-11-14T15:09:05Z, Updated: 2025-06-18T13:04:45Z)
 
 ### NethServer
+
+- [WebTop: Tomcat and Postgresql Version Upgrade](https://github.com/NethServer/dev/issues/7489) (#7113) by lucagasparini (Created: 2025-05-30T10:20:52Z, Updated: 2025-06-24T16:24:08Z)
 
 - [WebTop Mockup and UI for OTP page and Maintenance](https://github.com/NethServer/dev/issues/7410) (#7113) by edospadoni (Created: 2025-04-16T08:34:44Z, Updated: 2025-06-19T11:54:24Z)
 

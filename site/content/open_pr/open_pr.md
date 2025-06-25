@@ -1,32 +1,22 @@
 +++
 title = 'Open Pull Requests'
-date = 2025-06-24
+date = 2025-06-25
 +++
 
 ## Organization: nethserver
 
-### NethServer/ns8-core 2 
+### NethServer/ns8-core 1 
 
--   **[Add slash redirect option for HTTP routes](https://github.com/NethServer/ns8-core/pull/905)** by *stephdl* - Reviewers: *andre8244* - Created at: 2025-06-23T09:38:47Z
 -   **[fix(api): allow restore if repo is not available](https://github.com/NethServer/ns8-core/pull/904)** by *gsanchietti* - Reviewers: *DavidePrincipi* - Created at: 2025-06-18T06:43:28Z
 
-### NethServer/ns8-samba 2 
+### NethServer/ns8-samba 1 
 
-- :eyes:  **[Enable slash redirection for users-admin path](https://github.com/NethServer/ns8-samba/pull/109)** by *stephdl* - Reviewers: *None* - Created at: 2025-06-20T15:08:39Z
 -   **[Set minimum password age to 0 days](https://github.com/NethServer/ns8-samba/pull/107)** by *stephdl* - Reviewers: *DavidePrincipi* - Created at: 2025-06-13T16:03:42Z
-
-### NethServer/ns8-openldap 1 
-
-- :eyes:  **[Enable slash redirection for users-admin path](https://github.com/NethServer/ns8-openldap/pull/64)** by *stephdl* - Reviewers: *None* - Created at: 2025-06-20T14:59:25Z
 
 ### NethServer/ns8-mail 2 
 
 - :eyes:  **[fix: relay rules by sender](https://github.com/NethServer/ns8-mail/pull/186)** by *DavidePrincipi* - Reviewers: *None* - Created at: 2025-06-23T16:53:12Z
 - :eyes:  **[Postfix LDAP mailboxes lookup](https://github.com/NethServer/ns8-mail/pull/184)** by *DavidePrincipi* - Reviewers: *None* - Created at: 2025-06-18T15:20:41Z
-
-### NethServer/ns8-webtop 1 
-
-- :eyes:  **[feat: Update Tomcat and Postgres images](https://github.com/NethServer/ns8-webtop/pull/134)** by *stephdl* - Reviewers: *None* - Created at: 2025-06-12T09:22:40Z
 
 ### NethServer/ns8-piler 1 
 
@@ -67,10 +57,9 @@ date = 2025-06-24
 
 - :eyes:  **[fix: missing audio after transfer on third user on mute](https://github.com/nethesis/phone-island/pull/101)** by *tonyco97* - Reviewers: *None* - Created at: 2025-06-18T14:08:13Z
 
-### nethesis/ns8-nethvoice-proxy 2 
+### nethesis/ns8-nethvoice-proxy 1 
 
-- :eyes: :zzz: **[fix(kamailio): set destination using R-URI to avoide destination to be setted by remote Route](https://github.com/nethesis/ns8-nethvoice-proxy/pull/64)** by *Stell0* - Reviewers: *None* - Created at: 2025-05-20T10:16:54Z
-- :eyes: :zzz: **[Remove Route header handling for inbound packets](https://github.com/nethesis/ns8-nethvoice-proxy/pull/49)** by *Amygos* - Reviewers: *None* - Created at: 2024-12-06T15:26:49Z
+- :eyes:  **[Revert "Remove Route header handling for inbound packets"](https://github.com/nethesis/ns8-nethvoice-proxy/pull/69)** by *Amygos* - Reviewers: *None* - Created at: 2025-06-24T13:43:52Z
 
 ### nethesis/satellite 1 
 
