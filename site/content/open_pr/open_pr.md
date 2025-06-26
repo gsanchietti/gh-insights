@@ -1,12 +1,13 @@
 +++
 title = 'Open Pull Requests'
-date = 2025-06-25
+date = 2025-06-26
 +++
 
 ## Organization: nethserver
 
-### NethServer/ns8-core 1 
+### NethServer/ns8-core 2 
 
+-   **[Refactor the port management logic by  ensuring data integrity](https://github.com/NethServer/ns8-core/pull/906)** by *stephdl* - Reviewers: *DavidePrincipi* - Created at: 2025-06-25T13:55:58Z
 -   **[fix(api): allow restore if repo is not available](https://github.com/NethServer/ns8-core/pull/904)** by *gsanchietti* - Reviewers: *DavidePrincipi* - Created at: 2025-06-18T06:43:28Z
 
 ### NethServer/ns8-samba 1 
@@ -22,16 +23,21 @@ date = 2025-06-25
 
 - :eyes:  **[Refactor service startup and add Manticore and MariaDB configurations for 1.4.7](https://github.com/NethServer/ns8-piler/pull/34)** by *stephdl* - Reviewers: *None* - Created at: 2025-06-19T10:01:41Z
 
-### NethServer/ns8-docs 4 
+### NethServer/ns8-docs 5 
 
+-   **[Update nethvoice.rst](https://github.com/NethServer/ns8-docs/pull/174)** by *margit86* - Reviewers: *Stell0* - Created at: 2025-06-25T12:41:13Z
 -   **[fix: new rules for "Accept unknown recipients"](https://github.com/NethServer/ns8-docs/pull/173)** by *DavidePrincipi* - Reviewers: *filippocarletti* - Created at: 2025-06-18T15:42:08Z
-- :eyes:  **[fix(metrics): remove language selection](https://github.com/NethServer/ns8-docs/pull/167)** by *gsanchietti* - Reviewers: *None* - Created at: 2025-05-26T13:20:09Z
+- :eyes: :zzz: **[fix(metrics): remove language selection](https://github.com/NethServer/ns8-docs/pull/167)** by *gsanchietti* - Reviewers: *None* - Created at: 2025-05-26T13:20:09Z
 - :eyes: :zzz: **[add Yealink T7X T8X AX](https://github.com/NethServer/ns8-docs/pull/165)** by *andrea-marchionni* - Reviewers: *None* - Created at: 2025-05-16T16:03:23Z
 - :eyes: :zzz: **[Update note about IP change to clarify need for correct reconfiguration](https://github.com/NethServer/ns8-docs/pull/164)** by *IgonetIT* - Reviewers: *None* - Created at: 2025-05-08T09:20:48Z
 
 ### NethServer/nethsecurity-ui 1 
 
 -   **[chore!: upgrade tailwindcss to v4](https://github.com/NethServer/nethsecurity-ui/pull/570)** by *andre8244* - Reviewers: *Tbaile* - Created at: 2025-06-03T08:44:17Z
+
+### NethServer/nethsecurity-docs 1 
+
+-   **[Add required ports for controller usage](https://github.com/NethServer/nethsecurity-docs/pull/188)** by *francio87* - Reviewers: *cotosso* - Created at: 2025-06-25T10:45:41Z
 
 ## Organization: nethesis
 
@@ -43,23 +49,11 @@ date = 2025-06-25
 
 -  :zzz: **[Removed old notification service usage](https://github.com/nethesis/nethcti-app-iphone/pull/37)** by *NicolaMrAPPs* - Reviewers: *b9874e40962149eee62a8fd3bc4e709e* - Created at: 2023-08-02T09:19:30Z
 
-### nethesis/ns8-nethvoice 2 
+### nethesis/ns8-nethvoice 3 
 
+- :eyes:  **[feature(dialplan): Add isTrunk=1 on INVITES sent to phones without encryption](https://github.com/nethesis/ns8-nethvoice/pull/489)** by *Stell0* - Reviewers: *None* - Created at: 2025-06-25T12:58:56Z
 -   **[fix: update metadata.json](https://github.com/nethesis/ns8-nethvoice/pull/483)** by *DavidePrincipi* - Reviewers: *andrea-marchionni* - Created at: 2025-06-19T16:14:11Z
 -   **[fix: added missing streaming configuration page](https://github.com/nethesis/ns8-nethvoice/pull/462)** by *tonyco97* - Reviewers: *edospadoni* - Created at: 2025-06-03T15:08:23Z
-
-### nethesis/nethvoice-cti 2 
-
-- :eyes:  **[fix: added missing automatic queue pause](https://github.com/nethesis/nethvoice-cti/pull/313)** by *tonyco97* - Reviewers: *None* - Created at: 2025-06-20T06:59:55Z
-- :eyes:  **[feat: created streaming card section](https://github.com/nethesis/nethvoice-cti/pull/307)** by *tonyco97* - Reviewers: *None* - Created at: 2025-06-04T08:23:33Z
-
-### nethesis/phone-island 1 
-
-- :eyes:  **[fix: missing audio after transfer on third user on mute](https://github.com/nethesis/phone-island/pull/101)** by *tonyco97* - Reviewers: *None* - Created at: 2025-06-18T14:08:13Z
-
-### nethesis/ns8-nethvoice-proxy 1 
-
-- :eyes:  **[Revert "Remove Route header handling for inbound packets"](https://github.com/nethesis/ns8-nethvoice-proxy/pull/69)** by *Amygos* - Reviewers: *None* - Created at: 2025-06-24T13:43:52Z
 
 ### nethesis/satellite 1 
 

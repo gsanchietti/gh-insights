@@ -2,9 +2,19 @@
 
 title = 'To be released soon'
 
-date = 2025-06-25
+date = 2025-06-26
 
 +++
+
+### NethServer
+
+- [Broken TLS in Postfix due to malformed fullchain.pem](https://github.com/NethServer/dev/issues/7526) (#7113) by lucagasparini (Created: 2025-06-24T14:38:54Z, Updated: 2025-06-25T14:58:18Z)
+
+- [WebTop: Tomcat and Postgresql Version Upgrade](https://github.com/NethServer/dev/issues/7489) (#7113) by lucagasparini (Created: 2025-05-30T10:20:52Z, Updated: 2025-06-24T16:24:08Z)
+
+- [WebTop Mockup and UI for OTP page and Maintenance](https://github.com/NethServer/dev/issues/7410) (#7113) by edospadoni (Created: 2025-04-16T08:34:44Z, Updated: 2025-06-19T11:54:24Z)
+
+- [Display backup destination validation details](https://github.com/NethServer/dev/issues/7167) (#7113) by DavidePrincipi (Created: 2024-11-20T15:53:15Z, Updated: 2025-06-17T11:52:02Z)
 
 ### NethVoice
 
@@ -21,14 +31,6 @@ date = 2025-06-25
 - [NethLink: the phonebook search only displays mobile numbers.](https://github.com/NethServer/dev/issues/7339) (#7113) by andrea-marchionni (Created: 2025-03-04T10:10:32Z, Updated: 2025-06-04T08:39:54Z)
 
 - [Nethvoice Proxy: add backup and restore procedure](https://github.com/NethServer/dev/issues/7113) (#7113) by Amygos (Created: 2024-11-14T15:09:05Z, Updated: 2025-06-18T13:04:45Z)
-
-### NethServer
-
-- [WebTop: Tomcat and Postgresql Version Upgrade](https://github.com/NethServer/dev/issues/7489) (#7113) by lucagasparini (Created: 2025-05-30T10:20:52Z, Updated: 2025-06-24T16:24:08Z)
-
-- [WebTop Mockup and UI for OTP page and Maintenance](https://github.com/NethServer/dev/issues/7410) (#7113) by edospadoni (Created: 2025-04-16T08:34:44Z, Updated: 2025-06-19T11:54:24Z)
-
-- [Display backup destination validation details](https://github.com/NethServer/dev/issues/7167) (#7113) by DavidePrincipi (Created: 2024-11-20T15:53:15Z, Updated: 2025-06-17T11:52:02Z)
 
 ### NethSecurity
 
