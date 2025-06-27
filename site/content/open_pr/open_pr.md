@@ -1,6 +1,6 @@
 +++
 title = 'Open Pull Requests'
-date = 2025-06-26
+date = 2025-06-27
 +++
 
 ## Organization: nethserver
@@ -14,10 +14,23 @@ date = 2025-06-26
 
 -   **[Set minimum password age to 0 days](https://github.com/NethServer/ns8-samba/pull/107)** by *stephdl* - Reviewers: *DavidePrincipi* - Created at: 2025-06-13T16:03:42Z
 
+### NethServer/nethserver-ns8-migration 1 
+
+-   **[Update bind.env to webtop:1.4.3](https://github.com/NethServer/nethserver-ns8-migration/pull/120)** by *stephdl* - Reviewers: *DavidePrincipi* - Created at: 2025-06-26T15:57:40Z
+
+### NethServer/nethsecurity 1 
+
+- :eyes:  **[feat(flashstart): allow setting of logqueries and rebind in generated servers](https://github.com/NethServer/nethsecurity/pull/1283)** by *Tbaile* - Reviewers: *None* - Created at: 2025-06-26T10:25:05Z
+
 ### NethServer/ns8-mail 2 
 
 - :eyes:  **[fix: relay rules by sender](https://github.com/NethServer/ns8-mail/pull/186)** by *DavidePrincipi* - Reviewers: *None* - Created at: 2025-06-23T16:53:12Z
 - :eyes:  **[Postfix LDAP mailboxes lookup](https://github.com/NethServer/ns8-mail/pull/184)** by *DavidePrincipi* - Reviewers: *None* - Created at: 2025-06-18T15:20:41Z
+
+### NethServer/ns8-webtop 2 
+
+-   **[Set a minimum version to 1.4.3 for postgresql upgrade](https://github.com/NethServer/ns8-webtop/pull/142)** by *stephdl* - Reviewers: *DavidePrincipi* - Created at: 2025-06-26T16:04:47Z
+- :eyes:  **[Update to upstream release wt-5.29.0](https://github.com/NethServer/ns8-webtop/pull/141)** by *gsanchietti* - Reviewers: *None* - Created at: 2025-06-26T13:23:45Z
 
 ### NethServer/ns8-piler 1 
 
@@ -35,11 +48,16 @@ date = 2025-06-26
 
 -   **[chore!: upgrade tailwindcss to v4](https://github.com/NethServer/nethsecurity-ui/pull/570)** by *andre8244* - Reviewers: *Tbaile* - Created at: 2025-06-03T08:44:17Z
 
-### NethServer/nethsecurity-docs 1 
+### NethServer/nethsecurity-docs 2 
 
+-   **[feat(flashstart): added custom options for query logging and rebind](https://github.com/NethServer/nethsecurity-docs/pull/189)** by *Tbaile* - Reviewers: *cotosso* - Created at: 2025-06-26T11:48:54Z
 -   **[Add required ports for controller usage](https://github.com/NethServer/nethsecurity-docs/pull/188)** by *francio87* - Reviewers: *cotosso* - Created at: 2025-06-25T10:45:41Z
 
 ## Organization: nethesis
+
+### nethesis/nethcti-server 1 
+
+- :eyes:  **[fix: clean up excessive log output from database connection plugin](https://github.com/nethesis/nethcti-server/pull/335)** by *edospadoni* - Reviewers: *None* - Created at: 2025-06-26T08:30:48Z
 
 ### nethesis/nethcti-app-android 1 
 
@@ -49,9 +67,8 @@ date = 2025-06-26
 
 -  :zzz: **[Removed old notification service usage](https://github.com/nethesis/nethcti-app-iphone/pull/37)** by *NicolaMrAPPs* - Reviewers: *b9874e40962149eee62a8fd3bc4e709e* - Created at: 2023-08-02T09:19:30Z
 
-### nethesis/ns8-nethvoice 3 
+### nethesis/ns8-nethvoice 2 
 
-- :eyes:  **[feature(dialplan): Add isTrunk=1 on INVITES sent to phones without encryption](https://github.com/nethesis/ns8-nethvoice/pull/489)** by *Stell0* - Reviewers: *None* - Created at: 2025-06-25T12:58:56Z
 -   **[fix: update metadata.json](https://github.com/nethesis/ns8-nethvoice/pull/483)** by *DavidePrincipi* - Reviewers: *andrea-marchionni* - Created at: 2025-06-19T16:14:11Z
 -   **[fix: added missing streaming configuration page](https://github.com/nethesis/ns8-nethvoice/pull/462)** by *tonyco97* - Reviewers: *edospadoni* - Created at: 2025-06-03T15:08:23Z
 
