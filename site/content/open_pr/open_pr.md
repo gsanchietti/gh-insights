@@ -1,6 +1,6 @@
 +++
 title = 'Open Pull Requests'
-date = 2025-06-27
+date = 2025-06-28
 +++
 
 ## Organization: nethserver
@@ -18,18 +18,14 @@ date = 2025-06-27
 
 -   **[Update bind.env to webtop:1.4.3](https://github.com/NethServer/nethserver-ns8-migration/pull/120)** by *stephdl* - Reviewers: *DavidePrincipi* - Created at: 2025-06-26T15:57:40Z
 
-### NethServer/nethsecurity 1 
-
-- :eyes:  **[feat(flashstart): allow setting of logqueries and rebind in generated servers](https://github.com/NethServer/nethsecurity/pull/1283)** by *Tbaile* - Reviewers: *None* - Created at: 2025-06-26T10:25:05Z
-
 ### NethServer/ns8-mail 2 
 
-- :eyes:  **[fix: relay rules by sender](https://github.com/NethServer/ns8-mail/pull/186)** by *DavidePrincipi* - Reviewers: *None* - Created at: 2025-06-23T16:53:12Z
+-   **[fix: relay rules by sender](https://github.com/NethServer/ns8-mail/pull/186)** by *DavidePrincipi* - Reviewers: *mrmarkuz* - Created at: 2025-06-23T16:53:12Z
 - :eyes:  **[Postfix LDAP mailboxes lookup](https://github.com/NethServer/ns8-mail/pull/184)** by *DavidePrincipi* - Reviewers: *None* - Created at: 2025-06-18T15:20:41Z
 
 ### NethServer/ns8-webtop 2 
 
--   **[Set a minimum version to 1.4.3 for postgresql upgrade](https://github.com/NethServer/ns8-webtop/pull/142)** by *stephdl* - Reviewers: *DavidePrincipi* - Created at: 2025-06-26T16:04:47Z
+- :eyes:  **[Set a minimum version to 1.4.3 for postgresql upgrade](https://github.com/NethServer/ns8-webtop/pull/142)** by *stephdl* - Reviewers: *None* - Created at: 2025-06-26T16:04:47Z
 - :eyes:  **[Update to upstream release wt-5.29.0](https://github.com/NethServer/ns8-webtop/pull/141)** by *gsanchietti* - Reviewers: *None* - Created at: 2025-06-26T13:23:45Z
 
 ### NethServer/ns8-piler 1 
@@ -44,20 +40,17 @@ date = 2025-06-27
 - :eyes: :zzz: **[add Yealink T7X T8X AX](https://github.com/NethServer/ns8-docs/pull/165)** by *andrea-marchionni* - Reviewers: *None* - Created at: 2025-05-16T16:03:23Z
 - :eyes: :zzz: **[Update note about IP change to clarify need for correct reconfiguration](https://github.com/NethServer/ns8-docs/pull/164)** by *IgonetIT* - Reviewers: *None* - Created at: 2025-05-08T09:20:48Z
 
-### NethServer/nethsecurity-ui 1 
+### NethServer/nethsecurity-ui 2 
 
+-   **[fix: added info message for DNS setting](https://github.com/NethServer/nethsecurity-ui/pull/589)** by *Tbaile* - Reviewers: *gsanchietti* - Created at: 2025-06-27T09:29:27Z
 -   **[chore!: upgrade tailwindcss to v4](https://github.com/NethServer/nethsecurity-ui/pull/570)** by *andre8244* - Reviewers: *Tbaile* - Created at: 2025-06-03T08:44:17Z
 
 ### NethServer/nethsecurity-docs 2 
 
--   **[feat(flashstart): added custom options for query logging and rebind](https://github.com/NethServer/nethsecurity-docs/pull/189)** by *Tbaile* - Reviewers: *cotosso* - Created at: 2025-06-26T11:48:54Z
+- :eyes:  **[feat(flashstart): added custom options for query logging and rebind](https://github.com/NethServer/nethsecurity-docs/pull/189)** by *Tbaile* - Reviewers: *None* - Created at: 2025-06-26T11:48:54Z
 -   **[Add required ports for controller usage](https://github.com/NethServer/nethsecurity-docs/pull/188)** by *francio87* - Reviewers: *cotosso* - Created at: 2025-06-25T10:45:41Z
 
 ## Organization: nethesis
-
-### nethesis/nethcti-server 1 
-
-- :eyes:  **[fix: clean up excessive log output from database connection plugin](https://github.com/nethesis/nethcti-server/pull/335)** by *edospadoni* - Reviewers: *None* - Created at: 2025-06-26T08:30:48Z
 
 ### nethesis/nethcti-app-android 1 
 
