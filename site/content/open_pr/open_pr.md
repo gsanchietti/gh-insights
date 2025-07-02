@@ -1,6 +1,6 @@
 +++
 title = 'Open Pull Requests'
-date = 2025-07-01
+date = 2025-07-02
 +++
 
 ## Organization: nethserver
@@ -10,9 +10,8 @@ date = 2025-07-01
 -   **[Refactor the port management logic by  ensuring data integrity](https://github.com/NethServer/ns8-core/pull/906)** by *stephdl* - Reviewers: *DavidePrincipi* - Created at: 2025-06-25T13:55:58Z
 -   **[fix(api): allow restore if repo is not available](https://github.com/NethServer/ns8-core/pull/904)** by *gsanchietti* - Reviewers: *DavidePrincipi* - Created at: 2025-06-18T06:43:28Z
 
-### NethServer/ns8-samba 2 
+### NethServer/ns8-samba 1 
 
-- :eyes:  **[fix: removed uppercase characters in username](https://github.com/NethServer/ns8-samba/pull/110)** by *Tbaile* - Reviewers: *None* - Created at: 2025-06-30T08:29:53Z
 -   **[Set minimum password age to 0 days](https://github.com/NethServer/ns8-samba/pull/107)** by *stephdl* - Reviewers: *DavidePrincipi* - Created at: 2025-06-13T16:03:42Z
 
 ### NethServer/nethserver-ns8-migration 1 
@@ -52,6 +51,10 @@ date = 2025-07-01
 
 - :eyes:  **[chore(main): release 1.1.6](https://github.com/NethServer/ns8-user-manager/pull/100)** by *Tbaile* - Reviewers: *None* - Created at: 2025-06-30T09:25:46Z
 
+### NethServer/nethlink 1 
+
+- :eyes:  **[fix: no bidirectional audio on first call](https://github.com/NethServer/nethlink/pull/68)** by *edospadoni* - Reviewers: *None* - Created at: 2025-07-01T09:50:38Z
+
 ## Organization: nethesis
 
 ### nethesis/nethcti-app-android 1 
@@ -75,6 +78,10 @@ date = 2025-07-01
 ### nethesis/phone-island 1 
 
 - :eyes:  **[feat: changed reference api path for middleware](https://github.com/nethesis/phone-island/pull/103)** by *tommaso-ascani* - Reviewers: *None* - Created at: 2025-06-30T14:18:42Z
+
+### nethesis/vue-components 1 
+
+-   **[feat: add NeAvatar component](https://github.com/nethesis/vue-components/pull/91)** by *andre8244* - Reviewers: *Tbaile* - Created at: 2025-06-24T09:53:18Z
 
 ### nethesis/satellite 1 
 
