@@ -1,6 +1,6 @@
 +++
 title = 'Open Pull Requests by Bots'
-date = 2025-07-02
+date = 2025-07-03
 +++
 
 ## Organization: nethserver
@@ -267,6 +267,10 @@ date = 2025-07-02
 ### nethesis/ns8-nethvoice 1 
 
 - :eyes:  **[Translations update from Hosted Weblate](https://github.com/nethesis/ns8-nethvoice/pull/486)** by *weblate* - Reviewers: *None* - Created at: 2025-06-21T04:04:11Z
+
+### nethesis/nethvoice-cti 1 
+
+- :eyes:  **[build(deps): Update phone-island dependency (automated)](https://github.com/nethesis/nethvoice-cti/pull/320)** by *github-actions[bot]* - Reviewers: *None* - Created at: 2025-07-03T00:21:06Z
 
 ### nethesis/ns8-nethvoice-proxy 1 
 

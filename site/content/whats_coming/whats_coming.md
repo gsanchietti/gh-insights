@@ -2,7 +2,7 @@
 
 title = 'To be released soon'
 
-date = 2025-07-02
+date = 2025-07-03
 
 +++
 
@@ -25,4 +25,8 @@ date = 2025-07-02
 - [NethVoice: improve accessibility in Dashboard](https://github.com/NethServer/dev/issues/7217) (#7141) by AmaLuci (Created: 2024-12-16T15:56:56Z, Updated: 2025-07-01T08:51:46Z)
 
 - [NethVoice: fix accessibility issues related to colors](https://github.com/NethServer/dev/issues/7141) (#7141) by Amygos (Created: 2024-11-15T10:46:01Z, Updated: 2025-07-01T08:51:54Z)
+
+### NethServer
+
+- [Unable to switch off options in Mail domains panel](https://github.com/NethServer/dev/issues/7320) (#7141) by Sempronto (Created: 2025-02-17T10:05:29Z, Updated: 2025-07-02T10:29:46Z)
 

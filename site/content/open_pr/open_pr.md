@@ -1,6 +1,6 @@
 +++
 title = 'Open Pull Requests'
-date = 2025-07-02
+date = 2025-07-03
 +++
 
 ## Organization: nethserver
@@ -26,6 +26,10 @@ date = 2025-07-02
 
 - :eyes:  **[Set a minimum version to 1.4.3 for postgresql upgrade](https://github.com/NethServer/ns8-webtop/pull/142)** by *stephdl* - Reviewers: *None* - Created at: 2025-06-26T16:04:47Z
 - :eyes:  **[Update to upstream release wt-5.29.0](https://github.com/NethServer/ns8-webtop/pull/141)** by *gsanchietti* - Reviewers: *None* - Created at: 2025-06-26T13:23:45Z
+
+### NethServer/python3-nethsec 1 
+
+-   **[fix(inventory): inventory couldn't be sent due to missing config](https://github.com/NethServer/python3-nethsec/pull/101)** by *Tbaile* - Reviewers: *gsanchietti* - Created at: 2025-07-02T14:47:43Z
 
 ### NethServer/ns8-piler 1 
 
@@ -57,6 +61,10 @@ date = 2025-07-02
 
 ## Organization: nethesis
 
+### nethesis/nethcti-server 1 
+
+- :eyes:  **[fix: change POST route for phone reload](https://github.com/nethesis/nethcti-server/pull/337)** by *edospadoni* - Reviewers: *None* - Created at: 2025-07-02T09:43:53Z
+
 ### nethesis/nethcti-app-android 1 
 
 -  :zzz: **[Removed old notificator](https://github.com/nethesis/nethcti-app-android/pull/30)** by *mirkopruiti* - Reviewers: *b9874e40962149eee62a8fd3bc4e709e* - Created at: 2023-08-02T09:35:24Z
@@ -65,14 +73,16 @@ date = 2025-07-02
 
 -  :zzz: **[Removed old notification service usage](https://github.com/nethesis/nethcti-app-iphone/pull/37)** by *NicolaMrAPPs* - Reviewers: *b9874e40962149eee62a8fd3bc4e709e* - Created at: 2023-08-02T09:19:30Z
 
-### nethesis/ns8-nethvoice 3 
+### nethesis/ns8-nethvoice 4 
 
+- :eyes:  **[Add New Provider MyNet (cloud1b.voicer.it)](https://github.com/nethesis/ns8-nethvoice/pull/497)** by *fabbri-marco* - Reviewers: *None* - Created at: 2025-07-02T09:51:00Z
+-   **[fix: change reload path for phones](https://github.com/nethesis/ns8-nethvoice/pull/496)** by *edospadoni* - Reviewers: *Stell0* - Created at: 2025-07-02T09:46:40Z
 - :eyes:  **[feat: added middleware component](https://github.com/nethesis/ns8-nethvoice/pull/493)** by *tommaso-ascani* - Reviewers: *None* - Created at: 2025-06-30T14:06:22Z
 -   **[fix: update metadata.json](https://github.com/nethesis/ns8-nethvoice/pull/483)** by *DavidePrincipi* - Reviewers: *andrea-marchionni* - Created at: 2025-06-19T16:14:11Z
--   **[fix: added missing streaming configuration page](https://github.com/nethesis/ns8-nethvoice/pull/462)** by *tonyco97* - Reviewers: *edospadoni* - Created at: 2025-06-03T15:08:23Z
 
-### nethesis/nethvoice-cti 1 
+### nethesis/nethvoice-cti 2 
 
+- :eyes:  **[fix: handle minor issues](https://github.com/nethesis/nethvoice-cti/pull/319)** by *tommaso-ascani* - Reviewers: *None* - Created at: 2025-07-02T12:34:42Z
 - :eyes:  **[feat: changed api path for middleware](https://github.com/nethesis/nethvoice-cti/pull/317)** by *tommaso-ascani* - Reviewers: *None* - Created at: 2025-06-30T14:27:05Z
 
 ### nethesis/phone-island 1 
