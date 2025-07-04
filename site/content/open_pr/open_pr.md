@@ -1,6 +1,6 @@
 +++
 title = 'Open Pull Requests'
-date = 2025-07-03
+date = 2025-07-04
 +++
 
 ## Organization: nethserver
@@ -18,6 +18,10 @@ date = 2025-07-03
 
 -   **[Update bind.env to webtop:1.4.3](https://github.com/NethServer/nethserver-ns8-migration/pull/120)** by *stephdl* - Reviewers: *DavidePrincipi* - Created at: 2025-06-26T15:57:40Z
 
+### NethServer/nethsecurity 1 
+
+- :eyes:  **[fix(wireguard): add dash to rule name](https://github.com/NethServer/nethsecurity/pull/1289)** by *filippocarletti* - Reviewers: *None* - Created at: 2025-07-03T11:04:56Z
+
 ### NethServer/ns8-mail 1 
 
 - :eyes:  **[Postfix LDAP mailboxes lookup](https://github.com/NethServer/ns8-mail/pull/184)** by *DavidePrincipi* - Reviewers: *None* - Created at: 2025-06-18T15:20:41Z
@@ -26,10 +30,6 @@ date = 2025-07-03
 
 - :eyes:  **[Set a minimum version to 1.4.3 for postgresql upgrade](https://github.com/NethServer/ns8-webtop/pull/142)** by *stephdl* - Reviewers: *None* - Created at: 2025-06-26T16:04:47Z
 - :eyes:  **[Update to upstream release wt-5.29.0](https://github.com/NethServer/ns8-webtop/pull/141)** by *gsanchietti* - Reviewers: *None* - Created at: 2025-06-26T13:23:45Z
-
-### NethServer/python3-nethsec 1 
-
--   **[fix(inventory): inventory couldn't be sent due to missing config](https://github.com/NethServer/python3-nethsec/pull/101)** by *Tbaile* - Reviewers: *gsanchietti* - Created at: 2025-07-02T14:47:43Z
 
 ### NethServer/ns8-piler 1 
 
@@ -45,11 +45,11 @@ date = 2025-07-03
 
 ### NethServer/nethsecurity-ui 1 
 
--   **[chore!: upgrade tailwindcss to v4](https://github.com/NethServer/nethsecurity-ui/pull/570)** by *andre8244* - Reviewers: *Tbaile* - Created at: 2025-06-03T08:44:17Z
+-  :zzz: **[chore!: upgrade tailwindcss to v4](https://github.com/NethServer/nethsecurity-ui/pull/570)** by *andre8244* - Reviewers: *Tbaile* - Created at: 2025-06-03T08:44:17Z
 
 ### NethServer/nethsecurity-docs 1 
 
--   **[Add required ports for controller usage](https://github.com/NethServer/nethsecurity-docs/pull/188)** by *francio87* - Reviewers: *cotosso* - Created at: 2025-06-25T10:45:41Z
+- :eyes:  **[Add required ports for controller usage](https://github.com/NethServer/nethsecurity-docs/pull/188)** by *francio87* - Reviewers: *None* - Created at: 2025-06-25T10:45:41Z
 
 ### NethServer/ns8-user-manager 1 
 
@@ -61,10 +61,6 @@ date = 2025-07-03
 
 ## Organization: nethesis
 
-### nethesis/nethcti-server 1 
-
-- :eyes:  **[fix: change POST route for phone reload](https://github.com/nethesis/nethcti-server/pull/337)** by *edospadoni* - Reviewers: *None* - Created at: 2025-07-02T09:43:53Z
-
 ### nethesis/nethcti-app-android 1 
 
 -  :zzz: **[Removed old notificator](https://github.com/nethesis/nethcti-app-android/pull/30)** by *mirkopruiti* - Reviewers: *b9874e40962149eee62a8fd3bc4e709e* - Created at: 2023-08-02T09:35:24Z
@@ -73,16 +69,14 @@ date = 2025-07-03
 
 -  :zzz: **[Removed old notification service usage](https://github.com/nethesis/nethcti-app-iphone/pull/37)** by *NicolaMrAPPs* - Reviewers: *b9874e40962149eee62a8fd3bc4e709e* - Created at: 2023-08-02T09:19:30Z
 
-### nethesis/ns8-nethvoice 4 
+### nethesis/ns8-nethvoice 3 
 
 - :eyes:  **[Add New Provider MyNet (cloud1b.voicer.it)](https://github.com/nethesis/ns8-nethvoice/pull/497)** by *fabbri-marco* - Reviewers: *None* - Created at: 2025-07-02T09:51:00Z
--   **[fix: change reload path for phones](https://github.com/nethesis/ns8-nethvoice/pull/496)** by *edospadoni* - Reviewers: *Stell0* - Created at: 2025-07-02T09:46:40Z
 - :eyes:  **[feat: added middleware component](https://github.com/nethesis/ns8-nethvoice/pull/493)** by *tommaso-ascani* - Reviewers: *None* - Created at: 2025-06-30T14:06:22Z
 -   **[fix: update metadata.json](https://github.com/nethesis/ns8-nethvoice/pull/483)** by *DavidePrincipi* - Reviewers: *andrea-marchionni* - Created at: 2025-06-19T16:14:11Z
 
-### nethesis/nethvoice-cti 2 
+### nethesis/nethvoice-cti 1 
 
-- :eyes:  **[fix: handle minor issues](https://github.com/nethesis/nethvoice-cti/pull/319)** by *tommaso-ascani* - Reviewers: *None* - Created at: 2025-07-02T12:34:42Z
 - :eyes:  **[feat: changed api path for middleware](https://github.com/nethesis/nethvoice-cti/pull/317)** by *tommaso-ascani* - Reviewers: *None* - Created at: 2025-06-30T14:27:05Z
 
 ### nethesis/phone-island 1 
@@ -91,7 +85,7 @@ date = 2025-07-03
 
 ### nethesis/vue-components 1 
 
--   **[feat: add NeAvatar component](https://github.com/nethesis/vue-components/pull/91)** by *andre8244* - Reviewers: *Tbaile* - Created at: 2025-06-24T09:53:18Z
+- :eyes:  **[feat: add NeAvatar component](https://github.com/nethesis/vue-components/pull/91)** by *andre8244* - Reviewers: *None* - Created at: 2025-06-24T09:53:18Z
 
 ### nethesis/satellite 1 
 

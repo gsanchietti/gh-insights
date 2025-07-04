@@ -1,6 +1,6 @@
 +++
 title = 'Open Pull Requests by Bots'
-date = 2025-07-03
+date = 2025-07-04
 +++
 
 ## Organization: nethserver
@@ -136,7 +136,7 @@ date = 2025-07-03
 ### NethServer/ns8-webtop 3 
 
 - :eyes:  **[Translations update from Hosted Weblate](https://github.com/NethServer/ns8-webtop/pull/138)** by *weblate* - Reviewers: *None* - Created at: 2025-06-19T14:42:39Z
-- :eyes:  **[chore(deps): update mlocati/php-extension-installer docker tag to v2.8.2](https://github.com/NethServer/ns8-webtop/pull/130)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-06-04T12:42:44Z
+- :eyes:  **[chore(deps): update mlocati/php-extension-installer docker tag to v2.8.4](https://github.com/NethServer/ns8-webtop/pull/130)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-06-04T12:42:44Z
 - :eyes: :zzz: **[chore(deps): update ghcr.io/marketsquare/robotframework-browser/rfbrowser-stable docker tag to v19.6.1](https://github.com/NethServer/ns8-webtop/pull/99)** by *renovate[bot]* - Reviewers: *None* - Created at: 2024-12-19T16:40:00Z
 
 ### NethServer/ns8-piler 2 
@@ -230,19 +230,12 @@ date = 2025-07-03
 
 ### NethServer/ns8-dependencytrack 4 
 
-- :eyes:  **[chore(deps): update aquasec/trivy docker tag to v0.64.0](https://github.com/NethServer/ns8-dependencytrack/pull/23)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-07-01T13:28:53Z
+- :eyes:  **[chore(deps): update aquasec/trivy docker tag to v0.64.1](https://github.com/NethServer/ns8-dependencytrack/pull/23)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-07-01T13:28:53Z
 - :eyes:  **[chore(deps): update mcr.microsoft.com/devcontainers/javascript-node docker tag to v1](https://github.com/NethServer/ns8-dependencytrack/pull/17)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-06-16T19:10:35Z
 - :eyes:  **[chore(deps): update nginx docker tag to v1.29.0](https://github.com/NethServer/ns8-dependencytrack/pull/15)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-06-16T14:27:23Z
 - :eyes:  **[chore(deps): update ghcr.io/marketsquare/robotframework-browser/rfbrowser-stable docker tag to v10.1.0](https://github.com/NethServer/ns8-dependencytrack/pull/12)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-06-16T08:02:25Z
 
 ## Organization: nethesis
-
-### nethesis/nethcti-server 4 
-
-- :eyes: :zzz: **[Bump cookie and socket.io in /root/usr/lib/node/nethcti-server](https://github.com/nethesis/nethcti-server/pull/333)** by *dependabot[bot]* - Reviewers: *None* - Created at: 2025-05-21T07:42:47Z
-- :eyes: :zzz: **[Bump braces and nodemon in /root/usr/lib/node/nethcti-server](https://github.com/nethesis/nethcti-server/pull/331)** by *dependabot[bot]* - Reviewers: *None* - Created at: 2025-05-21T07:42:41Z
-- :eyes: :zzz: **[Bump ejs from 2.5.6 to 3.1.10 in /root/usr/lib/node/nethcti-server](https://github.com/nethesis/nethcti-server/pull/329)** by *dependabot[bot]* - Reviewers: *None* - Created at: 2025-05-21T07:42:38Z
-- :eyes: :zzz: **[Bump mysql2 from 2.3.3 to 3.9.8 in /root/usr/lib/node/nethcti-server](https://github.com/nethesis/nethcti-server/pull/330)** by *dependabot[bot]* - Reviewers: *None* - Created at: 2025-05-21T07:42:38Z
 
 ### nethesis/nethvoice-wizard-restapi 1 
 
@@ -268,16 +261,13 @@ date = 2025-07-03
 
 - :eyes:  **[Translations update from Hosted Weblate](https://github.com/nethesis/ns8-nethvoice/pull/486)** by *weblate* - Reviewers: *None* - Created at: 2025-06-21T04:04:11Z
 
-### nethesis/nethvoice-cti 1 
-
-- :eyes:  **[build(deps): Update phone-island dependency (automated)](https://github.com/nethesis/nethvoice-cti/pull/320)** by *github-actions[bot]* - Reviewers: *None* - Created at: 2025-07-03T00:21:06Z
-
 ### nethesis/ns8-nethvoice-proxy 1 
 
 - :eyes:  **[build(deps): bump http-cache-semantics from 4.1.0 to 4.2.0 in /ui](https://github.com/nethesis/ns8-nethvoice-proxy/pull/71)** by *dependabot[bot]* - Reviewers: *None* - Created at: 2025-06-30T12:12:50Z
 
-### nethesis/parceler 1 
+### nethesis/parceler 2 
 
+- :eyes:  **[chore(deps): update php docker tag to v8.4.10](https://github.com/nethesis/parceler/pull/88)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-07-04T01:47:53Z
 - :eyes:  **[chore(deps): update dependency vite to v7](https://github.com/nethesis/parceler/pull/84)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-06-24T11:06:15Z
 
 
