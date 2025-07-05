@@ -1,6 +1,6 @@
 +++
 title = 'Open Pull Requests'
-date = 2025-07-04
+date = 2025-07-05
 +++
 
 ## Organization: nethserver
@@ -22,9 +22,9 @@ date = 2025-07-04
 
 - :eyes:  **[fix(wireguard): add dash to rule name](https://github.com/NethServer/nethsecurity/pull/1289)** by *filippocarletti* - Reviewers: *None* - Created at: 2025-07-03T11:04:56Z
 
-### NethServer/ns8-mail 1 
+### NethServer/nethsecurity-controller 1 
 
-- :eyes:  **[Postfix LDAP mailboxes lookup](https://github.com/NethServer/ns8-mail/pull/184)** by *DavidePrincipi* - Reviewers: *None* - Created at: 2025-06-18T15:20:41Z
+-   **[Database refactor](https://github.com/NethServer/nethsecurity-controller/pull/123)** by *gsanchietti* - Reviewers: *edospadoni, Tbaile* - Created at: 2025-06-18T14:18:12Z
 
 ### NethServer/ns8-webtop 2 
 
@@ -38,7 +38,7 @@ date = 2025-07-04
 ### NethServer/ns8-docs 5 
 
 -   **[Update nethvoice.rst](https://github.com/NethServer/ns8-docs/pull/174)** by *margit86* - Reviewers: *Stell0* - Created at: 2025-06-25T12:41:13Z
--   **[fix: new rules for "Accept unknown recipients"](https://github.com/NethServer/ns8-docs/pull/173)** by *DavidePrincipi* - Reviewers: *filippocarletti* - Created at: 2025-06-18T15:42:08Z
+-   **[Mail catch-all and other fixes](https://github.com/NethServer/ns8-docs/pull/173)** by *DavidePrincipi* - Reviewers: *filippocarletti, lucagasparini* - Created at: 2025-06-18T15:42:08Z
 - :eyes: :zzz: **[fix(metrics): remove language selection](https://github.com/NethServer/ns8-docs/pull/167)** by *gsanchietti* - Reviewers: *None* - Created at: 2025-05-26T13:20:09Z
 - :eyes: :zzz: **[add Yealink T7X T8X AX](https://github.com/NethServer/ns8-docs/pull/165)** by *andrea-marchionni* - Reviewers: *None* - Created at: 2025-05-16T16:03:23Z
 - :eyes: :zzz: **[Update note about IP change to clarify need for correct reconfiguration](https://github.com/NethServer/ns8-docs/pull/164)** by *IgonetIT* - Reviewers: *None* - Created at: 2025-05-08T09:20:48Z
@@ -69,14 +69,16 @@ date = 2025-07-04
 
 -  :zzz: **[Removed old notification service usage](https://github.com/nethesis/nethcti-app-iphone/pull/37)** by *NicolaMrAPPs* - Reviewers: *b9874e40962149eee62a8fd3bc4e709e* - Created at: 2023-08-02T09:19:30Z
 
-### nethesis/ns8-nethvoice 3 
+### nethesis/ns8-nethvoice 4 
 
+- :eyes:  **[fix(hotel): avoid empty room checkin](https://github.com/nethesis/ns8-nethvoice/pull/502)** by *Stell0* - Reviewers: *None* - Created at: 2025-07-04T08:15:37Z
 - :eyes:  **[Add New Provider MyNet (cloud1b.voicer.it)](https://github.com/nethesis/ns8-nethvoice/pull/497)** by *fabbri-marco* - Reviewers: *None* - Created at: 2025-07-02T09:51:00Z
 - :eyes:  **[feat: added middleware component](https://github.com/nethesis/ns8-nethvoice/pull/493)** by *tommaso-ascani* - Reviewers: *None* - Created at: 2025-06-30T14:06:22Z
 -   **[fix: update metadata.json](https://github.com/nethesis/ns8-nethvoice/pull/483)** by *DavidePrincipi* - Reviewers: *andrea-marchionni* - Created at: 2025-06-19T16:14:11Z
 
-### nethesis/nethvoice-cti 1 
+### nethesis/nethvoice-cti 2 
 
+-   **[fix: avoid infinite loop in DropDown component](https://github.com/nethesis/nethvoice-cti/pull/322)** by *edospadoni* - Reviewers: *tommaso-ascani* - Created at: 2025-07-04T12:19:07Z
 - :eyes:  **[feat: changed api path for middleware](https://github.com/nethesis/nethvoice-cti/pull/317)** by *tommaso-ascani* - Reviewers: *None* - Created at: 2025-06-30T14:27:05Z
 
 ### nethesis/phone-island 1 
@@ -86,9 +88,5 @@ date = 2025-07-04
 ### nethesis/vue-components 1 
 
 - :eyes:  **[feat: add NeAvatar component](https://github.com/nethesis/vue-components/pull/91)** by *andre8244* - Reviewers: *None* - Created at: 2025-06-24T09:53:18Z
-
-### nethesis/satellite 1 
-
--   **[feature(build): Add Containerfile and git workflow](https://github.com/nethesis/satellite/pull/1)** by *Stell0* - Reviewers: *Amygos* - Created at: 2025-06-23T07:59:41Z
 
 
