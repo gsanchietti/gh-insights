@@ -1,6 +1,6 @@
 +++
 title = 'Open Pull Requests'
-date = 2025-07-06
+date = 2025-07-07
 +++
 
 ## Organization: nethserver
@@ -38,7 +38,7 @@ date = 2025-07-06
 ### NethServer/ns8-docs 5 
 
 -   **[Update nethvoice.rst](https://github.com/NethServer/ns8-docs/pull/174)** by *margit86* - Reviewers: *Stell0* - Created at: 2025-06-25T12:41:13Z
--   **[Mail catch-all and other fixes](https://github.com/NethServer/ns8-docs/pull/173)** by *DavidePrincipi* - Reviewers: *filippocarletti, lucagasparini* - Created at: 2025-06-18T15:42:08Z
+-   **[Mail catch-all and other fixes](https://github.com/NethServer/ns8-docs/pull/173)** by *DavidePrincipi* - Reviewers: *filippocarletti* - Created at: 2025-06-18T15:42:08Z
 - :eyes: :zzz: **[fix(metrics): remove language selection](https://github.com/NethServer/ns8-docs/pull/167)** by *gsanchietti* - Reviewers: *None* - Created at: 2025-05-26T13:20:09Z
 - :eyes: :zzz: **[add Yealink T7X T8X AX](https://github.com/NethServer/ns8-docs/pull/165)** by *andrea-marchionni* - Reviewers: *None* - Created at: 2025-05-16T16:03:23Z
 - :eyes: :zzz: **[Update note about IP change to clarify need for correct reconfiguration](https://github.com/NethServer/ns8-docs/pull/164)** by *IgonetIT* - Reviewers: *None* - Created at: 2025-05-08T09:20:48Z

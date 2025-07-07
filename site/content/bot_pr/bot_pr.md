@@ -1,6 +1,6 @@
 +++
 title = 'Open Pull Requests by Bots'
-date = 2025-07-06
+date = 2025-07-07
 +++
 
 ## Organization: nethserver
@@ -96,8 +96,10 @@ date = 2025-07-06
 
 - :eyes:  **[chore: bump ns packages (automatic)](https://github.com/NethServer/nethsecurity/pull/1271)** by *github-actions[bot]* - Reviewers: *None* - Created at: 2025-06-16T14:33:17Z
 
-### NethServer/nethsecurity-controller 1 
+### NethServer/nethsecurity-controller 3 
 
+- :eyes:  **[chore(deps): update docker.io/traefik docker tag to v3](https://github.com/NethServer/nethsecurity-controller/pull/131)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-07-07T03:10:24Z
+- :eyes:  **[chore(deps): update aquasecurity/trivy-action action to v0.32.0](https://github.com/NethServer/nethsecurity-controller/pull/130)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-07-07T03:10:20Z
 - :eyes: :zzz: **[chore(deps): update docker.io/alpine docker tag to v3.21.3](https://github.com/NethServer/nethsecurity-controller/pull/92)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-03-25T09:07:13Z
 
 ### NethServer/ns8-mail 3 
