@@ -2,9 +2,19 @@
 
 title = 'To be released soon'
 
-date = 2025-07-07
+date = 2025-07-08
 
 +++
+
+### NethServer
+
+- [Dovecot startup failure with space in spam folder name](https://github.com/NethServer/dev/issues/7543) (#7141) by lucagasparini (Created: 2025-07-07T06:44:15Z, Updated: 2025-07-07T14:32:22Z)
+
+- [Invalid syntax accepted in Mail address creation](https://github.com/NethServer/dev/issues/7533) (#7141) by mrmarkuz (Created: 2025-06-30T08:20:02Z, Updated: 2025-07-07T15:02:53Z)
+
+- [Relay rules for sender are not honored in some cases](https://github.com/NethServer/dev/issues/7433) (#7141) by lucagasparini (Created: 2025-04-30T08:44:38Z, Updated: 2025-07-07T14:52:11Z)
+
+- [Unable to switch off options in Mail domains panel](https://github.com/NethServer/dev/issues/7320) (#7141) by Sempronto (Created: 2025-02-17T10:05:29Z, Updated: 2025-07-02T10:29:46Z)
 
 ### NethServer
 
@@ -18,6 +28,8 @@ date = 2025-07-07
 
 - [Nethvoice Proxy: Compatibility issue with initial SDP Offer using SRTP from NethVoice Proxy](https://github.com/NethServer/dev/issues/7524) (#7141) by margit86 (Created: 2025-06-24T13:01:20Z, Updated: 2025-07-04T06:14:11Z)
 
+- [nethvoice-cti UI service becomes unresponsive](https://github.com/NethServer/dev/issues/7517) (#7141) by gsanchietti (Created: 2025-06-20T06:22:05Z, Updated: 2025-07-07T16:11:32Z)
+
 - [NethLink: Update download opens inside the app instead of the default browser](https://github.com/NethServer/dev/issues/7511) (#7141) by mgarra (Created: 2025-06-18T11:06:19Z, Updated: 2025-06-20T16:17:43Z)
 
 - [NethVoice: Missing trunk creation details when editing a VoIP trunk](https://github.com/NethServer/dev/issues/7502) (#7141) by andrea-marchionni (Created: 2025-06-12T14:18:22Z, Updated: 2025-07-03T13:03:12Z)
@@ -25,6 +37,8 @@ date = 2025-07-07
 - [NethCTI server call obsolete API for phone reload](https://github.com/NethServer/dev/issues/7499) (#7141) by Stell0 (Created: 2025-06-11T10:10:40Z, Updated: 2025-07-03T14:56:31Z)
 
 - [NethVoice CTI: Auto pause does not trigger with Forwarding or DND states in queue](https://github.com/NethServer/dev/issues/7497) (#7141) by mgarra (Created: 2025-06-09T15:47:12Z, Updated: 2025-07-01T16:33:04Z)
+
+- [Nethlink: No bidirectional audio on first call after system startup](https://github.com/NethServer/dev/issues/7492) (#7141) by margit86 (Created: 2025-06-04T10:59:19Z, Updated: 2025-07-07T16:07:08Z)
 
 - [NethVoice: Add New VoIP Provider NetoIP to Configuration Wizard](https://github.com/NethServer/dev/issues/7471) (#7141) by margit86 (Created: 2025-05-19T13:54:43Z, Updated: 2025-06-11T15:20:39Z)
 
@@ -39,10 +53,4 @@ date = 2025-07-07
 - [NethVoice: improve accessibility in Dashboard](https://github.com/NethServer/dev/issues/7217) (#7141) by AmaLuci (Created: 2024-12-16T15:56:56Z, Updated: 2025-07-01T08:51:46Z)
 
 - [NethVoice: fix accessibility issues related to colors](https://github.com/NethServer/dev/issues/7141) (#7141) by Amygos (Created: 2024-11-15T10:46:01Z, Updated: 2025-07-01T08:51:54Z)
-
-### NethServer
-
-- [Invalid syntax accepted in Mail address creation](https://github.com/NethServer/dev/issues/7533) (#7141) by mrmarkuz (Created: 2025-06-30T08:20:02Z, Updated: 2025-07-03T07:02:55Z)
-
-- [Unable to switch off options in Mail domains panel](https://github.com/NethServer/dev/issues/7320) (#7141) by Sempronto (Created: 2025-02-17T10:05:29Z, Updated: 2025-07-02T10:29:46Z)
 

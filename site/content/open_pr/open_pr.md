@@ -1,6 +1,6 @@
 +++
 title = 'Open Pull Requests'
-date = 2025-07-07
+date = 2025-07-08
 +++
 
 ## Organization: nethserver
@@ -24,12 +24,12 @@ date = 2025-07-07
 
 ### NethServer/nethsecurity-controller 1 
 
--   **[Database refactor](https://github.com/NethServer/nethsecurity-controller/pull/123)** by *gsanchietti* - Reviewers: *edospadoni, Tbaile* - Created at: 2025-06-18T14:18:12Z
+-   **[Database refactor](https://github.com/NethServer/nethsecurity-controller/pull/123)** by *gsanchietti* - Reviewers: *Tbaile* - Created at: 2025-06-18T14:18:12Z
 
 ### NethServer/ns8-webtop 2 
 
 - :eyes:  **[Set a minimum version to 1.4.3 for postgresql upgrade](https://github.com/NethServer/ns8-webtop/pull/142)** by *stephdl* - Reviewers: *None* - Created at: 2025-06-26T16:04:47Z
-- :eyes:  **[Update to upstream release wt-5.29.0](https://github.com/NethServer/ns8-webtop/pull/141)** by *gsanchietti* - Reviewers: *None* - Created at: 2025-06-26T13:23:45Z
+- :eyes:  **[Update to upstream release wt-5.29.0-next](https://github.com/NethServer/ns8-webtop/pull/141)** by *gsanchietti* - Reviewers: *None* - Created at: 2025-06-26T13:23:45Z
 
 ### NethServer/ns8-piler 1 
 
@@ -78,7 +78,7 @@ date = 2025-07-07
 
 ### nethesis/nethvoice-cti 2 
 
--   **[fix: avoid infinite loop in DropDown component](https://github.com/nethesis/nethvoice-cti/pull/322)** by *edospadoni* - Reviewers: *tommaso-ascani* - Created at: 2025-07-04T12:19:07Z
+- :eyes:  **[fix: update customer card routing](https://github.com/nethesis/nethvoice-cti/pull/323)** by *edospadoni* - Reviewers: *None* - Created at: 2025-07-07T11:35:38Z
 - :eyes:  **[feat: changed api path for middleware](https://github.com/nethesis/nethvoice-cti/pull/317)** by *tommaso-ascani* - Reviewers: *None* - Created at: 2025-06-30T14:27:05Z
 
 ### nethesis/phone-island 1 
