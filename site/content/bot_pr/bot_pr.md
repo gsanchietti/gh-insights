@@ -1,6 +1,6 @@
 +++
 title = 'Open Pull Requests by Bots'
-date = 2025-07-08
+date = 2025-07-09
 +++
 
 ## Organization: nethserver
@@ -272,9 +272,11 @@ date = 2025-07-08
 - :eyes:  **[chore(deps): update dependency grunt to v1.5.3 [security]](https://github.com/nethesis/ns8-nethvoice/pull/504)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-07-04T12:08:04Z
 - :eyes:  **[Translations update from Hosted Weblate](https://github.com/nethesis/ns8-nethvoice/pull/486)** by *weblate* - Reviewers: *None* - Created at: 2025-06-21T04:04:11Z
 
-### nethesis/ns8-nethvoice-proxy 4 
+### nethesis/ns8-nethvoice-proxy 6 
 
-- :eyes:  **[chore(deps): update actions/labeler action to v5](https://github.com/nethesis/ns8-nethvoice-proxy/pull/74)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-07-04T12:50:52Z
+- :eyes:  **[chore(deps): update redis docker tag to v8](https://github.com/nethesis/ns8-nethvoice-proxy/pull/78)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-07-08T11:53:47Z
+- :eyes:  **[chore(deps): update postgres docker tag to v17](https://github.com/nethesis/ns8-nethvoice-proxy/pull/76)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-07-08T07:28:42Z
+- :eyes:  **[chore(deps): update ghcr.io/marketsquare/robotframework-browser/rfbrowser-stable docker tag to v19](https://github.com/nethesis/ns8-nethvoice-proxy/pull/75)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-07-08T07:28:39Z
 - :eyes:  **[chore(deps): update redis docker tag to v7.4](https://github.com/nethesis/ns8-nethvoice-proxy/pull/73)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-07-04T12:35:09Z
 - :eyes:  **[chore(deps): update ghcr.io/marketsquare/robotframework-browser/rfbrowser-stable docker tag to v10.1.0](https://github.com/nethesis/ns8-nethvoice-proxy/pull/72)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-07-04T12:35:05Z
 - :eyes:  **[build(deps): bump http-cache-semantics from 4.1.0 to 4.2.0 in /ui](https://github.com/nethesis/ns8-nethvoice-proxy/pull/71)** by *dependabot[bot]* - Reviewers: *None* - Created at: 2025-06-30T12:12:50Z
