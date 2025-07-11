@@ -1,6 +1,6 @@
 +++
 title = 'Open Pull Requests'
-date = 2025-07-10
+date = 2025-07-11
 +++
 
 ## Organization: nethserver
@@ -27,6 +27,10 @@ date = 2025-07-10
 
 -   **[Database refactor](https://github.com/NethServer/nethsecurity-controller/pull/123)** by *gsanchietti* - Reviewers: *Tbaile* - Created at: 2025-06-18T14:18:12Z
 
+### NethServer/ns8-nethsecurity-controller 1 
+
+-   **[Database refactor](https://github.com/NethServer/ns8-nethsecurity-controller/pull/89)** by *gsanchietti* - Reviewers: *Tbaile* - Created at: 2025-06-25T07:06:10Z
+
 ### NethServer/ns8-webtop 1 
 
 - :eyes:  **[Set a minimum version to 1.4.3 for postgresql upgrade](https://github.com/NethServer/ns8-webtop/pull/142)** by *stephdl* - Reviewers: *None* - Created at: 2025-06-26T16:04:47Z
@@ -44,8 +48,8 @@ date = 2025-07-10
 
 ### NethServer/nethsecurity-ui 3 
 
--   **[fix(controller): correct Italian translation](https://github.com/NethServer/nethsecurity-ui/pull/592)** by *gsanchietti* - Reviewers: *andre8244* - Created at: 2025-07-09T15:16:49Z
--   **[Fixes for controller refactor](https://github.com/NethServer/nethsecurity-ui/pull/591)** by *gsanchietti* - Reviewers: *andre8244, Tbaile* - Created at: 2025-07-04T09:52:40Z
+- :eyes:  **[chore(main): release 1.28.4](https://github.com/NethServer/nethsecurity-ui/pull/593)** by *Tbaile* - Reviewers: *None* - Created at: 2025-07-10T07:06:27Z
+-   **[Fixes for controller refactor](https://github.com/NethServer/nethsecurity-ui/pull/591)** by *gsanchietti* - Reviewers: *Tbaile* - Created at: 2025-07-04T09:52:40Z
 -  :zzz: **[chore!: upgrade tailwindcss to v4](https://github.com/NethServer/nethsecurity-ui/pull/570)** by *andre8244* - Reviewers: *Tbaile* - Created at: 2025-06-03T08:44:17Z
 
 ### NethServer/ns8-user-manager 1 
@@ -62,16 +66,17 @@ date = 2025-07-10
 
 -  :zzz: **[Removed old notification service usage](https://github.com/nethesis/nethcti-app-iphone/pull/37)** by *NicolaMrAPPs* - Reviewers: *b9874e40962149eee62a8fd3bc4e709e* - Created at: 2023-08-02T09:19:30Z
 
-### nethesis/ns8-nethvoice 4 
+### nethesis/ns8-nethvoice 6 
 
+- :eyes:  **[chore(freepbx): import nethserver-phonebook-mysql](https://github.com/nethesis/ns8-nethvoice/pull/516)** by *Amygos* - Reviewers: *None* - Created at: 2025-07-10T10:52:29Z
 - :eyes:  **[fix(hotel): avoid empty room checkin](https://github.com/nethesis/ns8-nethvoice/pull/502)** by *Stell0* - Reviewers: *None* - Created at: 2025-07-04T08:15:37Z
 - :eyes:  **[Add New Provider MyNet (cloud1b.voicer.it)](https://github.com/nethesis/ns8-nethvoice/pull/497)** by *fabbri-marco* - Reviewers: *None* - Created at: 2025-07-02T09:51:00Z
 - :eyes:  **[feat: added middleware component](https://github.com/nethesis/ns8-nethvoice/pull/493)** by *tommaso-ascani* - Reviewers: *None* - Created at: 2025-06-30T14:06:22Z
 -   **[fix: update metadata.json](https://github.com/nethesis/ns8-nethvoice/pull/483)** by *DavidePrincipi* - Reviewers: *andrea-marchionni* - Created at: 2025-06-19T16:14:11Z
+- :eyes: :zzz: **[feature(AI): Voice recognition backend ](https://github.com/nethesis/ns8-nethvoice/pull/464)** by *Stell0* - Reviewers: *None* - Created at: 2025-06-05T10:03:14Z
 
-### nethesis/nethvoice-cti 2 
+### nethesis/nethvoice-cti 1 
 
-- :eyes:  **[fix: adjust layout and spacing in CompactOperatorCard component](https://github.com/nethesis/nethvoice-cti/pull/324)** by *edospadoni* - Reviewers: *None* - Created at: 2025-07-09T14:58:34Z
 - :eyes:  **[feat: changed api path for middleware](https://github.com/nethesis/nethvoice-cti/pull/317)** by *tommaso-ascani* - Reviewers: *None* - Created at: 2025-06-30T14:27:05Z
 
 ### nethesis/phone-island 1 
