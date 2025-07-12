@@ -1,6 +1,6 @@
 +++
 title = 'Need testing (6)'
-date = 2025-07-11
+date = 2025-07-12
 +++
 
 ## NethVoice
@@ -10,6 +10,6 @@ date = 2025-07-11
 - :point_right: **[NethVoice CTI: Failure to open customer card](https://github.com/NethServer/dev/issues/7531)** (#7481) by *fabbri-marco* (Created: 2025-06-27, Updated: 2025-07-08T12:25:21Z)
 
 ## NethServer
-- :point_right: **[WebTop 5.29.1](https://github.com/NethServer/dev/issues/7525)** (#7481) by *lucagasparini* (Created: 2025-06-24, Updated: 2025-07-10T14:31:33Z)
+- :point_right: **[WebTop 5.29.1](https://github.com/NethServer/dev/issues/7525)** (#7481) by *lucagasparini* (Created: 2025-06-24, Updated: 2025-07-11T08:27:12Z)
 - :point_right: **[Crowdsec: SIP bruteforce traffic not banned](https://github.com/NethServer/dev/issues/7481)** (#7481) by *nrauso* (Created: 2025-05-26, Updated: 2025-07-07T14:53:54Z)
 

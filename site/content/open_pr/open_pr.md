@@ -1,6 +1,6 @@
 +++
 title = 'Open Pull Requests'
-date = 2025-07-11
+date = 2025-07-12
 +++
 
 ## Organization: nethserver
@@ -31,8 +31,9 @@ date = 2025-07-11
 
 -   **[Database refactor](https://github.com/NethServer/ns8-nethsecurity-controller/pull/89)** by *gsanchietti* - Reviewers: *Tbaile* - Created at: 2025-06-25T07:06:10Z
 
-### NethServer/ns8-webtop 1 
+### NethServer/ns8-webtop 2 
 
+- :eyes:  **[Reapply "feat: Update Tomcat and Postgres images (#134)"](https://github.com/NethServer/ns8-webtop/pull/145)** by *Amygos* - Reviewers: *None* - Created at: 2025-07-11T10:26:24Z
 - :eyes:  **[Set a minimum version to 1.4.3 for postgresql upgrade](https://github.com/NethServer/ns8-webtop/pull/142)** by *stephdl* - Reviewers: *None* - Created at: 2025-06-26T16:04:47Z
 
 ### NethServer/ns8-piler 1 
