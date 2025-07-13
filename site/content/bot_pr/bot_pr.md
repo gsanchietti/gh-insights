@@ -1,6 +1,6 @@
 +++
 title = 'Open Pull Requests by Bots'
-date = 2025-07-12
+date = 2025-07-13
 +++
 
 ## Organization: nethserver
@@ -67,7 +67,7 @@ date = 2025-07-12
 ### NethServer/ns8-samba 3 
 
 - :eyes:  **[chore(deps): update timescale/timescaledb docker tag to v2.21.0](https://github.com/NethServer/ns8-samba/pull/112)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-07-09T23:13:16Z
-- :eyes:  **[chore(deps): update dependency nethserver/ns8-user-manager to v1.1.5](https://github.com/NethServer/ns8-samba/pull/106)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-06-12T16:27:31Z
+- :eyes: :zzz: **[chore(deps): update dependency nethserver/ns8-user-manager to v1.1.5](https://github.com/NethServer/ns8-samba/pull/106)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-06-12T16:27:31Z
 - :eyes: :zzz: **[chore(deps): update ghcr.io/marketsquare/robotframework-browser/rfbrowser-stable docker tag to v19.6.2](https://github.com/NethServer/ns8-samba/pull/77)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-02-21T09:59:59Z
 
 ### NethServer/ns8-loki 3 
