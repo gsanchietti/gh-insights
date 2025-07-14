@@ -1,6 +1,6 @@
 +++
 title = 'Open Pull Requests'
-date = 2025-07-13
+date = 2025-07-14
 +++
 
 ## Organization: nethserver
@@ -12,7 +12,7 @@ date = 2025-07-13
 
 ### NethServer/ns8-samba 1 
 
--   **[Set minimum password age to 0 days](https://github.com/NethServer/ns8-samba/pull/107)** by *stephdl* - Reviewers: *DavidePrincipi* - Created at: 2025-06-13T16:03:42Z
+-  :zzz: **[Set minimum password age to 0 days](https://github.com/NethServer/ns8-samba/pull/107)** by *stephdl* - Reviewers: *DavidePrincipi* - Created at: 2025-06-13T16:03:42Z
 
 ### NethServer/nethserver-ns8-migration 1 
 

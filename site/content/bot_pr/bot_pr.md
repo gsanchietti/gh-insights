@@ -1,6 +1,6 @@
 +++
 title = 'Open Pull Requests by Bots'
-date = 2025-07-13
+date = 2025-07-14
 +++
 
 ## Organization: nethserver
@@ -101,8 +101,13 @@ date = 2025-07-13
 
 - :eyes:  **[chore: bump ns packages (automatic)](https://github.com/NethServer/nethsecurity/pull/1271)** by *github-actions[bot]* - Reviewers: *None* - Created at: 2025-06-16T14:33:17Z
 
-### NethServer/nethsecurity-controller 2 
+### NethServer/nethsecurity-controller 7 
 
+- :eyes:  **[fix(deps): update module golang.org/x/crypto to v0.40.0](https://github.com/NethServer/nethsecurity-controller/pull/136)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-07-14T02:48:47Z
+- :eyes:  **[fix(deps): update module github.com/oschwald/geoip2-golang to v1.13.0](https://github.com/NethServer/nethsecurity-controller/pull/135)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-07-14T02:48:41Z
+- :eyes:  **[chore(deps): update docker.io/traefik docker tag to v2.11.27](https://github.com/NethServer/nethsecurity-controller/pull/134)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-07-14T02:48:24Z
+- :eyes:  **[chore(deps): update docker.io/golang docker tag to v1.24.5](https://github.com/NethServer/nethsecurity-controller/pull/133)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-07-14T02:48:20Z
+- :eyes:  **[chore(deps): update dependency go to v1.24.5](https://github.com/NethServer/nethsecurity-controller/pull/132)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-07-14T02:48:16Z
 - :eyes:  **[chore(deps): update docker.io/traefik docker tag to v3](https://github.com/NethServer/nethsecurity-controller/pull/131)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-07-07T03:10:24Z
 - :eyes: :zzz: **[chore(deps): update docker.io/alpine docker tag to v3.21.3](https://github.com/NethServer/nethsecurity-controller/pull/92)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-03-25T09:07:13Z
 
