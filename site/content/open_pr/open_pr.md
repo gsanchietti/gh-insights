@@ -1,6 +1,6 @@
 +++
 title = 'Open Pull Requests'
-date = 2025-07-14
+date = 2025-07-15
 +++
 
 ## Organization: nethserver
@@ -21,7 +21,7 @@ date = 2025-07-14
 ### NethServer/nethsecurity 2 
 
 - :eyes:  **[fix(wireguard): add dash to rule name](https://github.com/NethServer/nethsecurity/pull/1289)** by *filippocarletti* - Reviewers: *None* - Created at: 2025-07-03T11:04:56Z
--   **[build: refactor build process to ease development](https://github.com/NethServer/nethsecurity/pull/1282)** by *Tbaile* - Reviewers: *gsanchietti* - Created at: 2025-06-23T08:10:38Z
+- :eyes:  **[build: refactor build process to ease development](https://github.com/NethServer/nethsecurity/pull/1282)** by *Tbaile* - Reviewers: *None* - Created at: 2025-06-23T08:10:38Z
 
 ### NethServer/nethsecurity-controller 1 
 
@@ -40,8 +40,9 @@ date = 2025-07-14
 
 - :eyes:  **[Refactor service startup and add Manticore and MariaDB configurations for 1.4.7](https://github.com/NethServer/ns8-piler/pull/34)** by *stephdl* - Reviewers: *None* - Created at: 2025-06-19T10:01:41Z
 
-### NethServer/ns8-docs 4 
+### NethServer/ns8-docs 5 
 
+-   **[Add hotel docs](https://github.com/NethServer/ns8-docs/pull/176)** by *andrea-marchionni* - Reviewers: *viktec, margit86* - Created at: 2025-07-14T15:52:22Z
 -   **[Update nethvoice.rst](https://github.com/NethServer/ns8-docs/pull/174)** by *margit86* - Reviewers: *Stell0* - Created at: 2025-06-25T12:41:13Z
 - :eyes: :zzz: **[fix(metrics): remove language selection](https://github.com/NethServer/ns8-docs/pull/167)** by *gsanchietti* - Reviewers: *None* - Created at: 2025-05-26T13:20:09Z
 - :eyes: :zzz: **[add Yealink T7X T8X AX](https://github.com/NethServer/ns8-docs/pull/165)** by *andrea-marchionni* - Reviewers: *None* - Created at: 2025-05-16T16:03:23Z
@@ -69,7 +70,7 @@ date = 2025-07-14
 
 ### nethesis/ns8-nethvoice 6 
 
-- :eyes:  **[chore(freepbx): import nethserver-phonebook-mysql](https://github.com/nethesis/ns8-nethvoice/pull/516)** by *Amygos* - Reviewers: *None* - Created at: 2025-07-10T10:52:29Z
+-   **[chore(freepbx): import nethserver-phonebook-mysql](https://github.com/nethesis/ns8-nethvoice/pull/516)** by *Amygos* - Reviewers: *Stell0* - Created at: 2025-07-10T10:52:29Z
 - :eyes:  **[fix(hotel): avoid empty room checkin](https://github.com/nethesis/ns8-nethvoice/pull/502)** by *Stell0* - Reviewers: *None* - Created at: 2025-07-04T08:15:37Z
 - :eyes:  **[Add New Provider MyNet (cloud1b.voicer.it)](https://github.com/nethesis/ns8-nethvoice/pull/497)** by *fabbri-marco* - Reviewers: *None* - Created at: 2025-07-02T09:51:00Z
 - :eyes:  **[feat: added middleware component](https://github.com/nethesis/ns8-nethvoice/pull/493)** by *tommaso-ascani* - Reviewers: *None* - Created at: 2025-06-30T14:06:22Z
