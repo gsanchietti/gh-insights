@@ -1,6 +1,6 @@
 +++
 title = 'Open Pull Requests'
-date = 2025-07-15
+date = 2025-07-16
 +++
 
 ## Organization: nethserver
@@ -18,8 +18,10 @@ date = 2025-07-15
 
 -   **[Update bind.env to webtop:1.4.3](https://github.com/NethServer/nethserver-ns8-migration/pull/120)** by *stephdl* - Reviewers: *DavidePrincipi* - Created at: 2025-06-26T15:57:40Z
 
-### NethServer/nethsecurity 2 
+### NethServer/nethsecurity 4 
 
+-   **[fix(ns-api): removing lingering configuration from QOS and mwan3](https://github.com/NethServer/nethsecurity/pull/1304)** by *Tbaile* - Reviewers: *gsanchietti* - Created at: 2025-07-15T12:05:54Z
+-   **[fix(port forward): removing automated rules](https://github.com/NethServer/nethsecurity/pull/1303)** by *Tbaile* - Reviewers: *gsanchietti* - Created at: 2025-07-15T07:54:20Z
 - :eyes:  **[fix(wireguard): add dash to rule name](https://github.com/NethServer/nethsecurity/pull/1289)** by *filippocarletti* - Reviewers: *None* - Created at: 2025-07-03T11:04:56Z
 - :eyes:  **[build: refactor build process to ease development](https://github.com/NethServer/nethsecurity/pull/1282)** by *Tbaile* - Reviewers: *None* - Created at: 2025-06-23T08:10:38Z
 
@@ -48,11 +50,16 @@ date = 2025-07-15
 - :eyes: :zzz: **[add Yealink T7X T8X AX](https://github.com/NethServer/ns8-docs/pull/165)** by *andrea-marchionni* - Reviewers: *None* - Created at: 2025-05-16T16:03:23Z
 - :eyes: :zzz: **[Update note about IP change to clarify need for correct reconfiguration](https://github.com/NethServer/ns8-docs/pull/164)** by *IgonetIT* - Reviewers: *None* - Created at: 2025-05-08T09:20:48Z
 
-### NethServer/nethsecurity-ui 3 
+### NethServer/nethsecurity-ui 4 
 
+- :eyes:  **[fix(port forward): added automated tag if entry is managed by system](https://github.com/NethServer/nethsecurity-ui/pull/594)** by *Tbaile* - Reviewers: *None* - Created at: 2025-07-15T13:27:32Z
 - :eyes:  **[chore(main): release 1.28.4](https://github.com/NethServer/nethsecurity-ui/pull/593)** by *Tbaile* - Reviewers: *None* - Created at: 2025-07-10T07:06:27Z
--   **[Fixes for controller refactor](https://github.com/NethServer/nethsecurity-ui/pull/591)** by *gsanchietti* - Reviewers: *Tbaile* - Created at: 2025-07-04T09:52:40Z
+- :eyes:  **[Fixes for controller refactor](https://github.com/NethServer/nethsecurity-ui/pull/591)** by *gsanchietti* - Reviewers: *None* - Created at: 2025-07-04T09:52:40Z
 -  :zzz: **[chore!: upgrade tailwindcss to v4](https://github.com/NethServer/nethsecurity-ui/pull/570)** by *andre8244* - Reviewers: *Tbaile* - Created at: 2025-06-03T08:44:17Z
+
+### NethServer/nethsecurity-docs 1 
+
+-   **[feat(controller): add unit groups](https://github.com/NethServer/nethsecurity-docs/pull/194)** by *gsanchietti* - Reviewers: *filippocarletti, cotosso* - Created at: 2025-07-15T13:06:06Z
 
 ### NethServer/ns8-user-manager 1 
 
