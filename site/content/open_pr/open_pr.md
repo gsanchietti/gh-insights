@@ -1,6 +1,6 @@
 +++
 title = 'Open Pull Requests'
-date = 2025-07-16
+date = 2025-07-17
 +++
 
 ## Organization: nethserver
@@ -20,18 +20,10 @@ date = 2025-07-16
 
 ### NethServer/nethsecurity 4 
 
--   **[fix(ns-api): removing lingering configuration from QOS and mwan3](https://github.com/NethServer/nethsecurity/pull/1304)** by *Tbaile* - Reviewers: *gsanchietti* - Created at: 2025-07-15T12:05:54Z
+- :eyes:  **[feat(ns-plug): ingest data over VPN](https://github.com/NethServer/nethsecurity/pull/1306)** by *gsanchietti* - Reviewers: *None* - Created at: 2025-07-16T07:59:16Z
+- :eyes:  **[fix(ns-api): removing lingering configuration from QOS and mwan3](https://github.com/NethServer/nethsecurity/pull/1304)** by *Tbaile* - Reviewers: *None* - Created at: 2025-07-15T12:05:54Z
 -   **[fix(port forward): removing automated rules](https://github.com/NethServer/nethsecurity/pull/1303)** by *Tbaile* - Reviewers: *gsanchietti* - Created at: 2025-07-15T07:54:20Z
-- :eyes:  **[fix(wireguard): add dash to rule name](https://github.com/NethServer/nethsecurity/pull/1289)** by *filippocarletti* - Reviewers: *None* - Created at: 2025-07-03T11:04:56Z
 - :eyes:  **[build: refactor build process to ease development](https://github.com/NethServer/nethsecurity/pull/1282)** by *Tbaile* - Reviewers: *None* - Created at: 2025-06-23T08:10:38Z
-
-### NethServer/nethsecurity-controller 1 
-
--   **[Database refactor](https://github.com/NethServer/nethsecurity-controller/pull/123)** by *gsanchietti* - Reviewers: *Tbaile* - Created at: 2025-06-18T14:18:12Z
-
-### NethServer/ns8-nethsecurity-controller 1 
-
--   **[Database refactor](https://github.com/NethServer/ns8-nethsecurity-controller/pull/89)** by *gsanchietti* - Reviewers: *Tbaile* - Created at: 2025-06-25T07:06:10Z
 
 ### NethServer/ns8-webtop 2 
 
@@ -49,13 +41,6 @@ date = 2025-07-16
 - :eyes: :zzz: **[fix(metrics): remove language selection](https://github.com/NethServer/ns8-docs/pull/167)** by *gsanchietti* - Reviewers: *None* - Created at: 2025-05-26T13:20:09Z
 - :eyes: :zzz: **[add Yealink T7X T8X AX](https://github.com/NethServer/ns8-docs/pull/165)** by *andrea-marchionni* - Reviewers: *None* - Created at: 2025-05-16T16:03:23Z
 - :eyes: :zzz: **[Update note about IP change to clarify need for correct reconfiguration](https://github.com/NethServer/ns8-docs/pull/164)** by *IgonetIT* - Reviewers: *None* - Created at: 2025-05-08T09:20:48Z
-
-### NethServer/nethsecurity-ui 4 
-
-- :eyes:  **[fix(port forward): added automated tag if entry is managed by system](https://github.com/NethServer/nethsecurity-ui/pull/594)** by *Tbaile* - Reviewers: *None* - Created at: 2025-07-15T13:27:32Z
-- :eyes:  **[chore(main): release 1.28.4](https://github.com/NethServer/nethsecurity-ui/pull/593)** by *Tbaile* - Reviewers: *None* - Created at: 2025-07-10T07:06:27Z
-- :eyes:  **[Fixes for controller refactor](https://github.com/NethServer/nethsecurity-ui/pull/591)** by *gsanchietti* - Reviewers: *None* - Created at: 2025-07-04T09:52:40Z
--  :zzz: **[chore!: upgrade tailwindcss to v4](https://github.com/NethServer/nethsecurity-ui/pull/570)** by *andre8244* - Reviewers: *Tbaile* - Created at: 2025-06-03T08:44:17Z
 
 ### NethServer/nethsecurity-docs 1 
 
@@ -84,8 +69,9 @@ date = 2025-07-16
 -   **[fix: update metadata.json](https://github.com/nethesis/ns8-nethvoice/pull/483)** by *DavidePrincipi* - Reviewers: *andrea-marchionni* - Created at: 2025-06-19T16:14:11Z
 - :eyes: :zzz: **[feature(AI): Voice recognition backend ](https://github.com/nethesis/ns8-nethvoice/pull/464)** by *Stell0* - Reviewers: *None* - Created at: 2025-06-05T10:03:14Z
 
-### nethesis/nethvoice-cti 1 
+### nethesis/nethvoice-cti 2 
 
+- :eyes:  **[fix: some minor issues and enhanced skeleton layout](https://github.com/nethesis/nethvoice-cti/pull/326)** by *tommaso-ascani* - Reviewers: *None* - Created at: 2025-07-16T15:45:18Z
 - :eyes:  **[feat: changed api path for middleware](https://github.com/nethesis/nethvoice-cti/pull/317)** by *tommaso-ascani* - Reviewers: *None* - Created at: 2025-06-30T14:27:05Z
 
 ### nethesis/phone-island 1 
