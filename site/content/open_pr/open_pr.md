@@ -1,6 +1,6 @@
 +++
 title = 'Open Pull Requests'
-date = 2025-07-17
+date = 2025-07-18
 +++
 
 ## Organization: nethserver
@@ -18,12 +18,9 @@ date = 2025-07-17
 
 -   **[Update bind.env to webtop:1.4.3](https://github.com/NethServer/nethserver-ns8-migration/pull/120)** by *stephdl* - Reviewers: *DavidePrincipi* - Created at: 2025-06-26T15:57:40Z
 
-### NethServer/nethsecurity 4 
+### NethServer/nethsecurity 1 
 
-- :eyes:  **[feat(ns-plug): ingest data over VPN](https://github.com/NethServer/nethsecurity/pull/1306)** by *gsanchietti* - Reviewers: *None* - Created at: 2025-07-16T07:59:16Z
-- :eyes:  **[fix(ns-api): removing lingering configuration from QOS and mwan3](https://github.com/NethServer/nethsecurity/pull/1304)** by *Tbaile* - Reviewers: *None* - Created at: 2025-07-15T12:05:54Z
--   **[fix(port forward): removing automated rules](https://github.com/NethServer/nethsecurity/pull/1303)** by *Tbaile* - Reviewers: *gsanchietti* - Created at: 2025-07-15T07:54:20Z
-- :eyes:  **[build: refactor build process to ease development](https://github.com/NethServer/nethsecurity/pull/1282)** by *Tbaile* - Reviewers: *None* - Created at: 2025-06-23T08:10:38Z
+- :eyes:  **[feat(ns-plug): added custom MTU support](https://github.com/NethServer/nethsecurity/pull/1311)** by *Tbaile* - Reviewers: *None* - Created at: 2025-07-17T11:16:46Z
 
 ### NethServer/ns8-webtop 2 
 
@@ -69,9 +66,8 @@ date = 2025-07-17
 -   **[fix: update metadata.json](https://github.com/nethesis/ns8-nethvoice/pull/483)** by *DavidePrincipi* - Reviewers: *andrea-marchionni* - Created at: 2025-06-19T16:14:11Z
 - :eyes: :zzz: **[feature(AI): Voice recognition backend ](https://github.com/nethesis/ns8-nethvoice/pull/464)** by *Stell0* - Reviewers: *None* - Created at: 2025-06-05T10:03:14Z
 
-### nethesis/nethvoice-cti 2 
+### nethesis/nethvoice-cti 1 
 
-- :eyes:  **[fix: some minor issues and enhanced skeleton layout](https://github.com/nethesis/nethvoice-cti/pull/326)** by *tommaso-ascani* - Reviewers: *None* - Created at: 2025-07-16T15:45:18Z
 - :eyes:  **[feat: changed api path for middleware](https://github.com/nethesis/nethvoice-cti/pull/317)** by *tommaso-ascani* - Reviewers: *None* - Created at: 2025-06-30T14:27:05Z
 
 ### nethesis/phone-island 1 
