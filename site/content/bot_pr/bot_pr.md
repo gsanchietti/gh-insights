@@ -1,6 +1,6 @@
 +++
 title = 'Open Pull Requests by Bots'
-date = 2025-07-18
+date = 2025-07-19
 +++
 
 ## Organization: nethserver
@@ -148,7 +148,7 @@ date = 2025-07-18
 
 ### NethServer/ns8-crowdsec 4 
 
-- :eyes:  **[chore(deps): update crowdsecurity/crowdsec docker tag to v1.6.10](https://github.com/NethServer/ns8-crowdsec/pull/81)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-06-18T19:08:43Z
+- :eyes: :zzz: **[chore(deps): update crowdsecurity/crowdsec docker tag to v1.6.10](https://github.com/NethServer/ns8-crowdsec/pull/81)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-06-18T19:08:43Z
 - :eyes: :zzz: **[chore(deps): update alpine docker tag to v3.22.1](https://github.com/NethServer/ns8-crowdsec/pull/78)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-05-30T19:23:59Z
 - :eyes: :zzz: **[Translations update from Hosted Weblate](https://github.com/NethServer/ns8-crowdsec/pull/76)** by *weblate* - Reviewers: *None* - Created at: 2025-04-30T18:05:16Z
 - :eyes: :zzz: **[chore(deps): update ghcr.io/marketsquare/robotframework-browser/rfbrowser-stable docker tag to v19.6.2](https://github.com/NethServer/ns8-crowdsec/pull/63)** by *renovate[bot]* - Reviewers: *None* - Created at: 2024-12-20T22:49:56Z
@@ -213,10 +213,10 @@ date = 2025-07-18
 ### NethServer/ns8-passbolt 5 
 
 - :eyes:  **[chore(deps): update passbolt/passbolt docker tag to v5.3.2](https://github.com/NethServer/ns8-passbolt/pull/8)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-07-09T22:11:28Z
-- :eyes:  **[chore(deps): update mcr.microsoft.com/devcontainers/javascript-node docker tag to v1](https://github.com/NethServer/ns8-passbolt/pull/7)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-06-18T19:33:33Z
-- :eyes:  **[chore(deps): update mariadb docker tag to v11](https://github.com/NethServer/ns8-passbolt/pull/6)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-06-18T13:10:15Z
-- :eyes:  **[chore(deps): update ghcr.io/marketsquare/robotframework-browser/rfbrowser-stable docker tag to v19](https://github.com/NethServer/ns8-passbolt/pull/5)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-06-18T13:10:12Z
-- :eyes:  **[chore(deps): update ghcr.io/marketsquare/robotframework-browser/rfbrowser-stable docker tag to v10.1.0](https://github.com/NethServer/ns8-passbolt/pull/3)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-06-18T07:13:32Z
+- :eyes: :zzz: **[chore(deps): update mcr.microsoft.com/devcontainers/javascript-node docker tag to v1](https://github.com/NethServer/ns8-passbolt/pull/7)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-06-18T19:33:33Z
+- :eyes: :zzz: **[chore(deps): update mariadb docker tag to v11](https://github.com/NethServer/ns8-passbolt/pull/6)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-06-18T13:10:15Z
+- :eyes: :zzz: **[chore(deps): update ghcr.io/marketsquare/robotframework-browser/rfbrowser-stable docker tag to v19](https://github.com/NethServer/ns8-passbolt/pull/5)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-06-18T13:10:12Z
+- :eyes: :zzz: **[chore(deps): update ghcr.io/marketsquare/robotframework-browser/rfbrowser-stable docker tag to v10.1.0](https://github.com/NethServer/ns8-passbolt/pull/3)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-06-18T07:13:32Z
 
 ### NethServer/ns8-metrics 2 
 
@@ -254,7 +254,7 @@ date = 2025-07-18
 
 ### nethesis/ns8-nethvoice 11 
 
-- :eyes:  **[chore(deps): update dependency flow-bin to ^0.275.0](https://github.com/nethesis/ns8-nethvoice/pull/514)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-07-04T21:27:24Z
+- :eyes:  **[chore(deps): update dependency flow-bin to ^0.276.0](https://github.com/nethesis/ns8-nethvoice/pull/514)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-07-04T21:27:24Z
 - :eyes:  **[fix(deps): update dependency ng-sortable to v1.3.8](https://github.com/nethesis/ns8-nethvoice/pull/513)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-07-04T21:27:19Z
 - :eyes:  **[fix(deps): update dependency ldapjs to v2.3.3](https://github.com/nethesis/ns8-nethvoice/pull/512)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-07-04T20:16:23Z
 - :eyes:  **[fix(deps): update dependency bootstrap-switch to v3.3.4](https://github.com/nethesis/ns8-nethvoice/pull/511)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-07-04T20:16:11Z

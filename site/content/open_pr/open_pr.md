@@ -1,6 +1,6 @@
 +++
 title = 'Open Pull Requests'
-date = 2025-07-18
+date = 2025-07-19
 +++
 
 ## Organization: nethserver
@@ -8,7 +8,7 @@ date = 2025-07-18
 ### NethServer/ns8-core 2 
 
 -   **[Refactor the port management logic by  ensuring data integrity](https://github.com/NethServer/ns8-core/pull/906)** by *stephdl* - Reviewers: *DavidePrincipi* - Created at: 2025-06-25T13:55:58Z
--   **[fix(api): allow restore if repo is not available](https://github.com/NethServer/ns8-core/pull/904)** by *gsanchietti* - Reviewers: *DavidePrincipi* - Created at: 2025-06-18T06:43:28Z
+-  :zzz: **[fix(api): allow restore if repo is not available](https://github.com/NethServer/ns8-core/pull/904)** by *gsanchietti* - Reviewers: *DavidePrincipi* - Created at: 2025-06-18T06:43:28Z
 
 ### NethServer/ns8-samba 1 
 
