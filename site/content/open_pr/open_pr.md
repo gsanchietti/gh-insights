@@ -1,6 +1,6 @@
 +++
 title = 'Open Pull Requests'
-date = 2025-07-19
+date = 2025-07-20
 +++
 
 ## Organization: nethserver
@@ -29,7 +29,7 @@ date = 2025-07-19
 
 ### NethServer/ns8-piler 1 
 
-- :eyes:  **[Refactor service startup and add Manticore and MariaDB configurations for 1.4.7](https://github.com/NethServer/ns8-piler/pull/34)** by *stephdl* - Reviewers: *None* - Created at: 2025-06-19T10:01:41Z
+- :eyes: :zzz: **[Refactor service startup and add Manticore and MariaDB configurations for 1.4.7](https://github.com/NethServer/ns8-piler/pull/34)** by *stephdl* - Reviewers: *None* - Created at: 2025-06-19T10:01:41Z
 
 ### NethServer/ns8-docs 5 
 
@@ -63,7 +63,7 @@ date = 2025-07-19
 - :eyes:  **[fix(hotel): avoid empty room checkin](https://github.com/nethesis/ns8-nethvoice/pull/502)** by *Stell0* - Reviewers: *None* - Created at: 2025-07-04T08:15:37Z
 - :eyes:  **[Add New Provider MyNet (cloud1b.voicer.it)](https://github.com/nethesis/ns8-nethvoice/pull/497)** by *fabbri-marco* - Reviewers: *None* - Created at: 2025-07-02T09:51:00Z
 - :eyes:  **[feat: added middleware component](https://github.com/nethesis/ns8-nethvoice/pull/493)** by *tommaso-ascani* - Reviewers: *None* - Created at: 2025-06-30T14:06:22Z
--   **[fix: update metadata.json](https://github.com/nethesis/ns8-nethvoice/pull/483)** by *DavidePrincipi* - Reviewers: *andrea-marchionni* - Created at: 2025-06-19T16:14:11Z
+-  :zzz: **[fix: update metadata.json](https://github.com/nethesis/ns8-nethvoice/pull/483)** by *DavidePrincipi* - Reviewers: *andrea-marchionni* - Created at: 2025-06-19T16:14:11Z
 - :eyes: :zzz: **[feature(AI): Voice recognition backend ](https://github.com/nethesis/ns8-nethvoice/pull/464)** by *Stell0* - Reviewers: *None* - Created at: 2025-06-05T10:03:14Z
 
 ### nethesis/nethvoice-cti 1 
