@@ -1,12 +1,13 @@
 +++
 title = 'Open Pull Requests by Bots'
-date = 2025-07-21
+date = 2025-07-22
 +++
 
 ## Organization: nethserver
 
-### NethServer/nethserver-business 2 
+### NethServer/nethserver-business 3 
 
+- :eyes:  **[Bump form-data, @vue/cli-plugin-babel, @vue/cli-plugin-eslint and @vue/cli-service in /ui](https://github.com/NethServer/nethserver-business/pull/8)** by *dependabot[bot]* - Reviewers: *None* - Created at: 2025-07-22T00:21:58Z
 - :eyes:  **[Bump on-headers and compression in /ui](https://github.com/NethServer/nethserver-business/pull/7)** by *dependabot[bot]* - Reviewers: *None* - Created at: 2025-07-18T00:03:46Z
 - :eyes:  **[Bump pbkdf2 from 3.0.17 to 3.1.3 in /ui](https://github.com/NethServer/nethserver-business/pull/6)** by *dependabot[bot]* - Reviewers: *None* - Created at: 2025-06-24T07:44:23Z
 
@@ -103,10 +104,9 @@ date = 2025-07-21
 
 - :eyes: :zzz: **[chore: bump ns packages (automatic)](https://github.com/NethServer/nethsecurity/pull/1271)** by *github-actions[bot]* - Reviewers: *None* - Created at: 2025-06-16T14:33:17Z
 
-### NethServer/nethsecurity-controller 3 
+### NethServer/nethsecurity-controller 2 
 
 - :eyes:  **[fix(deps): update module github.com/golang-jwt/jwt/v4 to v5](https://github.com/NethServer/nethsecurity-controller/pull/140)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-07-21T00:54:27Z
-- :eyes:  **[fix(deps): update module github.com/google/uuid to v1.6.0](https://github.com/NethServer/nethsecurity-controller/pull/139)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-07-21T00:54:20Z
 - :eyes:  **[chore(deps): update dependency go to v1.24.5](https://github.com/NethServer/nethsecurity-controller/pull/138)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-07-21T00:53:55Z
 
 ### NethServer/ns8-mail 3 

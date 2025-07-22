@@ -1,6 +1,6 @@
 +++
 title = 'Open Pull Requests'
-date = 2025-07-21
+date = 2025-07-22
 +++
 
 ## Organization: nethserver
@@ -18,8 +18,9 @@ date = 2025-07-21
 
 -   **[Update bind.env to webtop:1.4.3](https://github.com/NethServer/nethserver-ns8-migration/pull/120)** by *stephdl* - Reviewers: *DavidePrincipi* - Created at: 2025-06-26T15:57:40Z
 
-### NethServer/nethsecurity 1 
+### NethServer/nethsecurity 2 
 
+-   **[fix(port forward): do not disable external object through the kebab menu](https://github.com/NethServer/nethsecurity/pull/1313)** by *Tbaile* - Reviewers: *gsanchietti* - Created at: 2025-07-21T13:17:06Z
 - :eyes:  **[feat(ns-plug): added custom MTU support](https://github.com/NethServer/nethsecurity/pull/1311)** by *Tbaile* - Reviewers: *None* - Created at: 2025-07-17T11:16:46Z
 
 ### NethServer/ns8-webtop 2 
@@ -39,8 +40,9 @@ date = 2025-07-21
 - :eyes: :zzz: **[add Yealink T7X T8X AX](https://github.com/NethServer/ns8-docs/pull/165)** by *andrea-marchionni* - Reviewers: *None* - Created at: 2025-05-16T16:03:23Z
 - :eyes: :zzz: **[Update note about IP change to clarify need for correct reconfiguration](https://github.com/NethServer/ns8-docs/pull/164)** by *IgonetIT* - Reviewers: *None* - Created at: 2025-05-08T09:20:48Z
 
-### NethServer/nethsecurity-docs 1 
+### NethServer/nethsecurity-docs 2 
 
+-   **[fix(build): parsing correctly using semver for new versions](https://github.com/NethServer/nethsecurity-docs/pull/195)** by *Tbaile* - Reviewers: *gsanchietti* - Created at: 2025-07-21T08:05:14Z
 -   **[feat(controller): add unit groups](https://github.com/NethServer/nethsecurity-docs/pull/194)** by *gsanchietti* - Reviewers: *filippocarletti, cotosso* - Created at: 2025-07-15T13:06:06Z
 
 ### NethServer/ns8-user-manager 1 
@@ -70,8 +72,9 @@ date = 2025-07-21
 
 - :eyes:  **[feat: changed api path for middleware](https://github.com/nethesis/nethvoice-cti/pull/317)** by *tommaso-ascani* - Reviewers: *None* - Created at: 2025-06-30T14:27:05Z
 
-### nethesis/phone-island 1 
+### nethesis/phone-island 2 
 
+- :eyes:  **[fix: better phone-island-call-ringing event](https://github.com/nethesis/phone-island/pull/105)** by *tonyco97* - Reviewers: *None* - Created at: 2025-07-21T09:07:55Z
 - :eyes:  **[feat: changed reference api path for middleware](https://github.com/nethesis/phone-island/pull/103)** by *tommaso-ascani* - Reviewers: *None* - Created at: 2025-06-30T14:18:42Z
 
 
