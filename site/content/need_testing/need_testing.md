@@ -1,14 +1,13 @@
 +++
-title = 'Need testing (8)'
-date = 2025-07-22
+title = 'Need testing (7)'
+date = 2025-07-23
 +++
 
 ## NethVoice
-- **[NethVoice: SRTP not working if one extension in the dial string has it disabled](https://github.com/NethServer/dev/issues/7560)** (#7481) by *Stell0* (Created: 2025-07-21, Updated: 2025-07-21T15:39:53Z)
 - :point_right: **[NethVoice Proxy: issue on re-INVITE when INVITE with RTP cames from a device that doesn't support SRTP](https://github.com/NethServer/dev/issues/7546)** (#7481) by *Stell0* (Created: 2025-07-08, Updated: 2025-07-16T14:51:59Z)
+- :point_right: **[NethVoice: Add New VoIP Provider MyNet (cloud1b.voicer.it) to Configuration Wizard](https://github.com/NethServer/dev/issues/7540)** (#7481) by *fabbri-marco* (Created: 2025-07-02, Updated: 2025-07-22T12:46:49Z)
 
 ## NethServer
-- :point_right: **[WebTop 5.29.2](https://github.com/NethServer/dev/issues/7525)** (#7481) by *lucagasparini* (Created: 2025-06-24, Updated: 2025-07-18T10:44:42Z)
 - :point_right: **[Crowdsec: SIP bruteforce traffic not banned](https://github.com/NethServer/dev/issues/7481)** (#7481) by *nrauso* (Created: 2025-05-26, Updated: 2025-07-07T14:53:54Z)
 
 ## NethSecurity

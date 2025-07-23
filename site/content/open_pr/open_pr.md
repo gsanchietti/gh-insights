@@ -1,6 +1,6 @@
 +++
 title = 'Open Pull Requests'
-date = 2025-07-22
+date = 2025-07-23
 +++
 
 ## Organization: nethserver
@@ -10,16 +10,19 @@ date = 2025-07-22
 -   **[Refactor the port management logic by  ensuring data integrity](https://github.com/NethServer/ns8-core/pull/906)** by *stephdl* - Reviewers: *DavidePrincipi* - Created at: 2025-06-25T13:55:58Z
 -  :zzz: **[fix(api): allow restore if repo is not available](https://github.com/NethServer/ns8-core/pull/904)** by *gsanchietti* - Reviewers: *DavidePrincipi* - Created at: 2025-06-18T06:43:28Z
 
-### NethServer/ns8-samba 1 
+### NethServer/ns8-samba 3 
 
+- :eyes:  **[fix: pre-create recycle bin directory](https://github.com/NethServer/ns8-samba/pull/115)** by *DavidePrincipi* - Reviewers: *None* - Created at: 2025-07-22T13:14:01Z
+- :eyes:  **[fix: recycle bin permissions](https://github.com/NethServer/ns8-samba/pull/114)** by *DavidePrincipi* - Reviewers: *None* - Created at: 2025-07-22T09:47:28Z
 -  :zzz: **[Set minimum password age to 0 days](https://github.com/NethServer/ns8-samba/pull/107)** by *stephdl* - Reviewers: *DavidePrincipi* - Created at: 2025-06-13T16:03:42Z
 
 ### NethServer/nethserver-ns8-migration 1 
 
 -   **[Update bind.env to webtop:1.4.3](https://github.com/NethServer/nethserver-ns8-migration/pull/120)** by *stephdl* - Reviewers: *DavidePrincipi* - Created at: 2025-06-26T15:57:40Z
 
-### NethServer/nethsecurity 2 
+### NethServer/nethsecurity 3 
 
+-   **[feat(zones): added synflood management](https://github.com/NethServer/nethsecurity/pull/1316)** by *Tbaile* - Reviewers: *gsanchietti* - Created at: 2025-07-22T12:15:22Z
 -   **[fix(port forward): do not disable external object through the kebab menu](https://github.com/NethServer/nethsecurity/pull/1313)** by *Tbaile* - Reviewers: *gsanchietti* - Created at: 2025-07-21T13:17:06Z
 - :eyes:  **[feat(ns-plug): added custom MTU support](https://github.com/NethServer/nethsecurity/pull/1311)** by *Tbaile* - Reviewers: *None* - Created at: 2025-07-17T11:16:46Z
 
@@ -27,6 +30,10 @@ date = 2025-07-22
 
 - :eyes:  **[Reapply "feat: Update Tomcat and Postgres images (#134)"](https://github.com/NethServer/ns8-webtop/pull/145)** by *Amygos* - Reviewers: *None* - Created at: 2025-07-11T10:26:24Z
 - :eyes:  **[Set a minimum version to 1.4.3 for postgresql upgrade](https://github.com/NethServer/ns8-webtop/pull/142)** by *stephdl* - Reviewers: *None* - Created at: 2025-06-26T16:04:47Z
+
+### NethServer/python3-nethsec 1 
+
+-   **[feat(firewall): added synflood management](https://github.com/NethServer/python3-nethsec/pull/102)** by *Tbaile* - Reviewers: *gsanchietti* - Created at: 2025-07-22T12:01:42Z
 
 ### NethServer/ns8-piler 1 
 
@@ -39,6 +46,10 @@ date = 2025-07-22
 - :eyes: :zzz: **[fix(metrics): remove language selection](https://github.com/NethServer/ns8-docs/pull/167)** by *gsanchietti* - Reviewers: *None* - Created at: 2025-05-26T13:20:09Z
 - :eyes: :zzz: **[add Yealink T7X T8X AX](https://github.com/NethServer/ns8-docs/pull/165)** by *andrea-marchionni* - Reviewers: *None* - Created at: 2025-05-16T16:03:23Z
 - :eyes: :zzz: **[Update note about IP change to clarify need for correct reconfiguration](https://github.com/NethServer/ns8-docs/pull/164)** by *IgonetIT* - Reviewers: *None* - Created at: 2025-05-08T09:20:48Z
+
+### NethServer/nethsecurity-ui 1 
+
+- :eyes:  **[chore(main): release 2.0.1](https://github.com/NethServer/nethsecurity-ui/pull/597)** by *Tbaile* - Reviewers: *None* - Created at: 2025-07-22T06:59:30Z
 
 ### NethServer/nethsecurity-docs 2 
 
@@ -59,14 +70,12 @@ date = 2025-07-22
 
 -  :zzz: **[Removed old notification service usage](https://github.com/nethesis/nethcti-app-iphone/pull/37)** by *NicolaMrAPPs* - Reviewers: *b9874e40962149eee62a8fd3bc4e709e* - Created at: 2023-08-02T09:19:30Z
 
-### nethesis/ns8-nethvoice 6 
+### nethesis/ns8-nethvoice 4 
 
--   **[chore(freepbx): import nethserver-phonebook-mysql](https://github.com/nethesis/ns8-nethvoice/pull/516)** by *Amygos* - Reviewers: *Stell0* - Created at: 2025-07-10T10:52:29Z
-- :eyes:  **[fix(hotel): avoid empty room checkin](https://github.com/nethesis/ns8-nethvoice/pull/502)** by *Stell0* - Reviewers: *None* - Created at: 2025-07-04T08:15:37Z
-- :eyes:  **[Add New Provider MyNet (cloud1b.voicer.it)](https://github.com/nethesis/ns8-nethvoice/pull/497)** by *fabbri-marco* - Reviewers: *None* - Created at: 2025-07-02T09:51:00Z
+- :eyes:  **[chore(freepbx): import nethserver-phonebook-mysql](https://github.com/nethesis/ns8-nethvoice/pull/516)** by *Amygos* - Reviewers: *None* - Created at: 2025-07-10T10:52:29Z
 - :eyes:  **[feat: added middleware component](https://github.com/nethesis/ns8-nethvoice/pull/493)** by *tommaso-ascani* - Reviewers: *None* - Created at: 2025-06-30T14:06:22Z
 -  :zzz: **[fix: update metadata.json](https://github.com/nethesis/ns8-nethvoice/pull/483)** by *DavidePrincipi* - Reviewers: *andrea-marchionni* - Created at: 2025-06-19T16:14:11Z
-- :eyes: :zzz: **[feature(AI): Voice recognition backend ](https://github.com/nethesis/ns8-nethvoice/pull/464)** by *Stell0* - Reviewers: *None* - Created at: 2025-06-05T10:03:14Z
+-  :zzz: **[feature(AI): Voice recognition backend ](https://github.com/nethesis/ns8-nethvoice/pull/464)** by *Stell0* - Reviewers: *Amygos* - Created at: 2025-06-05T10:03:14Z
 
 ### nethesis/nethvoice-cti 1 
 

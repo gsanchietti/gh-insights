@@ -1,6 +1,6 @@
 +++
 title = 'Open Pull Requests by Bots'
-date = 2025-07-22
+date = 2025-07-23
 +++
 
 ## Organization: nethserver
@@ -69,7 +69,7 @@ date = 2025-07-22
 ### NethServer/ns8-samba 4 
 
 - :eyes:  **[Translations update from Hosted Weblate](https://github.com/NethServer/ns8-samba/pull/113)** by *weblate* - Reviewers: *None* - Created at: 2025-07-14T20:02:25Z
-- :eyes:  **[chore(deps): update timescale/timescaledb docker tag to v2.21.0](https://github.com/NethServer/ns8-samba/pull/112)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-07-09T23:13:16Z
+- :eyes:  **[chore(deps): update timescale/timescaledb docker tag to v2.21.1](https://github.com/NethServer/ns8-samba/pull/112)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-07-09T23:13:16Z
 - :eyes: :zzz: **[chore(deps): update dependency nethserver/ns8-user-manager to v1.1.5](https://github.com/NethServer/ns8-samba/pull/106)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-06-12T16:27:31Z
 - :eyes: :zzz: **[chore(deps): update ghcr.io/marketsquare/robotframework-browser/rfbrowser-stable docker tag to v19.6.2](https://github.com/NethServer/ns8-samba/pull/77)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-02-21T09:59:59Z
 
@@ -100,8 +100,9 @@ date = 2025-07-22
 - :eyes: :zzz: **[Translations update from Hosted Weblate](https://github.com/NethServer/ns8-grafana/pull/37)** by *weblate* - Reviewers: *None* - Created at: 2025-05-22T07:06:34Z
 - :eyes: :zzz: **[chore(deps): update ghcr.io/marketsquare/robotframework-browser/rfbrowser-stable docker tag to v19.6.2](https://github.com/NethServer/ns8-grafana/pull/26)** by *renovate[bot]* - Reviewers: *None* - Created at: 2024-12-20T22:05:46Z
 
-### NethServer/nethsecurity 1 
+### NethServer/nethsecurity 2 
 
+- :eyes:  **[chore(deps): update debian:12.11 docker digest to b6507e3](https://github.com/NethServer/nethsecurity/pull/1315)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-07-22T10:35:06Z
 - :eyes: :zzz: **[chore: bump ns packages (automatic)](https://github.com/NethServer/nethsecurity/pull/1271)** by *github-actions[bot]* - Reviewers: *None* - Created at: 2025-06-16T14:33:17Z
 
 ### NethServer/nethsecurity-controller 2 
@@ -115,8 +116,9 @@ date = 2025-07-22
 - :eyes: :zzz: **[chore(deps): update alpine docker tag to v3.22.1](https://github.com/NethServer/ns8-mail/pull/180)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-05-30T21:48:21Z
 - :eyes: :zzz: **[chore(deps): update ghcr.io/marketsquare/robotframework-browser/rfbrowser-stable docker tag to v19.6.2](https://github.com/NethServer/ns8-mail/pull/164)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-01-26T17:02:40Z
 
-### NethServer/ns8-nethsecurity-controller 2 
+### NethServer/ns8-nethsecurity-controller 3 
 
+- :eyes:  **[chore(deps): update timescale/timescaledb docker tag to v2.21.1](https://github.com/NethServer/ns8-nethsecurity-controller/pull/100)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-07-22T16:52:40Z
 - :eyes:  **[chore(deps): update grafana/loki docker tag to v3](https://github.com/NethServer/ns8-nethsecurity-controller/pull/96)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-06-26T01:44:04Z
 - :eyes: :zzz: **[chore(deps): update ghcr.io/marketsquare/robotframework-browser/rfbrowser-stable docker tag to v19.6.2](https://github.com/NethServer/ns8-nethsecurity-controller/pull/73)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-01-26T16:34:20Z
 
@@ -178,8 +180,9 @@ date = 2025-07-22
 - :eyes: :zzz: **[Translations update from Hosted Weblate](https://github.com/NethServer/ns8-imapsync/pull/52)** by *weblate* - Reviewers: *None* - Created at: 2025-04-04T11:02:47Z
 - :eyes: :zzz: **[chore(deps): update ghcr.io/marketsquare/robotframework-browser/rfbrowser-stable docker tag to v19.6.2](https://github.com/NethServer/ns8-imapsync/pull/36)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-01-26T16:23:25Z
 
-### NethServer/ns8-user-manager 3 
+### NethServer/ns8-user-manager 4 
 
+- :eyes:  **[chore(deps): update dependency @fortawesome/fontawesome-svg-core to v7](https://github.com/NethServer/ns8-user-manager/pull/106)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-07-22T19:44:03Z
 - :eyes:  **[chore(deps): update node.js to v22.17.1](https://github.com/NethServer/ns8-user-manager/pull/105)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-07-16T21:10:19Z
 - :eyes:  **[chore(deps): update dependency vue-tsc to v3](https://github.com/NethServer/ns8-user-manager/pull/102)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-07-01T17:45:34Z
 - :eyes:  **[chore(deps): update dependency vite to v7](https://github.com/NethServer/ns8-user-manager/pull/96)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-06-24T12:04:45Z
