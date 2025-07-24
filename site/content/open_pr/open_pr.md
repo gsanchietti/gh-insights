@@ -1,6 +1,6 @@
 +++
 title = 'Open Pull Requests'
-date = 2025-07-23
+date = 2025-07-24
 +++
 
 ## Organization: nethserver
@@ -10,10 +10,8 @@ date = 2025-07-23
 -   **[Refactor the port management logic by  ensuring data integrity](https://github.com/NethServer/ns8-core/pull/906)** by *stephdl* - Reviewers: *DavidePrincipi* - Created at: 2025-06-25T13:55:58Z
 -  :zzz: **[fix(api): allow restore if repo is not available](https://github.com/NethServer/ns8-core/pull/904)** by *gsanchietti* - Reviewers: *DavidePrincipi* - Created at: 2025-06-18T06:43:28Z
 
-### NethServer/ns8-samba 3 
+### NethServer/ns8-samba 1 
 
-- :eyes:  **[fix: pre-create recycle bin directory](https://github.com/NethServer/ns8-samba/pull/115)** by *DavidePrincipi* - Reviewers: *None* - Created at: 2025-07-22T13:14:01Z
-- :eyes:  **[fix: recycle bin permissions](https://github.com/NethServer/ns8-samba/pull/114)** by *DavidePrincipi* - Reviewers: *None* - Created at: 2025-07-22T09:47:28Z
 -  :zzz: **[Set minimum password age to 0 days](https://github.com/NethServer/ns8-samba/pull/107)** by *stephdl* - Reviewers: *DavidePrincipi* - Created at: 2025-06-13T16:03:42Z
 
 ### NethServer/nethserver-ns8-migration 1 
@@ -39,8 +37,9 @@ date = 2025-07-23
 
 - :eyes: :zzz: **[Refactor service startup and add Manticore and MariaDB configurations for 1.4.7](https://github.com/NethServer/ns8-piler/pull/34)** by *stephdl* - Reviewers: *None* - Created at: 2025-06-19T10:01:41Z
 
-### NethServer/ns8-docs 5 
+### NethServer/ns8-docs 6 
 
+-   **[fix(file_server): user's private recycle bin](https://github.com/NethServer/ns8-docs/pull/178)** by *DavidePrincipi* - Reviewers: *nrauso* - Created at: 2025-07-23T13:44:35Z
 -   **[Add hotel docs](https://github.com/NethServer/ns8-docs/pull/176)** by *andrea-marchionni* - Reviewers: *viktec, margit86* - Created at: 2025-07-14T15:52:22Z
 -   **[Update nethvoice.rst](https://github.com/NethServer/ns8-docs/pull/174)** by *margit86* - Reviewers: *Stell0* - Created at: 2025-06-25T12:41:13Z
 - :eyes: :zzz: **[fix(metrics): remove language selection](https://github.com/NethServer/ns8-docs/pull/167)** by *gsanchietti* - Reviewers: *None* - Created at: 2025-05-26T13:20:09Z
@@ -51,8 +50,9 @@ date = 2025-07-23
 
 - :eyes:  **[chore(main): release 2.0.1](https://github.com/NethServer/nethsecurity-ui/pull/597)** by *Tbaile* - Reviewers: *None* - Created at: 2025-07-22T06:59:30Z
 
-### NethServer/nethsecurity-docs 2 
+### NethServer/nethsecurity-docs 3 
 
+- :eyes:  **[Block DoS - changes](https://github.com/NethServer/nethsecurity-docs/pull/196)** by *cotosso* - Reviewers: *None* - Created at: 2025-07-23T16:11:13Z
 -   **[fix(build): parsing correctly using semver for new versions](https://github.com/NethServer/nethsecurity-docs/pull/195)** by *Tbaile* - Reviewers: *gsanchietti* - Created at: 2025-07-21T08:05:14Z
 -   **[feat(controller): add unit groups](https://github.com/NethServer/nethsecurity-docs/pull/194)** by *gsanchietti* - Reviewers: *filippocarletti, cotosso* - Created at: 2025-07-15T13:06:06Z
 
@@ -70,9 +70,8 @@ date = 2025-07-23
 
 -  :zzz: **[Removed old notification service usage](https://github.com/nethesis/nethcti-app-iphone/pull/37)** by *NicolaMrAPPs* - Reviewers: *b9874e40962149eee62a8fd3bc4e709e* - Created at: 2023-08-02T09:19:30Z
 
-### nethesis/ns8-nethvoice 4 
+### nethesis/ns8-nethvoice 3 
 
-- :eyes:  **[chore(freepbx): import nethserver-phonebook-mysql](https://github.com/nethesis/ns8-nethvoice/pull/516)** by *Amygos* - Reviewers: *None* - Created at: 2025-07-10T10:52:29Z
 - :eyes:  **[feat: added middleware component](https://github.com/nethesis/ns8-nethvoice/pull/493)** by *tommaso-ascani* - Reviewers: *None* - Created at: 2025-06-30T14:06:22Z
 -  :zzz: **[fix: update metadata.json](https://github.com/nethesis/ns8-nethvoice/pull/483)** by *DavidePrincipi* - Reviewers: *andrea-marchionni* - Created at: 2025-06-19T16:14:11Z
 -  :zzz: **[feature(AI): Voice recognition backend ](https://github.com/nethesis/ns8-nethvoice/pull/464)** by *Stell0* - Reviewers: *Amygos* - Created at: 2025-06-05T10:03:14Z
