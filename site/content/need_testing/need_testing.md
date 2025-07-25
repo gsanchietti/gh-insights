@@ -1,15 +1,16 @@
 +++
-title = 'Need testing (9)'
-date = 2025-07-24
+title = 'Need testing (10)'
+date = 2025-07-25
 +++
 
 ## NethVoice
+- **[Nethvoice: Report filters missing due to hostname resolution in reports-api container](https://github.com/NethServer/dev/issues/7569)** (#7481) by *Amygos* (Created: 2025-07-24, Updated: 2025-07-24T09:43:19Z)
+- **[NethVoice: QR-Code generation for rebranded app - missing BRAND_NAME field](https://github.com/NethServer/dev/issues/7568)** (#7481) by *viktec* (Created: 2025-07-23, Updated: 2025-07-24T15:10:12Z)
 - **[nethvoice: vendor nethserver-phonebook-mysql package in freepbx container](https://github.com/NethServer/dev/issues/7564)** (#7481) by *Amygos* (Created: 2025-07-22, Updated: 2025-07-23T15:11:47Z)
 - :point_right: **[NethVoice Proxy: issue on re-INVITE when INVITE with RTP cames from a device that doesn't support SRTP](https://github.com/NethServer/dev/issues/7546)** (#7481) by *Stell0* (Created: 2025-07-08, Updated: 2025-07-16T14:51:59Z)
 - :point_right: **[NethVoice: Add New VoIP Provider MyNet (cloud1b.voicer.it) to Configuration Wizard](https://github.com/NethServer/dev/issues/7540)** (#7481) by *fabbri-marco* (Created: 2025-07-02, Updated: 2025-07-22T12:46:49Z)
 
 ## NethServer
-- :point_right: **[Samba recycle bin not accessible](https://github.com/NethServer/dev/issues/7537)** (#7481) by *mrmarkuz* (Created: 2025-07-01, Updated: 2025-07-23T12:59:54Z)
 - :point_right: **[Crowdsec: SIP bruteforce traffic not banned](https://github.com/NethServer/dev/issues/7481)** (#7481) by *nrauso* (Created: 2025-05-26, Updated: 2025-07-07T14:53:54Z)
 
 ## NethSecurity

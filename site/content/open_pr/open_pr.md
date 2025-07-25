@@ -1,6 +1,6 @@
 +++
 title = 'Open Pull Requests'
-date = 2025-07-24
+date = 2025-07-25
 +++
 
 ## Organization: nethserver
@@ -20,7 +20,7 @@ date = 2025-07-24
 
 ### NethServer/nethsecurity 3 
 
--   **[feat(zones): added synflood management](https://github.com/NethServer/nethsecurity/pull/1316)** by *Tbaile* - Reviewers: *gsanchietti* - Created at: 2025-07-22T12:15:22Z
+-   **[feat(banip): added dos management](https://github.com/NethServer/nethsecurity/pull/1316)** by *Tbaile* - Reviewers: *gsanchietti* - Created at: 2025-07-22T12:15:22Z
 -   **[fix(port forward): do not disable external object through the kebab menu](https://github.com/NethServer/nethsecurity/pull/1313)** by *Tbaile* - Reviewers: *gsanchietti* - Created at: 2025-07-21T13:17:06Z
 - :eyes:  **[feat(ns-plug): added custom MTU support](https://github.com/NethServer/nethsecurity/pull/1311)** by *Tbaile* - Reviewers: *None* - Created at: 2025-07-17T11:16:46Z
 
@@ -29,36 +29,32 @@ date = 2025-07-24
 - :eyes:  **[Reapply "feat: Update Tomcat and Postgres images (#134)"](https://github.com/NethServer/ns8-webtop/pull/145)** by *Amygos* - Reviewers: *None* - Created at: 2025-07-11T10:26:24Z
 - :eyes:  **[Set a minimum version to 1.4.3 for postgresql upgrade](https://github.com/NethServer/ns8-webtop/pull/142)** by *stephdl* - Reviewers: *None* - Created at: 2025-06-26T16:04:47Z
 
-### NethServer/python3-nethsec 1 
-
--   **[feat(firewall): added synflood management](https://github.com/NethServer/python3-nethsec/pull/102)** by *Tbaile* - Reviewers: *gsanchietti* - Created at: 2025-07-22T12:01:42Z
-
 ### NethServer/ns8-piler 1 
 
 - :eyes: :zzz: **[Refactor service startup and add Manticore and MariaDB configurations for 1.4.7](https://github.com/NethServer/ns8-piler/pull/34)** by *stephdl* - Reviewers: *None* - Created at: 2025-06-19T10:01:41Z
 
-### NethServer/ns8-docs 6 
+### NethServer/ns8-docs 5 
 
--   **[fix(file_server): user's private recycle bin](https://github.com/NethServer/ns8-docs/pull/178)** by *DavidePrincipi* - Reviewers: *nrauso* - Created at: 2025-07-23T13:44:35Z
 -   **[Add hotel docs](https://github.com/NethServer/ns8-docs/pull/176)** by *andrea-marchionni* - Reviewers: *viktec, margit86* - Created at: 2025-07-14T15:52:22Z
 -   **[Update nethvoice.rst](https://github.com/NethServer/ns8-docs/pull/174)** by *margit86* - Reviewers: *Stell0* - Created at: 2025-06-25T12:41:13Z
 - :eyes: :zzz: **[fix(metrics): remove language selection](https://github.com/NethServer/ns8-docs/pull/167)** by *gsanchietti* - Reviewers: *None* - Created at: 2025-05-26T13:20:09Z
 - :eyes: :zzz: **[add Yealink T7X T8X AX](https://github.com/NethServer/ns8-docs/pull/165)** by *andrea-marchionni* - Reviewers: *None* - Created at: 2025-05-16T16:03:23Z
 - :eyes: :zzz: **[Update note about IP change to clarify need for correct reconfiguration](https://github.com/NethServer/ns8-docs/pull/164)** by *IgonetIT* - Reviewers: *None* - Created at: 2025-05-08T09:20:48Z
 
-### NethServer/nethsecurity-ui 1 
+### NethServer/nethsecurity-ui 2 
 
+- :eyes:  **[fix(threat shield ip): updated labels](https://github.com/NethServer/nethsecurity-ui/pull/598)** by *cotosso* - Reviewers: *None* - Created at: 2025-07-24T07:30:18Z
 - :eyes:  **[chore(main): release 2.0.1](https://github.com/NethServer/nethsecurity-ui/pull/597)** by *Tbaile* - Reviewers: *None* - Created at: 2025-07-22T06:59:30Z
 
 ### NethServer/nethsecurity-docs 3 
 
-- :eyes:  **[Block DoS - changes](https://github.com/NethServer/nethsecurity-docs/pull/196)** by *cotosso* - Reviewers: *None* - Created at: 2025-07-23T16:11:13Z
+- :eyes:  **[fix(threat shield ip): text adjustments](https://github.com/NethServer/nethsecurity-docs/pull/196)** by *cotosso* - Reviewers: *None* - Created at: 2025-07-23T16:11:13Z
 -   **[fix(build): parsing correctly using semver for new versions](https://github.com/NethServer/nethsecurity-docs/pull/195)** by *Tbaile* - Reviewers: *gsanchietti* - Created at: 2025-07-21T08:05:14Z
 -   **[feat(controller): add unit groups](https://github.com/NethServer/nethsecurity-docs/pull/194)** by *gsanchietti* - Reviewers: *filippocarletti, cotosso* - Created at: 2025-07-15T13:06:06Z
 
-### NethServer/ns8-user-manager 1 
+### NethServer/nethlink 1 
 
-- :eyes:  **[chore(main): release 1.1.6](https://github.com/NethServer/ns8-user-manager/pull/100)** by *Tbaile* - Reviewers: *None* - Created at: 2025-06-30T09:25:46Z
+- :eyes:  **[fix: created new event to manage urlParam](https://github.com/NethServer/nethlink/pull/69)** by *tonyco97* - Reviewers: *None* - Created at: 2025-07-24T10:35:08Z
 
 ## Organization: nethesis
 
@@ -76,13 +72,13 @@ date = 2025-07-24
 -  :zzz: **[fix: update metadata.json](https://github.com/nethesis/ns8-nethvoice/pull/483)** by *DavidePrincipi* - Reviewers: *andrea-marchionni* - Created at: 2025-06-19T16:14:11Z
 -  :zzz: **[feature(AI): Voice recognition backend ](https://github.com/nethesis/ns8-nethvoice/pull/464)** by *Stell0* - Reviewers: *Amygos* - Created at: 2025-06-05T10:03:14Z
 
-### nethesis/nethvoice-cti 1 
+### nethesis/nethvoice-cti 2 
 
+- :eyes:  **[fix: removed urlParam custom management](https://github.com/nethesis/nethvoice-cti/pull/327)** by *tonyco97* - Reviewers: *None* - Created at: 2025-07-24T07:46:14Z
 - :eyes:  **[feat: changed api path for middleware](https://github.com/nethesis/nethvoice-cti/pull/317)** by *tommaso-ascani* - Reviewers: *None* - Created at: 2025-06-30T14:27:05Z
 
-### nethesis/phone-island 2 
+### nethesis/phone-island 1 
 
-- :eyes:  **[fix: better phone-island-call-ringing event](https://github.com/nethesis/phone-island/pull/105)** by *tonyco97* - Reviewers: *None* - Created at: 2025-07-21T09:07:55Z
 - :eyes:  **[feat: changed reference api path for middleware](https://github.com/nethesis/phone-island/pull/103)** by *tommaso-ascani* - Reviewers: *None* - Created at: 2025-06-30T14:18:42Z
 
 
