@@ -1,13 +1,13 @@
 +++
 title = 'Open Pull Requests'
-date = 2025-07-25
+date = 2025-07-26
 +++
 
 ## Organization: nethserver
 
 ### NethServer/ns8-core 2 
 
--   **[Refactor the port management logic by  ensuring data integrity](https://github.com/NethServer/ns8-core/pull/906)** by *stephdl* - Reviewers: *DavidePrincipi* - Created at: 2025-06-25T13:55:58Z
+-  :zzz: **[Refactor the port management logic by  ensuring data integrity](https://github.com/NethServer/ns8-core/pull/906)** by *stephdl* - Reviewers: *DavidePrincipi* - Created at: 2025-06-25T13:55:58Z
 -  :zzz: **[fix(api): allow restore if repo is not available](https://github.com/NethServer/ns8-core/pull/904)** by *gsanchietti* - Reviewers: *DavidePrincipi* - Created at: 2025-06-18T06:43:28Z
 
 ### NethServer/ns8-samba 1 
@@ -18,11 +18,16 @@ date = 2025-07-25
 
 -   **[Update bind.env to webtop:1.4.3](https://github.com/NethServer/nethserver-ns8-migration/pull/120)** by *stephdl* - Reviewers: *DavidePrincipi* - Created at: 2025-06-26T15:57:40Z
 
-### NethServer/nethsecurity 3 
+### NethServer/nethsecurity 4 
 
+-   **[fix(ns-plug): overwrite gpg signed backup if already exists](https://github.com/NethServer/nethsecurity/pull/1318)** by *Tbaile* - Reviewers: *gsanchietti* - Created at: 2025-07-25T13:31:16Z
 -   **[feat(banip): added dos management](https://github.com/NethServer/nethsecurity/pull/1316)** by *Tbaile* - Reviewers: *gsanchietti* - Created at: 2025-07-22T12:15:22Z
 -   **[fix(port forward): do not disable external object through the kebab menu](https://github.com/NethServer/nethsecurity/pull/1313)** by *Tbaile* - Reviewers: *gsanchietti* - Created at: 2025-07-21T13:17:06Z
 - :eyes:  **[feat(ns-plug): added custom MTU support](https://github.com/NethServer/nethsecurity/pull/1311)** by *Tbaile* - Reviewers: *None* - Created at: 2025-07-17T11:16:46Z
+
+### NethServer/ns8-mail 1 
+
+- :eyes:  **[fix(postfix): groups/alias/userforwards expansion](https://github.com/NethServer/ns8-mail/pull/195)** by *DavidePrincipi* - Reviewers: *None* - Created at: 2025-07-25T15:38:42Z
 
 ### NethServer/ns8-webtop 2 
 
@@ -36,14 +41,14 @@ date = 2025-07-25
 ### NethServer/ns8-docs 5 
 
 -   **[Add hotel docs](https://github.com/NethServer/ns8-docs/pull/176)** by *andrea-marchionni* - Reviewers: *viktec, margit86* - Created at: 2025-07-14T15:52:22Z
--   **[Update nethvoice.rst](https://github.com/NethServer/ns8-docs/pull/174)** by *margit86* - Reviewers: *Stell0* - Created at: 2025-06-25T12:41:13Z
+-  :zzz: **[Update nethvoice.rst](https://github.com/NethServer/ns8-docs/pull/174)** by *margit86* - Reviewers: *Stell0* - Created at: 2025-06-25T12:41:13Z
 - :eyes: :zzz: **[fix(metrics): remove language selection](https://github.com/NethServer/ns8-docs/pull/167)** by *gsanchietti* - Reviewers: *None* - Created at: 2025-05-26T13:20:09Z
 - :eyes: :zzz: **[add Yealink T7X T8X AX](https://github.com/NethServer/ns8-docs/pull/165)** by *andrea-marchionni* - Reviewers: *None* - Created at: 2025-05-16T16:03:23Z
 - :eyes: :zzz: **[Update note about IP change to clarify need for correct reconfiguration](https://github.com/NethServer/ns8-docs/pull/164)** by *IgonetIT* - Reviewers: *None* - Created at: 2025-05-08T09:20:48Z
 
 ### NethServer/nethsecurity-ui 2 
 
-- :eyes:  **[fix(threat shield ip): updated labels](https://github.com/NethServer/nethsecurity-ui/pull/598)** by *cotosso* - Reviewers: *None* - Created at: 2025-07-24T07:30:18Z
+- :eyes:  **[feat(threat shield ip): added management of DoS limits](https://github.com/NethServer/nethsecurity-ui/pull/599)** by *Tbaile* - Reviewers: *None* - Created at: 2025-07-24T10:09:47Z
 - :eyes:  **[chore(main): release 2.0.1](https://github.com/NethServer/nethsecurity-ui/pull/597)** by *Tbaile* - Reviewers: *None* - Created at: 2025-07-22T06:59:30Z
 
 ### NethServer/nethsecurity-docs 3 
@@ -70,7 +75,7 @@ date = 2025-07-25
 
 - :eyes:  **[feat: added middleware component](https://github.com/nethesis/ns8-nethvoice/pull/493)** by *tommaso-ascani* - Reviewers: *None* - Created at: 2025-06-30T14:06:22Z
 -  :zzz: **[fix: update metadata.json](https://github.com/nethesis/ns8-nethvoice/pull/483)** by *DavidePrincipi* - Reviewers: *andrea-marchionni* - Created at: 2025-06-19T16:14:11Z
--  :zzz: **[feature(AI): Voice recognition backend ](https://github.com/nethesis/ns8-nethvoice/pull/464)** by *Stell0* - Reviewers: *Amygos* - Created at: 2025-06-05T10:03:14Z
+- :eyes: :zzz: **[feature(AI): Voice recognition backend ](https://github.com/nethesis/ns8-nethvoice/pull/464)** by *Stell0* - Reviewers: *None* - Created at: 2025-06-05T10:03:14Z
 
 ### nethesis/nethvoice-cti 2 
 

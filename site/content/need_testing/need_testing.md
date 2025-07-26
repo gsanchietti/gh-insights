@@ -1,12 +1,12 @@
 +++
 title = 'Need testing (10)'
-date = 2025-07-25
+date = 2025-07-26
 +++
 
 ## NethVoice
 - **[Nethvoice: Report filters missing due to hostname resolution in reports-api container](https://github.com/NethServer/dev/issues/7569)** (#7481) by *Amygos* (Created: 2025-07-24, Updated: 2025-07-24T09:43:19Z)
-- **[NethVoice: QR-Code generation for rebranded app - missing BRAND_NAME field](https://github.com/NethServer/dev/issues/7568)** (#7481) by *viktec* (Created: 2025-07-23, Updated: 2025-07-24T15:10:12Z)
 - **[nethvoice: vendor nethserver-phonebook-mysql package in freepbx container](https://github.com/NethServer/dev/issues/7564)** (#7481) by *Amygos* (Created: 2025-07-22, Updated: 2025-07-23T15:11:47Z)
+- **[Call recording fails on queues](https://github.com/NethServer/dev/issues/7562)** (#7481) by *Stell0* (Created: 2025-07-22, Updated: 2025-07-25T13:33:13Z)
 - :point_right: **[NethVoice Proxy: issue on re-INVITE when INVITE with RTP cames from a device that doesn't support SRTP](https://github.com/NethServer/dev/issues/7546)** (#7481) by *Stell0* (Created: 2025-07-08, Updated: 2025-07-16T14:51:59Z)
 - :point_right: **[NethVoice: Add New VoIP Provider MyNet (cloud1b.voicer.it) to Configuration Wizard](https://github.com/NethServer/dev/issues/7540)** (#7481) by *fabbri-marco* (Created: 2025-07-02, Updated: 2025-07-22T12:46:49Z)
 
