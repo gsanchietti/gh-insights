@@ -1,6 +1,6 @@
 +++
 title = 'Open Pull Requests'
-date = 2025-07-26
+date = 2025-07-27
 +++
 
 ## Organization: nethserver
@@ -16,7 +16,7 @@ date = 2025-07-26
 
 ### NethServer/nethserver-ns8-migration 1 
 
--   **[Update bind.env to webtop:1.4.3](https://github.com/NethServer/nethserver-ns8-migration/pull/120)** by *stephdl* - Reviewers: *DavidePrincipi* - Created at: 2025-06-26T15:57:40Z
+-  :zzz: **[Update bind.env to webtop:1.4.3](https://github.com/NethServer/nethserver-ns8-migration/pull/120)** by *stephdl* - Reviewers: *DavidePrincipi* - Created at: 2025-06-26T15:57:40Z
 
 ### NethServer/nethsecurity 4 
 
@@ -32,7 +32,7 @@ date = 2025-07-26
 ### NethServer/ns8-webtop 2 
 
 - :eyes:  **[Reapply "feat: Update Tomcat and Postgres images (#134)"](https://github.com/NethServer/ns8-webtop/pull/145)** by *Amygos* - Reviewers: *None* - Created at: 2025-07-11T10:26:24Z
-- :eyes:  **[Set a minimum version to 1.4.3 for postgresql upgrade](https://github.com/NethServer/ns8-webtop/pull/142)** by *stephdl* - Reviewers: *None* - Created at: 2025-06-26T16:04:47Z
+- :eyes: :zzz: **[Set a minimum version to 1.4.3 for postgresql upgrade](https://github.com/NethServer/ns8-webtop/pull/142)** by *stephdl* - Reviewers: *None* - Created at: 2025-06-26T16:04:47Z
 
 ### NethServer/ns8-piler 1 
 
