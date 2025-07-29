@@ -1,6 +1,6 @@
 +++
 title = 'Open Pull Requests by Bots'
-date = 2025-07-28
+date = 2025-07-29
 +++
 
 ## Organization: nethserver
@@ -105,10 +105,8 @@ date = 2025-07-28
 - :eyes:  **[chore(deps): update debian:12.11 docker digest to b6507e3](https://github.com/NethServer/nethsecurity/pull/1315)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-07-22T10:35:06Z
 - :eyes: :zzz: **[chore: bump ns packages (automatic)](https://github.com/NethServer/nethsecurity/pull/1271)** by *github-actions[bot]* - Reviewers: *None* - Created at: 2025-06-16T14:33:17Z
 
-### NethServer/nethsecurity-controller 4 
+### NethServer/nethsecurity-controller 2 
 
-- :eyes:  **[chore(deps): update docker.io/traefik docker tag to v3.5.0](https://github.com/NethServer/nethsecurity-controller/pull/142)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-07-28T00:32:14Z
-- :eyes:  **[fix(deps): update module github.com/mattn/go-sqlite3 to v1.14.29](https://github.com/NethServer/nethsecurity-controller/pull/141)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-07-28T00:32:11Z
 - :eyes:  **[fix(deps): update module github.com/golang-jwt/jwt/v4 to v5](https://github.com/NethServer/nethsecurity-controller/pull/140)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-07-21T00:54:27Z
 - :eyes:  **[chore(deps): update dependency go to v1.24.5](https://github.com/NethServer/nethsecurity-controller/pull/138)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-07-21T00:53:55Z
 
@@ -254,10 +252,6 @@ date = 2025-07-28
 ### nethesis/contatta 1 
 
 -  :zzz: **[Bump symfony/process from 3.1.7 to 5.4.46 in /root/var/www/html/freepbx/contatta](https://github.com/nethesis/contatta/pull/17)** by *dependabot[bot]* - Reviewers: *Stell0* - Created at: 2024-11-06T16:19:29Z
-
-### nethesis/tancredi 1 
-
-- :eyes: :zzz: **[Bump nokogiri from 1.16.5 to 1.18.8 in /docs](https://github.com/nethesis/tancredi/pull/313)** by *dependabot[bot]* - Reviewers: *None* - Created at: 2025-04-22T04:13:05Z
 
 ### nethesis/nethserver-tancredi 1 
 
