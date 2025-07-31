@@ -1,6 +1,6 @@
 +++
 title = 'Open Pull Requests by Bots'
-date = 2025-07-30
+date = 2025-07-31
 +++
 
 ## Organization: nethserver
@@ -100,15 +100,15 @@ date = 2025-07-30
 - :eyes: :zzz: **[Translations update from Hosted Weblate](https://github.com/NethServer/ns8-grafana/pull/37)** by *weblate* - Reviewers: *None* - Created at: 2025-05-22T07:06:34Z
 - :eyes: :zzz: **[chore(deps): update ghcr.io/marketsquare/robotframework-browser/rfbrowser-stable docker tag to v19.7.0](https://github.com/NethServer/ns8-grafana/pull/26)** by *renovate[bot]* - Reviewers: *None* - Created at: 2024-12-20T22:05:46Z
 
-### NethServer/nethsecurity 2 
+### NethServer/nethsecurity 3 
 
+- :eyes:  **[chore(deps): update dependency nethserver/nethsecurity-ui to v2.2.2](https://github.com/NethServer/nethsecurity/pull/1325)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-07-30T07:11:45Z
 - :eyes:  **[chore(deps): update debian:12.11 docker digest to b6507e3](https://github.com/NethServer/nethsecurity/pull/1315)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-07-22T10:35:06Z
 - :eyes: :zzz: **[chore: bump ns packages (automatic)](https://github.com/NethServer/nethsecurity/pull/1271)** by *github-actions[bot]* - Reviewers: *None* - Created at: 2025-06-16T14:33:17Z
 
-### NethServer/nethsecurity-controller 2 
+### NethServer/nethsecurity-controller 1 
 
 - :eyes:  **[fix(deps): update module github.com/golang-jwt/jwt/v4 to v5](https://github.com/NethServer/nethsecurity-controller/pull/140)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-07-21T00:54:27Z
-- :eyes:  **[chore(deps): update dependency go to v1.24.5](https://github.com/NethServer/nethsecurity-controller/pull/138)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-07-21T00:53:55Z
 
 ### NethServer/ns8-mail 4 
 
@@ -117,13 +117,10 @@ date = 2025-07-30
 - :eyes: :zzz: **[chore(deps): update alpine docker tag to v3.22.1](https://github.com/NethServer/ns8-mail/pull/180)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-05-30T21:48:21Z
 - :eyes: :zzz: **[chore(deps): update ghcr.io/marketsquare/robotframework-browser/rfbrowser-stable docker tag to v19.7.0](https://github.com/NethServer/ns8-mail/pull/164)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-01-26T17:02:40Z
 
-### NethServer/ns8-nethsecurity-controller 5 
+### NethServer/ns8-nethsecurity-controller 2 
 
-- :eyes:  **[chore(deps): update grafana/grafana docker tag to v12.1.0](https://github.com/NethServer/ns8-nethsecurity-controller/pull/102)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-07-23T22:50:07Z
-- :eyes:  **[chore(deps): update grafana/promtail docker tag to v3.5.3](https://github.com/NethServer/ns8-nethsecurity-controller/pull/101)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-07-23T11:33:41Z
-- :eyes:  **[chore(deps): update timescale/timescaledb docker tag to v2.21.1](https://github.com/NethServer/ns8-nethsecurity-controller/pull/100)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-07-22T16:52:40Z
 - :eyes: :zzz: **[chore(deps): update grafana/loki docker tag to v3](https://github.com/NethServer/ns8-nethsecurity-controller/pull/96)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-06-26T01:44:04Z
-- :eyes: :zzz: **[chore(deps): update ghcr.io/marketsquare/robotframework-browser/rfbrowser-stable docker tag to v19.6.2](https://github.com/NethServer/ns8-nethsecurity-controller/pull/73)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-01-26T16:34:20Z
+- :eyes: :zzz: **[chore(deps): update ghcr.io/marketsquare/robotframework-browser/rfbrowser-stable docker tag to v19.7.0](https://github.com/NethServer/ns8-nethsecurity-controller/pull/73)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-01-26T16:34:20Z
 
 ### NethServer/ns8-mattermost 4 
 
@@ -178,7 +175,7 @@ date = 2025-07-30
 
 ### NethServer/nethsecurity-docs 1 
 
-- :eyes:  **[[BOT] Update Italian translation](https://github.com/NethServer/nethsecurity-docs/pull/198)** by *github-actions[bot]* - Reviewers: *None* - Created at: 2025-07-29T07:28:05Z
+-   **[[BOT] Update Italian translation](https://github.com/NethServer/nethsecurity-docs/pull/198)** by *github-actions[bot]* - Reviewers: *cotosso, Tbaile* - Created at: 2025-07-29T07:28:05Z
 
 ### NethServer/ns8-imapsync 3 
 
@@ -256,10 +253,6 @@ date = 2025-07-30
 
 -  :zzz: **[Bump symfony/process from 3.1.7 to 5.4.46 in /root/var/www/html/freepbx/contatta](https://github.com/nethesis/contatta/pull/17)** by *dependabot[bot]* - Reviewers: *Stell0* - Created at: 2024-11-06T16:19:29Z
 
-### nethesis/nethserver-tancredi 1 
-
--  :zzz: **[Bump tancredi version](https://github.com/nethesis/nethserver-tancredi/pull/154)** by *nethbot* - Reviewers: *Stell0, andrea-marchionni* - Created at: 2025-05-21T14:08:27Z
-
 ### nethesis/nethvoice-report 1 
 
 - :eyes: :zzz: **[Bump jspdf from 2.1.1 to 3.0.1 in /ui](https://github.com/nethesis/nethvoice-report/pull/203)** by *dependabot[bot]* - Reviewers: *None* - Created at: 2025-03-19T07:36:39Z
@@ -285,7 +278,7 @@ date = 2025-07-30
 - :eyes:  **[chore(deps): update ghcr.io/marketsquare/robotframework-browser/rfbrowser-stable docker tag to v19](https://github.com/nethesis/ns8-nethvoice-proxy/pull/75)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-07-08T07:28:39Z
 - :eyes:  **[chore(deps): update redis docker tag to v7.4](https://github.com/nethesis/ns8-nethvoice-proxy/pull/73)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-07-04T12:35:09Z
 - :eyes:  **[chore(deps): update ghcr.io/marketsquare/robotframework-browser/rfbrowser-stable docker tag to v10.1.0](https://github.com/nethesis/ns8-nethvoice-proxy/pull/72)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-07-04T12:35:05Z
-- :eyes:  **[build(deps): bump http-cache-semantics from 4.1.0 to 4.2.0 in /ui](https://github.com/nethesis/ns8-nethvoice-proxy/pull/71)** by *dependabot[bot]* - Reviewers: *None* - Created at: 2025-06-30T12:12:50Z
+- :eyes: :zzz: **[build(deps): bump http-cache-semantics from 4.1.0 to 4.2.0 in /ui](https://github.com/nethesis/ns8-nethvoice-proxy/pull/71)** by *dependabot[bot]* - Reviewers: *None* - Created at: 2025-06-30T12:12:50Z
 
 ### nethesis/parceler 2 
 

@@ -1,6 +1,6 @@
 +++
 title = 'Open Pull Requests'
-date = 2025-07-30
+date = 2025-07-31
 +++
 
 ## Organization: nethserver
@@ -22,17 +22,17 @@ date = 2025-07-30
 
 -   **[Default password expiration policy is disabled](https://github.com/NethServer/ns8-samba/pull/118)** by *stephdl* - Reviewers: *DavidePrincipi* - Created at: 2025-07-29T08:22:44Z
 
+### NethServer/ns8-loki 1 
+
+- :eyes:  **[fix: validate the configuration of cloud log manager](https://github.com/NethServer/ns8-loki/pull/43)** by *stephdl* - Reviewers: *None* - Created at: 2025-07-30T10:23:03Z
+
 ### NethServer/ns8-openldap 1 
 
 -   **[Default password expiration policy is disabled](https://github.com/NethServer/ns8-openldap/pull/66)** by *stephdl* - Reviewers: *DavidePrincipi* - Created at: 2025-07-29T08:10:52Z
 
-### NethServer/nethserver-ns8-migration 1 
-
--   **[Improve UTF-8 handling for displayName in inetOrgPerson entries](https://github.com/NethServer/nethserver-ns8-migration/pull/122)** by *stephdl* - Reviewers: *DavidePrincipi* - Created at: 2025-07-29T13:31:43Z
-
 ### NethServer/nethsecurity 1 
 
--   **[chore(netifyd): update to 4.4.7](https://github.com/NethServer/nethsecurity/pull/1293)** by *Tbaile* - Reviewers: *gsanchietti* - Created at: 2025-07-04T12:15:13Z
+- :eyes:  **[chore(netifyd): update to 4.4.7](https://github.com/NethServer/nethsecurity/pull/1293)** by *Tbaile* - Reviewers: *None* - Created at: 2025-07-04T12:15:13Z
 
 ### NethServer/ns8-piler 1 
 
@@ -67,18 +67,17 @@ date = 2025-07-30
 ### nethesis/ns8-nethvoice 4 
 
 -   **[enhancement(settings): Enable Let's Encrypt certificate by default](https://github.com/nethesis/ns8-nethvoice/pull/530)** by *Stell0* - Reviewers: *Amygos* - Created at: 2025-07-29T10:05:17Z
-- :eyes:  **[feat: added middleware component](https://github.com/nethesis/ns8-nethvoice/pull/493)** by *tommaso-ascani* - Reviewers: *None* - Created at: 2025-06-30T14:06:22Z
+- :eyes: :zzz: **[feat: added middleware component](https://github.com/nethesis/ns8-nethvoice/pull/493)** by *tommaso-ascani* - Reviewers: *None* - Created at: 2025-06-30T14:06:22Z
 -  :zzz: **[fix: update metadata.json](https://github.com/nethesis/ns8-nethvoice/pull/483)** by *DavidePrincipi* - Reviewers: *andrea-marchionni* - Created at: 2025-06-19T16:14:11Z
 -  :zzz: **[feature(AI): Voice recognition backend ](https://github.com/nethesis/ns8-nethvoice/pull/464)** by *Stell0* - Reviewers: *Amygos* - Created at: 2025-06-05T10:03:14Z
 
 ### nethesis/nethvoice-cti 2 
 
 - :eyes:  **[fix: removed urlParam custom management](https://github.com/nethesis/nethvoice-cti/pull/327)** by *tonyco97* - Reviewers: *None* - Created at: 2025-07-24T07:46:14Z
-- :eyes:  **[feat: changed api path for middleware](https://github.com/nethesis/nethvoice-cti/pull/317)** by *tommaso-ascani* - Reviewers: *None* - Created at: 2025-06-30T14:27:05Z
+- :eyes: :zzz: **[feat: changed api path for middleware](https://github.com/nethesis/nethvoice-cti/pull/317)** by *tommaso-ascani* - Reviewers: *None* - Created at: 2025-06-30T14:27:05Z
 
-### nethesis/phone-island 2 
+### nethesis/phone-island 1 
 
--   **[fix: use extensions to get throughTrunk instead of socket](https://github.com/nethesis/phone-island/pull/107)** by *tonyco97* - Reviewers: *edospadoni* - Created at: 2025-07-29T14:52:31Z
-- :eyes:  **[feat: changed reference api path for middleware](https://github.com/nethesis/phone-island/pull/103)** by *tommaso-ascani* - Reviewers: *None* - Created at: 2025-06-30T14:18:42Z
+- :eyes: :zzz: **[feat: changed reference api path for middleware](https://github.com/nethesis/phone-island/pull/103)** by *tommaso-ascani* - Reviewers: *None* - Created at: 2025-06-30T14:18:42Z
 
 
