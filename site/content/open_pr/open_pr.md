@@ -1,12 +1,17 @@
 +++
 title = 'Open Pull Requests'
-date = 2025-07-31
+date = 2025-08-01
 +++
 
 ## Organization: nethserver
 
-### NethServer/ns8-core 2 
+### NethServer/dev 1 
 
+-   **[feat(handbook): add container best practices](https://github.com/NethServer/dev/pull/7580)** by *gsanchietti* - Reviewers: *Amygos, stephdl, Stell0, andre8244, edospadoni, tommaso-ascani, tonyco97, NethNick* - Created at: 2025-07-31T14:03:35Z
+
+### NethServer/ns8-core 3 
+
+- :eyes:  **[Add URL format validation for address in CloudLogManagerConfigureModal](https://github.com/NethServer/ns8-core/pull/914)** by *stephdl* - Reviewers: *None* - Created at: 2025-07-31T08:35:33Z
 -  :zzz: **[Refactor the port management logic by  ensuring data integrity](https://github.com/NethServer/ns8-core/pull/906)** by *stephdl* - Reviewers: *DavidePrincipi* - Created at: 2025-06-25T13:55:58Z
 -  :zzz: **[fix(api): allow restore if repo is not available](https://github.com/NethServer/ns8-core/pull/904)** by *gsanchietti* - Reviewers: *DavidePrincipi* - Created at: 2025-06-18T06:43:28Z
 
@@ -16,7 +21,7 @@ date = 2025-07-31
 
 ### NethServer/ns8-dokuwiki 1 
 
-- :eyes:  **[Change Dokuwiki Upstream Image Source to Official Image](https://github.com/NethServer/ns8-dokuwiki/pull/43)** by *stephdl* - Reviewers: *None* - Created at: 2025-07-28T14:18:19Z
+- :eyes:  **[Refactor Dokuwiki configuration to use secrets.env](https://github.com/NethServer/ns8-dokuwiki/pull/44)** by *stephdl* - Reviewers: *None* - Created at: 2025-07-31T13:49:15Z
 
 ### NethServer/ns8-samba 1 
 
@@ -46,6 +51,11 @@ date = 2025-07-31
 - :eyes: :zzz: **[add Yealink T7X T8X AX](https://github.com/NethServer/ns8-docs/pull/165)** by *andrea-marchionni* - Reviewers: *None* - Created at: 2025-05-16T16:03:23Z
 - :eyes: :zzz: **[Update note about IP change to clarify need for correct reconfiguration](https://github.com/NethServer/ns8-docs/pull/164)** by *IgonetIT* - Reviewers: *None* - Created at: 2025-05-08T09:20:48Z
 
+### NethServer/nethsecurity-ui 2 
+
+-   **[feat(ts_dns): add local allowlist](https://github.com/NethServer/nethsecurity-ui/pull/609)** by *gsanchietti* - Reviewers: *Tbaile* - Created at: 2025-07-31T10:39:36Z
+-   **[fix(firewall): generating `ns_link` accordingly to response](https://github.com/NethServer/nethsecurity-ui/pull/608)** by *Tbaile* - Reviewers: *andre8244* - Created at: 2025-07-31T10:03:51Z
+
 ### NethServer/nethsecurity-docs 1 
 
 -   **[feat(controller): add unit groups](https://github.com/NethServer/nethsecurity-docs/pull/194)** by *gsanchietti* - Reviewers: *filippocarletti, cotosso* - Created at: 2025-07-15T13:06:06Z
@@ -53,6 +63,14 @@ date = 2025-07-31
 ### NethServer/nethlink 1 
 
 - :eyes:  **[fix: created new event to manage urlParam](https://github.com/NethServer/nethlink/pull/69)** by *tonyco97* - Reviewers: *None* - Created at: 2025-07-24T10:35:08Z
+
+### NethServer/ns8-passbolt 1 
+
+-   **[Add restore-module action](https://github.com/NethServer/ns8-passbolt/pull/9)** by *mrmarkuz* - Reviewers: *stephdl* - Created at: 2025-07-31T12:26:14Z
+
+### NethServer/my 1 
+
+-   **[fix(frontend): various improvements](https://github.com/NethServer/my/pull/13)** by *andre8244* - Reviewers: *edospadoni* - Created at: 2025-07-30T11:22:39Z
 
 ## Organization: nethesis
 
