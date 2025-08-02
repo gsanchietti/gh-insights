@@ -2,7 +2,7 @@
 
 title = 'To be released soon'
 
-date = 2025-08-01
+date = 2025-08-02
 
 +++
 
@@ -22,6 +22,8 @@ date = 2025-08-01
 
 - [NethVoice: QR-Code generation for rebranded app - missing BRAND_NAME field](https://github.com/NethServer/dev/issues/7568) (#7489) by viktec (Created: 2025-07-23T14:58:43Z, Updated: 2025-07-25T13:30:39Z)
 
+- [Call recording fails on queues](https://github.com/NethServer/dev/issues/7562) (#7489) by Stell0 (Created: 2025-07-22T07:14:22Z, Updated: 2025-08-01T13:30:30Z)
+
 - [NethVoice: Add New VoIP Provider MyNet (cloud1b.voicer.it) to Configuration Wizard](https://github.com/NethServer/dev/issues/7540) (#7489) by fabbri-marco (Created: 2025-07-02T12:57:05Z, Updated: 2025-07-29T08:49:14Z)
 
 ### NethSecurity
@@ -36,9 +38,13 @@ date = 2025-08-01
 
 - [Refactoring build system](https://github.com/NethServer/nethsecurity/issues/1295) (#1158) by Tbaile (Created: 2025-07-07T08:40:27Z, Updated: 2025-07-31T08:58:01Z)
 
+- [DHCP: Isolate DHCP responses by assigning instance=ns_dnsmasq and updating main dnsmasq server name](https://github.com/NethServer/nethsecurity/issues/1287) (#1158) by Tbaile (Created: 2025-07-03T08:49:31Z, Updated: 2025-08-01T14:13:58Z)
+
 - [Port forwards: show only user-defined rules, hide system entries](https://github.com/NethServer/nethsecurity/issues/1286) (#1158) by Tbaile (Created: 2025-07-02T11:55:36Z, Updated: 2025-07-30T14:24:50Z)
 
 - [mwan and qosify configuration persists after WAN removal from interfaces](https://github.com/NethServer/nethsecurity/issues/1244) (#1158) by filippocarletti (Created: 2025-05-30T11:15:43Z, Updated: 2025-07-21T14:26:15Z)
+
+- [Threat Shield DNS allowlist: missing local allowlist for URLs in the user interface](https://github.com/NethServer/nethsecurity/issues/1221) (#1158) by filippocarletti (Created: 2025-05-19T14:20:55Z, Updated: 2025-08-01T13:39:07Z)
 
 - [Flood firewall protection](https://github.com/NethServer/nethsecurity/issues/1158) (#1158) by Tbaile (Created: 2025-04-07T14:05:10Z, Updated: 2025-07-31T09:23:13Z)
 
