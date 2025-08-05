@@ -2,17 +2,23 @@
 
 title = 'To be released soon'
 
-date = 2025-08-04
+date = 2025-08-05
 
 +++
 
 ### NethServer
 
+- [Cloud Log Manager URL field not validated](https://github.com/NethServer/dev/issues/7577) (#7489) by DavidePrincipi (Created: 2025-07-29T09:13:13Z, Updated: 2025-08-04T15:19:46Z)
+
 - [OpenLDAP migration trims accented chars](https://github.com/NethServer/dev/issues/7576) (#7489) by mrmarkuz (Created: 2025-07-28T07:47:41Z, Updated: 2025-07-31T07:05:09Z)
+
+- [Mail queue page shows all items instead of the selected items per page](https://github.com/NethServer/dev/issues/7557) (#7489) by mrmarkuz (Created: 2025-07-18T14:21:51Z, Updated: 2025-08-04T11:33:45Z)
 
 - [User forwards are not respected in Mail 1.7](https://github.com/NethServer/dev/issues/7553) (#7489) by mrmarkuz (Created: 2025-07-11T09:23:25Z, Updated: 2025-07-30T08:27:25Z)
 
 - [Mail “access denied” error after update to 1.7](https://github.com/NethServer/dev/issues/7552) (#7489) by mrmarkuz (Created: 2025-07-11T09:04:49Z, Updated: 2025-07-30T18:25:50Z)
+
+- [Restore fails when application module is not in any repository](https://github.com/NethServer/dev/issues/7509) (#7489) by gsanchietti (Created: 2025-06-18T06:43:09Z, Updated: 2025-08-04T08:25:55Z)
 
 - [WebTop 1.5 with Tomcat and Postgresql Version Upgrade](https://github.com/NethServer/dev/issues/7489) (#7489) by lucagasparini (Created: 2025-05-30T10:20:52Z, Updated: 2025-07-30T09:46:20Z)
 
@@ -37,6 +43,8 @@ date = 2025-08-04
 - [ns-plug: send data using the VPN](https://github.com/NethServer/nethsecurity/issues/1301) (#1158) by gsanchietti (Created: 2025-07-09T07:02:30Z, Updated: 2025-07-31T08:38:12Z)
 
 - [Refactoring build system](https://github.com/NethServer/nethsecurity/issues/1295) (#1158) by Tbaile (Created: 2025-07-07T08:40:27Z, Updated: 2025-07-31T08:58:01Z)
+
+- [Zone creation: automatic special zone configuration for GUEST and DMZ](https://github.com/NethServer/nethsecurity/issues/1291) (#1158) by Tbaile (Created: 2025-07-03T14:25:37Z, Updated: 2025-08-04T13:22:02Z)
 
 - [DHCP: Isolate DHCP responses by assigning instance=ns_dnsmasq and updating main dnsmasq server name](https://github.com/NethServer/nethsecurity/issues/1287) (#1158) by Tbaile (Created: 2025-07-03T08:49:31Z, Updated: 2025-08-01T14:13:58Z)
 

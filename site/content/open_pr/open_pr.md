@@ -1,17 +1,17 @@
 +++
 title = 'Open Pull Requests'
-date = 2025-08-04
+date = 2025-08-05
 +++
 
 ## Organization: nethserver
 
-### NethServer/dev 2 
+### NethServer/dev 1 
 
 -   **[Vulnerability management process](https://github.com/NethServer/dev/pull/7591)** by *gsanchietti* - Reviewers: *andrea-marchionni, cotosso, lucagasparini, nrauso, NethNick* - Created at: 2025-08-01T08:55:21Z
--   **[Handbook: best practices and EOL management](https://github.com/NethServer/dev/pull/7583)** by *gsanchietti* - Reviewers: *Stell0, andrea-marchionni, cotosso, lucagasparini, nrauso, tommaso-ascani, NethNick* - Created at: 2025-07-31T14:40:55Z
 
-### NethServer/ns8-core 1 
+### NethServer/ns8-core 2 
 
+-   **[feat(ui): hide ui for apps that are being migrated](https://github.com/NethServer/ns8-core/pull/917)** by *andre8244* - Reviewers: *Tbaile* - Created at: 2025-08-04T12:19:24Z
 -  :zzz: **[Refactor the port management logic by  ensuring data integrity](https://github.com/NethServer/ns8-core/pull/906)** by *stephdl* - Reviewers: *DavidePrincipi* - Created at: 2025-06-25T13:55:58Z
 
 ### NethServer/ns8-repomd 1 
@@ -25,6 +25,10 @@ date = 2025-08-04
 ### NethServer/ns8-openldap 1 
 
 -   **[Default password expiration policy is disabled](https://github.com/NethServer/ns8-openldap/pull/66)** by *stephdl* - Reviewers: *DavidePrincipi* - Created at: 2025-07-29T08:10:52Z
+
+### NethServer/nethsecurity-controller 1 
+
+- :eyes:  **[fix(api): refactor migration process](https://github.com/NethServer/nethsecurity-controller/pull/146)** by *gsanchietti* - Reviewers: *None* - Created at: 2025-08-04T13:04:20Z
 
 ### NethServer/ns8-piler 1 
 
@@ -45,6 +49,10 @@ date = 2025-08-04
 ### NethServer/nethlink 1 
 
 - :eyes:  **[fix: created new event to manage urlParam](https://github.com/NethServer/nethlink/pull/69)** by *tonyco97* - Reviewers: *None* - Created at: 2025-07-24T10:35:08Z
+
+### NethServer/ns8-passbolt 1 
+
+- :eyes:  **[Add precreation of admin URL and show it in UI and add mariadb AUTO_UPGRADE](https://github.com/NethServer/ns8-passbolt/pull/10)** by *mrmarkuz* - Reviewers: *None* - Created at: 2025-08-04T12:36:46Z
 
 ## Organization: nethesis
 
