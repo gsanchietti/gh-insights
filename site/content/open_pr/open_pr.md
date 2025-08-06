@@ -1,6 +1,6 @@
 +++
 title = 'Open Pull Requests'
-date = 2025-08-05
+date = 2025-08-06
 +++
 
 ## Organization: nethserver
@@ -9,9 +9,8 @@ date = 2025-08-05
 
 -   **[Vulnerability management process](https://github.com/NethServer/dev/pull/7591)** by *gsanchietti* - Reviewers: *andrea-marchionni, cotosso, lucagasparini, nrauso, NethNick* - Created at: 2025-08-01T08:55:21Z
 
-### NethServer/ns8-core 2 
+### NethServer/ns8-core 1 
 
--   **[feat(ui): hide ui for apps that are being migrated](https://github.com/NethServer/ns8-core/pull/917)** by *andre8244* - Reviewers: *Tbaile* - Created at: 2025-08-04T12:19:24Z
 -  :zzz: **[Refactor the port management logic by  ensuring data integrity](https://github.com/NethServer/ns8-core/pull/906)** by *stephdl* - Reviewers: *DavidePrincipi* - Created at: 2025-06-25T13:55:58Z
 
 ### NethServer/ns8-repomd 1 
@@ -26,13 +25,9 @@ date = 2025-08-05
 
 -   **[Default password expiration policy is disabled](https://github.com/NethServer/ns8-openldap/pull/66)** by *stephdl* - Reviewers: *DavidePrincipi* - Created at: 2025-07-29T08:10:52Z
 
-### NethServer/nethsecurity-controller 1 
-
-- :eyes:  **[fix(api): refactor migration process](https://github.com/NethServer/nethsecurity-controller/pull/146)** by *gsanchietti* - Reviewers: *None* - Created at: 2025-08-04T13:04:20Z
-
 ### NethServer/ns8-piler 1 
 
-- :eyes: :zzz: **[Refactor service startup and add Manticore and MariaDB configurations for 1.4.7](https://github.com/NethServer/ns8-piler/pull/34)** by *stephdl* - Reviewers: *None* - Created at: 2025-06-19T10:01:41Z
+- :eyes:  **[Increase email import limit to 2000](https://github.com/NethServer/ns8-piler/pull/37)** by *stephdl* - Reviewers: *None* - Created at: 2025-08-05T14:19:13Z
 
 ### NethServer/ns8-docs 5 
 
@@ -40,7 +35,7 @@ date = 2025-08-05
 -  :zzz: **[Update nethvoice.rst](https://github.com/NethServer/ns8-docs/pull/174)** by *margit86* - Reviewers: *Stell0* - Created at: 2025-06-25T12:41:13Z
 - :eyes: :zzz: **[fix(metrics): remove language selection](https://github.com/NethServer/ns8-docs/pull/167)** by *gsanchietti* - Reviewers: *None* - Created at: 2025-05-26T13:20:09Z
 - :eyes: :zzz: **[add Yealink T7X T8X AX](https://github.com/NethServer/ns8-docs/pull/165)** by *andrea-marchionni* - Reviewers: *None* - Created at: 2025-05-16T16:03:23Z
-- :eyes: :zzz: **[Update note about IP change to clarify need for correct reconfiguration](https://github.com/NethServer/ns8-docs/pull/164)** by *IgonetIT* - Reviewers: *None* - Created at: 2025-05-08T09:20:48Z
+-  :zzz: **[Update note about IP change to clarify need for correct reconfiguration](https://github.com/NethServer/ns8-docs/pull/164)** by *IgonetIT* - Reviewers: *Stell0, andrea-marchionni* - Created at: 2025-05-08T09:20:48Z
 
 ### NethServer/nethsecurity-docs 1 
 
