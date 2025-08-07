@@ -2,7 +2,7 @@
 
 title = 'To be released soon'
 
-date = 2025-08-06
+date = 2025-08-07
 
 +++
 
@@ -21,18 +21,6 @@ date = 2025-08-06
 - [Restore fails when application module is not in any repository](https://github.com/NethServer/dev/issues/7509) (#7489) by gsanchietti (Created: 2025-06-18T06:43:09Z, Updated: 2025-08-04T08:25:55Z)
 
 - [WebTop 1.5 with Tomcat and Postgresql Version Upgrade](https://github.com/NethServer/dev/issues/7489) (#7489) by lucagasparini (Created: 2025-05-30T10:20:52Z, Updated: 2025-07-30T09:46:20Z)
-
-### NethVoice
-
-- [Nethvoice: Report filters missing due to hostname resolution in reports-api container](https://github.com/NethServer/dev/issues/7569) (#7489) by Amygos (Created: 2025-07-24T08:39:37Z, Updated: 2025-07-31T14:15:52Z)
-
-- [NethVoice: QR-Code generation for rebranded app - missing BRAND_NAME field](https://github.com/NethServer/dev/issues/7568) (#7489) by viktec (Created: 2025-07-23T14:58:43Z, Updated: 2025-07-25T13:30:39Z)
-
-- [nethvoice: vendor nethserver-phonebook-mysql package in freepbx container](https://github.com/NethServer/dev/issues/7564) (#7489) by Amygos (Created: 2025-07-22T14:18:54Z, Updated: 2025-08-05T15:29:33Z)
-
-- [Call recording fails on queues](https://github.com/NethServer/dev/issues/7562) (#7489) by Stell0 (Created: 2025-07-22T07:14:22Z, Updated: 2025-08-01T13:30:30Z)
-
-- [NethVoice: Add New VoIP Provider MyNet (cloud1b.voicer.it) to Configuration Wizard](https://github.com/NethServer/dev/issues/7540) (#7489) by fabbri-marco (Created: 2025-07-02T12:57:05Z, Updated: 2025-07-29T08:49:14Z)
 
 ### NethSecurity
 

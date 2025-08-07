@@ -1,21 +1,30 @@
 +++
 title = 'Open Pull Requests'
-date = 2025-08-06
+date = 2025-08-07
 +++
 
 ## Organization: nethserver
+
+### NethServer/nethserver-squid 1 
+
+- :eyes:  **[fix: add mitigation for CVE-2025-54574](https://github.com/NethServer/nethserver-squid/pull/81)** by *gsanchietti* - Reviewers: *None* - Created at: 2025-08-06T12:53:15Z
 
 ### NethServer/dev 1 
 
 -   **[Vulnerability management process](https://github.com/NethServer/dev/pull/7591)** by *gsanchietti* - Reviewers: *andrea-marchionni, cotosso, lucagasparini, nrauso, NethNick* - Created at: 2025-08-01T08:55:21Z
 
-### NethServer/ns8-core 1 
+### NethServer/ns8-core 2 
 
+-   **[feat(facts): count software repositories by URL](https://github.com/NethServer/ns8-core/pull/921)** by *DavidePrincipi* - Reviewers: *gsanchietti* - Created at: 2025-08-06T16:32:44Z
 -  :zzz: **[Refactor the port management logic by  ensuring data integrity](https://github.com/NethServer/ns8-core/pull/906)** by *stephdl* - Reviewers: *DavidePrincipi* - Created at: 2025-06-25T13:55:58Z
 
 ### NethServer/ns8-repomd 1 
 
 - :eyes:  **[Update pins.yml for webtop upgrade](https://github.com/NethServer/ns8-repomd/pull/54)** by *stephdl* - Reviewers: *None* - Created at: 2025-07-28T09:57:40Z
+
+### NethServer/ns8-kickstart 1 
+
+-   **[fix: axios CVE-2025-27152](https://github.com/NethServer/ns8-kickstart/pull/64)** by *andre8244* - Reviewers: *Tbaile* - Created at: 2025-08-06T13:16:32Z
 
 ### NethServer/ns8-samba 1 
 
@@ -25,9 +34,9 @@ date = 2025-08-06
 
 -   **[Default password expiration policy is disabled](https://github.com/NethServer/ns8-openldap/pull/66)** by *stephdl* - Reviewers: *DavidePrincipi* - Created at: 2025-07-29T08:10:52Z
 
-### NethServer/ns8-piler 1 
+### NethServer/ns8-mail 1 
 
-- :eyes:  **[Increase email import limit to 2000](https://github.com/NethServer/ns8-piler/pull/37)** by *stephdl* - Reviewers: *None* - Created at: 2025-08-05T14:19:13Z
+-   **[fix: @babel/traverse CVE-2023-45133](https://github.com/NethServer/ns8-mail/pull/200)** by *andre8244* - Reviewers: *Tbaile* - Created at: 2025-08-06T10:34:06Z
 
 ### NethServer/ns8-docs 5 
 
@@ -59,12 +68,9 @@ date = 2025-08-06
 
 -  :zzz: **[Removed old notification service usage](https://github.com/nethesis/nethcti-app-iphone/pull/37)** by *NicolaMrAPPs* - Reviewers: *b9874e40962149eee62a8fd3bc4e709e* - Created at: 2023-08-02T09:19:30Z
 
-### nethesis/ns8-nethvoice 4 
+### nethesis/ns8-nethvoice 1 
 
--   **[enhancement(settings): Enable Let's Encrypt certificate by default](https://github.com/nethesis/ns8-nethvoice/pull/530)** by *Stell0* - Reviewers: *Amygos* - Created at: 2025-07-29T10:05:17Z
 - :eyes: :zzz: **[feat: added middleware component](https://github.com/nethesis/ns8-nethvoice/pull/493)** by *tommaso-ascani* - Reviewers: *None* - Created at: 2025-06-30T14:06:22Z
--  :zzz: **[fix: update metadata.json](https://github.com/nethesis/ns8-nethvoice/pull/483)** by *DavidePrincipi* - Reviewers: *andrea-marchionni* - Created at: 2025-06-19T16:14:11Z
--  :zzz: **[feature(AI): Voice recognition backend ](https://github.com/nethesis/ns8-nethvoice/pull/464)** by *Stell0* - Reviewers: *Amygos* - Created at: 2025-06-05T10:03:14Z
 
 ### nethesis/nethvoice-cti 2 
 
