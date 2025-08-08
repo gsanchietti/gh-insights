@@ -1,21 +1,16 @@
 +++
 title = 'Open Pull Requests'
-date = 2025-08-07
+date = 2025-08-08
 +++
 
 ## Organization: nethserver
-
-### NethServer/nethserver-squid 1 
-
-- :eyes:  **[fix: add mitigation for CVE-2025-54574](https://github.com/NethServer/nethserver-squid/pull/81)** by *gsanchietti* - Reviewers: *None* - Created at: 2025-08-06T12:53:15Z
 
 ### NethServer/dev 1 
 
 -   **[Vulnerability management process](https://github.com/NethServer/dev/pull/7591)** by *gsanchietti* - Reviewers: *andrea-marchionni, cotosso, lucagasparini, nrauso, NethNick* - Created at: 2025-08-01T08:55:21Z
 
-### NethServer/ns8-core 2 
+### NethServer/ns8-core 1 
 
--   **[feat(facts): count software repositories by URL](https://github.com/NethServer/ns8-core/pull/921)** by *DavidePrincipi* - Reviewers: *gsanchietti* - Created at: 2025-08-06T16:32:44Z
 -  :zzz: **[Refactor the port management logic by  ensuring data integrity](https://github.com/NethServer/ns8-core/pull/906)** by *stephdl* - Reviewers: *DavidePrincipi* - Created at: 2025-06-25T13:55:58Z
 
 ### NethServer/ns8-repomd 1 
@@ -37,6 +32,10 @@ date = 2025-08-07
 ### NethServer/ns8-mail 1 
 
 -   **[fix: @babel/traverse CVE-2023-45133](https://github.com/NethServer/ns8-mail/pull/200)** by *andre8244* - Reviewers: *Tbaile* - Created at: 2025-08-06T10:34:06Z
+
+### NethServer/ns8-piler 1 
+
+- :eyes:  **[Fix email reindexing command execution](https://github.com/NethServer/ns8-piler/pull/39)** by *stephdl* - Reviewers: *None* - Created at: 2025-08-07T12:55:57Z
 
 ### NethServer/ns8-docs 5 
 
