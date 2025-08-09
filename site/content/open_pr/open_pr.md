@@ -1,6 +1,6 @@
 +++
 title = 'Open Pull Requests'
-date = 2025-08-08
+date = 2025-08-09
 +++
 
 ## Organization: nethserver
@@ -25,17 +25,21 @@ date = 2025-08-08
 
 -   **[Default password expiration policy is disabled](https://github.com/NethServer/ns8-samba/pull/118)** by *stephdl* - Reviewers: *DavidePrincipi* - Created at: 2025-07-29T08:22:44Z
 
+### NethServer/ns8-traefik 1 
+
+-   **[fix: avoid IP exposure in TLS certificate](https://github.com/NethServer/ns8-traefik/pull/104)** by *DavidePrincipi* - Reviewers: *gsanchietti* - Created at: 2025-08-08T08:08:20Z
+
 ### NethServer/ns8-openldap 1 
 
 -   **[Default password expiration policy is disabled](https://github.com/NethServer/ns8-openldap/pull/66)** by *stephdl* - Reviewers: *DavidePrincipi* - Created at: 2025-07-29T08:10:52Z
 
+### NethServer/nethsecurity 1 
+
+-   **[build: add missing newline](https://github.com/NethServer/nethsecurity/pull/1339)** by *filippocarletti* - Reviewers: *gsanchietti, Tbaile* - Created at: 2025-08-08T12:28:29Z
+
 ### NethServer/ns8-mail 1 
 
 -   **[fix: @babel/traverse CVE-2023-45133](https://github.com/NethServer/ns8-mail/pull/200)** by *andre8244* - Reviewers: *Tbaile* - Created at: 2025-08-06T10:34:06Z
-
-### NethServer/ns8-piler 1 
-
-- :eyes:  **[Fix email reindexing command execution](https://github.com/NethServer/ns8-piler/pull/39)** by *stephdl* - Reviewers: *None* - Created at: 2025-08-07T12:55:57Z
 
 ### NethServer/ns8-docs 5 
 

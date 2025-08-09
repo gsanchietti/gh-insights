@@ -1,6 +1,6 @@
 +++
 title = 'Open Pull Requests by Bots'
-date = 2025-08-08
+date = 2025-08-09
 +++
 
 ## Organization: nethserver
@@ -45,8 +45,9 @@ date = 2025-08-08
 -  :zzz: **[chore(deps): update ghcr.io/marketsquare/robotframework-browser/rfbrowser-stable docker tag to v19](https://github.com/NethServer/ns8-webserver/pull/83)** by *renovate[bot]* - Reviewers: *stephdl* - Created at: 2024-11-27T11:53:06Z
 -  :zzz: **[chore(deps): update ghcr.io/marketsquare/robotframework-browser/rfbrowser-stable docker tag to v10.1.0](https://github.com/NethServer/ns8-webserver/pull/76)** by *renovate[bot]* - Reviewers: *stephdl* - Created at: 2024-10-17T13:08:31Z
 
-### NethServer/ns8-nextcloud 6 
+### NethServer/ns8-nextcloud 7 
 
+- :eyes:  **[chore(deps): update dependency nextcloud/notify_push to v1.1.1](https://github.com/NethServer/ns8-nextcloud/pull/153)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-08-08T16:45:35Z
 - :eyes:  **[chore(deps): update docker.io/library/nextcloud docker tag to v31.0.7](https://github.com/NethServer/ns8-nextcloud/pull/152)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-07-12T03:11:57Z
 - :eyes: :zzz: **[chore(deps): update redis docker tag to v7.4.5](https://github.com/NethServer/ns8-nextcloud/pull/151)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-07-07T21:55:45Z
 - :eyes: :zzz: **[chore(deps): update nginx docker tag to v1.29.0](https://github.com/NethServer/ns8-nextcloud/pull/150)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-06-25T02:06:16Z
@@ -277,7 +278,7 @@ date = 2025-08-08
 ### nethesis/parceler 3 
 
 - :eyes:  **[chore(deps): lock file maintenance](https://github.com/nethesis/parceler/pull/93)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-08-01T00:35:14Z
-- :eyes:  **[chore(deps): update dependency laravel-vite-plugin to v2](https://github.com/nethesis/parceler/pull/91)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-07-10T00:15:06Z
+- :eyes: :zzz: **[chore(deps): update dependency laravel-vite-plugin to v2](https://github.com/nethesis/parceler/pull/91)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-07-10T00:15:06Z
 - :eyes: :zzz: **[chore(deps): update dependency vite to v7](https://github.com/nethesis/parceler/pull/84)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-06-24T11:06:15Z
 
 
