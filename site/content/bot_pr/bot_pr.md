@@ -1,6 +1,6 @@
 +++
 title = 'Open Pull Requests by Bots'
-date = 2025-08-09
+date = 2025-08-10
 +++
 
 ## Organization: nethserver
@@ -109,7 +109,7 @@ date = 2025-08-09
 ### NethServer/ns8-mail 4 
 
 - :eyes:  **[Translations update from Hosted Weblate](https://github.com/NethServer/ns8-mail/pull/196)** by *weblate* - Reviewers: *None* - Created at: 2025-07-26T03:07:49Z
-- :eyes:  **[chore(deps): update mcr.microsoft.com/devcontainers/javascript-node docker tag to v24](https://github.com/NethServer/ns8-mail/pull/194)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-07-10T13:32:19Z
+- :eyes: :zzz: **[chore(deps): update mcr.microsoft.com/devcontainers/javascript-node docker tag to v24](https://github.com/NethServer/ns8-mail/pull/194)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-07-10T13:32:19Z
 - :eyes: :zzz: **[chore(deps): update alpine docker tag to v3.22.1](https://github.com/NethServer/ns8-mail/pull/180)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-05-30T21:48:21Z
 - :eyes: :zzz: **[chore(deps): update ghcr.io/marketsquare/robotframework-browser/rfbrowser-stable docker tag to v19.7.0](https://github.com/NethServer/ns8-mail/pull/164)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-01-26T17:02:40Z
 
