@@ -1,6 +1,6 @@
 +++
-title = 'Need testing (9)'
-date = 2025-08-11
+title = 'Need testing (11)'
+date = 2025-08-12
 +++
 
 ## NethVoice
@@ -8,6 +8,8 @@ date = 2025-08-11
 
 ## NethServer
 - :point_right: **[Subscription my.nethserver.com cloud backup](https://github.com/NethServer/dev/issues/7594)** (#7481) by *DavidePrincipi* (Created: 2025-08-01, Updated: 2025-08-05T07:43:29Z)
+- :point_right: **[Upgrade nginx, DependencyTrack and trivy](https://github.com/NethServer/dev/issues/7590)** (#7481) by *stephdl* (Created: 2025-07-31, Updated: 2025-08-11T08:43:58Z)
+- :point_right: **[Update nginx to stable and php8.4 for Webserver](https://github.com/NethServer/dev/issues/7589)** (#7481) by *stephdl* (Created: 2025-07-31, Updated: 2025-08-11T09:24:54Z)
 - :point_right: **[Lock application cluster-admin UI during migration](https://github.com/NethServer/dev/issues/7567)** (#7481) by *DavidePrincipi* (Created: 2025-07-23, Updated: 2025-08-06T12:34:19Z)
 - :point_right: **[User Portal: Unmanaged 400 error when creating user with uppercase letters in "Username" field](https://github.com/NethServer/dev/issues/7532)** (#7481) by *viktec* (Created: 2025-06-27, Updated: 2025-08-04T08:59:22Z)
 - :point_right: **[Update ns8-piler to piler 1.4.7 ](https://github.com/NethServer/dev/issues/7516)** (#7481) by *stephdl* (Created: 2025-06-19, Updated: 2025-08-08T12:08:59Z)

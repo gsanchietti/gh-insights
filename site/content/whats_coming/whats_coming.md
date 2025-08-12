@@ -2,11 +2,13 @@
 
 title = 'To be released soon'
 
-date = 2025-08-11
+date = 2025-08-12
 
 +++
 
 ### NethServer
+
+- [Upgrade ejabberd Docker Image to v25.07](https://github.com/NethServer/dev/issues/7586) (#7489) by stephdl (Created: 2025-07-31T14:47:10Z, Updated: 2025-08-11T12:45:41Z)
 
 - [Cloud Log Manager URL field not validated](https://github.com/NethServer/dev/issues/7577) (#7489) by DavidePrincipi (Created: 2025-07-29T09:13:13Z, Updated: 2025-08-04T15:19:46Z)
 
