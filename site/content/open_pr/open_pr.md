@@ -1,6 +1,6 @@
 +++
 title = 'Open Pull Requests'
-date = 2025-08-12
+date = 2025-08-13
 +++
 
 ## Organization: nethserver
@@ -40,6 +40,11 @@ date = 2025-08-12
 ### NethServer/ns8-mail 1 
 
 -   **[fix: @babel/traverse CVE-2023-45133](https://github.com/NethServer/ns8-mail/pull/200)** by *andre8244* - Reviewers: *Tbaile* - Created at: 2025-08-06T10:34:06Z
+
+### NethServer/ns8-crowdsec 2 
+
+-   **[Fix ban duration format consistency](https://github.com/NethServer/ns8-crowdsec/pull/86)** by *stephdl* - Reviewers: *DavidePrincipi* - Created at: 2025-08-12T12:17:34Z
+-   **[Remove FreePBX configurations and related components](https://github.com/NethServer/ns8-crowdsec/pull/84)** by *stephdl* - Reviewers: *DavidePrincipi* - Created at: 2025-08-12T10:06:54Z
 
 ### NethServer/ns8-docs 5 
 

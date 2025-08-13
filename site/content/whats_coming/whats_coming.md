@@ -2,13 +2,17 @@
 
 title = 'To be released soon'
 
-date = 2025-08-12
+date = 2025-08-13
 
 +++
 
 ### NethServer
 
 - [Upgrade ejabberd Docker Image to v25.07](https://github.com/NethServer/dev/issues/7586) (#7489) by stephdl (Created: 2025-07-31T14:47:10Z, Updated: 2025-08-11T12:45:41Z)
+
+- [Upgrade Nextcloud, notify-push and Redis Docker Images](https://github.com/NethServer/dev/issues/7584) (#7489) by stephdl (Created: 2025-07-31T14:42:23Z, Updated: 2025-08-12T19:42:37Z)
+
+- [Request to upgrade Collabora CODE Docker tag to v25.04.4.2.1](https://github.com/NethServer/dev/issues/7581) (#7489) by stephdl (Created: 2025-07-31T14:33:26Z, Updated: 2025-08-12T19:10:51Z)
 
 - [Cloud Log Manager URL field not validated](https://github.com/NethServer/dev/issues/7577) (#7489) by DavidePrincipi (Created: 2025-07-29T09:13:13Z, Updated: 2025-08-04T15:19:46Z)
 
