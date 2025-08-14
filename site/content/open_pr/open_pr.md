@@ -1,6 +1,6 @@
 +++
 title = 'Open Pull Requests'
-date = 2025-08-13
+date = 2025-08-14
 +++
 
 ## Organization: nethserver
@@ -9,8 +9,9 @@ date = 2025-08-13
 
 -   **[Vulnerability management process](https://github.com/NethServer/dev/pull/7591)** by *gsanchietti* - Reviewers: *andrea-marchionni, cotosso, lucagasparini, nrauso, NethNick* - Created at: 2025-08-01T08:55:21Z
 
-### NethServer/ns8-core 1 
+### NethServer/ns8-core 2 
 
+- :eyes:  **[Add user account control handling for password expiration status](https://github.com/NethServer/ns8-core/pull/922)** by *stephdl* - Reviewers: *None* - Created at: 2025-08-13T13:59:39Z
 -  :zzz: **[Refactor the port management logic by  ensuring data integrity](https://github.com/NethServer/ns8-core/pull/906)** by *stephdl* - Reviewers: *DavidePrincipi* - Created at: 2025-06-25T13:55:58Z
 
 ### NethServer/ns8-repomd 1 
@@ -21,8 +22,10 @@ date = 2025-08-13
 
 -   **[fix: axios CVE-2025-27152](https://github.com/NethServer/ns8-kickstart/pull/64)** by *andre8244* - Reviewers: *Tbaile* - Created at: 2025-08-06T13:16:32Z
 
-### NethServer/ns8-samba 1 
+### NethServer/ns8-samba 3 
 
+- :eyes:  **[Add password change and expiration options for users](https://github.com/NethServer/ns8-samba/pull/121)** by *stephdl* - Reviewers: *None* - Created at: 2025-08-13T13:33:57Z
+-   **[Modify Samba users' flags from [UX] to [U] excluding ldapservice](https://github.com/NethServer/ns8-samba/pull/120)** by *stephdl* - Reviewers: *DavidePrincipi* - Created at: 2025-08-13T10:30:48Z
 -   **[Default password expiration policy is disabled](https://github.com/NethServer/ns8-samba/pull/118)** by *stephdl* - Reviewers: *DavidePrincipi* - Created at: 2025-07-29T08:22:44Z
 
 ### NethServer/ns8-traefik 1 
@@ -48,7 +51,7 @@ date = 2025-08-13
 
 ### NethServer/ns8-docs 5 
 
--   **[Add hotel docs](https://github.com/NethServer/ns8-docs/pull/176)** by *andrea-marchionni* - Reviewers: *viktec, margit86* - Created at: 2025-07-14T15:52:22Z
+-  :zzz: **[Add hotel docs](https://github.com/NethServer/ns8-docs/pull/176)** by *andrea-marchionni* - Reviewers: *viktec, margit86* - Created at: 2025-07-14T15:52:22Z
 -  :zzz: **[Update nethvoice.rst](https://github.com/NethServer/ns8-docs/pull/174)** by *margit86* - Reviewers: *Stell0* - Created at: 2025-06-25T12:41:13Z
 - :eyes: :zzz: **[fix(metrics): remove language selection](https://github.com/NethServer/ns8-docs/pull/167)** by *gsanchietti* - Reviewers: *None* - Created at: 2025-05-26T13:20:09Z
 - :eyes: :zzz: **[add Yealink T7X T8X AX](https://github.com/NethServer/ns8-docs/pull/165)** by *andrea-marchionni* - Reviewers: *None* - Created at: 2025-05-16T16:03:23Z
