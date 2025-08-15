@@ -2,11 +2,13 @@
 
 title = 'To be released soon'
 
-date = 2025-08-14
+date = 2025-08-15
 
 +++
 
 ### NethServer
+
+- [Update nginx to stable and php8.4 for Webserver](https://github.com/NethServer/dev/issues/7589) (#7489) by stephdl (Created: 2025-07-31T15:02:32Z, Updated: 2025-08-14T07:06:59Z)
 
 - [Upgrade ejabberd Docker Image to v25.07](https://github.com/NethServer/dev/issues/7586) (#7489) by stephdl (Created: 2025-07-31T14:47:10Z, Updated: 2025-08-11T12:45:41Z)
 

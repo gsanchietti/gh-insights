@@ -1,6 +1,6 @@
 +++
 title = 'Open Pull Requests'
-date = 2025-08-14
+date = 2025-08-15
 +++
 
 ## Organization: nethserver
@@ -11,7 +11,7 @@ date = 2025-08-14
 
 ### NethServer/ns8-core 2 
 
-- :eyes:  **[Add user account control handling for password expiration status](https://github.com/NethServer/ns8-core/pull/922)** by *stephdl* - Reviewers: *None* - Created at: 2025-08-13T13:59:39Z
+-   **[Add "Must Change Password on Login" & Password Expiration Controls](https://github.com/NethServer/ns8-core/pull/922)** by *stephdl* - Reviewers: *andre8244, DavidePrincipi* - Created at: 2025-08-13T13:59:39Z
 -  :zzz: **[Refactor the port management logic by  ensuring data integrity](https://github.com/NethServer/ns8-core/pull/906)** by *stephdl* - Reviewers: *DavidePrincipi* - Created at: 2025-06-25T13:55:58Z
 
 ### NethServer/ns8-repomd 1 
@@ -59,7 +59,7 @@ date = 2025-08-14
 
 ### NethServer/nethsecurity-docs 1 
 
--   **[feat(controller): add unit groups](https://github.com/NethServer/nethsecurity-docs/pull/194)** by *gsanchietti* - Reviewers: *filippocarletti, cotosso* - Created at: 2025-07-15T13:06:06Z
+-  :zzz: **[feat(controller): add unit groups](https://github.com/NethServer/nethsecurity-docs/pull/194)** by *gsanchietti* - Reviewers: *filippocarletti, cotosso* - Created at: 2025-07-15T13:06:06Z
 
 ### NethServer/nethlink 1 
 
