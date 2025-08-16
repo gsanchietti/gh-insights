@@ -1,6 +1,6 @@
 +++
 title = 'Open Pull Requests by Bots'
-date = 2025-08-15
+date = 2025-08-16
 +++
 
 ## Organization: nethserver
@@ -148,8 +148,9 @@ date = 2025-08-15
 - :eyes:  **[chore(deps): update ghcr.io/marketsquare/robotframework-browser/rfbrowser-stable docker tag to v19.7.0](https://github.com/NethServer/ns8-piler/pull/41)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-08-07T13:10:23Z
 - :eyes:  **[chore(deps): update sutoj/piler docker tag to v1.4.7](https://github.com/NethServer/ns8-piler/pull/40)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-08-07T13:10:20Z
 
-### NethServer/phonehome-server 5 
+### NethServer/phonehome-server 6 
 
+- :eyes:  **[chore(deps): update actions/checkout action to v5](https://github.com/NethServer/phonehome-server/pull/133)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-08-16T02:21:39Z
 - :eyes: :zzz: **[chore(deps): update dependency laravel-vite-plugin to v2](https://github.com/NethServer/phonehome-server/pull/132)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-07-12T02:07:08Z
 - :eyes: :zzz: **[chore(deps): update dependency vite to v7](https://github.com/NethServer/phonehome-server/pull/130)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-06-28T03:10:39Z
 - :eyes: :zzz: **[chore(deps): update grafana/grafana-oss docker tag to v12](https://github.com/NethServer/phonehome-server/pull/129)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-05-10T02:39:40Z
@@ -179,8 +180,9 @@ date = 2025-08-15
 - :eyes: :zzz: **[Translations update from Hosted Weblate](https://github.com/NethServer/ns8-imapsync/pull/52)** by *weblate* - Reviewers: *None* - Created at: 2025-04-04T11:02:47Z
 - :eyes: :zzz: **[chore(deps): update ghcr.io/marketsquare/robotframework-browser/rfbrowser-stable docker tag to v19.7.0](https://github.com/NethServer/ns8-imapsync/pull/36)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-01-26T16:23:25Z
 
-### NethServer/ns8-user-manager 6 
+### NethServer/ns8-user-manager 7 
 
+- :eyes:  **[chore(deps): update dependency @vue/tsconfig to ^0.8.0](https://github.com/NethServer/ns8-user-manager/pull/115)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-08-15T12:53:24Z
 - :eyes:  **[chore(deps): update actions/checkout action to v5](https://github.com/NethServer/ns8-user-manager/pull/114)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-08-11T13:24:55Z
 - :eyes:  **[chore(deps): update node.js to v22.18.0](https://github.com/NethServer/ns8-user-manager/pull/113)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-08-04T14:29:35Z
 - :eyes:  **[chore(deps): update dependency vite-plugin-vue-devtools to v8](https://github.com/NethServer/ns8-user-manager/pull/109)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-07-27T10:42:11Z
@@ -228,7 +230,7 @@ date = 2025-08-15
 
 ### NethServer/ns8-metrics 4 
 
-- :eyes:  **[chore(deps): update python docker tag to v3.13.6](https://github.com/NethServer/ns8-metrics/pull/33)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-08-07T21:30:57Z
+- :eyes:  **[chore(deps): update python docker tag to v3.13.7](https://github.com/NethServer/ns8-metrics/pull/33)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-08-07T21:30:57Z
 - :eyes:  **[chore(deps): update grafana/grafana docker tag to v12.1.1](https://github.com/NethServer/ns8-metrics/pull/31)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-07-23T23:23:28Z
 - :eyes: :zzz: **[chore(deps): update quay.io/prometheus/prometheus docker tag to v3.5.0](https://github.com/NethServer/ns8-metrics/pull/27)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-05-17T10:17:51Z
 - :eyes: :zzz: **[chore(deps): update ghcr.io/marketsquare/robotframework-browser/rfbrowser-stable docker tag to v19.7.0](https://github.com/NethServer/ns8-metrics/pull/5)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-02-27T13:33:08Z
