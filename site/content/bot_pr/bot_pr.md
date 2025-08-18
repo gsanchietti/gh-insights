@@ -1,6 +1,6 @@
 +++
 title = 'Open Pull Requests by Bots'
-date = 2025-08-17
+date = 2025-08-18
 +++
 
 ## Organization: nethserver
@@ -103,8 +103,11 @@ date = 2025-08-17
 - :eyes:  **[chore(deps): update dependency nethserver/nethsecurity-ui to v2.4.2](https://github.com/NethServer/nethsecurity/pull/1336)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-08-06T17:50:03Z
 - :eyes: :zzz: **[chore: bump ns packages (automatic)](https://github.com/NethServer/nethsecurity/pull/1271)** by *github-actions[bot]* - Reviewers: *None* - Created at: 2025-06-16T14:33:17Z
 
-### NethServer/nethsecurity-controller 1 
+### NethServer/nethsecurity-controller 4 
 
+- :eyes:  **[chore(deps): update actions/checkout action to v5](https://github.com/NethServer/nethsecurity-controller/pull/154)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-08-18T01:08:18Z
+- :eyes:  **[chore(deps): update docker.io/golang docker tag to v1.25.0](https://github.com/NethServer/nethsecurity-controller/pull/153)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-08-18T01:08:14Z
+- :eyes:  **[chore(deps): update dependency go to v1.25.0](https://github.com/NethServer/nethsecurity-controller/pull/152)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-08-18T01:08:10Z
 - :eyes:  **[fix(deps): update module github.com/golang-jwt/jwt/v4 to v5](https://github.com/NethServer/nethsecurity-controller/pull/140)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-07-21T00:54:27Z
 
 ### NethServer/ns8-mail 4 
