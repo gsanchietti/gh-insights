@@ -1,6 +1,6 @@
 +++
 title = 'Open Pull Requests'
-date = 2025-08-19
+date = 2025-08-20
 +++
 
 ## Organization: nethserver
@@ -11,7 +11,7 @@ date = 2025-08-19
 
 ### NethServer/ns8-core 3 
 
-- :eyes:  **[Add script and JSON schema for restarting module services](https://github.com/NethServer/ns8-core/pull/924)** by *stephdl* - Reviewers: *None* - Created at: 2025-08-18T15:27:16Z
+-   **[Add script and JSON schema for restarting module services](https://github.com/NethServer/ns8-core/pull/924)** by *stephdl* - Reviewers: *DavidePrincipi, andre8244* - Created at: 2025-08-18T15:27:16Z
 -   **[Add "Must Change Password on Login" & Password Expiration Controls](https://github.com/NethServer/ns8-core/pull/922)** by *stephdl* - Reviewers: *andre8244, DavidePrincipi* - Created at: 2025-08-13T13:59:39Z
 -  :zzz: **[Refactor the port management logic by  ensuring data integrity](https://github.com/NethServer/ns8-core/pull/906)** by *stephdl* - Reviewers: *DavidePrincipi* - Created at: 2025-06-25T13:55:58Z
 
@@ -37,6 +37,12 @@ date = 2025-08-19
 
 -   **[Default password expiration policy is disabled](https://github.com/NethServer/ns8-openldap/pull/66)** by *stephdl* - Reviewers: *DavidePrincipi* - Created at: 2025-07-29T08:10:52Z
 
+### NethServer/nethsecurity 3 
+
+- :eyes:  **[fix(ns-ha): remove paramiko library](https://github.com/NethServer/nethsecurity/pull/1346)** by *gsanchietti* - Reviewers: *None* - Created at: 2025-08-19T08:53:21Z
+-   **[build: fixes for rust and multiple cache](https://github.com/NethServer/nethsecurity/pull/1345)** by *Tbaile* - Reviewers: *gsanchietti* - Created at: 2025-08-19T07:31:07Z
+-   **[fix(ns-plug): inventory, better public IP retrival](https://github.com/NethServer/nethsecurity/pull/1344)** by *gsanchietti* - Reviewers: *Tbaile* - Created at: 2025-08-19T06:20:03Z
+
 ### NethServer/ns8-mail 1 
 
 - :eyes:  **[fix: @babel/traverse CVE-2023-45133](https://github.com/NethServer/ns8-mail/pull/200)** by *andre8244* - Reviewers: *None* - Created at: 2025-08-06T10:34:06Z
@@ -53,6 +59,10 @@ date = 2025-08-19
 - :eyes: :zzz: **[fix(metrics): remove language selection](https://github.com/NethServer/ns8-docs/pull/167)** by *gsanchietti* - Reviewers: *None* - Created at: 2025-05-26T13:20:09Z
 - :eyes: :zzz: **[add Yealink T7X T8X AX](https://github.com/NethServer/ns8-docs/pull/165)** by *andrea-marchionni* - Reviewers: *None* - Created at: 2025-05-16T16:03:23Z
 -  :zzz: **[Update note about IP change to clarify need for correct reconfiguration](https://github.com/NethServer/ns8-docs/pull/164)** by *IgonetIT* - Reviewers: *Stell0, andrea-marchionni* - Created at: 2025-05-08T09:20:48Z
+
+### NethServer/nethsecurity-ui 1 
+
+- :eyes:  **[chore(main): release 2.4.5](https://github.com/NethServer/nethsecurity-ui/pull/626)** by *Tbaile* - Reviewers: *None* - Created at: 2025-08-19T13:12:57Z
 
 ### NethServer/nethsecurity-docs 1 
 
