@@ -1,6 +1,6 @@
 +++
 title = 'Open Pull Requests'
-date = 2025-08-20
+date = 2025-08-21
 +++
 
 ## Organization: nethserver
@@ -29,18 +29,18 @@ date = 2025-08-20
 -   **[Modify Samba users' flags from [UX] to [U] excluding ldapservice](https://github.com/NethServer/ns8-samba/pull/120)** by *stephdl* - Reviewers: *DavidePrincipi* - Created at: 2025-08-13T10:30:48Z
 -   **[Default password expiration policy is disabled](https://github.com/NethServer/ns8-samba/pull/118)** by *stephdl* - Reviewers: *DavidePrincipi* - Created at: 2025-07-29T08:22:44Z
 
-### NethServer/ns8-traefik 1 
+### NethServer/ns8-traefik 2 
 
+-   **[Documentation for setting and getting trusted proxies configuration](https://github.com/NethServer/ns8-traefik/pull/105)** by *stephdl* - Reviewers: *DavidePrincipi* - Created at: 2025-08-20T09:06:06Z
 - :eyes:  **[fix: avoid IP exposure in TLS certificate](https://github.com/NethServer/ns8-traefik/pull/104)** by *DavidePrincipi* - Reviewers: *None* - Created at: 2025-08-08T08:08:20Z
 
 ### NethServer/ns8-openldap 1 
 
 -   **[Default password expiration policy is disabled](https://github.com/NethServer/ns8-openldap/pull/66)** by *stephdl* - Reviewers: *DavidePrincipi* - Created at: 2025-07-29T08:10:52Z
 
-### NethServer/nethsecurity 3 
+### NethServer/nethsecurity 2 
 
-- :eyes:  **[fix(ns-ha): remove paramiko library](https://github.com/NethServer/nethsecurity/pull/1346)** by *gsanchietti* - Reviewers: *None* - Created at: 2025-08-19T08:53:21Z
--   **[build: fixes for rust and multiple cache](https://github.com/NethServer/nethsecurity/pull/1345)** by *Tbaile* - Reviewers: *gsanchietti* - Created at: 2025-08-19T07:31:07Z
+- :eyes:  **[chore(files): removed unused ns-reset command](https://github.com/NethServer/nethsecurity/pull/1350)** by *filippocarletti* - Reviewers: *None* - Created at: 2025-08-20T13:28:42Z
 -   **[fix(ns-plug): inventory, better public IP retrival](https://github.com/NethServer/nethsecurity/pull/1344)** by *gsanchietti* - Reviewers: *Tbaile* - Created at: 2025-08-19T06:20:03Z
 
 ### NethServer/ns8-mail 1 
@@ -62,7 +62,7 @@ date = 2025-08-20
 
 ### NethServer/nethsecurity-ui 1 
 
-- :eyes:  **[chore(main): release 2.4.5](https://github.com/NethServer/nethsecurity-ui/pull/626)** by *Tbaile* - Reviewers: *None* - Created at: 2025-08-19T13:12:57Z
+-   **[fix: replaced qrcode library](https://github.com/NethServer/nethsecurity-ui/pull/628)** by *Tbaile* - Reviewers: *andre8244* - Created at: 2025-08-20T10:30:58Z
 
 ### NethServer/nethsecurity-docs 1 
 
