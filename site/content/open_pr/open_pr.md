@@ -1,6 +1,6 @@
 +++
 title = 'Open Pull Requests'
-date = 2025-08-21
+date = 2025-08-22
 +++
 
 ## Organization: nethserver
@@ -23,6 +23,10 @@ date = 2025-08-21
 
 - :eyes:  **[fix: axios CVE-2025-27152](https://github.com/NethServer/ns8-kickstart/pull/64)** by *andre8244* - Reviewers: *None* - Created at: 2025-08-06T13:16:32Z
 
+### NethServer/ns8-webserver 1 
+
+- :eyes:  **[Update PHP FPM image source in download script](https://github.com/NethServer/ns8-webserver/pull/102)** by *stephdl* - Reviewers: *None* - Created at: 2025-08-21T13:37:15Z
+
 ### NethServer/ns8-samba 3 
 
 - :eyes:  **[Add password change and expiration options for users](https://github.com/NethServer/ns8-samba/pull/121)** by *stephdl* - Reviewers: *None* - Created at: 2025-08-13T13:33:57Z
@@ -40,8 +44,8 @@ date = 2025-08-21
 
 ### NethServer/nethsecurity 2 
 
-- :eyes:  **[chore(files): removed unused ns-reset command](https://github.com/NethServer/nethsecurity/pull/1350)** by *filippocarletti* - Reviewers: *None* - Created at: 2025-08-20T13:28:42Z
--   **[fix(ns-plug): inventory, better public IP retrival](https://github.com/NethServer/nethsecurity/pull/1344)** by *gsanchietti* - Reviewers: *Tbaile* - Created at: 2025-08-19T06:20:03Z
+- :eyes:  **[fix(ns-api): edit dhcp doesn't check correctly for duplicates](https://github.com/NethServer/nethsecurity/pull/1351)** by *Tbaile* - Reviewers: *None* - Created at: 2025-08-21T13:32:49Z
+- :eyes:  **[fix(ns-plug): inventory, better public IP retrival](https://github.com/NethServer/nethsecurity/pull/1344)** by *gsanchietti* - Reviewers: *None* - Created at: 2025-08-19T06:20:03Z
 
 ### NethServer/ns8-mail 1 
 
@@ -60,13 +64,19 @@ date = 2025-08-21
 - :eyes: :zzz: **[add Yealink T7X T8X AX](https://github.com/NethServer/ns8-docs/pull/165)** by *andrea-marchionni* - Reviewers: *None* - Created at: 2025-05-16T16:03:23Z
 -  :zzz: **[Update note about IP change to clarify need for correct reconfiguration](https://github.com/NethServer/ns8-docs/pull/164)** by *IgonetIT* - Reviewers: *Stell0, andrea-marchionni* - Created at: 2025-05-08T09:20:48Z
 
-### NethServer/nethsecurity-ui 1 
+### NethServer/nethsecurity-ui 3 
 
+- :eyes:  **[chore(main): release 2.4.6](https://github.com/NethServer/nethsecurity-ui/pull/630)** by *Tbaile* - Reviewers: *None* - Created at: 2025-08-21T09:40:21Z
+-   **[fix(deps): updated vuei18n](https://github.com/NethServer/nethsecurity-ui/pull/629)** by *Tbaile* - Reviewers: *andre8244* - Created at: 2025-08-21T09:25:54Z
 -   **[fix: replaced qrcode library](https://github.com/NethServer/nethsecurity-ui/pull/628)** by *Tbaile* - Reviewers: *andre8244* - Created at: 2025-08-20T10:30:58Z
 
 ### NethServer/nethsecurity-docs 1 
 
 -  :zzz: **[feat(controller): add unit groups](https://github.com/NethServer/nethsecurity-docs/pull/194)** by *gsanchietti* - Reviewers: *filippocarletti, cotosso* - Created at: 2025-07-15T13:06:06Z
+
+### NethServer/ns8-sogo 1 
+
+- :eyes:  **[Update LDAP MailFieldNames and enable address book](https://github.com/NethServer/ns8-sogo/pull/43)** by *stephdl* - Reviewers: *None* - Created at: 2025-08-21T08:04:24Z
 
 ### NethServer/nethlink 1 
 
@@ -95,5 +105,9 @@ date = 2025-08-21
 
 - :eyes:  **[feat: created missing mute owner inside conference](https://github.com/nethesis/phone-island/pull/108)** by *tonyco97* - Reviewers: *None* - Created at: 2025-08-18T07:54:36Z
 - :eyes: :zzz: **[feat: changed reference api path for middleware](https://github.com/nethesis/phone-island/pull/103)** by *tommaso-ascani* - Reviewers: *None* - Created at: 2025-06-30T14:18:42Z
+
+### nethesis/parceler 1 
+
+- :eyes:  **[chore(main): release 1.2.1](https://github.com/nethesis/parceler/pull/105)** by *Tbaile* - Reviewers: *None* - Created at: 2025-08-21T12:47:15Z
 
 
