@@ -1,6 +1,6 @@
 +++
 title = 'Open Pull Requests'
-date = 2025-08-22
+date = 2025-08-23
 +++
 
 ## Organization: nethserver
@@ -42,31 +42,28 @@ date = 2025-08-22
 
 -   **[Default password expiration policy is disabled](https://github.com/NethServer/ns8-openldap/pull/66)** by *stephdl* - Reviewers: *DavidePrincipi* - Created at: 2025-07-29T08:10:52Z
 
-### NethServer/nethsecurity 2 
-
-- :eyes:  **[fix(ns-api): edit dhcp doesn't check correctly for duplicates](https://github.com/NethServer/nethsecurity/pull/1351)** by *Tbaile* - Reviewers: *None* - Created at: 2025-08-21T13:32:49Z
-- :eyes:  **[fix(ns-plug): inventory, better public IP retrival](https://github.com/NethServer/nethsecurity/pull/1344)** by *gsanchietti* - Reviewers: *None* - Created at: 2025-08-19T06:20:03Z
-
 ### NethServer/ns8-mail 1 
 
 - :eyes:  **[fix: @babel/traverse CVE-2023-45133](https://github.com/NethServer/ns8-mail/pull/200)** by *andre8244* - Reviewers: *None* - Created at: 2025-08-06T10:34:06Z
+
+### NethServer/ns8-webtop 1 
+
+-   **[Update webtop-apache container to use httpd:2.4.65 and add configuration](https://github.com/NethServer/ns8-webtop/pull/151)** by *stephdl* - Reviewers: *Amygos, gsanchietti* - Created at: 2025-08-22T10:11:30Z
 
 ### NethServer/ns8-crowdsec 2 
 
 -   **[Fix ban duration format consistency](https://github.com/NethServer/ns8-crowdsec/pull/86)** by *stephdl* - Reviewers: *DavidePrincipi* - Created at: 2025-08-12T12:17:34Z
 -   **[Remove FreePBX configurations and related components](https://github.com/NethServer/ns8-crowdsec/pull/84)** by *stephdl* - Reviewers: *DavidePrincipi* - Created at: 2025-08-12T10:06:54Z
 
-### NethServer/ns8-docs 5 
+### NethServer/ns8-docs 4 
 
 -  :zzz: **[Add hotel docs](https://github.com/NethServer/ns8-docs/pull/176)** by *andrea-marchionni* - Reviewers: *viktec, margit86* - Created at: 2025-07-14T15:52:22Z
 -  :zzz: **[Update nethvoice.rst](https://github.com/NethServer/ns8-docs/pull/174)** by *margit86* - Reviewers: *Stell0* - Created at: 2025-06-25T12:41:13Z
 - :eyes: :zzz: **[fix(metrics): remove language selection](https://github.com/NethServer/ns8-docs/pull/167)** by *gsanchietti* - Reviewers: *None* - Created at: 2025-05-26T13:20:09Z
 - :eyes: :zzz: **[add Yealink T7X T8X AX](https://github.com/NethServer/ns8-docs/pull/165)** by *andrea-marchionni* - Reviewers: *None* - Created at: 2025-05-16T16:03:23Z
--  :zzz: **[Update note about IP change to clarify need for correct reconfiguration](https://github.com/NethServer/ns8-docs/pull/164)** by *IgonetIT* - Reviewers: *Stell0, andrea-marchionni* - Created at: 2025-05-08T09:20:48Z
 
-### NethServer/nethsecurity-ui 3 
+### NethServer/nethsecurity-ui 2 
 
-- :eyes:  **[chore(main): release 2.4.6](https://github.com/NethServer/nethsecurity-ui/pull/630)** by *Tbaile* - Reviewers: *None* - Created at: 2025-08-21T09:40:21Z
 -   **[fix(deps): updated vuei18n](https://github.com/NethServer/nethsecurity-ui/pull/629)** by *Tbaile* - Reviewers: *andre8244* - Created at: 2025-08-21T09:25:54Z
 -   **[fix: replaced qrcode library](https://github.com/NethServer/nethsecurity-ui/pull/628)** by *Tbaile* - Reviewers: *andre8244* - Created at: 2025-08-20T10:30:58Z
 
@@ -78,8 +75,9 @@ date = 2025-08-22
 
 - :eyes:  **[Update LDAP MailFieldNames and enable address book](https://github.com/NethServer/ns8-sogo/pull/43)** by *stephdl* - Reviewers: *None* - Created at: 2025-08-21T08:04:24Z
 
-### NethServer/nethlink 1 
+### NethServer/nethlink 2 
 
+- :eyes:  **[fix: better output device change on first load](https://github.com/NethServer/nethlink/pull/70)** by *tonyco97* - Reviewers: *None* - Created at: 2025-08-22T14:47:03Z
 - :eyes:  **[fix: created new event to manage urlParam](https://github.com/NethServer/nethlink/pull/69)** by *tonyco97* - Reviewers: *None* - Created at: 2025-07-24T10:35:08Z
 
 ## Organization: nethesis
@@ -92,8 +90,9 @@ date = 2025-08-22
 
 -  :zzz: **[Removed old notification service usage](https://github.com/nethesis/nethcti-app-iphone/pull/37)** by *NicolaMrAPPs* - Reviewers: *b9874e40962149eee62a8fd3bc4e709e* - Created at: 2023-08-02T09:19:30Z
 
-### nethesis/ns8-nethvoice 1 
+### nethesis/ns8-nethvoice 2 
 
+-   **[feature(wss): Enable websocket transport capabilities](https://github.com/nethesis/ns8-nethvoice/pull/533)** by *Stell0* - Reviewers: *Amygos* - Created at: 2025-08-22T09:17:35Z
 - :eyes: :zzz: **[feat: added middleware component](https://github.com/nethesis/ns8-nethvoice/pull/493)** by *tommaso-ascani* - Reviewers: *None* - Created at: 2025-06-30T14:06:22Z
 
 ### nethesis/nethvoice-cti 2 

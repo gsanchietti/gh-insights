@@ -2,7 +2,7 @@
 
 title = 'To be released soon'
 
-date = 2025-08-22
+date = 2025-08-23
 
 +++
 
@@ -40,7 +40,7 @@ date = 2025-08-22
 
 - [ns-plug: add description field for units on Controller](https://github.com/NethServer/nethsecurity/issues/1302) (#1158) by gsanchietti (Created: 2025-07-14T13:40:46Z, Updated: 2025-07-31T07:48:05Z)
 
-- [ns-plug: send data using the VPN](https://github.com/NethServer/nethsecurity/issues/1301) (#1158) by gsanchietti (Created: 2025-07-09T07:02:30Z, Updated: 2025-07-31T08:38:12Z)
+- [ns-plug: send data using the VPN](https://github.com/NethServer/nethsecurity/issues/1301) (#1158) by gsanchietti (Created: 2025-07-09T07:02:30Z, Updated: 2025-08-22T09:42:01Z)
 
 - [Refactoring build system](https://github.com/NethServer/nethsecurity/issues/1295) (#1158) by Tbaile (Created: 2025-07-07T08:40:27Z, Updated: 2025-07-31T08:58:01Z)
 
