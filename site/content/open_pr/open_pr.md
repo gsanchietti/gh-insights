@@ -1,6 +1,6 @@
 +++
 title = 'Open Pull Requests'
-date = 2025-08-23
+date = 2025-08-24
 +++
 
 ## Organization: nethserver
@@ -78,7 +78,7 @@ date = 2025-08-23
 ### NethServer/nethlink 2 
 
 - :eyes:  **[fix: better output device change on first load](https://github.com/NethServer/nethlink/pull/70)** by *tonyco97* - Reviewers: *None* - Created at: 2025-08-22T14:47:03Z
-- :eyes:  **[fix: created new event to manage urlParam](https://github.com/NethServer/nethlink/pull/69)** by *tonyco97* - Reviewers: *None* - Created at: 2025-07-24T10:35:08Z
+- :eyes: :zzz: **[fix: created new event to manage urlParam](https://github.com/NethServer/nethlink/pull/69)** by *tonyco97* - Reviewers: *None* - Created at: 2025-07-24T10:35:08Z
 
 ## Organization: nethesis
 
@@ -97,7 +97,7 @@ date = 2025-08-23
 
 ### nethesis/nethvoice-cti 2 
 
-- :eyes:  **[fix: removed urlParam custom management](https://github.com/nethesis/nethvoice-cti/pull/327)** by *tonyco97* - Reviewers: *None* - Created at: 2025-07-24T07:46:14Z
+- :eyes: :zzz: **[fix: removed urlParam custom management](https://github.com/nethesis/nethvoice-cti/pull/327)** by *tonyco97* - Reviewers: *None* - Created at: 2025-07-24T07:46:14Z
 - :eyes: :zzz: **[feat: changed api path for middleware](https://github.com/nethesis/nethvoice-cti/pull/317)** by *tommaso-ascani* - Reviewers: *None* - Created at: 2025-06-30T14:27:05Z
 
 ### nethesis/phone-island 2 

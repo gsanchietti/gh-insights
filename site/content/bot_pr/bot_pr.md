@@ -1,6 +1,6 @@
 +++
 title = 'Open Pull Requests by Bots'
-date = 2025-08-23
+date = 2025-08-24
 +++
 
 ## Organization: nethserver
@@ -67,7 +67,7 @@ date = 2025-08-23
 
 - :eyes:  **[chore(deps): update timescale/timescaledb docker tag to v2.21.3](https://github.com/NethServer/ns8-samba/pull/119)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-08-07T17:48:38Z
 - :eyes:  **[Translations update from Hosted Weblate](https://github.com/NethServer/ns8-samba/pull/117)** by *weblate* - Reviewers: *None* - Created at: 2025-07-26T03:06:35Z
-- :eyes:  **[chore(deps): update dependency nethserver/ns8-user-manager to v1.1.6](https://github.com/NethServer/ns8-samba/pull/116)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-07-24T08:40:51Z
+- :eyes: :zzz: **[chore(deps): update dependency nethserver/ns8-user-manager to v1.1.6](https://github.com/NethServer/ns8-samba/pull/116)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-07-24T08:40:51Z
 - :eyes: :zzz: **[chore(deps): update ghcr.io/marketsquare/robotframework-browser/rfbrowser-stable docker tag to v19.7.2](https://github.com/NethServer/ns8-samba/pull/77)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-02-21T09:59:59Z
 
 ### NethServer/ns8-loki 3 
@@ -150,11 +150,14 @@ date = 2025-08-23
 - :eyes:  **[chore(deps): update ghcr.io/marketsquare/robotframework-browser/rfbrowser-stable docker tag to v19.7.2](https://github.com/NethServer/ns8-piler/pull/41)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-08-07T13:10:23Z
 - :eyes:  **[chore(deps): update sutoj/piler docker tag to v1.4.7](https://github.com/NethServer/ns8-piler/pull/40)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-08-07T13:10:20Z
 
-### NethServer/phonehome-server 5 
+### NethServer/phonehome-server 8 
 
+- :eyes:  **[chore(deps): update dependency pestphp/pest-plugin-laravel to v4](https://github.com/NethServer/phonehome-server/pull/135)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-08-23T05:45:23Z
+- :eyes:  **[chore(deps): update dependency pestphp/pest to v4](https://github.com/NethServer/phonehome-server/pull/134)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-08-23T05:45:17Z
 - :eyes:  **[chore(deps): update actions/checkout action to v5](https://github.com/NethServer/phonehome-server/pull/133)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-08-16T02:21:39Z
 - :eyes: :zzz: **[chore(deps): update dependency laravel-vite-plugin to v2](https://github.com/NethServer/phonehome-server/pull/132)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-07-12T02:07:08Z
 - :eyes: :zzz: **[chore(deps): update dependency vite to v7](https://github.com/NethServer/phonehome-server/pull/130)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-06-28T03:10:39Z
+- :eyes: :zzz: **[chore(deps): update grafana/grafana-oss docker tag to v12](https://github.com/NethServer/phonehome-server/pull/129)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-05-10T02:39:40Z
 - :eyes: :zzz: **[chore(deps): update adminer docker tag to v5](https://github.com/NethServer/phonehome-server/pull/128)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-03-15T02:06:42Z
 - :eyes: :zzz: **[fix(deps): update dependency laravel/framework to v12](https://github.com/NethServer/phonehome-server/pull/127)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-03-01T01:48:09Z
 
