@@ -2,11 +2,13 @@
 
 title = 'To be released soon'
 
-date = 2025-08-25
+date = 2025-08-26
 
 +++
 
 ### NethServer
+
+- [SOGo doesn't respect the LDAP mail field in autocompletion](https://github.com/NethServer/dev/issues/7607) (#7489) by mrmarkuz (Created: 2025-08-22T14:03:13Z, Updated: 2025-08-25T10:53:17Z)
 
 - [Upgrade nginx, DependencyTrack and trivy](https://github.com/NethServer/dev/issues/7590) (#7489) by stephdl (Created: 2025-07-31T15:07:11Z, Updated: 2025-08-18T14:39:41Z)
 

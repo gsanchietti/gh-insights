@@ -1,6 +1,6 @@
 +++
 title = 'Open Pull Requests'
-date = 2025-08-25
+date = 2025-08-26
 +++
 
 ## Organization: nethserver
@@ -11,25 +11,21 @@ date = 2025-08-25
 
 ### NethServer/ns8-core 3 
 
--   **[Add script and JSON schema for restarting module services](https://github.com/NethServer/ns8-core/pull/924)** by *stephdl* - Reviewers: *DavidePrincipi, andre8244* - Created at: 2025-08-18T15:27:16Z
--   **[Add "Must Change Password on Login" & Password Expiration Controls](https://github.com/NethServer/ns8-core/pull/922)** by *stephdl* - Reviewers: *andre8244, DavidePrincipi* - Created at: 2025-08-13T13:59:39Z
+-   **[Add script and JSON schema for restarting module services](https://github.com/NethServer/ns8-core/pull/924)** by *stephdl* - Reviewers: *DavidePrincipi* - Created at: 2025-08-18T15:27:16Z
+- :eyes:  **[Add "Must Change Password on Login" & Password Expiration Controls](https://github.com/NethServer/ns8-core/pull/922)** by *stephdl* - Reviewers: *None* - Created at: 2025-08-13T13:59:39Z
 -  :zzz: **[Refactor the port management logic by  ensuring data integrity](https://github.com/NethServer/ns8-core/pull/906)** by *stephdl* - Reviewers: *DavidePrincipi* - Created at: 2025-06-25T13:55:58Z
 
 ### NethServer/ns8-repomd 1 
 
 - :eyes:  **[Update pins.yml for webtop upgrade](https://github.com/NethServer/ns8-repomd/pull/54)** by *stephdl* - Reviewers: *None* - Created at: 2025-07-28T09:57:40Z
 
-### NethServer/ns8-kickstart 1 
-
-- :eyes:  **[fix: axios CVE-2025-27152](https://github.com/NethServer/ns8-kickstart/pull/64)** by *andre8244* - Reviewers: *None* - Created at: 2025-08-06T13:16:32Z
-
 ### NethServer/ns8-webserver 1 
 
-- :eyes:  **[Update PHP FPM image source in download script](https://github.com/NethServer/ns8-webserver/pull/102)** by *stephdl* - Reviewers: *None* - Created at: 2025-08-21T13:37:15Z
+- :eyes:  **[php-fpm: change upstream image to php project](https://github.com/NethServer/ns8-webserver/pull/102)** by *stephdl* - Reviewers: *None* - Created at: 2025-08-21T13:37:15Z
 
 ### NethServer/ns8-samba 3 
 
-- :eyes:  **[Add password change and expiration options for users](https://github.com/NethServer/ns8-samba/pull/121)** by *stephdl* - Reviewers: *None* - Created at: 2025-08-13T13:33:57Z
+-   **[Add password change and expiration options for users](https://github.com/NethServer/ns8-samba/pull/121)** by *stephdl* - Reviewers: *DavidePrincipi* - Created at: 2025-08-13T13:33:57Z
 -   **[Modify Samba users' flags from [UX] to [U] excluding ldapservice](https://github.com/NethServer/ns8-samba/pull/120)** by *stephdl* - Reviewers: *DavidePrincipi* - Created at: 2025-08-13T10:30:48Z
 -   **[Default password expiration policy is disabled](https://github.com/NethServer/ns8-samba/pull/118)** by *stephdl* - Reviewers: *DavidePrincipi* - Created at: 2025-07-29T08:22:44Z
 
@@ -42,18 +38,10 @@ date = 2025-08-25
 
 -   **[Default password expiration policy is disabled](https://github.com/NethServer/ns8-openldap/pull/66)** by *stephdl* - Reviewers: *DavidePrincipi* - Created at: 2025-07-29T08:10:52Z
 
-### NethServer/ns8-mail 1 
-
-- :eyes:  **[fix: @babel/traverse CVE-2023-45133](https://github.com/NethServer/ns8-mail/pull/200)** by *andre8244* - Reviewers: *None* - Created at: 2025-08-06T10:34:06Z
-
-### NethServer/ns8-webtop 1 
-
--   **[Update webtop-apache container to use httpd:2.4.65 and add configuration](https://github.com/NethServer/ns8-webtop/pull/151)** by *stephdl* - Reviewers: *Amygos, gsanchietti* - Created at: 2025-08-22T10:11:30Z
-
 ### NethServer/ns8-crowdsec 2 
 
 -   **[Fix ban duration format consistency](https://github.com/NethServer/ns8-crowdsec/pull/86)** by *stephdl* - Reviewers: *DavidePrincipi* - Created at: 2025-08-12T12:17:34Z
--   **[Remove FreePBX configurations and related components](https://github.com/NethServer/ns8-crowdsec/pull/84)** by *stephdl* - Reviewers: *DavidePrincipi* - Created at: 2025-08-12T10:06:54Z
+-   **[Disable FreePBX configurations and related components](https://github.com/NethServer/ns8-crowdsec/pull/84)** by *stephdl* - Reviewers: *DavidePrincipi* - Created at: 2025-08-12T10:06:54Z
 
 ### NethServer/ns8-docs 4 
 
@@ -65,15 +53,11 @@ date = 2025-08-25
 ### NethServer/nethsecurity-ui 2 
 
 -   **[fix(deps): updated vuei18n](https://github.com/NethServer/nethsecurity-ui/pull/629)** by *Tbaile* - Reviewers: *andre8244* - Created at: 2025-08-21T09:25:54Z
--   **[fix: replaced qrcode library](https://github.com/NethServer/nethsecurity-ui/pull/628)** by *Tbaile* - Reviewers: *andre8244* - Created at: 2025-08-20T10:30:58Z
+- :eyes:  **[fix: replaced qrcode library](https://github.com/NethServer/nethsecurity-ui/pull/628)** by *Tbaile* - Reviewers: *None* - Created at: 2025-08-20T10:30:58Z
 
 ### NethServer/nethsecurity-docs 1 
 
 -  :zzz: **[feat(controller): add unit groups](https://github.com/NethServer/nethsecurity-docs/pull/194)** by *gsanchietti* - Reviewers: *filippocarletti, cotosso* - Created at: 2025-07-15T13:06:06Z
-
-### NethServer/ns8-sogo 1 
-
-- :eyes:  **[Update LDAP MailFieldNames and enable address book](https://github.com/NethServer/ns8-sogo/pull/43)** by *stephdl* - Reviewers: *None* - Created at: 2025-08-21T08:04:24Z
 
 ### NethServer/nethlink 2 
 
