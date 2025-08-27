@@ -2,7 +2,7 @@
 
 title = 'To be released soon'
 
-date = 2025-08-26
+date = 2025-08-27
 
 +++
 
@@ -14,27 +14,17 @@ date = 2025-08-26
 
 - [Update nginx to stable and php8.4 for Webserver](https://github.com/NethServer/dev/issues/7589) (#7489) by stephdl (Created: 2025-07-31T15:02:32Z, Updated: 2025-08-14T07:06:59Z)
 
-- [Upgrade ejabberd Docker Image to v25.07](https://github.com/NethServer/dev/issues/7586) (#7489) by stephdl (Created: 2025-07-31T14:47:10Z, Updated: 2025-08-11T12:45:41Z)
+- [Request to upgrade Collabora CODE Docker tag to v25.04.4.2.1](https://github.com/NethServer/dev/issues/7581) (#7489) by stephdl (Created: 2025-07-31T14:33:26Z, Updated: 2025-08-26T10:54:19Z)
 
-- [Upgrade Nextcloud, notify-push and Redis Docker Images](https://github.com/NethServer/dev/issues/7584) (#7489) by stephdl (Created: 2025-07-31T14:42:23Z, Updated: 2025-08-12T19:42:37Z)
-
-- [Request to upgrade Collabora CODE Docker tag to v25.04.4.2.1](https://github.com/NethServer/dev/issues/7581) (#7489) by stephdl (Created: 2025-07-31T14:33:26Z, Updated: 2025-08-12T19:10:51Z)
-
-- [Cloud Log Manager URL field not validated](https://github.com/NethServer/dev/issues/7577) (#7489) by DavidePrincipi (Created: 2025-07-29T09:13:13Z, Updated: 2025-08-04T15:19:46Z)
-
-- [OpenLDAP migration trims accented chars](https://github.com/NethServer/dev/issues/7576) (#7489) by mrmarkuz (Created: 2025-07-28T07:47:41Z, Updated: 2025-07-31T07:05:09Z)
-
-- [Mail queue page shows all items instead of the selected items per page](https://github.com/NethServer/dev/issues/7557) (#7489) by mrmarkuz (Created: 2025-07-18T14:21:51Z, Updated: 2025-08-04T11:33:45Z)
-
-- [User forwards are not respected in Mail 1.7](https://github.com/NethServer/dev/issues/7553) (#7489) by mrmarkuz (Created: 2025-07-11T09:23:25Z, Updated: 2025-07-30T08:27:25Z)
-
-- [Mail “access denied” error after update to 1.7](https://github.com/NethServer/dev/issues/7552) (#7489) by mrmarkuz (Created: 2025-07-11T09:04:49Z, Updated: 2025-07-30T18:25:50Z)
-
-- [Restore fails when application module is not in any repository](https://github.com/NethServer/dev/issues/7509) (#7489) by gsanchietti (Created: 2025-06-18T06:43:09Z, Updated: 2025-08-04T08:25:55Z)
-
-- [WebTop 1.5 with Tomcat and Postgresql Version Upgrade](https://github.com/NethServer/dev/issues/7489) (#7489) by lucagasparini (Created: 2025-05-30T10:20:52Z, Updated: 2025-07-30T09:46:20Z)
+- [WebTop 1.5 with Tomcat and Postgresql Version Upgrade](https://github.com/NethServer/dev/issues/7489) (#7489) by lucagasparini (Created: 2025-05-30T10:20:52Z, Updated: 2025-08-26T12:28:14Z)
 
 ### NethSecurity
+
+- [OpenVPN Tunnels: Fails to start with LZO compression](https://github.com/NethServer/nethsecurity/issues/1357) (#1158) by francio87 (Created: 2025-08-25T16:14:10Z, Updated: 2025-08-26T12:30:50Z)
+
+- [Reverse Proxy: Certificate usage indicator labels inverted](https://github.com/NethServer/nethsecurity/issues/1353) (#1158) by francio87 (Created: 2025-08-22T12:49:20Z, Updated: 2025-08-26T13:52:54Z)
+
+- [build: Compile fails on OpenWrt 24.10.0 due to missing rust-dev package](https://github.com/NethServer/nethsecurity/issues/1348) (#1158) by Tbaile (Created: 2025-08-19T14:35:43Z, Updated: 2025-08-26T06:41:16Z)
 
 - [Portforward: Kebab menu enable/disable fails with domain set object](https://github.com/NethServer/nethsecurity/issues/1312) (#1158) by Tbaile (Created: 2025-07-21T12:38:32Z, Updated: 2025-07-30T14:21:05Z)
 
@@ -43,6 +33,8 @@ date = 2025-08-26
 - [ns-plug: add description field for units on Controller](https://github.com/NethServer/nethsecurity/issues/1302) (#1158) by gsanchietti (Created: 2025-07-14T13:40:46Z, Updated: 2025-07-31T07:48:05Z)
 
 - [ns-plug: send data using the VPN](https://github.com/NethServer/nethsecurity/issues/1301) (#1158) by gsanchietti (Created: 2025-07-09T07:02:30Z, Updated: 2025-08-22T09:42:01Z)
+
+- [Backup: allow download of unencrypted backup even with passphrase set](https://github.com/NethServer/nethsecurity/issues/1297) (#1158) by Tbaile (Created: 2025-07-07T14:05:39Z, Updated: 2025-08-26T08:47:44Z)
 
 - [Refactoring build system](https://github.com/NethServer/nethsecurity/issues/1295) (#1158) by Tbaile (Created: 2025-07-07T08:40:27Z, Updated: 2025-07-31T08:58:01Z)
 

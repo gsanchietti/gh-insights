@@ -1,6 +1,6 @@
 +++
 title = 'Open Pull Requests'
-date = 2025-08-26
+date = 2025-08-27
 +++
 
 ## Organization: nethserver
@@ -11,7 +11,7 @@ date = 2025-08-26
 
 ### NethServer/ns8-core 3 
 
--   **[Add script and JSON schema for restarting module services](https://github.com/NethServer/ns8-core/pull/924)** by *stephdl* - Reviewers: *DavidePrincipi* - Created at: 2025-08-18T15:27:16Z
+- :eyes:  **[Add script and JSON schema for restarting module services](https://github.com/NethServer/ns8-core/pull/924)** by *stephdl* - Reviewers: *None* - Created at: 2025-08-18T15:27:16Z
 - :eyes:  **[Add "Must Change Password on Login" & Password Expiration Controls](https://github.com/NethServer/ns8-core/pull/922)** by *stephdl* - Reviewers: *None* - Created at: 2025-08-13T13:59:39Z
 -  :zzz: **[Refactor the port management logic by  ensuring data integrity](https://github.com/NethServer/ns8-core/pull/906)** by *stephdl* - Reviewers: *DavidePrincipi* - Created at: 2025-06-25T13:55:58Z
 
@@ -25,22 +25,20 @@ date = 2025-08-26
 
 ### NethServer/ns8-samba 3 
 
--   **[Add password change and expiration options for users](https://github.com/NethServer/ns8-samba/pull/121)** by *stephdl* - Reviewers: *DavidePrincipi* - Created at: 2025-08-13T13:33:57Z
--   **[Modify Samba users' flags from [UX] to [U] excluding ldapservice](https://github.com/NethServer/ns8-samba/pull/120)** by *stephdl* - Reviewers: *DavidePrincipi* - Created at: 2025-08-13T10:30:48Z
+- :eyes:  **[Add password change and expiration options for users](https://github.com/NethServer/ns8-samba/pull/121)** by *stephdl* - Reviewers: *None* - Created at: 2025-08-13T13:33:57Z
+- :eyes:  **[Modify Samba users' flags from [UX] to [U] excluding ldapservice](https://github.com/NethServer/ns8-samba/pull/120)** by *stephdl* - Reviewers: *None* - Created at: 2025-08-13T10:30:48Z
 -   **[Default password expiration policy is disabled](https://github.com/NethServer/ns8-samba/pull/118)** by *stephdl* - Reviewers: *DavidePrincipi* - Created at: 2025-07-29T08:22:44Z
 
-### NethServer/ns8-traefik 2 
+### NethServer/ns8-traefik 1 
 
--   **[Documentation for setting and getting trusted proxies configuration](https://github.com/NethServer/ns8-traefik/pull/105)** by *stephdl* - Reviewers: *DavidePrincipi* - Created at: 2025-08-20T09:06:06Z
 - :eyes:  **[fix: avoid IP exposure in TLS certificate](https://github.com/NethServer/ns8-traefik/pull/104)** by *DavidePrincipi* - Reviewers: *None* - Created at: 2025-08-08T08:08:20Z
 
 ### NethServer/ns8-openldap 1 
 
 -   **[Default password expiration policy is disabled](https://github.com/NethServer/ns8-openldap/pull/66)** by *stephdl* - Reviewers: *DavidePrincipi* - Created at: 2025-07-29T08:10:52Z
 
-### NethServer/ns8-crowdsec 2 
+### NethServer/ns8-crowdsec 1 
 
--   **[Fix ban duration format consistency](https://github.com/NethServer/ns8-crowdsec/pull/86)** by *stephdl* - Reviewers: *DavidePrincipi* - Created at: 2025-08-12T12:17:34Z
 -   **[Disable FreePBX configurations and related components](https://github.com/NethServer/ns8-crowdsec/pull/84)** by *stephdl* - Reviewers: *DavidePrincipi* - Created at: 2025-08-12T10:06:54Z
 
 ### NethServer/ns8-docs 4 
@@ -50,13 +48,13 @@ date = 2025-08-26
 - :eyes: :zzz: **[fix(metrics): remove language selection](https://github.com/NethServer/ns8-docs/pull/167)** by *gsanchietti* - Reviewers: *None* - Created at: 2025-05-26T13:20:09Z
 - :eyes: :zzz: **[add Yealink T7X T8X AX](https://github.com/NethServer/ns8-docs/pull/165)** by *andrea-marchionni* - Reviewers: *None* - Created at: 2025-05-16T16:03:23Z
 
-### NethServer/nethsecurity-ui 2 
+### NethServer/nethsecurity-ui 1 
 
 -   **[fix(deps): updated vuei18n](https://github.com/NethServer/nethsecurity-ui/pull/629)** by *Tbaile* - Reviewers: *andre8244* - Created at: 2025-08-21T09:25:54Z
-- :eyes:  **[fix: replaced qrcode library](https://github.com/NethServer/nethsecurity-ui/pull/628)** by *Tbaile* - Reviewers: *None* - Created at: 2025-08-20T10:30:58Z
 
-### NethServer/nethsecurity-docs 1 
+### NethServer/nethsecurity-docs 2 
 
+-   **[Backup section: unencrypted backup button and many improvements](https://github.com/NethServer/nethsecurity-docs/pull/200)** by *cotosso* - Reviewers: *gsanchietti* - Created at: 2025-08-26T14:22:21Z
 -  :zzz: **[feat(controller): add unit groups](https://github.com/NethServer/nethsecurity-docs/pull/194)** by *gsanchietti* - Reviewers: *filippocarletti, cotosso* - Created at: 2025-07-15T13:06:06Z
 
 ### NethServer/nethlink 2 
