@@ -1,6 +1,6 @@
 +++
 title = 'Open Pull Requests'
-date = 2025-08-27
+date = 2025-08-28
 +++
 
 ## Organization: nethserver
@@ -17,7 +17,7 @@ date = 2025-08-27
 
 ### NethServer/ns8-repomd 1 
 
-- :eyes:  **[Update pins.yml for webtop upgrade](https://github.com/NethServer/ns8-repomd/pull/54)** by *stephdl* - Reviewers: *None* - Created at: 2025-07-28T09:57:40Z
+- :eyes: :zzz: **[Update pins.yml for webtop upgrade](https://github.com/NethServer/ns8-repomd/pull/54)** by *stephdl* - Reviewers: *None* - Created at: 2025-07-28T09:57:40Z
 
 ### NethServer/ns8-webserver 1 
 
@@ -50,17 +50,21 @@ date = 2025-08-27
 
 ### NethServer/nethsecurity-ui 1 
 
--   **[fix(deps): updated vuei18n](https://github.com/NethServer/nethsecurity-ui/pull/629)** by *Tbaile* - Reviewers: *andre8244* - Created at: 2025-08-21T09:25:54Z
+- :eyes:  **[fix(deps): updated vuei18n](https://github.com/NethServer/nethsecurity-ui/pull/629)** by *Tbaile* - Reviewers: *None* - Created at: 2025-08-21T09:25:54Z
 
 ### NethServer/nethsecurity-docs 2 
 
--   **[Backup section: unencrypted backup button and many improvements](https://github.com/NethServer/nethsecurity-docs/pull/200)** by *cotosso* - Reviewers: *gsanchietti* - Created at: 2025-08-26T14:22:21Z
+- :eyes:  **[Backup section: unencrypted backup button and many improvements](https://github.com/NethServer/nethsecurity-docs/pull/200)** by *cotosso* - Reviewers: *None* - Created at: 2025-08-26T14:22:21Z
 -  :zzz: **[feat(controller): add unit groups](https://github.com/NethServer/nethsecurity-docs/pull/194)** by *gsanchietti* - Reviewers: *filippocarletti, cotosso* - Created at: 2025-07-15T13:06:06Z
 
 ### NethServer/nethlink 2 
 
 - :eyes:  **[fix: better output device change on first load](https://github.com/NethServer/nethlink/pull/70)** by *tonyco97* - Reviewers: *None* - Created at: 2025-08-22T14:47:03Z
 - :eyes: :zzz: **[fix: created new event to manage urlParam](https://github.com/NethServer/nethlink/pull/69)** by *tonyco97* - Reviewers: *None* - Created at: 2025-07-24T10:35:08Z
+
+### NethServer/my 1 
+
+-   **[feat(frontend): add support for backend pagination](https://github.com/NethServer/my/pull/19)** by *andre8244* - Reviewers: *edospadoni* - Created at: 2025-08-27T15:06:36Z
 
 ## Organization: nethesis
 

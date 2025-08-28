@@ -2,7 +2,7 @@
 
 title = 'To be released soon'
 
-date = 2025-08-27
+date = 2025-08-28
 
 +++
 
@@ -26,6 +26,8 @@ date = 2025-08-27
 
 - [build: Compile fails on OpenWrt 24.10.0 due to missing rust-dev package](https://github.com/NethServer/nethsecurity/issues/1348) (#1158) by Tbaile (Created: 2025-08-19T14:35:43Z, Updated: 2025-08-26T06:41:16Z)
 
+- [IPSEC: Add DH Groups 19, 20, and 21 support in ipsec UI](https://github.com/NethServer/nethsecurity/issues/1334) (#1158) by cotosso (Created: 2025-08-05T14:51:31Z, Updated: 2025-08-27T09:12:34Z)
+
 - [Portforward: Kebab menu enable/disable fails with domain set object](https://github.com/NethServer/nethsecurity/issues/1312) (#1158) by Tbaile (Created: 2025-07-21T12:38:32Z, Updated: 2025-07-30T14:21:05Z)
 
 - [feat(ns-plug): add MTU test and configurable MTU field](https://github.com/NethServer/nethsecurity/issues/1310) (#1158) by Tbaile (Created: 2025-07-17T10:19:59Z, Updated: 2025-07-30T14:35:52Z)
@@ -45,6 +47,8 @@ date = 2025-08-27
 - [Port forwards: show only user-defined rules, hide system entries](https://github.com/NethServer/nethsecurity/issues/1286) (#1158) by Tbaile (Created: 2025-07-02T11:55:36Z, Updated: 2025-07-30T14:24:50Z)
 
 - [DPI: ICMP block rules not applied to conntrack](https://github.com/NethServer/nethsecurity/issues/1280) (#1158) by Tbaile (Created: 2025-06-20T12:47:58Z, Updated: 2025-08-05T12:54:27Z)
+
+- [Avoid using DNS servers provided by DHCP/PPPoE when manual DNS servers are configured in the UI.](https://github.com/NethServer/nethsecurity/issues/1253) (#1158) by cotosso (Created: 2025-06-05T13:07:24Z, Updated: 2025-08-27T07:29:01Z)
 
 - [mwan and qosify configuration persists after WAN removal from interfaces](https://github.com/NethServer/nethsecurity/issues/1244) (#1158) by filippocarletti (Created: 2025-05-30T11:15:43Z, Updated: 2025-07-21T14:26:15Z)
 
