@@ -1,6 +1,6 @@
 +++
 title = 'Open Pull Requests by Bots'
-date = 2025-08-28
+date = 2025-08-29
 +++
 
 ## Organization: nethserver
@@ -103,7 +103,7 @@ date = 2025-08-28
 
 ### NethServer/nethsecurity-controller 3 
 
-- :eyes:  **[chore(deps): update dependency nethserver/nethsecurity-ui to v2.5.3](https://github.com/NethServer/nethsecurity-controller/pull/155)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-08-25T01:53:25Z
+- :eyes:  **[chore(deps): update dependency nethserver/nethsecurity-ui to v2.5.4](https://github.com/NethServer/nethsecurity-controller/pull/155)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-08-25T01:53:25Z
 - :eyes:  **[chore(deps): update actions/checkout action to v5](https://github.com/NethServer/nethsecurity-controller/pull/154)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-08-18T01:08:18Z
 - :eyes: :zzz: **[fix(deps): update module github.com/golang-jwt/jwt/v4 to v5](https://github.com/NethServer/nethsecurity-controller/pull/140)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-07-21T00:54:27Z
 
@@ -171,9 +171,8 @@ date = 2025-08-28
 - :eyes:  **[chore(deps): update ejabberd/ecs docker tag to v25.08](https://github.com/NethServer/ns8-ejabberd/pull/69)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-08-24T13:55:59Z
 - :eyes: :zzz: **[chore(deps): update ghcr.io/marketsquare/robotframework-browser/rfbrowser-stable docker tag to v19.7.2](https://github.com/NethServer/ns8-ejabberd/pull/62)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-03-11T13:24:07Z
 
-### NethServer/nethsecurity-ui 2 
+### NethServer/nethsecurity-ui 1 
 
-- :eyes:  **[chore: translations update from Hosted Weblate](https://github.com/NethServer/nethsecurity-ui/pull/638)** by *weblate* - Reviewers: *None* - Created at: 2025-08-27T08:02:27Z
 - :eyes: :zzz: **[chore: configure Renovate](https://github.com/NethServer/nethsecurity-ui/pull/578)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-06-05T07:26:40Z
 
 ### NethServer/nethsecurity-api 1 
@@ -188,7 +187,7 @@ date = 2025-08-28
 
 ### NethServer/ns8-user-manager 6 
 
-- :eyes:  **[chore(deps): update aquasecurity/trivy-action action to v0.33.0](https://github.com/NethServer/ns8-user-manager/pull/116)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-08-28T01:29:13Z
+- :eyes:  **[chore(deps): update node.js to v22.19.0](https://github.com/NethServer/ns8-user-manager/pull/117)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-08-28T22:48:07Z
 - :eyes:  **[chore(deps): update dependency @vue/tsconfig to ^0.8.0](https://github.com/NethServer/ns8-user-manager/pull/115)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-08-15T12:53:24Z
 - :eyes: :zzz: **[chore(deps): update dependency vite-plugin-vue-devtools to v8](https://github.com/NethServer/ns8-user-manager/pull/109)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-07-27T10:42:11Z
 - :eyes: :zzz: **[chore(deps): update dependency @fortawesome/fontawesome-svg-core to v7](https://github.com/NethServer/ns8-user-manager/pull/106)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-07-22T19:44:03Z
@@ -287,9 +286,5 @@ date = 2025-08-28
 - :eyes: :zzz: **[chore(deps): update redis docker tag to v7.4](https://github.com/nethesis/ns8-nethvoice-proxy/pull/73)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-07-04T12:35:09Z
 - :eyes: :zzz: **[chore(deps): update ghcr.io/marketsquare/robotframework-browser/rfbrowser-stable docker tag to v10.1.0](https://github.com/nethesis/ns8-nethvoice-proxy/pull/72)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-07-04T12:35:05Z
 - :eyes: :zzz: **[build(deps): bump http-cache-semantics from 4.1.0 to 4.2.0 in /ui](https://github.com/nethesis/ns8-nethvoice-proxy/pull/71)** by *dependabot[bot]* - Reviewers: *None* - Created at: 2025-06-30T12:12:50Z
-
-### nethesis/parceler 1 
-
-- :eyes:  **[chore(deps): update aquasecurity/trivy-action action to v0.33.0](https://github.com/nethesis/parceler/pull/109)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-08-28T03:32:56Z
 
 

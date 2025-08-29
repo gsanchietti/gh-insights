@@ -1,6 +1,6 @@
 +++
 title = 'Open Pull Requests'
-date = 2025-08-28
+date = 2025-08-29
 +++
 
 ## Organization: nethserver
@@ -27,7 +27,7 @@ date = 2025-08-28
 
 - :eyes:  **[Add password change and expiration options for users](https://github.com/NethServer/ns8-samba/pull/121)** by *stephdl* - Reviewers: *None* - Created at: 2025-08-13T13:33:57Z
 - :eyes:  **[Modify Samba users' flags from [UX] to [U] excluding ldapservice](https://github.com/NethServer/ns8-samba/pull/120)** by *stephdl* - Reviewers: *None* - Created at: 2025-08-13T10:30:48Z
--   **[Default password expiration policy is disabled](https://github.com/NethServer/ns8-samba/pull/118)** by *stephdl* - Reviewers: *DavidePrincipi* - Created at: 2025-07-29T08:22:44Z
+-  :zzz: **[Default password expiration policy is disabled](https://github.com/NethServer/ns8-samba/pull/118)** by *stephdl* - Reviewers: *DavidePrincipi* - Created at: 2025-07-29T08:22:44Z
 
 ### NethServer/ns8-traefik 1 
 
@@ -35,11 +35,11 @@ date = 2025-08-28
 
 ### NethServer/ns8-openldap 1 
 
--   **[Default password expiration policy is disabled](https://github.com/NethServer/ns8-openldap/pull/66)** by *stephdl* - Reviewers: *DavidePrincipi* - Created at: 2025-07-29T08:10:52Z
+-  :zzz: **[Default password expiration policy is disabled](https://github.com/NethServer/ns8-openldap/pull/66)** by *stephdl* - Reviewers: *DavidePrincipi* - Created at: 2025-07-29T08:10:52Z
 
 ### NethServer/ns8-crowdsec 1 
 
--   **[Disable FreePBX configurations and related components](https://github.com/NethServer/ns8-crowdsec/pull/84)** by *stephdl* - Reviewers: *DavidePrincipi* - Created at: 2025-08-12T10:06:54Z
+- :eyes:  **[Disable FreePBX configurations and related components](https://github.com/NethServer/ns8-crowdsec/pull/84)** by *stephdl* - Reviewers: *None* - Created at: 2025-08-12T10:06:54Z
 
 ### NethServer/ns8-docs 4 
 
@@ -61,10 +61,6 @@ date = 2025-08-28
 
 - :eyes:  **[fix: better output device change on first load](https://github.com/NethServer/nethlink/pull/70)** by *tonyco97* - Reviewers: *None* - Created at: 2025-08-22T14:47:03Z
 - :eyes: :zzz: **[fix: created new event to manage urlParam](https://github.com/NethServer/nethlink/pull/69)** by *tonyco97* - Reviewers: *None* - Created at: 2025-07-24T10:35:08Z
-
-### NethServer/my 1 
-
--   **[feat(frontend): add support for backend pagination](https://github.com/NethServer/my/pull/19)** by *andre8244* - Reviewers: *edospadoni* - Created at: 2025-08-27T15:06:36Z
 
 ## Organization: nethesis
 
