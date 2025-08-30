@@ -1,6 +1,6 @@
 +++
 title = 'Open Pull Requests'
-date = 2025-08-29
+date = 2025-08-30
 +++
 
 ## Organization: nethserver
@@ -19,14 +19,9 @@ date = 2025-08-29
 
 - :eyes: :zzz: **[Update pins.yml for webtop upgrade](https://github.com/NethServer/ns8-repomd/pull/54)** by *stephdl* - Reviewers: *None* - Created at: 2025-07-28T09:57:40Z
 
-### NethServer/ns8-webserver 1 
-
-- :eyes:  **[php-fpm: change upstream image to php project](https://github.com/NethServer/ns8-webserver/pull/102)** by *stephdl* - Reviewers: *None* - Created at: 2025-08-21T13:37:15Z
-
-### NethServer/ns8-samba 3 
+### NethServer/ns8-samba 2 
 
 - :eyes:  **[Add password change and expiration options for users](https://github.com/NethServer/ns8-samba/pull/121)** by *stephdl* - Reviewers: *None* - Created at: 2025-08-13T13:33:57Z
-- :eyes:  **[Modify Samba users' flags from [UX] to [U] excluding ldapservice](https://github.com/NethServer/ns8-samba/pull/120)** by *stephdl* - Reviewers: *None* - Created at: 2025-08-13T10:30:48Z
 -  :zzz: **[Default password expiration policy is disabled](https://github.com/NethServer/ns8-samba/pull/118)** by *stephdl* - Reviewers: *DavidePrincipi* - Created at: 2025-07-29T08:22:44Z
 
 ### NethServer/ns8-traefik 1 
@@ -36,10 +31,6 @@ date = 2025-08-29
 ### NethServer/ns8-openldap 1 
 
 -  :zzz: **[Default password expiration policy is disabled](https://github.com/NethServer/ns8-openldap/pull/66)** by *stephdl* - Reviewers: *DavidePrincipi* - Created at: 2025-07-29T08:10:52Z
-
-### NethServer/ns8-crowdsec 1 
-
-- :eyes:  **[Disable FreePBX configurations and related components](https://github.com/NethServer/ns8-crowdsec/pull/84)** by *stephdl* - Reviewers: *None* - Created at: 2025-08-12T10:06:54Z
 
 ### NethServer/ns8-docs 4 
 
@@ -52,8 +43,9 @@ date = 2025-08-29
 
 - :eyes:  **[fix(deps): updated vuei18n](https://github.com/NethServer/nethsecurity-ui/pull/629)** by *Tbaile* - Reviewers: *None* - Created at: 2025-08-21T09:25:54Z
 
-### NethServer/nethsecurity-docs 2 
+### NethServer/nethsecurity-docs 3 
 
+-   **[WoL docs](https://github.com/NethServer/nethsecurity-docs/pull/201)** by *francio87* - Reviewers: *gsanchietti* - Created at: 2025-08-29T13:18:48Z
 - :eyes:  **[Backup section: unencrypted backup button and many improvements](https://github.com/NethServer/nethsecurity-docs/pull/200)** by *cotosso* - Reviewers: *None* - Created at: 2025-08-26T14:22:21Z
 -  :zzz: **[feat(controller): add unit groups](https://github.com/NethServer/nethsecurity-docs/pull/194)** by *gsanchietti* - Reviewers: *filippocarletti, cotosso* - Created at: 2025-07-15T13:06:06Z
 
@@ -86,6 +78,10 @@ date = 2025-08-29
 
 - :eyes:  **[feat: created missing mute owner inside conference](https://github.com/nethesis/phone-island/pull/108)** by *tonyco97* - Reviewers: *None* - Created at: 2025-08-18T07:54:36Z
 - :eyes: :zzz: **[feat: changed reference api path for middleware](https://github.com/nethesis/phone-island/pull/103)** by *tommaso-ascani* - Reviewers: *None* - Created at: 2025-06-30T14:18:42Z
+
+### nethesis/vue-components 1 
+
+-   **[feat: add NeBadgeV2 and other fixes](https://github.com/nethesis/vue-components/pull/93)** by *andre8244* - Reviewers: *Tbaile* - Created at: 2025-08-29T09:15:46Z
 
 ### nethesis/parceler 1 
 

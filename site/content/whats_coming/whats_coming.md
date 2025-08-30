@@ -2,13 +2,15 @@
 
 title = 'To be released soon'
 
-date = 2025-08-29
+date = 2025-08-30
 
 +++
 
 ### NethServer
 
 - [SOGo doesn't respect the LDAP mail field in autocompletion](https://github.com/NethServer/dev/issues/7607) (#7489) by mrmarkuz (Created: 2025-08-22T14:03:13Z, Updated: 2025-08-25T10:53:17Z)
+
+- [Webtop: Change Bitnami Apache Image as Bitnami changes their image catalog](https://github.com/NethServer/dev/issues/7605) (#7489) by mrmarkuz (Created: 2025-08-22T07:35:46Z, Updated: 2025-08-29T13:35:52Z)
 
 - [Upgrade nginx, DependencyTrack and trivy](https://github.com/NethServer/dev/issues/7590) (#7489) by stephdl (Created: 2025-07-31T15:07:11Z, Updated: 2025-08-18T14:39:41Z)
 
@@ -19,6 +21,8 @@ date = 2025-08-29
 - [WebTop 1.5 with Tomcat and Postgresql Version Upgrade](https://github.com/NethServer/dev/issues/7489) (#7489) by lucagasparini (Created: 2025-05-30T10:20:52Z, Updated: 2025-08-26T12:28:14Z)
 
 ### NethSecurity
+
+- [Port Forward: Invalid IP accepted when destination port is set](https://github.com/NethServer/nethsecurity/issues/1363) (#1158) by francio87 (Created: 2025-08-27T10:37:27Z, Updated: 2025-08-29T07:59:24Z)
 
 - [OpenVPN Tunnels: Fails to start with LZO compression](https://github.com/NethServer/nethsecurity/issues/1357) (#1158) by francio87 (Created: 2025-08-25T16:14:10Z, Updated: 2025-08-26T12:30:50Z)
 
