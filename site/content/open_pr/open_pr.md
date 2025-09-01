@@ -1,13 +1,13 @@
 +++
 title = 'Open Pull Requests'
-date = 2025-08-31
+date = 2025-09-01
 +++
 
 ## Organization: nethserver
 
 ### NethServer/dev 1 
 
--   **[Vulnerability management process](https://github.com/NethServer/dev/pull/7591)** by *gsanchietti* - Reviewers: *andrea-marchionni, cotosso, lucagasparini, nrauso, NethNick* - Created at: 2025-08-01T08:55:21Z
+-  :zzz: **[Vulnerability management process](https://github.com/NethServer/dev/pull/7591)** by *gsanchietti* - Reviewers: *andrea-marchionni, cotosso, lucagasparini, nrauso, NethNick* - Created at: 2025-08-01T08:55:21Z
 
 ### NethServer/ns8-core 3 
 
