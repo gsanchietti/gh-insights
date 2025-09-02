@@ -1,6 +1,6 @@
 +++
 title = 'Open Pull Requests by Bots'
-date = 2025-09-01
+date = 2025-09-02
 +++
 
 ## Organization: nethserver
@@ -166,8 +166,9 @@ date = 2025-09-01
 - :eyes:  **[chore(deps): update ejabberd/ecs docker tag to v25.08](https://github.com/NethServer/ns8-ejabberd/pull/69)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-08-24T13:55:59Z
 - :eyes: :zzz: **[chore(deps): update ghcr.io/marketsquare/robotframework-browser/rfbrowser-stable docker tag to v19.7.2](https://github.com/NethServer/ns8-ejabberd/pull/62)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-03-11T13:24:07Z
 
-### NethServer/nethsecurity-ui 1 
+### NethServer/nethsecurity-ui 2 
 
+- :eyes:  **[chore: translations update from Hosted Weblate](https://github.com/NethServer/nethsecurity-ui/pull/641)** by *weblate* - Reviewers: *None* - Created at: 2025-09-01T10:37:42Z
 - :eyes: :zzz: **[chore: configure Renovate](https://github.com/NethServer/nethsecurity-ui/pull/578)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-06-05T07:26:40Z
 
 ### NethServer/nethsecurity-api 1 

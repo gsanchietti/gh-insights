@@ -1,6 +1,6 @@
 +++
 title = 'Open Pull Requests'
-date = 2025-09-01
+date = 2025-09-02
 +++
 
 ## Organization: nethserver
@@ -18,6 +18,10 @@ date = 2025-09-01
 ### NethServer/ns8-repomd 1 
 
 - :eyes: :zzz: **[Update pins.yml for webtop upgrade](https://github.com/NethServer/ns8-repomd/pull/54)** by *stephdl* - Reviewers: *None* - Created at: 2025-07-28T09:57:40Z
+
+### NethServer/ns8-webserver 1 
+
+-   **[Update PHP version handling and dependencies for compatibility with Bullseye and Trixie](https://github.com/NethServer/ns8-webserver/pull/104)** by *stephdl* - Reviewers: *DavidePrincipi* - Created at: 2025-09-01T09:18:53Z
 
 ### NethServer/ns8-samba 2 
 
@@ -41,7 +45,7 @@ date = 2025-09-01
 
 ### NethServer/nethsecurity-ui 1 
 
-- :eyes:  **[fix(deps): updated vuei18n](https://github.com/NethServer/nethsecurity-ui/pull/629)** by *Tbaile* - Reviewers: *None* - Created at: 2025-08-21T09:25:54Z
+- :eyes:  **[chore(main): release 2.5.5](https://github.com/NethServer/nethsecurity-ui/pull/642)** by *Tbaile* - Reviewers: *None* - Created at: 2025-09-01T10:56:39Z
 
 ### NethServer/nethsecurity-docs 3 
 
@@ -49,10 +53,15 @@ date = 2025-09-01
 - :eyes:  **[Backup section: unencrypted backup button and many improvements](https://github.com/NethServer/nethsecurity-docs/pull/200)** by *cotosso* - Reviewers: *None* - Created at: 2025-08-26T14:22:21Z
 -  :zzz: **[feat(controller): add unit groups](https://github.com/NethServer/nethsecurity-docs/pull/194)** by *gsanchietti* - Reviewers: *filippocarletti, cotosso* - Created at: 2025-07-15T13:06:06Z
 
-### NethServer/nethlink 2 
+### NethServer/nethlink 3 
 
+- :eyes:  **[chore(dep): update phone-island](https://github.com/NethServer/nethlink/pull/71)** by *tonyco97* - Reviewers: *None* - Created at: 2025-09-01T14:22:53Z
 - :eyes:  **[fix: better output device change on first load](https://github.com/NethServer/nethlink/pull/70)** by *tonyco97* - Reviewers: *None* - Created at: 2025-08-22T14:47:03Z
 - :eyes: :zzz: **[fix: created new event to manage urlParam](https://github.com/NethServer/nethlink/pull/69)** by *tonyco97* - Reviewers: *None* - Created at: 2025-07-24T10:35:08Z
+
+### NethServer/my 1 
+
+-   **[feat: added impersonate for Owner users](https://github.com/NethServer/my/pull/21)** by *edospadoni* - Reviewers: *andre8244* - Created at: 2025-09-01T08:59:27Z
 
 ## Organization: nethesis
 
@@ -69,19 +78,13 @@ date = 2025-09-01
 -   **[feature(wss): Enable websocket transport capabilities](https://github.com/nethesis/ns8-nethvoice/pull/533)** by *Stell0* - Reviewers: *Amygos* - Created at: 2025-08-22T09:17:35Z
 - :eyes: :zzz: **[feat: added middleware component](https://github.com/nethesis/ns8-nethvoice/pull/493)** by *tommaso-ascani* - Reviewers: *None* - Created at: 2025-06-30T14:06:22Z
 
-### nethesis/nethvoice-cti 2 
+### nethesis/nethvoice-cti 1 
 
-- :eyes: :zzz: **[fix: removed urlParam custom management](https://github.com/nethesis/nethvoice-cti/pull/327)** by *tonyco97* - Reviewers: *None* - Created at: 2025-07-24T07:46:14Z
 - :eyes: :zzz: **[feat: changed api path for middleware](https://github.com/nethesis/nethvoice-cti/pull/317)** by *tommaso-ascani* - Reviewers: *None* - Created at: 2025-06-30T14:27:05Z
 
-### nethesis/phone-island 2 
+### nethesis/phone-island 1 
 
-- :eyes:  **[feat: created missing mute owner inside conference](https://github.com/nethesis/phone-island/pull/108)** by *tonyco97* - Reviewers: *None* - Created at: 2025-08-18T07:54:36Z
 - :eyes: :zzz: **[feat: changed reference api path for middleware](https://github.com/nethesis/phone-island/pull/103)** by *tommaso-ascani* - Reviewers: *None* - Created at: 2025-06-30T14:18:42Z
-
-### nethesis/vue-components 1 
-
--   **[feat: add NeBadgeV2 and other fixes](https://github.com/nethesis/vue-components/pull/93)** by *andre8244* - Reviewers: *Tbaile* - Created at: 2025-08-29T09:15:46Z
 
 ### nethesis/parceler 1 
 

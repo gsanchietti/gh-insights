@@ -2,13 +2,11 @@
 
 title = 'To be released soon'
 
-date = 2025-09-01
+date = 2025-09-02
 
 +++
 
 ### NethServer
-
-- [SOGo doesn't respect the LDAP mail field in autocompletion](https://github.com/NethServer/dev/issues/7607) (#7489) by mrmarkuz (Created: 2025-08-22T14:03:13Z, Updated: 2025-08-25T10:53:17Z)
 
 - [Webtop: Change Bitnami Apache Image as Bitnami changes their image catalog](https://github.com/NethServer/dev/issues/7605) (#7489) by mrmarkuz (Created: 2025-08-22T07:35:46Z, Updated: 2025-08-29T13:35:52Z)
 
@@ -52,7 +50,7 @@ date = 2025-09-01
 
 - [DPI: ICMP block rules not applied to conntrack](https://github.com/NethServer/nethsecurity/issues/1280) (#1158) by Tbaile (Created: 2025-06-20T12:47:58Z, Updated: 2025-08-05T12:54:27Z)
 
-- [Avoid using DNS servers provided by DHCP/PPPoE when manual DNS servers are configured in the UI.](https://github.com/NethServer/nethsecurity/issues/1253) (#1158) by cotosso (Created: 2025-06-05T13:07:24Z, Updated: 2025-08-27T07:29:01Z)
+- [Avoid using DNS servers provided by DHCP/PPPoE when manual DNS servers are configured in the UI.](https://github.com/NethServer/nethsecurity/issues/1253) (#1158) by cotosso (Created: 2025-06-05T13:07:24Z, Updated: 2025-09-01T07:27:11Z)
 
 - [mwan and qosify configuration persists after WAN removal from interfaces](https://github.com/NethServer/nethsecurity/issues/1244) (#1158) by filippocarletti (Created: 2025-05-30T11:15:43Z, Updated: 2025-07-21T14:26:15Z)
 
