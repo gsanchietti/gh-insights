@@ -1,6 +1,6 @@
 +++
 title = 'Open Pull Requests'
-date = 2025-09-02
+date = 2025-09-03
 +++
 
 ## Organization: nethserver
@@ -9,15 +9,12 @@ date = 2025-09-02
 
 -  :zzz: **[Vulnerability management process](https://github.com/NethServer/dev/pull/7591)** by *gsanchietti* - Reviewers: *andrea-marchionni, cotosso, lucagasparini, nrauso, NethNick* - Created at: 2025-08-01T08:55:21Z
 
-### NethServer/ns8-core 3 
+### NethServer/ns8-core 4 
 
+- :eyes:  **[Rate Limiter for the Agent Module](https://github.com/NethServer/ns8-core/pull/927)** by *Elia-Renzoni* - Reviewers: *None* - Created at: 2025-09-02T11:04:47Z
 - :eyes:  **[Add script and JSON schema for restarting module services](https://github.com/NethServer/ns8-core/pull/924)** by *stephdl* - Reviewers: *None* - Created at: 2025-08-18T15:27:16Z
 - :eyes:  **[Add "Must Change Password on Login" & Password Expiration Controls](https://github.com/NethServer/ns8-core/pull/922)** by *stephdl* - Reviewers: *None* - Created at: 2025-08-13T13:59:39Z
 -  :zzz: **[Refactor the port management logic by  ensuring data integrity](https://github.com/NethServer/ns8-core/pull/906)** by *stephdl* - Reviewers: *DavidePrincipi* - Created at: 2025-06-25T13:55:58Z
-
-### NethServer/ns8-repomd 1 
-
-- :eyes: :zzz: **[Update pins.yml for webtop upgrade](https://github.com/NethServer/ns8-repomd/pull/54)** by *stephdl* - Reviewers: *None* - Created at: 2025-07-28T09:57:40Z
 
 ### NethServer/ns8-webserver 1 
 
@@ -43,13 +40,14 @@ date = 2025-09-02
 - :eyes: :zzz: **[fix(metrics): remove language selection](https://github.com/NethServer/ns8-docs/pull/167)** by *gsanchietti* - Reviewers: *None* - Created at: 2025-05-26T13:20:09Z
 - :eyes: :zzz: **[add Yealink T7X T8X AX](https://github.com/NethServer/ns8-docs/pull/165)** by *andrea-marchionni* - Reviewers: *None* - Created at: 2025-05-16T16:03:23Z
 
-### NethServer/nethsecurity-ui 1 
+### NethServer/nethsecurity-ui 2 
 
+- :eyes:  **[chore(deps): updating typescript, node and vite](https://github.com/NethServer/nethsecurity-ui/pull/643)** by *Tbaile* - Reviewers: *None* - Created at: 2025-09-02T07:20:15Z
 - :eyes:  **[chore(main): release 2.5.5](https://github.com/NethServer/nethsecurity-ui/pull/642)** by *Tbaile* - Reviewers: *None* - Created at: 2025-09-01T10:56:39Z
 
 ### NethServer/nethsecurity-docs 3 
 
--   **[WoL docs](https://github.com/NethServer/nethsecurity-docs/pull/201)** by *francio87* - Reviewers: *gsanchietti* - Created at: 2025-08-29T13:18:48Z
+- :eyes:  **[WoL docs](https://github.com/NethServer/nethsecurity-docs/pull/201)** by *francio87* - Reviewers: *None* - Created at: 2025-08-29T13:18:48Z
 - :eyes:  **[Backup section: unencrypted backup button and many improvements](https://github.com/NethServer/nethsecurity-docs/pull/200)** by *cotosso* - Reviewers: *None* - Created at: 2025-08-26T14:22:21Z
 -  :zzz: **[feat(controller): add unit groups](https://github.com/NethServer/nethsecurity-docs/pull/194)** by *gsanchietti* - Reviewers: *filippocarletti, cotosso* - Created at: 2025-07-15T13:06:06Z
 
@@ -61,7 +59,7 @@ date = 2025-09-02
 
 ### NethServer/my 1 
 
--   **[feat: added impersonate for Owner users](https://github.com/NethServer/my/pull/21)** by *edospadoni* - Reviewers: *andre8244* - Created at: 2025-09-01T08:59:27Z
+-   **[feat: added impersonate function for owner users](https://github.com/NethServer/my/pull/21)** by *edospadoni* - Reviewers: *andre8244* - Created at: 2025-09-01T08:59:27Z
 
 ## Organization: nethesis
 
@@ -75,7 +73,7 @@ date = 2025-09-02
 
 ### nethesis/ns8-nethvoice 2 
 
--   **[feature(wss): Enable websocket transport capabilities](https://github.com/nethesis/ns8-nethvoice/pull/533)** by *Stell0* - Reviewers: *Amygos* - Created at: 2025-08-22T09:17:35Z
+- :eyes:  **[feature(wss): Enable websocket transport capabilities](https://github.com/nethesis/ns8-nethvoice/pull/533)** by *Stell0* - Reviewers: *None* - Created at: 2025-08-22T09:17:35Z
 - :eyes: :zzz: **[feat: added middleware component](https://github.com/nethesis/ns8-nethvoice/pull/493)** by *tommaso-ascani* - Reviewers: *None* - Created at: 2025-06-30T14:06:22Z
 
 ### nethesis/nethvoice-cti 1 
@@ -89,5 +87,9 @@ date = 2025-09-02
 ### nethesis/parceler 1 
 
 - :eyes:  **[chore(main): release 1.2.1](https://github.com/nethesis/parceler/pull/105)** by *Tbaile* - Reviewers: *None* - Created at: 2025-08-21T12:47:15Z
+
+### nethesis/satellite 1 
+
+- :eyes:  **[enhancement(ai):Update model and temperature in summarization](https://github.com/nethesis/satellite/pull/3)** by *Stell0* - Reviewers: *None* - Created at: 2025-09-02T07:36:56Z
 
 

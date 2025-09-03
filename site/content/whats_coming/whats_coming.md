@@ -2,21 +2,21 @@
 
 title = 'To be released soon'
 
-date = 2025-09-02
+date = 2025-09-03
 
 +++
 
+### NethVoice
+
+- [NethVoice: change extensions settings on migration instead of restart](https://github.com/NethServer/dev/issues/7606) (#7581) by Stell0 (Created: 2025-08-22T09:41:40Z, Updated: 2025-09-02T09:16:42Z)
+
 ### NethServer
 
-- [Webtop: Change Bitnami Apache Image as Bitnami changes their image catalog](https://github.com/NethServer/dev/issues/7605) (#7489) by mrmarkuz (Created: 2025-08-22T07:35:46Z, Updated: 2025-08-29T13:35:52Z)
+- [Upgrade nginx, DependencyTrack and trivy](https://github.com/NethServer/dev/issues/7590) (#7581) by stephdl (Created: 2025-07-31T15:07:11Z, Updated: 2025-08-18T14:39:41Z)
 
-- [Upgrade nginx, DependencyTrack and trivy](https://github.com/NethServer/dev/issues/7590) (#7489) by stephdl (Created: 2025-07-31T15:07:11Z, Updated: 2025-08-18T14:39:41Z)
+- [Update nginx to stable and php8.4 for Webserver](https://github.com/NethServer/dev/issues/7589) (#7581) by stephdl (Created: 2025-07-31T15:02:32Z, Updated: 2025-08-14T07:06:59Z)
 
-- [Update nginx to stable and php8.4 for Webserver](https://github.com/NethServer/dev/issues/7589) (#7489) by stephdl (Created: 2025-07-31T15:02:32Z, Updated: 2025-08-14T07:06:59Z)
-
-- [Request to upgrade Collabora CODE Docker tag to v25.04.4.2.1](https://github.com/NethServer/dev/issues/7581) (#7489) by stephdl (Created: 2025-07-31T14:33:26Z, Updated: 2025-08-26T10:54:19Z)
-
-- [WebTop 1.5 with Tomcat and Postgresql Version Upgrade](https://github.com/NethServer/dev/issues/7489) (#7489) by lucagasparini (Created: 2025-05-30T10:20:52Z, Updated: 2025-08-26T12:28:14Z)
+- [Request to upgrade Collabora CODE Docker tag to v25.04.4.2.1](https://github.com/NethServer/dev/issues/7581) (#7581) by stephdl (Created: 2025-07-31T14:33:26Z, Updated: 2025-08-26T10:54:19Z)
 
 ### NethSecurity
 
@@ -29,6 +29,8 @@ date = 2025-09-02
 - [build: Compile fails on OpenWrt 24.10.0 due to missing rust-dev package](https://github.com/NethServer/nethsecurity/issues/1348) (#1158) by Tbaile (Created: 2025-08-19T14:35:43Z, Updated: 2025-08-26T06:41:16Z)
 
 - [IPSEC: Add DH Groups 19, 20, and 21 support in ipsec UI](https://github.com/NethServer/nethsecurity/issues/1334) (#1158) by cotosso (Created: 2025-08-05T14:51:31Z, Updated: 2025-08-27T09:12:34Z)
+
+- [backup: Add password confirmation field and UI improvements for backup passphrase management](https://github.com/NethServer/nethsecurity/issues/1323) (#1158) by Tbaile (Created: 2025-07-29T13:11:37Z, Updated: 2025-09-02T09:37:48Z)
 
 - [Portforward: Kebab menu enable/disable fails with domain set object](https://github.com/NethServer/nethsecurity/issues/1312) (#1158) by Tbaile (Created: 2025-07-21T12:38:32Z, Updated: 2025-07-30T14:21:05Z)
 

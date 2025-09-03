@@ -1,6 +1,6 @@
 +++
-title = 'Need testing (5)'
-date = 2025-09-02
+title = 'Need testing (4)'
+date = 2025-09-03
 +++
 
 ## NethServer
@@ -8,7 +8,6 @@ date = 2025-09-02
 - :point_right: **[Update ns8-piler to piler 1.4.7 ](https://github.com/NethServer/dev/issues/7516)** (#7516) by *stephdl* (Created: 2025-06-19, Updated: 2025-08-08T12:08:59Z)
 
 ## NethVoice
-- :point_right: **[NethVoice: change extensions settings on migration instead of restart](https://github.com/NethServer/dev/issues/7606)** (#7516) by *Stell0* (Created: 2025-08-22, Updated: 2025-08-22T14:58:35Z)
 - :point_right: **[NethHotel: Can't add extras on new installations](https://github.com/NethServer/dev/issues/7600)** (#7516) by *Stell0* (Created: 2025-08-07, Updated: 2025-08-07T15:03:09Z)
 
 ## NethSecurity
