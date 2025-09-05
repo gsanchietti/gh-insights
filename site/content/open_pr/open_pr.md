@@ -1,6 +1,6 @@
 +++
 title = 'Open Pull Requests'
-date = 2025-09-04
+date = 2025-09-05
 +++
 
 ## Organization: nethserver
@@ -8,13 +8,9 @@ date = 2025-09-04
 ### NethServer/ns8-core 4 
 
 - :eyes:  **[Rate Limiter for the Agent Module](https://github.com/NethServer/ns8-core/pull/927)** by *Elia-Renzoni* - Reviewers: *None* - Created at: 2025-09-02T11:04:47Z
--   **[Add script and JSON schema for restarting module services](https://github.com/NethServer/ns8-core/pull/924)** by *stephdl* - Reviewers: *DavidePrincipi, andre8244* - Created at: 2025-08-18T15:27:16Z
+- :eyes:  **[Add script and JSON schema for restarting module services](https://github.com/NethServer/ns8-core/pull/924)** by *stephdl* - Reviewers: *None* - Created at: 2025-08-18T15:27:16Z
 - :eyes:  **[Add "Must Change Password on Login" & Password Expiration Controls](https://github.com/NethServer/ns8-core/pull/922)** by *stephdl* - Reviewers: *None* - Created at: 2025-08-13T13:59:39Z
 -  :zzz: **[Refactor the port management logic by  ensuring data integrity](https://github.com/NethServer/ns8-core/pull/906)** by *stephdl* - Reviewers: *DavidePrincipi* - Created at: 2025-06-25T13:55:58Z
-
-### NethServer/ns8-ui-lib 1 
-
--   **[fix(NsDataTable): fix search](https://github.com/NethServer/ns8-ui-lib/pull/39)** by *andre8244* - Reviewers: *edospadoni* - Created at: 2025-09-03T15:45:24Z
 
 ### NethServer/ns8-webserver 1 
 
@@ -50,7 +46,7 @@ date = 2025-09-04
 
 ### NethServer/ns8-user-manager 1 
 
--   **[feat: Add password management options in user forms](https://github.com/NethServer/ns8-user-manager/pull/118)** by *stephdl* - Reviewers: *Tbaile* - Created at: 2025-09-03T12:55:33Z
+-   **[feat: add password management options in user forms](https://github.com/NethServer/ns8-user-manager/pull/118)** by *stephdl* - Reviewers: *Tbaile* - Created at: 2025-09-03T12:55:33Z
 
 ### NethServer/ns8-sogo 1 
 
@@ -64,7 +60,7 @@ date = 2025-09-04
 
 ### NethServer/my 1 
 
--   **[feat: added impersonate function for owner users](https://github.com/NethServer/my/pull/21)** by *edospadoni* - Reviewers: *andre8244* - Created at: 2025-09-01T08:59:27Z
+-   **[feat: added impersonate function for super-admin users](https://github.com/NethServer/my/pull/21)** by *edospadoni* - Reviewers: *andre8244* - Created at: 2025-09-01T08:59:27Z
 
 ## Organization: nethesis
 
@@ -78,7 +74,7 @@ date = 2025-09-04
 
 ### nethesis/ns8-nethvoice 3 
 
--   **[fix(freepbx): avoid error on clone when there are multiple IAX bindports](https://github.com/nethesis/ns8-nethvoice/pull/539)** by *Stell0* - Reviewers: *Amygos* - Created at: 2025-09-03T16:20:49Z
+- :eyes:  **[fix(freepbx): avoid error on clone when there are multiple IAX bindports](https://github.com/nethesis/ns8-nethvoice/pull/539)** by *Stell0* - Reviewers: *None* - Created at: 2025-09-03T16:20:49Z
 - :eyes:  **[feature(wss): Enable websocket transport capabilities](https://github.com/nethesis/ns8-nethvoice/pull/533)** by *Stell0* - Reviewers: *None* - Created at: 2025-08-22T09:17:35Z
 - :eyes: :zzz: **[feat: added middleware component](https://github.com/nethesis/ns8-nethvoice/pull/493)** by *tommaso-ascani* - Reviewers: *None* - Created at: 2025-06-30T14:06:22Z
 

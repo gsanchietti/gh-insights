@@ -1,6 +1,6 @@
 +++
-title = 'Need testing (9)'
-date = 2025-09-04
+title = 'Need testing (10)'
+date = 2025-09-05
 +++
 
 ## NethServer
@@ -12,6 +12,7 @@ date = 2025-09-04
 - :point_right: **[NethHotel: Can't add extras on new installations](https://github.com/NethServer/dev/issues/7600)** (#7512) by *Stell0* (Created: 2025-08-07, Updated: 2025-08-07T15:03:09Z)
 - :point_right: **[NethVoice CTI: Operator last login shows incorrect time (+2 hours) in real time page](https://github.com/NethServer/dev/issues/7565)** (#7512) by *viktec* (Created: 2025-07-22, Updated: 2025-09-03T14:01:50Z)
 - :point_right: **[PhoneIsland: url-parameter refactor](https://github.com/NethServer/dev/issues/7559)** (#7512) by *tonyco97* (Created: 2025-07-21, Updated: 2025-09-03T14:11:23Z)
+- :point_right: **[NethVoice: Wrong warning message shown when "Tutti i gruppi" is enabled in Pannello presenza](https://github.com/NethServer/dev/issues/7523)** (#7512) by *viktec* (Created: 2025-06-24, Updated: 2025-09-04T10:27:52Z)
 - :point_right: **[Phone Island: appears twice when call is answered from another device](https://github.com/NethServer/dev/issues/7521)** (#7512) by *viktec* (Created: 2025-06-23, Updated: 2025-09-03T14:07:16Z)
 - :point_right: **[Nethvoice CTI: Missing url param show in queue conversation](https://github.com/NethServer/dev/issues/7512)** (#7512) by *tonyco97* (Created: 2025-06-18, Updated: 2025-09-03T14:10:29Z)
 
