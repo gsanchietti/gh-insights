@@ -1,34 +1,18 @@
 +++
 title = 'Open Pull Requests'
-date = 2025-09-05
+date = 2025-09-06
 +++
 
 ## Organization: nethserver
 
-### NethServer/ns8-core 4 
+### NethServer/ns8-core 2 
 
 - :eyes:  **[Rate Limiter for the Agent Module](https://github.com/NethServer/ns8-core/pull/927)** by *Elia-Renzoni* - Reviewers: *None* - Created at: 2025-09-02T11:04:47Z
-- :eyes:  **[Add script and JSON schema for restarting module services](https://github.com/NethServer/ns8-core/pull/924)** by *stephdl* - Reviewers: *None* - Created at: 2025-08-18T15:27:16Z
-- :eyes:  **[Add "Must Change Password on Login" & Password Expiration Controls](https://github.com/NethServer/ns8-core/pull/922)** by *stephdl* - Reviewers: *None* - Created at: 2025-08-13T13:59:39Z
 -  :zzz: **[Refactor the port management logic by  ensuring data integrity](https://github.com/NethServer/ns8-core/pull/906)** by *stephdl* - Reviewers: *DavidePrincipi* - Created at: 2025-06-25T13:55:58Z
-
-### NethServer/ns8-webserver 1 
-
--   **[Update PHP version handling and dependencies for compatibility with Bullseye and Trixie](https://github.com/NethServer/ns8-webserver/pull/104)** by *stephdl* - Reviewers: *DavidePrincipi* - Created at: 2025-09-01T09:18:53Z
-
-### NethServer/ns8-samba 3 
-
-- :eyes:  **[Allow subprocess.run to modify user mail without error checking](https://github.com/NethServer/ns8-samba/pull/122)** by *stephdl* - Reviewers: *None* - Created at: 2025-09-03T14:00:30Z
-- :eyes:  **[Add password change and expiration options for users](https://github.com/NethServer/ns8-samba/pull/121)** by *stephdl* - Reviewers: *None* - Created at: 2025-08-13T13:33:57Z
--  :zzz: **[Default password expiration policy is disabled](https://github.com/NethServer/ns8-samba/pull/118)** by *stephdl* - Reviewers: *DavidePrincipi* - Created at: 2025-07-29T08:22:44Z
 
 ### NethServer/ns8-traefik 1 
 
 - :eyes:  **[fix: avoid IP exposure in TLS certificate](https://github.com/NethServer/ns8-traefik/pull/104)** by *DavidePrincipi* - Reviewers: *None* - Created at: 2025-08-08T08:08:20Z
-
-### NethServer/ns8-openldap 1 
-
--  :zzz: **[Default password expiration policy is disabled](https://github.com/NethServer/ns8-openldap/pull/66)** by *stephdl* - Reviewers: *DavidePrincipi* - Created at: 2025-07-29T08:10:52Z
 
 ### NethServer/ns8-docs 4 
 
@@ -43,10 +27,6 @@ date = 2025-09-05
 - :eyes:  **[WoL docs](https://github.com/NethServer/nethsecurity-docs/pull/201)** by *francio87* - Reviewers: *None* - Created at: 2025-08-29T13:18:48Z
 - :eyes:  **[Backup section: unencrypted backup button and many improvements](https://github.com/NethServer/nethsecurity-docs/pull/200)** by *cotosso* - Reviewers: *None* - Created at: 2025-08-26T14:22:21Z
 -  :zzz: **[feat(controller): add unit groups](https://github.com/NethServer/nethsecurity-docs/pull/194)** by *gsanchietti* - Reviewers: *filippocarletti, cotosso* - Created at: 2025-07-15T13:06:06Z
-
-### NethServer/ns8-user-manager 1 
-
--   **[feat: add password management options in user forms](https://github.com/NethServer/ns8-user-manager/pull/118)** by *stephdl* - Reviewers: *Tbaile* - Created at: 2025-09-03T12:55:33Z
 
 ### NethServer/ns8-sogo 1 
 
