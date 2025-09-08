@@ -1,6 +1,6 @@
 +++
 title = 'Open Pull Requests'
-date = 2025-09-07
+date = 2025-09-08
 +++
 
 ## Organization: nethserver
@@ -12,7 +12,7 @@ date = 2025-09-07
 
 ### NethServer/ns8-traefik 1 
 
-- :eyes:  **[fix: avoid IP exposure in TLS certificate](https://github.com/NethServer/ns8-traefik/pull/104)** by *DavidePrincipi* - Reviewers: *None* - Created at: 2025-08-08T08:08:20Z
+- :eyes: :zzz: **[fix: avoid IP exposure in TLS certificate](https://github.com/NethServer/ns8-traefik/pull/104)** by *DavidePrincipi* - Reviewers: *None* - Created at: 2025-08-08T08:08:20Z
 
 ### NethServer/ns8-docs 4 
 

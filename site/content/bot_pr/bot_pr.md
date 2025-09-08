@@ -1,6 +1,6 @@
 +++
 title = 'Open Pull Requests by Bots'
-date = 2025-09-07
+date = 2025-09-08
 +++
 
 ## Organization: nethserver
@@ -94,8 +94,14 @@ date = 2025-09-07
 - :eyes:  **[chore(deps): update actions/upload-pages-artifact action to v4](https://github.com/NethServer/nethsecurity/pull/1356)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-08-22T17:50:40Z
 - :eyes:  **[build: update debian builder image to v13](https://github.com/NethServer/nethsecurity/pull/1342)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-08-12T22:46:15Z
 
-### NethServer/nethsecurity-controller 2 
+### NethServer/nethsecurity-controller 8 
 
+- :eyes:  **[chore(deps): update actions/setup-go action to v6](https://github.com/NethServer/nethsecurity-controller/pull/162)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-09-08T02:14:35Z
+- :eyes:  **[chore(deps): update aquasecurity/trivy-action action to v0.33.1](https://github.com/NethServer/nethsecurity-controller/pull/161)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-09-08T02:14:31Z
+- :eyes:  **[fix(deps): update module github.com/stretchr/testify to v1.11.1](https://github.com/NethServer/nethsecurity-controller/pull/160)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-09-08T02:14:27Z
+- :eyes:  **[chore(deps): update docker.io/traefik docker tag to v3.5.1](https://github.com/NethServer/nethsecurity-controller/pull/159)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-09-08T02:14:12Z
+- :eyes:  **[chore(deps): update docker.io/golang docker tag to v1.25.1](https://github.com/NethServer/nethsecurity-controller/pull/158)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-09-08T02:14:08Z
+- :eyes:  **[chore(deps): update dependency go to v1.25.1](https://github.com/NethServer/nethsecurity-controller/pull/157)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-09-08T02:14:04Z
 - :eyes:  **[chore(deps): update actions/checkout action to v5](https://github.com/NethServer/nethsecurity-controller/pull/154)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-08-18T01:08:18Z
 - :eyes: :zzz: **[fix(deps): update module github.com/golang-jwt/jwt/v4 to v5](https://github.com/NethServer/nethsecurity-controller/pull/140)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-07-21T00:54:27Z
 
@@ -128,8 +134,8 @@ date = 2025-09-07
 
 - :eyes:  **[chore(deps): update postgres docker tag to v17.6](https://github.com/NethServer/ns8-webtop/pull/150)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-08-14T21:57:19Z
 - :eyes:  **[chore(deps): update actions/checkout action to v5](https://github.com/NethServer/ns8-webtop/pull/149)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-08-11T15:35:08Z
-- :eyes: :zzz: **[chore(deps): update tomcat docker tag to v9.0.108](https://github.com/NethServer/ns8-webtop/pull/148)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-08-07T20:45:13Z
-- :eyes: :zzz: **[chore(deps): update mlocati/php-extension-installer docker tag to v2.9.6](https://github.com/NethServer/ns8-webtop/pull/130)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-06-04T12:42:44Z
+- :eyes: :zzz: **[chore(deps): update tomcat docker tag to v9.0.109](https://github.com/NethServer/ns8-webtop/pull/148)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-08-07T20:45:13Z
+- :eyes: :zzz: **[chore(deps): update mlocati/php-extension-installer docker tag to v2.9.7](https://github.com/NethServer/ns8-webtop/pull/130)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-06-04T12:42:44Z
 - :eyes: :zzz: **[chore(deps): update ghcr.io/marketsquare/robotframework-browser/rfbrowser-stable docker tag to v19.7.2](https://github.com/NethServer/ns8-webtop/pull/99)** by *renovate[bot]* - Reviewers: *None* - Created at: 2024-12-19T16:40:00Z
 
 ### NethServer/ns8-roundcubemail 1 
