@@ -1,6 +1,6 @@
 +++
 title = 'Open Pull Requests by Bots'
-date = 2025-09-08
+date = 2025-09-09
 +++
 
 ## Organization: nethserver
@@ -57,10 +57,9 @@ date = 2025-09-08
 - :eyes: :zzz: **[chore(deps): update nginx docker tag to v1.29.1](https://github.com/NethServer/ns8-ldapproxy/pull/22)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-06-25T03:03:57Z
 -  :zzz: **[chore(deps): update ghcr.io/marketsquare/robotframework-browser/rfbrowser-stable docker tag to v19.7.2](https://github.com/NethServer/ns8-ldapproxy/pull/17)** by *renovate[bot]* - Reviewers: *DavidePrincipi* - Created at: 2024-11-26T11:31:21Z
 
-### NethServer/ns8-samba 3 
+### NethServer/ns8-samba 2 
 
 - :eyes: :zzz: **[chore(deps): update timescale/timescaledb docker tag to v2.22.0](https://github.com/NethServer/ns8-samba/pull/119)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-08-07T17:48:38Z
-- :eyes: :zzz: **[Translations update from Hosted Weblate](https://github.com/NethServer/ns8-samba/pull/117)** by *weblate* - Reviewers: *None* - Created at: 2025-07-26T03:06:35Z
 - :eyes: :zzz: **[chore(deps): update ghcr.io/marketsquare/robotframework-browser/rfbrowser-stable docker tag to v19.7.2](https://github.com/NethServer/ns8-samba/pull/77)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-02-21T09:59:59Z
 
 ### NethServer/ns8-loki 3 
@@ -89,19 +88,15 @@ date = 2025-09-08
 - :eyes: :zzz: **[Translations update from Hosted Weblate](https://github.com/NethServer/ns8-grafana/pull/37)** by *weblate* - Reviewers: *None* - Created at: 2025-05-22T07:06:34Z
 - :eyes: :zzz: **[chore(deps): update ghcr.io/marketsquare/robotframework-browser/rfbrowser-stable docker tag to v19.7.2](https://github.com/NethServer/ns8-grafana/pull/26)** by *renovate[bot]* - Reviewers: *None* - Created at: 2024-12-20T22:05:46Z
 
-### NethServer/nethsecurity 2 
+### NethServer/nethsecurity 3 
 
+- :eyes:  **[chore(deps): update debian docker tag to v12.12](https://github.com/NethServer/nethsecurity/pull/1366)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-09-08T21:58:45Z
 - :eyes:  **[chore(deps): update actions/upload-pages-artifact action to v4](https://github.com/NethServer/nethsecurity/pull/1356)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-08-22T17:50:40Z
-- :eyes:  **[build: update debian builder image to v13](https://github.com/NethServer/nethsecurity/pull/1342)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-08-12T22:46:15Z
+- :eyes:  **[chore(deps): update debian docker tag to v13](https://github.com/NethServer/nethsecurity/pull/1342)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-08-12T22:46:15Z
 
-### NethServer/nethsecurity-controller 8 
+### NethServer/nethsecurity-controller 3 
 
 - :eyes:  **[chore(deps): update actions/setup-go action to v6](https://github.com/NethServer/nethsecurity-controller/pull/162)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-09-08T02:14:35Z
-- :eyes:  **[chore(deps): update aquasecurity/trivy-action action to v0.33.1](https://github.com/NethServer/nethsecurity-controller/pull/161)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-09-08T02:14:31Z
-- :eyes:  **[fix(deps): update module github.com/stretchr/testify to v1.11.1](https://github.com/NethServer/nethsecurity-controller/pull/160)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-09-08T02:14:27Z
-- :eyes:  **[chore(deps): update docker.io/traefik docker tag to v3.5.1](https://github.com/NethServer/nethsecurity-controller/pull/159)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-09-08T02:14:12Z
-- :eyes:  **[chore(deps): update docker.io/golang docker tag to v1.25.1](https://github.com/NethServer/nethsecurity-controller/pull/158)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-09-08T02:14:08Z
-- :eyes:  **[chore(deps): update dependency go to v1.25.1](https://github.com/NethServer/nethsecurity-controller/pull/157)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-09-08T02:14:04Z
 - :eyes:  **[chore(deps): update actions/checkout action to v5](https://github.com/NethServer/nethsecurity-controller/pull/154)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-08-18T01:08:18Z
 - :eyes: :zzz: **[fix(deps): update module github.com/golang-jwt/jwt/v4 to v5](https://github.com/NethServer/nethsecurity-controller/pull/140)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-07-21T00:54:27Z
 
@@ -209,17 +204,13 @@ date = 2025-09-08
 
 - :eyes:  **[chore(deps): update debian docker tag to v13](https://github.com/NethServer/ns8-porthos/pull/9)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-08-12T22:35:00Z
 - :eyes: :zzz: **[chore(deps): update nginx docker tag to v1.29.1](https://github.com/NethServer/ns8-porthos/pull/8)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-06-25T01:53:37Z
-- :eyes: :zzz: **[chore(deps): update debian docker tag to v12.11](https://github.com/NethServer/ns8-porthos/pull/6)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-04-01T07:14:37Z
-
-### NethServer/ns8-postgresql 1 
-
-- :eyes:  **[chore(deps): update dpage/pgadmin4 docker tag to v9.8](https://github.com/NethServer/ns8-postgresql/pull/27)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-08-21T19:12:49Z
+- :eyes: :zzz: **[chore(deps): update debian docker tag to v12.12](https://github.com/NethServer/ns8-porthos/pull/6)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-04-01T07:14:37Z
 
 ### NethServer/ns8-dnsmasq 3 
 
 - :eyes:  **[chore(deps): update docker.io/debian docker tag to v13](https://github.com/NethServer/ns8-dnsmasq/pull/37)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-08-12T22:47:27Z
 - :eyes: :zzz: **[Translations update from Hosted Weblate](https://github.com/NethServer/ns8-dnsmasq/pull/36)** by *weblate* - Reviewers: *None* - Created at: 2025-05-30T13:04:50Z
-- :eyes: :zzz: **[chore(deps): update docker.io/debian docker tag to v12.11](https://github.com/NethServer/ns8-dnsmasq/pull/35)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-05-22T07:50:18Z
+- :eyes: :zzz: **[chore(deps): update docker.io/debian docker tag to v12.12](https://github.com/NethServer/ns8-dnsmasq/pull/35)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-05-22T07:50:18Z
 
 ### NethServer/ns8-wordpress 1 
 

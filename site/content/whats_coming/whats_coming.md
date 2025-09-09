@@ -2,7 +2,7 @@
 
 title = 'To be released soon'
 
-date = 2025-09-08
+date = 2025-09-09
 
 +++
 
@@ -11,6 +11,8 @@ date = 2025-09-08
 - [NethVoice: add ASR and summarization features backend](https://github.com/NethServer/dev/issues/7618) (#7486) by Amygos (Created: 2025-09-05T12:25:50Z, Updated: 2025-09-05T12:45:05Z)
 
 - [NethVoice: change extensions settings on migration instead of restart](https://github.com/NethServer/dev/issues/7606) (#7486) by Stell0 (Created: 2025-08-22T09:41:40Z, Updated: 2025-09-02T09:16:42Z)
+
+- [Phone Island: appears twice when call is answered from another device](https://github.com/NethServer/dev/issues/7521) (#7486) by viktec (Created: 2025-06-23T09:46:53Z, Updated: 2025-09-08T16:21:11Z)
 
 ### NethServer
 

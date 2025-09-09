@@ -1,6 +1,6 @@
 +++
 title = 'Open Pull Requests'
-date = 2025-09-08
+date = 2025-09-09
 +++
 
 ## Organization: nethserver
@@ -34,8 +34,8 @@ date = 2025-09-08
 
 ### NethServer/nethlink 3 
 
+- :eyes:  **[fix: avoid error on audio default change](https://github.com/NethServer/nethlink/pull/73)** by *tonyco97* - Reviewers: *None* - Created at: 2025-09-08T15:12:54Z
 - :eyes:  **[chore(dep): update phone-island](https://github.com/NethServer/nethlink/pull/71)** by *tonyco97* - Reviewers: *None* - Created at: 2025-09-01T14:22:53Z
-- :eyes:  **[fix: better output device change on first load](https://github.com/NethServer/nethlink/pull/70)** by *tonyco97* - Reviewers: *None* - Created at: 2025-08-22T14:47:03Z
 - :eyes: :zzz: **[fix: created new event to manage urlParam](https://github.com/NethServer/nethlink/pull/69)** by *tonyco97* - Reviewers: *None* - Created at: 2025-07-24T10:35:08Z
 
 ### NethServer/my 1 
@@ -62,8 +62,9 @@ date = 2025-09-08
 
 - :eyes: :zzz: **[feat: changed api path for middleware](https://github.com/nethesis/nethvoice-cti/pull/317)** by *tommaso-ascani* - Reviewers: *None* - Created at: 2025-06-30T14:27:05Z
 
-### nethesis/phone-island 1 
+### nethesis/phone-island 2 
 
+- :eyes:  **[fix: missing phone-island after mobile app call](https://github.com/nethesis/phone-island/pull/110)** by *tonyco97* - Reviewers: *None* - Created at: 2025-09-08T15:41:30Z
 - :eyes: :zzz: **[feat: changed reference api path for middleware](https://github.com/nethesis/phone-island/pull/103)** by *tommaso-ascani* - Reviewers: *None* - Created at: 2025-06-30T14:18:42Z
 
 ### nethesis/parceler 1 
