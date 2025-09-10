@@ -1,6 +1,6 @@
 +++
 title = 'Open Pull Requests'
-date = 2025-09-09
+date = 2025-09-10
 +++
 
 ## Organization: nethserver
@@ -14,6 +14,10 @@ date = 2025-09-09
 
 - :eyes: :zzz: **[fix: avoid IP exposure in TLS certificate](https://github.com/NethServer/ns8-traefik/pull/104)** by *DavidePrincipi* - Reviewers: *None* - Created at: 2025-08-08T08:08:20Z
 
+### NethServer/ns8-webtop 1 
+
+- :eyes:  **[Update Apache configuration for HTTPS redirection and host preservation](https://github.com/NethServer/ns8-webtop/pull/153)** by *stephdl* - Reviewers: *None* - Created at: 2025-09-09T13:07:42Z
+
 ### NethServer/ns8-docs 4 
 
 -  :zzz: **[Add hotel docs](https://github.com/NethServer/ns8-docs/pull/176)** by *andrea-marchionni* - Reviewers: *viktec, margit86* - Created at: 2025-07-14T15:52:22Z
@@ -21,11 +25,10 @@ date = 2025-09-09
 - :eyes: :zzz: **[fix(metrics): remove language selection](https://github.com/NethServer/ns8-docs/pull/167)** by *gsanchietti* - Reviewers: *None* - Created at: 2025-05-26T13:20:09Z
 - :eyes: :zzz: **[add Yealink T7X T8X AX](https://github.com/NethServer/ns8-docs/pull/165)** by *andrea-marchionni* - Reviewers: *None* - Created at: 2025-05-16T16:03:23Z
 
-### NethServer/nethsecurity-docs 4 
+### NethServer/nethsecurity-docs 3 
 
+-   **[feat: uci examples and usage](https://github.com/NethServer/nethsecurity-docs/pull/205)** by *cotosso* - Reviewers: *gsanchietti, francio87* - Created at: 2025-09-09T11:57:17Z
 -   **[fix(flashtart): no more need for DNS option on DHCP server](https://github.com/NethServer/nethsecurity-docs/pull/204)** by *cotosso* - Reviewers: *Tbaile* - Created at: 2025-09-03T10:07:54Z
-- :eyes:  **[WoL docs](https://github.com/NethServer/nethsecurity-docs/pull/201)** by *francio87* - Reviewers: *None* - Created at: 2025-08-29T13:18:48Z
-- :eyes:  **[Backup section: unencrypted backup button and many improvements](https://github.com/NethServer/nethsecurity-docs/pull/200)** by *cotosso* - Reviewers: *None* - Created at: 2025-08-26T14:22:21Z
 -  :zzz: **[feat(controller): add unit groups](https://github.com/NethServer/nethsecurity-docs/pull/194)** by *gsanchietti* - Reviewers: *filippocarletti, cotosso* - Created at: 2025-07-15T13:06:06Z
 
 ### NethServer/ns8-sogo 1 
@@ -52,8 +55,9 @@ date = 2025-09-09
 
 -  :zzz: **[Removed old notification service usage](https://github.com/nethesis/nethcti-app-iphone/pull/37)** by *NicolaMrAPPs* - Reviewers: *b9874e40962149eee62a8fd3bc4e709e* - Created at: 2023-08-02T09:19:30Z
 
-### nethesis/ns8-nethvoice 3 
+### nethesis/ns8-nethvoice 4 
 
+-   **[feat: add random delay to phonebook update timer](https://github.com/nethesis/ns8-nethvoice/pull/543)** by *Amygos* - Reviewers: *Stell0* - Created at: 2025-09-09T13:36:36Z
 - :eyes:  **[fix(freepbx): avoid error on clone when there are multiple IAX bindports](https://github.com/nethesis/ns8-nethvoice/pull/539)** by *Stell0* - Reviewers: *None* - Created at: 2025-09-03T16:20:49Z
 - :eyes:  **[feature(wss): Enable websocket transport capabilities](https://github.com/nethesis/ns8-nethvoice/pull/533)** by *Stell0* - Reviewers: *None* - Created at: 2025-08-22T09:17:35Z
 - :eyes: :zzz: **[feat: added middleware component](https://github.com/nethesis/ns8-nethvoice/pull/493)** by *tommaso-ascani* - Reviewers: *None* - Created at: 2025-06-30T14:06:22Z
@@ -70,9 +74,5 @@ date = 2025-09-09
 ### nethesis/parceler 1 
 
 - :eyes:  **[chore(main): release 1.2.1](https://github.com/nethesis/parceler/pull/105)** by *Tbaile* - Reviewers: *None* - Created at: 2025-08-21T12:47:15Z
-
-### nethesis/satellite 1 
-
-- :eyes:  **[enhancement(ai):Update model and temperature in summarization](https://github.com/nethesis/satellite/pull/3)** by *Stell0* - Reviewers: *None* - Created at: 2025-09-02T07:36:56Z
 
 
