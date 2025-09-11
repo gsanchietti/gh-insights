@@ -1,14 +1,21 @@
 +++
 title = 'Open Pull Requests'
-date = 2025-09-10
+date = 2025-09-11
 +++
 
 ## Organization: nethserver
 
-### NethServer/ns8-core 2 
+### NethServer/ns8-core 5 
 
+- :eyes:  **[Update PIP requirements for the Agent python environment](https://github.com/NethServer/ns8-core/pull/934)** by *stephdl* - Reviewers: *None* - Created at: 2025-09-10T15:54:36Z
+- :eyes:  **[Enforce password expiration policy in user management](https://github.com/NethServer/ns8-core/pull/932)** by *stephdl* - Reviewers: *None* - Created at: 2025-09-10T09:05:41Z
+- :eyes:  **[Update Python version to 3.13 and be compatible with systemd v257](https://github.com/NethServer/ns8-core/pull/930)** by *stephdl* - Reviewers: *None* - Created at: 2025-09-04T09:04:20Z
 - :eyes:  **[Rate Limiter for the Agent Module](https://github.com/NethServer/ns8-core/pull/927)** by *Elia-Renzoni* - Reviewers: *None* - Created at: 2025-09-02T11:04:47Z
 -  :zzz: **[Refactor the port management logic by  ensuring data integrity](https://github.com/NethServer/ns8-core/pull/906)** by *stephdl* - Reviewers: *DavidePrincipi* - Created at: 2025-06-25T13:55:58Z
+
+### NethServer/ns8-nextcloud 1 
+
+- :eyes:  **[Add DB-fix script to fix the Nextcloud database and adapt README](https://github.com/NethServer/ns8-nextcloud/pull/157)** by *mrmarkuz* - Reviewers: *None* - Created at: 2025-09-10T16:41:45Z
 
 ### NethServer/ns8-traefik 1 
 
@@ -25,19 +32,23 @@ date = 2025-09-10
 - :eyes: :zzz: **[fix(metrics): remove language selection](https://github.com/NethServer/ns8-docs/pull/167)** by *gsanchietti* - Reviewers: *None* - Created at: 2025-05-26T13:20:09Z
 - :eyes: :zzz: **[add Yealink T7X T8X AX](https://github.com/NethServer/ns8-docs/pull/165)** by *andrea-marchionni* - Reviewers: *None* - Created at: 2025-05-16T16:03:23Z
 
-### NethServer/nethsecurity-docs 3 
+### NethServer/nethsecurity-docs 2 
 
--   **[feat: uci examples and usage](https://github.com/NethServer/nethsecurity-docs/pull/205)** by *cotosso* - Reviewers: *gsanchietti, francio87* - Created at: 2025-09-09T11:57:17Z
 -   **[fix(flashtart): no more need for DNS option on DHCP server](https://github.com/NethServer/nethsecurity-docs/pull/204)** by *cotosso* - Reviewers: *Tbaile* - Created at: 2025-09-03T10:07:54Z
 -  :zzz: **[feat(controller): add unit groups](https://github.com/NethServer/nethsecurity-docs/pull/194)** by *gsanchietti* - Reviewers: *filippocarletti, cotosso* - Created at: 2025-07-15T13:06:06Z
+
+### NethServer/ns8-user-manager 1 
+
+-   **[fix: hide password attribute and age toggle following age policy](https://github.com/NethServer/ns8-user-manager/pull/126)** by *stephdl* - Reviewers: *Tbaile* - Created at: 2025-09-10T09:42:17Z
 
 ### NethServer/ns8-sogo 1 
 
 - :eyes:  **[Fix typos in customization in README.md](https://github.com/NethServer/ns8-sogo/pull/44)** by *mrmarkuz* - Reviewers: *None* - Created at: 2025-09-03T06:35:30Z
 
-### NethServer/nethlink 3 
+### NethServer/nethlink 4 
 
 - :eyes:  **[fix: avoid error on audio default change](https://github.com/NethServer/nethlink/pull/73)** by *tonyco97* - Reviewers: *None* - Created at: 2025-09-08T15:12:54Z
+-   **[feat: nethcti-middleware](https://github.com/NethServer/nethlink/pull/72)** by *tommaso-ascani* - Reviewers: *edospadoni, tonyco97* - Created at: 2025-09-08T07:14:17Z
 - :eyes:  **[chore(dep): update phone-island](https://github.com/NethServer/nethlink/pull/71)** by *tonyco97* - Reviewers: *None* - Created at: 2025-09-01T14:22:53Z
 - :eyes: :zzz: **[fix: created new event to manage urlParam](https://github.com/NethServer/nethlink/pull/69)** by *tonyco97* - Reviewers: *None* - Created at: 2025-07-24T10:35:08Z
 
@@ -46,6 +57,10 @@ date = 2025-09-10
 -   **[feat: added impersonate function for super-admin users](https://github.com/NethServer/my/pull/21)** by *edospadoni* - Reviewers: *andre8244* - Created at: 2025-09-01T08:59:27Z
 
 ## Organization: nethesis
+
+### nethesis/icaro 1 
+
+-   **[feat: added OAuth login](https://github.com/nethesis/icaro/pull/200)** by *edospadoni* - Reviewers: *Amygos* - Created at: 2025-09-10T10:04:49Z
 
 ### nethesis/nethcti-app-android 1 
 

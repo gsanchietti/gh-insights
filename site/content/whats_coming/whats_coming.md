@@ -2,7 +2,7 @@
 
 title = 'To be released soon'
 
-date = 2025-09-10
+date = 2025-09-11
 
 +++
 
@@ -19,6 +19,8 @@ date = 2025-09-10
 - [Phone Island: appears twice when call is answered from another device](https://github.com/NethServer/dev/issues/7521) (#7486) by viktec (Created: 2025-06-23T09:46:53Z, Updated: 2025-09-08T16:21:11Z)
 
 ### NethServer
+
+- [Upstream PHP-FPM Replacement Needed for Bitnami Licensing Change](https://github.com/NethServer/dev/issues/7610) (#7486) by stephdl (Created: 2025-08-25T09:46:05Z, Updated: 2025-09-10T11:36:02Z)
 
 - [Upgrade nginx, DependencyTrack and trivy](https://github.com/NethServer/dev/issues/7590) (#7486) by stephdl (Created: 2025-07-31T15:07:11Z, Updated: 2025-08-18T14:39:41Z)
 
