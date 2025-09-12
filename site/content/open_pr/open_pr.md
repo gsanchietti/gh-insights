@@ -1,14 +1,13 @@
 +++
 title = 'Open Pull Requests'
-date = 2025-09-11
+date = 2025-09-12
 +++
 
 ## Organization: nethserver
 
-### NethServer/ns8-core 5 
+### NethServer/ns8-core 4 
 
-- :eyes:  **[Update PIP requirements for the Agent python environment](https://github.com/NethServer/ns8-core/pull/934)** by *stephdl* - Reviewers: *None* - Created at: 2025-09-10T15:54:36Z
-- :eyes:  **[Enforce password expiration policy in user management](https://github.com/NethServer/ns8-core/pull/932)** by *stephdl* - Reviewers: *None* - Created at: 2025-09-10T09:05:41Z
+-   **[Update PIP requirements for the Agent python 3.11 environment](https://github.com/NethServer/ns8-core/pull/934)** by *stephdl* - Reviewers: *DavidePrincipi* - Created at: 2025-09-10T15:54:36Z
 - :eyes:  **[Update Python version to 3.13 and be compatible with systemd v257](https://github.com/NethServer/ns8-core/pull/930)** by *stephdl* - Reviewers: *None* - Created at: 2025-09-04T09:04:20Z
 - :eyes:  **[Rate Limiter for the Agent Module](https://github.com/NethServer/ns8-core/pull/927)** by *Elia-Renzoni* - Reviewers: *None* - Created at: 2025-09-02T11:04:47Z
 -  :zzz: **[Refactor the port management logic by  ensuring data integrity](https://github.com/NethServer/ns8-core/pull/906)** by *stephdl* - Reviewers: *DavidePrincipi* - Created at: 2025-06-25T13:55:58Z
@@ -20,6 +19,10 @@ date = 2025-09-11
 ### NethServer/ns8-traefik 1 
 
 - :eyes: :zzz: **[fix: avoid IP exposure in TLS certificate](https://github.com/NethServer/ns8-traefik/pull/104)** by *DavidePrincipi* - Reviewers: *None* - Created at: 2025-08-08T08:08:20Z
+
+### NethServer/ns8-mail 1 
+
+- :eyes:  **[fix: SMTPS transport for sender-dependant rules](https://github.com/NethServer/ns8-mail/pull/201)** by *DavidePrincipi* - Reviewers: *None* - Created at: 2025-09-11T08:45:45Z
 
 ### NethServer/ns8-webtop 1 
 
@@ -37,10 +40,6 @@ date = 2025-09-11
 -   **[fix(flashtart): no more need for DNS option on DHCP server](https://github.com/NethServer/nethsecurity-docs/pull/204)** by *cotosso* - Reviewers: *Tbaile* - Created at: 2025-09-03T10:07:54Z
 -  :zzz: **[feat(controller): add unit groups](https://github.com/NethServer/nethsecurity-docs/pull/194)** by *gsanchietti* - Reviewers: *filippocarletti, cotosso* - Created at: 2025-07-15T13:06:06Z
 
-### NethServer/ns8-user-manager 1 
-
--   **[fix: hide password attribute and age toggle following age policy](https://github.com/NethServer/ns8-user-manager/pull/126)** by *stephdl* - Reviewers: *Tbaile* - Created at: 2025-09-10T09:42:17Z
-
 ### NethServer/ns8-sogo 1 
 
 - :eyes:  **[Fix typos in customization in README.md](https://github.com/NethServer/ns8-sogo/pull/44)** by *mrmarkuz* - Reviewers: *None* - Created at: 2025-09-03T06:35:30Z
@@ -57,6 +56,10 @@ date = 2025-09-11
 -   **[feat: added impersonate function for super-admin users](https://github.com/NethServer/my/pull/21)** by *edospadoni* - Reviewers: *andre8244* - Created at: 2025-09-01T08:59:27Z
 
 ## Organization: nethesis
+
+### nethesis/neth-check-in 1 
+
+- :eyes:  **[refactor: add updated files](https://github.com/nethesis/neth-check-in/pull/2)** by *Elia-Renzoni* - Reviewers: *None* - Created at: 2025-09-11T09:26:07Z
 
 ### nethesis/icaro 1 
 

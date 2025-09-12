@@ -2,7 +2,7 @@
 
 title = 'To be released soon'
 
-date = 2025-09-11
+date = 2025-09-12
 
 +++
 
@@ -20,15 +20,7 @@ date = 2025-09-11
 
 ### NethServer
 
-- [Upstream PHP-FPM Replacement Needed for Bitnami Licensing Change](https://github.com/NethServer/dev/issues/7610) (#7486) by stephdl (Created: 2025-08-25T09:46:05Z, Updated: 2025-09-10T11:36:02Z)
-
-- [Upgrade nginx, DependencyTrack and trivy](https://github.com/NethServer/dev/issues/7590) (#7486) by stephdl (Created: 2025-07-31T15:07:11Z, Updated: 2025-08-18T14:39:41Z)
-
-- [Update nginx to stable and php8.4 for Webserver](https://github.com/NethServer/dev/issues/7589) (#7486) by stephdl (Created: 2025-07-31T15:02:32Z, Updated: 2025-08-14T07:06:59Z)
-
-- [Request to upgrade Collabora CODE Docker tag to v25.04.4.2.1](https://github.com/NethServer/dev/issues/7581) (#7486) by stephdl (Created: 2025-07-31T14:33:26Z, Updated: 2025-08-26T10:54:19Z)
-
-- [Change of password expiration policy defaults](https://github.com/NethServer/dev/issues/7503) (#7486) by DavidePrincipi (Created: 2025-06-16T13:12:11Z, Updated: 2025-09-09T15:53:54Z)
+- [Change of password expiration policy defaults](https://github.com/NethServer/dev/issues/7503) (#7486) by DavidePrincipi (Created: 2025-06-16T13:12:11Z, Updated: 2025-09-11T09:32:52Z)
 
 - [Core: button to restart the module](https://github.com/NethServer/dev/issues/7486) (#7486) by gsanchietti (Created: 2025-05-29T06:45:23Z, Updated: 2025-09-05T16:52:46Z)
 
