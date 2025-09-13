@@ -1,6 +1,6 @@
 +++
 title = 'Open Pull Requests by Bots'
-date = 2025-09-12
+date = 2025-09-13
 +++
 
 ## Organization: nethserver
@@ -14,7 +14,7 @@ date = 2025-09-12
 
 ### NethServer/ns8-core 7 
 
-- :eyes:  **[chore(deps): update golang docker tag to v1.25.1](https://github.com/NethServer/ns8-core/pull/923)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-08-13T22:37:58Z
+- :eyes: :zzz: **[chore(deps): update golang docker tag to v1.25.1](https://github.com/NethServer/ns8-core/pull/923)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-08-13T22:37:58Z
 - :eyes: :zzz: **[chore(deps): update grafana/alloy docker tag to v1.10.2](https://github.com/NethServer/ns8-core/pull/907)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-06-26T19:54:37Z
 - :eyes: :zzz: **[chore(deps): update redis docker tag to v8](https://github.com/NethServer/ns8-core/pull/874)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-05-05T23:35:26Z
 - :eyes: :zzz: **[chore(deps): update dependency grafana/loki to v3.5.5](https://github.com/NethServer/ns8-core/pull/868)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-04-23T03:15:08Z
@@ -270,6 +270,10 @@ date = 2025-09-12
 - :eyes: :zzz: **[chore(deps): replace dependency rollup-plugin-babel with @rollup/plugin-babel ^5.0.0](https://github.com/nethesis/ns8-nethvoice/pull/509)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-07-04T15:03:04Z
 - :eyes: :zzz: **[chore(deps): update dependency rollup to v2 [security]](https://github.com/nethesis/ns8-nethvoice/pull/506)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-07-04T12:08:59Z
 - :eyes: :zzz: **[chore(deps): update dependency karma to v6 [security]](https://github.com/nethesis/ns8-nethvoice/pull/505)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-07-04T12:08:13Z
+
+### nethesis/nethvoice-cti 1 
+
+- :eyes:  **[build(deps): Update phone-island dependency (automated)](https://github.com/nethesis/nethvoice-cti/pull/329)** by *github-actions[bot]* - Reviewers: *None* - Created at: 2025-09-13T00:17:12Z
 
 ### nethesis/ns8-nethvoice-proxy 7 
 

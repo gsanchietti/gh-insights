@@ -1,6 +1,6 @@
 +++
 title = 'Open Pull Requests'
-date = 2025-09-12
+date = 2025-09-13
 +++
 
 ## Organization: nethserver
@@ -8,7 +8,7 @@ date = 2025-09-12
 ### NethServer/ns8-core 4 
 
 -   **[Update PIP requirements for the Agent python 3.11 environment](https://github.com/NethServer/ns8-core/pull/934)** by *stephdl* - Reviewers: *DavidePrincipi* - Created at: 2025-09-10T15:54:36Z
-- :eyes:  **[Update Python version to 3.13 and be compatible with systemd v257](https://github.com/NethServer/ns8-core/pull/930)** by *stephdl* - Reviewers: *None* - Created at: 2025-09-04T09:04:20Z
+-   **[Add installation support for Python 3.12/3.13, EL10 & Debian 13](https://github.com/NethServer/ns8-core/pull/930)** by *stephdl* - Reviewers: *DavidePrincipi* - Created at: 2025-09-04T09:04:20Z
 - :eyes:  **[Rate Limiter for the Agent Module](https://github.com/NethServer/ns8-core/pull/927)** by *Elia-Renzoni* - Reviewers: *None* - Created at: 2025-09-02T11:04:47Z
 -  :zzz: **[Refactor the port management logic by  ensuring data integrity](https://github.com/NethServer/ns8-core/pull/906)** by *stephdl* - Reviewers: *DavidePrincipi* - Created at: 2025-06-25T13:55:58Z
 
@@ -20,13 +20,9 @@ date = 2025-09-12
 
 - :eyes: :zzz: **[fix: avoid IP exposure in TLS certificate](https://github.com/NethServer/ns8-traefik/pull/104)** by *DavidePrincipi* - Reviewers: *None* - Created at: 2025-08-08T08:08:20Z
 
-### NethServer/ns8-mail 1 
-
-- :eyes:  **[fix: SMTPS transport for sender-dependant rules](https://github.com/NethServer/ns8-mail/pull/201)** by *DavidePrincipi* - Reviewers: *None* - Created at: 2025-09-11T08:45:45Z
-
 ### NethServer/ns8-webtop 1 
 
-- :eyes:  **[Update Apache configuration for HTTPS redirection and host preservation](https://github.com/NethServer/ns8-webtop/pull/153)** by *stephdl* - Reviewers: *None* - Created at: 2025-09-09T13:07:42Z
+-   **[Update Apache configuration for HTTPS redirection and host preservation](https://github.com/NethServer/ns8-webtop/pull/153)** by *stephdl* - Reviewers: *DavidePrincipi* - Created at: 2025-09-09T13:07:42Z
 
 ### NethServer/ns8-docs 4 
 
@@ -44,11 +40,10 @@ date = 2025-09-12
 
 - :eyes:  **[Fix typos in customization in README.md](https://github.com/NethServer/ns8-sogo/pull/44)** by *mrmarkuz* - Reviewers: *None* - Created at: 2025-09-03T06:35:30Z
 
-### NethServer/nethlink 4 
+### NethServer/nethlink 3 
 
 - :eyes:  **[fix: avoid error on audio default change](https://github.com/NethServer/nethlink/pull/73)** by *tonyco97* - Reviewers: *None* - Created at: 2025-09-08T15:12:54Z
 -   **[feat: nethcti-middleware](https://github.com/NethServer/nethlink/pull/72)** by *tommaso-ascani* - Reviewers: *edospadoni, tonyco97* - Created at: 2025-09-08T07:14:17Z
-- :eyes:  **[chore(dep): update phone-island](https://github.com/NethServer/nethlink/pull/71)** by *tonyco97* - Reviewers: *None* - Created at: 2025-09-01T14:22:53Z
 - :eyes: :zzz: **[fix: created new event to manage urlParam](https://github.com/NethServer/nethlink/pull/69)** by *tonyco97* - Reviewers: *None* - Created at: 2025-07-24T10:35:08Z
 
 ### NethServer/my 1 
@@ -84,10 +79,13 @@ date = 2025-09-12
 
 - :eyes: :zzz: **[feat: changed api path for middleware](https://github.com/nethesis/nethvoice-cti/pull/317)** by *tommaso-ascani* - Reviewers: *None* - Created at: 2025-06-30T14:27:05Z
 
-### nethesis/phone-island 2 
+### nethesis/phone-island 1 
 
-- :eyes:  **[fix: missing phone-island after mobile app call](https://github.com/nethesis/phone-island/pull/110)** by *tonyco97* - Reviewers: *None* - Created at: 2025-09-08T15:41:30Z
 - :eyes: :zzz: **[feat: changed reference api path for middleware](https://github.com/nethesis/phone-island/pull/103)** by *tommaso-ascani* - Reviewers: *None* - Created at: 2025-06-30T14:18:42Z
+
+### nethesis/ns8-nethvoice-proxy 1 
+
+- :eyes:  **[feat(kamailio): Enhance request routing and keepalive handling](https://github.com/nethesis/ns8-nethvoice-proxy/pull/85)** by *tommasinigiovanni* - Reviewers: *None* - Created at: 2025-09-12T13:58:47Z
 
 ### nethesis/parceler 1 
 
