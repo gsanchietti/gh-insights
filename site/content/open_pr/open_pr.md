@@ -1,6 +1,6 @@
 +++
 title = 'Open Pull Requests'
-date = 2025-09-13
+date = 2025-09-14
 +++
 
 ## Organization: nethserver
@@ -35,6 +35,10 @@ date = 2025-09-13
 
 -   **[fix(flashtart): no more need for DNS option on DHCP server](https://github.com/NethServer/nethsecurity-docs/pull/204)** by *cotosso* - Reviewers: *Tbaile* - Created at: 2025-09-03T10:07:54Z
 -  :zzz: **[feat(controller): add unit groups](https://github.com/NethServer/nethsecurity-docs/pull/194)** by *gsanchietti* - Reviewers: *filippocarletti, cotosso* - Created at: 2025-07-15T13:06:06Z
+
+### NethServer/ns8-user-manager 1 
+
+- :eyes:  **[chore(main): release 1.2.4](https://github.com/NethServer/ns8-user-manager/pull/129)** by *Tbaile* - Reviewers: *None* - Created at: 2025-09-14T03:14:05Z
 
 ### NethServer/ns8-sogo 1 
 
