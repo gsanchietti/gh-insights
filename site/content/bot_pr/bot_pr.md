@@ -1,6 +1,6 @@
 +++
 title = 'Open Pull Requests by Bots'
-date = 2025-09-14
+date = 2025-09-15
 +++
 
 ## Organization: nethserver
@@ -95,8 +95,11 @@ date = 2025-09-14
 - :eyes:  **[chore(deps): update actions/upload-pages-artifact action to v4](https://github.com/NethServer/nethsecurity/pull/1356)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-08-22T17:50:40Z
 - :eyes: :zzz: **[chore(deps): update debian docker tag to v13](https://github.com/NethServer/nethsecurity/pull/1342)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-08-12T22:46:15Z
 
-### NethServer/nethsecurity-controller 3 
+### NethServer/nethsecurity-controller 6 
 
+- :eyes:  **[fix(deps): update module golang.org/x/crypto to v0.42.0](https://github.com/NethServer/nethsecurity-controller/pull/165)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-09-15T01:21:42Z
+- :eyes:  **[fix(deps): update module github.com/jackc/pgx/v5 to v5.7.6](https://github.com/NethServer/nethsecurity-controller/pull/164)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-09-15T01:21:37Z
+- :eyes:  **[chore(deps): update docker.io/traefik docker tag to v3.5.2](https://github.com/NethServer/nethsecurity-controller/pull/163)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-09-15T01:21:19Z
 - :eyes:  **[chore(deps): update actions/setup-go action to v6](https://github.com/NethServer/nethsecurity-controller/pull/162)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-09-08T02:14:35Z
 - :eyes:  **[chore(deps): update actions/checkout action to v5](https://github.com/NethServer/nethsecurity-controller/pull/154)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-08-18T01:08:18Z
 - :eyes: :zzz: **[fix(deps): update module github.com/golang-jwt/jwt/v4 to v5](https://github.com/NethServer/nethsecurity-controller/pull/140)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-07-21T00:54:27Z
@@ -150,7 +153,7 @@ date = 2025-09-14
 
 - :eyes:  **[chore(deps): update dependency pestphp/pest-plugin-laravel to v4](https://github.com/NethServer/phonehome-server/pull/135)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-08-23T05:45:23Z
 - :eyes:  **[chore(deps): update dependency pestphp/pest to v4](https://github.com/NethServer/phonehome-server/pull/134)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-08-23T05:45:17Z
-- :eyes:  **[chore(deps): update actions/checkout action to v5](https://github.com/NethServer/phonehome-server/pull/133)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-08-16T02:21:39Z
+- :eyes: :zzz: **[chore(deps): update actions/checkout action to v5](https://github.com/NethServer/phonehome-server/pull/133)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-08-16T02:21:39Z
 - :eyes: :zzz: **[chore(deps): update dependency laravel-vite-plugin to v2](https://github.com/NethServer/phonehome-server/pull/132)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-07-12T02:07:08Z
 - :eyes: :zzz: **[chore(deps): update dependency vite to v7](https://github.com/NethServer/phonehome-server/pull/130)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-06-28T03:10:39Z
 - :eyes: :zzz: **[chore(deps): update grafana/grafana-oss docker tag to v12](https://github.com/NethServer/phonehome-server/pull/129)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-05-10T02:39:40Z
