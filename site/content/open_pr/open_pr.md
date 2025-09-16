@@ -1,6 +1,6 @@
 +++
 title = 'Open Pull Requests'
-date = 2025-09-15
+date = 2025-09-16
 +++
 
 ## Organization: nethserver
@@ -20,9 +20,9 @@ date = 2025-09-15
 
 - :eyes: :zzz: **[fix: avoid IP exposure in TLS certificate](https://github.com/NethServer/ns8-traefik/pull/104)** by *DavidePrincipi* - Reviewers: *None* - Created at: 2025-08-08T08:08:20Z
 
-### NethServer/ns8-webtop 1 
+### NethServer/ns8-nethsecurity-controller 1 
 
--   **[Update Apache configuration for HTTPS redirection and host preservation](https://github.com/NethServer/ns8-webtop/pull/153)** by *stephdl* - Reviewers: *DavidePrincipi* - Created at: 2025-09-09T13:07:42Z
+-   **[feat: execute backup before upgrade](https://github.com/NethServer/ns8-nethsecurity-controller/pull/111)** by *gsanchietti* - Reviewers: *Tbaile* - Created at: 2025-09-15T07:41:56Z
 
 ### NethServer/ns8-docs 4 
 
@@ -36,29 +36,20 @@ date = 2025-09-15
 -   **[fix(flashtart): no more need for DNS option on DHCP server](https://github.com/NethServer/nethsecurity-docs/pull/204)** by *cotosso* - Reviewers: *Tbaile* - Created at: 2025-09-03T10:07:54Z
 -  :zzz: **[feat(controller): add unit groups](https://github.com/NethServer/nethsecurity-docs/pull/194)** by *gsanchietti* - Reviewers: *filippocarletti, cotosso* - Created at: 2025-07-15T13:06:06Z
 
-### NethServer/ns8-user-manager 1 
-
-- :eyes:  **[chore(main): release 1.2.4](https://github.com/NethServer/ns8-user-manager/pull/129)** by *Tbaile* - Reviewers: *None* - Created at: 2025-09-14T03:14:05Z
-
 ### NethServer/ns8-sogo 1 
 
 - :eyes:  **[Fix typos in customization in README.md](https://github.com/NethServer/ns8-sogo/pull/44)** by *mrmarkuz* - Reviewers: *None* - Created at: 2025-09-03T06:35:30Z
 
-### NethServer/nethlink 3 
+### NethServer/nethlink 2 
 
 - :eyes:  **[fix: avoid error on audio default change](https://github.com/NethServer/nethlink/pull/73)** by *tonyco97* - Reviewers: *None* - Created at: 2025-09-08T15:12:54Z
 -   **[feat: nethcti-middleware](https://github.com/NethServer/nethlink/pull/72)** by *tommaso-ascani* - Reviewers: *edospadoni, tonyco97* - Created at: 2025-09-08T07:14:17Z
-- :eyes: :zzz: **[fix: created new event to manage urlParam](https://github.com/NethServer/nethlink/pull/69)** by *tonyco97* - Reviewers: *None* - Created at: 2025-07-24T10:35:08Z
 
 ### NethServer/my 1 
 
 -   **[feat: added impersonate function for super-admin users](https://github.com/NethServer/my/pull/21)** by *edospadoni* - Reviewers: *andre8244* - Created at: 2025-09-01T08:59:27Z
 
 ## Organization: nethesis
-
-### nethesis/neth-check-in 1 
-
-- :eyes:  **[refactor: add updated files](https://github.com/nethesis/neth-check-in/pull/2)** by *Elia-Renzoni* - Reviewers: *None* - Created at: 2025-09-11T09:26:07Z
 
 ### nethesis/icaro 1 
 
