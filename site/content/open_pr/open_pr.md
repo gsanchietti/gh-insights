@@ -1,6 +1,6 @@
 +++
 title = 'Open Pull Requests'
-date = 2025-09-16
+date = 2025-09-17
 +++
 
 ## Organization: nethserver
@@ -18,11 +18,7 @@ date = 2025-09-16
 
 ### NethServer/ns8-traefik 1 
 
-- :eyes: :zzz: **[fix: avoid IP exposure in TLS certificate](https://github.com/NethServer/ns8-traefik/pull/104)** by *DavidePrincipi* - Reviewers: *None* - Created at: 2025-08-08T08:08:20Z
-
-### NethServer/ns8-nethsecurity-controller 1 
-
--   **[feat: execute backup before upgrade](https://github.com/NethServer/ns8-nethsecurity-controller/pull/111)** by *gsanchietti* - Reviewers: *Tbaile* - Created at: 2025-09-15T07:41:56Z
+-  :zzz: **[fix: avoid IP exposure in TLS certificate](https://github.com/NethServer/ns8-traefik/pull/104)** by *DavidePrincipi* - Reviewers: *mrmarkuz* - Created at: 2025-08-08T08:08:20Z
 
 ### NethServer/ns8-docs 4 
 
@@ -57,11 +53,11 @@ date = 2025-09-16
 
 ### nethesis/nethcti-app-android 1 
 
--  :zzz: **[Removed old notificator](https://github.com/nethesis/nethcti-app-android/pull/30)** by *mirkopruiti* - Reviewers: *b9874e40962149eee62a8fd3bc4e709e* - Created at: 2023-08-02T09:35:24Z
+-  :zzz: **[Removed old notificator](https://github.com/nethesis/nethcti-app-android/pull/30)** by *mirkopruiti* - Reviewers: *b9874e* - Created at: 2023-08-02T09:35:24Z
 
 ### nethesis/nethcti-app-iphone 1 
 
--  :zzz: **[Removed old notification service usage](https://github.com/nethesis/nethcti-app-iphone/pull/37)** by *NicolaMrAPPs* - Reviewers: *b9874e40962149eee62a8fd3bc4e709e* - Created at: 2023-08-02T09:19:30Z
+-  :zzz: **[Removed old notification service usage](https://github.com/nethesis/nethcti-app-iphone/pull/37)** by *NicolaMrAPPs* - Reviewers: *b9874e* - Created at: 2023-08-02T09:19:30Z
 
 ### nethesis/ns8-nethvoice 4 
 
