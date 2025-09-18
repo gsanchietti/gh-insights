@@ -1,6 +1,6 @@
 +++
 title = 'Open Pull Requests'
-date = 2025-09-17
+date = 2025-09-18
 +++
 
 ## Organization: nethserver
@@ -16,9 +16,23 @@ date = 2025-09-17
 
 - :eyes:  **[Add DB-fix script to fix the Nextcloud database and adapt README](https://github.com/NethServer/ns8-nextcloud/pull/157)** by *mrmarkuz* - Reviewers: *None* - Created at: 2025-09-10T16:41:45Z
 
-### NethServer/ns8-traefik 1 
+### NethServer/ns8-traefik 3 
 
--  :zzz: **[fix: avoid IP exposure in TLS certificate](https://github.com/NethServer/ns8-traefik/pull/104)** by *DavidePrincipi* - Reviewers: *mrmarkuz* - Created at: 2025-08-08T08:08:20Z
+-   **[feat: enable Traefik endpoint for Prometheus](https://github.com/NethServer/ns8-traefik/pull/108)** by *DavidePrincipi* - Reviewers: *gsanchietti* - Created at: 2025-09-17T14:42:37Z
+- :eyes: :zzz: **[fix: avoid IP exposure in TLS certificate](https://github.com/NethServer/ns8-traefik/pull/104)** by *DavidePrincipi* - Reviewers: *None* - Created at: 2025-08-08T08:08:20Z
+-  :zzz: **[feat: acme.json cleanup management](https://github.com/NethServer/ns8-traefik/pull/103)** by *DavidePrincipi* - Reviewers: *Amygos* - Created at: 2025-08-05T16:21:27Z
+
+### NethServer/nethsecurity-controller 1 
+
+-   **[feat(api): support SIGUSR1 for ACL reload](https://github.com/NethServer/nethsecurity-controller/pull/167)** by *gsanchietti* - Reviewers: *edospadoni, Tbaile* - Created at: 2025-09-17T13:29:46Z
+
+### NethServer/ns8-nethsecurity-controller 1 
+
+-   **[feat: handle support-session events](https://github.com/NethServer/ns8-nethsecurity-controller/pull/113)** by *gsanchietti* - Reviewers: *Tbaile* - Created at: 2025-09-17T14:14:56Z
+
+### NethServer/ns8-crowdsec 1 
+
+- :eyes:  **[Enhance email properties and formatting](https://github.com/NethServer/ns8-crowdsec/pull/92)** by *stephdl* - Reviewers: *None* - Created at: 2025-09-17T09:34:21Z
 
 ### NethServer/ns8-docs 4 
 
@@ -74,8 +88,9 @@ date = 2025-09-17
 
 - :eyes: :zzz: **[feat: changed reference api path for middleware](https://github.com/nethesis/phone-island/pull/103)** by *tommaso-ascani* - Reviewers: *None* - Created at: 2025-06-30T14:18:42Z
 
-### nethesis/ns8-nethvoice-proxy 1 
+### nethesis/ns8-nethvoice-proxy 2 
 
+-   **[Add trunk routing feature](https://github.com/nethesis/ns8-nethvoice-proxy/pull/86)** by *stephdl* - Reviewers: *andre8244* - Created at: 2025-09-15T15:19:07Z
 - :eyes:  **[feat(kamailio): Enhance request routing and keepalive handling](https://github.com/nethesis/ns8-nethvoice-proxy/pull/85)** by *tommasinigiovanni* - Reviewers: *None* - Created at: 2025-09-12T13:58:47Z
 
 ### nethesis/parceler 1 
