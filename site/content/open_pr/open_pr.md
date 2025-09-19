@@ -1,37 +1,28 @@
 +++
 title = 'Open Pull Requests'
-date = 2025-09-18
+date = 2025-09-19
 +++
 
 ## Organization: nethserver
 
-### NethServer/ns8-core 4 
+### NethServer/ns8-core 3 
 
 -   **[Update PIP requirements for the Agent python 3.11 environment](https://github.com/NethServer/ns8-core/pull/934)** by *stephdl* - Reviewers: *DavidePrincipi* - Created at: 2025-09-10T15:54:36Z
 -   **[Add installation support for Python 3.12/3.13, EL10 & Debian 13](https://github.com/NethServer/ns8-core/pull/930)** by *stephdl* - Reviewers: *DavidePrincipi* - Created at: 2025-09-04T09:04:20Z
-- :eyes:  **[Rate Limiter for the Agent Module](https://github.com/NethServer/ns8-core/pull/927)** by *Elia-Renzoni* - Reviewers: *None* - Created at: 2025-09-02T11:04:47Z
 -  :zzz: **[Refactor the port management logic by  ensuring data integrity](https://github.com/NethServer/ns8-core/pull/906)** by *stephdl* - Reviewers: *DavidePrincipi* - Created at: 2025-06-25T13:55:58Z
 
 ### NethServer/ns8-nextcloud 1 
 
 - :eyes:  **[Add DB-fix script to fix the Nextcloud database and adapt README](https://github.com/NethServer/ns8-nextcloud/pull/157)** by *mrmarkuz* - Reviewers: *None* - Created at: 2025-09-10T16:41:45Z
 
-### NethServer/ns8-traefik 3 
+### NethServer/ns8-traefik 2 
 
--   **[feat: enable Traefik endpoint for Prometheus](https://github.com/NethServer/ns8-traefik/pull/108)** by *DavidePrincipi* - Reviewers: *gsanchietti* - Created at: 2025-09-17T14:42:37Z
-- :eyes: :zzz: **[fix: avoid IP exposure in TLS certificate](https://github.com/NethServer/ns8-traefik/pull/104)** by *DavidePrincipi* - Reviewers: *None* - Created at: 2025-08-08T08:08:20Z
+-   **[feat: additional names of hosts-changed event](https://github.com/NethServer/ns8-traefik/pull/109)** by *DavidePrincipi* - Reviewers: *Tbaile* - Created at: 2025-09-18T15:52:18Z
 -  :zzz: **[feat: acme.json cleanup management](https://github.com/NethServer/ns8-traefik/pull/103)** by *DavidePrincipi* - Reviewers: *Amygos* - Created at: 2025-08-05T16:21:27Z
 
-### NethServer/nethsecurity-controller 1 
+### NethServer/ns8-crowdsec 2 
 
--   **[feat(api): support SIGUSR1 for ACL reload](https://github.com/NethServer/nethsecurity-controller/pull/167)** by *gsanchietti* - Reviewers: *edospadoni, Tbaile* - Created at: 2025-09-17T13:29:46Z
-
-### NethServer/ns8-nethsecurity-controller 1 
-
--   **[feat: handle support-session events](https://github.com/NethServer/ns8-nethsecurity-controller/pull/113)** by *gsanchietti* - Reviewers: *Tbaile* - Created at: 2025-09-17T14:14:56Z
-
-### NethServer/ns8-crowdsec 1 
-
+- :eyes:  **[Restart crowdsec after unbanning all IPs](https://github.com/NethServer/ns8-crowdsec/pull/94)** by *stephdl* - Reviewers: *None* - Created at: 2025-09-18T08:10:26Z
 - :eyes:  **[Enhance email properties and formatting](https://github.com/NethServer/ns8-crowdsec/pull/92)** by *stephdl* - Reviewers: *None* - Created at: 2025-09-17T09:34:21Z
 
 ### NethServer/ns8-docs 4 
@@ -73,8 +64,9 @@ date = 2025-09-18
 
 -  :zzz: **[Removed old notification service usage](https://github.com/nethesis/nethcti-app-iphone/pull/37)** by *NicolaMrAPPs* - Reviewers: *b9874e* - Created at: 2023-08-02T09:19:30Z
 
-### nethesis/ns8-nethvoice 4 
+### nethesis/ns8-nethvoice 5 
 
+- :eyes:  **[fix(freepbx): enable main extension on queue operation only if que_toggle is enabled](https://github.com/nethesis/ns8-nethvoice/pull/547)** by *Stell0* - Reviewers: *None* - Created at: 2025-09-18T08:02:45Z
 -   **[feat: add random delay to phonebook update timer](https://github.com/nethesis/ns8-nethvoice/pull/543)** by *Amygos* - Reviewers: *Stell0* - Created at: 2025-09-09T13:36:36Z
 - :eyes:  **[fix(freepbx): avoid error on clone when there are multiple IAX bindports](https://github.com/nethesis/ns8-nethvoice/pull/539)** by *Stell0* - Reviewers: *None* - Created at: 2025-09-03T16:20:49Z
 - :eyes:  **[feature(wss): Enable websocket transport capabilities](https://github.com/nethesis/ns8-nethvoice/pull/533)** by *Stell0* - Reviewers: *None* - Created at: 2025-08-22T09:17:35Z
