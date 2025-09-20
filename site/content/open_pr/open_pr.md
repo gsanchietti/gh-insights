@@ -1,6 +1,6 @@
 +++
 title = 'Open Pull Requests'
-date = 2025-09-19
+date = 2025-09-20
 +++
 
 ## Organization: nethserver
@@ -11,22 +11,26 @@ date = 2025-09-19
 -   **[Add installation support for Python 3.12/3.13, EL10 & Debian 13](https://github.com/NethServer/ns8-core/pull/930)** by *stephdl* - Reviewers: *DavidePrincipi* - Created at: 2025-09-04T09:04:20Z
 -  :zzz: **[Refactor the port management logic by  ensuring data integrity](https://github.com/NethServer/ns8-core/pull/906)** by *stephdl* - Reviewers: *DavidePrincipi* - Created at: 2025-06-25T13:55:58Z
 
+### NethServer/ns8-webserver 1 
+
+- :eyes:  **[Add custom Nginx configuration with X-Forwarded-For support](https://github.com/NethServer/ns8-webserver/pull/107)** by *stephdl* - Reviewers: *None* - Created at: 2025-09-19T14:15:02Z
+
 ### NethServer/ns8-nextcloud 1 
 
-- :eyes:  **[Add DB-fix script to fix the Nextcloud database and adapt README](https://github.com/NethServer/ns8-nextcloud/pull/157)** by *mrmarkuz* - Reviewers: *None* - Created at: 2025-09-10T16:41:45Z
+-   **[Add DB-fix script to fix the Nextcloud database and adapt README](https://github.com/NethServer/ns8-nextcloud/pull/157)** by *mrmarkuz* - Reviewers: *DavidePrincipi* - Created at: 2025-09-10T16:41:45Z
 
 ### NethServer/ns8-traefik 2 
 
--   **[feat: additional names of hosts-changed event](https://github.com/NethServer/ns8-traefik/pull/109)** by *DavidePrincipi* - Reviewers: *Tbaile* - Created at: 2025-09-18T15:52:18Z
+- :eyes:  **[feat: additional names of hosts-changed event](https://github.com/NethServer/ns8-traefik/pull/109)** by *DavidePrincipi* - Reviewers: *None* - Created at: 2025-09-18T15:52:18Z
 -  :zzz: **[feat: acme.json cleanup management](https://github.com/NethServer/ns8-traefik/pull/103)** by *DavidePrincipi* - Reviewers: *Amygos* - Created at: 2025-08-05T16:21:27Z
 
-### NethServer/ns8-crowdsec 2 
+### NethServer/ns8-crowdsec 1 
 
 - :eyes:  **[Restart crowdsec after unbanning all IPs](https://github.com/NethServer/ns8-crowdsec/pull/94)** by *stephdl* - Reviewers: *None* - Created at: 2025-09-18T08:10:26Z
-- :eyes:  **[Enhance email properties and formatting](https://github.com/NethServer/ns8-crowdsec/pull/92)** by *stephdl* - Reviewers: *None* - Created at: 2025-09-17T09:34:21Z
 
-### NethServer/ns8-docs 4 
+### NethServer/ns8-docs 5 
 
+-   **[Add notification email details for blocked IPs in documentation](https://github.com/NethServer/ns8-docs/pull/182)** by *stephdl* - Reviewers: *DavidePrincipi* - Created at: 2025-09-19T15:11:14Z
 -  :zzz: **[Add hotel docs](https://github.com/NethServer/ns8-docs/pull/176)** by *andrea-marchionni* - Reviewers: *viktec, margit86* - Created at: 2025-07-14T15:52:22Z
 -  :zzz: **[Update nethvoice.rst](https://github.com/NethServer/ns8-docs/pull/174)** by *margit86* - Reviewers: *Stell0* - Created at: 2025-06-25T12:41:13Z
 - :eyes: :zzz: **[fix(metrics): remove language selection](https://github.com/NethServer/ns8-docs/pull/167)** by *gsanchietti* - Reviewers: *None* - Created at: 2025-05-26T13:20:09Z
@@ -72,8 +76,9 @@ date = 2025-09-19
 - :eyes:  **[feature(wss): Enable websocket transport capabilities](https://github.com/nethesis/ns8-nethvoice/pull/533)** by *Stell0* - Reviewers: *None* - Created at: 2025-08-22T09:17:35Z
 - :eyes: :zzz: **[feat: added middleware component](https://github.com/nethesis/ns8-nethvoice/pull/493)** by *tommaso-ascani* - Reviewers: *None* - Created at: 2025-06-30T14:06:22Z
 
-### nethesis/nethvoice-cti 1 
+### nethesis/nethvoice-cti 2 
 
+- :eyes:  **[fix: history table same data after page change](https://github.com/nethesis/nethvoice-cti/pull/334)** by *tonyco97* - Reviewers: *None* - Created at: 2025-09-19T09:54:32Z
 - :eyes: :zzz: **[feat: changed api path for middleware](https://github.com/nethesis/nethvoice-cti/pull/317)** by *tommaso-ascani* - Reviewers: *None* - Created at: 2025-06-30T14:27:05Z
 
 ### nethesis/phone-island 1 
@@ -82,11 +87,15 @@ date = 2025-09-19
 
 ### nethesis/ns8-nethvoice-proxy 2 
 
--   **[Add trunk routing feature](https://github.com/nethesis/ns8-nethvoice-proxy/pull/86)** by *stephdl* - Reviewers: *andre8244* - Created at: 2025-09-15T15:19:07Z
+-   **[Add trunk routing feature](https://github.com/nethesis/ns8-nethvoice-proxy/pull/86)** by *stephdl* - Reviewers: *andre8244, AmaLuci* - Created at: 2025-09-15T15:19:07Z
 - :eyes:  **[feat(kamailio): Enhance request routing and keepalive handling](https://github.com/nethesis/ns8-nethvoice-proxy/pull/85)** by *tommasinigiovanni* - Reviewers: *None* - Created at: 2025-09-12T13:58:47Z
 
 ### nethesis/parceler 1 
 
 - :eyes:  **[chore(main): release 1.2.1](https://github.com/nethesis/parceler/pull/105)** by *Tbaile* - Reviewers: *None* - Created at: 2025-08-21T12:47:15Z
+
+### nethesis/satellite 1 
+
+- :eyes:  **[feature(api): diarized transcription api](https://github.com/nethesis/satellite/pull/4)** by *Stell0* - Reviewers: *None* - Created at: 2025-09-19T07:28:04Z
 
 
