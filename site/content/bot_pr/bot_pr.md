@@ -1,6 +1,6 @@
 +++
 title = 'Open Pull Requests by Bots'
-date = 2025-09-20
+date = 2025-09-21
 +++
 
 ## Organization: nethserver
@@ -24,7 +24,7 @@ date = 2025-09-20
 
 ### NethServer/ns8-kickstart 5 
 
-- :eyes:  **[build(deps-dev): bump @vue/cli-plugin-babel from 4.5.13 to 5.0.9 in /ui](https://github.com/NethServer/ns8-kickstart/pull/65)** by *dependabot[bot]* - Reviewers: *None* - Created at: 2025-08-22T00:22:16Z
+- :eyes: :zzz: **[build(deps-dev): bump @vue/cli-plugin-babel from 4.5.13 to 5.0.9 in /ui](https://github.com/NethServer/ns8-kickstart/pull/65)** by *dependabot[bot]* - Reviewers: *None* - Created at: 2025-08-22T00:22:16Z
 - :eyes: :zzz: **[build(deps): bump carbon-components from 10.46.0 to 10.59.2 in /ui](https://github.com/NethServer/ns8-kickstart/pull/63)** by *dependabot[bot]* - Reviewers: *None* - Created at: 2025-06-25T00:24:49Z
 - :eyes: :zzz: **[build(deps): bump @carbon/vue from 2.40.0 to 3.0.27 in /ui](https://github.com/NethServer/ns8-kickstart/pull/61)** by *dependabot[bot]* - Reviewers: *None* - Created at: 2025-06-02T00:55:05Z
 - :eyes: :zzz: **[build(deps): bump vue-axios from 3.2.4 to 3.5.2 in /ui](https://github.com/NethServer/ns8-kickstart/pull/60)** by *dependabot[bot]* - Reviewers: *None* - Created at: 2025-05-26T00:33:12Z
@@ -252,7 +252,7 @@ date = 2025-09-20
 
 - :eyes: :zzz: **[chore(deps): update dependency grunt-contrib-clean to ^0.7.0](https://github.com/nethesis/ns8-nethvoice/pull/523)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-07-23T08:57:17Z
 - :eyes: :zzz: **[chore(deps): update dependency grunt-angular-templates to ^0.6.0](https://github.com/nethesis/ns8-nethvoice/pull/522)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-07-23T08:40:37Z
-- :eyes: :zzz: **[chore(deps): update dependency flow-bin to ^0.284.0](https://github.com/nethesis/ns8-nethvoice/pull/514)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-07-04T21:27:24Z
+- :eyes: :zzz: **[chore(deps): update dependency flow-bin to ^0.285.0](https://github.com/nethesis/ns8-nethvoice/pull/514)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-07-04T21:27:24Z
 - :eyes: :zzz: **[fix(deps): update dependency ng-sortable to v1.3.8](https://github.com/nethesis/ns8-nethvoice/pull/513)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-07-04T21:27:19Z
 - :eyes: :zzz: **[fix(deps): update dependency ldapjs to v2.3.3](https://github.com/nethesis/ns8-nethvoice/pull/512)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-07-04T20:16:23Z
 - :eyes: :zzz: **[fix(deps): update dependency bootstrap-switch to v3.3.4](https://github.com/nethesis/ns8-nethvoice/pull/511)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-07-04T20:16:11Z
@@ -273,9 +273,5 @@ date = 2025-09-20
 - :eyes: :zzz: **[chore(deps): update redis docker tag to v7.4](https://github.com/nethesis/ns8-nethvoice-proxy/pull/73)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-07-04T12:35:09Z
 - :eyes: :zzz: **[chore(deps): update ghcr.io/marketsquare/robotframework-browser/rfbrowser-stable docker tag to v10.1.0](https://github.com/nethesis/ns8-nethvoice-proxy/pull/72)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-07-04T12:35:05Z
 - :eyes: :zzz: **[build(deps): bump http-cache-semantics from 4.1.0 to 4.2.0 in /ui](https://github.com/nethesis/ns8-nethvoice-proxy/pull/71)** by *dependabot[bot]* - Reviewers: *None* - Created at: 2025-06-30T12:12:50Z
-
-### nethesis/parceler 1 
-
-- :eyes:  **[chore(deps): update docker.io/composer docker tag to v2.8.12](https://github.com/nethesis/parceler/pull/114)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-09-20T01:56:09Z
 
 

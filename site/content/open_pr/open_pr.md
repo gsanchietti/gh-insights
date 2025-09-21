@@ -1,6 +1,6 @@
 +++
 title = 'Open Pull Requests'
-date = 2025-09-20
+date = 2025-09-21
 +++
 
 ## Organization: nethserver
@@ -92,7 +92,7 @@ date = 2025-09-20
 
 ### nethesis/parceler 1 
 
-- :eyes:  **[chore(main): release 1.2.1](https://github.com/nethesis/parceler/pull/105)** by *Tbaile* - Reviewers: *None* - Created at: 2025-08-21T12:47:15Z
+- :eyes: :zzz: **[chore(main): release 1.2.1](https://github.com/nethesis/parceler/pull/105)** by *Tbaile* - Reviewers: *None* - Created at: 2025-08-21T12:47:15Z
 
 ### nethesis/satellite 1 
 
