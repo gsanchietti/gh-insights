@@ -1,6 +1,6 @@
 +++
 title = 'Open Pull Requests'
-date = 2025-09-21
+date = 2025-09-22
 +++
 
 ## Organization: nethserver
@@ -73,7 +73,7 @@ date = 2025-09-21
 - :eyes:  **[fix(freepbx): enable main extension on queue operation only if que_toggle is enabled](https://github.com/nethesis/ns8-nethvoice/pull/547)** by *Stell0* - Reviewers: *None* - Created at: 2025-09-18T08:02:45Z
 -   **[feat: add random delay to phonebook update timer](https://github.com/nethesis/ns8-nethvoice/pull/543)** by *Amygos* - Reviewers: *Stell0* - Created at: 2025-09-09T13:36:36Z
 - :eyes:  **[fix(freepbx): avoid error on clone when there are multiple IAX bindports](https://github.com/nethesis/ns8-nethvoice/pull/539)** by *Stell0* - Reviewers: *None* - Created at: 2025-09-03T16:20:49Z
-- :eyes:  **[feature(wss): Enable websocket transport capabilities](https://github.com/nethesis/ns8-nethvoice/pull/533)** by *Stell0* - Reviewers: *None* - Created at: 2025-08-22T09:17:35Z
+- :eyes: :zzz: **[feature(wss): Enable websocket transport capabilities](https://github.com/nethesis/ns8-nethvoice/pull/533)** by *Stell0* - Reviewers: *None* - Created at: 2025-08-22T09:17:35Z
 - :eyes: :zzz: **[feat: added middleware component](https://github.com/nethesis/ns8-nethvoice/pull/493)** by *tommaso-ascani* - Reviewers: *None* - Created at: 2025-06-30T14:06:22Z
 
 ### nethesis/nethvoice-cti 2 
