@@ -1,50 +1,30 @@
 +++
 title = 'Open Pull Requests'
-date = 2025-09-23
+date = 2025-09-24
 +++
 
 ## Organization: nethserver
 
 ### NethServer/ns8-core 4 
 
-- :eyes:  **[refactor: update audit logging by removing unnecessary action records](https://github.com/NethServer/ns8-core/pull/940)** by *Elia-Renzoni* - Reviewers: *None* - Created at: 2025-09-22T12:54:21Z
+- :eyes:  **[Reduce api-server audit event types](https://github.com/NethServer/ns8-core/pull/940)** by *Elia-Renzoni* - Reviewers: *None* - Created at: 2025-09-22T12:54:21Z
 -   **[Update PIP requirements for the Agent python 3.11 environment](https://github.com/NethServer/ns8-core/pull/934)** by *stephdl* - Reviewers: *DavidePrincipi* - Created at: 2025-09-10T15:54:36Z
 -   **[Add installation support for Python 3.12/3.13, EL10 & Debian 13](https://github.com/NethServer/ns8-core/pull/930)** by *stephdl* - Reviewers: *DavidePrincipi* - Created at: 2025-09-04T09:04:20Z
 -  :zzz: **[Refactor the port management logic by  ensuring data integrity](https://github.com/NethServer/ns8-core/pull/906)** by *stephdl* - Reviewers: *DavidePrincipi* - Created at: 2025-06-25T13:55:58Z
 
-### NethServer/ns8-nextcloud 1 
+### NethServer/ns8-crowdsec 2 
 
-- :eyes:  **[Add DB-fix script to fix the Nextcloud database and adapt README](https://github.com/NethServer/ns8-nextcloud/pull/157)** by *mrmarkuz* - Reviewers: *None* - Created at: 2025-09-10T16:41:45Z
-
-### NethServer/ns8-traefik 2 
-
-- :eyes:  **[feat: additional names of hosts-changed event](https://github.com/NethServer/ns8-traefik/pull/109)** by *DavidePrincipi* - Reviewers: *None* - Created at: 2025-09-18T15:52:18Z
--  :zzz: **[feat: acme.json cleanup management](https://github.com/NethServer/ns8-traefik/pull/103)** by *DavidePrincipi* - Reviewers: *Amygos* - Created at: 2025-08-05T16:21:27Z
-
-### NethServer/ns8-webtop 1 
-
--   **[fix: allow IANA-compatible timezones](https://github.com/NethServer/ns8-webtop/pull/154)** by *DavidePrincipi* - Reviewers: *Amygos* - Created at: 2025-09-22T11:08:31Z
-
-### NethServer/ns8-crowdsec 3 
-
--   **[Fix the search function of crowdsec and the table display](https://github.com/NethServer/ns8-crowdsec/pull/96)** by *stephdl* - Reviewers: *andre8244* - Created at: 2025-09-22T13:13:50Z
 -   **[Increase group_threshold limit and clean up email template](https://github.com/NethServer/ns8-crowdsec/pull/95)** by *stephdl* - Reviewers: *DavidePrincipi* - Created at: 2025-09-22T09:48:08Z
 - :eyes:  **[Restart crowdsec after unbanning all IPs](https://github.com/NethServer/ns8-crowdsec/pull/94)** by *stephdl* - Reviewers: *None* - Created at: 2025-09-18T08:10:26Z
 
-### NethServer/ns8-docs 2 
+### NethServer/ns8-docs 1 
 
 - :eyes:  **[Add notification email details for blocked IPs in documentation](https://github.com/NethServer/ns8-docs/pull/182)** by *stephdl* - Reviewers: *None* - Created at: 2025-09-19T15:11:14Z
--  :zzz: **[Update nethvoice.rst](https://github.com/NethServer/ns8-docs/pull/174)** by *margit86* - Reviewers: *Stell0* - Created at: 2025-06-25T12:41:13Z
 
 ### NethServer/nethsecurity-docs 2 
 
 -   **[fix(flashtart): no more need for DNS option on DHCP server](https://github.com/NethServer/nethsecurity-docs/pull/204)** by *cotosso* - Reviewers: *Tbaile* - Created at: 2025-09-03T10:07:54Z
 -  :zzz: **[feat(controller): add unit groups](https://github.com/NethServer/nethsecurity-docs/pull/194)** by *gsanchietti* - Reviewers: *filippocarletti, cotosso* - Created at: 2025-07-15T13:06:06Z
-
-### NethServer/ns8-imapsync 2 
-
-- :eyes:  **[Update Tasks component layout and remove unused styles](https://github.com/NethServer/ns8-imapsync/pull/56)** by *stephdl* - Reviewers: *None* - Created at: 2025-09-22T12:18:40Z
-- :eyes:  **[Reset NsComboBox key on modal visibility change](https://github.com/NethServer/ns8-imapsync/pull/55)** by *stephdl* - Reviewers: *None* - Created at: 2025-09-22T08:23:12Z
 
 ### NethServer/ns8-sogo 1 
 
@@ -86,7 +66,7 @@ date = 2025-09-23
 
 ### nethesis/ns8-nethvoice-proxy 2 
 
--   **[Add trunk routing feature](https://github.com/nethesis/ns8-nethvoice-proxy/pull/86)** by *stephdl* - Reviewers: *Amygos, andre8244* - Created at: 2025-09-15T15:19:07Z
+-   **[Add trunk routing feature](https://github.com/nethesis/ns8-nethvoice-proxy/pull/86)** by *stephdl* - Reviewers: *Amygos, andre8244, AmaLuci* - Created at: 2025-09-15T15:19:07Z
 - :eyes:  **[feat(kamailio): Enhance request routing and keepalive handling](https://github.com/nethesis/ns8-nethvoice-proxy/pull/85)** by *tommasinigiovanni* - Reviewers: *None* - Created at: 2025-09-12T13:58:47Z
 
 ### nethesis/parceler 1 
