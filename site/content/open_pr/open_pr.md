@@ -1,12 +1,13 @@
 +++
 title = 'Open Pull Requests'
-date = 2025-09-24
+date = 2025-09-25
 +++
 
 ## Organization: nethserver
 
-### NethServer/ns8-core 4 
+### NethServer/ns8-core 5 
 
+- :eyes:  **[refactor: update db api to use single connection and reduce SQLite lock contention](https://github.com/NethServer/ns8-core/pull/942)** by *Elia-Renzoni* - Reviewers: *None* - Created at: 2025-09-24T09:35:26Z
 - :eyes:  **[Reduce api-server audit event types](https://github.com/NethServer/ns8-core/pull/940)** by *Elia-Renzoni* - Reviewers: *None* - Created at: 2025-09-22T12:54:21Z
 -   **[Update PIP requirements for the Agent python 3.11 environment](https://github.com/NethServer/ns8-core/pull/934)** by *stephdl* - Reviewers: *DavidePrincipi* - Created at: 2025-09-10T15:54:36Z
 -   **[Add installation support for Python 3.12/3.13, EL10 & Debian 13](https://github.com/NethServer/ns8-core/pull/930)** by *stephdl* - Reviewers: *DavidePrincipi* - Created at: 2025-09-04T09:04:20Z
@@ -21,10 +22,9 @@ date = 2025-09-24
 
 - :eyes:  **[Add notification email details for blocked IPs in documentation](https://github.com/NethServer/ns8-docs/pull/182)** by *stephdl* - Reviewers: *None* - Created at: 2025-09-19T15:11:14Z
 
-### NethServer/nethsecurity-docs 2 
+### NethServer/nethsecurity-docs 1 
 
 -   **[fix(flashtart): no more need for DNS option on DHCP server](https://github.com/NethServer/nethsecurity-docs/pull/204)** by *cotosso* - Reviewers: *Tbaile* - Created at: 2025-09-03T10:07:54Z
--  :zzz: **[feat(controller): add unit groups](https://github.com/NethServer/nethsecurity-docs/pull/194)** by *gsanchietti* - Reviewers: *filippocarletti, cotosso* - Created at: 2025-07-15T13:06:06Z
 
 ### NethServer/ns8-sogo 1 
 
@@ -53,12 +53,11 @@ date = 2025-09-24
 
 -  :zzz: **[Removed old notification service usage](https://github.com/nethesis/nethcti-app-iphone/pull/37)** by *NicolaMrAPPs* - Reviewers: *b9874e* - Created at: 2023-08-02T09:19:30Z
 
-### nethesis/ns8-nethvoice 4 
+### nethesis/ns8-nethvoice 3 
 
+- :eyes:  **[feat: Update user_dbconn for phonebook and cdrdb](https://github.com/nethesis/ns8-nethvoice/pull/549)** by *Amygos* - Reviewers: *None* - Created at: 2025-09-24T10:48:16Z
 - :eyes:  **[fix(freepbx): enable main extension on queue operation only if que_toggle is enabled](https://github.com/nethesis/ns8-nethvoice/pull/547)** by *Stell0* - Reviewers: *None* - Created at: 2025-09-18T08:02:45Z
--   **[feat: add random delay to phonebook update timer](https://github.com/nethesis/ns8-nethvoice/pull/543)** by *Amygos* - Reviewers: *Stell0* - Created at: 2025-09-09T13:36:36Z
 - :eyes:  **[fix(freepbx): avoid error on clone when there are multiple IAX bindports](https://github.com/nethesis/ns8-nethvoice/pull/539)** by *Stell0* - Reviewers: *None* - Created at: 2025-09-03T16:20:49Z
-- :eyes: :zzz: **[feature(wss): Enable websocket transport capabilities](https://github.com/nethesis/ns8-nethvoice/pull/533)** by *Stell0* - Reviewers: *None* - Created at: 2025-08-22T09:17:35Z
 
 ### nethesis/nethvoice-cti 1 
 
@@ -66,7 +65,7 @@ date = 2025-09-24
 
 ### nethesis/ns8-nethvoice-proxy 2 
 
--   **[Add trunk routing feature](https://github.com/nethesis/ns8-nethvoice-proxy/pull/86)** by *stephdl* - Reviewers: *Amygos, andre8244, AmaLuci* - Created at: 2025-09-15T15:19:07Z
+- :eyes:  **[Add trunk routing feature](https://github.com/nethesis/ns8-nethvoice-proxy/pull/86)** by *stephdl* - Reviewers: *None* - Created at: 2025-09-15T15:19:07Z
 - :eyes:  **[feat(kamailio): Enhance request routing and keepalive handling](https://github.com/nethesis/ns8-nethvoice-proxy/pull/85)** by *tommasinigiovanni* - Reviewers: *None* - Created at: 2025-09-12T13:58:47Z
 
 ### nethesis/parceler 1 
