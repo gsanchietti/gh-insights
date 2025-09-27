@@ -1,6 +1,6 @@
 +++
 title = 'Open Pull Requests'
-date = 2025-09-26
+date = 2025-09-27
 +++
 
 ## Organization: nethserver
@@ -14,21 +14,23 @@ date = 2025-09-26
 
 ### NethServer/ns8-traefik 1 
 
--   **[fix: bad metrics endpoint on traefik1](https://github.com/NethServer/ns8-traefik/pull/111)** by *DavidePrincipi* - Reviewers: *gsanchietti* - Created at: 2025-09-25T14:39:40Z
+-   **[Avoid parallel action conflicts](https://github.com/NethServer/ns8-traefik/pull/112)** by *DavidePrincipi* - Reviewers: *Amygos* - Created at: 2025-09-26T17:05:19Z
+
+### NethServer/nethsecurity 1 
+
+-   **[HA: multiple fixes for beta2](https://github.com/NethServer/nethsecurity/pull/1369)** by *gsanchietti* - Reviewers: *filippocarletti, Tbaile* - Created at: 2025-09-11T07:12:13Z
 
 ### NethServer/ns8-piler 1 
 
-- :eyes:  **[Fix RT environment variable and enhance upgrade process](https://github.com/NethServer/ns8-piler/pull/46)** by *stephdl* - Reviewers: *None* - Created at: 2025-09-25T14:22:42Z
+- :eyes:  **[Enhance upgrade process](https://github.com/NethServer/ns8-piler/pull/46)** by *stephdl* - Reviewers: *None* - Created at: 2025-09-25T14:22:42Z
 
 ### NethServer/ns8-crowdsec 2 
 
 -   **[Increase group_threshold limit and clean up email template](https://github.com/NethServer/ns8-crowdsec/pull/95)** by *stephdl* - Reviewers: *DavidePrincipi* - Created at: 2025-09-22T09:48:08Z
--   **[Limit Unban Actions to Local Data to Protect CrowdSec Stability](https://github.com/NethServer/ns8-crowdsec/pull/94)** by *stephdl* - Reviewers: *andre8244* - Created at: 2025-09-18T08:10:26Z
+- :eyes:  **[Limit Unban Actions to Local Data to Protect CrowdSec Stability](https://github.com/NethServer/ns8-crowdsec/pull/94)** by *stephdl* - Reviewers: *None* - Created at: 2025-09-18T08:10:26Z
 
-### NethServer/ns8-docs 3 
+### NethServer/ns8-docs 1 
 
--   **[install.rst: clarify proxmox cpu type](https://github.com/NethServer/ns8-docs/pull/186)** by *filippocarletti* - Reviewers: *Amygos, nrauso* - Created at: 2025-09-25T14:15:04Z
--   **[Add managing SSH port to firewall documentation](https://github.com/NethServer/ns8-docs/pull/185)** by *mrmarkuz* - Reviewers: *gsanchietti, nrauso* - Created at: 2025-09-25T09:19:06Z
 - :eyes:  **[Add notification email details for blocked IPs in documentation](https://github.com/NethServer/ns8-docs/pull/182)** by *stephdl* - Reviewers: *None* - Created at: 2025-09-19T15:11:14Z
 
 ### NethServer/nethsecurity-ui 1 
@@ -46,10 +48,6 @@ date = 2025-09-26
 ### NethServer/nethlink 1 
 
 -   **[feat: nethcti-middleware](https://github.com/NethServer/nethlink/pull/72)** by *tommaso-ascani* - Reviewers: *edospadoni, tonyco97* - Created at: 2025-09-08T07:14:17Z
-
-### NethServer/ns8-metrics 1 
-
--  :zzz: **[feat: TLS certificate expiration alerts](https://github.com/NethServer/ns8-metrics/pull/32)** by *DavidePrincipi* - Reviewers: *gsanchietti* - Created at: 2025-08-05T15:14:17Z
 
 ### NethServer/my 1 
 
@@ -69,19 +67,14 @@ date = 2025-09-26
 
 -  :zzz: **[Removed old notification service usage](https://github.com/nethesis/nethcti-app-iphone/pull/37)** by *NicolaMrAPPs* - Reviewers: *b9874e* - Created at: 2023-08-02T09:19:30Z
 
-### nethesis/ns8-nethvoice 3 
+### nethesis/ns8-nethvoice 2 
 
 -   **[fix(imageroot): update user_dbconn entries](https://github.com/nethesis/ns8-nethvoice/pull/549)** by *Amygos* - Reviewers: *Stell0* - Created at: 2025-09-24T10:48:16Z
 - :eyes:  **[fix(freepbx): enable main extension on queue operation only if que_toggle is enabled](https://github.com/nethesis/ns8-nethvoice/pull/547)** by *Stell0* - Reviewers: *None* - Created at: 2025-09-18T08:02:45Z
-- :eyes:  **[fix(freepbx): avoid error on clone when there are multiple IAX bindports](https://github.com/nethesis/ns8-nethvoice/pull/539)** by *Stell0* - Reviewers: *None* - Created at: 2025-09-03T16:20:49Z
 
 ### nethesis/nethvoice-cti 1 
 
 - :eyes:  **[fix: history table same data after page change](https://github.com/nethesis/nethvoice-cti/pull/334)** by *tonyco97* - Reviewers: *None* - Created at: 2025-09-19T09:54:32Z
-
-### nethesis/phone-island 1 
-
-- :eyes:  **[fix: better management for busy operators](https://github.com/nethesis/phone-island/pull/113)** by *tonyco97* - Reviewers: *None* - Created at: 2025-09-25T08:08:08Z
 
 ### nethesis/ns8-nethvoice-proxy 1 
 
