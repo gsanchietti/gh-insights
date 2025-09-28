@@ -1,6 +1,6 @@
 +++
 title = 'Open Pull Requests by Bots'
-date = 2025-09-27
+date = 2025-09-28
 +++
 
 ## Organization: nethserver
@@ -69,7 +69,7 @@ date = 2025-09-27
 ### NethServer/ns8-loki 3 
 
 - :eyes: :zzz: **[chore(deps): update grafana/loki docker tag to v3.5.5](https://github.com/NethServer/ns8-loki/pull/41)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-04-23T01:52:55Z
-- :eyes: :zzz: **[chore(deps): update traefik docker tag to v3.5.2](https://github.com/NethServer/ns8-loki/pull/40)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-04-18T18:23:19Z
+- :eyes: :zzz: **[chore(deps): update traefik docker tag to v3.5.3](https://github.com/NethServer/ns8-loki/pull/40)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-04-18T18:23:19Z
 - :eyes: :zzz: **[chore(deps): update ghcr.io/marketsquare/robotframework-browser/rfbrowser-stable docker tag to v19.8.0](https://github.com/NethServer/ns8-loki/pull/34)** by *renovate[bot]* - Reviewers: *None* - Created at: 2024-12-20T21:53:49Z
 
 ### NethServer/ns8-traefik 2 
@@ -258,7 +258,7 @@ date = 2025-09-27
 - :eyes:  **[Translations update from Hosted Weblate](https://github.com/nethesis/ns8-nethvoice/pull/548)** by *weblate* - Reviewers: *None* - Created at: 2025-09-24T10:03:11Z
 - :eyes: :zzz: **[chore(deps): update dependency grunt-contrib-clean to ^0.7.0](https://github.com/nethesis/ns8-nethvoice/pull/523)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-07-23T08:57:17Z
 - :eyes: :zzz: **[chore(deps): update dependency grunt-angular-templates to ^0.6.0](https://github.com/nethesis/ns8-nethvoice/pull/522)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-07-23T08:40:37Z
-- :eyes: :zzz: **[chore(deps): update dependency flow-bin to ^0.286.0](https://github.com/nethesis/ns8-nethvoice/pull/514)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-07-04T21:27:24Z
+- :eyes: :zzz: **[chore(deps): update dependency flow-bin to ^0.287.0](https://github.com/nethesis/ns8-nethvoice/pull/514)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-07-04T21:27:24Z
 - :eyes: :zzz: **[fix(deps): update dependency ng-sortable to v1.3.8](https://github.com/nethesis/ns8-nethvoice/pull/513)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-07-04T21:27:19Z
 - :eyes: :zzz: **[fix(deps): update dependency ldapjs to v2.3.3](https://github.com/nethesis/ns8-nethvoice/pull/512)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-07-04T20:16:23Z
 - :eyes: :zzz: **[fix(deps): update dependency bootstrap-switch to v3.3.4](https://github.com/nethesis/ns8-nethvoice/pull/511)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-07-04T20:16:11Z
