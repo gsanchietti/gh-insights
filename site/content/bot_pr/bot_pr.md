@@ -1,6 +1,6 @@
 +++
 title = 'Open Pull Requests by Bots'
-date = 2025-09-28
+date = 2025-09-29
 +++
 
 ## Organization: nethserver
@@ -100,8 +100,9 @@ date = 2025-09-28
 - :eyes: :zzz: **[chore(deps): update actions/upload-pages-artifact action to v4](https://github.com/NethServer/nethsecurity/pull/1356)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-08-22T17:50:40Z
 - :eyes: :zzz: **[chore(deps): update debian docker tag to v13](https://github.com/NethServer/nethsecurity/pull/1342)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-08-12T22:46:15Z
 
-### NethServer/nethsecurity-controller 1 
+### NethServer/nethsecurity-controller 2 
 
+- :eyes:  **[chore(deps): update docker.io/traefik docker tag to v3.5.3](https://github.com/NethServer/nethsecurity-controller/pull/172)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-09-29T01:47:46Z
 - :eyes:  **[fix(deps): update module github.com/golang-jwt/jwt/v4 to v5](https://github.com/NethServer/nethsecurity-controller/pull/171)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-09-22T01:47:06Z
 
 ### NethServer/ns8-mail 3 
