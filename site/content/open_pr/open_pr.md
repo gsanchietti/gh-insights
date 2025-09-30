@@ -1,6 +1,6 @@
 +++
 title = 'Open Pull Requests'
-date = 2025-09-29
+date = 2025-09-30
 +++
 
 ## Organization: nethserver
@@ -12,22 +12,17 @@ date = 2025-09-29
 -   **[Update PIP requirements for the Agent python 3.11 environment](https://github.com/NethServer/ns8-core/pull/934)** by *stephdl* - Reviewers: *DavidePrincipi* - Created at: 2025-09-10T15:54:36Z
 -   **[Add installation support for Python 3.12/3.13, EL10 & Debian 13](https://github.com/NethServer/ns8-core/pull/930)** by *stephdl* - Reviewers: *DavidePrincipi* - Created at: 2025-09-04T09:04:20Z
 
-### NethServer/ns8-traefik 1 
-
--   **[Avoid parallel action conflicts](https://github.com/NethServer/ns8-traefik/pull/112)** by *DavidePrincipi* - Reviewers: *Amygos* - Created at: 2025-09-26T17:05:19Z
-
 ### NethServer/nethsecurity 1 
 
 -   **[HA: multiple fixes for beta2](https://github.com/NethServer/nethsecurity/pull/1369)** by *gsanchietti* - Reviewers: *filippocarletti, Tbaile* - Created at: 2025-09-11T07:12:13Z
 
 ### NethServer/ns8-piler 1 
 
-- :eyes:  **[Enhance upgrade process](https://github.com/NethServer/ns8-piler/pull/46)** by *stephdl* - Reviewers: *None* - Created at: 2025-09-25T14:22:42Z
+-   **[Fix the upgrade by triggering the manticore indexing](https://github.com/NethServer/ns8-piler/pull/46)** by *stephdl* - Reviewers: *DavidePrincipi* - Created at: 2025-09-25T14:22:42Z
 
-### NethServer/ns8-crowdsec 2 
+### NethServer/ns8-crowdsec 1 
 
 -   **[Increase group_threshold limit and clean up email template](https://github.com/NethServer/ns8-crowdsec/pull/95)** by *stephdl* - Reviewers: *DavidePrincipi* - Created at: 2025-09-22T09:48:08Z
-- :eyes:  **[Limit Unban Actions to Local Data to Protect CrowdSec Stability](https://github.com/NethServer/ns8-crowdsec/pull/94)** by *stephdl* - Reviewers: *None* - Created at: 2025-09-18T08:10:26Z
 
 ### NethServer/ns8-docs 1 
 
@@ -67,14 +62,11 @@ date = 2025-09-29
 
 -  :zzz: **[Removed old notification service usage](https://github.com/nethesis/nethcti-app-iphone/pull/37)** by *NicolaMrAPPs* - Reviewers: *b9874e* - Created at: 2023-08-02T09:19:30Z
 
-### nethesis/ns8-nethvoice 2 
+### nethesis/ns8-nethvoice 3 
 
+- :eyes:  **[feat: added MQTT client with websocket broadcast](https://github.com/nethesis/ns8-nethvoice/pull/552)** by *edospadoni* - Reviewers: *None* - Created at: 2025-09-29T10:46:28Z
 -   **[fix(imageroot): update user_dbconn entries](https://github.com/nethesis/ns8-nethvoice/pull/549)** by *Amygos* - Reviewers: *Stell0* - Created at: 2025-09-24T10:48:16Z
 - :eyes:  **[fix(freepbx): enable main extension on queue operation only if que_toggle is enabled](https://github.com/nethesis/ns8-nethvoice/pull/547)** by *Stell0* - Reviewers: *None* - Created at: 2025-09-18T08:02:45Z
-
-### nethesis/nethvoice-cti 1 
-
-- :eyes:  **[fix: history table same data after page change](https://github.com/nethesis/nethvoice-cti/pull/334)** by *tonyco97* - Reviewers: *None* - Created at: 2025-09-19T09:54:32Z
 
 ### nethesis/ns8-nethvoice-proxy 1 
 
@@ -84,8 +76,13 @@ date = 2025-09-29
 
 - :eyes: :zzz: **[chore(main): release 1.2.1](https://github.com/nethesis/parceler/pull/105)** by *Tbaile* - Reviewers: *None* - Created at: 2025-08-21T12:47:15Z
 
-### nethesis/satellite 1 
+### nethesis/satellite 2 
 
+- :eyes:  **[Add speaker counterpart information to transcription](https://github.com/nethesis/satellite/pull/5)** by *Stell0* - Reviewers: *None* - Created at: 2025-09-29T09:49:57Z
 - :eyes:  **[feature(api): diarized transcription api](https://github.com/nethesis/satellite/pull/4)** by *Stell0* - Reviewers: *None* - Created at: 2025-09-19T07:28:04Z
+
+### nethesis/nethcti-middleware 1 
+
+- :eyes:  **[feat: added MQTT client with websocket broadcast](https://github.com/nethesis/nethcti-middleware/pull/3)** by *edospadoni* - Reviewers: *None* - Created at: 2025-09-29T10:40:10Z
 
 
