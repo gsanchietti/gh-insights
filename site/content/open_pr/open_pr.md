@@ -1,6 +1,6 @@
 +++
 title = 'Open Pull Requests'
-date = 2025-09-30
+date = 2025-10-01
 +++
 
 ## Organization: nethserver
@@ -14,23 +14,25 @@ date = 2025-09-30
 
 ### NethServer/nethsecurity 1 
 
--   **[HA: multiple fixes for beta2](https://github.com/NethServer/nethsecurity/pull/1369)** by *gsanchietti* - Reviewers: *filippocarletti, Tbaile* - Created at: 2025-09-11T07:12:13Z
+- :eyes:  **[fix: adding timeout to urllib requests](https://github.com/NethServer/nethsecurity/pull/1382)** by *Tbaile* - Reviewers: *None* - Created at: 2025-09-30T14:05:46Z
 
 ### NethServer/ns8-piler 1 
 
 -   **[Fix the upgrade by triggering the manticore indexing](https://github.com/NethServer/ns8-piler/pull/46)** by *stephdl* - Reviewers: *DavidePrincipi* - Created at: 2025-09-25T14:22:42Z
 
-### NethServer/ns8-crowdsec 1 
+### NethServer/ns8-docs 2 
 
--   **[Increase group_threshold limit and clean up email template](https://github.com/NethServer/ns8-crowdsec/pull/95)** by *stephdl* - Reviewers: *DavidePrincipi* - Created at: 2025-09-22T09:48:08Z
-
-### NethServer/ns8-docs 1 
-
+-   **[fix: HTTP routes and TLS certificates page](https://github.com/NethServer/ns8-docs/pull/183)** by *DavidePrincipi* - Reviewers: *lucagasparini, nrauso, mrmarkuz* - Created at: 2025-09-22T15:33:22Z
 - :eyes:  **[Add notification email details for blocked IPs in documentation](https://github.com/NethServer/ns8-docs/pull/182)** by *stephdl* - Reviewers: *None* - Created at: 2025-09-19T15:11:14Z
 
-### NethServer/nethsecurity-ui 1 
+### NethServer/nethsecurity-ui 2 
 
-- :eyes:  **[fix(standalone): dashboard, improve HA widget](https://github.com/NethServer/nethsecurity-ui/pull/650)** by *gsanchietti* - Reviewers: *None* - Created at: 2025-09-25T07:10:24Z
+- :eyes:  **[chore(main): release 2.5.9](https://github.com/NethServer/nethsecurity-ui/pull/651)** by *Tbaile* - Reviewers: *None* - Created at: 2025-09-30T14:15:34Z
+- :eyes:  **[feat: wireguard tunnels](https://github.com/NethServer/nethsecurity-ui/pull/644)** by *Tbaile* - Reviewers: *None* - Created at: 2025-09-05T11:50:37Z
+
+### NethServer/nethsecurity-api 1 
+
+-   **[feat(ubus): log detailed for  errors in UBusCallAction](https://github.com/NethServer/nethsecurity-api/pull/19)** by *stephdl* - Reviewers: *Tbaile* - Created at: 2025-09-30T08:40:20Z
 
 ### NethServer/nethsecurity-docs 1 
 
