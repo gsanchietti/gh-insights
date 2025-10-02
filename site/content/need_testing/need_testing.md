@@ -1,6 +1,6 @@
 +++
-title = 'Need testing (16)'
-date = 2025-10-01
+title = 'Need testing (12)'
+date = 2025-10-02
 +++
 
 ## NethVoice
@@ -15,13 +15,7 @@ date = 2025-10-01
 - :point_right: **[NethLink: Error when selecting speaker in Audio and Video Settings](https://github.com/NethServer/dev/issues/7538)** (#7504) by *viktec* (Created: 2025-07-01, Updated: 2025-09-26T12:43:18Z)
 - :point_right: **[NethCTI Middleware](https://github.com/NethServer/dev/issues/7504)** (#7504) by *edospadoni* (Created: 2025-06-16, Updated: 2025-09-29T10:33:57Z)
 
-## NethServer
-- :point_right: **[Improve Crowdsec notification format](https://github.com/NethServer/dev/issues/7641)** (#7504) by *stephdl* (Created: 2025-09-19, Updated: 2025-09-30T17:18:44Z)
-- :point_right: **[TLS certificate not obtained for remaining names](https://github.com/NethServer/dev/issues/7601)** (#7504) by *DavidePrincipi* (Created: 2025-08-08, Updated: 2025-09-30T11:16:33Z)
-- :point_right: **[Redesign of the TLS Certificates Page](https://github.com/NethServer/dev/issues/7544)** (#7504) by *DavidePrincipi* (Created: 2025-07-07, Updated: 2025-09-30T20:34:23Z)
-- :point_right: **[TLS certificate removal blocked by NXDOMAIN](https://github.com/NethServer/dev/issues/7530)** (#7504) by *DavidePrincipi* (Created: 2025-06-27, Updated: 2025-09-30T11:16:45Z)
-
 ## NethSecurity
 - **[High Availability: multiple improvements](https://github.com/NethServer/nethsecurity/issues/1380)** (#1352) by *gsanchietti* (Created: 2025-09-26, Updated: 2025-09-30T14:16:16Z)
-- :point_right: **[Wireguard Tunnels](https://github.com/NethServer/nethsecurity/issues/1352)** (#1352) by *Tbaile* (Created: 2025-08-22, Updated: 2025-09-30T09:57:41Z)
+- :point_right: **[Wireguard Tunnels](https://github.com/NethServer/nethsecurity/issues/1352)** (#1352) by *Tbaile* (Created: 2025-08-22, Updated: 2025-10-01T08:32:03Z)
 

@@ -1,6 +1,6 @@
 +++
 title = 'Open Pull Requests'
-date = 2025-10-01
+date = 2025-10-02
 +++
 
 ## Organization: nethserver
@@ -20,16 +20,6 @@ date = 2025-10-01
 
 -   **[Fix the upgrade by triggering the manticore indexing](https://github.com/NethServer/ns8-piler/pull/46)** by *stephdl* - Reviewers: *DavidePrincipi* - Created at: 2025-09-25T14:22:42Z
 
-### NethServer/ns8-docs 2 
-
--   **[fix: HTTP routes and TLS certificates page](https://github.com/NethServer/ns8-docs/pull/183)** by *DavidePrincipi* - Reviewers: *lucagasparini, nrauso, mrmarkuz* - Created at: 2025-09-22T15:33:22Z
-- :eyes:  **[Add notification email details for blocked IPs in documentation](https://github.com/NethServer/ns8-docs/pull/182)** by *stephdl* - Reviewers: *None* - Created at: 2025-09-19T15:11:14Z
-
-### NethServer/nethsecurity-ui 2 
-
-- :eyes:  **[chore(main): release 2.5.9](https://github.com/NethServer/nethsecurity-ui/pull/651)** by *Tbaile* - Reviewers: *None* - Created at: 2025-09-30T14:15:34Z
-- :eyes:  **[feat: wireguard tunnels](https://github.com/NethServer/nethsecurity-ui/pull/644)** by *Tbaile* - Reviewers: *None* - Created at: 2025-09-05T11:50:37Z
-
 ### NethServer/nethsecurity-api 1 
 
 -   **[feat(ubus): log detailed for  errors in UBusCallAction](https://github.com/NethServer/nethsecurity-api/pull/19)** by *stephdl* - Reviewers: *Tbaile* - Created at: 2025-09-30T08:40:20Z
@@ -48,7 +38,7 @@ date = 2025-10-01
 
 ### NethServer/my 1 
 
--   **[feat: added impersonate function for super-admin users](https://github.com/NethServer/my/pull/21)** by *edospadoni* - Reviewers: *andre8244* - Created at: 2025-09-01T08:59:27Z
+-  :zzz: **[feat: added impersonate function for super-admin users](https://github.com/NethServer/my/pull/21)** by *edospadoni* - Reviewers: *andre8244* - Created at: 2025-09-01T08:59:27Z
 
 ## Organization: nethesis
 
