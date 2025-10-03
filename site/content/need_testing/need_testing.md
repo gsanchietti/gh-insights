@@ -1,10 +1,10 @@
 +++
 title = 'Need testing (12)'
-date = 2025-10-02
+date = 2025-10-03
 +++
 
 ## NethVoice
-- **[NethLink: does not accept uppercase in username](https://github.com/NethServer/dev/issues/7656)** (#7504) by *viktec* (Created: 2025-09-25, Updated: 2025-09-29T11:52:18Z)
+- :point_right: **[NethLink: does not accept uppercase in username](https://github.com/NethServer/dev/issues/7656)** (#7504) by *viktec* (Created: 2025-09-25, Updated: 2025-09-29T11:52:18Z)
 - :point_right: **[NethCTI: editing a company contact shows Person selected in the kind radio button](https://github.com/NethServer/dev/issues/7646)** (#7504) by *viktec* (Created: 2025-09-22, Updated: 2025-09-29T11:51:59Z)
 - :point_right: **[NethVoice CTI: pagination and filters in call history do not work correctly](https://github.com/NethServer/dev/issues/7639)** (#7504) by *viktec* (Created: 2025-09-19, Updated: 2025-09-29T11:51:36Z)
 - :point_right: **[Nethvoice clone fails when a module is moved two times](https://github.com/NethServer/dev/issues/7616)** (#7504) by *Stell0* (Created: 2025-09-03, Updated: 2025-09-26T09:35:53Z)
@@ -17,5 +17,5 @@ date = 2025-10-02
 
 ## NethSecurity
 - **[High Availability: multiple improvements](https://github.com/NethServer/nethsecurity/issues/1380)** (#1352) by *gsanchietti* (Created: 2025-09-26, Updated: 2025-09-30T14:16:16Z)
-- :point_right: **[Wireguard Tunnels](https://github.com/NethServer/nethsecurity/issues/1352)** (#1352) by *Tbaile* (Created: 2025-08-22, Updated: 2025-10-01T08:32:03Z)
+- :point_right: **[Wireguard Tunnels](https://github.com/NethServer/nethsecurity/issues/1352)** (#1352) by *Tbaile* (Created: 2025-08-22, Updated: 2025-10-02T08:10:36Z)
 

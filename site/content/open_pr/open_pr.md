@@ -1,6 +1,6 @@
 +++
 title = 'Open Pull Requests'
-date = 2025-10-02
+date = 2025-10-03
 +++
 
 ## Organization: nethserver
@@ -14,18 +14,23 @@ date = 2025-10-02
 
 ### NethServer/nethsecurity 1 
 
-- :eyes:  **[fix: adding timeout to urllib requests](https://github.com/NethServer/nethsecurity/pull/1382)** by *Tbaile* - Reviewers: *None* - Created at: 2025-09-30T14:05:46Z
+-   **[fix(ns-api): add missing --data option](https://github.com/NethServer/nethsecurity/pull/1390)** by *filippocarletti* - Reviewers: *gsanchietti* - Created at: 2025-10-02T15:43:28Z
+
+### NethServer/ns8-webtop 1 
+
+- :eyes:  **[Enhance Let's Encrypt certificate management and error handling](https://github.com/NethServer/ns8-webtop/pull/157)** by *stephdl* - Reviewers: *None* - Created at: 2025-10-02T14:40:30Z
 
 ### NethServer/ns8-piler 1 
 
--   **[Fix the upgrade by triggering the manticore indexing](https://github.com/NethServer/ns8-piler/pull/46)** by *stephdl* - Reviewers: *DavidePrincipi* - Created at: 2025-09-25T14:22:42Z
+- :eyes:  **[Fix the upgrade by triggering the manticore indexing](https://github.com/NethServer/ns8-piler/pull/46)** by *stephdl* - Reviewers: *None* - Created at: 2025-09-25T14:22:42Z
 
-### NethServer/nethsecurity-api 1 
+### NethServer/ns8-docs 1 
 
--   **[feat(ubus): log detailed for  errors in UBusCallAction](https://github.com/NethServer/nethsecurity-api/pull/19)** by *stephdl* - Reviewers: *Tbaile* - Created at: 2025-09-30T08:40:20Z
+-   **[feat: release notes milestone 8.6](https://github.com/NethServer/ns8-docs/pull/189)** by *DavidePrincipi* - Reviewers: *stephdl, lucagasparini* - Created at: 2025-10-02T14:50:42Z
 
-### NethServer/nethsecurity-docs 1 
+### NethServer/nethsecurity-docs 2 
 
+-   **[fix(ha): update for beta2](https://github.com/NethServer/nethsecurity-docs/pull/208)** by *gsanchietti* - Reviewers: *filippocarletti, cotosso* - Created at: 2025-10-02T10:43:05Z
 -   **[fix(flashtart): no more need for DNS option on DHCP server](https://github.com/NethServer/nethsecurity-docs/pull/204)** by *cotosso* - Reviewers: *Tbaile* - Created at: 2025-09-03T10:07:54Z
 
 ### NethServer/ns8-sogo 1 
@@ -59,6 +64,10 @@ date = 2025-10-02
 - :eyes:  **[feat: added MQTT client with websocket broadcast](https://github.com/nethesis/ns8-nethvoice/pull/552)** by *edospadoni* - Reviewers: *None* - Created at: 2025-09-29T10:46:28Z
 -   **[fix(imageroot): update user_dbconn entries](https://github.com/nethesis/ns8-nethvoice/pull/549)** by *Amygos* - Reviewers: *Stell0* - Created at: 2025-09-24T10:48:16Z
 - :eyes:  **[fix(freepbx): enable main extension on queue operation only if que_toggle is enabled](https://github.com/nethesis/ns8-nethvoice/pull/547)** by *Stell0* - Reviewers: *None* - Created at: 2025-09-18T08:02:45Z
+
+### nethesis/phone-island 1 
+
+- :eyes:  **[feat: added transcription conversation event](https://github.com/nethesis/phone-island/pull/115)** by *edospadoni* - Reviewers: *None* - Created at: 2025-09-29T13:54:49Z
 
 ### nethesis/ns8-nethvoice-proxy 1 
 
