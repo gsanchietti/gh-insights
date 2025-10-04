@@ -1,6 +1,6 @@
 +++
 title = 'Open Pull Requests'
-date = 2025-10-03
+date = 2025-10-04
 +++
 
 ## Organization: nethserver
@@ -12,30 +12,26 @@ date = 2025-10-03
 -   **[Update PIP requirements for the Agent python 3.11 environment](https://github.com/NethServer/ns8-core/pull/934)** by *stephdl* - Reviewers: *DavidePrincipi* - Created at: 2025-09-10T15:54:36Z
 -   **[Add installation support for Python 3.12/3.13, EL10 & Debian 13](https://github.com/NethServer/ns8-core/pull/930)** by *stephdl* - Reviewers: *DavidePrincipi* - Created at: 2025-09-04T09:04:20Z
 
-### NethServer/nethsecurity 1 
-
--   **[fix(ns-api): add missing --data option](https://github.com/NethServer/nethsecurity/pull/1390)** by *filippocarletti* - Reviewers: *gsanchietti* - Created at: 2025-10-02T15:43:28Z
-
 ### NethServer/ns8-webtop 1 
 
-- :eyes:  **[Enhance Let's Encrypt certificate management and error handling](https://github.com/NethServer/ns8-webtop/pull/157)** by *stephdl* - Reviewers: *None* - Created at: 2025-10-02T14:40:30Z
+-   **[Enhance Let's Encrypt certificate management and error handling](https://github.com/NethServer/ns8-webtop/pull/157)** by *stephdl* - Reviewers: *andre8244* - Created at: 2025-10-02T14:40:30Z
 
 ### NethServer/ns8-piler 1 
 
 - :eyes:  **[Fix the upgrade by triggering the manticore indexing](https://github.com/NethServer/ns8-piler/pull/46)** by *stephdl* - Reviewers: *None* - Created at: 2025-09-25T14:22:42Z
 
-### NethServer/ns8-docs 1 
+### NethServer/ns8-ejabberd 1 
 
--   **[feat: release notes milestone 8.6](https://github.com/NethServer/ns8-docs/pull/189)** by *DavidePrincipi* - Reviewers: *stephdl, lucagasparini* - Created at: 2025-10-02T14:50:42Z
+-   **[Enhance Let's Encrypt certificate management and settings](https://github.com/NethServer/ns8-ejabberd/pull/70)** by *stephdl* - Reviewers: *DavidePrincipi, andre8244* - Created at: 2025-10-03T09:28:20Z
 
 ### NethServer/nethsecurity-docs 2 
 
 -   **[fix(ha): update for beta2](https://github.com/NethServer/nethsecurity-docs/pull/208)** by *gsanchietti* - Reviewers: *filippocarletti, cotosso* - Created at: 2025-10-02T10:43:05Z
--   **[fix(flashtart): no more need for DNS option on DHCP server](https://github.com/NethServer/nethsecurity-docs/pull/204)** by *cotosso* - Reviewers: *Tbaile* - Created at: 2025-09-03T10:07:54Z
+-  :zzz: **[fix(flashtart): no more need for DNS option on DHCP server](https://github.com/NethServer/nethsecurity-docs/pull/204)** by *cotosso* - Reviewers: *Tbaile* - Created at: 2025-09-03T10:07:54Z
 
 ### NethServer/ns8-sogo 1 
 
-- :eyes:  **[Fix typos in customization in README.md](https://github.com/NethServer/ns8-sogo/pull/44)** by *mrmarkuz* - Reviewers: *None* - Created at: 2025-09-03T06:35:30Z
+- :eyes: :zzz: **[Fix typos in customization in README.md](https://github.com/NethServer/ns8-sogo/pull/44)** by *mrmarkuz* - Reviewers: *None* - Created at: 2025-09-03T06:35:30Z
 
 ### NethServer/nethlink 1 
 
@@ -77,9 +73,8 @@ date = 2025-10-03
 
 - :eyes: :zzz: **[chore(main): release 1.2.1](https://github.com/nethesis/parceler/pull/105)** by *Tbaile* - Reviewers: *None* - Created at: 2025-08-21T12:47:15Z
 
-### nethesis/satellite 2 
+### nethesis/satellite 1 
 
-- :eyes:  **[Add speaker counterpart information to transcription](https://github.com/nethesis/satellite/pull/5)** by *Stell0* - Reviewers: *None* - Created at: 2025-09-29T09:49:57Z
 - :eyes:  **[feature(api): diarized transcription api](https://github.com/nethesis/satellite/pull/4)** by *Stell0* - Reviewers: *None* - Created at: 2025-09-19T07:28:04Z
 
 ### nethesis/nethcti-middleware 1 
