@@ -1,6 +1,6 @@
 +++
 title = 'Open Pull Requests by Bots'
-date = 2025-10-05
+date = 2025-10-06
 +++
 
 ## Organization: nethserver
@@ -101,8 +101,10 @@ date = 2025-10-05
 - :eyes: :zzz: **[chore(deps): update actions/upload-pages-artifact action to v4](https://github.com/NethServer/nethsecurity/pull/1356)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-08-22T17:50:40Z
 - :eyes: :zzz: **[chore(deps): update debian docker tag to v13](https://github.com/NethServer/nethsecurity/pull/1342)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-08-12T22:46:15Z
 
-### NethServer/nethsecurity-controller 1 
+### NethServer/nethsecurity-controller 3 
 
+- :eyes:  **[chore(deps): update dependency nethserver/nethsecurity-ui to v2.7.0](https://github.com/NethServer/nethsecurity-controller/pull/174)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-10-06T02:12:20Z
+- :eyes:  **[fix(deps): update github.com/nethserver/nethsecurity-api digest to f648b9d](https://github.com/NethServer/nethsecurity-controller/pull/173)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-10-06T02:12:13Z
 - :eyes:  **[fix(deps): update module github.com/golang-jwt/jwt/v4 to v5](https://github.com/NethServer/nethsecurity-controller/pull/171)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-09-22T01:47:06Z
 
 ### NethServer/ns8-mail 3 
