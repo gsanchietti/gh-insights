@@ -1,6 +1,6 @@
 +++
 title = 'Open Pull Requests'
-date = 2025-10-06
+date = 2025-10-07
 +++
 
 ## Organization: nethserver
@@ -14,7 +14,7 @@ date = 2025-10-06
 
 ### NethServer/ns8-webtop 1 
 
--   **[Enhance Let's Encrypt certificate management and error handling](https://github.com/NethServer/ns8-webtop/pull/157)** by *stephdl* - Reviewers: *andre8244* - Created at: 2025-10-02T14:40:30Z
+-   **[Enhance Let's Encrypt certificate management and error handling](https://github.com/NethServer/ns8-webtop/pull/157)** by *stephdl* - Reviewers: *Amygos* - Created at: 2025-10-02T14:40:30Z
 
 ### NethServer/ns8-piler 1 
 
@@ -22,12 +22,16 @@ date = 2025-10-06
 
 ### NethServer/ns8-ejabberd 1 
 
--   **[Enhance Let's Encrypt certificate management and settings](https://github.com/NethServer/ns8-ejabberd/pull/70)** by *stephdl* - Reviewers: *DavidePrincipi, andre8244* - Created at: 2025-10-03T09:28:20Z
+-   **[Enhance Let's Encrypt certificate management and settings](https://github.com/NethServer/ns8-ejabberd/pull/70)** by *stephdl* - Reviewers: *DavidePrincipi* - Created at: 2025-10-03T09:28:20Z
 
 ### NethServer/nethsecurity-docs 2 
 
 -   **[fix(ha): update for beta2](https://github.com/NethServer/nethsecurity-docs/pull/208)** by *gsanchietti* - Reviewers: *filippocarletti, cotosso* - Created at: 2025-10-02T10:43:05Z
 -  :zzz: **[fix(flashtart): no more need for DNS option on DHCP server](https://github.com/NethServer/nethsecurity-docs/pull/204)** by *cotosso* - Reviewers: *Tbaile* - Created at: 2025-09-03T10:07:54Z
+
+### NethServer/ns8-user-manager 1 
+
+- :eyes:  **[chore(main): release 1.2.5](https://github.com/NethServer/ns8-user-manager/pull/134)** by *Tbaile* - Reviewers: *None* - Created at: 2025-10-06T20:38:53Z
 
 ### NethServer/ns8-sogo 1 
 
@@ -36,10 +40,6 @@ date = 2025-10-06
 ### NethServer/nethlink 1 
 
 -   **[feat: nethcti-middleware](https://github.com/NethServer/nethlink/pull/72)** by *tommaso-ascani* - Reviewers: *edospadoni, tonyco97* - Created at: 2025-09-08T07:14:17Z
-
-### NethServer/my 1 
-
--  :zzz: **[feat: added impersonate function for super-admin users](https://github.com/NethServer/my/pull/21)** by *edospadoni* - Reviewers: *andre8244* - Created at: 2025-09-01T08:59:27Z
 
 ## Organization: nethesis
 
@@ -58,8 +58,12 @@ date = 2025-10-06
 ### nethesis/ns8-nethvoice 3 
 
 - :eyes:  **[feat: added MQTT client with websocket broadcast](https://github.com/nethesis/ns8-nethvoice/pull/552)** by *edospadoni* - Reviewers: *None* - Created at: 2025-09-29T10:46:28Z
--   **[fix(imageroot): update user_dbconn entries](https://github.com/nethesis/ns8-nethvoice/pull/549)** by *Amygos* - Reviewers: *Stell0* - Created at: 2025-09-24T10:48:16Z
+- :eyes:  **[fix(imageroot): update user_dbconn entries](https://github.com/nethesis/ns8-nethvoice/pull/549)** by *Amygos* - Reviewers: *None* - Created at: 2025-09-24T10:48:16Z
 - :eyes:  **[fix(freepbx): enable main extension on queue operation only if que_toggle is enabled](https://github.com/nethesis/ns8-nethvoice/pull/547)** by *Stell0* - Reviewers: *None* - Created at: 2025-09-18T08:02:45Z
+
+### nethesis/nethvoice-cti 1 
+
+- :eyes:  **[feat: added missing phone-island live transcription](https://github.com/nethesis/nethvoice-cti/pull/338)** by *tonyco97* - Reviewers: *None* - Created at: 2025-10-06T07:43:11Z
 
 ### nethesis/phone-island 1 
 

@@ -1,6 +1,6 @@
 +++
 title = 'Open Pull Requests by Bots'
-date = 2025-10-06
+date = 2025-10-07
 +++
 
 ## Organization: nethserver
@@ -130,8 +130,9 @@ date = 2025-10-06
 
 - :eyes: :zzz: **[chore(deps): update collabora/code docker tag to v25.04.6.1.1](https://github.com/NethServer/ns8-collabora/pull/45)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-08-22T12:09:49Z
 
-### NethServer/ns8-webtop 3 
+### NethServer/ns8-webtop 4 
 
+- :eyes:  **[chore(deps): update tomcat docker tag to v9.0.110](https://github.com/NethServer/ns8-webtop/pull/158)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-10-07T01:52:33Z
 - :eyes:  **[chore(deps): update postgres docker tag to v18](https://github.com/NethServer/ns8-webtop/pull/156)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-09-26T02:43:52Z
 - :eyes: :zzz: **[chore(deps): update mlocati/php-extension-installer docker tag to v2.9.11](https://github.com/NethServer/ns8-webtop/pull/130)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-06-04T12:42:44Z
 - :eyes: :zzz: **[chore(deps): update ghcr.io/marketsquare/robotframework-browser/rfbrowser-stable docker tag to v19.8.0](https://github.com/NethServer/ns8-webtop/pull/99)** by *renovate[bot]* - Reviewers: *None* - Created at: 2024-12-19T16:40:00Z
@@ -272,13 +273,13 @@ date = 2025-10-06
 - :eyes: :zzz: **[chore(deps): update dependency rollup to v2 [security]](https://github.com/nethesis/ns8-nethvoice/pull/506)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-07-04T12:08:59Z
 - :eyes: :zzz: **[chore(deps): update dependency karma to v6 [security]](https://github.com/nethesis/ns8-nethvoice/pull/505)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-07-04T12:08:13Z
 
-### nethesis/nethvoice-cti 2 
+### nethesis/nethvoice-cti 1 
 
 - :eyes:  **[chore(deps): bump axios from 1.9.0 to 1.12.0](https://github.com/nethesis/nethvoice-cti/pull/337)** by *dependabot[bot]* - Reviewers: *None* - Created at: 2025-10-01T05:47:27Z
-- :eyes:  **[build(deps): Update phone-island dependency (automated)](https://github.com/nethesis/nethvoice-cti/pull/336)** by *github-actions[bot]* - Reviewers: *None* - Created at: 2025-10-01T00:22:05Z
 
-### nethesis/ns8-nethvoice-proxy 7 
+### nethesis/ns8-nethvoice-proxy 8 
 
+- :eyes:  **[Translations update from Hosted Weblate](https://github.com/nethesis/ns8-nethvoice-proxy/pull/90)** by *weblate* - Reviewers: *None* - Created at: 2025-10-06T14:33:28Z
 - :eyes:  **[build(deps): bump axios from 0.30.0 to 0.30.2 in /ui](https://github.com/nethesis/ns8-nethvoice-proxy/pull/88)** by *dependabot[bot]* - Reviewers: *None* - Created at: 2025-10-01T05:47:23Z
 - :eyes:  **[chore(deps): update postgres docker tag to v18](https://github.com/nethesis/ns8-nethvoice-proxy/pull/87)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-09-26T04:40:37Z
 - :eyes: :zzz: **[chore(deps): update redis docker tag to v8](https://github.com/nethesis/ns8-nethvoice-proxy/pull/78)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-07-08T11:53:47Z

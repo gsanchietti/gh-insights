@@ -1,10 +1,7 @@
 +++
-title = 'Need testing (13)'
-date = 2025-10-06
+title = 'Need testing (12)'
+date = 2025-10-07
 +++
-
-## NethServer
-- **[Log cluster-admin successful login](https://github.com/NethServer/dev/issues/7667)** (#7504) by *DavidePrincipi* (Created: 2025-10-01, Updated: 2025-10-03T14:54:14Z)
 
 ## NethVoice
 - :point_right: **[NethLink: does not accept uppercase in username](https://github.com/NethServer/dev/issues/7656)** (#7504) by *viktec* (Created: 2025-09-25, Updated: 2025-09-29T11:52:18Z)
@@ -20,5 +17,5 @@ date = 2025-10-06
 
 ## NethSecurity
 - :point_right: **[High Availability: multiple improvements](https://github.com/NethServer/nethsecurity/issues/1380)** (#1352) by *gsanchietti* (Created: 2025-09-26, Updated: 2025-09-30T14:16:16Z)
-- :point_right: **[Wireguard Tunnels](https://github.com/NethServer/nethsecurity/issues/1352)** (#1352) by *Tbaile* (Created: 2025-08-22, Updated: 2025-10-03T06:53:51Z)
+- :point_right: **[Wireguard Tunnels](https://github.com/NethServer/nethsecurity/issues/1352)** (#1352) by *Tbaile* (Created: 2025-08-22, Updated: 2025-10-06T16:14:00Z)
 
