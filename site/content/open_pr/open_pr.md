@@ -1,25 +1,24 @@
 +++
 title = 'Open Pull Requests'
-date = 2025-10-08
+date = 2025-10-09
 +++
 
 ## Organization: nethserver
 
-### NethServer/ns8-core 5 
+### NethServer/ns8-core 4 
 
--   **[fix(agent): validation-failed status passthrough](https://github.com/NethServer/ns8-core/pull/950)** by *DavidePrincipi* - Reviewers: *stephdl* - Created at: 2025-10-07T13:47:44Z
 - :eyes:  **[refactor: update db api to use single connection and reduce SQLite lock contention](https://github.com/NethServer/ns8-core/pull/942)** by *Elia-Renzoni* - Reviewers: *None* - Created at: 2025-09-24T09:35:26Z
 - :eyes:  **[Reduce api-server audit event types](https://github.com/NethServer/ns8-core/pull/940)** by *Elia-Renzoni* - Reviewers: *None* - Created at: 2025-09-22T12:54:21Z
 -   **[Update PIP requirements for the Agent python 3.11 environment](https://github.com/NethServer/ns8-core/pull/934)** by *stephdl* - Reviewers: *DavidePrincipi* - Created at: 2025-09-10T15:54:36Z
-- :eyes: :zzz: **[Add installation support for Python 3.12/3.13, EL10 & Debian 13](https://github.com/NethServer/ns8-core/pull/930)** by *stephdl* - Reviewers: *None* - Created at: 2025-09-04T09:04:20Z
+-  :zzz: **[Add installation support for Python 3.13 & Debian 13](https://github.com/NethServer/ns8-core/pull/930)** by *stephdl* - Reviewers: *DavidePrincipi* - Created at: 2025-09-04T09:04:20Z
 
 ### NethServer/ns8-webtop 1 
 
--   **[Enhance Let's Encrypt certificate management and error handling](https://github.com/NethServer/ns8-webtop/pull/157)** by *stephdl* - Reviewers: *andre8244* - Created at: 2025-10-02T14:40:30Z
+- :eyes:  **[Enhance Let's Encrypt certificate management and error handling](https://github.com/NethServer/ns8-webtop/pull/157)** by *stephdl* - Reviewers: *None* - Created at: 2025-10-02T14:40:30Z
 
-### NethServer/ns8-piler 1 
+### NethServer/ns8-crowdsec 1 
 
-- :eyes:  **[Fix the upgrade by triggering the manticore indexing](https://github.com/NethServer/ns8-piler/pull/46)** by *stephdl* - Reviewers: *None* - Created at: 2025-09-25T14:22:42Z
+- :eyes:  **[Update Crowdsec image version and add environment variable](https://github.com/NethServer/ns8-crowdsec/pull/100)** by *stephdl* - Reviewers: *None* - Created at: 2025-10-08T14:39:47Z
 
 ### NethServer/ns8-ejabberd 1 
 
@@ -28,7 +27,7 @@ date = 2025-10-08
 ### NethServer/nethsecurity-docs 3 
 
 - :eyes:  **[host set limitations -  flashstart.rst](https://github.com/NethServer/nethsecurity-docs/pull/211)** by *cotosso* - Reviewers: *None* - Created at: 2025-10-07T17:19:05Z
--   **[fix(ha): update for beta2](https://github.com/NethServer/nethsecurity-docs/pull/208)** by *gsanchietti* - Reviewers: *filippocarletti, cotosso* - Created at: 2025-10-02T10:43:05Z
+-   **[fix(ha): update for beta2](https://github.com/NethServer/nethsecurity-docs/pull/208)** by *gsanchietti* - Reviewers: *filippocarletti* - Created at: 2025-10-02T10:43:05Z
 -  :zzz: **[fix(flashtart): no more need for DNS option on DHCP server](https://github.com/NethServer/nethsecurity-docs/pull/204)** by *cotosso* - Reviewers: *Tbaile* - Created at: 2025-09-03T10:07:54Z
 
 ### NethServer/ns8-user-manager 1 
@@ -41,7 +40,7 @@ date = 2025-10-08
 
 ### NethServer/nethlink 1 
 
--   **[feat: nethcti-middleware](https://github.com/NethServer/nethlink/pull/72)** by *tommaso-ascani* - Reviewers: *edospadoni, tonyco97* - Created at: 2025-09-08T07:14:17Z
+-  :zzz: **[feat: nethcti-middleware](https://github.com/NethServer/nethlink/pull/72)** by *tommaso-ascani* - Reviewers: *edospadoni, tonyco97* - Created at: 2025-09-08T07:14:17Z
 
 ## Organization: nethesis
 
@@ -80,13 +79,12 @@ date = 2025-10-08
 
 - :eyes: :zzz: **[chore(main): release 1.2.1](https://github.com/nethesis/parceler/pull/105)** by *Tbaile* - Reviewers: *None* - Created at: 2025-08-21T12:47:15Z
 
-### nethesis/satellite 2 
+### nethesis/satellite 1 
 
-- :eyes:  **[fix: concurrent call handling and dynamic speaker mapping](https://github.com/nethesis/satellite/pull/6)** by *edospadoni* - Reviewers: *None* - Created at: 2025-10-07T13:20:35Z
 - :eyes:  **[feature(api): diarized transcription api](https://github.com/nethesis/satellite/pull/4)** by *Stell0* - Reviewers: *None* - Created at: 2025-09-19T07:28:04Z
 
 ### nethesis/nethcti-middleware 1 
 
-- :eyes:  **[feat: added MQTT client with websocket broadcast](https://github.com/nethesis/nethcti-middleware/pull/3)** by *edospadoni* - Reviewers: *None* - Created at: 2025-09-29T10:40:10Z
+- :eyes:  **[feat(nethcti-middleware): RTP proxy integration](https://github.com/nethesis/nethcti-middleware/pull/4)** by *Elia-Renzoni* - Reviewers: *None* - Created at: 2025-10-08T13:19:43Z
 
 
