@@ -1,6 +1,6 @@
 +++
-title = 'Need testing (12)'
-date = 2025-10-09
+title = 'Need testing (11)'
+date = 2025-10-10
 +++
 
 ## NethVoice
@@ -12,12 +12,11 @@ date = 2025-10-09
 - :point_right: **[NethVoice CTI: Phone Island does not handle "Busy" state correctly when calling a busy extension](https://github.com/NethServer/dev/issues/7599)** (#7504) by *mgarra* (Created: 2025-08-07, Updated: 2025-09-29T11:51:14Z)
 - :point_right: **[NethVoice Proxy: Implement GNR trunks configuration UI](https://github.com/NethServer/dev/issues/7578)** (#7504) by *Amygos* (Created: 2025-07-29, Updated: 2025-09-29T06:41:37Z)
 - :point_right: **[NethVoice: simultaneous phonebook-update timers cause resource spikes](https://github.com/NethServer/dev/issues/7555)** (#7504) by *Amygos* (Created: 2025-07-16, Updated: 2025-09-24T10:58:56Z)
-- :point_right: **[NethLink: Error when selecting speaker in Audio and Video Settings](https://github.com/NethServer/dev/issues/7538)** (#7504) by *viktec* (Created: 2025-07-01, Updated: 2025-09-26T12:43:18Z)
-- :point_right: **[NethCTI Middleware](https://github.com/NethServer/dev/issues/7504)** (#7504) by *edospadoni* (Created: 2025-06-16, Updated: 2025-09-29T10:33:57Z)
+- :point_right: **[NethCTI Middleware](https://github.com/NethServer/dev/issues/7504)** (#7504) by *edospadoni* (Created: 2025-06-16, Updated: 2025-10-09T13:49:10Z)
 
 ## NethServer
 - :point_right: **[Update ns8-piler to piler 1.4.8](https://github.com/NethServer/dev/issues/7516)** (#7504) by *stephdl* (Created: 2025-06-19, Updated: 2025-10-08T13:48:07Z)
 
 ## NethSecurity
-- :point_right: **[High Availability: multiple improvements](https://github.com/NethServer/nethsecurity/issues/1380)** (#1380) by *gsanchietti* (Created: 2025-09-26, Updated: 2025-10-08T09:43:36Z)
+- :point_right: **[High Availability: multiple improvements](https://github.com/NethServer/nethsecurity/issues/1380)** (#1380) by *gsanchietti* (Created: 2025-09-26, Updated: 2025-10-09T09:43:54Z)
 

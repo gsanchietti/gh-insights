@@ -2,13 +2,17 @@
 
 title = 'To be released soon'
 
-date = 2025-10-09
+date = 2025-10-10
 
 +++
 
 ### NethServer
 
-- [Dynamic bantime slider is not show when dynamic ban is enabled](https://github.com/NethServer/dev/issues/7678) (#7678) by stephdl (Created: 2025-10-08T09:59:39Z, Updated: 2025-10-08T15:49:36Z)
+- [Dynamic bantime slider is not show when dynamic ban is enabled](https://github.com/NethServer/dev/issues/7678) (#7538) by stephdl (Created: 2025-10-08T09:59:39Z, Updated: 2025-10-08T15:49:36Z)
+
+### NethVoice
+
+- [NethLink: Error when selecting speaker in Audio and Video Settings](https://github.com/NethServer/dev/issues/7538) (#7538) by viktec (Created: 2025-07-01T15:24:30Z, Updated: 2025-10-09T08:12:44Z)
 
 ### NethSecurity
 

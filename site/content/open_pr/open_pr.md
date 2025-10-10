@@ -1,23 +1,26 @@
 +++
 title = 'Open Pull Requests'
-date = 2025-10-09
+date = 2025-10-10
 +++
 
 ## Organization: nethserver
 
-### NethServer/ns8-core 4 
+### NethServer/ns8-core 5 
 
+-   **[Add Let's Encrypt tips and warnings to translations](https://github.com/NethServer/ns8-core/pull/955)** by *stephdl* - Reviewers: *andre8244* - Created at: 2025-10-09T10:43:40Z
 - :eyes:  **[refactor: update db api to use single connection and reduce SQLite lock contention](https://github.com/NethServer/ns8-core/pull/942)** by *Elia-Renzoni* - Reviewers: *None* - Created at: 2025-09-24T09:35:26Z
 - :eyes:  **[Reduce api-server audit event types](https://github.com/NethServer/ns8-core/pull/940)** by *Elia-Renzoni* - Reviewers: *None* - Created at: 2025-09-22T12:54:21Z
 -   **[Update PIP requirements for the Agent python 3.11 environment](https://github.com/NethServer/ns8-core/pull/934)** by *stephdl* - Reviewers: *DavidePrincipi* - Created at: 2025-09-10T15:54:36Z
--  :zzz: **[Add installation support for Python 3.13 & Debian 13](https://github.com/NethServer/ns8-core/pull/930)** by *stephdl* - Reviewers: *DavidePrincipi* - Created at: 2025-09-04T09:04:20Z
+- :eyes: :zzz: **[Add installation support for Python 3.13 & Debian 13](https://github.com/NethServer/ns8-core/pull/930)** by *stephdl* - Reviewers: *None* - Created at: 2025-09-04T09:04:20Z
 
 ### NethServer/ns8-webtop 1 
 
-- :eyes:  **[Enhance Let's Encrypt certificate management and error handling](https://github.com/NethServer/ns8-webtop/pull/157)** by *stephdl* - Reviewers: *None* - Created at: 2025-10-02T14:40:30Z
+-   **[Enhance Let's Encrypt certificate management and error handling](https://github.com/NethServer/ns8-webtop/pull/157)** by *stephdl* - Reviewers: *andre8244* - Created at: 2025-10-02T14:40:30Z
 
-### NethServer/ns8-crowdsec 1 
+### NethServer/ns8-crowdsec 3 
 
+- :eyes:  **[Add dynamic bantime duration configuration](https://github.com/NethServer/ns8-crowdsec/pull/103)** by *stephdl* - Reviewers: *None* - Created at: 2025-10-09T15:51:21Z
+-   **[Add dynamic ban time mode selection](https://github.com/NethServer/ns8-crowdsec/pull/102)** by *stephdl* - Reviewers: *DavidePrincipi, andre8244* - Created at: 2025-10-09T08:11:16Z
 - :eyes:  **[Update Crowdsec image version and add environment variable](https://github.com/NethServer/ns8-crowdsec/pull/100)** by *stephdl* - Reviewers: *None* - Created at: 2025-10-08T14:39:47Z
 
 ### NethServer/ns8-ejabberd 1 
