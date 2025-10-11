@@ -1,6 +1,6 @@
 +++
 title = 'Open Pull Requests'
-date = 2025-10-10
+date = 2025-10-11
 +++
 
 ## Organization: nethserver
@@ -10,7 +10,7 @@ date = 2025-10-10
 -   **[Add Let's Encrypt tips and warnings to translations](https://github.com/NethServer/ns8-core/pull/955)** by *stephdl* - Reviewers: *andre8244* - Created at: 2025-10-09T10:43:40Z
 - :eyes:  **[refactor: update db api to use single connection and reduce SQLite lock contention](https://github.com/NethServer/ns8-core/pull/942)** by *Elia-Renzoni* - Reviewers: *None* - Created at: 2025-09-24T09:35:26Z
 - :eyes:  **[Reduce api-server audit event types](https://github.com/NethServer/ns8-core/pull/940)** by *Elia-Renzoni* - Reviewers: *None* - Created at: 2025-09-22T12:54:21Z
--   **[Update PIP requirements for the Agent python 3.11 environment](https://github.com/NethServer/ns8-core/pull/934)** by *stephdl* - Reviewers: *DavidePrincipi* - Created at: 2025-09-10T15:54:36Z
+-  :zzz: **[Update PIP requirements for the Agent python 3.11 environment](https://github.com/NethServer/ns8-core/pull/934)** by *stephdl* - Reviewers: *DavidePrincipi* - Created at: 2025-09-10T15:54:36Z
 - :eyes: :zzz: **[Add installation support for Python 3.13 & Debian 13](https://github.com/NethServer/ns8-core/pull/930)** by *stephdl* - Reviewers: *None* - Created at: 2025-09-04T09:04:20Z
 
 ### NethServer/ns8-webtop 1 
@@ -49,7 +49,7 @@ date = 2025-10-10
 
 ### nethesis/icaro 1 
 
--   **[feat: added OAuth login](https://github.com/nethesis/icaro/pull/200)** by *edospadoni* - Reviewers: *Amygos* - Created at: 2025-09-10T10:04:49Z
+-  :zzz: **[feat: added OAuth login](https://github.com/nethesis/icaro/pull/200)** by *edospadoni* - Reviewers: *Amygos* - Created at: 2025-09-10T10:04:49Z
 
 ### nethesis/nethcti-app-android 1 
 
