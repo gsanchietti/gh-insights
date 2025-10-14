@@ -1,6 +1,6 @@
 +++
 title = 'Open Pull Requests'
-date = 2025-10-13
+date = 2025-10-14
 +++
 
 ## Organization: nethserver
@@ -13,19 +13,22 @@ date = 2025-10-13
 -  :zzz: **[Update PIP requirements for the Agent python 3.11 environment](https://github.com/NethServer/ns8-core/pull/934)** by *stephdl* - Reviewers: *DavidePrincipi* - Created at: 2025-09-10T15:54:36Z
 - :eyes: :zzz: **[Add installation support for Python 3.13 & Debian 13](https://github.com/NethServer/ns8-core/pull/930)** by *stephdl* - Reviewers: *None* - Created at: 2025-09-04T09:04:20Z
 
+### NethServer/ns8-webserver 1 
+
+- :eyes:  **[Add calendar extension to PHP extensions list in Containerfile](https://github.com/NethServer/ns8-webserver/pull/108)** by *stephdl* - Reviewers: *None* - Created at: 2025-10-13T16:05:56Z
+
 ### NethServer/ns8-webtop 1 
 
 -   **[Enhance Let's Encrypt certificate management and error handling](https://github.com/NethServer/ns8-webtop/pull/157)** by *stephdl* - Reviewers: *andre8244* - Created at: 2025-10-02T14:40:30Z
 
-### NethServer/ns8-crowdsec 3 
+### NethServer/ns8-crowdsec 2 
 
-- :eyes:  **[Add dynamic bantime duration configuration](https://github.com/NethServer/ns8-crowdsec/pull/103)** by *stephdl* - Reviewers: *None* - Created at: 2025-10-09T15:51:21Z
--   **[Add dynamic ban time mode selection](https://github.com/NethServer/ns8-crowdsec/pull/102)** by *stephdl* - Reviewers: *DavidePrincipi, andre8244* - Created at: 2025-10-09T08:11:16Z
+-   **[Add dynamic bantime duration configuration](https://github.com/NethServer/ns8-crowdsec/pull/103)** by *stephdl* - Reviewers: *andre8244* - Created at: 2025-10-09T15:51:21Z
 - :eyes:  **[Update Crowdsec image version and add environment variable](https://github.com/NethServer/ns8-crowdsec/pull/100)** by *stephdl* - Reviewers: *None* - Created at: 2025-10-08T14:39:47Z
 
 ### NethServer/ns8-ejabberd 1 
 
--   **[Enhance Let's Encrypt certificate management and settings](https://github.com/NethServer/ns8-ejabberd/pull/70)** by *stephdl* - Reviewers: *andre8244* - Created at: 2025-10-03T09:28:20Z
+- :eyes:  **[Enhance Let's Encrypt certificate management and settings](https://github.com/NethServer/ns8-ejabberd/pull/70)** by *stephdl* - Reviewers: *None* - Created at: 2025-10-03T09:28:20Z
 
 ### NethServer/nethsecurity-docs 3 
 
@@ -59,9 +62,8 @@ date = 2025-10-13
 
 -  :zzz: **[Removed old notification service usage](https://github.com/nethesis/nethcti-app-iphone/pull/37)** by *NicolaMrAPPs* - Reviewers: *b9874e* - Created at: 2023-08-02T09:19:30Z
 
-### nethesis/ns8-nethvoice 4 
+### nethesis/ns8-nethvoice 3 
 
--   **[Wss fixes](https://github.com/nethesis/ns8-nethvoice/pull/555)** by *Stell0* - Reviewers: *Amygos* - Created at: 2025-10-07T16:08:52Z
 - :eyes:  **[feat: added MQTT client with websocket broadcast](https://github.com/nethesis/ns8-nethvoice/pull/552)** by *edospadoni* - Reviewers: *None* - Created at: 2025-09-29T10:46:28Z
 - :eyes:  **[fix(imageroot): update user_dbconn entries](https://github.com/nethesis/ns8-nethvoice/pull/549)** by *Amygos* - Reviewers: *None* - Created at: 2025-09-24T10:48:16Z
 - :eyes:  **[fix(freepbx): enable main extension on queue operation only if que_toggle is enabled](https://github.com/nethesis/ns8-nethvoice/pull/547)** by *Stell0* - Reviewers: *None* - Created at: 2025-09-18T08:02:45Z
