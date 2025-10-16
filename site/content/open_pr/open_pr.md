@@ -1,17 +1,21 @@
 +++
 title = 'Open Pull Requests'
-date = 2025-10-15
+date = 2025-10-16
 +++
 
 ## Organization: nethserver
 
 ### NethServer/ns8-core 5 
 
-- :eyes:  **[feat: add list-nodes action](https://github.com/NethServer/ns8-core/pull/956)** by *DavidePrincipi* - Reviewers: *None* - Created at: 2025-10-09T15:49:09Z
--   **[Add Let's Encrypt tips and warnings to translations](https://github.com/NethServer/ns8-core/pull/955)** by *stephdl* - Reviewers: *DavidePrincipi* - Created at: 2025-10-09T10:43:40Z
+-   **[fix(agent): replace set_default_certificate()](https://github.com/NethServer/ns8-core/pull/959)** by *DavidePrincipi* - Reviewers: *stephdl* - Created at: 2025-10-15T15:15:15Z
+- :eyes:  **[feat: add actions list-nodes and list-alerts ](https://github.com/NethServer/ns8-core/pull/956)** by *DavidePrincipi* - Reviewers: *None* - Created at: 2025-10-09T15:49:09Z
 - :eyes:  **[refactor: update db api to use single connection and reduce SQLite lock contention](https://github.com/NethServer/ns8-core/pull/942)** by *Elia-Renzoni* - Reviewers: *None* - Created at: 2025-09-24T09:35:26Z
 - :eyes:  **[Reduce api-server audit event types](https://github.com/NethServer/ns8-core/pull/940)** by *Elia-Renzoni* - Reviewers: *None* - Created at: 2025-09-22T12:54:21Z
 -  :zzz: **[Update PIP requirements for the Agent python 3.11 environment](https://github.com/NethServer/ns8-core/pull/934)** by *stephdl* - Reviewers: *DavidePrincipi* - Created at: 2025-09-10T15:54:36Z
+
+### NethServer/ns8-kickstart 1 
+
+-   **[ci: fix renovate configuration](https://github.com/NethServer/ns8-kickstart/pull/70)** by *andre8244* - Reviewers: *Tbaile* - Created at: 2025-10-15T14:38:25Z
 
 ### NethServer/ns8-webserver 1 
 
@@ -21,26 +25,25 @@ date = 2025-10-15
 
 -   **[Enhance Nextcloud configuration and Traefik integration](https://github.com/NethServer/ns8-nextcloud/pull/160)** by *stephdl* - Reviewers: *DavidePrincipi, andre8244* - Created at: 2025-10-14T10:47:12Z
 
-### NethServer/ns8-traefik 1 
+### NethServer/ns8-minio 1 
 
--   **[Automatic TLS certificates with set-certificate](https://github.com/NethServer/ns8-traefik/pull/115)** by *DavidePrincipi* - Reviewers: *Amygos* - Created at: 2025-10-14T15:30:25Z
+-   **[Update Traefik configuration and environment setup](https://github.com/NethServer/ns8-minio/pull/14)** by *stephdl* - Reviewers: *DavidePrincipi, andre8244* - Created at: 2025-10-15T15:17:35Z
 
 ### NethServer/ns8-mattermost 1 
 
--   **[Add Traefik configuration and enhance settings component](https://github.com/NethServer/ns8-mattermost/pull/119)** by *stephdl* - Reviewers: *DavidePrincipi, andre8244* - Created at: 2025-10-14T13:45:21Z
+-   **[Add Traefik configuration and enhance settings component](https://github.com/NethServer/ns8-mattermost/pull/119)** by *stephdl* - Reviewers: *andre8244* - Created at: 2025-10-14T13:45:21Z
 
 ### NethServer/ns8-webtop 1 
 
 - :eyes:  **[Enhance Let's Encrypt certificate management and error handling](https://github.com/NethServer/ns8-webtop/pull/157)** by *stephdl* - Reviewers: *None* - Created at: 2025-10-02T14:40:30Z
 
-### NethServer/ns8-crowdsec 2 
+### NethServer/ns8-crowdsec 1 
 
--   **[Add dynamic bantime duration configuration](https://github.com/NethServer/ns8-crowdsec/pull/103)** by *stephdl* - Reviewers: *DavidePrincipi, andre8244* - Created at: 2025-10-09T15:51:21Z
 - :eyes:  **[Update Crowdsec image version and add environment variable](https://github.com/NethServer/ns8-crowdsec/pull/100)** by *stephdl* - Reviewers: *None* - Created at: 2025-10-08T14:39:47Z
 
 ### NethServer/ns8-ejabberd 1 
 
-- :eyes:  **[Enhance Let's Encrypt certificate management and settings](https://github.com/NethServer/ns8-ejabberd/pull/70)** by *stephdl* - Reviewers: *None* - Created at: 2025-10-03T09:28:20Z
+-   **[Enhance Let's Encrypt certificate management and settings](https://github.com/NethServer/ns8-ejabberd/pull/70)** by *stephdl* - Reviewers: *DavidePrincipi* - Created at: 2025-10-03T09:28:20Z
 
 ### NethServer/nethsecurity-docs 3 
 
@@ -78,12 +81,11 @@ date = 2025-10-15
 
 -  :zzz: **[Removed old notification service usage](https://github.com/nethesis/nethcti-app-iphone/pull/37)** by *NicolaMrAPPs* - Reviewers: *b9874e* - Created at: 2023-08-02T09:19:30Z
 
-### nethesis/ns8-nethvoice 4 
+### nethesis/ns8-nethvoice 3 
 
-- :eyes:  **[chore: update build-images.sh for nethcti-middleware:v0.3.1](https://github.com/nethesis/ns8-nethvoice/pull/556)** by *edospadoni* - Reviewers: *None* - Created at: 2025-10-14T14:42:18Z
+- :eyes:  **[Daily CDR cleanup service and timer](https://github.com/nethesis/ns8-nethvoice/pull/557)** by *Amygos* - Reviewers: *None* - Created at: 2025-10-15T11:19:50Z
 - :eyes:  **[feat: added MQTT client with websocket broadcast](https://github.com/nethesis/ns8-nethvoice/pull/552)** by *edospadoni* - Reviewers: *None* - Created at: 2025-09-29T10:46:28Z
 - :eyes:  **[fix(imageroot): update user_dbconn entries](https://github.com/nethesis/ns8-nethvoice/pull/549)** by *Amygos* - Reviewers: *None* - Created at: 2025-09-24T10:48:16Z
-- :eyes:  **[fix(freepbx): enable main extension on queue operation only if que_toggle is enabled](https://github.com/nethesis/ns8-nethvoice/pull/547)** by *Stell0* - Reviewers: *None* - Created at: 2025-09-18T08:02:45Z
 
 ### nethesis/ns8-nethvoice-proxy 1 
 

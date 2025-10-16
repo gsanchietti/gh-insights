@@ -1,19 +1,20 @@
 +++
-title = 'Need testing (9)'
-date = 2025-10-15
+title = 'Need testing (10)'
+date = 2025-10-16
 +++
+
+## NethServer
+- :point_right: **[Dynamic bantime slider is not show when dynamic ban is enabled](https://github.com/NethServer/dev/issues/7678)** (#7504) by *stephdl* (Created: 2025-10-08, Updated: 2025-10-15T13:38:04Z)
+- :point_right: **[Update ns8-piler to piler 1.4.8](https://github.com/NethServer/dev/issues/7516)** (#7504) by *stephdl* (Created: 2025-06-19, Updated: 2025-10-08T13:48:07Z)
 
 ## NethVoice
 - :point_right: **[NethLink: does not accept uppercase in username](https://github.com/NethServer/dev/issues/7656)** (#7504) by *viktec* (Created: 2025-09-25, Updated: 2025-09-29T11:52:18Z)
 - :point_right: **[NethCTI: editing a company contact shows Person selected in the kind radio button](https://github.com/NethServer/dev/issues/7646)** (#7504) by *viktec* (Created: 2025-09-22, Updated: 2025-09-29T11:51:59Z)
-- :point_right: **[NethVoice CTI: pagination and filters in call history do not work correctly](https://github.com/NethServer/dev/issues/7639)** (#7504) by *viktec* (Created: 2025-09-19, Updated: 2025-09-29T11:51:36Z)
+- :point_right: **[NethVoice CTI: pagination and filters in call history do not work correctly](https://github.com/NethServer/dev/issues/7639)** (#7504) by *viktec* (Created: 2025-09-19, Updated: 2025-10-15T16:38:22Z)
 - :point_right: **[NethVoice: enable websocket transport](https://github.com/NethServer/dev/issues/7611)** (#7504) by *Stell0* (Created: 2025-09-02, Updated: 2025-10-13T13:12:32Z)
-- :point_right: **[NethVoice CTI: Phone Island does not handle "Busy" state correctly when calling a busy extension](https://github.com/NethServer/dev/issues/7599)** (#7504) by *mgarra* (Created: 2025-08-07, Updated: 2025-09-29T11:51:14Z)
+- :point_right: **[NethVoice CTI: Phone Island does not handle "Busy" state correctly when calling a busy extension](https://github.com/NethServer/dev/issues/7599)** (#7504) by *mgarra* (Created: 2025-08-07, Updated: 2025-10-15T16:37:47Z)
 - :point_right: **[NethVoice Proxy: Implement GNR trunks configuration UI](https://github.com/NethServer/dev/issues/7578)** (#7504) by *Amygos* (Created: 2025-07-29, Updated: 2025-10-13T08:29:24Z)
-- :point_right: **[NethCTI Middleware](https://github.com/NethServer/dev/issues/7504)** (#7504) by *edospadoni* (Created: 2025-06-16, Updated: 2025-10-14T13:50:54Z)
-
-## NethServer
-- :point_right: **[Update ns8-piler to piler 1.4.8](https://github.com/NethServer/dev/issues/7516)** (#7504) by *stephdl* (Created: 2025-06-19, Updated: 2025-10-08T13:48:07Z)
+- :point_right: **[NethCTI Middleware](https://github.com/NethServer/dev/issues/7504)** (#7504) by *edospadoni* (Created: 2025-06-16, Updated: 2025-10-15T09:59:14Z)
 
 ## NethSecurity
 - :point_right: **[High Availability: multiple improvements](https://github.com/NethServer/nethsecurity/issues/1380)** (#1380) by *gsanchietti* (Created: 2025-09-26, Updated: 2025-10-09T09:43:54Z)
