@@ -2,7 +2,7 @@
 
 title = 'To be released soon'
 
-date = 2025-10-17
+date = 2025-10-18
 
 +++
 
@@ -15,6 +15,12 @@ date = 2025-10-17
 - [NethVoice CTI: pagination and filters in call history do not work correctly](https://github.com/NethServer/dev/issues/7639) (#7504) by viktec (Created: 2025-09-19T09:54:10Z, Updated: 2025-10-16T13:12:38Z)
 
 - [Nethvoice clone fails when a module is moved two times](https://github.com/NethServer/dev/issues/7616) (#7504) by Stell0 (Created: 2025-09-03T15:41:54Z, Updated: 2025-10-14T06:37:11Z)
+
+- [NethVoice: enable websocket transport](https://github.com/NethServer/dev/issues/7611) (#7504) by Stell0 (Created: 2025-09-02T08:05:52Z, Updated: 2025-10-17T14:47:23Z)
+
+- [NethVoice CTI: Phone Island does not handle "Busy" state correctly when calling a busy extension](https://github.com/NethServer/dev/issues/7599) (#7504) by mgarra (Created: 2025-08-07T08:25:09Z, Updated: 2025-10-17T09:54:11Z)
+
+- [NethVoice Proxy: Implement GNR trunks configuration UI](https://github.com/NethServer/dev/issues/7578) (#7504) by Amygos (Created: 2025-07-29T15:50:18Z, Updated: 2025-10-17T12:34:33Z)
 
 - [NethVoice: simultaneous phonebook-update timers cause resource spikes](https://github.com/NethServer/dev/issues/7555) (#7504) by Amygos (Created: 2025-07-16T08:21:13Z, Updated: 2025-10-14T13:33:55Z)
 

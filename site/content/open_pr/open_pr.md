@@ -1,14 +1,13 @@
 +++
 title = 'Open Pull Requests'
-date = 2025-10-17
+date = 2025-10-18
 +++
 
 ## Organization: nethserver
 
-### NethServer/ns8-core 3 
+### NethServer/ns8-core 2 
 
 - :eyes:  **[fix(clone): ignore xattr system namespace](https://github.com/NethServer/ns8-core/pull/960)** by *DavidePrincipi* - Reviewers: *None* - Created at: 2025-10-16T11:02:03Z
--   **[fix(agent): replace set_default_certificate()](https://github.com/NethServer/ns8-core/pull/959)** by *DavidePrincipi* - Reviewers: *stephdl* - Created at: 2025-10-15T15:15:15Z
 - :eyes: :zzz: **[Prevent Restic "permission denied" errors during restore](https://github.com/NethServer/ns8-core/pull/920)** by *DavidePrincipi* - Reviewers: *None* - Created at: 2025-08-06T13:18:54Z
 
 ### NethServer/ns8-webserver 1 
@@ -21,27 +20,32 @@ date = 2025-10-17
 
 ### NethServer/ns8-minio 1 
 
--   **[Update Traefik configuration and environment setup](https://github.com/NethServer/ns8-minio/pull/14)** by *stephdl* - Reviewers: *andre8244* - Created at: 2025-10-15T15:17:35Z
+- :eyes:  **[Update Traefik configuration and environment setup](https://github.com/NethServer/ns8-minio/pull/14)** by *stephdl* - Reviewers: *None* - Created at: 2025-10-15T15:17:35Z
 
 ### NethServer/nethsecurity 1 
 
 -   **[fix(ns-ha): send gratuitous ARP for WANs](https://github.com/NethServer/nethsecurity/pull/1400)** by *gsanchietti* - Reviewers: *filippocarletti* - Created at: 2025-10-16T08:58:51Z
 
+### NethServer/ns8-nethsecurity-controller 1 
+
+- :eyes:  **[Refactor Traefik route configuration and update lets_encrypt handling](https://github.com/NethServer/ns8-nethsecurity-controller/pull/121)** by *stephdl* - Reviewers: *None* - Created at: 2025-10-17T14:11:37Z
+
 ### NethServer/ns8-mattermost 1 
 
--   **[Add Traefik configuration and enhance settings component](https://github.com/NethServer/ns8-mattermost/pull/119)** by *stephdl* - Reviewers: *andre8244* - Created at: 2025-10-14T13:45:21Z
+- :eyes:  **[Add Traefik configuration and enhance settings component](https://github.com/NethServer/ns8-mattermost/pull/119)** by *stephdl* - Reviewers: *None* - Created at: 2025-10-14T13:45:21Z
 
-### NethServer/ns8-webtop 1 
+### NethServer/ns8-webtop 2 
 
+-   **[fix: restore environment variable and exit code assertions](https://github.com/NethServer/ns8-webtop/pull/160)** by *stephdl* - Reviewers: *DavidePrincipi* - Created at: 2025-10-17T14:15:05Z
 - :eyes:  **[Enhance Let's Encrypt certificate management and error handling](https://github.com/NethServer/ns8-webtop/pull/157)** by *stephdl* - Reviewers: *None* - Created at: 2025-10-02T14:40:30Z
 
 ### NethServer/ns8-roundcubemail 1 
 
-- :eyes:  **[Add Traefik configuration and enhance Lets Encrypt handling](https://github.com/NethServer/ns8-roundcubemail/pull/59)** by *stephdl* - Reviewers: *None* - Created at: 2025-10-16T15:21:00Z
+-   **[Add Traefik configuration and enhance Lets Encrypt handling](https://github.com/NethServer/ns8-roundcubemail/pull/59)** by *stephdl* - Reviewers: *andre8244* - Created at: 2025-10-16T15:21:00Z
 
 ### NethServer/ns8-piler 1 
 
--   **[Add Traefik configuration and enhance loading state management](https://github.com/NethServer/ns8-piler/pull/48)** by *stephdl* - Reviewers: *DavidePrincipi, andre8244* - Created at: 2025-10-16T10:14:03Z
+- :eyes:  **[Add Traefik configuration and enhance loading state management](https://github.com/NethServer/ns8-piler/pull/48)** by *stephdl* - Reviewers: *None* - Created at: 2025-10-16T10:14:03Z
 
 ### NethServer/ns8-crowdsec 1 
 
@@ -50,6 +54,14 @@ date = 2025-10-17
 ### NethServer/ns8-ejabberd 1 
 
 -   **[Enhance Let's Encrypt certificate management and settings](https://github.com/NethServer/ns8-ejabberd/pull/70)** by *stephdl* - Reviewers: *DavidePrincipi* - Created at: 2025-10-03T09:28:20Z
+
+### NethServer/ns8-images 1 
+
+-   **[fix: rebase on Rocky Linux 9.6](https://github.com/NethServer/ns8-images/pull/11)** by *DavidePrincipi* - Reviewers: *Amygos* - Created at: 2025-10-17T14:05:52Z
+
+### NethServer/nethsecurity-ui 1 
+
+- :eyes:  **[chore(main): release 2.7.2](https://github.com/NethServer/nethsecurity-ui/pull/659)** by *Tbaile* - Reviewers: *None* - Created at: 2025-10-17T12:06:21Z
 
 ### NethServer/nethsecurity-docs 3 
 
@@ -89,9 +101,13 @@ date = 2025-10-17
 
 ### nethesis/ns8-nethvoice 3 
 
--   **[Daily CDR cleanup service and timer](https://github.com/nethesis/ns8-nethvoice/pull/557)** by *Amygos* - Reviewers: *gsanchietti* - Created at: 2025-10-15T11:19:50Z
+- :eyes:  **[Daily CDR cleanup service and timer](https://github.com/nethesis/ns8-nethvoice/pull/557)** by *Amygos* - Reviewers: *None* - Created at: 2025-10-15T11:19:50Z
 - :eyes:  **[feat: added MQTT client with websocket broadcast](https://github.com/nethesis/ns8-nethvoice/pull/552)** by *edospadoni* - Reviewers: *None* - Created at: 2025-09-29T10:46:28Z
 - :eyes:  **[fix(imageroot): update user_dbconn entries](https://github.com/nethesis/ns8-nethvoice/pull/549)** by *Amygos* - Reviewers: *None* - Created at: 2025-09-24T10:48:16Z
+
+### nethesis/phone-island 1 
+
+- :eyes:  **[fix: avoid double phone-island if NethLink is open](https://github.com/nethesis/phone-island/pull/117)** by *tonyco97* - Reviewers: *None* - Created at: 2025-10-17T15:33:22Z
 
 ### nethesis/ns8-nethvoice-proxy 1 
 
