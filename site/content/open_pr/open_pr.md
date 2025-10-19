@@ -1,6 +1,6 @@
 +++
 title = 'Open Pull Requests'
-date = 2025-10-18
+date = 2025-10-19
 +++
 
 ## Organization: nethserver
@@ -55,6 +55,10 @@ date = 2025-10-18
 
 -   **[Enhance Let's Encrypt certificate management and settings](https://github.com/NethServer/ns8-ejabberd/pull/70)** by *stephdl* - Reviewers: *DavidePrincipi* - Created at: 2025-10-03T09:28:20Z
 
+### NethServer/ns8-docs 1 
+
+- :eyes:  **[Add note that NS8 is not running in LXC](https://github.com/NethServer/ns8-docs/pull/198)** by *mrmarkuz* - Reviewers: *None* - Created at: 2025-10-18T23:41:13Z
+
 ### NethServer/ns8-images 1 
 
 -   **[fix: rebase on Rocky Linux 9.6](https://github.com/NethServer/ns8-images/pull/11)** by *DavidePrincipi* - Reviewers: *Amygos* - Created at: 2025-10-17T14:05:52Z
@@ -76,6 +80,10 @@ date = 2025-10-18
 ### NethServer/ns8-sogo 1 
 
 - :eyes: :zzz: **[Fix typos in customization in README.md](https://github.com/NethServer/ns8-sogo/pull/44)** by *mrmarkuz* - Reviewers: *None* - Created at: 2025-09-03T06:35:30Z
+
+### NethServer/ns8-wordpress 1 
+
+- :eyes:  **[Install calendar PHP extension in build-images.sh](https://github.com/NethServer/ns8-wordpress/pull/27)** by *stephdl* - Reviewers: *None* - Created at: 2025-10-18T08:16:45Z
 
 ### NethServer/nethlink 1 
 
