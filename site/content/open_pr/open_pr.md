@@ -1,6 +1,6 @@
 +++
 title = 'Open Pull Requests'
-date = 2025-10-19
+date = 2025-10-20
 +++
 
 ## Organization: nethserver
@@ -9,6 +9,10 @@ date = 2025-10-19
 
 - :eyes:  **[fix(clone): ignore xattr system namespace](https://github.com/NethServer/ns8-core/pull/960)** by *DavidePrincipi* - Reviewers: *None* - Created at: 2025-10-16T11:02:03Z
 - :eyes: :zzz: **[Prevent Restic "permission denied" errors during restore](https://github.com/NethServer/ns8-core/pull/920)** by *DavidePrincipi* - Reviewers: *None* - Created at: 2025-08-06T13:18:54Z
+
+### NethServer/ns8-dokuwiki 1 
+
+- :eyes:  **[Only copy existing variables on restore](https://github.com/NethServer/ns8-dokuwiki/pull/51)** by *epetersen-lab* - Reviewers: *None* - Created at: 2025-10-19T20:32:14Z
 
 ### NethServer/ns8-webserver 1 
 
@@ -127,7 +131,7 @@ date = 2025-10-19
 
 ### nethesis/satellite 1 
 
-- :eyes:  **[feature(api): diarized transcription api](https://github.com/nethesis/satellite/pull/4)** by *Stell0* - Reviewers: *None* - Created at: 2025-09-19T07:28:04Z
+- :eyes: :zzz: **[feature(api): diarized transcription api](https://github.com/nethesis/satellite/pull/4)** by *Stell0* - Reviewers: *None* - Created at: 2025-09-19T07:28:04Z
 
 ### nethesis/nethcti-middleware 1 
 
