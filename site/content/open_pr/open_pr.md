@@ -1,22 +1,21 @@
 +++
 title = 'Open Pull Requests'
-date = 2025-10-20
+date = 2025-10-21
 +++
 
 ## Organization: nethserver
 
-### NethServer/ns8-core 2 
+### NethServer/nethserver-squid 1 
 
-- :eyes:  **[fix(clone): ignore xattr system namespace](https://github.com/NethServer/ns8-core/pull/960)** by *DavidePrincipi* - Reviewers: *None* - Created at: 2025-10-16T11:02:03Z
-- :eyes: :zzz: **[Prevent Restic "permission denied" errors during restore](https://github.com/NethServer/ns8-core/pull/920)** by *DavidePrincipi* - Reviewers: *None* - Created at: 2025-08-06T13:18:54Z
+-   **[fix: add mitigation for CVE-2025-62168](https://github.com/NethServer/nethserver-squid/pull/82)** by *filippocarletti* - Reviewers: *gsanchietti* - Created at: 2025-10-20T15:57:36Z
 
 ### NethServer/ns8-dokuwiki 1 
 
-- :eyes:  **[Only copy existing variables on restore](https://github.com/NethServer/ns8-dokuwiki/pull/51)** by *epetersen-lab* - Reviewers: *None* - Created at: 2025-10-19T20:32:14Z
+-   **[Add PHP environment setup script and refactor existing configurations](https://github.com/NethServer/ns8-dokuwiki/pull/52)** by *stephdl* - Reviewers: *DavidePrincipi* - Created at: 2025-10-20T09:53:10Z
 
 ### NethServer/ns8-webserver 1 
 
-- :eyes:  **[Add calendar extension to PHP extensions list in Containerfile](https://github.com/NethServer/ns8-webserver/pull/108)** by *stephdl* - Reviewers: *None* - Created at: 2025-10-13T16:05:56Z
+- :eyes:  **[Add calendar and imap extension to PHP extensions list in Containerfile](https://github.com/NethServer/ns8-webserver/pull/108)** by *stephdl* - Reviewers: *None* - Created at: 2025-10-13T16:05:56Z
 
 ### NethServer/ns8-nextcloud 1 
 
@@ -25,10 +24,6 @@ date = 2025-10-20
 ### NethServer/ns8-minio 1 
 
 - :eyes:  **[Update Traefik configuration and environment setup](https://github.com/NethServer/ns8-minio/pull/14)** by *stephdl* - Reviewers: *None* - Created at: 2025-10-15T15:17:35Z
-
-### NethServer/nethsecurity 1 
-
--   **[fix(ns-ha): send gratuitous ARP for WANs](https://github.com/NethServer/nethsecurity/pull/1400)** by *gsanchietti* - Reviewers: *filippocarletti* - Created at: 2025-10-16T08:58:51Z
 
 ### NethServer/ns8-nethsecurity-controller 1 
 
@@ -45,7 +40,7 @@ date = 2025-10-20
 
 ### NethServer/ns8-roundcubemail 1 
 
--   **[Add Traefik configuration and enhance Lets Encrypt handling](https://github.com/NethServer/ns8-roundcubemail/pull/59)** by *stephdl* - Reviewers: *andre8244* - Created at: 2025-10-16T15:21:00Z
+- :eyes:  **[Add Traefik configuration and enhance Lets Encrypt handling](https://github.com/NethServer/ns8-roundcubemail/pull/59)** by *stephdl* - Reviewers: *None* - Created at: 2025-10-16T15:21:00Z
 
 ### NethServer/ns8-piler 1 
 
@@ -57,15 +52,11 @@ date = 2025-10-20
 
 ### NethServer/ns8-ejabberd 1 
 
--   **[Enhance Let's Encrypt certificate management and settings](https://github.com/NethServer/ns8-ejabberd/pull/70)** by *stephdl* - Reviewers: *DavidePrincipi* - Created at: 2025-10-03T09:28:20Z
-
-### NethServer/ns8-docs 1 
-
-- :eyes:  **[Add note that NS8 is not running in LXC](https://github.com/NethServer/ns8-docs/pull/198)** by *mrmarkuz* - Reviewers: *None* - Created at: 2025-10-18T23:41:13Z
+- :eyes:  **[Enhance Let's Encrypt certificate management and settings](https://github.com/NethServer/ns8-ejabberd/pull/70)** by *stephdl* - Reviewers: *None* - Created at: 2025-10-03T09:28:20Z
 
 ### NethServer/ns8-images 1 
 
--   **[fix: rebase on Rocky Linux 9.6](https://github.com/NethServer/ns8-images/pull/11)** by *DavidePrincipi* - Reviewers: *Amygos* - Created at: 2025-10-17T14:05:52Z
+- :eyes:  **[fix: rebase on Rocky Linux 9.6](https://github.com/NethServer/ns8-images/pull/11)** by *DavidePrincipi* - Reviewers: *None* - Created at: 2025-10-17T14:05:52Z
 
 ### NethServer/nethsecurity-ui 1 
 
@@ -117,9 +108,9 @@ date = 2025-10-20
 - :eyes:  **[feat: added MQTT client with websocket broadcast](https://github.com/nethesis/ns8-nethvoice/pull/552)** by *edospadoni* - Reviewers: *None* - Created at: 2025-09-29T10:46:28Z
 - :eyes:  **[fix(imageroot): update user_dbconn entries](https://github.com/nethesis/ns8-nethvoice/pull/549)** by *Amygos* - Reviewers: *None* - Created at: 2025-09-24T10:48:16Z
 
-### nethesis/phone-island 1 
+### nethesis/nethvoice-cti 1 
 
-- :eyes:  **[fix: avoid double phone-island if NethLink is open](https://github.com/nethesis/phone-island/pull/117)** by *tonyco97* - Reviewers: *None* - Created at: 2025-10-17T15:33:22Z
+- :eyes:  **[fix: avoid UI error in case of operator ringing](https://github.com/nethesis/nethvoice-cti/pull/341)** by *tonyco97* - Reviewers: *None* - Created at: 2025-10-20T07:53:23Z
 
 ### nethesis/ns8-nethvoice-proxy 1 
 
