@@ -1,13 +1,9 @@
 +++
 title = 'Open Pull Requests'
-date = 2025-10-21
+date = 2025-10-22
 +++
 
 ## Organization: nethserver
-
-### NethServer/nethserver-squid 1 
-
--   **[fix: add mitigation for CVE-2025-62168](https://github.com/NethServer/nethserver-squid/pull/82)** by *filippocarletti* - Reviewers: *gsanchietti* - Created at: 2025-10-20T15:57:36Z
 
 ### NethServer/ns8-dokuwiki 1 
 
@@ -15,28 +11,31 @@ date = 2025-10-21
 
 ### NethServer/ns8-webserver 1 
 
-- :eyes:  **[Add calendar and imap extension to PHP extensions list in Containerfile](https://github.com/NethServer/ns8-webserver/pull/108)** by *stephdl* - Reviewers: *None* - Created at: 2025-10-13T16:05:56Z
+-   **[Add calendar and imap extension to PHP extensions list in Containerfile](https://github.com/NethServer/ns8-webserver/pull/108)** by *stephdl* - Reviewers: *DavidePrincipi* - Created at: 2025-10-13T16:05:56Z
 
 ### NethServer/ns8-nextcloud 1 
 
-- :eyes:  **[Enhance Nextcloud configuration and Traefik integration](https://github.com/NethServer/ns8-nextcloud/pull/160)** by *stephdl* - Reviewers: *None* - Created at: 2025-10-14T10:47:12Z
+-   **[Enhance Nextcloud configuration and Traefik integration](https://github.com/NethServer/ns8-nextcloud/pull/160)** by *stephdl* - Reviewers: *andre8244* - Created at: 2025-10-14T10:47:12Z
 
 ### NethServer/ns8-minio 1 
 
 - :eyes:  **[Update Traefik configuration and environment setup](https://github.com/NethServer/ns8-minio/pull/14)** by *stephdl* - Reviewers: *None* - Created at: 2025-10-15T15:17:35Z
 
+### NethServer/nethsecurity 1 
+
+- :eyes:  **[fix(reverse proxy): switch default certificate for all domains](https://github.com/NethServer/nethsecurity/pull/1403)** by *Tbaile* - Reviewers: *None* - Created at: 2025-10-21T13:19:34Z
+
 ### NethServer/ns8-nethsecurity-controller 1 
 
-- :eyes:  **[Refactor Traefik route configuration and update lets_encrypt handling](https://github.com/NethServer/ns8-nethsecurity-controller/pull/121)** by *stephdl* - Reviewers: *None* - Created at: 2025-10-17T14:11:37Z
+-   **[Refactor Traefik route configuration and update lets_encrypt handling](https://github.com/NethServer/ns8-nethsecurity-controller/pull/121)** by *stephdl* - Reviewers: *DavidePrincipi, andre8244* - Created at: 2025-10-17T14:11:37Z
 
 ### NethServer/ns8-mattermost 1 
 
-- :eyes:  **[Add Traefik configuration and enhance settings component](https://github.com/NethServer/ns8-mattermost/pull/119)** by *stephdl* - Reviewers: *None* - Created at: 2025-10-14T13:45:21Z
+-   **[Add Traefik configuration and enhance settings component](https://github.com/NethServer/ns8-mattermost/pull/119)** by *stephdl* - Reviewers: *DavidePrincipi, andre8244* - Created at: 2025-10-14T13:45:21Z
 
-### NethServer/ns8-webtop 2 
+### NethServer/ns8-webtop 1 
 
 -   **[fix: restore environment variable and exit code assertions](https://github.com/NethServer/ns8-webtop/pull/160)** by *stephdl* - Reviewers: *DavidePrincipi* - Created at: 2025-10-17T14:15:05Z
-- :eyes:  **[Enhance Let's Encrypt certificate management and error handling](https://github.com/NethServer/ns8-webtop/pull/157)** by *stephdl* - Reviewers: *None* - Created at: 2025-10-02T14:40:30Z
 
 ### NethServer/ns8-roundcubemail 1 
 
@@ -44,19 +43,15 @@ date = 2025-10-21
 
 ### NethServer/ns8-piler 1 
 
-- :eyes:  **[Add Traefik configuration and enhance loading state management](https://github.com/NethServer/ns8-piler/pull/48)** by *stephdl* - Reviewers: *None* - Created at: 2025-10-16T10:14:03Z
+-   **[Add Traefik configuration and enhance loading state management](https://github.com/NethServer/ns8-piler/pull/48)** by *stephdl* - Reviewers: *andre8244* - Created at: 2025-10-16T10:14:03Z
 
 ### NethServer/ns8-crowdsec 1 
 
 - :eyes:  **[Update Crowdsec image version and add environment variable](https://github.com/NethServer/ns8-crowdsec/pull/100)** by *stephdl* - Reviewers: *None* - Created at: 2025-10-08T14:39:47Z
 
-### NethServer/ns8-ejabberd 1 
+### NethServer/ns8-docs 1 
 
-- :eyes:  **[Enhance Let's Encrypt certificate management and settings](https://github.com/NethServer/ns8-ejabberd/pull/70)** by *stephdl* - Reviewers: *None* - Created at: 2025-10-03T09:28:20Z
-
-### NethServer/ns8-images 1 
-
-- :eyes:  **[fix: rebase on Rocky Linux 9.6](https://github.com/NethServer/ns8-images/pull/11)** by *DavidePrincipi* - Reviewers: *None* - Created at: 2025-10-17T14:05:52Z
+- :eyes:  **[feat(install): pre-built image instructions](https://github.com/NethServer/ns8-docs/pull/199)** by *DavidePrincipi* - Reviewers: *None* - Created at: 2025-10-21T16:17:44Z
 
 ### NethServer/nethsecurity-ui 1 
 
@@ -76,19 +71,11 @@ date = 2025-10-21
 
 - :eyes: :zzz: **[Fix typos in customization in README.md](https://github.com/NethServer/ns8-sogo/pull/44)** by *mrmarkuz* - Reviewers: *None* - Created at: 2025-09-03T06:35:30Z
 
-### NethServer/ns8-wordpress 1 
-
-- :eyes:  **[Install calendar PHP extension in build-images.sh](https://github.com/NethServer/ns8-wordpress/pull/27)** by *stephdl* - Reviewers: *None* - Created at: 2025-10-18T08:16:45Z
-
 ### NethServer/nethlink 1 
 
 -  :zzz: **[feat: nethcti-middleware](https://github.com/NethServer/nethlink/pull/72)** by *tommaso-ascani* - Reviewers: *edospadoni, tonyco97* - Created at: 2025-09-08T07:14:17Z
 
 ## Organization: nethesis
-
-### nethesis/nethcti-server 1 
-
-- :eyes:  **[feat: return call and voicemail transcription statuses](https://github.com/nethesis/nethcti-server/pull/338)** by *edospadoni* - Reviewers: *None* - Created at: 2025-10-14T07:18:03Z
 
 ### nethesis/icaro 1 
 
@@ -102,19 +89,13 @@ date = 2025-10-21
 
 -  :zzz: **[Removed old notification service usage](https://github.com/nethesis/nethcti-app-iphone/pull/37)** by *NicolaMrAPPs* - Reviewers: *b9874e* - Created at: 2023-08-02T09:19:30Z
 
-### nethesis/ns8-nethvoice 3 
+### nethesis/ns8-nethvoice 1 
 
-- :eyes:  **[Daily CDR cleanup service and timer](https://github.com/nethesis/ns8-nethvoice/pull/557)** by *Amygos* - Reviewers: *None* - Created at: 2025-10-15T11:19:50Z
 - :eyes:  **[feat: added MQTT client with websocket broadcast](https://github.com/nethesis/ns8-nethvoice/pull/552)** by *edospadoni* - Reviewers: *None* - Created at: 2025-09-29T10:46:28Z
-- :eyes:  **[fix(imageroot): update user_dbconn entries](https://github.com/nethesis/ns8-nethvoice/pull/549)** by *Amygos* - Reviewers: *None* - Created at: 2025-09-24T10:48:16Z
 
 ### nethesis/nethvoice-cti 1 
 
 - :eyes:  **[fix: avoid UI error in case of operator ringing](https://github.com/nethesis/nethvoice-cti/pull/341)** by *tonyco97* - Reviewers: *None* - Created at: 2025-10-20T07:53:23Z
-
-### nethesis/ns8-nethvoice-proxy 1 
-
-- :eyes: :zzz: **[feat(kamailio): Enhance request routing and keepalive handling](https://github.com/nethesis/ns8-nethvoice-proxy/pull/85)** by *tommasinigiovanni* - Reviewers: *None* - Created at: 2025-09-12T13:58:47Z
 
 ### nethesis/parceler 1 
 
