@@ -1,9 +1,10 @@
 +++
-title = 'Need testing (4)'
-date = 2025-10-22
+title = 'Need testing (5)'
+date = 2025-10-23
 +++
 
 ## NethVoice
+- **[NethVoice CTI: Cannot manually enter numbers for line key configuration (only selectable from list)](https://github.com/NethServer/dev/issues/7683)** (#7516) by *mgarra* (Created: 2025-10-17, Updated: 2025-10-22T14:28:08Z)
 - :point_right: **[Nethvoice daily_cdr is't clean at the end of the day](https://github.com/NethServer/dev/issues/7658)** (#7516) by *Stell0* (Created: 2025-09-26, Updated: 2025-10-21T15:32:07Z)
 - :point_right: **[NethVoice: incorrect database port and password restored for customer card source](https://github.com/NethServer/dev/issues/7654)** (#7516) by *Amygos* (Created: 2025-09-24, Updated: 2025-10-21T15:32:30Z)
 

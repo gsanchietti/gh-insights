@@ -1,6 +1,6 @@
 +++
 title = 'Open Pull Requests'
-date = 2025-10-22
+date = 2025-10-23
 +++
 
 ## Organization: nethserver
@@ -15,27 +15,29 @@ date = 2025-10-22
 
 ### NethServer/ns8-nextcloud 1 
 
--   **[Enhance Nextcloud configuration and Traefik integration](https://github.com/NethServer/ns8-nextcloud/pull/160)** by *stephdl* - Reviewers: *andre8244* - Created at: 2025-10-14T10:47:12Z
+- :eyes:  **[Enhance Nextcloud configuration and Traefik integration](https://github.com/NethServer/ns8-nextcloud/pull/160)** by *stephdl* - Reviewers: *None* - Created at: 2025-10-14T10:47:12Z
 
 ### NethServer/ns8-minio 1 
 
 - :eyes:  **[Update Traefik configuration and environment setup](https://github.com/NethServer/ns8-minio/pull/14)** by *stephdl* - Reviewers: *None* - Created at: 2025-10-15T15:17:35Z
 
-### NethServer/nethsecurity 1 
+### NethServer/nethsecurity 3 
 
-- :eyes:  **[fix(reverse proxy): switch default certificate for all domains](https://github.com/NethServer/nethsecurity/pull/1403)** by *Tbaile* - Reviewers: *None* - Created at: 2025-10-21T13:19:34Z
+-   **[fix(ns-ha): do not start interfaces on boot on S](https://github.com/NethServer/nethsecurity/pull/1407)** by *filippocarletti* - Reviewers: *gsanchietti* - Created at: 2025-10-22T21:18:32Z
+-   **[fix(scan): fixed name resolution](https://github.com/NethServer/nethsecurity/pull/1406)** by *Tbaile* - Reviewers: *gsanchietti* - Created at: 2025-10-22T15:00:33Z
+-   **[fix(flashstart): allow bypasses to elude catch all](https://github.com/NethServer/nethsecurity/pull/1405)** by *Tbaile* - Reviewers: *gsanchietti* - Created at: 2025-10-22T14:45:36Z
 
 ### NethServer/ns8-nethsecurity-controller 1 
 
--   **[Refactor Traefik route configuration and update lets_encrypt handling](https://github.com/NethServer/ns8-nethsecurity-controller/pull/121)** by *stephdl* - Reviewers: *DavidePrincipi, andre8244* - Created at: 2025-10-17T14:11:37Z
+-   **[Refactor Traefik route configuration and update lets_encrypt handling](https://github.com/NethServer/ns8-nethsecurity-controller/pull/121)** by *stephdl* - Reviewers: *DavidePrincipi* - Created at: 2025-10-17T14:11:37Z
 
 ### NethServer/ns8-mattermost 1 
 
--   **[Add Traefik configuration and enhance settings component](https://github.com/NethServer/ns8-mattermost/pull/119)** by *stephdl* - Reviewers: *DavidePrincipi, andre8244* - Created at: 2025-10-14T13:45:21Z
+-   **[Add Traefik configuration and enhance settings component](https://github.com/NethServer/ns8-mattermost/pull/119)** by *stephdl* - Reviewers: *DavidePrincipi* - Created at: 2025-10-14T13:45:21Z
 
 ### NethServer/ns8-webtop 1 
 
--   **[fix: restore environment variable and exit code assertions](https://github.com/NethServer/ns8-webtop/pull/160)** by *stephdl* - Reviewers: *DavidePrincipi* - Created at: 2025-10-17T14:15:05Z
+- :eyes:  **[Remove deprecated environment script and improve variable access consistency](https://github.com/NethServer/ns8-webtop/pull/162)** by *stephdl* - Reviewers: *None* - Created at: 2025-10-22T10:08:24Z
 
 ### NethServer/ns8-roundcubemail 1 
 
@@ -43,18 +45,15 @@ date = 2025-10-22
 
 ### NethServer/ns8-piler 1 
 
--   **[Add Traefik configuration and enhance loading state management](https://github.com/NethServer/ns8-piler/pull/48)** by *stephdl* - Reviewers: *andre8244* - Created at: 2025-10-16T10:14:03Z
+- :eyes:  **[Add Traefik configuration and enhance loading state management](https://github.com/NethServer/ns8-piler/pull/48)** by *stephdl* - Reviewers: *None* - Created at: 2025-10-16T10:14:03Z
 
 ### NethServer/ns8-crowdsec 1 
 
 - :eyes:  **[Update Crowdsec image version and add environment variable](https://github.com/NethServer/ns8-crowdsec/pull/100)** by *stephdl* - Reviewers: *None* - Created at: 2025-10-08T14:39:47Z
 
-### NethServer/ns8-docs 1 
+### NethServer/nethsecurity-ui 2 
 
-- :eyes:  **[feat(install): pre-built image instructions](https://github.com/NethServer/ns8-docs/pull/199)** by *DavidePrincipi* - Reviewers: *None* - Created at: 2025-10-21T16:17:44Z
-
-### NethServer/nethsecurity-ui 1 
-
+-   **[fix(leases): fixed IP sorting in leases table](https://github.com/NethServer/nethsecurity-ui/pull/660)** by *Tbaile* - Reviewers: *andre8244* - Created at: 2025-10-22T08:07:10Z
 - :eyes:  **[chore(main): release 2.7.2](https://github.com/NethServer/nethsecurity-ui/pull/659)** by *Tbaile* - Reviewers: *None* - Created at: 2025-10-17T12:06:21Z
 
 ### NethServer/nethsecurity-docs 3 
@@ -88,14 +87,6 @@ date = 2025-10-22
 ### nethesis/nethcti-app-iphone 1 
 
 -  :zzz: **[Removed old notification service usage](https://github.com/nethesis/nethcti-app-iphone/pull/37)** by *NicolaMrAPPs* - Reviewers: *b9874e* - Created at: 2023-08-02T09:19:30Z
-
-### nethesis/ns8-nethvoice 1 
-
-- :eyes:  **[feat: added MQTT client with websocket broadcast](https://github.com/nethesis/ns8-nethvoice/pull/552)** by *edospadoni* - Reviewers: *None* - Created at: 2025-09-29T10:46:28Z
-
-### nethesis/nethvoice-cti 1 
-
-- :eyes:  **[fix: avoid UI error in case of operator ringing](https://github.com/nethesis/nethvoice-cti/pull/341)** by *tonyco97* - Reviewers: *None* - Created at: 2025-10-20T07:53:23Z
 
 ### nethesis/parceler 1 
 
