@@ -2,7 +2,7 @@
 
 title = 'To be released soon'
 
-date = 2025-10-23
+date = 2025-10-24
 
 +++
 
@@ -11,6 +11,8 @@ date = 2025-10-23
 - [Webtop does not restore environment variables from backup](https://github.com/NethServer/dev/issues/7684) (#7248) by stephdl (Created: 2025-10-17T14:00:25Z, Updated: 2025-10-22T13:09:48Z)
 
 ### NethVoice
+
+- [NethVoice CTI: Cannot manually enter numbers for line key configuration (only selectable from list)](https://github.com/NethServer/dev/issues/7683) (#7248) by mgarra (Created: 2025-10-17T13:16:11Z, Updated: 2025-10-23T13:09:44Z)
 
 - [NethLink: does not accept uppercase in username](https://github.com/NethServer/dev/issues/7656) (#7248) by viktec (Created: 2025-09-25T16:21:21Z, Updated: 2025-10-16T14:17:52Z)
 
