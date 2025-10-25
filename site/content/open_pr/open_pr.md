@@ -1,6 +1,6 @@
 +++
 title = 'Open Pull Requests'
-date = 2025-10-24
+date = 2025-10-25
 +++
 
 ## Organization: nethserver
@@ -32,7 +32,7 @@ date = 2025-10-24
 
 ### NethServer/ns8-mattermost 1 
 
--   **[Add Traefik configuration and enhance settings component](https://github.com/NethServer/ns8-mattermost/pull/119)** by *stephdl* - Reviewers: *DavidePrincipi* - Created at: 2025-10-14T13:45:21Z
+- :eyes:  **[Add Traefik configuration and enhance settings component](https://github.com/NethServer/ns8-mattermost/pull/119)** by *stephdl* - Reviewers: *None* - Created at: 2025-10-14T13:45:21Z
 
 ### NethServer/ns8-roundcubemail 1 
 
@@ -82,10 +82,6 @@ date = 2025-10-24
 ### nethesis/nethcti-app-iphone 1 
 
 -  :zzz: **[Removed old notification service usage](https://github.com/nethesis/nethcti-app-iphone/pull/37)** by *NicolaMrAPPs* - Reviewers: *b9874e* - Created at: 2023-08-02T09:19:30Z
-
-### nethesis/ns8-nethvoice 1 
-
-- :eyes:  **[fix: resolve port conflict between Asterisk WSS and NethCTI middleware](https://github.com/nethesis/ns8-nethvoice/pull/571)** by *edospadoni* - Reviewers: *None* - Created at: 2025-10-23T13:13:42Z
 
 ### nethesis/parceler 1 
 
