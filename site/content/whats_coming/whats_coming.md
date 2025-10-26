@@ -2,13 +2,13 @@
 
 title = 'To be released soon'
 
-date = 2025-10-25
+date = 2025-10-26
 
 +++
 
 ### NethServer
 
-- [Webtop clone action ignores Timezone and other variables](https://github.com/NethServer/dev/issues/7690) (#7248) by stephdl (Created: 2025-10-22T09:19:59Z, Updated: 2025-10-24T19:07:36Z)
+- [Webtop clone action ignores Timezone and other variables](https://github.com/NethServer/dev/issues/7690) (#7248) by stephdl (Created: 2025-10-22T09:19:59Z, Updated: 2025-10-25T07:24:09Z)
 
 - [Webtop does not restore environment variables from backup](https://github.com/NethServer/dev/issues/7684) (#7248) by stephdl (Created: 2025-10-17T14:00:25Z, Updated: 2025-10-22T13:09:48Z)
 
