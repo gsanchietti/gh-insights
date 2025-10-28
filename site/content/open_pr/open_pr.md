@@ -1,6 +1,6 @@
 +++
 title = 'Open Pull Requests'
-date = 2025-10-27
+date = 2025-10-28
 +++
 
 ## Organization: nethserver
@@ -21,8 +21,9 @@ date = 2025-10-27
 
 - :eyes:  **[Update Traefik configuration and environment setup](https://github.com/NethServer/ns8-minio/pull/14)** by *stephdl* - Reviewers: *None* - Created at: 2025-10-15T15:17:35Z
 
-### NethServer/nethsecurity 2 
+### NethServer/nethsecurity 3 
 
+-   **[chore: remove announce_updates](https://github.com/NethServer/nethsecurity/pull/1410)** by *gsanchietti* - Reviewers: *Tbaile* - Created at: 2025-10-27T08:25:26Z
 -   **[fix(scan): fixed name resolution](https://github.com/NethServer/nethsecurity/pull/1406)** by *Tbaile* - Reviewers: *gsanchietti* - Created at: 2025-10-22T15:00:33Z
 - :eyes:  **[fix(flashstart): allow bypasses to elude catch all](https://github.com/NethServer/nethsecurity/pull/1405)** by *Tbaile* - Reviewers: *None* - Created at: 2025-10-22T14:45:36Z
 
@@ -33,6 +34,10 @@ date = 2025-10-27
 ### NethServer/ns8-mattermost 1 
 
 - :eyes:  **[Add Traefik configuration and enhance settings component](https://github.com/NethServer/ns8-mattermost/pull/119)** by *stephdl* - Reviewers: *None* - Created at: 2025-10-14T13:45:21Z
+
+### NethServer/ns8-webtop 1 
+
+-   **[fix(configure-module): sync restart behavior](https://github.com/NethServer/ns8-webtop/pull/164)** by *DavidePrincipi* - Reviewers: *gsanchietti* - Created at: 2025-10-27T14:48:40Z
 
 ### NethServer/ns8-roundcubemail 1 
 
@@ -82,6 +87,10 @@ date = 2025-10-27
 ### nethesis/nethcti-app-iphone 1 
 
 -  :zzz: **[Removed old notification service usage](https://github.com/nethesis/nethcti-app-iphone/pull/37)** by *NicolaMrAPPs* - Reviewers: *b9874e* - Created at: 2023-08-02T09:19:30Z
+
+### nethesis/ns8-nethvoice 1 
+
+-   **[fix: allocated ports index](https://github.com/nethesis/ns8-nethvoice/pull/573)** by *edospadoni* - Reviewers: *Amygos* - Created at: 2025-10-27T12:59:56Z
 
 ### nethesis/parceler 1 
 

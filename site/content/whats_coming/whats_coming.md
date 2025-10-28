@@ -2,17 +2,15 @@
 
 title = 'To be released soon'
 
-date = 2025-10-27
+date = 2025-10-28
 
 +++
 
 ### NethServer
 
-- [Webtop clone action ignores Timezone and other variables](https://github.com/NethServer/dev/issues/7690) (#7248) by stephdl (Created: 2025-10-22T09:19:59Z, Updated: 2025-10-25T07:24:09Z)
-
 - [Webtop does not restore environment variables from backup](https://github.com/NethServer/dev/issues/7684) (#7248) by stephdl (Created: 2025-10-17T14:00:25Z, Updated: 2025-10-22T13:09:48Z)
 
-- [Let's Encrypt validation workflow for apps](https://github.com/NethServer/dev/issues/7669) (#7248) by DavidePrincipi (Created: 2025-10-02T07:25:40Z, Updated: 2025-10-24T19:05:42Z)
+- [Let's Encrypt validation workflow for apps](https://github.com/NethServer/dev/issues/7669) (#7248) by DavidePrincipi (Created: 2025-10-02T07:25:40Z, Updated: 2025-10-27T07:54:47Z)
 
 ### NethVoice
 
