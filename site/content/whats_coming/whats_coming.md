@@ -2,17 +2,13 @@
 
 title = 'To be released soon'
 
-date = 2025-10-28
+date = 2025-10-29
 
 +++
 
-### NethServer
-
-- [Webtop does not restore environment variables from backup](https://github.com/NethServer/dev/issues/7684) (#7248) by stephdl (Created: 2025-10-17T14:00:25Z, Updated: 2025-10-22T13:09:48Z)
-
-- [Let's Encrypt validation workflow for apps](https://github.com/NethServer/dev/issues/7669) (#7248) by DavidePrincipi (Created: 2025-10-02T07:25:40Z, Updated: 2025-10-27T07:54:47Z)
-
 ### NethVoice
+
+- [nethcti-middleware: Phone Island API key lacks subtype support](https://github.com/NethServer/dev/issues/7694) (#7248) by edospadoni (Created: 2025-10-23T07:45:39Z, Updated: 2025-10-28T14:48:01Z)
 
 - [NethVoice CTI: Cannot manually enter numbers for line key configuration (only selectable from list)](https://github.com/NethServer/dev/issues/7683) (#7248) by mgarra (Created: 2025-10-17T13:16:11Z, Updated: 2025-10-23T13:09:44Z)
 
