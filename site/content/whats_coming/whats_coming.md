@@ -2,11 +2,13 @@
 
 title = 'To be released soon'
 
-date = 2025-10-29
+date = 2025-10-30
 
 +++
 
 ### NethVoice
+
+- [NethVoice: port conflict causes CTI and App access failure on both migrated and fresh installations](https://github.com/NethServer/dev/issues/7695) (#7248) by Amygos (Created: 2025-10-23T14:48:56Z, Updated: 2025-10-29T16:40:50Z)
 
 - [nethcti-middleware: Phone Island API key lacks subtype support](https://github.com/NethServer/dev/issues/7694) (#7248) by edospadoni (Created: 2025-10-23T07:45:39Z, Updated: 2025-10-28T14:48:01Z)
 
@@ -21,6 +23,10 @@ date = 2025-10-29
 - [NethLink: Error when selecting speaker in Audio and Video Settings](https://github.com/NethServer/dev/issues/7538) (#7248) by viktec (Created: 2025-07-01T15:24:30Z, Updated: 2025-10-16T14:12:53Z)
 
 - [NethAI integration backend: voicemail transcription and call real time transcription in NethVoice CTI ](https://github.com/NethServer/dev/issues/7248) (#7248) by andrea-marchionni (Created: 2025-01-13T13:33:43Z, Updated: 2025-10-22T16:55:31Z)
+
+### NethServer
+
+- [Update Core Redis to 8.2](https://github.com/NethServer/dev/issues/7676) (#7248) by nrauso (Created: 2025-10-02T13:03:15Z, Updated: 2025-10-29T12:11:54Z)
 
 ### NethSecurity
 

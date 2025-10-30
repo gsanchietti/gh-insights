@@ -1,9 +1,14 @@
 +++
 title = 'Open Pull Requests'
-date = 2025-10-29
+date = 2025-10-30
 +++
 
 ## Organization: nethserver
+
+### NethServer/ns8-core 2 
+
+- :eyes:  **[Enhance node details and NS7 migration support](https://github.com/NethServer/ns8-core/pull/972)** by *stephdl* - Reviewers: *None* - Created at: 2025-10-29T17:06:45Z
+-  :zzz: **[Command for disk performance measurement ](https://github.com/NethServer/ns8-core/pull/915)** by *DavidePrincipi* - Reviewers: *nrauso* - Created at: 2025-08-01T15:43:40Z
 
 ### NethServer/ns8-dokuwiki 1 
 
@@ -23,7 +28,7 @@ date = 2025-10-29
 
 ### NethServer/ns8-traefik 1 
 
--   **[fix: cryptography 45 deprecation warning](https://github.com/NethServer/ns8-traefik/pull/120)** by *DavidePrincipi* - Reviewers: *stephdl* - Created at: 2025-10-28T08:48:29Z
+- :eyes:  **[fix: cryptography 45 deprecation warning](https://github.com/NethServer/ns8-traefik/pull/120)** by *DavidePrincipi* - Reviewers: *None* - Created at: 2025-10-28T08:48:29Z
 
 ### NethServer/nethsecurity 3 
 
@@ -56,13 +61,9 @@ date = 2025-10-29
 - :eyes:  **[fix(leases): fixed IP sorting in leases table](https://github.com/NethServer/nethsecurity-ui/pull/660)** by *Tbaile* - Reviewers: *None* - Created at: 2025-10-22T08:07:10Z
 - :eyes:  **[chore(main): release 2.7.2](https://github.com/NethServer/nethsecurity-ui/pull/659)** by *Tbaile* - Reviewers: *None* - Created at: 2025-10-17T12:06:21Z
 
-### NethServer/nethsecurity-docs 5 
+### NethServer/nethsecurity-docs 1 
 
--   **[HA new documentation](https://github.com/NethServer/nethsecurity-docs/pull/213)** by *cotosso* - Reviewers: *gsanchietti* - Created at: 2025-10-28T17:05:31Z
--   **[feat: wireguard ui configuration added](https://github.com/NethServer/nethsecurity-docs/pull/212)** by *Tbaile* - Reviewers: *gsanchietti, cotosso* - Created at: 2025-10-28T13:46:46Z
-- :eyes:  **[host set limitations -  flashstart.rst](https://github.com/NethServer/nethsecurity-docs/pull/211)** by *cotosso* - Reviewers: *None* - Created at: 2025-10-07T17:19:05Z
 -   **[fix(ha): update for beta2](https://github.com/NethServer/nethsecurity-docs/pull/208)** by *gsanchietti* - Reviewers: *filippocarletti* - Created at: 2025-10-02T10:43:05Z
--  :zzz: **[fix(flashtart): no more need for DNS option on DHCP server](https://github.com/NethServer/nethsecurity-docs/pull/204)** by *cotosso* - Reviewers: *Tbaile* - Created at: 2025-09-03T10:07:54Z
 
 ### NethServer/ns8-user-manager 1 
 
@@ -72,13 +73,13 @@ date = 2025-10-29
 
 - :eyes: :zzz: **[Fix typos in customization in README.md](https://github.com/NethServer/ns8-sogo/pull/44)** by *mrmarkuz* - Reviewers: *None* - Created at: 2025-09-03T06:35:30Z
 
+### NethServer/ns8-dnsmasq 1 
+
+-   **[Use debian package instead of building from source](https://github.com/NethServer/ns8-dnsmasq/pull/39)** by *mrmarkuz* - Reviewers: *Tbaile* - Created at: 2025-10-29T15:34:30Z
+
 ### NethServer/nethlink 1 
 
 -  :zzz: **[feat: nethcti-middleware](https://github.com/NethServer/nethlink/pull/72)** by *tommaso-ascani* - Reviewers: *edospadoni, tonyco97* - Created at: 2025-09-08T07:14:17Z
-
-### NethServer/ns8-metrics 1 
-
--   **[fix: ignore NS7 migration nodes](https://github.com/NethServer/ns8-metrics/pull/38)** by *DavidePrincipi* - Reviewers: *gsanchietti* - Created at: 2025-10-28T16:54:19Z
 
 ## Organization: nethesis
 
@@ -93,6 +94,10 @@ date = 2025-10-29
 ### nethesis/nethcti-app-iphone 1 
 
 -  :zzz: **[Removed old notification service usage](https://github.com/nethesis/nethcti-app-iphone/pull/37)** by *NicolaMrAPPs* - Reviewers: *b9874e* - Created at: 2023-08-02T09:19:30Z
+
+### nethesis/ctiapp-authproxy 1 
+
+- :eyes: :zzz: **[fix: added chunks in contacts response](https://github.com/nethesis/ctiapp-authproxy/pull/14)** by *edospadoni* - Reviewers: *None* - Created at: 2025-09-25T14:55:11Z
 
 ### nethesis/parceler 1 
 
