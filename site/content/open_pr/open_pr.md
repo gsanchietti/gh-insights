@@ -1,18 +1,13 @@
 +++
 title = 'Open Pull Requests'
-date = 2025-10-30
+date = 2025-10-31
 +++
 
 ## Organization: nethserver
 
-### NethServer/ns8-core 2 
+### NethServer/ns8-core 1 
 
 - :eyes:  **[Enhance node details and NS7 migration support](https://github.com/NethServer/ns8-core/pull/972)** by *stephdl* - Reviewers: *None* - Created at: 2025-10-29T17:06:45Z
--  :zzz: **[Command for disk performance measurement ](https://github.com/NethServer/ns8-core/pull/915)** by *DavidePrincipi* - Reviewers: *nrauso* - Created at: 2025-08-01T15:43:40Z
-
-### NethServer/ns8-dokuwiki 1 
-
-- :eyes:  **[Add PHP environment setup script and refactor existing configurations](https://github.com/NethServer/ns8-dokuwiki/pull/52)** by *stephdl* - Reviewers: *None* - Created at: 2025-10-20T09:53:10Z
 
 ### NethServer/ns8-webserver 1 
 
@@ -30,9 +25,8 @@ date = 2025-10-30
 
 - :eyes:  **[fix: cryptography 45 deprecation warning](https://github.com/NethServer/ns8-traefik/pull/120)** by *DavidePrincipi* - Reviewers: *None* - Created at: 2025-10-28T08:48:29Z
 
-### NethServer/nethsecurity 3 
+### NethServer/nethsecurity 2 
 
--   **[chore: remove announce_updates](https://github.com/NethServer/nethsecurity/pull/1410)** by *gsanchietti* - Reviewers: *Tbaile* - Created at: 2025-10-27T08:25:26Z
 -   **[fix(scan): fixed name resolution](https://github.com/NethServer/nethsecurity/pull/1406)** by *Tbaile* - Reviewers: *gsanchietti* - Created at: 2025-10-22T15:00:33Z
 - :eyes:  **[fix(flashstart): allow bypasses to elude catch all](https://github.com/NethServer/nethsecurity/pull/1405)** by *Tbaile* - Reviewers: *None* - Created at: 2025-10-22T14:45:36Z
 
@@ -56,6 +50,10 @@ date = 2025-10-30
 
 - :eyes:  **[Update Crowdsec image version and add environment variable](https://github.com/NethServer/ns8-crowdsec/pull/100)** by *stephdl* - Reviewers: *None* - Created at: 2025-10-08T14:39:47Z
 
+### NethServer/ns8-docs 1 
+
+-   **[feat: add swap space requirements](https://github.com/NethServer/ns8-docs/pull/200)** by *DavidePrincipi* - Reviewers: *nrauso* - Created at: 2025-10-30T18:47:15Z
+
 ### NethServer/nethsecurity-ui 2 
 
 - :eyes:  **[fix(leases): fixed IP sorting in leases table](https://github.com/NethServer/nethsecurity-ui/pull/660)** by *Tbaile* - Reviewers: *None* - Created at: 2025-10-22T08:07:10Z
@@ -75,7 +73,7 @@ date = 2025-10-30
 
 ### NethServer/ns8-dnsmasq 1 
 
--   **[Use debian package instead of building from source](https://github.com/NethServer/ns8-dnsmasq/pull/39)** by *mrmarkuz* - Reviewers: *Tbaile* - Created at: 2025-10-29T15:34:30Z
+- :eyes:  **[Use debian package instead of building from source](https://github.com/NethServer/ns8-dnsmasq/pull/39)** by *mrmarkuz* - Reviewers: *None* - Created at: 2025-10-29T15:34:30Z
 
 ### NethServer/nethlink 1 
 
@@ -95,9 +93,9 @@ date = 2025-10-30
 
 -  :zzz: **[Removed old notification service usage](https://github.com/nethesis/nethcti-app-iphone/pull/37)** by *NicolaMrAPPs* - Reviewers: *b9874e* - Created at: 2023-08-02T09:19:30Z
 
-### nethesis/ctiapp-authproxy 1 
+### nethesis/phone-island 1 
 
-- :eyes: :zzz: **[fix: added chunks in contacts response](https://github.com/nethesis/ctiapp-authproxy/pull/14)** by *edospadoni* - Reviewers: *None* - Created at: 2025-09-25T14:55:11Z
+- :eyes:  **[fix: avoid missing phone-island if user refused conference call](https://github.com/nethesis/phone-island/pull/118)** by *tonyco97* - Reviewers: *None* - Created at: 2025-10-30T10:48:51Z
 
 ### nethesis/parceler 1 
 
