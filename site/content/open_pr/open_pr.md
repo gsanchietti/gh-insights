@@ -1,17 +1,17 @@
 +++
 title = 'Open Pull Requests'
-date = 2025-10-31
+date = 2025-11-01
 +++
 
 ## Organization: nethserver
 
 ### NethServer/ns8-core 1 
 
-- :eyes:  **[Enhance node details and NS7 migration support](https://github.com/NethServer/ns8-core/pull/972)** by *stephdl* - Reviewers: *None* - Created at: 2025-10-29T17:06:45Z
+-   **[Enhance node details and NS7 migration support](https://github.com/NethServer/ns8-core/pull/972)** by *stephdl* - Reviewers: *andre8244* - Created at: 2025-10-29T17:06:45Z
 
 ### NethServer/ns8-webserver 1 
 
--   **[Add calendar and imap extension to PHP extensions list in Containerfile](https://github.com/NethServer/ns8-webserver/pull/108)** by *stephdl* - Reviewers: *DavidePrincipi* - Created at: 2025-10-13T16:05:56Z
+- :eyes:  **[Add calendar and imap extension to PHP extensions list in Containerfile](https://github.com/NethServer/ns8-webserver/pull/108)** by *stephdl* - Reviewers: *None* - Created at: 2025-10-13T16:05:56Z
 
 ### NethServer/ns8-nextcloud 1 
 
@@ -45,14 +45,6 @@ date = 2025-10-31
 ### NethServer/ns8-piler 1 
 
 - :eyes:  **[Add Traefik configuration and enhance loading state management](https://github.com/NethServer/ns8-piler/pull/48)** by *stephdl* - Reviewers: *None* - Created at: 2025-10-16T10:14:03Z
-
-### NethServer/ns8-crowdsec 1 
-
-- :eyes:  **[Update Crowdsec image version and add environment variable](https://github.com/NethServer/ns8-crowdsec/pull/100)** by *stephdl* - Reviewers: *None* - Created at: 2025-10-08T14:39:47Z
-
-### NethServer/ns8-docs 1 
-
--   **[feat: add swap space requirements](https://github.com/NethServer/ns8-docs/pull/200)** by *DavidePrincipi* - Reviewers: *nrauso* - Created at: 2025-10-30T18:47:15Z
 
 ### NethServer/nethsecurity-ui 2 
 
@@ -92,6 +84,10 @@ date = 2025-10-31
 ### nethesis/nethcti-app-iphone 1 
 
 -  :zzz: **[Removed old notification service usage](https://github.com/nethesis/nethcti-app-iphone/pull/37)** by *NicolaMrAPPs* - Reviewers: *b9874e* - Created at: 2023-08-02T09:19:30Z
+
+### nethesis/ns8-nethvoice 1 
+
+-   **[fix(wizard): remove print report button](https://github.com/nethesis/ns8-nethvoice/pull/574)** by *gsanchietti* - Reviewers: *Amygos, edospadoni* - Created at: 2025-10-31T13:59:20Z
 
 ### nethesis/phone-island 1 
 

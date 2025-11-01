@@ -1,6 +1,6 @@
 +++
 title = 'Open Pull Requests by Bots'
-date = 2025-10-31
+date = 2025-11-01
 +++
 
 ## Organization: nethserver
@@ -12,9 +12,8 @@ date = 2025-10-31
 - :eyes: :zzz: **[Bump on-headers and compression in /ui](https://github.com/NethServer/nethserver-business/pull/7)** by *dependabot[bot]* - Reviewers: *None* - Created at: 2025-07-18T00:03:46Z
 - :eyes: :zzz: **[Bump pbkdf2 from 3.0.17 to 3.1.3 in /ui](https://github.com/NethServer/nethserver-business/pull/6)** by *dependabot[bot]* - Reviewers: *None* - Created at: 2025-06-24T07:44:23Z
 
-### NethServer/ns8-core 8 
+### NethServer/ns8-core 7 
 
-- :eyes:  **[Translations update from Hosted Weblate](https://github.com/NethServer/ns8-core/pull/970)** by *weblate* - Reviewers: *None* - Created at: 2025-10-26T12:03:29Z
 - :eyes:  **[chore(deps): update quay.io/prometheus/node-exporter docker tag to v1.10.2](https://github.com/NethServer/ns8-core/pull/969)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-10-24T14:50:07Z
 - :eyes:  **[chore(deps): update grafana/alloy docker tag to v1.11.3](https://github.com/NethServer/ns8-core/pull/965)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-10-16T22:49:05Z
 - :eyes:  **[chore(deps): update golang docker tag to v1.25.3](https://github.com/NethServer/ns8-core/pull/964)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-10-16T13:50:53Z
@@ -154,13 +153,10 @@ date = 2025-10-31
 
 ### NethServer/phonehome-server 1 
 
-- :eyes:  **[chore(deps): replace google-github-actions/release-please-action action with googleapis/release-please v4](https://github.com/NethServer/phonehome-server/pull/136)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-10-25T00:55:35Z
+- :eyes:  **[chore(deps): replace google-github-actions/release-please-action action with googleapis/release-please-action v4](https://github.com/NethServer/phonehome-server/pull/136)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-10-25T00:55:35Z
 
-### NethServer/ns8-crowdsec 4 
+### NethServer/ns8-crowdsec 1 
 
-- :eyes:  **[Translations update from Hosted Weblate](https://github.com/NethServer/ns8-crowdsec/pull/106)** by *weblate* - Reviewers: *None* - Created at: 2025-10-26T15:02:53Z
-- :eyes:  **[chore(deps): update alpine docker tag to v3.22.2](https://github.com/NethServer/ns8-crowdsec/pull/101)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-10-09T01:29:08Z
--  :zzz: **[chore(deps): update crowdsecurity/crowdsec docker tag to v1.7.3](https://github.com/NethServer/ns8-crowdsec/pull/87)** by *renovate[bot]* - Reviewers: *stephdl* - Created at: 2025-09-03T17:07:10Z
 - :eyes: :zzz: **[chore(deps): update ghcr.io/marketsquare/robotframework-browser/rfbrowser-stable docker tag to v19.10.1](https://github.com/NethServer/ns8-crowdsec/pull/63)** by *renovate[bot]* - Reviewers: *None* - Created at: 2024-12-20T22:49:56Z
 
 ### NethServer/ns8-ejabberd 2 
@@ -187,8 +183,9 @@ date = 2025-10-31
 - :eyes: :zzz: **[chore(deps): update alpine docker tag to v3.22.2](https://github.com/NethServer/ns8-imapsync/pull/53)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-05-30T20:50:31Z
 - :eyes: :zzz: **[chore(deps): update ghcr.io/marketsquare/robotframework-browser/rfbrowser-stable docker tag to v19.10.1](https://github.com/NethServer/ns8-imapsync/pull/36)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-01-26T16:23:25Z
 
-### NethServer/ns8-user-manager 1 
+### NethServer/ns8-user-manager 2 
 
+- :eyes:  **[chore(deps): lock file maintenance](https://github.com/NethServer/ns8-user-manager/pull/143)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-11-01T01:58:26Z
 - :eyes: :zzz: **[chore(deps): update dependency @fortawesome/fontawesome-svg-core to v7](https://github.com/NethServer/ns8-user-manager/pull/106)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-07-22T19:44:03Z
 
 ### NethServer/ns8-sogo 5 
@@ -211,7 +208,7 @@ date = 2025-10-31
 
 ### NethServer/ns8-wordpress 2 
 
-- :eyes:  **[chore(deps): update wordpress docker tag to v6.8.3](https://github.com/NethServer/ns8-wordpress/pull/26)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-10-01T21:52:07Z
+- :eyes: :zzz: **[chore(deps): update wordpress docker tag to v6.8.3](https://github.com/NethServer/ns8-wordpress/pull/26)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-10-01T21:52:07Z
 - :eyes: :zzz: **[chore(deps): update mariadb docker tag to v10.11.14](https://github.com/NethServer/ns8-wordpress/pull/24)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-08-12T21:31:21Z
 
 ### NethServer/ns8-netdata 2 
@@ -295,15 +292,19 @@ date = 2025-10-31
 
 ### nethesis/nethvoice-cti 1 
 
-- :eyes:  **[chore(deps): bump axios from 1.9.0 to 1.12.0](https://github.com/nethesis/nethvoice-cti/pull/337)** by *dependabot[bot]* - Reviewers: *None* - Created at: 2025-10-01T05:47:27Z
+- :eyes: :zzz: **[chore(deps): bump axios from 1.9.0 to 1.12.0](https://github.com/nethesis/nethvoice-cti/pull/337)** by *dependabot[bot]* - Reviewers: *None* - Created at: 2025-10-01T05:47:27Z
 
 ### nethesis/ns8-nethvoice-proxy 2 
 
 - :eyes: :zzz: **[chore(deps): update redis docker tag to v8](https://github.com/nethesis/ns8-nethvoice-proxy/pull/78)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-07-08T11:53:47Z
 - :eyes: :zzz: **[build(deps): bump http-cache-semantics from 4.1.0 to 4.2.0 in /ui](https://github.com/nethesis/ns8-nethvoice-proxy/pull/71)** by *dependabot[bot]* - Reviewers: *None* - Created at: 2025-06-30T12:12:50Z
 
+### nethesis/parceler 1 
+
+- :eyes:  **[chore(deps): lock file maintenance](https://github.com/nethesis/parceler/pull/125)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-11-01T02:13:39Z
+
 ### nethesis/nethKaris 1 
 
-- :eyes:  **[build(deps): bump axios from 1.7.7 to 1.12.2 in /slide/frontend](https://github.com/nethesis/nethKaris/pull/1)** by *dependabot[bot]* - Reviewers: *None* - Created at: 2025-10-01T05:47:37Z
+- :eyes: :zzz: **[build(deps): bump axios from 1.7.7 to 1.12.2 in /slide/frontend](https://github.com/nethesis/nethKaris/pull/1)** by *dependabot[bot]* - Reviewers: *None* - Created at: 2025-10-01T05:47:37Z
 
 
