@@ -1,6 +1,6 @@
 +++
 title = 'Open Pull Requests'
-date = 2025-11-01
+date = 2025-11-02
 +++
 
 ## Organization: nethserver
@@ -53,7 +53,7 @@ date = 2025-11-01
 
 ### NethServer/nethsecurity-docs 1 
 
--   **[fix(ha): update for beta2](https://github.com/NethServer/nethsecurity-docs/pull/208)** by *gsanchietti* - Reviewers: *filippocarletti* - Created at: 2025-10-02T10:43:05Z
+-  :zzz: **[fix(ha): update for beta2](https://github.com/NethServer/nethsecurity-docs/pull/208)** by *gsanchietti* - Reviewers: *filippocarletti* - Created at: 2025-10-02T10:43:05Z
 
 ### NethServer/ns8-user-manager 1 
 

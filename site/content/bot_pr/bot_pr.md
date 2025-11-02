@@ -1,6 +1,6 @@
 +++
 title = 'Open Pull Requests by Bots'
-date = 2025-11-01
+date = 2025-11-02
 +++
 
 ## Organization: nethserver
@@ -183,9 +183,8 @@ date = 2025-11-01
 - :eyes: :zzz: **[chore(deps): update alpine docker tag to v3.22.2](https://github.com/NethServer/ns8-imapsync/pull/53)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-05-30T20:50:31Z
 - :eyes: :zzz: **[chore(deps): update ghcr.io/marketsquare/robotframework-browser/rfbrowser-stable docker tag to v19.10.1](https://github.com/NethServer/ns8-imapsync/pull/36)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-01-26T16:23:25Z
 
-### NethServer/ns8-user-manager 2 
+### NethServer/ns8-user-manager 1 
 
-- :eyes:  **[chore(deps): lock file maintenance](https://github.com/NethServer/ns8-user-manager/pull/143)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-11-01T01:58:26Z
 - :eyes: :zzz: **[chore(deps): update dependency @fortawesome/fontawesome-svg-core to v7](https://github.com/NethServer/ns8-user-manager/pull/106)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-07-22T19:44:03Z
 
 ### NethServer/ns8-sogo 5 
@@ -298,10 +297,6 @@ date = 2025-11-01
 
 - :eyes: :zzz: **[chore(deps): update redis docker tag to v8](https://github.com/nethesis/ns8-nethvoice-proxy/pull/78)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-07-08T11:53:47Z
 - :eyes: :zzz: **[build(deps): bump http-cache-semantics from 4.1.0 to 4.2.0 in /ui](https://github.com/nethesis/ns8-nethvoice-proxy/pull/71)** by *dependabot[bot]* - Reviewers: *None* - Created at: 2025-06-30T12:12:50Z
-
-### nethesis/parceler 1 
-
-- :eyes:  **[chore(deps): lock file maintenance](https://github.com/nethesis/parceler/pull/125)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-11-01T02:13:39Z
 
 ### nethesis/nethKaris 1 
 
