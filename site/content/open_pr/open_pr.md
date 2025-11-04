@@ -1,6 +1,6 @@
 +++
 title = 'Open Pull Requests'
-date = 2025-11-03
+date = 2025-11-04
 +++
 
 ## Organization: nethserver
@@ -8,10 +8,6 @@ date = 2025-11-03
 ### NethServer/ns8-core 1 
 
 -   **[Enhance node details and NS7 migration support](https://github.com/NethServer/ns8-core/pull/972)** by *stephdl* - Reviewers: *andre8244* - Created at: 2025-10-29T17:06:45Z
-
-### NethServer/ns8-webserver 1 
-
-- :eyes:  **[Add calendar and imap extension to PHP extensions list in Containerfile](https://github.com/NethServer/ns8-webserver/pull/108)** by *stephdl* - Reviewers: *None* - Created at: 2025-10-13T16:05:56Z
 
 ### NethServer/ns8-nextcloud 1 
 
@@ -21,9 +17,17 @@ date = 2025-11-03
 
 - :eyes:  **[Update Traefik configuration and environment setup](https://github.com/NethServer/ns8-minio/pull/14)** by *stephdl* - Reviewers: *None* - Created at: 2025-10-15T15:17:35Z
 
+### NethServer/ns8-samba 1 
+
+- :eyes:  **[Add condition to allow customizing the homes section](https://github.com/NethServer/ns8-samba/pull/131)** by *mrmarkuz* - Reviewers: *None* - Created at: 2025-11-03T12:52:13Z
+
 ### NethServer/ns8-traefik 1 
 
 - :eyes:  **[fix: cryptography 45 deprecation warning](https://github.com/NethServer/ns8-traefik/pull/120)** by *DavidePrincipi* - Reviewers: *None* - Created at: 2025-10-28T08:48:29Z
+
+### NethServer/nethserver-ns8-migration 1 
+
+-   **[Add FQDN validation for virtual host fields and error message](https://github.com/NethServer/nethserver-ns8-migration/pull/123)** by *stephdl* - Reviewers: *DavidePrincipi, andre8244* - Created at: 2025-11-03T09:08:22Z
 
 ### NethServer/nethsecurity 2 
 
@@ -63,10 +67,6 @@ date = 2025-11-03
 
 - :eyes: :zzz: **[Fix typos in customization in README.md](https://github.com/NethServer/ns8-sogo/pull/44)** by *mrmarkuz* - Reviewers: *None* - Created at: 2025-09-03T06:35:30Z
 
-### NethServer/ns8-dnsmasq 1 
-
-- :eyes:  **[Use debian package instead of building from source](https://github.com/NethServer/ns8-dnsmasq/pull/39)** by *mrmarkuz* - Reviewers: *None* - Created at: 2025-10-29T15:34:30Z
-
 ### NethServer/nethlink 1 
 
 -  :zzz: **[feat: nethcti-middleware](https://github.com/NethServer/nethlink/pull/72)** by *tommaso-ascani* - Reviewers: *edospadoni, tonyco97* - Created at: 2025-09-08T07:14:17Z
@@ -85,9 +85,9 @@ date = 2025-11-03
 
 -  :zzz: **[Removed old notification service usage](https://github.com/nethesis/nethcti-app-iphone/pull/37)** by *NicolaMrAPPs* - Reviewers: *b9874e* - Created at: 2023-08-02T09:19:30Z
 
-### nethesis/ns8-nethvoice 1 
+### nethesis/tancredi 1 
 
--   **[fix(wizard): remove print report button](https://github.com/nethesis/ns8-nethvoice/pull/574)** by *gsanchietti* - Reviewers: *Amygos, edospadoni* - Created at: 2025-10-31T13:59:20Z
+- :eyes:  **[Change Fanvil NethPhone DND mode to have one click activation/deactivation](https://github.com/nethesis/tancredi/pull/319)** by *andrea-marchionni* - Reviewers: *None* - Created at: 2025-11-03T17:03:43Z
 
 ### nethesis/phone-island 1 
 
