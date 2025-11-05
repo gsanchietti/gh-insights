@@ -1,13 +1,13 @@
 +++
 title = 'Open Pull Requests'
-date = 2025-11-04
+date = 2025-11-05
 +++
 
 ## Organization: nethserver
 
 ### NethServer/ns8-core 1 
 
--   **[Enhance node details and NS7 migration support](https://github.com/NethServer/ns8-core/pull/972)** by *stephdl* - Reviewers: *andre8244* - Created at: 2025-10-29T17:06:45Z
+-   **[Enhance node details and NS7 migration support](https://github.com/NethServer/ns8-core/pull/975)** by *stephdl* - Reviewers: *andre8244* - Created at: 2025-11-04T16:07:10Z
 
 ### NethServer/ns8-nextcloud 1 
 
@@ -17,9 +17,10 @@ date = 2025-11-04
 
 - :eyes:  **[Update Traefik configuration and environment setup](https://github.com/NethServer/ns8-minio/pull/14)** by *stephdl* - Reviewers: *None* - Created at: 2025-10-15T15:17:35Z
 
-### NethServer/ns8-samba 1 
+### NethServer/ns8-samba 2 
 
 - :eyes:  **[Add condition to allow customizing the homes section](https://github.com/NethServer/ns8-samba/pull/131)** by *mrmarkuz* - Reviewers: *None* - Created at: 2025-11-03T12:52:13Z
+-   **[fix(join-member): AD domain discovery](https://github.com/NethServer/ns8-samba/pull/130)** by *DavidePrincipi* - Reviewers: *mrmarkuz* - Created at: 2025-10-31T17:35:17Z
 
 ### NethServer/ns8-traefik 1 
 
@@ -27,7 +28,7 @@ date = 2025-11-04
 
 ### NethServer/nethserver-ns8-migration 1 
 
--   **[Add FQDN validation for virtual host fields and error message](https://github.com/NethServer/nethserver-ns8-migration/pull/123)** by *stephdl* - Reviewers: *DavidePrincipi, andre8244* - Created at: 2025-11-03T09:08:22Z
+-   **[Add FQDN validation for virtual host fields and error message](https://github.com/NethServer/nethserver-ns8-migration/pull/123)** by *stephdl* - Reviewers: *DavidePrincipi* - Created at: 2025-11-03T09:08:22Z
 
 ### NethServer/nethsecurity 2 
 

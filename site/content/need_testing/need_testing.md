@@ -1,10 +1,9 @@
 +++
-title = 'Need testing (4)'
-date = 2025-11-04
+title = 'Need testing (3)'
+date = 2025-11-05
 +++
 
 ## NethVoice
-- **[Nethvoice: Print final report button in the wizard causes JavaScript error](https://github.com/NethServer/dev/issues/7713)** (#7492) by *Amygos* (Created: 2025-10-31, Updated: 2025-11-03T11:52:11Z)
 - :point_right: **[Nethvoice Proxy: SIP Options not relayed causes inbound call failures](https://github.com/NethServer/dev/issues/7624)** (#7492) by *Amygos* (Created: 2025-09-10, Updated: 2025-10-31T16:14:58Z)
 
 ## NethServer
