@@ -2,7 +2,7 @@
 
 title = 'To be released soon'
 
-date = 2025-11-05
+date = 2025-11-06
 
 +++
 
@@ -12,7 +12,7 @@ date = 2025-11-05
 
 ### NoMilestone
 
-- [DNSMasq stable on Debian 13](https://github.com/NethServer/dev/issues/7706) (#7538) by DavidePrincipi (Created: 2025-10-30T08:57:58Z, Updated: 2025-11-03T14:50:10Z)
+- [DNSMasq stable on Debian 13](https://github.com/NethServer/dev/issues/7706) (#7538) by DavidePrincipi (Created: 2025-10-30T08:57:58Z, Updated: 2025-11-05T10:50:44Z)
 
 ### NethVoice
 

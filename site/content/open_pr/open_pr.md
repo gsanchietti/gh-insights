@@ -1,13 +1,13 @@
 +++
 title = 'Open Pull Requests'
-date = 2025-11-05
+date = 2025-11-06
 +++
 
 ## Organization: nethserver
 
 ### NethServer/ns8-core 1 
 
--   **[Enhance node details and NS7 migration support](https://github.com/NethServer/ns8-core/pull/975)** by *stephdl* - Reviewers: *andre8244* - Created at: 2025-11-04T16:07:10Z
+-   **[Enhance node details and NS7 migration support](https://github.com/NethServer/ns8-core/pull/972)** by *stephdl* - Reviewers: *andre8244* - Created at: 2025-10-29T17:06:45Z
 
 ### NethServer/ns8-nextcloud 1 
 
@@ -17,18 +17,13 @@ date = 2025-11-05
 
 - :eyes:  **[Update Traefik configuration and environment setup](https://github.com/NethServer/ns8-minio/pull/14)** by *stephdl* - Reviewers: *None* - Created at: 2025-10-15T15:17:35Z
 
-### NethServer/ns8-samba 2 
-
-- :eyes:  **[Add condition to allow customizing the homes section](https://github.com/NethServer/ns8-samba/pull/131)** by *mrmarkuz* - Reviewers: *None* - Created at: 2025-11-03T12:52:13Z
--   **[fix(join-member): AD domain discovery](https://github.com/NethServer/ns8-samba/pull/130)** by *DavidePrincipi* - Reviewers: *mrmarkuz* - Created at: 2025-10-31T17:35:17Z
-
 ### NethServer/ns8-traefik 1 
 
 - :eyes:  **[fix: cryptography 45 deprecation warning](https://github.com/NethServer/ns8-traefik/pull/120)** by *DavidePrincipi* - Reviewers: *None* - Created at: 2025-10-28T08:48:29Z
 
 ### NethServer/nethserver-ns8-migration 1 
 
--   **[Add FQDN validation for virtual host fields and error message](https://github.com/NethServer/nethserver-ns8-migration/pull/123)** by *stephdl* - Reviewers: *DavidePrincipi* - Created at: 2025-11-03T09:08:22Z
+-   **[Add FQDN validation for virtual host fields and error message](https://github.com/NethServer/nethserver-ns8-migration/pull/123)** by *stephdl* - Reviewers: *DavidePrincipi, andre8244* - Created at: 2025-11-03T09:08:22Z
 
 ### NethServer/nethsecurity 2 
 
@@ -51,6 +46,10 @@ date = 2025-11-05
 
 - :eyes:  **[Add Traefik configuration and enhance loading state management](https://github.com/NethServer/ns8-piler/pull/48)** by *stephdl* - Reviewers: *None* - Created at: 2025-10-16T10:14:03Z
 
+### NethServer/ns8-docs 1 
+
+- :eyes:  **[feat: move NethVoice doc to new home](https://github.com/NethServer/ns8-docs/pull/201)** by *gsanchietti* - Reviewers: *None* - Created at: 2025-11-05T14:32:48Z
+
 ### NethServer/nethsecurity-ui 2 
 
 - :eyes:  **[fix(leases): fixed IP sorting in leases table](https://github.com/NethServer/nethsecurity-ui/pull/660)** by *Tbaile* - Reviewers: *None* - Created at: 2025-10-22T08:07:10Z
@@ -62,7 +61,7 @@ date = 2025-11-05
 
 ### NethServer/ns8-user-manager 1 
 
-- :eyes:  **[chore(main): release 1.2.5](https://github.com/NethServer/ns8-user-manager/pull/134)** by *Tbaile* - Reviewers: *None* - Created at: 2025-10-06T20:38:53Z
+- :eyes: :zzz: **[chore(main): release 1.2.5](https://github.com/NethServer/ns8-user-manager/pull/134)** by *Tbaile* - Reviewers: *None* - Created at: 2025-10-06T20:38:53Z
 
 ### NethServer/ns8-sogo 1 
 
@@ -71,6 +70,14 @@ date = 2025-11-05
 ### NethServer/nethlink 1 
 
 -  :zzz: **[feat: nethcti-middleware](https://github.com/NethServer/nethlink/pull/72)** by *tommaso-ascani* - Reviewers: *edospadoni, tonyco97* - Created at: 2025-09-08T07:14:17Z
+
+### NethServer/nethvoice-docs 1 
+
+- :eyes:  **[Update and add the CTI image](https://github.com/NethServer/nethvoice-docs/pull/1)** by *viktec* - Reviewers: *None* - Created at: 2025-11-05T16:23:10Z
+
+### NethServer/ns8-matrix 1 
+
+- :eyes:  **[Add renovate and postgresql](https://github.com/NethServer/ns8-matrix/pull/10)** by *mrmarkuz* - Reviewers: *None* - Created at: 2025-11-05T10:43:52Z
 
 ## Organization: nethesis
 
@@ -93,6 +100,14 @@ date = 2025-11-05
 ### nethesis/phone-island 1 
 
 - :eyes:  **[fix: avoid missing phone-island if user refused conference call](https://github.com/nethesis/phone-island/pull/118)** by *tonyco97* - Reviewers: *None* - Created at: 2025-10-30T10:48:51Z
+
+### nethesis/ns8-nethvoice-proxy 1 
+
+- :eyes:  **[Add `lets_encrypt` flag to configuration and separate FQDN/certificate setup](https://github.com/nethesis/ns8-nethvoice-proxy/pull/94)** by *Amygos* - Reviewers: *None* - Created at: 2025-11-04T16:27:48Z
+
+### nethesis/nethvoice-client-docs 1 
+
+- :eyes:  **[Update and add the CTI image](https://github.com/nethesis/nethvoice-client-docs/pull/14)** by *viktec* - Reviewers: *None* - Created at: 2025-11-05T16:11:10Z
 
 ### nethesis/parceler 1 
 
