@@ -2,17 +2,17 @@
 
 title = 'To be released soon'
 
-date = 2025-11-06
+date = 2025-11-07
 
 +++
+
+### NethServer
+
+- [Allow customization of [homes] section in Samba](https://github.com/NethServer/dev/issues/7717) (#7538) by mrmarkuz (Created: 2025-10-31T16:30:32Z, Updated: 2025-11-06T12:55:08Z)
 
 ### NethVoice
 
 - [Nethvoice: Print final report button in the wizard causes JavaScript error](https://github.com/NethServer/dev/issues/7713) (#7538) by Amygos (Created: 2025-10-31T14:37:56Z, Updated: 2025-11-04T15:52:10Z)
-
-### NoMilestone
-
-- [DNSMasq stable on Debian 13](https://github.com/NethServer/dev/issues/7706) (#7538) by DavidePrincipi (Created: 2025-10-30T08:57:58Z, Updated: 2025-11-05T10:50:44Z)
 
 ### NethVoice
 

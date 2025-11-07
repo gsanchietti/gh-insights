@@ -1,12 +1,13 @@
 +++
 title = 'Open Pull Requests'
-date = 2025-11-06
+date = 2025-11-07
 +++
 
 ## Organization: nethserver
 
-### NethServer/ns8-core 1 
+### NethServer/ns8-core 2 
 
+- :eyes:  **[Reduce maximum history length for password strength policy to 24](https://github.com/NethServer/ns8-core/pull/977)** by *stephdl* - Reviewers: *None* - Created at: 2025-11-06T15:09:20Z
 -   **[Enhance node details and NS7 migration support](https://github.com/NethServer/ns8-core/pull/972)** by *stephdl* - Reviewers: *andre8244* - Created at: 2025-10-29T17:06:45Z
 
 ### NethServer/ns8-nextcloud 1 
@@ -23,7 +24,7 @@ date = 2025-11-06
 
 ### NethServer/nethserver-ns8-migration 1 
 
--   **[Add FQDN validation for virtual host fields and error message](https://github.com/NethServer/nethserver-ns8-migration/pull/123)** by *stephdl* - Reviewers: *DavidePrincipi, andre8244* - Created at: 2025-11-03T09:08:22Z
+-   **[Add FQDN validation for virtual host fields and error message](https://github.com/NethServer/nethserver-ns8-migration/pull/123)** by *stephdl* - Reviewers: *DavidePrincipi* - Created at: 2025-11-03T09:08:22Z
 
 ### NethServer/nethsecurity 2 
 
@@ -46,17 +47,14 @@ date = 2025-11-06
 
 - :eyes:  **[Add Traefik configuration and enhance loading state management](https://github.com/NethServer/ns8-piler/pull/48)** by *stephdl* - Reviewers: *None* - Created at: 2025-10-16T10:14:03Z
 
-### NethServer/ns8-docs 1 
-
-- :eyes:  **[feat: move NethVoice doc to new home](https://github.com/NethServer/ns8-docs/pull/201)** by *gsanchietti* - Reviewers: *None* - Created at: 2025-11-05T14:32:48Z
-
 ### NethServer/nethsecurity-ui 2 
 
 - :eyes:  **[fix(leases): fixed IP sorting in leases table](https://github.com/NethServer/nethsecurity-ui/pull/660)** by *Tbaile* - Reviewers: *None* - Created at: 2025-10-22T08:07:10Z
 - :eyes:  **[chore(main): release 2.7.2](https://github.com/NethServer/nethsecurity-ui/pull/659)** by *Tbaile* - Reviewers: *None* - Created at: 2025-10-17T12:06:21Z
 
-### NethServer/nethsecurity-docs 1 
+### NethServer/nethsecurity-docs 2 
 
+-   **[Nsec7.9 ha migration](https://github.com/NethServer/nethsecurity-docs/pull/217)** by *cotosso* - Reviewers: *francio87* - Created at: 2025-11-06T15:15:47Z
 -  :zzz: **[fix(ha): update for beta2](https://github.com/NethServer/nethsecurity-docs/pull/208)** by *gsanchietti* - Reviewers: *filippocarletti* - Created at: 2025-10-02T10:43:05Z
 
 ### NethServer/ns8-user-manager 1 
@@ -73,11 +71,11 @@ date = 2025-11-06
 
 ### NethServer/nethvoice-docs 1 
 
-- :eyes:  **[Update and add the CTI image](https://github.com/NethServer/nethvoice-docs/pull/1)** by *viktec* - Reviewers: *None* - Created at: 2025-11-05T16:23:10Z
+- :eyes:  **[Update user status colors and descriptions](https://github.com/NethServer/nethvoice-docs/pull/7)** by *viktec* - Reviewers: *None* - Created at: 2025-11-06T11:21:24Z
 
 ### NethServer/ns8-matrix 1 
 
-- :eyes:  **[Add renovate and postgresql](https://github.com/NethServer/ns8-matrix/pull/10)** by *mrmarkuz* - Reviewers: *None* - Created at: 2025-11-05T10:43:52Z
+- :eyes:  **[Add Matrix to NethForge](https://github.com/NethServer/ns8-matrix/pull/10)** by *mrmarkuz* - Reviewers: *None* - Created at: 2025-11-05T10:43:52Z
 
 ## Organization: nethesis
 
