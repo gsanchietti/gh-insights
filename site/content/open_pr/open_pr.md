@@ -1,6 +1,6 @@
 +++
 title = 'Open Pull Requests'
-date = 2025-11-07
+date = 2025-11-08
 +++
 
 ## Organization: nethserver
@@ -52,9 +52,8 @@ date = 2025-11-07
 - :eyes:  **[fix(leases): fixed IP sorting in leases table](https://github.com/NethServer/nethsecurity-ui/pull/660)** by *Tbaile* - Reviewers: *None* - Created at: 2025-10-22T08:07:10Z
 - :eyes:  **[chore(main): release 2.7.2](https://github.com/NethServer/nethsecurity-ui/pull/659)** by *Tbaile* - Reviewers: *None* - Created at: 2025-10-17T12:06:21Z
 
-### NethServer/nethsecurity-docs 2 
+### NethServer/nethsecurity-docs 1 
 
--   **[Nsec7.9 ha migration](https://github.com/NethServer/nethsecurity-docs/pull/217)** by *cotosso* - Reviewers: *francio87* - Created at: 2025-11-06T15:15:47Z
 -  :zzz: **[fix(ha): update for beta2](https://github.com/NethServer/nethsecurity-docs/pull/208)** by *gsanchietti* - Reviewers: *filippocarletti* - Created at: 2025-10-02T10:43:05Z
 
 ### NethServer/ns8-user-manager 1 
@@ -71,7 +70,7 @@ date = 2025-11-07
 
 ### NethServer/nethvoice-docs 1 
 
-- :eyes:  **[Update user status colors and descriptions](https://github.com/NethServer/nethvoice-docs/pull/7)** by *viktec* - Reviewers: *None* - Created at: 2025-11-06T11:21:24Z
+- :eyes:  **[add image nethvoice app](https://github.com/NethServer/nethvoice-docs/pull/12)** by *viktec* - Reviewers: *None* - Created at: 2025-11-07T14:58:17Z
 
 ### NethServer/ns8-matrix 1 
 
@@ -95,6 +94,10 @@ date = 2025-11-07
 
 - :eyes:  **[Change Fanvil NethPhone DND mode to have one click activation/deactivation](https://github.com/nethesis/tancredi/pull/319)** by *andrea-marchionni* - Reviewers: *None* - Created at: 2025-11-03T17:03:43Z
 
+### nethesis/ns8-nethvoice 1 
+
+- :eyes:  **[fix: implemented persistent sessions](https://github.com/nethesis/ns8-nethvoice/pull/581)** by *tommaso-ascani* - Reviewers: *None* - Created at: 2025-11-07T14:55:16Z
+
 ### nethesis/phone-island 1 
 
 - :eyes:  **[fix: avoid missing phone-island if user refused conference call](https://github.com/nethesis/phone-island/pull/118)** by *tonyco97* - Reviewers: *None* - Created at: 2025-10-30T10:48:51Z
@@ -115,8 +118,9 @@ date = 2025-11-07
 
 - :eyes: :zzz: **[feature(api): diarized transcription api](https://github.com/nethesis/satellite/pull/4)** by *Stell0* - Reviewers: *None* - Created at: 2025-09-19T07:28:04Z
 
-### nethesis/nethcti-middleware 1 
+### nethesis/nethcti-middleware 2 
 
-- :eyes:  **[feat(nethcti-middleware): RTP proxy integration](https://github.com/nethesis/nethcti-middleware/pull/4)** by *Elia-Renzoni* - Reviewers: *None* - Created at: 2025-10-08T13:19:43Z
+- :eyes:  **[fix: implemented persistent sessions](https://github.com/nethesis/nethcti-middleware/pull/6)** by *tommaso-ascani* - Reviewers: *None* - Created at: 2025-11-07T14:54:53Z
+- :eyes: :zzz: **[feat(nethcti-middleware): RTP proxy integration](https://github.com/nethesis/nethcti-middleware/pull/4)** by *Elia-Renzoni* - Reviewers: *None* - Created at: 2025-10-08T13:19:43Z
 
 
