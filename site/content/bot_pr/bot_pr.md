@@ -1,6 +1,6 @@
 +++
 title = 'Open Pull Requests by Bots'
-date = 2025-11-08
+date = 2025-11-09
 +++
 
 ## Organization: nethserver
@@ -144,7 +144,7 @@ date = 2025-11-08
 
 ### NethServer/nethsecurity-ui 2 
 
-- :eyes:  **[chore: translations update from Hosted Weblate](https://github.com/NethServer/nethsecurity-ui/pull/657)** by *weblate* - Reviewers: *None* - Created at: 2025-10-09T08:07:44Z
+- :eyes: :zzz: **[chore: translations update from Hosted Weblate](https://github.com/NethServer/nethsecurity-ui/pull/657)** by *weblate* - Reviewers: *None* - Created at: 2025-10-09T08:07:44Z
 - :eyes: :zzz: **[chore: configure Renovate](https://github.com/NethServer/nethsecurity-ui/pull/578)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-06-05T07:26:40Z
 
 ### NethServer/nethsecurity-api 1 
