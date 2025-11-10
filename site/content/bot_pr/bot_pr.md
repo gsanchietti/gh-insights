@@ -1,6 +1,6 @@
 +++
 title = 'Open Pull Requests by Bots'
-date = 2025-11-09
+date = 2025-11-10
 +++
 
 ## Organization: nethserver
@@ -82,8 +82,11 @@ date = 2025-11-09
 - :eyes: :zzz: **[chore(deps): update actions/upload-pages-artifact action to v4](https://github.com/NethServer/nethsecurity/pull/1356)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-08-22T17:50:40Z
 - :eyes: :zzz: **[chore(deps): update debian docker tag to v13](https://github.com/NethServer/nethsecurity/pull/1342)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-08-12T22:46:15Z
 
-### NethServer/nethsecurity-controller 4 
+### NethServer/nethsecurity-controller 7 
 
+- :eyes:  **[chore(deps): update docker.io/traefik docker tag to v3.6.0](https://github.com/NethServer/nethsecurity-controller/pull/190)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-11-10T00:40:38Z
+- :eyes:  **[chore(deps): update docker.io/golang docker tag to v1.25.4](https://github.com/NethServer/nethsecurity-controller/pull/189)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-11-10T00:40:34Z
+- :eyes:  **[chore(deps): update dependency go to v1.25.4](https://github.com/NethServer/nethsecurity-controller/pull/188)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-11-10T00:40:30Z
 - :eyes:  **[fix(deps): update module github.com/oschwald/geoip2-golang to v2](https://github.com/NethServer/nethsecurity-controller/pull/185)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-10-20T02:05:28Z
 - :eyes:  **[fix(deps): update module github.com/appleboy/gin-jwt/v2 to v3](https://github.com/NethServer/nethsecurity-controller/pull/180)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-10-13T00:52:48Z
 - :eyes:  **[chore(deps): update github/codeql-action action to v4](https://github.com/NethServer/nethsecurity-controller/pull/179)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-10-13T00:52:38Z
