@@ -1,6 +1,6 @@
 +++
 title = 'Open Pull Requests'
-date = 2025-11-10
+date = 2025-11-11
 +++
 
 ## Organization: nethserver
@@ -8,7 +8,7 @@ date = 2025-11-10
 ### NethServer/ns8-core 2 
 
 - :eyes:  **[Reduce maximum history length for password strength policy to 24](https://github.com/NethServer/ns8-core/pull/977)** by *stephdl* - Reviewers: *None* - Created at: 2025-11-06T15:09:20Z
--   **[Enhance node details and NS7 migration support](https://github.com/NethServer/ns8-core/pull/972)** by *stephdl* - Reviewers: *andre8244* - Created at: 2025-10-29T17:06:45Z
+- :eyes:  **[Enhance node details and NS7 migration support](https://github.com/NethServer/ns8-core/pull/972)** by *stephdl* - Reviewers: *None* - Created at: 2025-10-29T17:06:45Z
 
 ### NethServer/ns8-nextcloud 1 
 
@@ -47,13 +47,13 @@ date = 2025-11-10
 
 - :eyes:  **[Add Traefik configuration and enhance loading state management](https://github.com/NethServer/ns8-piler/pull/48)** by *stephdl* - Reviewers: *None* - Created at: 2025-10-16T10:14:03Z
 
-### NethServer/nethsecurity-ui 2 
+### NethServer/nethsecurity-ui 1 
 
-- :eyes:  **[fix(leases): fixed IP sorting in leases table](https://github.com/NethServer/nethsecurity-ui/pull/660)** by *Tbaile* - Reviewers: *None* - Created at: 2025-10-22T08:07:10Z
 - :eyes:  **[chore(main): release 2.7.2](https://github.com/NethServer/nethsecurity-ui/pull/659)** by *Tbaile* - Reviewers: *None* - Created at: 2025-10-17T12:06:21Z
 
-### NethServer/nethsecurity-docs 1 
+### NethServer/nethsecurity-docs 2 
 
+-   **[interfaces name in migration](https://github.com/NethServer/nethsecurity-docs/pull/218)** by *cotosso* - Reviewers: *filippocarletti* - Created at: 2025-11-10T17:43:32Z
 -  :zzz: **[fix(ha): update for beta2](https://github.com/NethServer/nethsecurity-docs/pull/208)** by *gsanchietti* - Reviewers: *filippocarletti* - Created at: 2025-10-02T10:43:05Z
 
 ### NethServer/ns8-user-manager 1 
@@ -63,14 +63,6 @@ date = 2025-11-10
 ### NethServer/ns8-sogo 1 
 
 - :eyes: :zzz: **[Fix typos in customization in README.md](https://github.com/NethServer/ns8-sogo/pull/44)** by *mrmarkuz* - Reviewers: *None* - Created at: 2025-09-03T06:35:30Z
-
-### NethServer/nethlink 1 
-
--  :zzz: **[feat: nethcti-middleware](https://github.com/NethServer/nethlink/pull/72)** by *tommaso-ascani* - Reviewers: *edospadoni, tonyco97* - Created at: 2025-09-08T07:14:17Z
-
-### NethServer/nethvoice-docs 1 
-
-- :eyes:  **[add image nethvoice app](https://github.com/NethServer/nethvoice-docs/pull/12)** by *viktec* - Reviewers: *None* - Created at: 2025-11-07T14:58:17Z
 
 ### NethServer/ns8-matrix 1 
 
@@ -89,10 +81,6 @@ date = 2025-11-10
 ### nethesis/nethcti-app-iphone 1 
 
 -  :zzz: **[Removed old notification service usage](https://github.com/nethesis/nethcti-app-iphone/pull/37)** by *NicolaMrAPPs* - Reviewers: *b9874e* - Created at: 2023-08-02T09:19:30Z
-
-### nethesis/tancredi 1 
-
-- :eyes:  **[Change Fanvil NethPhone DND mode to have one click activation/deactivation](https://github.com/nethesis/tancredi/pull/319)** by *andrea-marchionni* - Reviewers: *None* - Created at: 2025-11-03T17:03:43Z
 
 ### nethesis/ns8-nethvoice 1 
 
