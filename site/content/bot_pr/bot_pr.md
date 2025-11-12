@@ -1,6 +1,6 @@
 +++
 title = 'Open Pull Requests by Bots'
-date = 2025-11-11
+date = 2025-11-12
 +++
 
 ## Organization: nethserver
@@ -79,18 +79,16 @@ date = 2025-11-11
 - :eyes: :zzz: **[Translations update from Hosted Weblate](https://github.com/NethServer/ns8-grafana/pull/37)** by *weblate* - Reviewers: *None* - Created at: 2025-05-22T07:06:34Z
 - :eyes: :zzz: **[chore(deps): update ghcr.io/marketsquare/robotframework-browser/rfbrowser-stable docker tag to v19.10.1](https://github.com/NethServer/ns8-grafana/pull/26)** by *renovate[bot]* - Reviewers: *None* - Created at: 2024-12-20T22:05:46Z
 
-### NethServer/nethsecurity 4 
+### NethServer/nethsecurity 2 
 
-- :eyes:  **[chore(deps): update actions/upload-artifact action to v5](https://github.com/NethServer/nethsecurity/pull/1409)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-10-25T00:29:58Z
 - :eyes: :zzz: **[chore(deps): update debian docker tag to v12.12](https://github.com/NethServer/nethsecurity/pull/1366)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-09-08T21:58:45Z
-- :eyes: :zzz: **[chore(deps): update actions/upload-pages-artifact action to v4](https://github.com/NethServer/nethsecurity/pull/1356)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-08-22T17:50:40Z
 - :eyes: :zzz: **[chore(deps): update debian docker tag to v13](https://github.com/NethServer/nethsecurity/pull/1342)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-08-12T22:46:15Z
 
 ### NethServer/nethsecurity-controller 4 
 
 - :eyes:  **[fix(deps): update module github.com/oschwald/geoip2-golang to v2](https://github.com/NethServer/nethsecurity-controller/pull/185)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-10-20T02:05:28Z
-- :eyes:  **[fix(deps): update module github.com/appleboy/gin-jwt/v2 to v3](https://github.com/NethServer/nethsecurity-controller/pull/180)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-10-13T00:52:48Z
-- :eyes:  **[chore(deps): update github/codeql-action action to v4](https://github.com/NethServer/nethsecurity-controller/pull/179)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-10-13T00:52:38Z
+- :eyes: :zzz: **[fix(deps): update module github.com/appleboy/gin-jwt/v2 to v3](https://github.com/NethServer/nethsecurity-controller/pull/180)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-10-13T00:52:48Z
+- :eyes: :zzz: **[chore(deps): update github/codeql-action action to v4](https://github.com/NethServer/nethsecurity-controller/pull/179)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-10-13T00:52:38Z
 - :eyes: :zzz: **[fix(deps): update module github.com/golang-jwt/jwt/v4 to v5](https://github.com/NethServer/nethsecurity-controller/pull/171)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-09-22T01:47:06Z
 
 ### NethServer/ns8-mail 3 
