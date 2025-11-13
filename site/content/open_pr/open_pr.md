@@ -1,16 +1,16 @@
 +++
 title = 'Open Pull Requests'
-date = 2025-11-12
+date = 2025-11-13
 +++
 
 ## Organization: nethserver
 
 ### NethServer/ns8-core 4 
 
--   **[Improve output of action wrapper commands](https://github.com/NethServer/ns8-core/pull/979)** by *DavidePrincipi* - Reviewers: *gsanchietti* - Created at: 2025-11-11T16:50:16Z
-- :eyes:  **[Assign volume to additional disk](https://github.com/NethServer/ns8-core/pull/978)** by *DavidePrincipi* - Reviewers: *None* - Created at: 2025-11-11T15:35:10Z
+- :eyes:  **[fix(helpers): revoke-actions error](https://github.com/NethServer/ns8-core/pull/980)** by *DavidePrincipi* - Reviewers: *None* - Created at: 2025-11-12T17:13:08Z
+-   **[Assign volume to additional disk](https://github.com/NethServer/ns8-core/pull/978)** by *DavidePrincipi* - Reviewers: *gsanchietti* - Created at: 2025-11-11T15:35:10Z
 - :eyes:  **[Reduce maximum history length for password strength policy to 24](https://github.com/NethServer/ns8-core/pull/977)** by *stephdl* - Reviewers: *None* - Created at: 2025-11-06T15:09:20Z
-- :eyes:  **[Enhance node details and NS7 migration support](https://github.com/NethServer/ns8-core/pull/972)** by *stephdl* - Reviewers: *None* - Created at: 2025-10-29T17:06:45Z
+-   **[Enhance node details and NS7 migration support](https://github.com/NethServer/ns8-core/pull/972)** by *stephdl* - Reviewers: *andre8244* - Created at: 2025-10-29T17:06:45Z
 
 ### NethServer/ns8-nextcloud 1 
 
@@ -20,13 +20,17 @@ date = 2025-11-12
 
 - :eyes:  **[Update Traefik configuration and environment setup](https://github.com/NethServer/ns8-minio/pull/14)** by *stephdl* - Reviewers: *None* - Created at: 2025-10-15T15:17:35Z
 
+### NethServer/ns8-samba 1 
+
+- :eyes:  **[Add maximum constraint for history_length in password policy](https://github.com/NethServer/ns8-samba/pull/141)** by *stephdl* - Reviewers: *None* - Created at: 2025-11-12T09:22:09Z
+
 ### NethServer/ns8-traefik 1 
 
 - :eyes:  **[fix: cryptography 45 deprecation warning](https://github.com/NethServer/ns8-traefik/pull/120)** by *DavidePrincipi* - Reviewers: *None* - Created at: 2025-10-28T08:48:29Z
 
-### NethServer/nethserver-ns8-migration 1 
+### NethServer/ns8-openldap 1 
 
-- :eyes:  **[Add FQDN validation for virtual host fields and error message](https://github.com/NethServer/nethserver-ns8-migration/pull/123)** by *stephdl* - Reviewers: *None* - Created at: 2025-11-03T09:08:22Z
+-   **[Add maximum constraint for history_length in password policy](https://github.com/NethServer/ns8-openldap/pull/78)** by *stephdl* - Reviewers: *DavidePrincipi* - Created at: 2025-11-12T09:30:52Z
 
 ### NethServer/nethsecurity 1 
 
@@ -67,17 +71,21 @@ date = 2025-11-12
 
 ### NethServer/nethlink 1 
 
-- :eyes:  **[fix: show favorite only in operators](https://github.com/NethServer/nethlink/pull/75)** by *edospadoni* - Reviewers: *None* - Created at: 2025-11-11T08:22:28Z
+- :eyes:  **[fix: show favorite only if operators](https://github.com/NethServer/nethlink/pull/75)** by *edospadoni* - Reviewers: *None* - Created at: 2025-11-11T08:22:28Z
 
 ### NethServer/nethvoice-docs 1 
 
--   **[feat: add test section for Translation Agent functionality](https://github.com/NethServer/nethvoice-docs/pull/16)** by *m-dilorenzi* - Reviewers: *gsanchietti* - Created at: 2025-11-11T15:43:46Z
+-   **[feat: add test section for Translation Agent functionality](https://github.com/NethServer/nethvoice-docs/pull/17)** by *m-dilorenzi* - Reviewers: *gsanchietti* - Created at: 2025-11-12T12:45:43Z
 
 ### NethServer/ns8-matrix 1 
 
 - :eyes:  **[Add Matrix to NethForge](https://github.com/NethServer/ns8-matrix/pull/10)** by *mrmarkuz* - Reviewers: *None* - Created at: 2025-11-05T10:43:52Z
 
 ## Organization: nethesis
+
+### nethesis/nethcti-server 1 
+
+- :eyes:  **[fix: update token subtype handling to include 'user'](https://github.com/nethesis/nethcti-server/pull/339)** by *tommaso-ascani* - Reviewers: *None* - Created at: 2025-11-12T15:25:21Z
 
 ### nethesis/icaro 1 
 
@@ -91,22 +99,19 @@ date = 2025-11-12
 
 -  :zzz: **[Removed old notification service usage](https://github.com/nethesis/nethcti-app-iphone/pull/37)** by *NicolaMrAPPs* - Reviewers: *b9874e* - Created at: 2023-08-02T09:19:30Z
 
-### nethesis/ns8-nethvoice 2 
+### nethesis/tancredi 1 
 
-- :eyes:  **[fix: add weekly restart timer for nethcti-ui to update timezone](https://github.com/nethesis/ns8-nethvoice/pull/583)** by *edospadoni* - Reviewers: *None* - Created at: 2025-11-11T14:22:11Z
+-   **[feature(api): Add an API to create a new tok1 for a device](https://github.com/nethesis/tancredi/pull/320)** by *Stell0* - Reviewers: *Amygos* - Created at: 2025-11-12T16:49:01Z
+
+### nethesis/ns8-nethvoice 3 
+
+-   **[docs: update wizard API doc](https://github.com/nethesis/ns8-nethvoice/pull/588)** by *gsanchietti* - Reviewers: *Stell0* - Created at: 2025-11-12T13:02:49Z
 - :eyes:  **[fix: implemented persistent sessions](https://github.com/nethesis/ns8-nethvoice/pull/581)** by *tommaso-ascani* - Reviewers: *None* - Created at: 2025-11-07T14:55:16Z
-
-### nethesis/nethvoice-cti 1 
-
--   **[fix: prevent phone number truncation when dialing with Enter key](https://github.com/nethesis/nethvoice-cti/pull/347)** by *edospadoni* - Reviewers: *tonyco97* - Created at: 2025-11-11T15:24:35Z
+-   **[Refactor route configuration with agent.set_route and improve certificate status detection](https://github.com/nethesis/ns8-nethvoice/pull/577)** by *Amygos* - Reviewers: *Stell0, stephdl* - Created at: 2025-11-05T14:33:16Z
 
 ### nethesis/phone-island 1 
 
 - :eyes:  **[fix: avoid missing phone-island if user refused conference call](https://github.com/nethesis/phone-island/pull/118)** by *tonyco97* - Reviewers: *None* - Created at: 2025-10-30T10:48:51Z
-
-### nethesis/ns8-nethvoice-proxy 1 
-
-- :eyes:  **[Add `lets_encrypt` flag to configuration and separate FQDN/certificate setup](https://github.com/nethesis/ns8-nethvoice-proxy/pull/94)** by *Amygos* - Reviewers: *None* - Created at: 2025-11-04T16:27:48Z
 
 ### nethesis/nethvoice-client-docs 1 
 
