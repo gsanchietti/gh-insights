@@ -1,27 +1,29 @@
 +++
 title = 'Open Pull Requests'
-date = 2025-11-13
+date = 2025-11-14
 +++
 
 ## Organization: nethserver
 
 ### NethServer/ns8-core 4 
 
-- :eyes:  **[fix(helpers): revoke-actions error](https://github.com/NethServer/ns8-core/pull/980)** by *DavidePrincipi* - Reviewers: *None* - Created at: 2025-11-12T17:13:08Z
--   **[Assign volume to additional disk](https://github.com/NethServer/ns8-core/pull/978)** by *DavidePrincipi* - Reviewers: *gsanchietti* - Created at: 2025-11-11T15:35:10Z
+-   **[feat: limit-load Systemd generator](https://github.com/NethServer/ns8-core/pull/983)** by *DavidePrincipi* - Reviewers: *gsanchietti, mrmarkuz* - Created at: 2025-11-13T18:32:01Z
+- :eyes:  **[Add Applications Center with module management features](https://github.com/NethServer/ns8-core/pull/982)** by *stephdl* - Reviewers: *None* - Created at: 2025-11-13T13:34:02Z
 - :eyes:  **[Reduce maximum history length for password strength policy to 24](https://github.com/NethServer/ns8-core/pull/977)** by *stephdl* - Reviewers: *None* - Created at: 2025-11-06T15:09:20Z
 -   **[Enhance node details and NS7 migration support](https://github.com/NethServer/ns8-core/pull/972)** by *stephdl* - Reviewers: *andre8244* - Created at: 2025-10-29T17:06:45Z
 
-### NethServer/ns8-nextcloud 1 
+### NethServer/ns8-nextcloud 2 
 
-- :eyes:  **[Enhance Nextcloud configuration and Traefik integration](https://github.com/NethServer/ns8-nextcloud/pull/160)** by *stephdl* - Reviewers: *None* - Created at: 2025-10-14T10:47:12Z
+-   **[feat: set org.nethserver.volumes label](https://github.com/NethServer/ns8-nextcloud/pull/168)** by *DavidePrincipi* - Reviewers: *gsanchietti* - Created at: 2025-11-13T15:55:14Z
+- :eyes: :zzz: **[Enhance Nextcloud configuration and Traefik integration](https://github.com/NethServer/ns8-nextcloud/pull/160)** by *stephdl* - Reviewers: *None* - Created at: 2025-10-14T10:47:12Z
 
 ### NethServer/ns8-minio 1 
 
 - :eyes:  **[Update Traefik configuration and environment setup](https://github.com/NethServer/ns8-minio/pull/14)** by *stephdl* - Reviewers: *None* - Created at: 2025-10-15T15:17:35Z
 
-### NethServer/ns8-samba 1 
+### NethServer/ns8-samba 2 
 
+-   **[feat: set org.nethserver.volumes label](https://github.com/NethServer/ns8-samba/pull/142)** by *DavidePrincipi* - Reviewers: *gsanchietti* - Created at: 2025-11-13T15:28:56Z
 - :eyes:  **[Add maximum constraint for history_length in password policy](https://github.com/NethServer/ns8-samba/pull/141)** by *stephdl* - Reviewers: *None* - Created at: 2025-11-12T09:22:09Z
 
 ### NethServer/ns8-traefik 1 
@@ -30,11 +32,15 @@ date = 2025-11-13
 
 ### NethServer/ns8-openldap 1 
 
--   **[Add maximum constraint for history_length in password policy](https://github.com/NethServer/ns8-openldap/pull/78)** by *stephdl* - Reviewers: *DavidePrincipi* - Created at: 2025-11-12T09:30:52Z
+- :eyes:  **[Add maximum constraint for history_length in password policy](https://github.com/NethServer/ns8-openldap/pull/78)** by *stephdl* - Reviewers: *None* - Created at: 2025-11-12T09:30:52Z
 
 ### NethServer/nethsecurity 1 
 
 -   **[fix(flashstart): reloading firewall instead of restarting](https://github.com/NethServer/nethsecurity/pull/1412)** by *Tbaile* - Reviewers: *gsanchietti* - Created at: 2025-10-29T11:10:59Z
+
+### NethServer/ns8-mail 1 
+
+-   **[Assign dovecot-data volume to an additional disk](https://github.com/NethServer/ns8-mail/pull/205)** by *DavidePrincipi* - Reviewers: *gsanchietti* - Created at: 2025-11-13T15:23:32Z
 
 ### NethServer/ns8-nethsecurity-controller 1 
 
@@ -42,7 +48,7 @@ date = 2025-11-13
 
 ### NethServer/ns8-mattermost 1 
 
-- :eyes:  **[Add Traefik configuration and enhance settings component](https://github.com/NethServer/ns8-mattermost/pull/119)** by *stephdl* - Reviewers: *None* - Created at: 2025-10-14T13:45:21Z
+- :eyes: :zzz: **[Add Traefik configuration and enhance settings component](https://github.com/NethServer/ns8-mattermost/pull/119)** by *stephdl* - Reviewers: *None* - Created at: 2025-10-14T13:45:21Z
 
 ### NethServer/ns8-roundcubemail 1 
 
@@ -75,7 +81,7 @@ date = 2025-11-13
 
 ### NethServer/nethvoice-docs 1 
 
--   **[feat: add test section for Translation Agent functionality](https://github.com/NethServer/nethvoice-docs/pull/17)** by *m-dilorenzi* - Reviewers: *gsanchietti* - Created at: 2025-11-12T12:45:43Z
+- :eyes:  **[feat: add new workflow and scripts for Translation Agent](https://github.com/NethServer/nethvoice-docs/pull/20)** by *m-dilorenzi* - Reviewers: *None* - Created at: 2025-11-13T09:30:04Z
 
 ### NethServer/ns8-matrix 1 
 
@@ -105,9 +111,9 @@ date = 2025-11-13
 
 ### nethesis/ns8-nethvoice 3 
 
--   **[docs: update wizard API doc](https://github.com/nethesis/ns8-nethvoice/pull/588)** by *gsanchietti* - Reviewers: *Stell0* - Created at: 2025-11-12T13:02:49Z
+-   **[feat(RPS): update RPS url on migration or when hostname changes](https://github.com/nethesis/ns8-nethvoice/pull/590)** by *Stell0* - Reviewers: *Amygos* - Created at: 2025-11-13T16:52:40Z
 - :eyes:  **[fix: implemented persistent sessions](https://github.com/nethesis/ns8-nethvoice/pull/581)** by *tommaso-ascani* - Reviewers: *None* - Created at: 2025-11-07T14:55:16Z
--   **[Refactor route configuration with agent.set_route and improve certificate status detection](https://github.com/nethesis/ns8-nethvoice/pull/577)** by *Amygos* - Reviewers: *Stell0, stephdl* - Created at: 2025-11-05T14:33:16Z
+-   **[Refactor route configuration with agent.set_route and improve certificate status detection](https://github.com/nethesis/ns8-nethvoice/pull/577)** by *Amygos* - Reviewers: *stephdl, Stell0* - Created at: 2025-11-05T14:33:16Z
 
 ### nethesis/phone-island 1 
 
