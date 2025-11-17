@@ -1,6 +1,6 @@
 +++
 title = 'Open Pull Requests'
-date = 2025-11-16
+date = 2025-11-17
 +++
 
 ## Organization: nethserver
@@ -36,7 +36,7 @@ date = 2025-11-16
 
 ### NethServer/ns8-nethsecurity-controller 1 
 
-- :eyes:  **[Refactor Traefik route configuration and update lets_encrypt handling](https://github.com/NethServer/ns8-nethsecurity-controller/pull/121)** by *stephdl* - Reviewers: *None* - Created at: 2025-10-17T14:11:37Z
+- :eyes: :zzz: **[Refactor Traefik route configuration and update lets_encrypt handling](https://github.com/NethServer/ns8-nethsecurity-controller/pull/121)** by *stephdl* - Reviewers: *None* - Created at: 2025-10-17T14:11:37Z
 
 ### NethServer/ns8-mattermost 1 
 
