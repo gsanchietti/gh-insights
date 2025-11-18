@@ -1,18 +1,15 @@
 +++
 title = 'Open Pull Requests'
-date = 2025-11-17
+date = 2025-11-18
 +++
 
 ## Organization: nethserver
 
-### NethServer/ns8-core 2 
+### NethServer/ns8-core 3 
 
+-   **[feat(remove-module): reclaim space from disks](https://github.com/NethServer/ns8-core/pull/984)** by *DavidePrincipi* - Reviewers: *gsanchietti* - Created at: 2025-11-17T15:17:01Z
 -   **[Add Applications Center with module management features](https://github.com/NethServer/ns8-core/pull/982)** by *stephdl* - Reviewers: *andre8244* - Created at: 2025-11-13T13:34:02Z
 - :eyes:  **[Enhance node details and NS7 migration support](https://github.com/NethServer/ns8-core/pull/972)** by *stephdl* - Reviewers: *None* - Created at: 2025-10-29T17:06:45Z
-
-### NethServer/ns8-nextcloud 1 
-
--   **[Update upstream name to Nextcloud 32 - Hub 25 Autumn](https://github.com/NethServer/ns8-nextcloud/pull/170)** by *DavidePrincipi* - Reviewers: *stephdl* - Created at: 2025-11-14T14:58:06Z
 
 ### NethServer/ns8-minio 1 
 
@@ -26,55 +23,52 @@ date = 2025-11-17
 
 -   **[feat(nethvoice): don't force Let's Encrypt setting](https://github.com/NethServer/nethserver-ns8-migration/pull/124)** by *Amygos* - Reviewers: *Stell0* - Created at: 2025-11-13T13:27:55Z
 
-### NethServer/nethsecurity 1 
-
--   **[fix(flashstart): reloading firewall instead of restarting](https://github.com/NethServer/nethsecurity/pull/1432)** by *Tbaile* - Reviewers: *gsanchietti* - Created at: 2025-11-14T15:51:34Z
-
-### NethServer/ns8-mail 1 
-
--   **[feat(get-facts): count dovecot custom directives](https://github.com/NethServer/ns8-mail/pull/207)** by *DavidePrincipi* - Reviewers: *mrmarkuz* - Created at: 2025-11-14T17:16:27Z
-
 ### NethServer/ns8-nethsecurity-controller 1 
 
 - :eyes: :zzz: **[Refactor Traefik route configuration and update lets_encrypt handling](https://github.com/NethServer/ns8-nethsecurity-controller/pull/121)** by *stephdl* - Reviewers: *None* - Created at: 2025-10-17T14:11:37Z
 
-### NethServer/ns8-mattermost 1 
+### NethServer/ns8-mattermost 2 
 
+-   **[Configure automerge for Postgres dependency updates](https://github.com/NethServer/ns8-mattermost/pull/125)** by *stephdl* - Reviewers: *DavidePrincipi* - Created at: 2025-11-17T16:08:38Z
 - :eyes: :zzz: **[Add Traefik configuration and enhance settings component](https://github.com/NethServer/ns8-mattermost/pull/119)** by *stephdl* - Reviewers: *None* - Created at: 2025-10-14T13:45:21Z
+
+### NethServer/ns8-webtop 1 
+
+-   **[Update renovate.json with package rules for docker](https://github.com/NethServer/ns8-webtop/pull/166)** by *stephdl* - Reviewers: *DavidePrincipi* - Created at: 2025-11-17T15:26:58Z
 
 ### NethServer/ns8-roundcubemail 1 
 
 - :eyes: :zzz: **[Add Traefik configuration and enhance Lets Encrypt handling](https://github.com/NethServer/ns8-roundcubemail/pull/59)** by *stephdl* - Reviewers: *None* - Created at: 2025-10-16T15:21:00Z
 
-### NethServer/ns8-piler 1 
+### NethServer/ns8-piler 2 
 
+-   **[Enhance renovate.json with package rules](https://github.com/NethServer/ns8-piler/pull/50)** by *stephdl* - Reviewers: *DavidePrincipi* - Created at: 2025-11-17T16:15:51Z
 - :eyes: :zzz: **[Add Traefik configuration and enhance loading state management](https://github.com/NethServer/ns8-piler/pull/48)** by *stephdl* - Reviewers: *None* - Created at: 2025-10-16T10:14:03Z
 
 ### NethServer/phonehome-server 1 
 
 - :eyes:  **[chore(master): release 1.5.1](https://github.com/NethServer/phonehome-server/pull/138)** by *Tbaile* - Reviewers: *None* - Created at: 2025-11-15T06:38:38Z
 
-### NethServer/nethsecurity-docs 3 
+### NethServer/nethsecurity-ui 1 
 
-- :eyes:  **[Add network scanning and some improvements](https://github.com/NethServer/nethsecurity-docs/pull/219)** by *cotosso* - Reviewers: *None* - Created at: 2025-11-14T14:53:35Z
--   **[interfaces name in migration](https://github.com/NethServer/nethsecurity-docs/pull/218)** by *cotosso* - Reviewers: *filippocarletti* - Created at: 2025-11-10T17:43:32Z
+-   **[feat(scan-network): add sorting, search functionality and reservation info](https://github.com/NethServer/nethsecurity-ui/pull/661)** by *m-dilorenzi* - Reviewers: *Tbaile* - Created at: 2025-11-17T16:25:05Z
+
+### NethServer/nethsecurity-docs 1 
+
 -  :zzz: **[fix(ha): update for beta2](https://github.com/NethServer/nethsecurity-docs/pull/208)** by *gsanchietti* - Reviewers: *filippocarletti* - Created at: 2025-10-02T10:43:05Z
 
 ### NethServer/ns8-user-manager 1 
 
 - :eyes: :zzz: **[chore(main): release 1.2.5](https://github.com/NethServer/ns8-user-manager/pull/134)** by *Tbaile* - Reviewers: *None* - Created at: 2025-10-06T20:38:53Z
 
-### NethServer/ns8-sogo 1 
-
-- :eyes: :zzz: **[Fix typos in customization in README.md](https://github.com/NethServer/ns8-sogo/pull/44)** by *mrmarkuz* - Reviewers: *None* - Created at: 2025-09-03T06:35:30Z
-
 ### NethServer/nethlink 1 
 
 - :eyes:  **[fix: show favorite only if operators](https://github.com/NethServer/nethlink/pull/75)** by *edospadoni* - Reviewers: *None* - Created at: 2025-11-11T08:22:28Z
 
-### NethServer/nethvoice-docs 1 
+### NethServer/nethvoice-docs 2 
 
--   **[docs: add Let's Encrypt setup step for NethVoice](https://github.com/NethServer/nethvoice-docs/pull/21)** by *Amygos* - Reviewers: *gsanchietti, Stell0* - Created at: 2025-11-14T16:59:31Z
+- :eyes:  **[Revise NethHotel configuration documentation](https://github.com/NethServer/nethvoice-docs/pull/23)** by *viktec* - Reviewers: *None* - Created at: 2025-11-17T16:10:13Z
+-   **[docs: add Let's Encrypt setup step for NethVoice](https://github.com/NethServer/nethvoice-docs/pull/21)** by *Amygos* - Reviewers: *Stell0* - Created at: 2025-11-14T16:59:31Z
 
 ### NethServer/ns8-matrix 2 
 
@@ -95,9 +89,10 @@ date = 2025-11-17
 
 -  :zzz: **[Removed old notification service usage](https://github.com/nethesis/nethcti-app-iphone/pull/37)** by *NicolaMrAPPs* - Reviewers: *b9874e* - Created at: 2023-08-02T09:19:30Z
 
-### nethesis/ns8-nethvoice 1 
+### nethesis/ns8-nethvoice 2 
 
--   **[Refactor route configuration with agent.set_route and improve certificate status detection](https://github.com/nethesis/ns8-nethvoice/pull/577)** by *Amygos* - Reviewers: *Stell0* - Created at: 2025-11-05T14:33:16Z
+-   **[Add Audio Test code for NethLink audio device initialization](https://github.com/nethesis/ns8-nethvoice/pull/600)** by *andrea-marchionni* - Reviewers: *Stell0* - Created at: 2025-11-17T16:07:29Z
+- :eyes:  **[Refactor route configuration with agent.set_route and improve certificate status detection](https://github.com/nethesis/ns8-nethvoice/pull/577)** by *Amygos* - Reviewers: *None* - Created at: 2025-11-05T14:33:16Z
 
 ### nethesis/phone-island 1 
 
