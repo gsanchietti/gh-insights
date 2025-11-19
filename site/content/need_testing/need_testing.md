@@ -1,11 +1,7 @@
 +++
-title = 'Need testing (20)'
-date = 2025-11-18
+title = 'Need testing (18)'
+date = 2025-11-19
 +++
-
-## NethServer
-- :point_right: **[AD password history length slider fails above 24](https://github.com/NethServer/dev/issues/7735)** (#7445) by *nrauso* (Created: 2025-11-06, Updated: 2025-11-14T14:26:31Z)
-- :point_right: **[Assign specific app volumes to dedicated storage](https://github.com/NethServer/dev/issues/7665)** (#7445) by *DavidePrincipi* (Created: 2025-10-01, Updated: 2025-11-14T16:43:53Z)
 
 ## NethVoice
 - :point_right: **[NethVoice CTI: Randomly when dialing manually in CTI, the call fails and cuts the number](https://github.com/NethServer/dev/issues/7734)** (#7445) by *Ilvo* (Created: 2025-11-05, Updated: 2025-11-17T08:32:08Z)
@@ -20,13 +16,15 @@ date = 2025-11-18
 - :point_right: **[NethLink and Phone Island: Closing Second Conference Call Breaks Previous Call](https://github.com/NethServer/dev/issues/7550)** (#7445) by *viktec* (Created: 2025-07-09, Updated: 2025-11-17T08:27:34Z)
 - :point_right: **[NethLink e Phone Island : Conference Second Call Without Audio and Banner Auto-Close](https://github.com/NethServer/dev/issues/7446)** (#7445) by *viktec* (Created: 2025-05-07, Updated: 2025-11-17T08:27:32Z)
 
+## NethServer
+- :point_right: **[Applications page and enhanced Node details](https://github.com/NethServer/dev/issues/7506)** (#7445) by *DavidePrincipi* (Created: 2025-06-16, Updated: 2025-11-18T10:00:31Z)
+
 ## NethVoice
 - :point_right: **[NethVoice: Automate RPS Updates for Migrations](https://github.com/NethServer/dev/issues/7445)** (#7445) by *Amygos* (Created: 2025-05-07, Updated: 2025-11-17T08:35:48Z)
 
 ## NethSecurity
 - :point_right: **[Non-graceful firewall restart can cause brief disconnections when updating FlashStart ProPlus configuration](https://github.com/NethServer/nethsecurity/issues/1421)** (#1354) by *cotosso* (Created: 2025-11-06, Updated: 2025-11-17T09:00:47Z)
 - :point_right: **[IPS: Configuration fails with CPUs with more than 16 logical cores](https://github.com/NethServer/nethsecurity/issues/1417)** (#1354) by *Tbaile* (Created: 2025-11-03, Updated: 2025-11-14T15:47:01Z)
-- :point_right: **[WireGuard: DNS responses not reaching clients due to incorrect address format](https://github.com/NethServer/nethsecurity/issues/1415)** (#1354) by *Tbaile* (Created: 2025-11-03, Updated: 2025-11-14T16:34:42Z)
 - :point_right: **[Scan Network: hostname missing](https://github.com/NethServer/nethsecurity/issues/1401)** (#1354) by *francio87* (Created: 2025-10-16, Updated: 2025-11-14T15:39:47Z)
 - :point_right: **[Flashstart bypass: bypassed IPs still redirected to catch-all DNS rule](https://github.com/NethServer/nethsecurity/issues/1393)** (#1354) by *Tbaile* (Created: 2025-10-08, Updated: 2025-11-14T16:33:04Z)
 - :point_right: **[Reverse proxy: inconsistent behavior for default certificate](https://github.com/NethServer/nethsecurity/issues/1354)** (#1354) by *francio87* (Created: 2025-08-22, Updated: 2025-11-14T15:26:01Z)

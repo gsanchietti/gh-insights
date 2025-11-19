@@ -1,6 +1,6 @@
 +++
 title = 'Open Pull Requests by Bots'
-date = 2025-11-18
+date = 2025-11-19
 +++
 
 ## Organization: nethserver
@@ -13,9 +13,10 @@ date = 2025-11-18
 - :eyes: :zzz: **[Bump on-headers and compression in /ui](https://github.com/NethServer/nethserver-business/pull/7)** by *dependabot[bot]* - Reviewers: *None* - Created at: 2025-07-18T00:03:46Z
 - :eyes: :zzz: **[Bump pbkdf2 from 3.0.17 to 3.1.3 in /ui](https://github.com/NethServer/nethserver-business/pull/6)** by *dependabot[bot]* - Reviewers: *None* - Created at: 2025-06-24T07:44:23Z
 
-### NethServer/ns8-core 3 
+### NethServer/ns8-core 4 
 
-- :eyes:  **[chore(deps): update dependency grafana/loki to v3.5.8](https://github.com/NethServer/ns8-core/pull/976)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-11-05T23:46:41Z
+- :eyes:  **[chore(deps): update redis docker tag to v8.4.0](https://github.com/NethServer/ns8-core/pull/987)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-11-19T01:08:48Z
+- :eyes:  **[chore(deps): update dependency grafana/loki to v3.6.0](https://github.com/NethServer/ns8-core/pull/976)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-11-05T23:46:41Z
 - :eyes: :zzz: **[chore(deps): update golang docker tag to v1.25.4](https://github.com/NethServer/ns8-core/pull/964)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-10-16T13:50:53Z
 - :eyes: :zzz: **[chore(deps): update ghcr.io/marketsquare/robotframework-browser/rfbrowser-stable docker tag to v19](https://github.com/NethServer/ns8-core/pull/804)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-02-11T01:11:58Z
 
@@ -77,7 +78,7 @@ date = 2025-11-18
 
 ### NethServer/nethsecurity-controller 4 
 
-- :eyes:  **[fix(deps): update module github.com/oschwald/geoip2-golang to v2](https://github.com/NethServer/nethsecurity-controller/pull/185)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-10-20T02:05:28Z
+- :eyes: :zzz: **[fix(deps): update module github.com/oschwald/geoip2-golang to v2](https://github.com/NethServer/nethsecurity-controller/pull/185)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-10-20T02:05:28Z
 - :eyes: :zzz: **[fix(deps): update module github.com/appleboy/gin-jwt/v2 to v3](https://github.com/NethServer/nethsecurity-controller/pull/180)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-10-13T00:52:48Z
 - :eyes: :zzz: **[chore(deps): update github/codeql-action action to v4](https://github.com/NethServer/nethsecurity-controller/pull/179)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-10-13T00:52:38Z
 - :eyes: :zzz: **[fix(deps): update module github.com/golang-jwt/jwt/v4 to v5](https://github.com/NethServer/nethsecurity-controller/pull/171)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-09-22T01:47:06Z
@@ -224,19 +225,18 @@ date = 2025-11-18
 
 - :eyes: :zzz: **[Bump jspdf from 2.1.1 to 3.0.1 in /ui](https://github.com/nethesis/nethvoice-report/pull/203)** by *dependabot[bot]* - Reviewers: *None* - Created at: 2025-03-19T07:36:39Z
 
-### nethesis/ns8-nethvoice 11 
+### nethesis/ns8-nethvoice 10 
 
-- :eyes:  **[fix(deps): update dependency angular-mocks to v1.8.3](https://github.com/nethesis/ns8-nethvoice/pull/602)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-11-18T03:13:40Z
-- :eyes:  **[fix(deps): update dependency angular-cookies to v1.8.3](https://github.com/nethesis/ns8-nethvoice/pull/601)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-11-18T03:13:25Z
-- :eyes:  **[fix(deps): update dependency angular-bootstrap to v2.5.0](https://github.com/nethesis/ns8-nethvoice/pull/599)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-11-17T15:12:12Z
-- :eyes:  **[fix(deps): update dependency angular to v1.8.3](https://github.com/nethesis/ns8-nethvoice/pull/598)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-11-17T15:12:02Z
+- :eyes:  **[chore(deps): update ghcr.io/nethesis/nethvoice-cti docker tag to v0.13.6](https://github.com/nethesis/ns8-nethvoice/pull/604)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-11-18T16:11:11Z
+-   **[fix(deps): update dependency angular-patternfly to v3.26.0](https://github.com/nethesis/ns8-nethvoice/pull/603)** by *renovate[bot]* - Reviewers: *tonyco97* - Created at: 2025-11-18T07:12:43Z
+-   **[fix(deps): update dependency angular-mocks to v1.8.3](https://github.com/nethesis/ns8-nethvoice/pull/602)** by *renovate[bot]* - Reviewers: *tonyco97* - Created at: 2025-11-18T03:13:40Z
+-   **[fix(deps): update dependency angular-cookies to v1.8.3](https://github.com/nethesis/ns8-nethvoice/pull/601)** by *renovate[bot]* - Reviewers: *tonyco97* - Created at: 2025-11-18T03:13:25Z
+-   **[fix(deps): update dependency angular-bootstrap to v2.5.0](https://github.com/nethesis/ns8-nethvoice/pull/599)** by *renovate[bot]* - Reviewers: *tonyco97* - Created at: 2025-11-17T15:12:12Z
+-   **[fix(deps): update dependency angular to v1.8.3](https://github.com/nethesis/ns8-nethvoice/pull/598)** by *renovate[bot]* - Reviewers: *tonyco97* - Created at: 2025-11-17T15:12:02Z
 - :eyes:  **[chore(deps): update node.js to v22.21.1](https://github.com/nethesis/ns8-nethvoice/pull/596)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-11-17T14:19:52Z
-- :eyes:  **[chore(deps): update node.js to v18.20.8](https://github.com/nethesis/ns8-nethvoice/pull/595)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-11-17T14:17:29Z
--   **[chore(deps): update mariadb docker tag to v10.11.15](https://github.com/nethesis/ns8-nethvoice/pull/568)** by *renovate[bot]* - Reviewers: *Stell0* - Created at: 2025-10-22T12:00:21Z
--  :zzz: **[chore(deps): update ghcr.io/marketsquare/robotframework-browser/rfbrowser-stable docker tag to v10.1.0](https://github.com/nethesis/ns8-nethvoice/pull/565)** by *renovate[bot]* - Reviewers: *Amygos* - Created at: 2025-10-17T07:59:03Z
+-   **[chore(deps): update node.js to v18.20.8](https://github.com/nethesis/ns8-nethvoice/pull/595)** by *renovate[bot]* - Reviewers: *andre8244* - Created at: 2025-11-17T14:17:29Z
 -  :zzz: **[chore(deps): update docker.io/library/golang docker tag to v1.25.4](https://github.com/nethesis/ns8-nethvoice/pull/563)** by *renovate[bot]* - Reviewers: *edospadoni* - Created at: 2025-10-16T01:44:45Z
 -  :zzz: **[chore(deps): update docker.io/library/alpine docker tag to v3.22.2](https://github.com/nethesis/ns8-nethvoice/pull/562)** by *renovate[bot]* - Reviewers: *Amygos, edospadoni* - Created at: 2025-10-16T01:44:42Z
--  :zzz: **[Translations update from Hosted Weblate](https://github.com/nethesis/ns8-nethvoice/pull/548)** by *weblate* - Reviewers: *Amygos* - Created at: 2025-09-24T10:03:11Z
 
 ### nethesis/nethvoice-cti 1 
 
@@ -246,6 +246,10 @@ date = 2025-11-18
 
 - :eyes: :zzz: **[chore(deps): update redis docker tag to v8](https://github.com/nethesis/ns8-nethvoice-proxy/pull/78)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-07-08T11:53:47Z
 - :eyes: :zzz: **[build(deps): bump http-cache-semantics from 4.1.0 to 4.2.0 in /ui](https://github.com/nethesis/ns8-nethvoice-proxy/pull/71)** by *dependabot[bot]* - Reviewers: *None* - Created at: 2025-06-30T12:12:50Z
+
+### nethesis/parceler 1 
+
+- :eyes:  **[chore(deps): update redis docker tag to v8.4.0](https://github.com/nethesis/parceler/pull/129)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-11-19T00:38:55Z
 
 ### nethesis/nethKaris 1 
 
