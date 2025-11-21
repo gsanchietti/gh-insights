@@ -1,13 +1,13 @@
 +++
 title = 'Open Pull Requests'
-date = 2025-11-20
+date = 2025-11-21
 +++
 
 ## Organization: nethserver
 
 ### NethServer/ns8-core 1 
 
--   **[Add Applications Center with module management features](https://github.com/NethServer/ns8-core/pull/982)** by *stephdl* - Reviewers: *DavidePrincipi, andre8244* - Created at: 2025-11-13T13:34:02Z
+- :eyes:  **[Add Applications Center with module management features](https://github.com/NethServer/ns8-core/pull/982)** by *stephdl* - Reviewers: *None* - Created at: 2025-11-13T13:34:02Z
 
 ### NethServer/ns8-minio 1 
 
@@ -17,6 +17,10 @@ date = 2025-11-20
 
 - :eyes:  **[fix: cryptography 45 deprecation warning](https://github.com/NethServer/ns8-traefik/pull/120)** by *DavidePrincipi* - Reviewers: *None* - Created at: 2025-10-28T08:48:29Z
 
+### NethServer/nethsecurity-controller 1 
+
+-   **[chore: improve test coverage](https://github.com/NethServer/nethsecurity-controller/pull/194)** by *gsanchietti* - Reviewers: *Tbaile* - Created at: 2025-11-19T15:07:13Z
+
 ### NethServer/ns8-nethsecurity-controller 1 
 
 - :eyes: :zzz: **[Refactor Traefik route configuration and update lets_encrypt handling](https://github.com/NethServer/ns8-nethsecurity-controller/pull/121)** by *stephdl* - Reviewers: *None* - Created at: 2025-10-17T14:11:37Z
@@ -25,9 +29,10 @@ date = 2025-11-20
 
 - :eyes: :zzz: **[Add Traefik configuration and enhance settings component](https://github.com/NethServer/ns8-mattermost/pull/119)** by *stephdl* - Reviewers: *None* - Created at: 2025-10-14T13:45:21Z
 
-### NethServer/ns8-webtop 1 
+### NethServer/ns8-webtop 2 
 
--   **[fix: remove cdn dependency](https://github.com/NethServer/ns8-webtop/pull/168)** by *edospadoni* - Reviewers: *Amygos* - Created at: 2025-11-19T16:54:56Z
+- :eyes:  **[Update theme presets ](https://github.com/NethServer/ns8-webtop/pull/170)** by *stephdl* - Reviewers: *None* - Created at: 2025-11-20T16:38:37Z
+-   **[Improve testing for mail module and webtop installation](https://github.com/NethServer/ns8-webtop/pull/169)** by *stephdl* - Reviewers: *DavidePrincipi* - Created at: 2025-11-20T13:57:39Z
 
 ### NethServer/ns8-roundcubemail 1 
 
@@ -43,7 +48,7 @@ date = 2025-11-20
 
 ### NethServer/nethsecurity-ui 1 
 
-- :eyes:  **[feat(scan-network): add sorting, search functionality and reservation info](https://github.com/NethServer/nethsecurity-ui/pull/661)** by *m-dilorenzi* - Reviewers: *None* - Created at: 2025-11-17T16:25:05Z
+- :eyes:  **[chore(main): release 2.8.0](https://github.com/NethServer/nethsecurity-ui/pull/662)** by *Tbaile* - Reviewers: *None* - Created at: 2025-11-20T14:46:01Z
 
 ### NethServer/nethsecurity-docs 1 
 
@@ -56,6 +61,10 @@ date = 2025-11-20
 ### NethServer/nethlink 1 
 
 - :eyes:  **[feat: trigger audio init on first start](https://github.com/NethServer/nethlink/pull/77)** by *edospadoni* - Reviewers: *None* - Created at: 2025-11-18T13:33:46Z
+
+### NethServer/nethvoice-docs 1 
+
+- :eyes:  **[update(migration): update phone registration steps for migration](https://github.com/NethServer/nethvoice-docs/pull/24)** by *Stell0* - Reviewers: *None* - Created at: 2025-11-20T09:05:18Z
 
 ### NethServer/ns8-matrix 2 
 
@@ -96,5 +105,9 @@ date = 2025-11-20
 ### nethesis/satellite 1 
 
 - :eyes: :zzz: **[feature(api): diarized transcription api](https://github.com/nethesis/satellite/pull/4)** by *Stell0* - Reviewers: *None* - Created at: 2025-09-19T07:28:04Z
+
+### nethesis/nethcti-middleware 1 
+
+- :eyes:  **[fix: allows audio files download](https://github.com/nethesis/nethcti-middleware/pull/9)** by *tommaso-ascani* - Reviewers: *None* - Created at: 2025-11-20T16:22:24Z
 
 

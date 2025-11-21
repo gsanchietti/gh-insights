@@ -2,9 +2,13 @@
 
 title = 'To be released soon'
 
-date = 2025-11-20
+date = 2025-11-21
 
 +++
+
+### NethServer
+
+- [WebTop: eliminate external CDN dependencies from login UI to prevent downtime issues](https://github.com/NethServer/dev/issues/7755) (#7445) by Amygos (Created: 2025-11-19T16:24:44Z, Updated: 2025-11-20T10:37:35Z)
 
 ### NethVoice
 
@@ -15,6 +19,8 @@ date = 2025-11-20
 - [NethCTI Middleware: sessions are lost after restart](https://github.com/NethServer/dev/issues/7724) (#7445) by edospadoni (Created: 2025-11-03T15:32:27Z, Updated: 2025-11-19T11:31:04Z)
 
 - [NethVoice: Error notification shown when removing provisioned phones](https://github.com/NethServer/dev/issues/7721) (#7445) by mgarra (Created: 2025-11-03T12:03:52Z, Updated: 2025-11-19T10:30:00Z)
+
+- [NethVoice: Backend support for new certificate management UX (failures & Traefik restart warning)](https://github.com/NethServer/dev/issues/7720) (#7445) by Amygos (Created: 2025-11-03T09:18:42Z, Updated: 2025-11-20T13:38:29Z)
 
 - [MoH settings are reset after changing the queue in the Visual Plan](https://github.com/NethServer/dev/issues/7716) (#7445) by Ilvo (Created: 2025-10-31T16:24:17Z, Updated: 2025-11-19T14:20:26Z)
 
