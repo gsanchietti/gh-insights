@@ -1,9 +1,11 @@
 +++
-title = 'Need testing (7)'
-date = 2025-11-21
+title = 'Need testing (9)'
+date = 2025-11-22
 +++
 
 ## NethVoice
+- **[NethVoice: Add audio initialization extension in Asterisk dialplan](https://github.com/NethServer/dev/issues/7748)** (#7506) by *edospadoni* (Created: 2025-11-17, Updated: 2025-11-21T09:22:26Z)
+- :point_right: **[NethVoice CTI: Unable to download audio files recorded via CTI](https://github.com/NethServer/dev/issues/7738)** (#7506) by *Ilvo* (Created: 2025-11-07, Updated: 2025-11-21T09:12:52Z)
 - :point_right: **[Nethvoice Proxy: Add Let's Encrypt On/Off Flag to Nethvoice Proxy Module Backend](https://github.com/NethServer/dev/issues/7700)** (#7506) by *Amygos* (Created: 2025-10-29, Updated: 2025-11-12T16:13:24Z)
 
 ## NethServer
