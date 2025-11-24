@@ -1,6 +1,6 @@
 +++
 title = 'Open Pull Requests by Bots'
-date = 2025-11-23
+date = 2025-11-24
 +++
 
 ## Organization: nethserver
@@ -53,7 +53,7 @@ date = 2025-11-23
 ### NethServer/ns8-traefik 2 
 
 - :eyes:  **[chore(deps): update traefik docker tag to v3.5.4](https://github.com/NethServer/ns8-traefik/pull/121)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-10-29T00:15:27Z
-- :eyes: :zzz: **[chore(deps): update ghcr.io/marketsquare/robotframework-browser/rfbrowser-stable docker tag to v19.10.1](https://github.com/NethServer/ns8-traefik/pull/70)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-01-26T16:22:41Z
+- :eyes: :zzz: **[chore(deps): update ghcr.io/marketsquare/robotframework-browser/rfbrowser-stable docker tag to v19.11.0](https://github.com/NethServer/ns8-traefik/pull/70)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-01-26T16:22:41Z
 
 ### NethServer/ns8-openldap 1 
 
@@ -75,6 +75,12 @@ date = 2025-11-23
 - :eyes:  **[chore(deps): update actions/checkout action to v6](https://github.com/NethServer/nethsecurity/pull/1437)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-11-20T17:51:30Z
 - :eyes: :zzz: **[chore(deps): update debian docker tag to v12.12](https://github.com/NethServer/nethsecurity/pull/1366)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-09-08T21:58:45Z
 - :eyes: :zzz: **[chore(deps): update debian docker tag to v13](https://github.com/NethServer/nethsecurity/pull/1342)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-08-12T22:46:15Z
+
+### NethServer/nethsecurity-controller 3 
+
+- :eyes:  **[fix(deps): update module github.com/appleboy/gin-jwt/v2 to v2.10.3](https://github.com/NethServer/nethsecurity-controller/pull/199)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-11-24T01:59:03Z
+- :eyes:  **[fix(deps): update module github.com/appleboy/gin-jwt/v2 to v2.9.2](https://github.com/NethServer/nethsecurity-controller/pull/198)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-11-24T01:58:58Z
+- :eyes:  **[chore(deps): update docker.io/traefik docker tag to v3.6.2](https://github.com/NethServer/nethsecurity-controller/pull/197)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-11-24T01:58:35Z
 
 ### NethServer/ns8-mail 2 
 
@@ -193,7 +199,7 @@ date = 2025-11-23
 
 ### NethServer/ns8-matrix 5 
 
-- :eyes:  **[chore(deps-dev): bump sass-loader from 10.2.0 to 16.0.6 in /ui](https://github.com/NethServer/ns8-matrix/pull/9)** by *dependabot[bot]* - Reviewers: *None* - Created at: 2025-10-24T06:32:05Z
+- :eyes: :zzz: **[chore(deps-dev): bump sass-loader from 10.2.0 to 16.0.6 in /ui](https://github.com/NethServer/ns8-matrix/pull/9)** by *dependabot[bot]* - Reviewers: *None* - Created at: 2025-10-24T06:32:05Z
 - :eyes: :zzz: **[Bump @carbon/vue from 2.40.0 to 3.0.27 in /ui](https://github.com/NethServer/ns8-matrix/pull/6)** by *dependabot[bot]* - Reviewers: *None* - Created at: 2025-09-30T07:58:25Z
 - :eyes: :zzz: **[Bump @vue/cli-plugin-vuex from 4.5.13 to 5.0.9 in /ui](https://github.com/NethServer/ns8-matrix/pull/5)** by *dependabot[bot]* - Reviewers: *None* - Created at: 2025-09-30T07:58:01Z
 - :eyes: :zzz: **[Bump vue-axios from 3.2.4 to 3.5.2 in /ui](https://github.com/NethServer/ns8-matrix/pull/3)** by *dependabot[bot]* - Reviewers: *None* - Created at: 2025-09-30T07:57:44Z
