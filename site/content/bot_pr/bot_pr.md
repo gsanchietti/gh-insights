@@ -1,6 +1,6 @@
 +++
 title = 'Open Pull Requests by Bots'
-date = 2025-11-24
+date = 2025-11-25
 +++
 
 ## Organization: nethserver
@@ -76,12 +76,6 @@ date = 2025-11-24
 - :eyes: :zzz: **[chore(deps): update debian docker tag to v12.12](https://github.com/NethServer/nethsecurity/pull/1366)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-09-08T21:58:45Z
 - :eyes: :zzz: **[chore(deps): update debian docker tag to v13](https://github.com/NethServer/nethsecurity/pull/1342)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-08-12T22:46:15Z
 
-### NethServer/nethsecurity-controller 3 
-
-- :eyes:  **[fix(deps): update module github.com/appleboy/gin-jwt/v2 to v2.10.3](https://github.com/NethServer/nethsecurity-controller/pull/199)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-11-24T01:59:03Z
-- :eyes:  **[fix(deps): update module github.com/appleboy/gin-jwt/v2 to v2.9.2](https://github.com/NethServer/nethsecurity-controller/pull/198)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-11-24T01:58:58Z
-- :eyes:  **[chore(deps): update docker.io/traefik docker tag to v3.6.2](https://github.com/NethServer/nethsecurity-controller/pull/197)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-11-24T01:58:35Z
-
 ### NethServer/ns8-mail 2 
 
 - :eyes: :zzz: **[chore(deps): update alpine docker tag to v3.22.2](https://github.com/NethServer/ns8-mail/pull/202)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-09-15T08:47:47Z
@@ -102,15 +96,19 @@ date = 2025-11-24
 
 - :eyes:  **[chore(deps): update collabora/code docker tag to v25.04.7.2.1](https://github.com/NethServer/ns8-collabora/pull/48)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-11-18T03:08:56Z
 
-### NethServer/ns8-webtop 7 
+### NethServer/ns8-webtop 6 
 
 - :eyes:  **[chore(deps): update actions/checkout action to v6](https://github.com/NethServer/ns8-webtop/pull/171)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-11-20T17:47:50Z
--   **[Update to upstream release wt-5.30.0](https://github.com/NethServer/ns8-webtop/pull/167)** by *nethbot* - Reviewers: *Amygos* - Created at: 2025-11-19T15:33:43Z
 - :eyes:  **[chore(deps): update postgres docker tag to v17.7](https://github.com/NethServer/ns8-webtop/pull/165)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-11-13T22:55:55Z
 - :eyes: :zzz: **[chore(deps): update tomcat docker tag to v9.0.112](https://github.com/NethServer/ns8-webtop/pull/158)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-10-07T01:52:33Z
 - :eyes: :zzz: **[chore(deps): update postgres docker tag to v18](https://github.com/NethServer/ns8-webtop/pull/156)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-09-26T02:43:52Z
 - :eyes: :zzz: **[chore(deps): update mlocati/php-extension-installer docker tag to v2.9.18](https://github.com/NethServer/ns8-webtop/pull/130)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-06-04T12:42:44Z
 - :eyes: :zzz: **[chore(deps): update ghcr.io/marketsquare/robotframework-browser/rfbrowser-stable docker tag to v19.11.0](https://github.com/NethServer/ns8-webtop/pull/99)** by *renovate[bot]* - Reviewers: *None* - Created at: 2024-12-19T16:40:00Z
+
+### NethServer/ns8-roundcubemail 2 
+
+- :eyes:  **[chore(deps): update mariadb docker tag to v12](https://github.com/NethServer/ns8-roundcubemail/pull/64)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-11-24T18:31:02Z
+- :eyes:  **[chore(deps): update ghcr.io/marketsquare/robotframework-browser/rfbrowser-stable docker tag to v19](https://github.com/NethServer/ns8-roundcubemail/pull/63)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-11-24T18:30:58Z
 
 ### NethServer/ns8-piler 4 
 

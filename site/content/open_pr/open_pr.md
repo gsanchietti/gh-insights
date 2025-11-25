@@ -1,13 +1,13 @@
 +++
 title = 'Open Pull Requests'
-date = 2025-11-24
+date = 2025-11-25
 +++
 
 ## Organization: nethserver
 
 ### NethServer/ns8-core 1 
 
-- :eyes:  **[Add Applications Center with module management features](https://github.com/NethServer/ns8-core/pull/982)** by *stephdl* - Reviewers: *None* - Created at: 2025-11-13T13:34:02Z
+-   **[Add Applications Center with module management features](https://github.com/NethServer/ns8-core/pull/982)** by *stephdl* - Reviewers: *andre8244* - Created at: 2025-11-13T13:34:02Z
 
 ### NethServer/ns8-minio 1 
 
@@ -17,6 +17,15 @@ date = 2025-11-24
 
 - :eyes:  **[fix: cryptography 45 deprecation warning](https://github.com/NethServer/ns8-traefik/pull/120)** by *DavidePrincipi* - Reviewers: *None* - Created at: 2025-10-28T08:48:29Z
 
+### NethServer/nethsecurity 1 
+
+-  :zzz: **[build(netifyd): upgrade to v5](https://github.com/NethServer/nethsecurity/pull/1290)** by *Tbaile* - Reviewers: *gsanchietti* - Created at: 2025-07-03T11:05:14Z
+
+### NethServer/ns8-nethsecurity-controller 2 
+
+- :eyes:  **[feat(ci): renovate, automerge patches](https://github.com/NethServer/ns8-nethsecurity-controller/pull/135)** by *gsanchietti* - Reviewers: *None* - Created at: 2025-11-24T07:54:15Z
+-   **[feat: add mtu and mssfix options](https://github.com/NethServer/ns8-nethsecurity-controller/pull/131)** by *gsanchietti* - Reviewers: *Tbaile* - Created at: 2025-11-21T13:04:54Z
+
 ### NethServer/ns8-mattermost 1 
 
 - :eyes: :zzz: **[Add Traefik configuration and enhance settings component](https://github.com/NethServer/ns8-mattermost/pull/119)** by *stephdl* - Reviewers: *None* - Created at: 2025-10-14T13:45:21Z
@@ -25,8 +34,13 @@ date = 2025-11-24
 
 -   **[Update theme presets ](https://github.com/NethServer/ns8-webtop/pull/170)** by *stephdl* - Reviewers: *Amygos* - Created at: 2025-11-20T16:38:37Z
 
-### NethServer/ns8-roundcubemail 1 
+### NethServer/python3-nethsec 1 
 
+- :eyes: :zzz: **[fix(dpi): migrate to new version](https://github.com/NethServer/python3-nethsec/pull/105)** by *Tbaile* - Reviewers: *None* - Created at: 2025-10-14T13:06:39Z
+
+### NethServer/ns8-roundcubemail 2 
+
+- :eyes:  **[Add installation and configuration tests for mail and roundcubemail modules](https://github.com/NethServer/ns8-roundcubemail/pull/62)** by *stephdl* - Reviewers: *None* - Created at: 2025-11-24T16:41:45Z
 - :eyes: :zzz: **[Add Traefik configuration and enhance Lets Encrypt handling](https://github.com/NethServer/ns8-roundcubemail/pull/59)** by *stephdl* - Reviewers: *None* - Created at: 2025-10-16T15:21:00Z
 
 ### NethServer/ns8-piler 1 
@@ -91,9 +105,5 @@ date = 2025-11-24
 ### nethesis/satellite 1 
 
 - :eyes: :zzz: **[feature(api): diarized transcription api](https://github.com/nethesis/satellite/pull/4)** by *Stell0* - Reviewers: *None* - Created at: 2025-09-19T07:28:04Z
-
-### nethesis/nethcti-middleware 1 
-
--   **[fix: handle boolean settings as strings with FlexBool type](https://github.com/nethesis/nethcti-middleware/pull/10)** by *edospadoni* - Reviewers: *tommaso-ascani* - Created at: 2025-11-21T11:41:04Z
 
 
