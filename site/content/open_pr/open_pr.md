@@ -1,13 +1,9 @@
 +++
 title = 'Open Pull Requests'
-date = 2025-11-25
+date = 2025-11-26
 +++
 
 ## Organization: nethserver
-
-### NethServer/ns8-core 1 
-
--   **[Add Applications Center with module management features](https://github.com/NethServer/ns8-core/pull/982)** by *stephdl* - Reviewers: *andre8244* - Created at: 2025-11-13T13:34:02Z
 
 ### NethServer/ns8-minio 1 
 
@@ -17,30 +13,25 @@ date = 2025-11-25
 
 - :eyes:  **[fix: cryptography 45 deprecation warning](https://github.com/NethServer/ns8-traefik/pull/120)** by *DavidePrincipi* - Reviewers: *None* - Created at: 2025-10-28T08:48:29Z
 
-### NethServer/nethsecurity 1 
+### NethServer/nethsecurity 2 
 
+- :eyes:  **[fix(interfaces): assign default metric for WANs](https://github.com/NethServer/nethsecurity/pull/1441)** by *Tbaile* - Reviewers: *None* - Created at: 2025-11-25T14:10:26Z
 -  :zzz: **[build(netifyd): upgrade to v5](https://github.com/NethServer/nethsecurity/pull/1290)** by *Tbaile* - Reviewers: *gsanchietti* - Created at: 2025-07-03T11:05:14Z
 
-### NethServer/ns8-nethsecurity-controller 2 
+### NethServer/ns8-nethsecurity-controller 1 
 
 - :eyes:  **[feat(ci): renovate, automerge patches](https://github.com/NethServer/ns8-nethsecurity-controller/pull/135)** by *gsanchietti* - Reviewers: *None* - Created at: 2025-11-24T07:54:15Z
--   **[feat: add mtu and mssfix options](https://github.com/NethServer/ns8-nethsecurity-controller/pull/131)** by *gsanchietti* - Reviewers: *Tbaile* - Created at: 2025-11-21T13:04:54Z
 
 ### NethServer/ns8-mattermost 1 
 
 - :eyes: :zzz: **[Add Traefik configuration and enhance settings component](https://github.com/NethServer/ns8-mattermost/pull/119)** by *stephdl* - Reviewers: *None* - Created at: 2025-10-14T13:45:21Z
 
-### NethServer/ns8-webtop 1 
-
--   **[Update theme presets ](https://github.com/NethServer/ns8-webtop/pull/170)** by *stephdl* - Reviewers: *Amygos* - Created at: 2025-11-20T16:38:37Z
-
 ### NethServer/python3-nethsec 1 
 
 - :eyes: :zzz: **[fix(dpi): migrate to new version](https://github.com/NethServer/python3-nethsec/pull/105)** by *Tbaile* - Reviewers: *None* - Created at: 2025-10-14T13:06:39Z
 
-### NethServer/ns8-roundcubemail 2 
+### NethServer/ns8-roundcubemail 1 
 
-- :eyes:  **[Add installation and configuration tests for mail and roundcubemail modules](https://github.com/NethServer/ns8-roundcubemail/pull/62)** by *stephdl* - Reviewers: *None* - Created at: 2025-11-24T16:41:45Z
 - :eyes: :zzz: **[Add Traefik configuration and enhance Lets Encrypt handling](https://github.com/NethServer/ns8-roundcubemail/pull/59)** by *stephdl* - Reviewers: *None* - Created at: 2025-10-16T15:21:00Z
 
 ### NethServer/ns8-piler 1 
@@ -62,10 +53,6 @@ date = 2025-11-25
 ### NethServer/ns8-user-manager 1 
 
 - :eyes: :zzz: **[chore(main): release 1.2.5](https://github.com/NethServer/ns8-user-manager/pull/134)** by *Tbaile* - Reviewers: *None* - Created at: 2025-10-06T20:38:53Z
-
-### NethServer/nethlink 1 
-
-- :eyes:  **[feat: trigger audio init on first start](https://github.com/NethServer/nethlink/pull/77)** by *edospadoni* - Reviewers: *None* - Created at: 2025-11-18T13:33:46Z
 
 ### NethServer/ns8-matrix 2 
 
@@ -90,8 +77,9 @@ date = 2025-11-25
 
 -   **[enhancement(freepbx): Don't slow down system at reboot](https://github.com/nethesis/ns8-nethvoice/pull/605)** by *Stell0* - Reviewers: *Amygos, DavidePrincipi* - Created at: 2025-11-19T14:40:39Z
 
-### nethesis/ns8-nethvoice-proxy 1 
+### nethesis/ns8-nethvoice-proxy 2 
 
+- :eyes:  **[configure-module: set fqdn and addresses as mandatory](https://github.com/nethesis/ns8-nethvoice-proxy/pull/100)** by *Amygos* - Reviewers: *None* - Created at: 2025-11-25T13:01:27Z
 - :eyes:  **[144 multi port binding](https://github.com/nethesis/ns8-nethvoice-proxy/pull/98)** by *paolovisintin* - Reviewers: *None* - Created at: 2025-11-14T10:18:53Z
 
 ### nethesis/nethvoice-client-docs 1 
@@ -105,5 +93,9 @@ date = 2025-11-25
 ### nethesis/satellite 1 
 
 - :eyes: :zzz: **[feature(api): diarized transcription api](https://github.com/nethesis/satellite/pull/4)** by *Stell0* - Reviewers: *None* - Created at: 2025-09-19T07:28:04Z
+
+### nethesis/nethcti-middleware 1 
+
+-   **[Database management](https://github.com/nethesis/nethcti-middleware/pull/12)** by *gsanchietti* - Reviewers: *edospadoni, tommaso-ascani* - Created at: 2025-11-25T15:56:44Z
 
 
