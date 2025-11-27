@@ -1,8 +1,8 @@
 +++
 
-title = '# Workload: 2025-11-26'
+title = '# Workload: 2025-11-27'
 
-date = 2025-11-26
+date = 2025-11-27
 
 +++
 
@@ -11,45 +11,37 @@ Workload: 3 issues, 0 PRs
 
 
 Assigned Issues:
-- [NethLink & NethVoice CTI: caller name and queue badge truncated in Last calls](https://github.com/NethServer/dev/issues/7760) - Working for 0 days
-- [NethVoice CTI: Caller and operator name truncated in Operator cards](https://github.com/NethServer/dev/issues/7759) - Working for 0 days
-- [applications - UI mockups](https://github.com/NethServer/my/issues/27) - Working for 22 days
+- [NethLink & NethVoice CTI: caller name and queue badge truncated in Last calls](https://github.com/NethServer/dev/issues/7760) - Working for 1 days
+- [NethVoice CTI: Caller and operator name truncated in Operator cards](https://github.com/NethServer/dev/issues/7759) - Working for 1 days
+- [applications - UI mockups](https://github.com/NethServer/my/issues/27) - Working for 23 days
 ---
 
 ### Amygos <img src='https://avatars.githubusercontent.com/u/510232?v=4&s=64' width='64' height='64' style='float:right;' /> ###
-Workload: 4 issues, 1 PRs
+Workload: 3 issues, 1 PRs
 
 
 Assigned Issues:
-- [NethVoice Proxy: Use local IP in SDP for local clients to simplify NAT configuration](https://github.com/NethServer/dev/issues/7725) - Working for 22 days
-- [NethVoice: Redesign and Modularization of NethVoice Settings Architecture](https://github.com/NethServer/dev/issues/7703) - Working for 27 days
-- [Nethvoice Proxy: Add Let's Encrypt On/Off Flag to Nethvoice Proxy Module Backend](https://github.com/NethServer/dev/issues/7700) - Working for 27 days
-- [NethVoice Installation Wizard](https://github.com/NethServer/dev/issues/7699) - Working for 27 days
+- [NethVoice Proxy: Use local IP in SDP for local clients to simplify NAT configuration](https://github.com/NethServer/dev/issues/7725) - Working for 23 days
+- [NethVoice: Redesign and Modularization of NethVoice Settings Architecture](https://github.com/NethServer/dev/issues/7703) - Working for 28 days
+- [Nethvoice Proxy: Add Let's Encrypt On/Off Flag to Nethvoice Proxy Module Backend](https://github.com/NethServer/dev/issues/7700) - Working for 28 days
 
 Assigned Pull Requests:
-- [chore(deps): update docker.io/library/alpine docker tag to v3.22.2](https://github.com/nethesis/ns8-nethvoice/pull/562) - Working for 41 days
+- [chore(deps): update docker.io/library/alpine docker tag to v3.22.2](https://github.com/nethesis/ns8-nethvoice/pull/562) - Working for 42 days
 ---
 
 ### DavidePrincipi <img src='https://avatars.githubusercontent.com/u/2920838?v=4&s=64' width='64' height='64' style='float:right;' /> ###
-Workload: 3 issues, 2 PRs
+Workload: 3 issues, 3 PRs
 
 
 Assigned Issues:
-- [App clone/move: UI design for start, sync, finish flow](https://github.com/NethServer/dev/issues/7750) - Working for 8 days
-- [Node high load during new worker's join](https://github.com/NethServer/dev/issues/7747) - Working for 12 days
-- [Add application FQDN to Subscription inventory](https://github.com/NethServer/dev/issues/7732) - Working for 21 days
+- [App clone/move: UI design for start, sync, finish flow](https://github.com/NethServer/dev/issues/7750) - Working for 9 days
+- [Node high load during new worker's join](https://github.com/NethServer/dev/issues/7747) - Working for 13 days
+- [Add application FQDN to Subscription inventory](https://github.com/NethServer/dev/issues/7732) - Working for 22 days
 
 Assigned Pull Requests:
-- [feat: Release Notes 8.7](https://github.com/NethServer/ns8-docs/pull/203) - Working for 6 days
-- [fix: cryptography 45 deprecation warning](https://github.com/NethServer/ns8-traefik/pull/120) - Working for 28 days
----
-
-### Ilvo <img src='https://avatars.githubusercontent.com/u/36000560?v=4&s=64' width='64' height='64' style='float:right;' /> ###
-Workload: 1 issues, 0 PRs
-
-
-Assigned Issues:
-- [NethVoice CTI: failed Media File Playback Attempt During Voicemail Routing](https://github.com/NethServer/dev/issues/7710) - Working for 26 days
+- [User import/export API with unified auth backend](https://github.com/NethServer/ns8-samba/pull/149) - Working for 0 days
+- [feat: Release Notes 8.7](https://github.com/NethServer/ns8-docs/pull/203) - Working for 7 days
+- [fix: cryptography 45 deprecation warning](https://github.com/NethServer/ns8-traefik/pull/120) - Working for 29 days
 ---
 
 ### Stell0 <img src='https://avatars.githubusercontent.com/u/4547897?v=4&s=64' width='64' height='64' style='float:right;' /> ###
@@ -57,8 +49,8 @@ Workload: 2 issues, 0 PRs
 
 
 Assigned Issues:
-- [NethVoice: Allow alphanumeric Outbound CID format in multi-extension management interface](https://github.com/NethServer/dev/issues/7751) - Working for 7 days
-- [NethVoice: changing language in advanced FreePBX settings does not work (always stays in English)](https://github.com/NethServer/dev/issues/7745) - Working for 13 days
+- [NethVoice: Allow alphanumeric Outbound CID format in multi-extension management interface](https://github.com/NethServer/dev/issues/7751) - Working for 8 days
+- [NethVoice: changing language in advanced FreePBX settings does not work (always stays in English)](https://github.com/NethServer/dev/issues/7745) - Working for 14 days
 ---
 
 ### Tbaile <img src='https://avatars.githubusercontent.com/u/8052641?v=4&s=64' width='64' height='64' style='float:right;' /> ###
@@ -66,13 +58,13 @@ Workload: 3 issues, 2 PRs
 
 
 Assigned Issues:
-- [Netifyd5 Update](https://github.com/NethServer/nethsecurity/issues/1438) - Working for 1 days
-- [Missing default gateway after WireGuard tunnel disconnection on single-WAN systems](https://github.com/NethServer/nethsecurity/issues/1428) - Working for 12 days
-- [Flows page: refactor using latest netifyd engine](https://github.com/NethServer/nethsecurity/issues/1419) - Working for 19 days
+- [Bond in active-backup mode does not switch to backup interface when the primary link goes down](https://github.com/NethServer/nethsecurity/issues/1446) - Working for 0 days
+- [Netifyd5 Update](https://github.com/NethServer/nethsecurity/issues/1438) - Working for 2 days
+- [Flows page: refactor using latest netifyd engine](https://github.com/NethServer/nethsecurity/issues/1419) - Working for 20 days
 
 Assigned Pull Requests:
-- [chore(deps): update php docker tag to v8.5.0](https://github.com/nethesis/parceler/pull/132) - Working for 5 days
-- [feat: add changelog with HA instructions](https://github.com/NethServer/nethsecurity-docs/pull/209) - Working for 54 days
+- [chore(deps): update php docker tag to v8.5.0](https://github.com/nethesis/parceler/pull/132) - Working for 6 days
+- [feat: add changelog with HA instructions](https://github.com/NethServer/nethsecurity-docs/pull/209) - Working for 55 days
 ---
 
 ### andre8244 <img src='https://avatars.githubusercontent.com/u/4612169?v=4&s=64' width='64' height='64' style='float:right;' /> ###
@@ -80,40 +72,40 @@ Workload: 4 issues, 3 PRs
 
 
 Assigned Issues:
-- [App clone/move: UI design for start, sync, finish flow](https://github.com/NethServer/dev/issues/7750) - Working for 8 days
-- [Flows page: refactor using latest netifyd engine](https://github.com/NethServer/nethsecurity/issues/1419) - Working for 19 days
-- [NethVoice UI: Display certificate failure & Traefik restart messages for cluster-admin](https://github.com/NethServer/dev/issues/7719) - Working for 22 days
-- [Nethvoice Proxy UI: Add Let's Encrypt On/Off Toggle](https://github.com/NethServer/dev/issues/7701) - Working for 27 days
+- [App clone/move: UI design for start, sync, finish flow](https://github.com/NethServer/dev/issues/7750) - Working for 9 days
+- [Flows page: refactor using latest netifyd engine](https://github.com/NethServer/nethsecurity/issues/1419) - Working for 20 days
+- [NethVoice UI: Display certificate failure & Traefik restart messages for cluster-admin](https://github.com/NethServer/dev/issues/7719) - Working for 23 days
+- [Nethvoice Proxy UI: Add Let's Encrypt On/Off Toggle](https://github.com/NethServer/dev/issues/7701) - Working for 28 days
 
 Assigned Pull Requests:
-- [chore(deps): update node.js to v22.21.1](https://github.com/nethesis/ns8-nethvoice/pull/596) - Working for 8 days
-- [chore(deps): update node.js to v18.20.8](https://github.com/nethesis/ns8-nethvoice/pull/595) - Working for 8 days
-- [UI for first configuration wizard](https://github.com/nethesis/ns8-nethvoice/pull/580) - Working for 19 days
+- [chore(deps): update node.js to v22.21.1](https://github.com/nethesis/ns8-nethvoice/pull/596) - Working for 9 days
+- [chore(deps): update node.js to v18.20.8](https://github.com/nethesis/ns8-nethvoice/pull/595) - Working for 9 days
+- [UI for first configuration wizard](https://github.com/nethesis/ns8-nethvoice/pull/580) - Working for 20 days
 ---
 
 ### andrea-marchionni <img src='https://avatars.githubusercontent.com/u/6448460?v=4&s=64' width='64' height='64' style='float:right;' /> ###
-Workload: 5 issues, 0 PRs
+Workload: 3 issues, 0 PRs
 
 
 Assigned Issues:
-- [NethVoice: Allow alphanumeric Outbound CID format in multi-extension management interface](https://github.com/NethServer/dev/issues/7751) - Working for 7 days
-- [NethCTI: Click2call not working on Yealink T33G with firmware 124.87.0.15](https://github.com/NethServer/dev/issues/7749) - Working for 8 days
-- [NethVoice CTI: failed Media File Playback Attempt During Voicemail Routing](https://github.com/NethServer/dev/issues/7710) - Working for 26 days
-- [NethVoice: Redesign and Modularization of NethVoice Settings Architecture](https://github.com/NethServer/dev/issues/7703) - Working for 27 days
-- [NethVoice Installation Wizard](https://github.com/NethServer/dev/issues/7699) - Working for 27 days
+- [NethVoice: Allow alphanumeric Outbound CID format in multi-extension management interface](https://github.com/NethServer/dev/issues/7751) - Working for 8 days
+- [NethCTI: Click2call not working on Yealink T33G with firmware 124.87.0.15](https://github.com/NethServer/dev/issues/7749) - Working for 9 days
+- [NethVoice: Redesign and Modularization of NethVoice Settings Architecture](https://github.com/NethServer/dev/issues/7703) - Working for 28 days
 ---
 
 ### cotosso <img src='https://avatars.githubusercontent.com/u/7226896?v=4&s=64' width='64' height='64' style='float:right;' /> ###
-Workload: 6 issues, 0 PRs
+Workload: 8 issues, 0 PRs
 
 
 Assigned Issues:
-- [WireGuard zone incorrectly available for other interfaces](https://github.com/NethServer/nethsecurity/issues/1429) - Working for 12 days
-- [IPSec: write documentation on restart](https://github.com/NethServer/nethsecurity/issues/1426) - Working for 12 days
-- [Non-graceful firewall restart can cause brief disconnections when updating FlashStart ProPlus configuration](https://github.com/NethServer/nethsecurity/issues/1421) - Working for 19 days
-- [Wrong LAN/WAN assignment on Z9+ after reset to defaults](https://github.com/NethServer/nethsecurity/issues/1420) - Working for 19 days
-- [Flows page: refactor using latest netifyd engine](https://github.com/NethServer/nethsecurity/issues/1419) - Working for 19 days
-- [IPS: Configuration fails with CPUs with more than 16 logical cores](https://github.com/NethServer/nethsecurity/issues/1417) - Working for 22 days
+- [Migration: firewall rules wrongly tagged as automated after migration](https://github.com/NethServer/nethsecurity/issues/1442) - Working for 0 days
+- [WireGuard zone incorrectly available for other interfaces](https://github.com/NethServer/nethsecurity/issues/1429) - Working for 13 days
+- [Missing default gateway after WireGuard tunnel disconnection on single-WAN systems](https://github.com/NethServer/nethsecurity/issues/1428) - Working for 13 days
+- [IPSec: write documentation on restart](https://github.com/NethServer/nethsecurity/issues/1426) - Working for 13 days
+- [Non-graceful firewall restart can cause brief disconnections when updating FlashStart ProPlus configuration](https://github.com/NethServer/nethsecurity/issues/1421) - Working for 20 days
+- [Wrong LAN/WAN assignment on Z9+ after reset to defaults](https://github.com/NethServer/nethsecurity/issues/1420) - Working for 20 days
+- [Flows page: refactor using latest netifyd engine](https://github.com/NethServer/nethsecurity/issues/1419) - Working for 20 days
+- [IPS: Configuration fails with CPUs with more than 16 logical cores](https://github.com/NethServer/nethsecurity/issues/1417) - Working for 23 days
 ---
 
 ### edospadoni <img src='https://avatars.githubusercontent.com/u/6152486?v=4&s=64' width='64' height='64' style='float:right;' /> ###
@@ -121,30 +113,32 @@ Workload: 1 issues, 2 PRs
 
 
 Assigned Issues:
-- [NethCTI: Force 2FA activation prompt on first user login](https://github.com/NethServer/dev/issues/7709) - Working for 26 days
+- [NethCTI: Force 2FA activation prompt on first user login](https://github.com/NethServer/dev/issues/7709) - Working for 27 days
 
 Assigned Pull Requests:
-- [chore(deps): update docker.io/library/golang docker tag to v1.25.4](https://github.com/nethesis/ns8-nethvoice/pull/563) - Working for 41 days
-- [feat: add incoming calls settings dialog](https://github.com/NethServer/nethlink/pull/78) - Working for 0 days
+- [chore(deps): update docker.io/library/golang docker tag to v1.25.4](https://github.com/nethesis/ns8-nethvoice/pull/563) - Working for 42 days
+- [feat: add incoming calls settings dialog](https://github.com/NethServer/nethlink/pull/78) - Working for 1 days
 ---
 
 ### francio87 <img src='https://avatars.githubusercontent.com/u/42090061?v=4&s=64' width='64' height='64' style='float:right;' /> ###
-Workload: 2 issues, 0 PRs
+Workload: 3 issues, 0 PRs
 
 
 Assigned Issues:
-- [IPSec: write documentation on restart](https://github.com/NethServer/nethsecurity/issues/1426) - Working for 12 days
-- [IPS: Configuration fails with CPUs with more than 16 logical cores](https://github.com/NethServer/nethsecurity/issues/1417) - Working for 22 days
+- [Migration: firewall rules wrongly tagged as automated after migration](https://github.com/NethServer/nethsecurity/issues/1442) - Working for 0 days
+- [IPSec: write documentation on restart](https://github.com/NethServer/nethsecurity/issues/1426) - Working for 13 days
+- [IPS: Configuration fails with CPUs with more than 16 logical cores](https://github.com/NethServer/nethsecurity/issues/1417) - Working for 23 days
 ---
 
 ### gsanchietti <img src='https://avatars.githubusercontent.com/u/804596?v=4&s=64' width='64' height='64' style='float:right;' /> ###
-Workload: 0 issues, 3 PRs
+Workload: 0 issues, 4 PRs
 
 
 Assigned Pull Requests:
-- [feat: directly forward ports to Nethvoice instance](https://github.com/nethesis/ns8-nethvoice-proxy/pull/93) - Working for 28 days
-- [feat: add port forwarding](https://github.com/NethServer/ns8-core/pull/971) - Working for 28 days
-- [chore(php): bump to version 8.3.20](https://github.com/NethServer/ns8-webtop/pull/120) - Working for 203 days
+- [Import csv](https://github.com/nethesis/ns8-nethvoice/pull/617) - Working for 0 days
+- [feat: directly forward ports to Nethvoice instance](https://github.com/nethesis/ns8-nethvoice-proxy/pull/93) - Working for 29 days
+- [feat: add port forwarding](https://github.com/NethServer/ns8-core/pull/971) - Working for 29 days
+- [chore(php): bump to version 8.3.20](https://github.com/NethServer/ns8-webtop/pull/120) - Working for 204 days
 ---
 
 ### lucagasparini <img src='https://avatars.githubusercontent.com/u/11161326?v=4&s=64' width='64' height='64' style='float:right;' /> ###
@@ -152,16 +146,17 @@ Workload: 1 issues, 0 PRs
 
 
 Assigned Issues:
-- [WebTop: eliminate external CDN dependencies from login UI to prevent downtime issues](https://github.com/NethServer/dev/issues/7755) - Working for 6 days
+- [WebTop: eliminate external CDN dependencies from login UI to prevent downtime issues](https://github.com/NethServer/dev/issues/7755) - Working for 7 days
 ---
 
 ### mamengoni <img src='https://avatars.githubusercontent.com/u/11334228?v=4&s=64' width='64' height='64' style='float:right;' /> ###
-Workload: 2 issues, 0 PRs
+Workload: 3 issues, 0 PRs
 
 
 Assigned Issues:
-- [IPSec: write documentation on restart](https://github.com/NethServer/nethsecurity/issues/1426) - Working for 12 days
-- [IPS: Configuration fails with CPUs with more than 16 logical cores](https://github.com/NethServer/nethsecurity/issues/1417) - Working for 22 days
+- [Migration: firewall rules wrongly tagged as automated after migration](https://github.com/NethServer/nethsecurity/issues/1442) - Working for 0 days
+- [IPSec: write documentation on restart](https://github.com/NethServer/nethsecurity/issues/1426) - Working for 13 days
+- [IPS: Configuration fails with CPUs with more than 16 logical cores](https://github.com/NethServer/nethsecurity/issues/1417) - Working for 23 days
 ---
 
 ### mrmarkuz <img src='https://avatars.githubusercontent.com/u/31746411?v=4&s=64' width='64' height='64' style='float:right;' /> ###
@@ -169,10 +164,10 @@ Workload: 1 issues, 1 PRs
 
 
 Assigned Issues:
-- [Add Matrix to NethForge](https://github.com/NethServer/dev/issues/7723) - Working for 22 days
+- [Add Matrix to NethForge](https://github.com/NethServer/dev/issues/7723) - Working for 23 days
 
 Assigned Pull Requests:
-- [Add Matrix to NethForge using host network](https://github.com/NethServer/ns8-matrix/pull/11) - Working for 11 days
+- [Add Matrix to NethForge using host network](https://github.com/NethServer/ns8-matrix/pull/11) - Working for 12 days
 ---
 
 ### stephdl <img src='https://avatars.githubusercontent.com/u/3164851?v=4&s=64' width='64' height='64' style='float:right;' /> ###
@@ -180,8 +175,8 @@ Workload: 2 issues, 0 PRs
 
 
 Assigned Issues:
-- [Implement Import/Export Users UI](https://github.com/NethServer/dev/issues/7756) - Working for 5 days
-- [WebTop 5.30.0](https://github.com/NethServer/dev/issues/7754) - Working for 6 days
+- [Implement Import/Export Users UI](https://github.com/NethServer/dev/issues/7756) - Working for 6 days
+- [WebTop 5.30.0](https://github.com/NethServer/dev/issues/7754) - Working for 7 days
 ---
 
 ### tommaso-ascani <img src='https://avatars.githubusercontent.com/u/31596042?v=4&s=64' width='64' height='64' style='float:right;' /> ###
@@ -189,7 +184,7 @@ Workload: 1 issues, 0 PRs
 
 
 Assigned Issues:
-- [NethCTI: Force 2FA activation prompt on first user login](https://github.com/NethServer/dev/issues/7709) - Working for 26 days
+- [NethCTI: Force 2FA activation prompt on first user login](https://github.com/NethServer/dev/issues/7709) - Working for 27 days
 ---
 
 ### tonyco97 <img src='https://avatars.githubusercontent.com/u/36625268?v=4&s=64' width='64' height='64' style='float:right;' /> ###
@@ -197,16 +192,16 @@ Workload: 3 issues, 6 PRs
 
 
 Assigned Issues:
-- [NethLink & NethVoice CTI: caller name and queue badge truncated in Last calls](https://github.com/NethServer/dev/issues/7760) - Working for 0 days
-- [NethVoice CTI: Caller and operator name truncated in Operator cards](https://github.com/NethServer/dev/issues/7759) - Working for 0 days
-- [NethLink: busy ringtone if user has DND status on mobile app](https://github.com/NethServer/dev/issues/7753) - Working for 6 days
+- [NethLink & NethVoice CTI: caller name and queue badge truncated in Last calls](https://github.com/NethServer/dev/issues/7760) - Working for 1 days
+- [NethVoice CTI: Caller and operator name truncated in Operator cards](https://github.com/NethServer/dev/issues/7759) - Working for 1 days
+- [NethLink: busy ringtone if user has DND status on mobile app](https://github.com/NethServer/dev/issues/7753) - Working for 7 days
 
 Assigned Pull Requests:
-- [fix(deps): update dependency angular-patternfly to v3.26.0](https://github.com/nethesis/ns8-nethvoice/pull/603) - Working for 7 days
-- [fix(deps): update dependency angular-mocks to v1.8.3](https://github.com/nethesis/ns8-nethvoice/pull/602) - Working for 8 days
-- [fix(deps): update dependency angular-cookies to v1.8.3](https://github.com/nethesis/ns8-nethvoice/pull/601) - Working for 8 days
-- [fix(deps): update dependency angular-bootstrap to v2.5.0](https://github.com/nethesis/ns8-nethvoice/pull/599) - Working for 8 days
-- [fix(deps): update dependency angular to v1.8.3](https://github.com/nethesis/ns8-nethvoice/pull/598) - Working for 8 days
-- [fix: better audio quality](https://github.com/nethesis/phone-island/pull/123) - Working for 11 days
+- [fix(deps): update dependency angular-patternfly to v3.26.0](https://github.com/nethesis/ns8-nethvoice/pull/603) - Working for 8 days
+- [fix(deps): update dependency angular-mocks to v1.8.3](https://github.com/nethesis/ns8-nethvoice/pull/602) - Working for 9 days
+- [fix(deps): update dependency angular-cookies to v1.8.3](https://github.com/nethesis/ns8-nethvoice/pull/601) - Working for 9 days
+- [fix(deps): update dependency angular-bootstrap to v2.5.0](https://github.com/nethesis/ns8-nethvoice/pull/599) - Working for 9 days
+- [fix(deps): update dependency angular to v1.8.3](https://github.com/nethesis/ns8-nethvoice/pull/598) - Working for 9 days
+- [fix: better audio quality](https://github.com/nethesis/phone-island/pull/123) - Working for 12 days
 ---
 

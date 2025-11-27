@@ -1,21 +1,28 @@
 +++
 title = 'Open Pull Requests'
-date = 2025-11-26
+date = 2025-11-27
 +++
 
 ## Organization: nethserver
+
+### NethServer/ns8-core 1 
+
+- :eyes:  **[Add UI note handling and input validation improvements](https://github.com/NethServer/ns8-core/pull/990)** by *stephdl* - Reviewers: *None* - Created at: 2025-11-26T14:06:09Z
 
 ### NethServer/ns8-minio 1 
 
 - :eyes: :zzz: **[Update Traefik configuration and environment setup](https://github.com/NethServer/ns8-minio/pull/14)** by *stephdl* - Reviewers: *None* - Created at: 2025-10-15T15:17:35Z
 
+### NethServer/ns8-samba 1 
+
+-   **[User import/export API with unified auth backend](https://github.com/NethServer/ns8-samba/pull/149)** by *DavidePrincipi* - Reviewers: *Amygos, Tbaile* - Created at: 2025-11-26T18:02:32Z
+
 ### NethServer/ns8-traefik 1 
 
 - :eyes:  **[fix: cryptography 45 deprecation warning](https://github.com/NethServer/ns8-traefik/pull/120)** by *DavidePrincipi* - Reviewers: *None* - Created at: 2025-10-28T08:48:29Z
 
-### NethServer/nethsecurity 2 
+### NethServer/nethsecurity 1 
 
-- :eyes:  **[fix(interfaces): assign default metric for WANs](https://github.com/NethServer/nethsecurity/pull/1441)** by *Tbaile* - Reviewers: *None* - Created at: 2025-11-25T14:10:26Z
 -  :zzz: **[build(netifyd): upgrade to v5](https://github.com/NethServer/nethsecurity/pull/1290)** by *Tbaile* - Reviewers: *gsanchietti* - Created at: 2025-07-03T11:05:14Z
 
 ### NethServer/ns8-nethsecurity-controller 1 
@@ -26,9 +33,9 @@ date = 2025-11-26
 
 - :eyes: :zzz: **[Add Traefik configuration and enhance settings component](https://github.com/NethServer/ns8-mattermost/pull/119)** by *stephdl* - Reviewers: *None* - Created at: 2025-10-14T13:45:21Z
 
-### NethServer/python3-nethsec 1 
+### NethServer/ns8-webtop 1 
 
-- :eyes: :zzz: **[fix(dpi): migrate to new version](https://github.com/NethServer/python3-nethsec/pull/105)** by *Tbaile* - Reviewers: *None* - Created at: 2025-10-14T13:06:39Z
+- :eyes:  **[Add dark theme support for webtop](https://github.com/NethServer/ns8-webtop/pull/173)** by *stephdl* - Reviewers: *None* - Created at: 2025-11-26T10:13:37Z
 
 ### NethServer/ns8-roundcubemail 1 
 
@@ -42,10 +49,6 @@ date = 2025-11-26
 
 - :eyes:  **[chore(master): release 1.5.1](https://github.com/NethServer/phonehome-server/pull/138)** by *Tbaile* - Reviewers: *None* - Created at: 2025-11-15T06:38:38Z
 
-### NethServer/nethsecurity-ui 1 
-
-- :eyes:  **[chore(main): release 2.8.0](https://github.com/NethServer/nethsecurity-ui/pull/662)** by *Tbaile* - Reviewers: *None* - Created at: 2025-11-20T14:46:01Z
-
 ### NethServer/nethsecurity-docs 1 
 
 -  :zzz: **[fix(ha): update for beta2](https://github.com/NethServer/nethsecurity-docs/pull/208)** by *gsanchietti* - Reviewers: *filippocarletti* - Created at: 2025-10-02T10:43:05Z
@@ -53,6 +56,10 @@ date = 2025-11-26
 ### NethServer/ns8-user-manager 1 
 
 - :eyes: :zzz: **[chore(main): release 1.2.5](https://github.com/NethServer/ns8-user-manager/pull/134)** by *Tbaile* - Reviewers: *None* - Created at: 2025-10-06T20:38:53Z
+
+### NethServer/nethlink 1 
+
+-   **[feat: add incoming calls settings dialog](https://github.com/NethServer/nethlink/pull/78)** by *edospadoni* - Reviewers: *tonyco97* - Created at: 2025-11-25T13:32:27Z
 
 ### NethServer/ns8-matrix 2 
 
@@ -77,9 +84,16 @@ date = 2025-11-26
 
 -   **[enhancement(freepbx): Don't slow down system at reboot](https://github.com/nethesis/ns8-nethvoice/pull/605)** by *Stell0* - Reviewers: *Amygos, DavidePrincipi* - Created at: 2025-11-19T14:40:39Z
 
-### nethesis/ns8-nethvoice-proxy 2 
+### nethesis/nethvoice-cti 1 
 
-- :eyes:  **[configure-module: set fqdn and addresses as mandatory](https://github.com/nethesis/ns8-nethvoice-proxy/pull/100)** by *Amygos* - Reviewers: *None* - Created at: 2025-11-25T13:01:27Z
+- :eyes:  **[feat: incoming calls ringtone settings and fix settings pages consistency](https://github.com/nethesis/nethvoice-cti/pull/356)** by *edospadoni* - Reviewers: *None* - Created at: 2025-11-25T14:44:52Z
+
+### nethesis/phone-island 1 
+
+-   **[fix: created ringtone and output selection](https://github.com/nethesis/phone-island/pull/127)** by *tonyco97* - Reviewers: *edospadoni* - Created at: 2025-11-26T09:48:16Z
+
+### nethesis/ns8-nethvoice-proxy 1 
+
 - :eyes:  **[144 multi port binding](https://github.com/nethesis/ns8-nethvoice-proxy/pull/98)** by *paolovisintin* - Reviewers: *None* - Created at: 2025-11-14T10:18:53Z
 
 ### nethesis/nethvoice-client-docs 1 
@@ -94,8 +108,10 @@ date = 2025-11-26
 
 - :eyes: :zzz: **[feature(api): diarized transcription api](https://github.com/nethesis/satellite/pull/4)** by *Stell0* - Reviewers: *None* - Created at: 2025-09-19T07:28:04Z
 
-### nethesis/nethcti-middleware 1 
+### nethesis/nethcti-middleware 3 
 
--   **[Database management](https://github.com/nethesis/nethcti-middleware/pull/12)** by *gsanchietti* - Reviewers: *edospadoni, tommaso-ascani* - Created at: 2025-11-25T15:56:44Z
+- :eyes:  **[User profile](https://github.com/nethesis/nethcti-middleware/pull/14)** by *gsanchietti* - Reviewers: *None* - Created at: 2025-11-26T09:56:30Z
+- :eyes:  **[feat: add super admin APIs](https://github.com/nethesis/nethcti-middleware/pull/13)** by *gsanchietti* - Reviewers: *None* - Created at: 2025-11-25T16:29:14Z
+- :eyes:  **[Database management](https://github.com/nethesis/nethcti-middleware/pull/12)** by *gsanchietti* - Reviewers: *None* - Created at: 2025-11-25T15:56:44Z
 
 
