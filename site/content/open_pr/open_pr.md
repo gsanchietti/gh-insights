@@ -1,13 +1,9 @@
 +++
 title = 'Open Pull Requests'
-date = 2025-11-27
+date = 2025-11-28
 +++
 
 ## Organization: nethserver
-
-### NethServer/ns8-core 1 
-
-- :eyes:  **[Add UI note handling and input validation improvements](https://github.com/NethServer/ns8-core/pull/990)** by *stephdl* - Reviewers: *None* - Created at: 2025-11-26T14:06:09Z
 
 ### NethServer/ns8-minio 1 
 
@@ -19,7 +15,7 @@ date = 2025-11-27
 
 ### NethServer/ns8-traefik 1 
 
-- :eyes:  **[fix: cryptography 45 deprecation warning](https://github.com/NethServer/ns8-traefik/pull/120)** by *DavidePrincipi* - Reviewers: *None* - Created at: 2025-10-28T08:48:29Z
+- :eyes: :zzz: **[fix: cryptography 45 deprecation warning](https://github.com/NethServer/ns8-traefik/pull/120)** by *DavidePrincipi* - Reviewers: *None* - Created at: 2025-10-28T08:48:29Z
 
 ### NethServer/nethsecurity 1 
 
@@ -32,10 +28,6 @@ date = 2025-11-27
 ### NethServer/ns8-mattermost 1 
 
 - :eyes: :zzz: **[Add Traefik configuration and enhance settings component](https://github.com/NethServer/ns8-mattermost/pull/119)** by *stephdl* - Reviewers: *None* - Created at: 2025-10-14T13:45:21Z
-
-### NethServer/ns8-webtop 1 
-
-- :eyes:  **[Add dark theme support for webtop](https://github.com/NethServer/ns8-webtop/pull/173)** by *stephdl* - Reviewers: *None* - Created at: 2025-11-26T10:13:37Z
 
 ### NethServer/ns8-roundcubemail 1 
 
@@ -61,10 +53,17 @@ date = 2025-11-27
 
 -   **[feat: add incoming calls settings dialog](https://github.com/NethServer/nethlink/pull/78)** by *edospadoni* - Reviewers: *tonyco97* - Created at: 2025-11-25T13:32:27Z
 
-### NethServer/ns8-matrix 2 
+### NethServer/ns8-netdata 1 
 
-- :eyes:  **[Add Matrix to NethForge using host network](https://github.com/NethServer/ns8-matrix/pull/11)** by *mrmarkuz* - Reviewers: *None* - Created at: 2025-11-14T10:56:45Z
-- :eyes:  **[Add Matrix to NethForge](https://github.com/NethServer/ns8-matrix/pull/10)** by *mrmarkuz* - Reviewers: *None* - Created at: 2025-11-05T10:43:52Z
+- :eyes:  **[chore: update renovate configuration](https://github.com/NethServer/ns8-netdata/pull/40)** by *tommaso-ascani* - Reviewers: *None* - Created at: 2025-11-27T11:44:19Z
+
+### NethServer/.github 1 
+
+- :eyes:  **[feat: add renovate presets base and vue3](https://github.com/NethServer/.github/pull/9)** by *andre8244* - Reviewers: *None* - Created at: 2025-11-27T15:35:17Z
+
+### NethServer/ns8-matrix 1 
+
+-   **[Add Matrix to NethForge using host network](https://github.com/NethServer/ns8-matrix/pull/11)** by *mrmarkuz* - Reviewers: *gsanchietti* - Created at: 2025-11-14T10:56:45Z
 
 ## Organization: nethesis
 
@@ -80,17 +79,14 @@ date = 2025-11-27
 
 -  :zzz: **[Removed old notification service usage](https://github.com/nethesis/nethcti-app-iphone/pull/37)** by *NicolaMrAPPs* - Reviewers: *b9874e* - Created at: 2023-08-02T09:19:30Z
 
-### nethesis/ns8-nethvoice 1 
+### nethesis/ns8-nethvoice 2 
 
+-   **[Import CSV with admin APIs](https://github.com/nethesis/ns8-nethvoice/pull/617)** by *gsanchietti* - Reviewers: *Amygos, Stell0* - Created at: 2025-11-26T14:37:01Z
 -   **[enhancement(freepbx): Don't slow down system at reboot](https://github.com/nethesis/ns8-nethvoice/pull/605)** by *Stell0* - Reviewers: *Amygos, DavidePrincipi* - Created at: 2025-11-19T14:40:39Z
 
 ### nethesis/nethvoice-cti 1 
 
-- :eyes:  **[feat: incoming calls ringtone settings and fix settings pages consistency](https://github.com/nethesis/nethvoice-cti/pull/356)** by *edospadoni* - Reviewers: *None* - Created at: 2025-11-25T14:44:52Z
-
-### nethesis/phone-island 1 
-
--   **[fix: created ringtone and output selection](https://github.com/nethesis/phone-island/pull/127)** by *tonyco97* - Reviewers: *edospadoni* - Created at: 2025-11-26T09:48:16Z
+-   **[feat: incoming calls ringtone settings and fix settings pages consistency](https://github.com/nethesis/nethvoice-cti/pull/356)** by *edospadoni* - Reviewers: *tonyco97* - Created at: 2025-11-25T14:44:52Z
 
 ### nethesis/ns8-nethvoice-proxy 1 
 
