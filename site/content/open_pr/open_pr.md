@@ -1,12 +1,13 @@
 +++
 title = 'Open Pull Requests'
-date = 2025-11-28
+date = 2025-11-29
 +++
 
 ## Organization: nethserver
 
-### NethServer/ns8-minio 1 
+### NethServer/ns8-minio 2 
 
+- :eyes:  **[Add Robot Framework integration with SSH support](https://github.com/NethServer/ns8-minio/pull/17)** by *stephdl* - Reviewers: *None* - Created at: 2025-11-28T15:31:39Z
 - :eyes: :zzz: **[Update Traefik configuration and environment setup](https://github.com/NethServer/ns8-minio/pull/14)** by *stephdl* - Reviewers: *None* - Created at: 2025-10-15T15:17:35Z
 
 ### NethServer/ns8-samba 1 
@@ -33,10 +34,6 @@ date = 2025-11-28
 
 - :eyes: :zzz: **[Add Traefik configuration and enhance Lets Encrypt handling](https://github.com/NethServer/ns8-roundcubemail/pull/59)** by *stephdl* - Reviewers: *None* - Created at: 2025-10-16T15:21:00Z
 
-### NethServer/ns8-piler 1 
-
-- :eyes: :zzz: **[Add Traefik configuration and enhance loading state management](https://github.com/NethServer/ns8-piler/pull/48)** by *stephdl* - Reviewers: *None* - Created at: 2025-10-16T10:14:03Z
-
 ### NethServer/phonehome-server 1 
 
 - :eyes:  **[chore(master): release 1.5.1](https://github.com/NethServer/phonehome-server/pull/138)** by *Tbaile* - Reviewers: *None* - Created at: 2025-11-15T06:38:38Z
@@ -49,17 +46,18 @@ date = 2025-11-28
 
 - :eyes: :zzz: **[chore(main): release 1.2.5](https://github.com/NethServer/ns8-user-manager/pull/134)** by *Tbaile* - Reviewers: *None* - Created at: 2025-10-06T20:38:53Z
 
-### NethServer/nethlink 1 
+### NethServer/nethlink 2 
 
+- :eyes:  **[fix: set phone-island always on top](https://github.com/NethServer/nethlink/pull/79)** by *edospadoni* - Reviewers: *None* - Created at: 2025-11-28T11:02:44Z
 -   **[feat: add incoming calls settings dialog](https://github.com/NethServer/nethlink/pull/78)** by *edospadoni* - Reviewers: *tonyco97* - Created at: 2025-11-25T13:32:27Z
-
-### NethServer/ns8-netdata 1 
-
-- :eyes:  **[chore: update renovate configuration](https://github.com/NethServer/ns8-netdata/pull/40)** by *tommaso-ascani* - Reviewers: *None* - Created at: 2025-11-27T11:44:19Z
 
 ### NethServer/.github 1 
 
 - :eyes:  **[feat: add renovate presets base and vue3](https://github.com/NethServer/.github/pull/9)** by *andre8244* - Reviewers: *None* - Created at: 2025-11-27T15:35:17Z
+
+### NethServer/nethvoice-docs 1 
+
+- :eyes:  **[Add ringtone selection](https://github.com/NethServer/nethvoice-docs/pull/26)** by *andrea-marchionni* - Reviewers: *None* - Created at: 2025-11-28T11:05:27Z
 
 ### NethServer/ns8-matrix 1 
 
@@ -81,12 +79,8 @@ date = 2025-11-28
 
 ### nethesis/ns8-nethvoice 2 
 
--   **[Import CSV with admin APIs](https://github.com/nethesis/ns8-nethvoice/pull/617)** by *gsanchietti* - Reviewers: *Amygos, Stell0* - Created at: 2025-11-26T14:37:01Z
+-   **[Import CSV with admin APIs](https://github.com/nethesis/ns8-nethvoice/pull/617)** by *gsanchietti* - Reviewers: *Amygos* - Created at: 2025-11-26T14:37:01Z
 -   **[enhancement(freepbx): Don't slow down system at reboot](https://github.com/nethesis/ns8-nethvoice/pull/605)** by *Stell0* - Reviewers: *Amygos, DavidePrincipi* - Created at: 2025-11-19T14:40:39Z
-
-### nethesis/nethvoice-cti 1 
-
--   **[feat: incoming calls ringtone settings and fix settings pages consistency](https://github.com/nethesis/nethvoice-cti/pull/356)** by *edospadoni* - Reviewers: *tonyco97* - Created at: 2025-11-25T14:44:52Z
 
 ### nethesis/ns8-nethvoice-proxy 1 
 
@@ -100,8 +94,9 @@ date = 2025-11-28
 
 - :eyes: :zzz: **[chore(main): release 1.2.1](https://github.com/nethesis/parceler/pull/105)** by *Tbaile* - Reviewers: *None* - Created at: 2025-08-21T12:47:15Z
 
-### nethesis/satellite 1 
+### nethesis/satellite 2 
 
+- :eyes:  **[chores(sbom): add automated testing](https://github.com/nethesis/satellite/pull/16)** by *Stell0* - Reviewers: *None* - Created at: 2025-11-28T10:44:06Z
 - :eyes: :zzz: **[feature(api): diarized transcription api](https://github.com/nethesis/satellite/pull/4)** by *Stell0* - Reviewers: *None* - Created at: 2025-09-19T07:28:04Z
 
 ### nethesis/nethcti-middleware 3 
