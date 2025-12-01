@@ -1,12 +1,12 @@
 +++
 title = 'Need testing (11)'
-date = 2025-11-30
+date = 2025-12-01
 +++
 
 ## NethServer
 - **[Upgrade piler dependencies and enhance configuration (tracking issue)](https://github.com/NethServer/dev/issues/7768)** (#7458) by *stephdl* (Created: 2025-11-28, Updated: 2025-11-28T16:05:59Z)
 - **[Upgrade ejabberd base image (tracking issue)](https://github.com/NethServer/dev/issues/7767)** (#7458) by *stephdl* (Created: 2025-11-28, Updated: 2025-11-28T15:57:04Z)
-- **[Upgrade Webtop dependencies (tracking issue)](https://github.com/NethServer/dev/issues/7763)** (#7458) by *stephdl* (Created: 2025-11-28, Updated: 2025-11-28T15:55:08Z)
+- **[Upgrade Webtop dependencies (tracking issue)](https://github.com/NethServer/dev/issues/7763)** (#7458) by *stephdl* (Created: 2025-11-28, Updated: 2025-11-30T19:29:55Z)
 - :point_right: **[WebTop 5.30.0](https://github.com/NethServer/dev/issues/7754)** (#7458) by *lucagasparini* (Created: 2025-11-19, Updated: 2025-11-28T08:17:19Z)
 
 ## NethVoice
