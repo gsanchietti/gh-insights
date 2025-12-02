@@ -1,18 +1,17 @@
 +++
 title = 'Open Pull Requests'
-date = 2025-12-01
+date = 2025-12-02
 +++
 
 ## Organization: nethserver
 
-### NethServer/ns8-minio 2 
+### NethServer/ns8-minio 1 
 
-- :eyes:  **[Add Robot Framework integration with SSH support](https://github.com/NethServer/ns8-minio/pull/17)** by *stephdl* - Reviewers: *None* - Created at: 2025-11-28T15:31:39Z
 - :eyes: :zzz: **[Update Traefik configuration and environment setup](https://github.com/NethServer/ns8-minio/pull/14)** by *stephdl* - Reviewers: *None* - Created at: 2025-10-15T15:17:35Z
 
 ### NethServer/ns8-samba 1 
 
--   **[User import/export API with unified auth backend](https://github.com/NethServer/ns8-samba/pull/149)** by *DavidePrincipi* - Reviewers: *Amygos, Tbaile* - Created at: 2025-11-26T18:02:32Z
+-   **[User import/export API with unified auth backend](https://github.com/NethServer/ns8-samba/pull/149)** by *DavidePrincipi* - Reviewers: *Amygos, stephdl* - Created at: 2025-11-26T18:02:32Z
 
 ### NethServer/ns8-traefik 1 
 
@@ -50,10 +49,6 @@ date = 2025-12-01
 
 - :eyes:  **[fix: set phone-island always on top](https://github.com/NethServer/nethlink/pull/79)** by *edospadoni* - Reviewers: *None* - Created at: 2025-11-28T11:02:44Z
 -   **[feat: add incoming calls settings dialog](https://github.com/NethServer/nethlink/pull/78)** by *edospadoni* - Reviewers: *tonyco97* - Created at: 2025-11-25T13:32:27Z
-
-### NethServer/.github 1 
-
-- :eyes:  **[feat: add renovate presets base and vue3](https://github.com/NethServer/.github/pull/9)** by *andre8244* - Reviewers: *None* - Created at: 2025-11-27T15:35:17Z
 
 ### NethServer/nethvoice-docs 1 
 

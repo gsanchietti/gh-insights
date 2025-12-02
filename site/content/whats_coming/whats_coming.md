@@ -2,13 +2,15 @@
 
 title = 'To be released soon'
 
-date = 2025-12-01
+date = 2025-12-02
 
 +++
 
 ### NethServer
 
-- [Upgrade imapsync build dependencies and base image (tracking issue)](https://github.com/NethServer/dev/issues/7766) (#7755) by stephdl (Created: 2025-11-28T15:43:37Z, Updated: 2025-11-28T16:45:26Z)
+- [Upgrade webserver dependencies (tracking issue)](https://github.com/NethServer/dev/issues/7769) (#7755) by stephdl (Created: 2025-11-28T16:09:43Z, Updated: 2025-12-01T09:36:31Z)
+
+- [Upgrade piler dependencies and enhance configuration (tracking issue)](https://github.com/NethServer/dev/issues/7768) (#7755) by stephdl (Created: 2025-11-28T15:57:52Z, Updated: 2025-12-01T09:11:45Z)
 
 - [WebTop: eliminate external CDN dependencies from login UI to prevent downtime issues](https://github.com/NethServer/dev/issues/7755) (#7755) by Amygos (Created: 2025-11-19T16:24:44Z, Updated: 2025-11-20T10:37:35Z)
 
@@ -25,6 +27,8 @@ date = 2025-12-01
 - [IPS: Configuration fails with CPUs with more than 16 logical cores](https://github.com/NethServer/nethsecurity/issues/1417) (#1368) by Tbaile (Created: 2025-11-03T13:05:21Z, Updated: 2025-11-28T13:27:42Z)
 
 - [WireGuard: DNS responses not reaching clients due to incorrect address format](https://github.com/NethServer/nethsecurity/issues/1415) (#1368) by Tbaile (Created: 2025-11-03T08:55:09Z, Updated: 2025-11-25T11:51:20Z)
+
+- [Scan Network: improve visibility of IP reservations](https://github.com/NethServer/nethsecurity/issues/1402) (#1368) by francio87 (Created: 2025-10-16T15:19:53Z, Updated: 2025-12-01T14:48:46Z)
 
 - [Scan Network: hostname missing](https://github.com/NethServer/nethsecurity/issues/1401) (#1368) by francio87 (Created: 2025-10-16T15:11:23Z, Updated: 2025-11-28T13:28:54Z)
 

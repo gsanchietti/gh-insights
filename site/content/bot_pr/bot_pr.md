@@ -1,6 +1,6 @@
 +++
 title = 'Open Pull Requests by Bots'
-date = 2025-12-01
+date = 2025-12-02
 +++
 
 ## Organization: nethserver
@@ -225,8 +225,13 @@ date = 2025-12-01
 - :eyes:  **[chore(deps): update dependencytrack/apiserver docker tag to v4.13.6](https://github.com/NethServer/ns8-dependencytrack/pull/36)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-11-17T12:52:20Z
 - :eyes:  **[chore(deps): update postgres docker tag to v17.7](https://github.com/NethServer/ns8-dependencytrack/pull/35)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-11-14T05:34:31Z
 
-### NethServer/ns8-matrix 1 
+### NethServer/ns8-matrix 6 
 
+- :eyes:  **[chore(deps-dev): bump prettier from 2.3.2 to 3.7.3 in /ui](https://github.com/NethServer/ns8-matrix/pull/19)** by *dependabot[bot]* - Reviewers: *None* - Created at: 2025-12-01T07:39:44Z
+- :eyes:  **[chore(deps-dev): bump eslint-plugin-prettier from 3.4.0 to 3.4.1 in /ui](https://github.com/NethServer/ns8-matrix/pull/18)** by *dependabot[bot]* - Reviewers: *None* - Created at: 2025-12-01T07:39:37Z
+- :eyes:  **[chore(deps-dev): bump @vue/cli-plugin-babel from 4.5.13 to 5.0.9 in /ui](https://github.com/NethServer/ns8-matrix/pull/17)** by *dependabot[bot]* - Reviewers: *None* - Created at: 2025-12-01T07:39:29Z
+- :eyes:  **[chore(deps-dev): bump @vue/cli-plugin-eslint from 4.5.13 to 4.5.19 in /ui](https://github.com/NethServer/ns8-matrix/pull/16)** by *dependabot[bot]* - Reviewers: *None* - Created at: 2025-12-01T07:39:11Z
+- :eyes:  **[chore(deps): bump sass from 1.43.4 to 1.94.2 in /ui](https://github.com/NethServer/ns8-matrix/pull/15)** by *dependabot[bot]* - Reviewers: *None* - Created at: 2025-12-01T07:38:56Z
 - :eyes:  **[chore(deps): replace dependency babel-eslint with @babel/eslint-parser ^7.11.0](https://github.com/NethServer/ns8-matrix/pull/13)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-11-27T14:26:58Z
 
 ## Organization: nethesis
@@ -256,8 +261,10 @@ date = 2025-12-01
 
 -  :zzz: **[Bump symfony/process from 3.1.7 to 5.4.46 in /root/var/www/html/freepbx/contatta](https://github.com/nethesis/contatta/pull/17)** by *dependabot[bot]* - Reviewers: *Stell0* - Created at: 2024-11-06T16:19:29Z
 
-### nethesis/tancredi 6 
+### nethesis/tancredi 8 
 
+- :eyes:  **[chore(deps): update peter-evans/create-pull-request action to v7](https://github.com/nethesis/tancredi/pull/329)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-12-01T07:08:28Z
+- :eyes:  **[chore(deps): update github/codeql-action action to v4](https://github.com/nethesis/tancredi/pull/328)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-12-01T07:08:19Z
 - :eyes:  **[chore(deps): update dependency ubuntu to v24](https://github.com/nethesis/tancredi/pull/327)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-11-30T03:56:41Z
 - :eyes:  **[chore(deps): update actions/checkout action to v6](https://github.com/nethesis/tancredi/pull/326)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-11-30T03:56:36Z
 - :eyes:  **[chore(deps): update actions/cache action to v4](https://github.com/nethesis/tancredi/pull/325)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-11-29T16:04:04Z
@@ -321,9 +328,8 @@ date = 2025-12-01
 - :eyes: :zzz: **[chore(deps): update redis docker tag to v8](https://github.com/nethesis/ns8-nethvoice-proxy/pull/78)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-07-08T11:53:47Z
 - :eyes: :zzz: **[build(deps): bump http-cache-semantics from 4.1.0 to 4.2.0 in /ui](https://github.com/nethesis/ns8-nethvoice-proxy/pull/71)** by *dependabot[bot]* - Reviewers: *None* - Created at: 2025-06-30T12:12:50Z
 
-### nethesis/parceler 2 
+### nethesis/parceler 1 
 
-- :eyes:  **[chore(deps): lock file maintenance](https://github.com/nethesis/parceler/pull/133)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-12-01T02:02:56Z
 - :eyes:  **[chore(deps): update php docker tag to v8.5.0](https://github.com/nethesis/parceler/pull/132)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-11-21T02:32:05Z
 
 ### nethesis/nethKaris 1 
