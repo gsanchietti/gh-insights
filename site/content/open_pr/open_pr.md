@@ -1,6 +1,6 @@
 +++
 title = 'Open Pull Requests'
-date = 2025-12-02
+date = 2025-12-03
 +++
 
 ## Organization: nethserver
@@ -11,7 +11,7 @@ date = 2025-12-02
 
 ### NethServer/ns8-samba 1 
 
--   **[User import/export API with unified auth backend](https://github.com/NethServer/ns8-samba/pull/149)** by *DavidePrincipi* - Reviewers: *Amygos, stephdl* - Created at: 2025-11-26T18:02:32Z
+-   **[User import/export API with unified auth backend](https://github.com/NethServer/ns8-samba/pull/149)** by *DavidePrincipi* - Reviewers: *stephdl* - Created at: 2025-11-26T18:02:32Z
 
 ### NethServer/ns8-traefik 1 
 
@@ -72,13 +72,19 @@ date = 2025-12-02
 
 -  :zzz: **[Removed old notification service usage](https://github.com/nethesis/nethcti-app-iphone/pull/37)** by *NicolaMrAPPs* - Reviewers: *b9874e* - Created at: 2023-08-02T09:19:30Z
 
-### nethesis/ns8-nethvoice 2 
+### nethesis/tancredi 1 
 
--   **[Import CSV with admin APIs](https://github.com/nethesis/ns8-nethvoice/pull/617)** by *gsanchietti* - Reviewers: *Amygos* - Created at: 2025-11-26T14:37:01Z
+- :eyes:  **[chores(test): Test template generation](https://github.com/nethesis/tancredi/pull/330)** by *Stell0* - Reviewers: *None* - Created at: 2025-12-02T11:22:40Z
+
+### nethesis/ns8-nethvoice 3 
+
+- :eyes:  **[Import CSV with admin APIs](https://github.com/nethesis/ns8-nethvoice/pull/617)** by *gsanchietti* - Reviewers: *None* - Created at: 2025-11-26T14:37:01Z
 -   **[enhancement(freepbx): Don't slow down system at reboot](https://github.com/nethesis/ns8-nethvoice/pull/605)** by *Stell0* - Reviewers: *Amygos, DavidePrincipi* - Created at: 2025-11-19T14:40:39Z
+- :eyes:  **[UI for first configuration wizard](https://github.com/nethesis/ns8-nethvoice/pull/580)** by *andre8244* - Reviewers: *None* - Created at: 2025-11-06T17:12:58Z
 
-### nethesis/ns8-nethvoice-proxy 1 
+### nethesis/ns8-nethvoice-proxy 2 
 
+-   **[feat: add let's encrypt toggle; various fixes](https://github.com/nethesis/ns8-nethvoice-proxy/pull/110)** by *andre8244* - Reviewers: *edospadoni* - Created at: 2025-12-01T16:00:36Z
 - :eyes:  **[144 multi port binding](https://github.com/nethesis/ns8-nethvoice-proxy/pull/98)** by *paolovisintin* - Reviewers: *None* - Created at: 2025-11-14T10:18:53Z
 
 ### nethesis/nethvoice-client-docs 1 

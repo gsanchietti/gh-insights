@@ -2,9 +2,13 @@
 
 title = 'To be released soon'
 
-date = 2025-12-02
+date = 2025-12-03
 
 +++
+
+### NethVoice
+
+- [nethcti-middleware: Missing /user/presence API in FreePBX APIs whitelist](https://github.com/NethServer/dev/issues/7772) (#7755) by edospadoni (Created: 2025-12-02T07:51:40Z, Updated: 2025-12-02T08:47:38Z)
 
 ### NethServer
 
@@ -23,6 +27,8 @@ date = 2025-12-02
 - [Missing default gateway after WireGuard tunnel disconnection on single-WAN systems](https://github.com/NethServer/nethsecurity/issues/1428) (#1368) by cotosso (Created: 2025-11-13T12:13:39Z, Updated: 2025-11-28T13:16:12Z)
 
 - [Non-graceful firewall restart can cause brief disconnections when updating FlashStart ProPlus configuration](https://github.com/NethServer/nethsecurity/issues/1421) (#1368) by cotosso (Created: 2025-11-06T13:42:02Z, Updated: 2025-11-28T13:16:20Z)
+
+- [Wrong LAN/WAN assignment on Z9+ after reset to defaults](https://github.com/NethServer/nethsecurity/issues/1420) (#1368) by cotosso (Created: 2025-11-06T13:30:59Z, Updated: 2025-12-02T09:48:05Z)
 
 - [IPS: Configuration fails with CPUs with more than 16 logical cores](https://github.com/NethServer/nethsecurity/issues/1417) (#1368) by Tbaile (Created: 2025-11-03T13:05:21Z, Updated: 2025-11-28T13:27:42Z)
 
