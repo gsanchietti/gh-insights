@@ -1,6 +1,6 @@
 +++
 title = 'Open Pull Requests by Bots'
-date = 2025-12-03
+date = 2025-12-04
 +++
 
 ## Organization: nethserver
@@ -31,13 +31,12 @@ date = 2025-12-03
 
 - :eyes:  **[Translations update from Hosted Weblate](https://github.com/NethServer/ns8-dokuwiki/pull/54)** by *weblate* - Reviewers: *None* - Created at: 2025-11-29T14:02:36Z
 
-### NethServer/ns8-mariadb 9 
+### NethServer/ns8-mariadb 8 
 
 - :eyes:  **[Translations update from Hosted Weblate](https://github.com/NethServer/ns8-mariadb/pull/64)** by *weblate* - Reviewers: *None* - Created at: 2025-11-29T13:00:24Z
 - :eyes:  **[chore(deps): update dependency carbon-components to v10.58.15](https://github.com/NethServer/ns8-mariadb/pull/62)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-11-27T07:02:15Z
 - :eyes:  **[chore(deps): update dependency @carbon/vue to v2.45.1](https://github.com/NethServer/ns8-mariadb/pull/60)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-11-27T03:44:06Z
 - :eyes:  **[chore(deps): update dependency @carbon/icons-vue to v10.99.1](https://github.com/NethServer/ns8-mariadb/pull/59)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-11-27T03:43:47Z
-- :eyes:  **[chore(deps): update vue-cli monorepo to v4.5.19](https://github.com/NethServer/ns8-mariadb/pull/58)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-11-26T22:12:55Z
 - :eyes:  **[chore(deps): update dependency vue-date-fns to v2.0.2](https://github.com/NethServer/ns8-mariadb/pull/57)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-11-26T22:12:34Z
 - :eyes:  **[chore(deps): update dependency lottie-web-vue to v1.2.1](https://github.com/NethServer/ns8-mariadb/pull/56)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-11-26T20:10:40Z
 - :eyes:  **[chore(deps): update dependency eslint-plugin-prettier to v3.4.1](https://github.com/NethServer/ns8-mariadb/pull/55)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-11-26T20:10:28Z
@@ -89,10 +88,9 @@ date = 2025-12-03
 - :eyes:  **[chore(deps): update node.js to v24](https://github.com/NethServer/ns8-nethsecurity-controller/pull/145)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-11-26T17:29:54Z
 - :eyes:  **[chore(deps): update node.js to v22.21.1](https://github.com/NethServer/ns8-nethsecurity-controller/pull/144)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-11-26T17:29:46Z
 
-### NethServer/ns8-mattermost 4 
+### NethServer/ns8-mattermost 3 
 
 - :eyes:  **[Translations update from Hosted Weblate](https://github.com/NethServer/ns8-mattermost/pull/127)** by *weblate* - Reviewers: *None* - Created at: 2025-11-29T14:00:58Z
-- :eyes:  **[chore(deps): update node.js to v24](https://github.com/NethServer/ns8-mattermost/pull/126)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-11-26T17:31:34Z
 - :eyes:  **[chore(deps): update postgres docker tag to v17.7](https://github.com/NethServer/ns8-mattermost/pull/124)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-11-13T22:05:50Z
 - :eyes: :zzz: **[chore(deps): update postgres docker tag to v18](https://github.com/NethServer/ns8-mattermost/pull/118)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-09-26T05:08:50Z
 
@@ -134,10 +132,9 @@ date = 2025-12-03
 
 - :eyes: :zzz: **[chore(deps): update debian docker tag to v13](https://github.com/NethServer/ns8-porthos/pull/9)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-08-12T22:35:00Z
 
-### NethServer/ns8-postgresql 7 
+### NethServer/ns8-postgresql 6 
 
 - :eyes:  **[chore(deps): update dependency @carbon/icons-vue to v10.99.1](https://github.com/NethServer/ns8-postgresql/pull/39)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-11-27T05:16:50Z
-- :eyes:  **[chore(deps): update vue-cli monorepo to v4.5.19](https://github.com/NethServer/ns8-postgresql/pull/38)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-11-27T05:16:37Z
 - :eyes:  **[chore(deps): update dependency vue-debounce to v4.0.1](https://github.com/NethServer/ns8-postgresql/pull/35)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-11-26T21:03:55Z
 - :eyes:  **[chore(deps): update dependency vue-date-fns to v2.0.2](https://github.com/NethServer/ns8-postgresql/pull/34)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-11-26T21:03:43Z
 - :eyes:  **[chore(deps): update dependency lottie-web-vue to v1.2.1](https://github.com/NethServer/ns8-postgresql/pull/33)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-11-26T18:47:48Z
@@ -151,12 +148,11 @@ date = 2025-12-03
 - :eyes:  **[chore(deps): update docker.io/debian docker tag to v13.2](https://github.com/NethServer/ns8-dnsmasq/pull/47)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-11-18T02:28:50Z
 - :eyes:  **[chore(deps): update node.js to v24.11.1](https://github.com/NethServer/ns8-dnsmasq/pull/46)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-11-12T23:55:45Z
 
-### NethServer/ns8-wordpress 10 
+### NethServer/ns8-wordpress 9 
 
 - :eyes:  **[chore(deps): update dependency carbon-components to v10.58.15](https://github.com/NethServer/ns8-wordpress/pull/40)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-11-27T10:44:58Z
 - :eyes:  **[chore(deps): update dependency @carbon/vue to v2.45.1](https://github.com/NethServer/ns8-wordpress/pull/39)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-11-27T06:02:29Z
 - :eyes:  **[chore(deps): update dependency @carbon/icons-vue to v10.99.1](https://github.com/NethServer/ns8-wordpress/pull/38)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-11-27T06:02:14Z
-- :eyes:  **[chore(deps): update vue-cli monorepo to v4.5.19](https://github.com/NethServer/ns8-wordpress/pull/37)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-11-27T04:04:37Z
 - :eyes:  **[chore(deps): update dependency vue-debounce to v4.0.1](https://github.com/NethServer/ns8-wordpress/pull/36)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-11-27T04:04:11Z
 - :eyes:  **[chore(deps): update dependency vue-date-fns to v2.0.2](https://github.com/NethServer/ns8-wordpress/pull/35)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-11-26T21:13:45Z
 - :eyes:  **[chore(deps): update dependency lottie-web-vue to v1.2.1](https://github.com/NethServer/ns8-wordpress/pull/34)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-11-26T21:13:34Z
@@ -176,9 +172,8 @@ date = 2025-12-03
 - :eyes: :zzz: **[chore(deps): update quay.io/prometheus/prometheus docker tag to v3.7.3](https://github.com/NethServer/ns8-metrics/pull/39)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-10-29T18:09:04Z
 - :eyes: :zzz: **[chore(deps): update python docker tag to v3.14.0](https://github.com/NethServer/ns8-metrics/pull/33)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-08-07T21:30:57Z
 
-### NethServer/ns8-dependencytrack 9 
+### NethServer/ns8-dependencytrack 8 
 
-- :eyes:  **[chore(deps): update vue-cli monorepo to v4.5.19](https://github.com/NethServer/ns8-dependencytrack/pull/43)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-11-26T20:30:20Z
 - :eyes:  **[chore(deps): update dependency vue-debounce to v4.0.1](https://github.com/NethServer/ns8-dependencytrack/pull/42)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-11-26T20:30:01Z
 - :eyes:  **[chore(deps): update dependency vue-date-fns to v2.0.2](https://github.com/NethServer/ns8-dependencytrack/pull/41)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-11-26T19:56:33Z
 - :eyes:  **[chore(deps): update dependency lottie-web-vue to v1.2.1](https://github.com/NethServer/ns8-dependencytrack/pull/40)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-11-26T19:56:22Z
@@ -276,7 +271,7 @@ date = 2025-12-03
 
 ### nethesis/ns8-nethvoice-proxy 12 
 
-- :eyes:  **[chore(deps): update vue-cli monorepo to v4.5.19 (patch)](https://github.com/nethesis/ns8-nethvoice-proxy/pull/111)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-12-02T14:34:53Z
+- :eyes:  **[chore(deps): update dependency @carbon/icons-vue to v10.99.1](https://github.com/nethesis/ns8-nethvoice-proxy/pull/112)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-12-03T19:30:46Z
 - :eyes:  **[chore(deps): update dependency vue-router to v3.5.4](https://github.com/nethesis/ns8-nethvoice-proxy/pull/109)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-11-27T05:16:48Z
 - :eyes:  **[chore(deps): update dependency vue-date-fns to v2.0.2](https://github.com/nethesis/ns8-nethvoice-proxy/pull/108)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-11-27T05:16:39Z
 - :eyes:  **[chore(deps): update dependency vue-axios to v3.2.5](https://github.com/nethesis/ns8-nethvoice-proxy/pull/107)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-11-27T03:38:50Z
