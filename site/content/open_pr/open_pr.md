@@ -1,21 +1,29 @@
 +++
 title = 'Open Pull Requests'
-date = 2025-12-04
+date = 2025-12-05
 +++
 
 ## Organization: nethserver
 
 ### NethServer/ns8-core 1 
 
--   **[Implement Import/Export Users UI](https://github.com/NethServer/ns8-core/pull/995)** by *stephdl* - Reviewers: *andre8244* - Created at: 2025-12-01T10:08:14Z
+- :eyes:  **[Implement Import/Export Users UI](https://github.com/NethServer/ns8-core/pull/995)** by *stephdl* - Reviewers: *None* - Created at: 2025-12-01T10:08:14Z
 
 ### NethServer/ns8-minio 1 
 
 - :eyes: :zzz: **[Update Traefik configuration and environment setup](https://github.com/NethServer/ns8-minio/pull/14)** by *stephdl* - Reviewers: *None* - Created at: 2025-10-15T15:17:35Z
 
+### NethServer/ns8-samba 1 
+
+- :eyes:  **[fix: UTF-8 chars validation and treatments](https://github.com/NethServer/ns8-samba/pull/150)** by *DavidePrincipi* - Reviewers: *None* - Created at: 2025-12-04T18:25:49Z
+
 ### NethServer/ns8-traefik 1 
 
 - :eyes: :zzz: **[fix: cryptography 45 deprecation warning](https://github.com/NethServer/ns8-traefik/pull/120)** by *DavidePrincipi* - Reviewers: *None* - Created at: 2025-10-28T08:48:29Z
+
+### NethServer/ns8-openldap 1 
+
+- :eyes:  **[fix: UTF-8 chars validation and treatments](https://github.com/NethServer/ns8-openldap/pull/81)** by *DavidePrincipi* - Reviewers: *None* - Created at: 2025-12-04T18:29:55Z
 
 ### NethServer/nethsecurity 1 
 
@@ -25,8 +33,9 @@ date = 2025-12-04
 
 - :eyes:  **[feat(ci): renovate, automerge patches](https://github.com/NethServer/ns8-nethsecurity-controller/pull/135)** by *gsanchietti* - Reviewers: *None* - Created at: 2025-11-24T07:54:15Z
 
-### NethServer/ns8-mattermost 1 
+### NethServer/ns8-mattermost 2 
 
+- :eyes:  **[chore: lock vue-cli packages to version 4.5.13](https://github.com/NethServer/ns8-mattermost/pull/130)** by *andre8244* - Reviewers: *None* - Created at: 2025-12-04T13:20:43Z
 - :eyes: :zzz: **[Add Traefik configuration and enhance settings component](https://github.com/NethServer/ns8-mattermost/pull/119)** by *stephdl* - Reviewers: *None* - Created at: 2025-10-14T13:45:21Z
 
 ### NethServer/ns8-roundcubemail 1 
@@ -36,6 +45,10 @@ date = 2025-12-04
 ### NethServer/phonehome-server 1 
 
 - :eyes:  **[chore(master): release 1.5.1](https://github.com/NethServer/phonehome-server/pull/138)** by *Tbaile* - Reviewers: *None* - Created at: 2025-11-15T06:38:38Z
+
+### NethServer/ns8-crowdsec 1 
+
+-   **[Update email template to reflect decisions count](https://github.com/NethServer/ns8-crowdsec/pull/115)** by *stephdl* - Reviewers: *DavidePrincipi* - Created at: 2025-12-04T15:04:46Z
 
 ### NethServer/nethsecurity-docs 1 
 
@@ -50,9 +63,8 @@ date = 2025-12-04
 - :eyes:  **[fix: set phone-island always on top](https://github.com/NethServer/nethlink/pull/79)** by *edospadoni* - Reviewers: *None* - Created at: 2025-11-28T11:02:44Z
 -   **[feat: add incoming calls settings dialog](https://github.com/NethServer/nethlink/pull/78)** by *edospadoni* - Reviewers: *tonyco97* - Created at: 2025-11-25T13:32:27Z
 
-### NethServer/nethvoice-docs 2 
+### NethServer/nethvoice-docs 1 
 
--   **[Fix tutorial links](https://github.com/NethServer/nethvoice-docs/pull/27)** by *mrmarkuz* - Reviewers: *gsanchietti* - Created at: 2025-12-03T15:05:09Z
 - :eyes:  **[Add ringtone selection](https://github.com/NethServer/nethvoice-docs/pull/26)** by *andrea-marchionni* - Reviewers: *None* - Created at: 2025-11-28T11:05:27Z
 
 ### NethServer/ns8-matrix 1 
@@ -73,13 +85,8 @@ date = 2025-12-04
 
 -  :zzz: **[Removed old notification service usage](https://github.com/nethesis/nethcti-app-iphone/pull/37)** by *NicolaMrAPPs* - Reviewers: *b9874e* - Created at: 2023-08-02T09:19:30Z
 
-### nethesis/tancredi 1 
+### nethesis/ns8-nethvoice 3 
 
-- :eyes:  **[chores(test): Test template generation](https://github.com/nethesis/tancredi/pull/330)** by *Stell0* - Reviewers: *None* - Created at: 2025-12-02T11:22:40Z
-
-### nethesis/ns8-nethvoice 4 
-
-- :eyes:  **[Update documentation URL in metadata.json](https://github.com/nethesis/ns8-nethvoice/pull/623)** by *mrmarkuz* - Reviewers: *None* - Created at: 2025-12-03T21:17:22Z
 - :eyes:  **[Import CSV with admin APIs](https://github.com/nethesis/ns8-nethvoice/pull/617)** by *gsanchietti* - Reviewers: *None* - Created at: 2025-11-26T14:37:01Z
 -   **[enhancement(freepbx): Don't slow down system at reboot](https://github.com/nethesis/ns8-nethvoice/pull/605)** by *Stell0* - Reviewers: *Amygos, DavidePrincipi* - Created at: 2025-11-19T14:40:39Z
 - :eyes:  **[UI for first configuration wizard](https://github.com/nethesis/ns8-nethvoice/pull/580)** by *andre8244* - Reviewers: *None* - Created at: 2025-11-06T17:12:58Z
