@@ -1,13 +1,9 @@
 +++
 title = 'Open Pull Requests'
-date = 2025-12-05
+date = 2025-12-06
 +++
 
 ## Organization: nethserver
-
-### NethServer/ns8-core 1 
-
-- :eyes:  **[Implement Import/Export Users UI](https://github.com/NethServer/ns8-core/pull/995)** by *stephdl* - Reviewers: *None* - Created at: 2025-12-01T10:08:14Z
 
 ### NethServer/ns8-minio 1 
 
@@ -15,7 +11,7 @@ date = 2025-12-05
 
 ### NethServer/ns8-samba 1 
 
-- :eyes:  **[fix: UTF-8 chars validation and treatments](https://github.com/NethServer/ns8-samba/pull/150)** by *DavidePrincipi* - Reviewers: *None* - Created at: 2025-12-04T18:25:49Z
+-   **[fix: displayName and mail import/export](https://github.com/NethServer/ns8-samba/pull/151)** by *DavidePrincipi* - Reviewers: *mrmarkuz* - Created at: 2025-12-05T16:43:04Z
 
 ### NethServer/ns8-traefik 1 
 
@@ -23,7 +19,7 @@ date = 2025-12-05
 
 ### NethServer/ns8-openldap 1 
 
-- :eyes:  **[fix: UTF-8 chars validation and treatments](https://github.com/NethServer/ns8-openldap/pull/81)** by *DavidePrincipi* - Reviewers: *None* - Created at: 2025-12-04T18:29:55Z
+-   **[fix: locked, display_name, mail](https://github.com/NethServer/ns8-openldap/pull/82)** by *DavidePrincipi* - Reviewers: *mrmarkuz* - Created at: 2025-12-05T17:02:07Z
 
 ### NethServer/nethsecurity 1 
 
@@ -33,9 +29,8 @@ date = 2025-12-05
 
 - :eyes:  **[feat(ci): renovate, automerge patches](https://github.com/NethServer/ns8-nethsecurity-controller/pull/135)** by *gsanchietti* - Reviewers: *None* - Created at: 2025-11-24T07:54:15Z
 
-### NethServer/ns8-mattermost 2 
+### NethServer/ns8-mattermost 1 
 
-- :eyes:  **[chore: lock vue-cli packages to version 4.5.13](https://github.com/NethServer/ns8-mattermost/pull/130)** by *andre8244* - Reviewers: *None* - Created at: 2025-12-04T13:20:43Z
 - :eyes: :zzz: **[Add Traefik configuration and enhance settings component](https://github.com/NethServer/ns8-mattermost/pull/119)** by *stephdl* - Reviewers: *None* - Created at: 2025-10-14T13:45:21Z
 
 ### NethServer/ns8-roundcubemail 1 
@@ -46,13 +41,13 @@ date = 2025-12-05
 
 - :eyes:  **[chore(master): release 1.5.1](https://github.com/NethServer/phonehome-server/pull/138)** by *Tbaile* - Reviewers: *None* - Created at: 2025-11-15T06:38:38Z
 
-### NethServer/ns8-crowdsec 1 
-
--   **[Update email template to reflect decisions count](https://github.com/NethServer/ns8-crowdsec/pull/115)** by *stephdl* - Reviewers: *DavidePrincipi* - Created at: 2025-12-04T15:04:46Z
-
 ### NethServer/nethsecurity-docs 1 
 
 -  :zzz: **[fix(ha): update for beta2](https://github.com/NethServer/nethsecurity-docs/pull/208)** by *gsanchietti* - Reviewers: *filippocarletti* - Created at: 2025-10-02T10:43:05Z
+
+### NethServer/ns8-imapsync 1 
+
+-   **[Add bulk user import functionality from CSV](https://github.com/NethServer/ns8-imapsync/pull/63)** by *stephdl* - Reviewers: *DavidePrincipi* - Created at: 2025-12-05T11:33:19Z
 
 ### NethServer/ns8-user-manager 1 
 
@@ -63,8 +58,9 @@ date = 2025-12-05
 - :eyes:  **[fix: set phone-island always on top](https://github.com/NethServer/nethlink/pull/79)** by *edospadoni* - Reviewers: *None* - Created at: 2025-11-28T11:02:44Z
 -   **[feat: add incoming calls settings dialog](https://github.com/NethServer/nethlink/pull/78)** by *edospadoni* - Reviewers: *tonyco97* - Created at: 2025-11-25T13:32:27Z
 
-### NethServer/nethvoice-docs 1 
+### NethServer/nethvoice-docs 2 
 
+- :eyes:  **[Add Algolia DocSearch configuration and custom meta tags to documentation](https://github.com/NethServer/nethvoice-docs/pull/32)** by *viktec* - Reviewers: *None* - Created at: 2025-12-05T15:00:41Z
 - :eyes:  **[Add ringtone selection](https://github.com/NethServer/nethvoice-docs/pull/26)** by *andrea-marchionni* - Reviewers: *None* - Created at: 2025-11-28T11:05:27Z
 
 ### NethServer/ns8-matrix 1 
@@ -98,7 +94,7 @@ date = 2025-12-05
 
 ### nethesis/nethvoice-client-docs 1 
 
-- :eyes:  **[Update and add the CTI image](https://github.com/nethesis/nethvoice-client-docs/pull/14)** by *viktec* - Reviewers: *None* - Created at: 2025-11-05T16:11:10Z
+- :eyes: :zzz: **[Update and add the CTI image](https://github.com/nethesis/nethvoice-client-docs/pull/14)** by *viktec* - Reviewers: *None* - Created at: 2025-11-05T16:11:10Z
 
 ### nethesis/parceler 1 
 
