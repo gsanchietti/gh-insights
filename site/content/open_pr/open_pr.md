@@ -1,9 +1,13 @@
 +++
 title = 'Open Pull Requests'
-date = 2025-12-06
+date = 2025-12-07
 +++
 
 ## Organization: nethserver
+
+### NethServer/ns8-core 1 
+
+- :eyes:  **[Enhance CSV import error handling and validation](https://github.com/NethServer/ns8-core/pull/996)** by *stephdl* - Reviewers: *None* - Created at: 2025-12-06T10:52:52Z
 
 ### NethServer/ns8-minio 1 
 
@@ -85,7 +89,7 @@ date = 2025-12-06
 
 - :eyes:  **[Import CSV with admin APIs](https://github.com/nethesis/ns8-nethvoice/pull/617)** by *gsanchietti* - Reviewers: *None* - Created at: 2025-11-26T14:37:01Z
 -   **[enhancement(freepbx): Don't slow down system at reboot](https://github.com/nethesis/ns8-nethvoice/pull/605)** by *Stell0* - Reviewers: *Amygos, DavidePrincipi* - Created at: 2025-11-19T14:40:39Z
-- :eyes:  **[UI for first configuration wizard](https://github.com/nethesis/ns8-nethvoice/pull/580)** by *andre8244* - Reviewers: *None* - Created at: 2025-11-06T17:12:58Z
+- :eyes: :zzz: **[UI for first configuration wizard](https://github.com/nethesis/ns8-nethvoice/pull/580)** by *andre8244* - Reviewers: *None* - Created at: 2025-11-06T17:12:58Z
 
 ### nethesis/ns8-nethvoice-proxy 2 
 
