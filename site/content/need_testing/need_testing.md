@@ -1,9 +1,10 @@
 +++
-title = 'Need testing (12)'
-date = 2025-12-08
+title = 'Need testing (13)'
+date = 2025-12-09
 +++
 
 ## NethServer
+- **[Track and coordinate Mattermost upgrade, Postgres update, and LetsEncrypt/Traefik integration for ns8-mattermost](https://github.com/NethServer/dev/issues/7783)** (#7458) by *stephdl* (Created: 2025-12-08, Updated: 2025-12-08T14:51:50Z)
 - **[Bug: Editing task in imapsync results in blank form and browser error](https://github.com/NethServer/dev/issues/7782)** (#7458) by *stephdl* (Created: 2025-12-05, Updated: 2025-12-05T14:49:18Z)
 - **[Add rich rules support](https://github.com/NethServer/dev/issues/7776)** (#7458) by *gsanchietti* (Created: 2025-12-03, Updated: 2025-12-03T14:20:50Z)
 - :point_right: **[Upgrade Webtop dependencies (tracking issue)](https://github.com/NethServer/dev/issues/7763)** (#7458) by *stephdl* (Created: 2025-11-28, Updated: 2025-11-30T19:29:55Z)

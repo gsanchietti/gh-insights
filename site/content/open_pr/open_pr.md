@@ -1,6 +1,6 @@
 +++
 title = 'Open Pull Requests'
-date = 2025-12-08
+date = 2025-12-09
 +++
 
 ## Organization: nethserver
@@ -32,10 +32,6 @@ date = 2025-12-08
 ### NethServer/ns8-nethsecurity-controller 1 
 
 - :eyes:  **[feat(ci): renovate, automerge patches](https://github.com/NethServer/ns8-nethsecurity-controller/pull/135)** by *gsanchietti* - Reviewers: *None* - Created at: 2025-11-24T07:54:15Z
-
-### NethServer/ns8-mattermost 1 
-
-- :eyes: :zzz: **[Add Traefik configuration and enhance settings component](https://github.com/NethServer/ns8-mattermost/pull/119)** by *stephdl* - Reviewers: *None* - Created at: 2025-10-14T13:45:21Z
 
 ### NethServer/ns8-roundcubemail 1 
 
