@@ -1,7 +1,13 @@
 +++
-title = 'Need testing (9)'
-date = 2025-12-10
+title = 'Need testing (10)'
+date = 2025-12-11
 +++
+
+## NethServer
+- **[Track NS8-minio UI dependency upgrades and Let's Encrypt feature](https://github.com/NethServer/dev/issues/7786)** (#7458) by *stephdl* (Created: 2025-12-10, Updated: 2025-12-10T16:22:08Z)
+- :point_right: **[Upgrade Webtop dependencies (tracking issue)](https://github.com/NethServer/dev/issues/7763)** (#7458) by *stephdl* (Created: 2025-11-28, Updated: 2025-11-30T19:29:55Z)
+- :point_right: **[WebTop 5.30.1](https://github.com/NethServer/dev/issues/7754)** (#7458) by *lucagasparini* (Created: 2025-11-19, Updated: 2025-12-10T14:50:26Z)
+- :point_right: **[Node high load during new worker's join](https://github.com/NethServer/dev/issues/7747)** (#7458) by *DavidePrincipi* (Created: 2025-11-13, Updated: 2025-12-10T21:45:02Z)
 
 ## NethVoice
 - **[NethVoice hotel: when calling from room to app, the room number is shown instead of the guest name](https://github.com/NethServer/dev/issues/7777)** (#7458) by *Stell0* (Created: 2025-12-04, Updated: 2025-12-04T15:56:25Z)
@@ -10,9 +16,4 @@ date = 2025-12-10
 - :point_right: **[NethLink: Ringtone Audio Device and type selector](https://github.com/NethServer/dev/issues/7460)** (#7458) by *andrea-marchionni* (Created: 2025-05-14, Updated: 2025-12-04T12:45:21Z)
 - :point_right: **[NethVoice CTI: Ringtone Audio Device and type selector](https://github.com/NethServer/dev/issues/7459)** (#7458) by *andrea-marchionni* (Created: 2025-05-14, Updated: 2025-12-04T12:45:02Z)
 - :point_right: **[Phone Island: Separate Audio Devices and Custom Ringtone](https://github.com/NethServer/dev/issues/7458)** (#7458) by *andrea-marchionni* (Created: 2025-05-14, Updated: 2025-12-04T12:44:45Z)
-
-## NethServer
-- **[Add rich rules support](https://github.com/NethServer/dev/issues/7776)** (#7458) by *gsanchietti* (Created: 2025-12-03, Updated: 2025-12-03T14:20:50Z)
-- :point_right: **[Upgrade Webtop dependencies (tracking issue)](https://github.com/NethServer/dev/issues/7763)** (#7458) by *stephdl* (Created: 2025-11-28, Updated: 2025-11-30T19:29:55Z)
-- :point_right: **[WebTop 5.30.1](https://github.com/NethServer/dev/issues/7754)** (#7458) by *lucagasparini* (Created: 2025-11-19, Updated: 2025-12-09T16:35:26Z)
 

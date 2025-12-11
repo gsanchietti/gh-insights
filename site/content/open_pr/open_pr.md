@@ -1,19 +1,14 @@
 +++
 title = 'Open Pull Requests'
-date = 2025-12-10
+date = 2025-12-11
 +++
 
 ## Organization: nethserver
 
-### NethServer/ns8-core 3 
+### NethServer/ns8-core 2 
 
 -   **[Document add_rich_rules and remove_rich_rules firewall functions](https://github.com/NethServer/ns8-core/pull/998)** by *Copilot* - Reviewers: *gsanchietti* - Created at: 2025-12-09T15:38:07Z
--   **[feat: new user-domain-changed event format](https://github.com/NethServer/ns8-core/pull/997)** by *DavidePrincipi* - Reviewers: *Amygos* - Created at: 2025-12-09T11:06:18Z
 - :eyes:  **[Enhance CSV import error handling and validation](https://github.com/NethServer/ns8-core/pull/996)** by *stephdl* - Reviewers: *None* - Created at: 2025-12-06T10:52:52Z
-
-### NethServer/ns8-minio 1 
-
-- :eyes: :zzz: **[Update Traefik configuration and environment setup](https://github.com/NethServer/ns8-minio/pull/14)** by *stephdl* - Reviewers: *None* - Created at: 2025-10-15T15:17:35Z
 
 ### NethServer/ns8-traefik 1 
 
@@ -37,7 +32,7 @@ date = 2025-12-10
 
 ### NethServer/ns8-docs 1 
 
--   **[feat: import/export users and groups](https://github.com/NethServer/ns8-docs/pull/206)** by *DavidePrincipi* - Reviewers: *stephdl, lucagasparini, mrmarkuz* - Created at: 2025-12-09T18:05:22Z
+-   **[feat: Release Notes 8.7](https://github.com/NethServer/ns8-docs/pull/203)** by *DavidePrincipi* - Reviewers: *lucagasparini, nrauso* - Created at: 2025-11-19T08:55:33Z
 
 ### NethServer/nethsecurity-docs 1 
 
@@ -45,7 +40,7 @@ date = 2025-12-10
 
 ### NethServer/ns8-imapsync 1 
 
-- :eyes:  **[Add bulk user import functionality from CSV](https://github.com/NethServer/ns8-imapsync/pull/63)** by *stephdl* - Reviewers: *None* - Created at: 2025-12-05T11:33:19Z
+-   **[Add bulk user import functionality from CSV](https://github.com/NethServer/ns8-imapsync/pull/63)** by *stephdl* - Reviewers: *DavidePrincipi* - Created at: 2025-12-05T11:33:19Z
 
 ### NethServer/ns8-user-manager 1 
 
@@ -59,10 +54,6 @@ date = 2025-12-10
 ### NethServer/nethvoice-docs 1 
 
 - :eyes:  **[Add ringtone selection](https://github.com/NethServer/nethvoice-docs/pull/26)** by *andrea-marchionni* - Reviewers: *None* - Created at: 2025-11-28T11:05:27Z
-
-### NethServer/ns8-matrix 1 
-
-- :eyes:  **[Add Matrix to NethForge using host network](https://github.com/NethServer/ns8-matrix/pull/11)** by *mrmarkuz* - Reviewers: *None* - Created at: 2025-11-14T10:56:45Z
 
 ## Organization: nethesis
 
@@ -78,12 +69,17 @@ date = 2025-12-10
 
 -  :zzz: **[Removed old notification service usage](https://github.com/nethesis/nethcti-app-iphone/pull/37)** by *NicolaMrAPPs* - Reviewers: *b9874e* - Created at: 2023-08-02T09:19:30Z
 
-### nethesis/ns8-nethvoice 4 
+### nethesis/ns8-nethvoice 5 
 
--   **[fix: new user-domain-changed event format](https://github.com/nethesis/ns8-nethvoice/pull/626)** by *DavidePrincipi* - Reviewers: *Amygos* - Created at: 2025-12-09T14:46:42Z
+-   **[Port VTENEXT CRM integration from version 14](https://github.com/nethesis/ns8-nethvoice/pull/630)** by *a-ghigi* - Reviewers: *Stell0* - Created at: 2025-12-10T16:17:15Z
+-   **[Refactor configuration handling and clean up environment variables](https://github.com/nethesis/ns8-nethvoice/pull/628)** by *Amygos* - Reviewers: *andre8244, Stell0* - Created at: 2025-12-10T15:52:54Z
+- :eyes:  **[fix: new user-domain-changed event format](https://github.com/nethesis/ns8-nethvoice/pull/626)** by *DavidePrincipi* - Reviewers: *None* - Created at: 2025-12-09T14:46:42Z
 - :eyes:  **[Import CSV with admin APIs](https://github.com/nethesis/ns8-nethvoice/pull/617)** by *gsanchietti* - Reviewers: *None* - Created at: 2025-11-26T14:37:01Z
 -   **[enhancement(freepbx): Don't slow down system at reboot](https://github.com/nethesis/ns8-nethvoice/pull/605)** by *Stell0* - Reviewers: *Amygos, DavidePrincipi* - Created at: 2025-11-19T14:40:39Z
-- :eyes: :zzz: **[UI for first configuration wizard](https://github.com/nethesis/ns8-nethvoice/pull/580)** by *andre8244* - Reviewers: *None* - Created at: 2025-11-06T17:12:58Z
+
+### nethesis/phone-island 1 
+
+-   **[fix: improve WebRTC/Socket stability after network changes and standby](https://github.com/nethesis/phone-island/pull/128)** by *edospadoni* - Reviewers: *tonyco97* - Created at: 2025-12-01T14:15:35Z
 
 ### nethesis/ns8-nethvoice-proxy 2 
 
