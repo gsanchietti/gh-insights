@@ -1,14 +1,13 @@
 +++
 title = 'Open Pull Requests'
-date = 2025-12-11
+date = 2025-12-12
 +++
 
 ## Organization: nethserver
 
-### NethServer/ns8-core 2 
+### NethServer/ns8-core 1 
 
 -   **[Document add_rich_rules and remove_rich_rules firewall functions](https://github.com/NethServer/ns8-core/pull/998)** by *Copilot* - Reviewers: *gsanchietti* - Created at: 2025-12-09T15:38:07Z
-- :eyes:  **[Enhance CSV import error handling and validation](https://github.com/NethServer/ns8-core/pull/996)** by *stephdl* - Reviewers: *None* - Created at: 2025-12-06T10:52:52Z
 
 ### NethServer/ns8-traefik 1 
 
@@ -40,7 +39,7 @@ date = 2025-12-11
 
 ### NethServer/ns8-imapsync 1 
 
--   **[Add bulk user import functionality from CSV](https://github.com/NethServer/ns8-imapsync/pull/63)** by *stephdl* - Reviewers: *DavidePrincipi* - Created at: 2025-12-05T11:33:19Z
+- :eyes:  **[Add bulk user import functionality from CSV](https://github.com/NethServer/ns8-imapsync/pull/63)** by *stephdl* - Reviewers: *None* - Created at: 2025-12-05T11:33:19Z
 
 ### NethServer/ns8-user-manager 1 
 
@@ -69,10 +68,14 @@ date = 2025-12-11
 
 -  :zzz: **[Removed old notification service usage](https://github.com/nethesis/nethcti-app-iphone/pull/37)** by *NicolaMrAPPs* - Reviewers: *b9874e* - Created at: 2023-08-02T09:19:30Z
 
+### nethesis/nethvoice-report 1 
+
+- :eyes:  **[feat(cdr): add phone number masking for users with privacy enabled](https://github.com/nethesis/nethvoice-report/pull/205)** by *edospadoni* - Reviewers: *None* - Created at: 2025-12-11T13:04:27Z
+
 ### nethesis/ns8-nethvoice 5 
 
--   **[Port VTENEXT CRM integration from version 14](https://github.com/nethesis/ns8-nethvoice/pull/630)** by *a-ghigi* - Reviewers: *Stell0* - Created at: 2025-12-10T16:17:15Z
--   **[Refactor configuration handling and clean up environment variables](https://github.com/nethesis/ns8-nethvoice/pull/628)** by *Amygos* - Reviewers: *andre8244, Stell0* - Created at: 2025-12-10T15:52:54Z
+- :eyes:  **[feat(cdr): add privacy field to user_authorizations.json](https://github.com/nethesis/ns8-nethvoice/pull/632)** by *edospadoni* - Reviewers: *None* - Created at: 2025-12-11T13:28:22Z
+-   **[Refactor configuration handling and clean up environment variables](https://github.com/nethesis/ns8-nethvoice/pull/628)** by *Amygos* - Reviewers: *Stell0* - Created at: 2025-12-10T15:52:54Z
 - :eyes:  **[fix: new user-domain-changed event format](https://github.com/nethesis/ns8-nethvoice/pull/626)** by *DavidePrincipi* - Reviewers: *None* - Created at: 2025-12-09T14:46:42Z
 - :eyes:  **[Import CSV with admin APIs](https://github.com/nethesis/ns8-nethvoice/pull/617)** by *gsanchietti* - Reviewers: *None* - Created at: 2025-11-26T14:37:01Z
 -   **[enhancement(freepbx): Don't slow down system at reboot](https://github.com/nethesis/ns8-nethvoice/pull/605)** by *Stell0* - Reviewers: *Amygos, DavidePrincipi* - Created at: 2025-11-19T14:40:39Z
@@ -85,6 +88,10 @@ date = 2025-12-11
 
 -   **[feat: add let's encrypt toggle; various fixes](https://github.com/nethesis/ns8-nethvoice-proxy/pull/110)** by *andre8244* - Reviewers: *edospadoni* - Created at: 2025-12-01T16:00:36Z
 - :eyes:  **[144 multi port binding](https://github.com/nethesis/ns8-nethvoice-proxy/pull/98)** by *paolovisintin* - Reviewers: *None* - Created at: 2025-11-14T10:18:53Z
+
+### nethesis/vue-components 1 
+
+-   **[fix(sort): relaxing sorting function](https://github.com/nethesis/vue-components/pull/104)** by *Tbaile* - Reviewers: *andre8244* - Created at: 2025-12-11T15:17:22Z
 
 ### nethesis/nethvoice-client-docs 1 
 
