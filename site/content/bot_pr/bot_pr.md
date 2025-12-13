@@ -1,6 +1,6 @@
 +++
 title = 'Open Pull Requests by Bots'
-date = 2025-12-12
+date = 2025-12-13
 +++
 
 ## Organization: nethserver
@@ -146,7 +146,7 @@ date = 2025-12-12
 
 - :eyes:  **[Translations update from Hosted Weblate](https://github.com/NethServer/ns8-dnsmasq/pull/48)** by *weblate* - Reviewers: *None* - Created at: 2025-11-26T09:54:51Z
 - :eyes:  **[chore(deps): update docker.io/debian docker tag to v13.2](https://github.com/NethServer/ns8-dnsmasq/pull/47)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-11-18T02:28:50Z
-- :eyes:  **[chore(deps): update node.js to v24.11.1](https://github.com/NethServer/ns8-dnsmasq/pull/46)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-11-12T23:55:45Z
+- :eyes: :zzz: **[chore(deps): update node.js to v24.11.1](https://github.com/NethServer/ns8-dnsmasq/pull/46)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-11-12T23:55:45Z
 
 ### NethServer/ns8-passbolt 21 
 
@@ -179,13 +179,8 @@ date = 2025-12-12
 - :eyes: :zzz: **[chore(deps): update quay.io/prometheus/prometheus docker tag to v3.7.3](https://github.com/NethServer/ns8-metrics/pull/39)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-10-29T18:09:04Z
 - :eyes: :zzz: **[chore(deps): update python docker tag to v3.14.0](https://github.com/NethServer/ns8-metrics/pull/33)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-08-07T21:30:57Z
 
-### NethServer/ns8-matrix 6 
+### NethServer/ns8-matrix 1 
 
-- :eyes:  **[chore(deps-dev): bump @vue/cli-plugin-router from 4.5.13 to 5.0.9 in /ui](https://github.com/NethServer/ns8-matrix/pull/24)** by *dependabot[bot]* - Reviewers: *None* - Created at: 2025-12-11T06:29:22Z
-- :eyes:  **[chore(deps): bump sass from 1.43.4 to 1.96.0 in /ui](https://github.com/NethServer/ns8-matrix/pull/23)** by *dependabot[bot]* - Reviewers: *None* - Created at: 2025-12-11T06:29:13Z
-- :eyes:  **[chore(deps): bump @nethserver/ns8-ui-lib from 1.3.2 to 1.8.0 in /ui](https://github.com/NethServer/ns8-matrix/pull/22)** by *dependabot[bot]* - Reviewers: *None* - Created at: 2025-12-11T06:28:57Z
-- :eyes:  **[chore(deps): bump @carbon/vue from 2.40.0 to 3.0.29 in /ui](https://github.com/NethServer/ns8-matrix/pull/21)** by *dependabot[bot]* - Reviewers: *None* - Created at: 2025-12-11T06:28:44Z
-- :eyes:  **[chore(deps): bump vue from 2.6.14 to 3.5.25 in /ui](https://github.com/NethServer/ns8-matrix/pull/20)** by *dependabot[bot]* - Reviewers: *None* - Created at: 2025-12-11T06:27:18Z
 -   **[chore(deps): replace dependency babel-eslint with @babel/eslint-parser ^7.11.0](https://github.com/NethServer/ns8-matrix/pull/13)** by *renovate[bot]* - Reviewers: *andre8244* - Created at: 2025-11-27T14:26:58Z
 
 ## Organization: nethesis
@@ -215,8 +210,9 @@ date = 2025-12-12
 
 -  :zzz: **[Bump symfony/process from 3.1.7 to 5.4.46 in /root/var/www/html/freepbx/contatta](https://github.com/nethesis/contatta/pull/17)** by *dependabot[bot]* - Reviewers: *Stell0* - Created at: 2024-11-06T16:19:29Z
 
-### nethesis/tancredi 7 
+### nethesis/tancredi 8 
 
+- :eyes:  **[chore(deps): update actions/upload-artifact action to v6](https://github.com/nethesis/tancredi/pull/339)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-12-12T22:53:00Z
 - :eyes:  **[chore(deps): update actions/cache action to v5](https://github.com/nethesis/tancredi/pull/337)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-12-11T22:07:57Z
 - :eyes:  **[chore(deps): update peter-evans/create-pull-request action to v8](https://github.com/nethesis/tancredi/pull/336)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-12-10T03:03:28Z
 - :eyes:  **[fix(deps): update dependency slim/slim to v4](https://github.com/nethesis/tancredi/pull/334)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-12-05T07:39:32Z
@@ -225,8 +221,9 @@ date = 2025-12-12
 - :eyes:  **[chore(deps): update dependency ubuntu to v24](https://github.com/nethesis/tancredi/pull/327)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-11-30T03:56:41Z
 - :eyes:  **[fix(deps): update dependency twig/twig to v3 [security]](https://github.com/nethesis/tancredi/pull/322)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-11-28T08:33:31Z
 
-### nethesis/falconieri 4 
+### nethesis/falconieri 5 
 
+- :eyes:  **[chore(deps): update github artifact actions (major)](https://github.com/nethesis/falconieri/pull/20)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-12-12T22:32:02Z
 - :eyes:  **[chore(deps): update softprops/action-gh-release action to v2](https://github.com/nethesis/falconieri/pull/19)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-11-26T22:41:37Z
 - :eyes:  **[chore(deps): update github/codeql-action action to v4](https://github.com/nethesis/falconieri/pull/18)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-11-26T22:41:34Z
 - :eyes:  **[chore(deps): update dependency ubuntu to v24](https://github.com/nethesis/falconieri/pull/16)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-11-26T19:02:10Z
@@ -280,8 +277,10 @@ date = 2025-12-12
 - :eyes: :zzz: **[chore(deps): update redis docker tag to v8](https://github.com/nethesis/ns8-nethvoice-proxy/pull/78)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-07-08T11:53:47Z
 - :eyes: :zzz: **[build(deps): bump http-cache-semantics from 4.1.0 to 4.2.0 in /ui](https://github.com/nethesis/ns8-nethvoice-proxy/pull/71)** by *dependabot[bot]* - Reviewers: *None* - Created at: 2025-06-30T12:12:50Z
 
-### nethesis/vue-components 4 
+### nethesis/vue-components 6 
 
+- :eyes:  **[chore(deps): update node.js to v22.21.1](https://github.com/nethesis/vue-components/pull/106)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-12-12T07:05:18Z
+- :eyes:  **[chore(deps): update node.js to v22.21.1](https://github.com/nethesis/vue-components/pull/105)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-12-12T07:05:13Z
 - :eyes:  **[chore(deps): update dependency typescript to ~5.9.0](https://github.com/nethesis/vue-components/pull/103)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-12-09T14:29:51Z
 - :eyes:  **[chore(deps): update dependency prettier-plugin-tailwindcss to ^0.7.0](https://github.com/nethesis/vue-components/pull/102)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-12-09T14:29:43Z
 - :eyes:  **[chore(deps): update dependency @vue/tsconfig to ^0.8.0](https://github.com/nethesis/vue-components/pull/100)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-12-09T11:09:23Z

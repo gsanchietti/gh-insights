@@ -1,6 +1,6 @@
 +++
 title = 'Open Pull Requests'
-date = 2025-12-12
+date = 2025-12-13
 +++
 
 ## Organization: nethserver
@@ -9,8 +9,9 @@ date = 2025-12-12
 
 -   **[Document add_rich_rules and remove_rich_rules firewall functions](https://github.com/NethServer/ns8-core/pull/998)** by *Copilot* - Reviewers: *gsanchietti* - Created at: 2025-12-09T15:38:07Z
 
-### NethServer/ns8-traefik 1 
+### NethServer/ns8-traefik 2 
 
+- :eyes:  **[feat(facts): map of names and modules](https://github.com/NethServer/ns8-traefik/pull/122)** by *DavidePrincipi* - Reviewers: *None* - Created at: 2025-12-12T17:42:52Z
 - :eyes: :zzz: **[fix: cryptography 45 deprecation warning](https://github.com/NethServer/ns8-traefik/pull/120)** by *DavidePrincipi* - Reviewers: *None* - Created at: 2025-10-28T08:48:29Z
 
 ### NethServer/nethsecurity 1 
@@ -29,8 +30,9 @@ date = 2025-12-12
 
 - :eyes:  **[chore(master): release 1.5.1](https://github.com/NethServer/phonehome-server/pull/138)** by *Tbaile* - Reviewers: *None* - Created at: 2025-11-15T06:38:38Z
 
-### NethServer/ns8-docs 1 
+### NethServer/ns8-docs 2 
 
+-   **[Add CSV import functionality for bulk synchronization tasks](https://github.com/NethServer/ns8-docs/pull/207)** by *stephdl* - Reviewers: *DavidePrincipi* - Created at: 2025-12-12T10:02:03Z
 -   **[feat: Release Notes 8.7](https://github.com/NethServer/ns8-docs/pull/203)** by *DavidePrincipi* - Reviewers: *lucagasparini, nrauso* - Created at: 2025-11-19T08:55:33Z
 
 ### NethServer/nethsecurity-docs 1 
@@ -91,7 +93,7 @@ date = 2025-12-12
 
 ### nethesis/vue-components 1 
 
--   **[fix(sort): relaxing sorting function](https://github.com/nethesis/vue-components/pull/104)** by *Tbaile* - Reviewers: *andre8244* - Created at: 2025-12-11T15:17:22Z
+- :eyes:  **[fix(sort): relaxing sorting function](https://github.com/nethesis/vue-components/pull/104)** by *Tbaile* - Reviewers: *None* - Created at: 2025-12-11T15:17:22Z
 
 ### nethesis/nethvoice-client-docs 1 
 
