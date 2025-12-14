@@ -1,6 +1,6 @@
 +++
 title = 'Open Pull Requests by Bots'
-date = 2025-12-13
+date = 2025-12-14
 +++
 
 ## Organization: nethserver
@@ -277,8 +277,10 @@ date = 2025-12-13
 - :eyes: :zzz: **[chore(deps): update redis docker tag to v8](https://github.com/nethesis/ns8-nethvoice-proxy/pull/78)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-07-08T11:53:47Z
 - :eyes: :zzz: **[build(deps): bump http-cache-semantics from 4.1.0 to 4.2.0 in /ui](https://github.com/nethesis/ns8-nethvoice-proxy/pull/71)** by *dependabot[bot]* - Reviewers: *None* - Created at: 2025-06-30T12:12:50Z
 
-### nethesis/vue-components 6 
+### nethesis/vue-components 8 
 
+- :eyes:  **[chore(deps): update actions/setup-node action to v6](https://github.com/nethesis/vue-components/pull/108)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-12-13T19:14:34Z
+- :eyes:  **[chore(deps): update actions/checkout action to v6](https://github.com/nethesis/vue-components/pull/107)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-12-13T19:14:30Z
 - :eyes:  **[chore(deps): update node.js to v22.21.1](https://github.com/nethesis/vue-components/pull/106)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-12-12T07:05:18Z
 - :eyes:  **[chore(deps): update node.js to v22.21.1](https://github.com/nethesis/vue-components/pull/105)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-12-12T07:05:13Z
 - :eyes:  **[chore(deps): update dependency typescript to ~5.9.0](https://github.com/nethesis/vue-components/pull/103)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-12-09T14:29:51Z
