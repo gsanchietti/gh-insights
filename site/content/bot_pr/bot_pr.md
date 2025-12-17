@@ -1,6 +1,6 @@
 +++
 title = 'Open Pull Requests by Bots'
-date = 2025-12-16
+date = 2025-12-17
 +++
 
 ## Organization: nethserver
@@ -8,15 +8,11 @@ date = 2025-12-16
 ### NethServer/nethserver-business 6 
 
 - :eyes:  **[Bump node-forge and @vue/cli-service in /ui](https://github.com/NethServer/nethserver-business/pull/11)** by *dependabot[bot]* - Reviewers: *None* - Created at: 2025-11-27T15:36:48Z
-- :eyes:  **[Bump js-yaml, @vue/cli-plugin-eslint, @vue/cli-service and eslint in /ui](https://github.com/NethServer/nethserver-business/pull/10)** by *dependabot[bot]* - Reviewers: *None* - Created at: 2025-11-16T18:27:20Z
+- :eyes: :zzz: **[Bump js-yaml, @vue/cli-plugin-eslint, @vue/cli-service and eslint in /ui](https://github.com/NethServer/nethserver-business/pull/10)** by *dependabot[bot]* - Reviewers: *None* - Created at: 2025-11-16T18:27:20Z
 - :eyes: :zzz: **[Bump cipher-base from 1.0.4 to 1.0.6 in /ui](https://github.com/NethServer/nethserver-business/pull/9)** by *dependabot[bot]* - Reviewers: *None* - Created at: 2025-09-12T00:27:17Z
 - :eyes: :zzz: **[Bump form-data, @vue/cli-plugin-babel, @vue/cli-plugin-eslint and @vue/cli-service in /ui](https://github.com/NethServer/nethserver-business/pull/8)** by *dependabot[bot]* - Reviewers: *None* - Created at: 2025-07-22T00:21:58Z
 - :eyes: :zzz: **[Bump on-headers and compression in /ui](https://github.com/NethServer/nethserver-business/pull/7)** by *dependabot[bot]* - Reviewers: *None* - Created at: 2025-07-18T00:03:46Z
 - :eyes: :zzz: **[Bump pbkdf2 from 3.0.17 to 3.1.3 in /ui](https://github.com/NethServer/nethserver-business/pull/6)** by *dependabot[bot]* - Reviewers: *None* - Created at: 2025-06-24T07:44:23Z
-
-### NethServer/ns8-core 1 
-
-- :eyes:  **[chore(deps): update dependency grafana/loki to v3.6.2](https://github.com/NethServer/ns8-core/pull/988)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-11-21T18:40:19Z
 
 ### NethServer/ns8-kickstart 1 
 
@@ -250,7 +246,7 @@ date = 2025-12-16
 
 - :eyes:  **[chore(deps): update dependency rollup to v2 [security]](https://github.com/nethesis/ns8-nethvoice/pull/620)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-11-28T08:46:01Z
 - :eyes:  **[chore(deps): update dependency karma to v6 [security]](https://github.com/nethesis/ns8-nethvoice/pull/619)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-11-28T08:45:49Z
-- :eyes:  **[Translations update from Hosted Weblate](https://github.com/nethesis/ns8-nethvoice/pull/616)** by *weblate* - Reviewers: *None* - Created at: 2025-11-26T10:54:15Z
+-   **[Translations update from Hosted Weblate](https://github.com/nethesis/ns8-nethvoice/pull/616)** by *weblate* - Reviewers: *andre8244* - Created at: 2025-11-26T10:54:15Z
 - :eyes:  **[fix(deps): update dependency angular-resource to v1.8.3](https://github.com/nethesis/ns8-nethvoice/pull/610)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-11-21T09:04:25Z
 -   **[fix(deps): update dependency angular-patternfly to v3.26.0](https://github.com/nethesis/ns8-nethvoice/pull/603)** by *renovate[bot]* - Reviewers: *tonyco97* - Created at: 2025-11-18T07:12:43Z
 -   **[fix(deps): update dependency angular-mocks to v1.8.3](https://github.com/nethesis/ns8-nethvoice/pull/602)** by *renovate[bot]* - Reviewers: *tonyco97* - Created at: 2025-11-18T03:13:40Z
@@ -299,14 +295,10 @@ date = 2025-12-16
 
 - :eyes: :zzz: **[build(deps): bump axios from 1.7.7 to 1.12.2 in /slide/frontend](https://github.com/nethesis/nethKaris/pull/1)** by *dependabot[bot]* - Reviewers: *None* - Created at: 2025-10-01T05:47:37Z
 
-### nethesis/satellite 6 
+### nethesis/satellite 2 
 
-- :eyes:  **[chore(deps): update github/codeql-action action to v4](https://github.com/nethesis/satellite/pull/15)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-11-27T21:33:42Z
-- :eyes:  **[chore(deps): update docker/metadata-action action to v5](https://github.com/nethesis/satellite/pull/14)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-11-27T21:33:39Z
-- :eyes:  **[chore(deps): update docker/build-push-action action to v6](https://github.com/nethesis/satellite/pull/13)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-11-27T18:04:49Z
-- :eyes:  **[chore(deps): update dependency paho-mqtt to v2](https://github.com/nethesis/satellite/pull/12)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-11-27T18:04:46Z
+- :eyes:  **[chore(deps): update actions/setup-python action to v6](https://github.com/nethesis/satellite/pull/20)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-12-16T10:10:30Z
 - :eyes:  **[chore(deps): update dependency deepgram-sdk to v5](https://github.com/nethesis/satellite/pull/11)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-11-27T15:44:47Z
-- :eyes:  **[chore(deps): update actions/upload-artifact action to v5](https://github.com/nethesis/satellite/pull/10)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-11-27T15:44:43Z
 
 ### nethesis/matrix2acrobits 10 
 

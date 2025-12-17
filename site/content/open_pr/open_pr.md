@@ -1,13 +1,13 @@
 +++
 title = 'Open Pull Requests'
-date = 2025-12-16
+date = 2025-12-17
 +++
 
 ## Organization: nethserver
 
-### NethServer/ns8-core 1 
+### NethServer/ns8-repomd 1 
 
--   **[Document add_rich_rules and remove_rich_rules firewall functions](https://github.com/NethServer/ns8-core/pull/998)** by *Copilot* - Reviewers: *gsanchietti* - Created at: 2025-12-09T15:38:07Z
+- :eyes:  **[Update logo image](https://github.com/NethServer/ns8-repomd/pull/55)** by *stephdl* - Reviewers: *None* - Created at: 2025-12-16T15:00:06Z
 
 ### NethServer/ns8-traefik 1 
 
@@ -20,6 +20,10 @@ date = 2025-12-16
 ### NethServer/ns8-nethsecurity-controller 1 
 
 - :eyes:  **[feat(ci): renovate, automerge patches](https://github.com/NethServer/ns8-nethsecurity-controller/pull/135)** by *gsanchietti* - Reviewers: *None* - Created at: 2025-11-24T07:54:15Z
+
+### NethServer/ns8-webtop 1 
+
+- :eyes:  **[Update default logo image](https://github.com/NethServer/ns8-webtop/pull/178)** by *stephdl* - Reviewers: *None* - Created at: 2025-12-16T14:54:52Z
 
 ### NethServer/ns8-roundcubemail 1 
 
@@ -38,10 +42,6 @@ date = 2025-12-16
 
 -  :zzz: **[fix(ha): update for beta2](https://github.com/NethServer/nethsecurity-docs/pull/208)** by *gsanchietti* - Reviewers: *filippocarletti* - Created at: 2025-10-02T10:43:05Z
 
-### NethServer/ns8-imapsync 1 
-
-- :eyes:  **[Add bulk user import functionality from CSV](https://github.com/NethServer/ns8-imapsync/pull/63)** by *stephdl* - Reviewers: *None* - Created at: 2025-12-05T11:33:19Z
-
 ### NethServer/ns8-user-manager 1 
 
 - :eyes: :zzz: **[chore(main): release 1.2.5](https://github.com/NethServer/ns8-user-manager/pull/134)** by *Tbaile* - Reviewers: *None* - Created at: 2025-10-06T20:38:53Z
@@ -54,6 +54,10 @@ date = 2025-12-16
 ### NethServer/nethvoice-docs 1 
 
 - :eyes:  **[Add ringtone selection](https://github.com/NethServer/nethvoice-docs/pull/26)** by *andrea-marchionni* - Reviewers: *None* - Created at: 2025-11-28T11:05:27Z
+
+### NethServer/ns8-matrix 1 
+
+- :eyes:  **[feat: add matrix2acrobits proxy](https://github.com/NethServer/ns8-matrix/pull/27)** by *gsanchietti* - Reviewers: *None* - Created at: 2025-12-12T16:53:45Z
 
 ## Organization: nethesis
 
@@ -71,15 +75,16 @@ date = 2025-12-16
 
 ### nethesis/tancredi 1 
 
--   **[Upgrade Tancredi Stack](https://github.com/nethesis/tancredi/pull/335)** by *Stell0* - Reviewers: *Amygos, DavidePrincipi* - Created at: 2025-12-05T09:27:17Z
+-   **[Upgrade Tancredi Stack](https://github.com/nethesis/tancredi/pull/335)** by *Stell0* - Reviewers: *Amygos* - Created at: 2025-12-05T09:27:17Z
 
 ### nethesis/nethvoice-report 1 
 
 - :eyes:  **[feat(cdr): add phone number masking for users with privacy enabled](https://github.com/nethesis/nethvoice-report/pull/205)** by *edospadoni* - Reviewers: *None* - Created at: 2025-12-11T13:04:27Z
 
-### nethesis/ns8-nethvoice 5 
+### nethesis/ns8-nethvoice 6 
 
 - :eyes:  **[feat(cdr): add privacy field to user_authorizations.json](https://github.com/nethesis/ns8-nethvoice/pull/632)** by *edospadoni* - Reviewers: *None* - Created at: 2025-12-11T13:28:22Z
+-   **[Add NethVoice Hotel and Integration Actions](https://github.com/nethesis/ns8-nethvoice/pull/629)** by *Amygos* - Reviewers: *Stell0* - Created at: 2025-12-10T15:58:56Z
 - :eyes:  **[Refactor configuration handling and clean up environment variables](https://github.com/nethesis/ns8-nethvoice/pull/628)** by *Amygos* - Reviewers: *None* - Created at: 2025-12-10T15:52:54Z
 - :eyes:  **[fix: new user-domain-changed event format](https://github.com/nethesis/ns8-nethvoice/pull/626)** by *DavidePrincipi* - Reviewers: *None* - Created at: 2025-12-09T14:46:42Z
 - :eyes:  **[Import CSV with admin APIs](https://github.com/nethesis/ns8-nethvoice/pull/617)** by *gsanchietti* - Reviewers: *None* - Created at: 2025-11-26T14:37:01Z
@@ -87,11 +92,10 @@ date = 2025-12-16
 
 ### nethesis/phone-island 1 
 
--   **[fix: improve WebRTC/Socket stability after network changes and standby](https://github.com/nethesis/phone-island/pull/128)** by *edospadoni* - Reviewers: *tonyco97* - Created at: 2025-12-01T14:15:35Z
+- :eyes:  **[fix: improve WebRTC/Socket stability after network changes and standby](https://github.com/nethesis/phone-island/pull/128)** by *edospadoni* - Reviewers: *None* - Created at: 2025-12-01T14:15:35Z
 
-### nethesis/ns8-nethvoice-proxy 2 
+### nethesis/ns8-nethvoice-proxy 1 
 
-- :eyes:  **[feat: add let's encrypt toggle; various fixes](https://github.com/nethesis/ns8-nethvoice-proxy/pull/110)** by *andre8244* - Reviewers: *None* - Created at: 2025-12-01T16:00:36Z
 - :eyes: :zzz: **[144 multi port binding](https://github.com/nethesis/ns8-nethvoice-proxy/pull/98)** by *paolovisintin* - Reviewers: *None* - Created at: 2025-11-14T10:18:53Z
 
 ### nethesis/vue-components 1 
@@ -106,9 +110,8 @@ date = 2025-12-16
 
 - :eyes: :zzz: **[chore(main): release 1.2.1](https://github.com/nethesis/parceler/pull/105)** by *Tbaile* - Reviewers: *None* - Created at: 2025-08-21T12:47:15Z
 
-### nethesis/satellite 2 
+### nethesis/satellite 1 
 
-- :eyes:  **[chores(sbom): add automated testing](https://github.com/nethesis/satellite/pull/16)** by *Stell0* - Reviewers: *None* - Created at: 2025-11-28T10:44:06Z
 - :eyes: :zzz: **[feature(api): diarized transcription api](https://github.com/nethesis/satellite/pull/4)** by *Stell0* - Reviewers: *None* - Created at: 2025-09-19T07:28:04Z
 
 ### nethesis/nethcti-middleware 3 
