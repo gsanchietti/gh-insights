@@ -2,7 +2,7 @@
 
 title = 'To be released soon'
 
-date = 2025-12-17
+date = 2025-12-18
 
 +++
 
@@ -16,5 +16,5 @@ date = 2025-12-17
 
 ### NethServer
 
-- [WebTop: eliminate external CDN dependencies from login UI to prevent downtime issues](https://github.com/NethServer/dev/issues/7755) (#7755) by Amygos (Created: 2025-11-19T16:24:44Z, Updated: 2025-12-10T08:34:07Z)
+- [WebTop: eliminate external CDN dependencies from login UI to prevent downtime issues](https://github.com/NethServer/dev/issues/7755) (#7755) by Amygos (Created: 2025-11-19T16:24:44Z, Updated: 2025-12-17T12:20:11Z)
 

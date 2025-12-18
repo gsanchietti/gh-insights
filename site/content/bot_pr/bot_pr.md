@@ -1,6 +1,6 @@
 +++
 title = 'Open Pull Requests by Bots'
-date = 2025-12-17
+date = 2025-12-18
 +++
 
 ## Organization: nethserver
@@ -95,11 +95,9 @@ date = 2025-12-17
 - :eyes: :zzz: **[chore(deps): update debian docker tag to v12.12](https://github.com/NethServer/nethsecurity/pull/1366)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-09-08T21:58:45Z
 - :eyes: :zzz: **[chore(deps): update debian docker tag to v13](https://github.com/NethServer/nethsecurity/pull/1342)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-08-12T22:46:15Z
 
-### NethServer/ns8-mail 4 
+### NethServer/ns8-mail 2 
 
-- :eyes:  **[chore(deps): update node.js to v24](https://github.com/NethServer/ns8-mail/pull/210)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-11-26T15:59:12Z
-- :eyes:  **[chore(deps): update node.js to v22.21.1](https://github.com/NethServer/ns8-mail/pull/209)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-11-26T15:59:05Z
-- :eyes:  **[Translations update from Hosted Weblate](https://github.com/NethServer/ns8-mail/pull/208)** by *weblate* - Reviewers: *None* - Created at: 2025-11-25T15:46:18Z
+- :eyes:  **[chore(deps): update alpine docker tag to v3.21.5](https://github.com/NethServer/ns8-mail/pull/211)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-12-17T15:01:22Z
 - :eyes: :zzz: **[chore(deps): update alpine docker tag to v3.22.2](https://github.com/NethServer/ns8-mail/pull/202)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-09-15T08:47:47Z
 
 ### NethServer/ns8-nethsecurity-controller 3 
@@ -111,7 +109,7 @@ date = 2025-12-17
 ### NethServer/ns8-collabora 2 
 
 - :eyes:  **[Translations update from Hosted Weblate](https://github.com/NethServer/ns8-collabora/pull/49)** by *weblate* - Reviewers: *None* - Created at: 2025-11-26T10:51:22Z
-- :eyes:  **[chore(deps): update collabora/code docker tag to v25.04.7.2.1](https://github.com/NethServer/ns8-collabora/pull/48)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-11-18T03:08:56Z
+- :eyes: :zzz: **[chore(deps): update collabora/code docker tag to v25.04.7.2.1](https://github.com/NethServer/ns8-collabora/pull/48)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-11-18T03:08:56Z
 
 ### NethServer/ns8-roundcubemail 1 
 
@@ -141,8 +139,8 @@ date = 2025-12-17
 ### NethServer/ns8-dnsmasq 3 
 
 - :eyes:  **[Translations update from Hosted Weblate](https://github.com/NethServer/ns8-dnsmasq/pull/48)** by *weblate* - Reviewers: *None* - Created at: 2025-11-26T09:54:51Z
-- :eyes:  **[chore(deps): update docker.io/debian docker tag to v13.2](https://github.com/NethServer/ns8-dnsmasq/pull/47)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-11-18T02:28:50Z
-- :eyes: :zzz: **[chore(deps): update node.js to v24.11.1](https://github.com/NethServer/ns8-dnsmasq/pull/46)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-11-12T23:55:45Z
+- :eyes: :zzz: **[chore(deps): update docker.io/debian docker tag to v13.2](https://github.com/NethServer/ns8-dnsmasq/pull/47)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-11-18T02:28:50Z
+- :eyes: :zzz: **[chore(deps): update node.js to v24.12.0](https://github.com/NethServer/ns8-dnsmasq/pull/46)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-11-12T23:55:45Z
 
 ### NethServer/ns8-passbolt 21 
 
@@ -242,26 +240,19 @@ date = 2025-12-17
 
 - :eyes:  **[chore(deps): update dependency moment to v2.29.4 [security]](https://github.com/nethesis/astproxy/pull/21)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-11-27T08:44:28Z
 
-### nethesis/ns8-nethvoice 12 
+### nethesis/ns8-nethvoice 11 
 
 - :eyes:  **[chore(deps): update dependency rollup to v2 [security]](https://github.com/nethesis/ns8-nethvoice/pull/620)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-11-28T08:46:01Z
 - :eyes:  **[chore(deps): update dependency karma to v6 [security]](https://github.com/nethesis/ns8-nethvoice/pull/619)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-11-28T08:45:49Z
--   **[Translations update from Hosted Weblate](https://github.com/nethesis/ns8-nethvoice/pull/616)** by *weblate* - Reviewers: *andre8244* - Created at: 2025-11-26T10:54:15Z
 - :eyes:  **[fix(deps): update dependency angular-resource to v1.8.3](https://github.com/nethesis/ns8-nethvoice/pull/610)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-11-21T09:04:25Z
 -   **[fix(deps): update dependency angular-patternfly to v3.26.0](https://github.com/nethesis/ns8-nethvoice/pull/603)** by *renovate[bot]* - Reviewers: *tonyco97* - Created at: 2025-11-18T07:12:43Z
--   **[fix(deps): update dependency angular-mocks to v1.8.3](https://github.com/nethesis/ns8-nethvoice/pull/602)** by *renovate[bot]* - Reviewers: *tonyco97* - Created at: 2025-11-18T03:13:40Z
--   **[fix(deps): update dependency angular-cookies to v1.8.3](https://github.com/nethesis/ns8-nethvoice/pull/601)** by *renovate[bot]* - Reviewers: *tonyco97* - Created at: 2025-11-18T03:13:25Z
--   **[fix(deps): update dependency angular-bootstrap to v2.5.0](https://github.com/nethesis/ns8-nethvoice/pull/599)** by *renovate[bot]* - Reviewers: *tonyco97* - Created at: 2025-11-17T15:12:12Z
--   **[fix(deps): update dependency angular to v1.8.3](https://github.com/nethesis/ns8-nethvoice/pull/598)** by *renovate[bot]* - Reviewers: *tonyco97* - Created at: 2025-11-17T15:12:02Z
-- :eyes:  **[chore(deps): update node.js to v18.20.8](https://github.com/nethesis/ns8-nethvoice/pull/595)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-11-17T14:17:29Z
+-  :zzz: **[fix(deps): update dependency angular-mocks to v1.8.3](https://github.com/nethesis/ns8-nethvoice/pull/602)** by *renovate[bot]* - Reviewers: *tonyco97* - Created at: 2025-11-18T03:13:40Z
+-  :zzz: **[fix(deps): update dependency angular-cookies to v1.8.3](https://github.com/nethesis/ns8-nethvoice/pull/601)** by *renovate[bot]* - Reviewers: *tonyco97* - Created at: 2025-11-18T03:13:25Z
+-  :zzz: **[fix(deps): update dependency angular-bootstrap to v2.5.0](https://github.com/nethesis/ns8-nethvoice/pull/599)** by *renovate[bot]* - Reviewers: *tonyco97* - Created at: 2025-11-17T15:12:12Z
+-  :zzz: **[fix(deps): update dependency angular to v1.8.3](https://github.com/nethesis/ns8-nethvoice/pull/598)** by *renovate[bot]* - Reviewers: *tonyco97* - Created at: 2025-11-17T15:12:02Z
+- :eyes: :zzz: **[chore(deps): update node.js to v18.20.8](https://github.com/nethesis/ns8-nethvoice/pull/595)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-11-17T14:17:29Z
 -  :zzz: **[chore(deps): update docker.io/library/golang docker tag to v1.25.4](https://github.com/nethesis/ns8-nethvoice/pull/563)** by *renovate[bot]* - Reviewers: *edospadoni* - Created at: 2025-10-16T01:44:45Z
 -  :zzz: **[chore(deps): update docker.io/library/alpine docker tag to v3.22.2](https://github.com/nethesis/ns8-nethvoice/pull/562)** by *renovate[bot]* - Reviewers: *edospadoni, Amygos* - Created at: 2025-10-16T01:44:42Z
-
-### nethesis/nethvoice-cti 3 
-
-- :eyes:  **[chore(deps): update dependency next to v15.4.7 [security]](https://github.com/nethesis/nethvoice-cti/pull/358)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-11-27T08:44:47Z
-- :eyes:  **[chore(deps): update dependency axios to v1.12.0 [security]](https://github.com/nethesis/nethvoice-cti/pull/357)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-11-27T08:44:30Z
-- :eyes: :zzz: **[chore(deps): bump axios from 1.9.0 to 1.12.0](https://github.com/nethesis/nethvoice-cti/pull/337)** by *dependabot[bot]* - Reviewers: *None* - Created at: 2025-10-01T05:47:27Z
 
 ### nethesis/ns8-nethvoice-proxy 12 
 
@@ -295,8 +286,9 @@ date = 2025-12-17
 
 - :eyes: :zzz: **[build(deps): bump axios from 1.7.7 to 1.12.2 in /slide/frontend](https://github.com/nethesis/nethKaris/pull/1)** by *dependabot[bot]* - Reviewers: *None* - Created at: 2025-10-01T05:47:37Z
 
-### nethesis/satellite 2 
+### nethesis/satellite 3 
 
+- :eyes:  **[chore(deps): update dependency python to 3.14](https://github.com/nethesis/satellite/pull/22)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-12-17T07:44:36Z
 - :eyes:  **[chore(deps): update actions/setup-python action to v6](https://github.com/nethesis/satellite/pull/20)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-12-16T10:10:30Z
 - :eyes:  **[chore(deps): update dependency deepgram-sdk to v5](https://github.com/nethesis/satellite/pull/11)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-11-27T15:44:47Z
 
