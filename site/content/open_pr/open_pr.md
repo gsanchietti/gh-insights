@@ -1,6 +1,6 @@
 +++
 title = 'Open Pull Requests'
-date = 2025-12-18
+date = 2025-12-19
 +++
 
 ## Organization: nethserver
@@ -41,6 +41,10 @@ date = 2025-12-18
 
 - :eyes: :zzz: **[chore(main): release 1.2.5](https://github.com/NethServer/ns8-user-manager/pull/134)** by *Tbaile* - Reviewers: *None* - Created at: 2025-10-06T20:38:53Z
 
+### NethServer/ns8-nethforge 1 
+
+-   **[Add matrix metadata](https://github.com/NethServer/ns8-nethforge/pull/32)** by *mrmarkuz* - Reviewers: *gsanchietti, DavidePrincipi* - Created at: 2025-12-18T12:36:52Z
+
 ### NethServer/nethlink 3 
 
 - :eyes:  **[fix: keep active call on lock screen](https://github.com/NethServer/nethlink/pull/80)** by *edospadoni* - Reviewers: *None* - Created at: 2025-12-10T11:08:04Z
@@ -50,10 +54,6 @@ date = 2025-12-18
 ### NethServer/nethvoice-docs 1 
 
 - :eyes:  **[Add ringtone selection](https://github.com/NethServer/nethvoice-docs/pull/26)** by *andrea-marchionni* - Reviewers: *None* - Created at: 2025-11-28T11:05:27Z
-
-### NethServer/ns8-matrix 1 
-
-- :eyes:  **[feat: add matrix2acrobits proxy](https://github.com/NethServer/ns8-matrix/pull/27)** by *gsanchietti* - Reviewers: *None* - Created at: 2025-12-12T16:53:45Z
 
 ### NethServer/ns8-n8n 1 
 
@@ -81,23 +81,26 @@ date = 2025-12-18
 
 - :eyes:  **[feat(cdr): add phone number masking for users with privacy enabled](https://github.com/nethesis/nethvoice-report/pull/205)** by *edospadoni* - Reviewers: *None* - Created at: 2025-12-11T13:04:27Z
 
-### nethesis/ns8-nethvoice 7 
+### nethesis/ns8-nethvoice 5 
 
-- :eyes:  **[refactor(ui): split Settings in multiple pages](https://github.com/nethesis/ns8-nethvoice/pull/637)** by *andre8244* - Reviewers: *None* - Created at: 2025-12-15T11:57:18Z
 - :eyes:  **[feat(cdr): add privacy field to user_authorizations.json](https://github.com/nethesis/ns8-nethvoice/pull/632)** by *edospadoni* - Reviewers: *None* - Created at: 2025-12-11T13:28:22Z
-- :eyes:  **[Add NethVoice Hotel and Integration Actions](https://github.com/nethesis/ns8-nethvoice/pull/629)** by *Amygos* - Reviewers: *None* - Created at: 2025-12-10T15:58:56Z
-- :eyes:  **[Refactor configuration handling and clean up environment variables](https://github.com/nethesis/ns8-nethvoice/pull/628)** by *Amygos* - Reviewers: *None* - Created at: 2025-12-10T15:52:54Z
+-   **[Matrix integration](https://github.com/nethesis/ns8-nethvoice/pull/627)** by *gsanchietti* - Reviewers: *Amygos* - Created at: 2025-12-10T11:32:50Z
 - :eyes:  **[fix: new user-domain-changed event format](https://github.com/nethesis/ns8-nethvoice/pull/626)** by *DavidePrincipi* - Reviewers: *None* - Created at: 2025-12-09T14:46:42Z
 - :eyes:  **[Import CSV with admin APIs](https://github.com/nethesis/ns8-nethvoice/pull/617)** by *gsanchietti* - Reviewers: *None* - Created at: 2025-11-26T14:37:01Z
 -   **[enhancement(freepbx): Don't slow down system at reboot](https://github.com/nethesis/ns8-nethvoice/pull/605)** by *Stell0* - Reviewers: *Amygos, DavidePrincipi* - Created at: 2025-11-19T14:40:39Z
 
-### nethesis/ns8-nethvoice-proxy 1 
+### nethesis/ns8-nethvoice-proxy 2 
 
+- :eyes:  **[feat: Add NAT localnet support with custom ports 6060/6061](https://github.com/nethesis/ns8-nethvoice-proxy/pull/113)** by *paolovisintin* - Reviewers: *None* - Created at: 2025-12-18T11:03:32Z
 - :eyes: :zzz: **[144 multi port binding](https://github.com/nethesis/ns8-nethvoice-proxy/pull/98)** by *paolovisintin* - Reviewers: *None* - Created at: 2025-11-14T10:18:53Z
 
 ### nethesis/vue-components 1 
 
 - :eyes:  **[fix(sort): relaxing sorting function](https://github.com/nethesis/vue-components/pull/104)** by *Tbaile* - Reviewers: *None* - Created at: 2025-12-11T15:17:22Z
+
+### nethesis/ctiapp-authproxy 1 
+
+-   **[feat: add chat provisioning](https://github.com/nethesis/ctiapp-authproxy/pull/16)** by *gsanchietti* - Reviewers: *Stell0, edospadoni* - Created at: 2025-12-17T13:12:41Z
 
 ### nethesis/nethvoice-client-docs 1 
 
@@ -110,5 +113,9 @@ date = 2025-12-18
 ### nethesis/satellite 1 
 
 - :eyes: :zzz: **[feature(api): diarized transcription api](https://github.com/nethesis/satellite/pull/4)** by *Stell0* - Reviewers: *None* - Created at: 2025-09-19T07:28:04Z
+
+### nethesis/nethcti-middleware 1 
+
+-   **[feat: add GET /chat endpoint](https://github.com/nethesis/nethcti-middleware/pull/16)** by *gsanchietti* - Reviewers: *edospadoni, tommaso-ascani* - Created at: 2025-12-17T10:53:42Z
 
 

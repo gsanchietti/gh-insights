@@ -2,7 +2,7 @@
 
 title = 'To be released soon'
 
-date = 2025-12-18
+date = 2025-12-19
 
 +++
 
@@ -12,7 +12,7 @@ date = 2025-12-18
 
 ### NethVoice
 
-- [nethcti-middleware: Missing /user/presence API in FreePBX APIs whitelist](https://github.com/NethServer/dev/issues/7772) (#7755) by edospadoni (Created: 2025-12-02T07:51:40Z, Updated: 2025-12-16T15:29:24Z)
+- [nethcti-middleware: Missing /user/presence API in FreePBX APIs whitelist](https://github.com/NethServer/dev/issues/7772) (#7755) by edospadoni (Created: 2025-12-02T07:51:40Z, Updated: 2025-12-18T09:51:42Z)
 
 ### NethServer
 
