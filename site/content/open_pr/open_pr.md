@@ -1,6 +1,6 @@
 +++
 title = 'Open Pull Requests'
-date = 2025-12-19
+date = 2025-12-20
 +++
 
 ## Organization: nethserver
@@ -12,10 +12,6 @@ date = 2025-12-19
 ### NethServer/ns8-traefik 1 
 
 - :eyes: :zzz: **[fix: cryptography 45 deprecation warning](https://github.com/NethServer/ns8-traefik/pull/120)** by *DavidePrincipi* - Reviewers: *None* - Created at: 2025-10-28T08:48:29Z
-
-### NethServer/nethsecurity 1 
-
-- :eyes: :zzz: **[build(netifyd): upgrade to v5](https://github.com/NethServer/nethsecurity/pull/1290)** by *Tbaile* - Reviewers: *None* - Created at: 2025-07-03T11:05:14Z
 
 ### NethServer/ns8-nethsecurity-controller 1 
 
@@ -43,7 +39,7 @@ date = 2025-12-19
 
 ### NethServer/ns8-nethforge 1 
 
--   **[Add matrix metadata](https://github.com/NethServer/ns8-nethforge/pull/32)** by *mrmarkuz* - Reviewers: *gsanchietti, DavidePrincipi* - Created at: 2025-12-18T12:36:52Z
+-   **[Add matrix metadata](https://github.com/NethServer/ns8-nethforge/pull/32)** by *mrmarkuz* - Reviewers: *gsanchietti* - Created at: 2025-12-18T12:36:52Z
 
 ### NethServer/nethlink 3 
 
@@ -57,7 +53,7 @@ date = 2025-12-19
 
 ### NethServer/ns8-n8n 1 
 
-- :eyes:  **[Add N8N to NethForge](https://github.com/NethServer/ns8-n8n/pull/1)** by *mrmarkuz* - Reviewers: *None* - Created at: 2025-12-17T10:47:29Z
+-   **[Add N8N to NethForge](https://github.com/NethServer/ns8-n8n/pull/1)** by *mrmarkuz* - Reviewers: *gsanchietti* - Created at: 2025-12-17T10:47:29Z
 
 ## Organization: nethesis
 
@@ -87,7 +83,7 @@ date = 2025-12-19
 -   **[Matrix integration](https://github.com/nethesis/ns8-nethvoice/pull/627)** by *gsanchietti* - Reviewers: *Amygos* - Created at: 2025-12-10T11:32:50Z
 - :eyes:  **[fix: new user-domain-changed event format](https://github.com/nethesis/ns8-nethvoice/pull/626)** by *DavidePrincipi* - Reviewers: *None* - Created at: 2025-12-09T14:46:42Z
 - :eyes:  **[Import CSV with admin APIs](https://github.com/nethesis/ns8-nethvoice/pull/617)** by *gsanchietti* - Reviewers: *None* - Created at: 2025-11-26T14:37:01Z
--   **[enhancement(freepbx): Don't slow down system at reboot](https://github.com/nethesis/ns8-nethvoice/pull/605)** by *Stell0* - Reviewers: *Amygos, DavidePrincipi* - Created at: 2025-11-19T14:40:39Z
+-  :zzz: **[enhancement(freepbx): Don't slow down system at reboot](https://github.com/nethesis/ns8-nethvoice/pull/605)** by *Stell0* - Reviewers: *Amygos, DavidePrincipi* - Created at: 2025-11-19T14:40:39Z
 
 ### nethesis/ns8-nethvoice-proxy 2 
 
