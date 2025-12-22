@@ -1,6 +1,6 @@
 +++
 title = 'Open Pull Requests by Bots'
-date = 2025-12-21
+date = 2025-12-22
 +++
 
 ## Organization: nethserver
@@ -114,7 +114,7 @@ date = 2025-12-21
 ### NethServer/phonehome-server 2 
 
 - :eyes:  **[chore(deps): update php docker tag to v8.5.1](https://github.com/NethServer/phonehome-server/pull/140)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-11-22T08:25:41Z
-- :eyes:  **[chore(deps): update actions/checkout action to v6](https://github.com/NethServer/phonehome-server/pull/139)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-11-22T02:25:17Z
+- :eyes: :zzz: **[chore(deps): update actions/checkout action to v6](https://github.com/NethServer/phonehome-server/pull/139)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-11-22T02:25:17Z
 
 ### NethServer/nethsecurity-ui 1 
 
@@ -233,7 +233,7 @@ date = 2025-12-21
 
 - :eyes:  **[chore(deps): update dependency rollup to v2 [security]](https://github.com/nethesis/ns8-nethvoice/pull/620)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-11-28T08:46:01Z
 - :eyes:  **[chore(deps): update dependency karma to v6 [security]](https://github.com/nethesis/ns8-nethvoice/pull/619)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-11-28T08:45:49Z
-- :eyes:  **[fix(deps): update dependency angular-resource to v1.8.3](https://github.com/nethesis/ns8-nethvoice/pull/610)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-11-21T09:04:25Z
+- :eyes: :zzz: **[fix(deps): update dependency angular-resource to v1.8.3](https://github.com/nethesis/ns8-nethvoice/pull/610)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-11-21T09:04:25Z
 -  :zzz: **[fix(deps): update dependency angular-patternfly to v3.26.0](https://github.com/nethesis/ns8-nethvoice/pull/603)** by *renovate[bot]* - Reviewers: *tonyco97* - Created at: 2025-11-18T07:12:43Z
 -  :zzz: **[fix(deps): update dependency angular-mocks to v1.8.3](https://github.com/nethesis/ns8-nethvoice/pull/602)** by *renovate[bot]* - Reviewers: *tonyco97* - Created at: 2025-11-18T03:13:40Z
 -  :zzz: **[fix(deps): update dependency angular-cookies to v1.8.3](https://github.com/nethesis/ns8-nethvoice/pull/601)** by *renovate[bot]* - Reviewers: *tonyco97* - Created at: 2025-11-18T03:13:25Z
@@ -241,6 +241,16 @@ date = 2025-12-21
 -  :zzz: **[fix(deps): update dependency angular to v1.8.3](https://github.com/nethesis/ns8-nethvoice/pull/598)** by *renovate[bot]* - Reviewers: *tonyco97* - Created at: 2025-11-17T15:12:02Z
 -  :zzz: **[chore(deps): update docker.io/library/golang docker tag to v1.25.4](https://github.com/nethesis/ns8-nethvoice/pull/563)** by *renovate[bot]* - Reviewers: *edospadoni* - Created at: 2025-10-16T01:44:45Z
 -  :zzz: **[chore(deps): update docker.io/library/alpine docker tag to v3.22.2](https://github.com/nethesis/ns8-nethvoice/pull/562)** by *renovate[bot]* - Reviewers: *Amygos, edospadoni* - Created at: 2025-10-16T01:44:42Z
+
+### nethesis/nethvoice-cti 2 
+
+- :eyes:  **[chore(deps): update dependency @fortawesome/free-brands-svg-icons to v6.7.2](https://github.com/nethesis/nethvoice-cti/pull/367)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-12-22T02:54:25Z
+- :eyes:  **[chore(deps): update dependency @fortawesome/fontawesome-svg-core to v6.7.2](https://github.com/nethesis/nethvoice-cti/pull/366)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-12-22T02:54:16Z
+
+### nethesis/phone-island 2 
+
+- :eyes:  **[chore(deps): update dependency @headlessui/react to v2.2.9](https://github.com/nethesis/phone-island/pull/136)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-12-22T01:41:58Z
+- :eyes:  **[chore(deps): update dependency @fortawesome/react-fontawesome to v0.2.6](https://github.com/nethesis/phone-island/pull/135)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-12-22T01:41:45Z
 
 ### nethesis/ns8-nethvoice-proxy 12 
 
