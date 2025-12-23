@@ -1,6 +1,6 @@
 +++
 title = 'Open Pull Requests'
-date = 2025-12-22
+date = 2025-12-23
 +++
 
 ## Organization: nethserver
@@ -41,11 +41,9 @@ date = 2025-12-22
 
 -   **[Add matrix metadata](https://github.com/NethServer/ns8-nethforge/pull/32)** by *mrmarkuz* - Reviewers: *gsanchietti* - Created at: 2025-12-18T12:36:52Z
 
-### NethServer/nethlink 3 
+### NethServer/nethlink 1 
 
-- :eyes:  **[fix: keep active call on lock screen](https://github.com/NethServer/nethlink/pull/80)** by *edospadoni* - Reviewers: *None* - Created at: 2025-12-10T11:08:04Z
-- :eyes:  **[fix: set phone-island always on top](https://github.com/NethServer/nethlink/pull/79)** by *edospadoni* - Reviewers: *None* - Created at: 2025-11-28T11:02:44Z
--   **[feat: add incoming calls settings dialog](https://github.com/NethServer/nethlink/pull/78)** by *edospadoni* - Reviewers: *tonyco97* - Created at: 2025-11-25T13:32:27Z
+-   **[refactor: speeddial, last calls and parking](https://github.com/NethServer/nethlink/pull/81)** by *tommaso-ascani* - Reviewers: *tonyco97* - Created at: 2025-12-22T14:48:03Z
 
 ### NethServer/nethvoice-docs 1 
 
@@ -69,21 +67,27 @@ date = 2025-12-22
 
 -  :zzz: **[Removed old notification service usage](https://github.com/nethesis/nethcti-app-iphone/pull/37)** by *NicolaMrAPPs* - Reviewers: *b9874e* - Created at: 2023-08-02T09:19:30Z
 
-### nethesis/tancredi 1 
+### nethesis/tancredi 2 
 
+- :eyes:  **[Fix Yealink expand key number](https://github.com/nethesis/tancredi/pull/340)** by *andrea-marchionni* - Reviewers: *None* - Created at: 2025-12-22T16:57:04Z
 -   **[Upgrade Tancredi Stack](https://github.com/nethesis/tancredi/pull/335)** by *Stell0* - Reviewers: *Amygos* - Created at: 2025-12-05T09:27:17Z
 
 ### nethesis/nethvoice-report 1 
 
 - :eyes:  **[feat(cdr): add phone number masking for users with privacy enabled](https://github.com/nethesis/nethvoice-report/pull/205)** by *edospadoni* - Reviewers: *None* - Created at: 2025-12-11T13:04:27Z
 
-### nethesis/ns8-nethvoice 5 
+### nethesis/ns8-nethvoice 6 
 
+- :eyes:  **[fix(wizard): allow alphanumeric format in bulk CID Root field](https://github.com/nethesis/ns8-nethvoice/pull/655)** by *edospadoni* - Reviewers: *None* - Created at: 2025-12-22T15:09:09Z
 - :eyes:  **[feat(cdr): add privacy field to user_authorizations.json](https://github.com/nethesis/ns8-nethvoice/pull/632)** by *edospadoni* - Reviewers: *None* - Created at: 2025-12-11T13:28:22Z
 -   **[Matrix integration](https://github.com/nethesis/ns8-nethvoice/pull/627)** by *gsanchietti* - Reviewers: *Amygos* - Created at: 2025-12-10T11:32:50Z
 - :eyes:  **[fix: new user-domain-changed event format](https://github.com/nethesis/ns8-nethvoice/pull/626)** by *DavidePrincipi* - Reviewers: *None* - Created at: 2025-12-09T14:46:42Z
 - :eyes:  **[Import CSV with admin APIs](https://github.com/nethesis/ns8-nethvoice/pull/617)** by *gsanchietti* - Reviewers: *None* - Created at: 2025-11-26T14:37:01Z
 -  :zzz: **[enhancement(freepbx): Don't slow down system at reboot](https://github.com/nethesis/ns8-nethvoice/pull/605)** by *Stell0* - Reviewers: *Amygos, DavidePrincipi* - Created at: 2025-11-19T14:40:39Z
+
+### nethesis/nethvoice-cti 1 
+
+-   **[refactor: speeddial, last calls and parking ](https://github.com/nethesis/nethvoice-cti/pull/369)** by *tommaso-ascani* - Reviewers: *tonyco97* - Created at: 2025-12-22T14:47:40Z
 
 ### nethesis/ns8-nethvoice-proxy 2 
 
