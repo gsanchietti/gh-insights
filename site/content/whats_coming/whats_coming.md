@@ -2,7 +2,7 @@
 
 title = 'To be released soon'
 
-date = 2025-12-23
+date = 2025-12-24
 
 +++
 
@@ -23,6 +23,8 @@ date = 2025-12-23
 - [NethLink: Phone Island does not appear in the foreground when full-screen applications are active](https://github.com/NethServer/dev/issues/7762) (#7145) by viktec (Created: 2025-11-27T08:39:48Z, Updated: 2025-12-22T14:50:26Z)
 
 - [NethVoice CTI: Caller and operator name truncated in Operator cards](https://github.com/NethServer/dev/issues/7759) (#7145) by andrea-marchionni (Created: 2025-11-25T14:16:08Z, Updated: 2025-12-22T12:07:49Z)
+
+- [NethVoice: Allow alphanumeric Outbound CID format in multi-extension management interface](https://github.com/NethServer/dev/issues/7751) (#7145) by viktec (Created: 2025-11-18T15:01:56Z, Updated: 2025-12-23T09:22:13Z)
 
 - [NethVoice: changing language in advanced FreePBX settings does not work (always stays in English)](https://github.com/NethServer/dev/issues/7745) (#7145) by viktec (Created: 2025-11-12T15:25:06Z, Updated: 2025-12-19T09:19:10Z)
 

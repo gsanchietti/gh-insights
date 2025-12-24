@@ -1,9 +1,13 @@
 +++
 title = 'Open Pull Requests'
-date = 2025-12-23
+date = 2025-12-24
 +++
 
 ## Organization: nethserver
+
+### NethServer/ns8-core 1 
+
+- :eyes:  **[fix: search in Software center and i18n](https://github.com/NethServer/ns8-core/pull/1003)** by *andre8244* - Reviewers: *None* - Created at: 2025-12-23T09:06:36Z
 
 ### NethServer/ns8-repomd 1 
 
@@ -17,6 +21,10 @@ date = 2025-12-23
 
 - :eyes:  **[feat(ci): renovate, automerge patches](https://github.com/NethServer/ns8-nethsecurity-controller/pull/135)** by *gsanchietti* - Reviewers: *None* - Created at: 2025-11-24T07:54:15Z
 
+### NethServer/ns8-mattermost 1 
+
+- :eyes:  **[Update Mattermost image and ESR version to 10.11.x](https://github.com/NethServer/ns8-mattermost/pull/138)** by *stephdl* - Reviewers: *None* - Created at: 2025-12-23T10:28:59Z
+
 ### NethServer/ns8-roundcubemail 1 
 
 - :eyes: :zzz: **[Add Traefik configuration and enhance Lets Encrypt handling](https://github.com/NethServer/ns8-roundcubemail/pull/59)** by *stephdl* - Reviewers: *None* - Created at: 2025-10-16T15:21:00Z
@@ -25,8 +33,9 @@ date = 2025-12-23
 
 - :eyes: :zzz: **[chore(master): release 1.5.1](https://github.com/NethServer/phonehome-server/pull/138)** by *Tbaile* - Reviewers: *None* - Created at: 2025-11-15T06:38:38Z
 
-### NethServer/ns8-docs 1 
+### NethServer/ns8-docs 2 
 
+- :eyes:  **[Add matrix documentation](https://github.com/NethServer/ns8-docs/pull/211)** by *mrmarkuz* - Reviewers: *None* - Created at: 2025-12-23T15:07:05Z
 - :eyes:  **[Add CSV import functionality for bulk synchronization tasks](https://github.com/NethServer/ns8-docs/pull/207)** by *stephdl* - Reviewers: *None* - Created at: 2025-12-12T10:02:03Z
 
 ### NethServer/nethsecurity-docs 1 
@@ -36,10 +45,6 @@ date = 2025-12-23
 ### NethServer/ns8-user-manager 1 
 
 - :eyes: :zzz: **[chore(main): release 1.2.5](https://github.com/NethServer/ns8-user-manager/pull/134)** by *Tbaile* - Reviewers: *None* - Created at: 2025-10-06T20:38:53Z
-
-### NethServer/ns8-nethforge 1 
-
--   **[Add matrix metadata](https://github.com/NethServer/ns8-nethforge/pull/32)** by *mrmarkuz* - Reviewers: *gsanchietti* - Created at: 2025-12-18T12:36:52Z
 
 ### NethServer/nethlink 1 
 
@@ -78,11 +83,11 @@ date = 2025-12-23
 
 ### nethesis/ns8-nethvoice 6 
 
-- :eyes:  **[fix(wizard): allow alphanumeric format in bulk CID Root field](https://github.com/nethesis/ns8-nethvoice/pull/655)** by *edospadoni* - Reviewers: *None* - Created at: 2025-12-22T15:09:09Z
 - :eyes:  **[feat(cdr): add privacy field to user_authorizations.json](https://github.com/nethesis/ns8-nethvoice/pull/632)** by *edospadoni* - Reviewers: *None* - Created at: 2025-12-11T13:28:22Z
 -   **[Matrix integration](https://github.com/nethesis/ns8-nethvoice/pull/627)** by *gsanchietti* - Reviewers: *Amygos* - Created at: 2025-12-10T11:32:50Z
 - :eyes:  **[fix: new user-domain-changed event format](https://github.com/nethesis/ns8-nethvoice/pull/626)** by *DavidePrincipi* - Reviewers: *None* - Created at: 2025-12-09T14:46:42Z
 - :eyes:  **[Import CSV with admin APIs](https://github.com/nethesis/ns8-nethvoice/pull/617)** by *gsanchietti* - Reviewers: *None* - Created at: 2025-11-26T14:37:01Z
+-  :zzz: **[Transcription at the end of a call](https://github.com/nethesis/ns8-nethvoice/pull/606)** by *Stell0* - Reviewers: *Amygos, edospadoni* - Created at: 2025-11-20T11:16:26Z
 -  :zzz: **[enhancement(freepbx): Don't slow down system at reboot](https://github.com/nethesis/ns8-nethvoice/pull/605)** by *Stell0* - Reviewers: *Amygos, DavidePrincipi* - Created at: 2025-11-19T14:40:39Z
 
 ### nethesis/nethvoice-cti 1 
@@ -112,7 +117,7 @@ date = 2025-12-23
 
 ### nethesis/satellite 1 
 
-- :eyes: :zzz: **[feature(api): diarized transcription api](https://github.com/nethesis/satellite/pull/4)** by *Stell0* - Reviewers: *None* - Created at: 2025-09-19T07:28:04Z
+-  :zzz: **[feature(api): diarized transcription api](https://github.com/nethesis/satellite/pull/4)** by *Stell0* - Reviewers: *Amygos, edospadoni* - Created at: 2025-09-19T07:28:04Z
 
 ### nethesis/nethcti-middleware 1 
 
