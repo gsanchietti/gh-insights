@@ -1,6 +1,6 @@
 +++
 title = 'Open Pull Requests'
-date = 2025-12-24
+date = 2025-12-25
 +++
 
 ## Organization: nethserver
@@ -19,7 +19,7 @@ date = 2025-12-24
 
 ### NethServer/ns8-nethsecurity-controller 1 
 
-- :eyes:  **[feat(ci): renovate, automerge patches](https://github.com/NethServer/ns8-nethsecurity-controller/pull/135)** by *gsanchietti* - Reviewers: *None* - Created at: 2025-11-24T07:54:15Z
+- :eyes: :zzz: **[feat(ci): renovate, automerge patches](https://github.com/NethServer/ns8-nethsecurity-controller/pull/135)** by *gsanchietti* - Reviewers: *None* - Created at: 2025-11-24T07:54:15Z
 
 ### NethServer/ns8-mattermost 1 
 
@@ -33,8 +33,9 @@ date = 2025-12-24
 
 - :eyes: :zzz: **[chore(master): release 1.5.1](https://github.com/NethServer/phonehome-server/pull/138)** by *Tbaile* - Reviewers: *None* - Created at: 2025-11-15T06:38:38Z
 
-### NethServer/ns8-docs 2 
+### NethServer/ns8-docs 3 
 
+-   **[Update image format and add custom logo instructions](https://github.com/NethServer/ns8-docs/pull/212)** by *lucagasparini* - Reviewers: *gsanchietti* - Created at: 2025-12-24T10:42:23Z
 - :eyes:  **[Add matrix documentation](https://github.com/NethServer/ns8-docs/pull/211)** by *mrmarkuz* - Reviewers: *None* - Created at: 2025-12-23T15:07:05Z
 - :eyes:  **[Add CSV import functionality for bulk synchronization tasks](https://github.com/NethServer/ns8-docs/pull/207)** by *stephdl* - Reviewers: *None* - Created at: 2025-12-12T10:02:03Z
 
