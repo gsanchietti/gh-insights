@@ -1,6 +1,6 @@
 +++
 title = 'Open Pull Requests by Bots'
-date = 2025-12-26
+date = 2025-12-27
 +++
 
 ## Organization: nethserver
@@ -83,7 +83,7 @@ date = 2025-12-26
 
 ### NethServer/ns8-collabora 2 
 
-- :eyes:  **[Translations update from Hosted Weblate](https://github.com/NethServer/ns8-collabora/pull/49)** by *weblate* - Reviewers: *None* - Created at: 2025-11-26T10:51:22Z
+- :eyes: :zzz: **[Translations update from Hosted Weblate](https://github.com/NethServer/ns8-collabora/pull/49)** by *weblate* - Reviewers: *None* - Created at: 2025-11-26T10:51:22Z
 - :eyes: :zzz: **[chore(deps): update collabora/code docker tag to v25.04.7.2.1](https://github.com/NethServer/ns8-collabora/pull/48)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-11-18T03:08:56Z
 
 ### NethServer/ns8-roundcubemail 1 
@@ -158,19 +158,19 @@ date = 2025-12-26
 
 ### nethesis/icaro 14 
 
-- :eyes:  **[fix(deps): update dependency jspdf to v3 [security]](https://github.com/nethesis/icaro/pull/213)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-11-26T09:36:28Z
-- :eyes:  **[fix(deps): update dependency crypto-js to v4 [security]](https://github.com/nethesis/icaro/pull/212)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-11-26T09:36:14Z
-- :eyes:  **[chore(deps): update dependency webpack-dev-server to v5 [security]](https://github.com/nethesis/icaro/pull/211)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-11-26T09:36:03Z
-- :eyes:  **[chore(deps): update dependency webpack-bundle-analyzer to v3 [security]](https://github.com/nethesis/icaro/pull/210)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-11-26T09:35:38Z
-- :eyes:  **[chore(deps): update dependency node-notifier to v8 [security]](https://github.com/nethesis/icaro/pull/209)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-11-26T09:35:14Z
-- :eyes:  **[fix(deps): update module github.com/gin-gonic/gin to v1.9.1 [security]](https://github.com/nethesis/icaro/pull/208)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-11-26T09:34:52Z
-- :eyes:  **[fix(deps): update module github.com/gin-contrib/cors to v1.6.0 [security]](https://github.com/nethesis/icaro/pull/207)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-11-26T09:34:42Z
-- :eyes:  **[chore(deps): update dependency shelljs to ^0.8.0 [security]](https://github.com/nethesis/icaro/pull/206)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-11-26T09:34:21Z
-- :eyes:  **[chore(deps): update dependency semver to v5.7.2 [security]](https://github.com/nethesis/icaro/pull/205)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-11-26T09:34:01Z
-- :eyes:  **[chore(deps): update dependency moment to v2.29.4 [security]](https://github.com/nethesis/icaro/pull/204)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-11-26T09:33:42Z
-- :eyes:  **[chore(deps): update dependency jquery to v3.5.0 [security]](https://github.com/nethesis/icaro/pull/203)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-11-26T09:33:28Z
-- :eyes:  **[chore(deps): update dependency jekyll to v3.6.3 [security]](https://github.com/nethesis/icaro/pull/202)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-11-26T09:33:04Z
-- :eyes:  **[chore(deps): update dependency moment-timezone to v0.5.35 [security]](https://github.com/nethesis/icaro/pull/201)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-11-26T09:32:55Z
+- :eyes: :zzz: **[fix(deps): update dependency jspdf to v3 [security]](https://github.com/nethesis/icaro/pull/213)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-11-26T09:36:28Z
+- :eyes: :zzz: **[fix(deps): update dependency crypto-js to v4 [security]](https://github.com/nethesis/icaro/pull/212)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-11-26T09:36:14Z
+- :eyes: :zzz: **[chore(deps): update dependency webpack-dev-server to v5 [security]](https://github.com/nethesis/icaro/pull/211)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-11-26T09:36:03Z
+- :eyes: :zzz: **[chore(deps): update dependency webpack-bundle-analyzer to v3 [security]](https://github.com/nethesis/icaro/pull/210)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-11-26T09:35:38Z
+- :eyes: :zzz: **[chore(deps): update dependency node-notifier to v8 [security]](https://github.com/nethesis/icaro/pull/209)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-11-26T09:35:14Z
+- :eyes: :zzz: **[fix(deps): update module github.com/gin-gonic/gin to v1.9.1 [security]](https://github.com/nethesis/icaro/pull/208)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-11-26T09:34:52Z
+- :eyes: :zzz: **[fix(deps): update module github.com/gin-contrib/cors to v1.6.0 [security]](https://github.com/nethesis/icaro/pull/207)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-11-26T09:34:42Z
+- :eyes: :zzz: **[chore(deps): update dependency shelljs to ^0.8.0 [security]](https://github.com/nethesis/icaro/pull/206)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-11-26T09:34:21Z
+- :eyes: :zzz: **[chore(deps): update dependency semver to v5.7.2 [security]](https://github.com/nethesis/icaro/pull/205)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-11-26T09:34:01Z
+- :eyes: :zzz: **[chore(deps): update dependency moment to v2.29.4 [security]](https://github.com/nethesis/icaro/pull/204)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-11-26T09:33:42Z
+- :eyes: :zzz: **[chore(deps): update dependency jquery to v3.5.0 [security]](https://github.com/nethesis/icaro/pull/203)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-11-26T09:33:28Z
+- :eyes: :zzz: **[chore(deps): update dependency jekyll to v3.6.3 [security]](https://github.com/nethesis/icaro/pull/202)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-11-26T09:33:04Z
+- :eyes: :zzz: **[chore(deps): update dependency moment-timezone to v0.5.35 [security]](https://github.com/nethesis/icaro/pull/201)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-11-26T09:32:55Z
 - :eyes: :zzz: **[Bump jspdf from 1.3.5 to 3.0.2 in /sun/sun-ui](https://github.com/nethesis/icaro/pull/199)** by *dependabot[bot]* - Reviewers: *None* - Created at: 2025-08-27T05:56:24Z
 
 ### nethesis/contatta 1 
@@ -191,10 +191,10 @@ date = 2025-12-26
 ### nethesis/falconieri 5 
 
 - :eyes:  **[chore(deps): update github artifact actions (major)](https://github.com/nethesis/falconieri/pull/20)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-12-12T22:32:02Z
-- :eyes:  **[chore(deps): update softprops/action-gh-release action to v2](https://github.com/nethesis/falconieri/pull/19)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-11-26T22:41:37Z
-- :eyes:  **[chore(deps): update github/codeql-action action to v4](https://github.com/nethesis/falconieri/pull/18)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-11-26T22:41:34Z
-- :eyes:  **[chore(deps): update dependency ubuntu to v24](https://github.com/nethesis/falconieri/pull/16)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-11-26T19:02:10Z
-- :eyes:  **[fix(deps): update module github.com/gin-gonic/gin to v1.11.0](https://github.com/nethesis/falconieri/pull/13)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-11-26T09:01:28Z
+- :eyes: :zzz: **[chore(deps): update softprops/action-gh-release action to v2](https://github.com/nethesis/falconieri/pull/19)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-11-26T22:41:37Z
+- :eyes: :zzz: **[chore(deps): update github/codeql-action action to v4](https://github.com/nethesis/falconieri/pull/18)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-11-26T22:41:34Z
+- :eyes: :zzz: **[chore(deps): update dependency ubuntu to v24](https://github.com/nethesis/falconieri/pull/16)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-11-26T19:02:10Z
+- :eyes: :zzz: **[fix(deps): update module github.com/gin-gonic/gin to v1.11.0](https://github.com/nethesis/falconieri/pull/13)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-11-26T09:01:28Z
 
 ### nethesis/nethserver-tancredi 1 
 
@@ -226,13 +226,13 @@ date = 2025-12-26
 - :eyes:  **[chore(deps): update dependency carbon-components to v10.58.15](https://github.com/nethesis/ns8-nethvoice-proxy/pull/115)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-12-23T09:34:14Z
 - :eyes:  **[chore(deps): update dependency vue-router to v3.5.4](https://github.com/nethesis/ns8-nethvoice-proxy/pull/109)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-11-27T05:16:48Z
 - :eyes:  **[chore(deps): update dependency vue-date-fns to v2.0.2](https://github.com/nethesis/ns8-nethvoice-proxy/pull/108)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-11-27T05:16:39Z
-- :eyes:  **[chore(deps): update dependency vue-axios to v3.2.5](https://github.com/nethesis/ns8-nethvoice-proxy/pull/107)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-11-27T03:38:50Z
-- :eyes:  **[chore(deps): update dependency sass-loader to v10.2.1](https://github.com/nethesis/ns8-nethvoice-proxy/pull/106)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-11-27T03:38:38Z
-- :eyes:  **[chore(deps): update dependency sass to v1.43.5](https://github.com/nethesis/ns8-nethvoice-proxy/pull/105)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-11-26T22:04:22Z
-- :eyes:  **[chore(deps): update dependency lottie-web-vue to v1.2.1](https://github.com/nethesis/ns8-nethvoice-proxy/pull/104)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-11-26T22:04:12Z
-- :eyes:  **[chore(deps): update dependency eslint-plugin-prettier to v3.4.1](https://github.com/nethesis/ns8-nethvoice-proxy/pull/103)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-11-26T20:12:27Z
-- :eyes:  **[chore(deps): replace dependency babel-eslint with @babel/eslint-parser ^7.11.0](https://github.com/nethesis/ns8-nethvoice-proxy/pull/102)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-11-26T20:12:17Z
-- :eyes:  **[Translations update from Hosted Weblate](https://github.com/nethesis/ns8-nethvoice-proxy/pull/101)** by *weblate* - Reviewers: *None* - Created at: 2025-11-26T08:51:51Z
+- :eyes: :zzz: **[chore(deps): update dependency vue-axios to v3.2.5](https://github.com/nethesis/ns8-nethvoice-proxy/pull/107)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-11-27T03:38:50Z
+- :eyes: :zzz: **[chore(deps): update dependency sass-loader to v10.2.1](https://github.com/nethesis/ns8-nethvoice-proxy/pull/106)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-11-27T03:38:38Z
+- :eyes: :zzz: **[chore(deps): update dependency sass to v1.43.5](https://github.com/nethesis/ns8-nethvoice-proxy/pull/105)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-11-26T22:04:22Z
+- :eyes: :zzz: **[chore(deps): update dependency lottie-web-vue to v1.2.1](https://github.com/nethesis/ns8-nethvoice-proxy/pull/104)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-11-26T22:04:12Z
+- :eyes: :zzz: **[chore(deps): update dependency eslint-plugin-prettier to v3.4.1](https://github.com/nethesis/ns8-nethvoice-proxy/pull/103)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-11-26T20:12:27Z
+- :eyes: :zzz: **[chore(deps): replace dependency babel-eslint with @babel/eslint-parser ^7.11.0](https://github.com/nethesis/ns8-nethvoice-proxy/pull/102)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-11-26T20:12:17Z
+- :eyes: :zzz: **[Translations update from Hosted Weblate](https://github.com/nethesis/ns8-nethvoice-proxy/pull/101)** by *weblate* - Reviewers: *None* - Created at: 2025-11-26T08:51:51Z
 - :eyes: :zzz: **[chore(deps): update redis docker tag to v8](https://github.com/nethesis/ns8-nethvoice-proxy/pull/78)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-07-08T11:53:47Z
 - :eyes: :zzz: **[build(deps): bump http-cache-semantics from 4.1.0 to 4.2.0 in /ui](https://github.com/nethesis/ns8-nethvoice-proxy/pull/71)** by *dependabot[bot]* - Reviewers: *None* - Created at: 2025-06-30T12:12:50Z
 
