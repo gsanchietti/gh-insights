@@ -1,6 +1,6 @@
 +++
 title = 'Open Pull Requests'
-date = 2025-12-28
+date = 2025-12-29
 +++
 
 ## Organization: nethserver
@@ -53,7 +53,7 @@ date = 2025-12-28
 
 ### NethServer/nethvoice-docs 1 
 
-- :eyes:  **[Add ringtone selection](https://github.com/NethServer/nethvoice-docs/pull/26)** by *andrea-marchionni* - Reviewers: *None* - Created at: 2025-11-28T11:05:27Z
+- :eyes: :zzz: **[Add ringtone selection](https://github.com/NethServer/nethvoice-docs/pull/26)** by *andrea-marchionni* - Reviewers: *None* - Created at: 2025-11-28T11:05:27Z
 
 ### NethServer/ns8-n8n 1 
 
