@@ -1,6 +1,6 @@
 +++
 title = 'Open Pull Requests by Bots'
-date = 2025-12-29
+date = 2025-12-30
 +++
 
 ## Organization: nethserver
@@ -32,7 +32,7 @@ date = 2025-12-29
 
 ### NethServer/ns8-nextcloud 2 
 
-- :eyes:  **[Translations update from Hosted Weblate](https://github.com/NethServer/ns8-nextcloud/pull/174)** by *weblate* - Reviewers: *None* - Created at: 2025-11-29T13:01:30Z
+- :eyes: :zzz: **[Translations update from Hosted Weblate](https://github.com/NethServer/ns8-nextcloud/pull/174)** by *weblate* - Reviewers: *None* - Created at: 2025-11-29T13:01:30Z
 - :eyes: :zzz: **[chore(deps): replace dependency babel-eslint with @babel/eslint-parser ^7.11.0](https://github.com/NethServer/ns8-nextcloud/pull/172)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-11-27T14:01:55Z
 
 ### NethServer/ns8-minio 1 
@@ -92,7 +92,7 @@ date = 2025-12-29
 
 ### NethServer/ns8-nethsecurity-controller 1 
 
-- :eyes:  **[Translations update from Hosted Weblate](https://github.com/NethServer/ns8-nethsecurity-controller/pull/146)** by *weblate* - Reviewers: *None* - Created at: 2025-11-29T12:08:11Z
+- :eyes: :zzz: **[Translations update from Hosted Weblate](https://github.com/NethServer/ns8-nethsecurity-controller/pull/146)** by *weblate* - Reviewers: *None* - Created at: 2025-11-29T12:08:11Z
 
 ### NethServer/ns8-mattermost 1 
 
@@ -214,7 +214,7 @@ date = 2025-12-29
 - :eyes:  **[fix(deps): update dependency slim/slim to v4](https://github.com/nethesis/tancredi/pull/334)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-12-05T07:39:32Z
 - :eyes:  **[fix(deps): update dependency monolog/monolog to v3](https://github.com/nethesis/tancredi/pull/332)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-12-02T23:16:28Z
 - :eyes:  **[fix(deps): update dependency akrabat/ip-address-middleware to v2](https://github.com/nethesis/tancredi/pull/331)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-12-02T23:16:20Z
-- :eyes:  **[chore(deps): update dependency ubuntu to v24](https://github.com/nethesis/tancredi/pull/327)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-11-30T03:56:41Z
+- :eyes: :zzz: **[chore(deps): update dependency ubuntu to v24](https://github.com/nethesis/tancredi/pull/327)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-11-30T03:56:41Z
 - :eyes: :zzz: **[fix(deps): update dependency twig/twig to v3 [security]](https://github.com/nethesis/tancredi/pull/322)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-11-28T08:33:31Z
 
 ### nethesis/falconieri 5 
@@ -251,8 +251,10 @@ date = 2025-12-29
 -  :zzz: **[chore(deps): update docker.io/library/golang docker tag to v1.25.4](https://github.com/nethesis/ns8-nethvoice/pull/563)** by *renovate[bot]* - Reviewers: *edospadoni* - Created at: 2025-10-16T01:44:45Z
 -  :zzz: **[chore(deps): update docker.io/library/alpine docker tag to v3.22.2](https://github.com/nethesis/ns8-nethvoice/pull/562)** by *renovate[bot]* - Reviewers: *Amygos, edospadoni* - Created at: 2025-10-16T01:44:42Z
 
-### nethesis/nethvoice-cti 2 
+### nethesis/nethvoice-cti 4 
 
+- :eyes:  **[chore(deps): update dependency @types/lodash to v4.17.21](https://github.com/nethesis/nethvoice-cti/pull/373)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-12-29T05:53:48Z
+- :eyes:  **[chore(deps): update dependency @tailwindcss/forms to v0.5.11](https://github.com/nethesis/nethvoice-cti/pull/372)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-12-29T05:53:39Z
 - :eyes:  **[chore(deps): update dependency @fortawesome/react-fontawesome to v0.2.6](https://github.com/nethesis/nethvoice-cti/pull/371)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-12-29T00:59:40Z
 - :eyes:  **[chore(deps): update dependency @fortawesome/free-solid-svg-icons to v6.7.2](https://github.com/nethesis/nethvoice-cti/pull/370)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-12-29T00:59:31Z
 
