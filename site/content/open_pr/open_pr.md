@@ -1,6 +1,6 @@
 +++
 title = 'Open Pull Requests'
-date = 2025-12-30
+date = 2025-12-31
 +++
 
 ## Organization: nethserver
@@ -23,7 +23,7 @@ date = 2025-12-30
 
 ### NethServer/ns8-mattermost 1 
 
-- :eyes:  **[Update Mattermost image and ESR version to 10.11.x](https://github.com/NethServer/ns8-mattermost/pull/138)** by *stephdl* - Reviewers: *None* - Created at: 2025-12-23T10:28:59Z
+-   **[Update Mattermost image and ESR version to 10.11.x](https://github.com/NethServer/ns8-mattermost/pull/138)** by *stephdl* - Reviewers: *DavidePrincipi* - Created at: 2025-12-23T10:28:59Z
 
 ### NethServer/ns8-roundcubemail 1 
 

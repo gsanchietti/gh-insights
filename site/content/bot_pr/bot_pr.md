@@ -1,6 +1,6 @@
 +++
 title = 'Open Pull Requests by Bots'
-date = 2025-12-30
+date = 2025-12-31
 +++
 
 ## Organization: nethserver
@@ -122,7 +122,7 @@ date = 2025-12-30
 
 ### NethServer/nethsecurity-ui 1 
 
-- :eyes:  **[chore: translations update from Hosted Weblate](https://github.com/NethServer/nethsecurity-ui/pull/664)** by *weblate* - Reviewers: *None* - Created at: 2025-12-01T00:00:44Z
+- :eyes: :zzz: **[chore: translations update from Hosted Weblate](https://github.com/NethServer/nethsecurity-ui/pull/664)** by *weblate* - Reviewers: *None* - Created at: 2025-12-01T00:00:44Z
 
 ### NethServer/nethsecurity-docs 1 
 

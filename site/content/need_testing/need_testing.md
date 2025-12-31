@@ -1,6 +1,6 @@
 +++
 title = 'Need testing (10)'
-date = 2025-12-30
+date = 2025-12-31
 +++
 
 ## NethVoice
@@ -14,7 +14,7 @@ date = 2025-12-30
 
 ## NethServer
 - :point_right: **[Upgrade Webtop dependencies (tracking issue)](https://github.com/NethServer/dev/issues/7763)** (#7700) by *stephdl* (Created: 2025-11-28, Updated: 2025-12-17T12:20:11Z)
-- :point_right: **[WebTop 5.30.1](https://github.com/NethServer/dev/issues/7754)** (#7700) by *lucagasparini* (Created: 2025-11-19, Updated: 2025-12-19T14:34:46Z)
+- :point_right: **[WebTop 5.30.2](https://github.com/NethServer/dev/issues/7754)** (#7700) by *lucagasparini* (Created: 2025-11-19, Updated: 2025-12-30T13:40:48Z)
 
 ## NoMilestone
 - :point_right: **[Add Matrix to NethForge](https://github.com/NethServer/dev/issues/7723)** (#7700) by *mrmarkuz* (Created: 2025-11-03, Updated: 2025-12-24T04:33:41Z)
