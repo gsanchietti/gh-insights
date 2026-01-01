@@ -1,12 +1,13 @@
 +++
 title = 'Open Pull Requests by Bots'
-date = 2025-12-31
+date = 2026-01-01
 +++
 
 ## Organization: nethserver
 
-### NethServer/nethserver-business 6 
+### NethServer/nethserver-business 7 
 
+- :eyes:  **[Bump qs, @vue/cli-plugin-babel, @vue/cli-plugin-eslint and @vue/cli-service in /ui](https://github.com/NethServer/nethserver-business/pull/12)** by *dependabot[bot]* - Reviewers: *None* - Created at: 2025-12-31T20:33:13Z
 - :eyes: :zzz: **[Bump node-forge and @vue/cli-service in /ui](https://github.com/NethServer/nethserver-business/pull/11)** by *dependabot[bot]* - Reviewers: *None* - Created at: 2025-11-27T15:36:48Z
 - :eyes: :zzz: **[Bump js-yaml, @vue/cli-plugin-eslint, @vue/cli-service and eslint in /ui](https://github.com/NethServer/nethserver-business/pull/10)** by *dependabot[bot]* - Reviewers: *None* - Created at: 2025-11-16T18:27:20Z
 - :eyes: :zzz: **[Bump cipher-base from 1.0.4 to 1.0.6 in /ui](https://github.com/NethServer/nethserver-business/pull/9)** by *dependabot[bot]* - Reviewers: *None* - Created at: 2025-09-12T00:27:17Z
@@ -102,10 +103,6 @@ date = 2025-12-31
 
 - :eyes: :zzz: **[Translations update from Hosted Weblate](https://github.com/NethServer/ns8-collabora/pull/49)** by *weblate* - Reviewers: *None* - Created at: 2025-11-26T10:51:22Z
 - :eyes: :zzz: **[chore(deps): update collabora/code docker tag to v25.04.7.2.1](https://github.com/NethServer/ns8-collabora/pull/48)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-11-18T03:08:56Z
-
-### NethServer/ns8-roundcubemail 1 
-
-- :eyes: :zzz: **[chore(deps): replace dependency babel-eslint with @babel/eslint-parser ^7.11.0](https://github.com/NethServer/ns8-roundcubemail/pull/66)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-11-27T14:10:24Z
 
 ### NethServer/phonehome-server 2 
 
