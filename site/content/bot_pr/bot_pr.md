@@ -1,6 +1,6 @@
 +++
 title = 'Open Pull Requests by Bots'
-date = 2026-01-01
+date = 2026-01-02
 +++
 
 ## Organization: nethserver
@@ -209,8 +209,8 @@ date = 2026-01-01
 - :eyes:  **[chore(deps): update actions/cache action to v5](https://github.com/nethesis/tancredi/pull/337)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-12-11T22:07:57Z
 - :eyes:  **[chore(deps): update peter-evans/create-pull-request action to v8](https://github.com/nethesis/tancredi/pull/336)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-12-10T03:03:28Z
 - :eyes:  **[fix(deps): update dependency slim/slim to v4](https://github.com/nethesis/tancredi/pull/334)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-12-05T07:39:32Z
-- :eyes:  **[fix(deps): update dependency monolog/monolog to v3](https://github.com/nethesis/tancredi/pull/332)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-12-02T23:16:28Z
-- :eyes:  **[fix(deps): update dependency akrabat/ip-address-middleware to v2](https://github.com/nethesis/tancredi/pull/331)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-12-02T23:16:20Z
+- :eyes: :zzz: **[fix(deps): update dependency monolog/monolog to v3](https://github.com/nethesis/tancredi/pull/332)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-12-02T23:16:28Z
+- :eyes: :zzz: **[fix(deps): update dependency akrabat/ip-address-middleware to v2](https://github.com/nethesis/tancredi/pull/331)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-12-02T23:16:20Z
 - :eyes: :zzz: **[chore(deps): update dependency ubuntu to v24](https://github.com/nethesis/tancredi/pull/327)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-11-30T03:56:41Z
 - :eyes: :zzz: **[fix(deps): update dependency twig/twig to v3 [security]](https://github.com/nethesis/tancredi/pull/322)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-11-28T08:33:31Z
 
@@ -301,7 +301,7 @@ date = 2026-01-01
 
 ### nethesis/matrix2acrobits 9 
 
-- :eyes:  **[fix(deps): update module github.com/labstack/echo/v4 to v4.14.0](https://github.com/nethesis/matrix2acrobits/pull/11)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-12-11T22:10:25Z
+- :eyes:  **[fix(deps): update module github.com/labstack/echo/v4 to v4.15.0](https://github.com/nethesis/matrix2acrobits/pull/11)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-12-11T22:10:25Z
 - :eyes:  **[chore(deps): update docker/setup-buildx-action action to v3](https://github.com/nethesis/matrix2acrobits/pull/10)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-12-10T20:36:17Z
 - :eyes:  **[chore(deps): update docker/login-action action to v3](https://github.com/nethesis/matrix2acrobits/pull/9)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-12-10T20:36:13Z
 - :eyes:  **[chore(deps): update docker/build-push-action action to v6](https://github.com/nethesis/matrix2acrobits/pull/8)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-12-10T17:40:28Z
