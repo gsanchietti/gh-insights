@@ -2,13 +2,11 @@
 
 title = 'To be released soon'
 
-date = 2026-01-02
+date = 2026-01-03
 
 +++
 
 ### NoMilestone
-
-- [Add CSV bulk import utilities for imapsync](https://github.com/NethServer/dev/issues/7791) (#7145) by stephdl (Created: 2025-12-15T16:45:10Z, Updated: 2025-12-30T15:11:14Z)
 
 - [UI for NethVoice Settings Redesign](https://github.com/NethServer/dev/issues/7790) (#7145) by andre8244 (Created: 2025-12-15T11:54:20Z, Updated: 2025-12-22T11:18:14Z)
 

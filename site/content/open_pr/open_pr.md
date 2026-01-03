@@ -1,6 +1,6 @@
 +++
 title = 'Open Pull Requests'
-date = 2026-01-02
+date = 2026-01-03
 +++
 
 ## Organization: nethserver
@@ -12,6 +12,10 @@ date = 2026-01-02
 ### NethServer/ns8-repomd 1 
 
 - :eyes:  **[Update logo image](https://github.com/NethServer/ns8-repomd/pull/55)** by *stephdl* - Reviewers: *None* - Created at: 2025-12-16T15:00:06Z
+
+### NethServer/ns8-webserver 1 
+
+- :eyes:  **[Update PHP version to 8.5 and adjust opcache handling](https://github.com/NethServer/ns8-webserver/pull/123)** by *stephdl* - Reviewers: *None* - Created at: 2026-01-02T15:20:31Z
 
 ### NethServer/ns8-traefik 1 
 
@@ -33,11 +37,10 @@ date = 2026-01-02
 
 - :eyes: :zzz: **[chore(master): release 1.5.1](https://github.com/NethServer/phonehome-server/pull/138)** by *Tbaile* - Reviewers: *None* - Created at: 2025-11-15T06:38:38Z
 
-### NethServer/ns8-docs 3 
+### NethServer/ns8-docs 2 
 
 -   **[Update image format and add custom logo instructions](https://github.com/NethServer/ns8-docs/pull/212)** by *lucagasparini* - Reviewers: *gsanchietti* - Created at: 2025-12-24T10:42:23Z
 - :eyes:  **[Add matrix documentation](https://github.com/NethServer/ns8-docs/pull/211)** by *mrmarkuz* - Reviewers: *None* - Created at: 2025-12-23T15:07:05Z
-- :eyes:  **[Add CSV import functionality for bulk synchronization tasks](https://github.com/NethServer/ns8-docs/pull/207)** by *stephdl* - Reviewers: *None* - Created at: 2025-12-12T10:02:03Z
 
 ### NethServer/nethsecurity-docs 1 
 
@@ -49,7 +52,7 @@ date = 2026-01-02
 
 ### NethServer/nethlink 1 
 
--   **[refactor: speeddial, last calls and parking](https://github.com/NethServer/nethlink/pull/81)** by *tommaso-ascani* - Reviewers: *tonyco97* - Created at: 2025-12-22T14:48:03Z
+- :eyes:  **[refactor: speeddial, last calls and parking](https://github.com/NethServer/nethlink/pull/81)** by *tommaso-ascani* - Reviewers: *None* - Created at: 2025-12-22T14:48:03Z
 
 ### NethServer/nethvoice-docs 1 
 
@@ -93,7 +96,7 @@ date = 2026-01-02
 
 ### nethesis/nethvoice-cti 1 
 
--   **[refactor: speeddial, last calls and parking ](https://github.com/nethesis/nethvoice-cti/pull/369)** by *tommaso-ascani* - Reviewers: *tonyco97* - Created at: 2025-12-22T14:47:40Z
+- :eyes:  **[refactor: speeddial, last calls and parking ](https://github.com/nethesis/nethvoice-cti/pull/369)** by *tommaso-ascani* - Reviewers: *None* - Created at: 2025-12-22T14:47:40Z
 
 ### nethesis/ns8-nethvoice-proxy 2 
 

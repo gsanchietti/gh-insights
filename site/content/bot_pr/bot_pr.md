@@ -1,6 +1,6 @@
 +++
 title = 'Open Pull Requests by Bots'
-date = 2026-01-02
+date = 2026-01-03
 +++
 
 ## Organization: nethserver
@@ -289,6 +289,10 @@ date = 2026-01-02
 - :eyes:  **[chore(deps): update actions/checkout action to v6](https://github.com/nethesis/vue-components/pull/107)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-12-13T19:14:30Z
 - :eyes:  **[chore(deps): update dependency typescript to ~5.9.0](https://github.com/nethesis/vue-components/pull/103)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-12-09T14:29:51Z
 - :eyes:  **[chore(deps): update dependency @vue/tsconfig to ^0.8.0](https://github.com/nethesis/vue-components/pull/100)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-12-09T11:09:23Z
+
+### nethesis/parceler 1 
+
+- :eyes:  **[chore(deps): update docker.io/composer docker tag to v2.9.3](https://github.com/nethesis/parceler/pull/141)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-01-03T01:02:34Z
 
 ### nethesis/nethKaris 1 
 
