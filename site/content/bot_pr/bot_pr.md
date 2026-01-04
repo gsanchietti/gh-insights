@@ -1,6 +1,6 @@
 +++
 title = 'Open Pull Requests by Bots'
-date = 2026-01-03
+date = 2026-01-04
 +++
 
 ## Organization: nethserver
@@ -224,7 +224,7 @@ date = 2026-01-03
 
 ### nethesis/nethserver-tancredi 1 
 
--   **[Bump tancredi version](https://github.com/nethesis/nethserver-tancredi/pull/156)** by *nethbot* - Reviewers: *Stell0, andrea-marchionni* - Created at: 2025-12-04T14:52:21Z
+-  :zzz: **[Bump tancredi version](https://github.com/nethesis/nethserver-tancredi/pull/156)** by *nethbot* - Reviewers: *Stell0, andrea-marchionni* - Created at: 2025-12-04T14:52:21Z
 
 ### nethesis/nethvoice-report 1 
 
@@ -289,10 +289,6 @@ date = 2026-01-03
 - :eyes:  **[chore(deps): update actions/checkout action to v6](https://github.com/nethesis/vue-components/pull/107)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-12-13T19:14:30Z
 - :eyes:  **[chore(deps): update dependency typescript to ~5.9.0](https://github.com/nethesis/vue-components/pull/103)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-12-09T14:29:51Z
 - :eyes:  **[chore(deps): update dependency @vue/tsconfig to ^0.8.0](https://github.com/nethesis/vue-components/pull/100)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-12-09T11:09:23Z
-
-### nethesis/parceler 1 
-
-- :eyes:  **[chore(deps): update docker.io/composer docker tag to v2.9.3](https://github.com/nethesis/parceler/pull/141)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-01-03T01:02:34Z
 
 ### nethesis/nethKaris 1 
 
