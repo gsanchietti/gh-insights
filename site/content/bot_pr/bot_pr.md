@@ -1,6 +1,6 @@
 +++
 title = 'Open Pull Requests by Bots'
-date = 2026-01-04
+date = 2026-01-05
 +++
 
 ## Organization: nethserver
@@ -208,7 +208,7 @@ date = 2026-01-04
 - :eyes:  **[chore(deps): update actions/upload-artifact action to v6](https://github.com/nethesis/tancredi/pull/339)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-12-12T22:53:00Z
 - :eyes:  **[chore(deps): update actions/cache action to v5](https://github.com/nethesis/tancredi/pull/337)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-12-11T22:07:57Z
 - :eyes:  **[chore(deps): update peter-evans/create-pull-request action to v8](https://github.com/nethesis/tancredi/pull/336)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-12-10T03:03:28Z
-- :eyes:  **[fix(deps): update dependency slim/slim to v4](https://github.com/nethesis/tancredi/pull/334)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-12-05T07:39:32Z
+- :eyes: :zzz: **[fix(deps): update dependency slim/slim to v4](https://github.com/nethesis/tancredi/pull/334)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-12-05T07:39:32Z
 - :eyes: :zzz: **[fix(deps): update dependency monolog/monolog to v3](https://github.com/nethesis/tancredi/pull/332)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-12-02T23:16:28Z
 - :eyes: :zzz: **[fix(deps): update dependency akrabat/ip-address-middleware to v2](https://github.com/nethesis/tancredi/pull/331)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-12-02T23:16:20Z
 - :eyes: :zzz: **[chore(deps): update dependency ubuntu to v24](https://github.com/nethesis/tancredi/pull/327)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-11-30T03:56:41Z
@@ -248,15 +248,21 @@ date = 2026-01-04
 -  :zzz: **[chore(deps): update docker.io/library/golang docker tag to v1.25.4](https://github.com/nethesis/ns8-nethvoice/pull/563)** by *renovate[bot]* - Reviewers: *edospadoni* - Created at: 2025-10-16T01:44:45Z
 -  :zzz: **[chore(deps): update docker.io/library/alpine docker tag to v3.22.2](https://github.com/nethesis/ns8-nethvoice/pull/562)** by *renovate[bot]* - Reviewers: *Amygos, edospadoni* - Created at: 2025-10-16T01:44:42Z
 
-### nethesis/nethvoice-cti 4 
+### nethesis/nethvoice-cti 6 
 
+- :eyes:  **[chore(deps): update dependency autoprefixer to v10.4.23](https://github.com/nethesis/nethvoice-cti/pull/375)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-01-05T01:14:58Z
+- :eyes:  **[chore(deps): update dependency @types/qrcode to v1.5.6](https://github.com/nethesis/nethvoice-cti/pull/374)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-01-05T01:14:48Z
 - :eyes:  **[chore(deps): update dependency @types/lodash to v4.17.21](https://github.com/nethesis/nethvoice-cti/pull/373)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-12-29T05:53:48Z
 - :eyes:  **[chore(deps): update dependency @tailwindcss/forms to v0.5.11](https://github.com/nethesis/nethvoice-cti/pull/372)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-12-29T05:53:39Z
 - :eyes:  **[chore(deps): update dependency @fortawesome/react-fontawesome to v0.2.6](https://github.com/nethesis/nethvoice-cti/pull/371)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-12-29T00:59:40Z
 - :eyes:  **[chore(deps): update dependency @fortawesome/free-solid-svg-icons to v6.7.2](https://github.com/nethesis/nethvoice-cti/pull/370)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-12-29T00:59:31Z
 
-### nethesis/phone-island 4 
+### nethesis/phone-island 8 
 
+- :eyes:  **[chore(deps): update dependency @types/audioworklet to ^0.0.92](https://github.com/nethesis/phone-island/pull/146)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-01-05T04:51:30Z
+- :eyes:  **[chore(deps): update dependency @storybook/react-webpack5 to v7.6.21](https://github.com/nethesis/phone-island/pull/145)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-01-05T04:51:14Z
+- :eyes:  **[chore(deps): update dependency @storybook/react to v7.6.21](https://github.com/nethesis/phone-island/pull/144)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-01-05T03:02:54Z
+- :eyes:  **[chore(deps): update dependency @storybook/preset-create-react-app to v7.6.21](https://github.com/nethesis/phone-island/pull/143)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-01-05T03:02:37Z
 - :eyes:  **[chore(deps): update dependency @storybook/node-logger to v7.6.21](https://github.com/nethesis/phone-island/pull/142)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-12-29T04:40:57Z
 - :eyes:  **[chore(deps): update dependency @storybook/addon-links to v7.6.21](https://github.com/nethesis/phone-island/pull/141)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-12-29T04:40:42Z
 - :eyes:  **[chore(deps): update dependency @storybook/addon-interactions to v7.6.21](https://github.com/nethesis/phone-island/pull/140)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-12-29T00:34:34Z

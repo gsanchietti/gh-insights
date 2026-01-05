@@ -1,6 +1,6 @@
 +++
 title = 'Open Pull Requests'
-date = 2026-01-04
+date = 2026-01-05
 +++
 
 ## Organization: nethserver
@@ -79,7 +79,7 @@ date = 2026-01-04
 ### nethesis/tancredi 2 
 
 - :eyes:  **[Fix Yealink expand key number](https://github.com/nethesis/tancredi/pull/340)** by *andrea-marchionni* - Reviewers: *None* - Created at: 2025-12-22T16:57:04Z
--   **[Upgrade Tancredi Stack](https://github.com/nethesis/tancredi/pull/335)** by *Stell0* - Reviewers: *Amygos* - Created at: 2025-12-05T09:27:17Z
+-  :zzz: **[Upgrade Tancredi Stack](https://github.com/nethesis/tancredi/pull/335)** by *Stell0* - Reviewers: *Amygos* - Created at: 2025-12-05T09:27:17Z
 
 ### nethesis/nethvoice-report 1 
 
