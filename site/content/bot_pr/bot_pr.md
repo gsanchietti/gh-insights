@@ -1,6 +1,6 @@
 +++
 title = 'Open Pull Requests by Bots'
-date = 2026-01-05
+date = 2026-01-06
 +++
 
 ## Organization: nethserver
@@ -30,6 +30,10 @@ date = 2026-01-05
 ### NethServer/ns8-mariadb 1 
 
 - :eyes:  **[Translations update from Hosted Weblate](https://github.com/NethServer/ns8-mariadb/pull/68)** by *weblate* - Reviewers: *None* - Created at: 2025-12-29T04:02:38Z
+
+### NethServer/ns8-webserver 1 
+
+- :eyes:  **[Translations update from Hosted Weblate](https://github.com/NethServer/ns8-webserver/pull/124)** by *weblate* - Reviewers: *None* - Created at: 2026-01-05T10:57:37Z
 
 ### NethServer/ns8-nextcloud 2 
 

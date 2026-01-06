@@ -1,6 +1,6 @@
 +++
 title = 'Open Pull Requests'
-date = 2026-01-05
+date = 2026-01-06
 +++
 
 ## Organization: nethserver
@@ -12,10 +12,6 @@ date = 2026-01-05
 ### NethServer/ns8-repomd 1 
 
 - :eyes:  **[Update logo image](https://github.com/NethServer/ns8-repomd/pull/55)** by *stephdl* - Reviewers: *None* - Created at: 2025-12-16T15:00:06Z
-
-### NethServer/ns8-webserver 1 
-
-- :eyes:  **[Update PHP version to 8.5 and adjust opcache handling](https://github.com/NethServer/ns8-webserver/pull/123)** by *stephdl* - Reviewers: *None* - Created at: 2026-01-02T15:20:31Z
 
 ### NethServer/ns8-traefik 1 
 
