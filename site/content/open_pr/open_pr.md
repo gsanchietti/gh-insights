@@ -1,13 +1,14 @@
 +++
 title = 'Open Pull Requests'
-date = 2026-01-07
+date = 2026-01-08
 +++
 
 ## Organization: nethserver
 
-### NethServer/ns8-core 1 
+### NethServer/ns8-core 2 
 
-- :eyes:  **[fix: search in Software center and i18n](https://github.com/NethServer/ns8-core/pull/1003)** by *andre8244* - Reviewers: *None* - Created at: 2025-12-23T09:06:36Z
+- :eyes:  **[Add offline node message and update disabled nodes logic](https://github.com/NethServer/ns8-core/pull/1004)** by *stephdl* - Reviewers: *None* - Created at: 2026-01-07T17:11:26Z
+-   **[fix(ui): improve action tasks management](https://github.com/NethServer/ns8-core/pull/1002)** by *andre8244* - Reviewers: *edospadoni* - Created at: 2025-12-22T13:11:28Z
 
 ### NethServer/ns8-repomd 1 
 
@@ -35,7 +36,7 @@ date = 2026-01-07
 
 ### NethServer/ns8-docs 2 
 
--   **[Update image format and add custom logo instructions](https://github.com/NethServer/ns8-docs/pull/212)** by *lucagasparini* - Reviewers: *gsanchietti* - Created at: 2025-12-24T10:42:23Z
+- :eyes:  **[Update image format and add custom logo instructions](https://github.com/NethServer/ns8-docs/pull/212)** by *lucagasparini* - Reviewers: *None* - Created at: 2025-12-24T10:42:23Z
 - :eyes:  **[Add matrix documentation](https://github.com/NethServer/ns8-docs/pull/211)** by *mrmarkuz* - Reviewers: *None* - Created at: 2025-12-23T15:07:05Z
 
 ### NethServer/nethsecurity-docs 1 
@@ -48,7 +49,7 @@ date = 2026-01-07
 
 ### NethServer/nethlink 1 
 
-- :eyes:  **[refactor: speeddial, last calls and parking](https://github.com/NethServer/nethlink/pull/81)** by *tommaso-ascani* - Reviewers: *None* - Created at: 2025-12-22T14:48:03Z
+- :eyes:  **[feat: added command bar](https://github.com/NethServer/nethlink/pull/82)** by *edospadoni* - Reviewers: *None* - Created at: 2025-12-23T13:27:16Z
 
 ### NethServer/nethvoice-docs 1 
 
@@ -90,10 +91,6 @@ date = 2026-01-07
 -  :zzz: **[Transcription at the end of a call](https://github.com/nethesis/ns8-nethvoice/pull/606)** by *Stell0* - Reviewers: *Amygos, edospadoni* - Created at: 2025-11-20T11:16:26Z
 -  :zzz: **[enhancement(freepbx): Don't slow down system at reboot](https://github.com/nethesis/ns8-nethvoice/pull/605)** by *Stell0* - Reviewers: *Amygos, DavidePrincipi* - Created at: 2025-11-19T14:40:39Z
 
-### nethesis/nethvoice-cti 1 
-
-- :eyes:  **[refactor: speeddial, last calls and parking ](https://github.com/nethesis/nethvoice-cti/pull/369)** by *tommaso-ascani* - Reviewers: *None* - Created at: 2025-12-22T14:47:40Z
-
 ### nethesis/ns8-nethvoice-proxy 2 
 
 - :eyes:  **[feat: Add NAT localnet support with custom ports 6060/6061](https://github.com/nethesis/ns8-nethvoice-proxy/pull/113)** by *paolovisintin* - Reviewers: *None* - Created at: 2025-12-18T11:03:32Z
@@ -111,10 +108,6 @@ date = 2026-01-07
 
 - :eyes: :zzz: **[Update and add the CTI image](https://github.com/nethesis/nethvoice-client-docs/pull/14)** by *viktec* - Reviewers: *None* - Created at: 2025-11-05T16:11:10Z
 
-### nethesis/parceler 1 
-
-- :eyes: :zzz: **[chore(main): release 1.2.1](https://github.com/nethesis/parceler/pull/105)** by *Tbaile* - Reviewers: *None* - Created at: 2025-08-21T12:47:15Z
-
 ### nethesis/satellite 1 
 
 -  :zzz: **[feature(api): diarized transcription api](https://github.com/nethesis/satellite/pull/4)** by *Stell0* - Reviewers: *Amygos, edospadoni* - Created at: 2025-09-19T07:28:04Z
@@ -122,5 +115,9 @@ date = 2026-01-07
 ### nethesis/nethcti-middleware 1 
 
 -   **[feat: add GET /chat endpoint](https://github.com/nethesis/nethcti-middleware/pull/16)** by *gsanchietti* - Reviewers: *edospadoni, tommaso-ascani* - Created at: 2025-12-17T10:53:42Z
+
+### nethesis/status 1 
+
+-   **[doc: improve instructions for deploy](https://github.com/nethesis/status/pull/3)** by *gsanchietti* - Reviewers: *m-dilorenzi* - Created at: 2026-01-07T16:03:59Z
 
 

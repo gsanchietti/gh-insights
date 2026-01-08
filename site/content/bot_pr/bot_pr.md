@@ -1,6 +1,6 @@
 +++
 title = 'Open Pull Requests by Bots'
-date = 2026-01-07
+date = 2026-01-08
 +++
 
 ## Organization: nethserver
@@ -30,10 +30,6 @@ date = 2026-01-07
 ### NethServer/ns8-mariadb 1 
 
 - :eyes:  **[Translations update from Hosted Weblate](https://github.com/NethServer/ns8-mariadb/pull/68)** by *weblate* - Reviewers: *None* - Created at: 2025-12-29T04:02:38Z
-
-### NethServer/ns8-webserver 1 
-
-- :eyes:  **[Translations update from Hosted Weblate](https://github.com/NethServer/ns8-webserver/pull/124)** by *weblate* - Reviewers: *None* - Created at: 2026-01-05T10:57:37Z
 
 ### NethServer/ns8-nextcloud 2 
 
@@ -274,6 +270,7 @@ date = 2026-01-07
 
 ### nethesis/ns8-nethvoice-proxy 12 
 
+- :eyes:  **[chore(deps): update dependency core-js to v3.47.0](https://github.com/nethesis/ns8-nethvoice-proxy/pull/117)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-01-07T13:56:34Z
 - :eyes:  **[chore(deps): update dependency carbon-components to v10.58.15](https://github.com/nethesis/ns8-nethvoice-proxy/pull/115)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-12-23T09:34:14Z
 - :eyes: :zzz: **[chore(deps): update dependency vue-router to v3.5.4](https://github.com/nethesis/ns8-nethvoice-proxy/pull/109)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-11-27T05:16:48Z
 - :eyes: :zzz: **[chore(deps): update dependency vue-date-fns to v2.0.2](https://github.com/nethesis/ns8-nethvoice-proxy/pull/108)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-11-27T05:16:39Z
@@ -282,7 +279,6 @@ date = 2026-01-07
 - :eyes: :zzz: **[chore(deps): update dependency sass to v1.43.5](https://github.com/nethesis/ns8-nethvoice-proxy/pull/105)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-11-26T22:04:22Z
 - :eyes: :zzz: **[chore(deps): update dependency lottie-web-vue to v1.2.1](https://github.com/nethesis/ns8-nethvoice-proxy/pull/104)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-11-26T22:04:12Z
 - :eyes: :zzz: **[chore(deps): update dependency eslint-plugin-prettier to v3.4.1](https://github.com/nethesis/ns8-nethvoice-proxy/pull/103)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-11-26T20:12:27Z
-- :eyes: :zzz: **[chore(deps): replace dependency babel-eslint with @babel/eslint-parser ^7.11.0](https://github.com/nethesis/ns8-nethvoice-proxy/pull/102)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-11-26T20:12:17Z
 - :eyes: :zzz: **[Translations update from Hosted Weblate](https://github.com/nethesis/ns8-nethvoice-proxy/pull/101)** by *weblate* - Reviewers: *None* - Created at: 2025-11-26T08:51:51Z
 - :eyes: :zzz: **[chore(deps): update redis docker tag to v8](https://github.com/nethesis/ns8-nethvoice-proxy/pull/78)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-07-08T11:53:47Z
 - :eyes: :zzz: **[build(deps): bump http-cache-semantics from 4.1.0 to 4.2.0 in /ui](https://github.com/nethesis/ns8-nethvoice-proxy/pull/71)** by *dependabot[bot]* - Reviewers: *None* - Created at: 2025-06-30T12:12:50Z

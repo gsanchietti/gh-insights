@@ -2,7 +2,7 @@
 
 title = 'To be released soon'
 
-date = 2026-01-07
+date = 2026-01-08
 
 +++
 
@@ -45,8 +45,4 @@ date = 2026-01-07
 ### NethServer
 
 - [WebTop: eliminate external CDN dependencies from login UI to prevent downtime issues](https://github.com/NethServer/dev/issues/7755) (#7145) by Amygos (Created: 2025-11-19T16:24:44Z, Updated: 2025-12-17T12:20:11Z)
-
-### NethSecurity
-
-- [PUBLIC_ENDPOINTS variable not updated on module upgrade](https://github.com/NethServer/nethsecurity/issues/1457) (#1457) by Tbaile (Created: 2025-12-16T08:40:21Z, Updated: 2025-12-22T15:08:15Z)
 
