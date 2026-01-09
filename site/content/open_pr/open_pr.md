@@ -1,14 +1,13 @@
 +++
 title = 'Open Pull Requests'
-date = 2026-01-08
+date = 2026-01-09
 +++
 
 ## Organization: nethserver
 
-### NethServer/ns8-core 2 
+### NethServer/ns8-core 1 
 
 - :eyes:  **[Add offline node message and update disabled nodes logic](https://github.com/NethServer/ns8-core/pull/1004)** by *stephdl* - Reviewers: *None* - Created at: 2026-01-07T17:11:26Z
--   **[fix(ui): improve action tasks management](https://github.com/NethServer/ns8-core/pull/1002)** by *andre8244* - Reviewers: *edospadoni* - Created at: 2025-12-22T13:11:28Z
 
 ### NethServer/ns8-repomd 1 
 
@@ -47,6 +46,14 @@ date = 2026-01-08
 
 - :eyes: :zzz: **[chore(main): release 1.2.5](https://github.com/NethServer/ns8-user-manager/pull/134)** by *Tbaile* - Reviewers: *None* - Created at: 2025-10-06T20:38:53Z
 
+### NethServer/ns8-nethforge 1 
+
+-   **[feat: add n8n metadata](https://github.com/NethServer/ns8-nethforge/pull/33)** by *mrmarkuz* - Reviewers: *Stell0* - Created at: 2026-01-08T10:05:38Z
+
+### NethServer/ns8-dnsmasq 1 
+
+- :eyes:  **[Fix: Only bind to listening interfaces](https://github.com/NethServer/ns8-dnsmasq/pull/51)** by *mrmarkuz* - Reviewers: *None* - Created at: 2026-01-08T08:23:41Z
+
 ### NethServer/nethlink 1 
 
 - :eyes:  **[feat: added command bar](https://github.com/NethServer/nethlink/pull/82)** by *edospadoni* - Reviewers: *None* - Created at: 2025-12-23T13:27:16Z
@@ -82,11 +89,13 @@ date = 2026-01-08
 
 - :eyes:  **[feat(cdr): add phone number masking for users with privacy enabled](https://github.com/nethesis/nethvoice-report/pull/205)** by *edospadoni* - Reviewers: *None* - Created at: 2025-12-11T13:04:27Z
 
-### nethesis/ns8-nethvoice 6 
+### nethesis/ns8-nethvoice 8 
 
+- :eyes:  **[Restrict bump.yml workflow to trigger only on openapi.yaml changes](https://github.com/nethesis/ns8-nethvoice/pull/660)** by *Copilot* - Reviewers: *None* - Created at: 2026-01-08T14:26:22Z
+-   **[fix(configure): require hostnames to contain a dot](https://github.com/nethesis/ns8-nethvoice/pull/659)** by *Amygos* - Reviewers: *Stell0* - Created at: 2026-01-08T14:19:28Z
 - :eyes:  **[feat(cdr): add privacy field to user_authorizations.json](https://github.com/nethesis/ns8-nethvoice/pull/632)** by *edospadoni* - Reviewers: *None* - Created at: 2025-12-11T13:28:22Z
 -   **[Matrix integration](https://github.com/nethesis/ns8-nethvoice/pull/627)** by *gsanchietti* - Reviewers: *Amygos* - Created at: 2025-12-10T11:32:50Z
-- :eyes:  **[fix: new user-domain-changed event format](https://github.com/nethesis/ns8-nethvoice/pull/626)** by *DavidePrincipi* - Reviewers: *None* - Created at: 2025-12-09T14:46:42Z
+- :eyes: :zzz: **[fix: new user-domain-changed event format](https://github.com/nethesis/ns8-nethvoice/pull/626)** by *DavidePrincipi* - Reviewers: *None* - Created at: 2025-12-09T14:46:42Z
 - :eyes: :zzz: **[Import CSV with admin APIs](https://github.com/nethesis/ns8-nethvoice/pull/617)** by *gsanchietti* - Reviewers: *None* - Created at: 2025-11-26T14:37:01Z
 -  :zzz: **[Transcription at the end of a call](https://github.com/nethesis/ns8-nethvoice/pull/606)** by *Stell0* - Reviewers: *Amygos, edospadoni* - Created at: 2025-11-20T11:16:26Z
 -  :zzz: **[enhancement(freepbx): Don't slow down system at reboot](https://github.com/nethesis/ns8-nethvoice/pull/605)** by *Stell0* - Reviewers: *Amygos, DavidePrincipi* - Created at: 2025-11-19T14:40:39Z
@@ -115,9 +124,5 @@ date = 2026-01-08
 ### nethesis/nethcti-middleware 1 
 
 -   **[feat: add GET /chat endpoint](https://github.com/nethesis/nethcti-middleware/pull/16)** by *gsanchietti* - Reviewers: *edospadoni, tommaso-ascani* - Created at: 2025-12-17T10:53:42Z
-
-### nethesis/status 1 
-
--   **[doc: improve instructions for deploy](https://github.com/nethesis/status/pull/3)** by *gsanchietti* - Reviewers: *m-dilorenzi* - Created at: 2026-01-07T16:03:59Z
 
 
