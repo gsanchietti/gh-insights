@@ -2,7 +2,7 @@
 
 title = 'To be released soon'
 
-date = 2026-01-09
+date = 2026-01-10
 
 +++
 
@@ -41,8 +41,4 @@ date = 2026-01-09
 - [Phone Island: Separate Audio Devices and Custom Ringtone](https://github.com/NethServer/dev/issues/7458) (#7145) by andrea-marchionni (Created: 2025-05-14T09:38:17Z, Updated: 2025-12-19T09:20:38Z)
 
 - [Remove the ability to modify predefined sources in the Customer Cards Configuration](https://github.com/NethServer/dev/issues/7145) (#7145) by Amygos (Created: 2024-11-15T10:55:30Z, Updated: 2025-12-22T12:05:35Z)
-
-### NethServer
-
-- [WebTop: eliminate external CDN dependencies from login UI to prevent downtime issues](https://github.com/NethServer/dev/issues/7755) (#7145) by Amygos (Created: 2025-11-19T16:24:44Z, Updated: 2025-12-17T12:20:11Z)
 

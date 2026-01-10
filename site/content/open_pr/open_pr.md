@@ -1,6 +1,6 @@
 +++
 title = 'Open Pull Requests'
-date = 2026-01-09
+date = 2026-01-10
 +++
 
 ## Organization: nethserver
@@ -8,10 +8,6 @@ date = 2026-01-09
 ### NethServer/ns8-core 1 
 
 - :eyes:  **[Add offline node message and update disabled nodes logic](https://github.com/NethServer/ns8-core/pull/1004)** by *stephdl* - Reviewers: *None* - Created at: 2026-01-07T17:11:26Z
-
-### NethServer/ns8-repomd 1 
-
-- :eyes:  **[Update logo image](https://github.com/NethServer/ns8-repomd/pull/55)** by *stephdl* - Reviewers: *None* - Created at: 2025-12-16T15:00:06Z
 
 ### NethServer/ns8-traefik 1 
 
@@ -21,10 +17,6 @@ date = 2026-01-09
 
 - :eyes: :zzz: **[feat(ci): renovate, automerge patches](https://github.com/NethServer/ns8-nethsecurity-controller/pull/135)** by *gsanchietti* - Reviewers: *None* - Created at: 2025-11-24T07:54:15Z
 
-### NethServer/ns8-mattermost 1 
-
--   **[Update Mattermost image and ESR version to 10.11.x](https://github.com/NethServer/ns8-mattermost/pull/138)** by *stephdl* - Reviewers: *DavidePrincipi* - Created at: 2025-12-23T10:28:59Z
-
 ### NethServer/ns8-roundcubemail 1 
 
 - :eyes: :zzz: **[Add Traefik configuration and enhance Lets Encrypt handling](https://github.com/NethServer/ns8-roundcubemail/pull/59)** by *stephdl* - Reviewers: *None* - Created at: 2025-10-16T15:21:00Z
@@ -33,9 +25,8 @@ date = 2026-01-09
 
 - :eyes: :zzz: **[chore(master): release 1.5.1](https://github.com/NethServer/phonehome-server/pull/138)** by *Tbaile* - Reviewers: *None* - Created at: 2025-11-15T06:38:38Z
 
-### NethServer/ns8-docs 2 
+### NethServer/ns8-docs 1 
 
-- :eyes:  **[Update image format and add custom logo instructions](https://github.com/NethServer/ns8-docs/pull/212)** by *lucagasparini* - Reviewers: *None* - Created at: 2025-12-24T10:42:23Z
 - :eyes:  **[Add matrix documentation](https://github.com/NethServer/ns8-docs/pull/211)** by *mrmarkuz* - Reviewers: *None* - Created at: 2025-12-23T15:07:05Z
 
 ### NethServer/nethsecurity-docs 1 
@@ -49,10 +40,6 @@ date = 2026-01-09
 ### NethServer/ns8-nethforge 1 
 
 -   **[feat: add n8n metadata](https://github.com/NethServer/ns8-nethforge/pull/33)** by *mrmarkuz* - Reviewers: *Stell0* - Created at: 2026-01-08T10:05:38Z
-
-### NethServer/ns8-dnsmasq 1 
-
-- :eyes:  **[Fix: Only bind to listening interfaces](https://github.com/NethServer/ns8-dnsmasq/pull/51)** by *mrmarkuz* - Reviewers: *None* - Created at: 2026-01-08T08:23:41Z
 
 ### NethServer/nethlink 1 
 
@@ -89,12 +76,10 @@ date = 2026-01-09
 
 - :eyes:  **[feat(cdr): add phone number masking for users with privacy enabled](https://github.com/nethesis/nethvoice-report/pull/205)** by *edospadoni* - Reviewers: *None* - Created at: 2025-12-11T13:04:27Z
 
-### nethesis/ns8-nethvoice 8 
+### nethesis/ns8-nethvoice 6 
 
-- :eyes:  **[Restrict bump.yml workflow to trigger only on openapi.yaml changes](https://github.com/nethesis/ns8-nethvoice/pull/660)** by *Copilot* - Reviewers: *None* - Created at: 2026-01-08T14:26:22Z
--   **[fix(configure): require hostnames to contain a dot](https://github.com/nethesis/ns8-nethvoice/pull/659)** by *Amygos* - Reviewers: *Stell0* - Created at: 2026-01-08T14:19:28Z
 - :eyes:  **[feat(cdr): add privacy field to user_authorizations.json](https://github.com/nethesis/ns8-nethvoice/pull/632)** by *edospadoni* - Reviewers: *None* - Created at: 2025-12-11T13:28:22Z
--   **[Matrix integration](https://github.com/nethesis/ns8-nethvoice/pull/627)** by *gsanchietti* - Reviewers: *Amygos* - Created at: 2025-12-10T11:32:50Z
+-  :zzz: **[Matrix integration](https://github.com/nethesis/ns8-nethvoice/pull/627)** by *gsanchietti* - Reviewers: *Amygos* - Created at: 2025-12-10T11:32:50Z
 - :eyes: :zzz: **[fix: new user-domain-changed event format](https://github.com/nethesis/ns8-nethvoice/pull/626)** by *DavidePrincipi* - Reviewers: *None* - Created at: 2025-12-09T14:46:42Z
 - :eyes: :zzz: **[Import CSV with admin APIs](https://github.com/nethesis/ns8-nethvoice/pull/617)** by *gsanchietti* - Reviewers: *None* - Created at: 2025-11-26T14:37:01Z
 -  :zzz: **[Transcription at the end of a call](https://github.com/nethesis/ns8-nethvoice/pull/606)** by *Stell0* - Reviewers: *Amygos, edospadoni* - Created at: 2025-11-20T11:16:26Z
