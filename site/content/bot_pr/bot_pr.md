@@ -1,6 +1,6 @@
 +++
 title = 'Open Pull Requests by Bots'
-date = 2026-01-10
+date = 2026-01-11
 +++
 
 ## Organization: nethserver
@@ -198,7 +198,7 @@ date = 2026-01-10
 ### nethesis/tancredi 8 
 
 - :eyes:  **[chore(deps): update actions/upload-artifact action to v6](https://github.com/nethesis/tancredi/pull/339)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-12-12T22:53:00Z
-- :eyes:  **[chore(deps): update actions/cache action to v5](https://github.com/nethesis/tancredi/pull/337)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-12-11T22:07:57Z
+- :eyes: :zzz: **[chore(deps): update actions/cache action to v5](https://github.com/nethesis/tancredi/pull/337)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-12-11T22:07:57Z
 - :eyes: :zzz: **[chore(deps): update peter-evans/create-pull-request action to v8](https://github.com/nethesis/tancredi/pull/336)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-12-10T03:03:28Z
 - :eyes: :zzz: **[fix(deps): update dependency slim/slim to v4](https://github.com/nethesis/tancredi/pull/334)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-12-05T07:39:32Z
 - :eyes: :zzz: **[fix(deps): update dependency monolog/monolog to v3](https://github.com/nethesis/tancredi/pull/332)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-12-02T23:16:28Z
@@ -244,7 +244,7 @@ date = 2026-01-10
 
 - :eyes:  **[chore(deps): update dependency autoprefixer to v10.4.23](https://github.com/nethesis/nethvoice-cti/pull/375)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-01-05T01:14:58Z
 - :eyes:  **[chore(deps): update dependency @types/qrcode to v1.5.6](https://github.com/nethesis/nethvoice-cti/pull/374)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-01-05T01:14:48Z
-- :eyes:  **[chore(deps): update dependency @types/lodash to v4.17.21](https://github.com/nethesis/nethvoice-cti/pull/373)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-12-29T05:53:48Z
+- :eyes:  **[chore(deps): update dependency @types/lodash to v4.17.23](https://github.com/nethesis/nethvoice-cti/pull/373)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-12-29T05:53:48Z
 - :eyes:  **[chore(deps): update dependency @tailwindcss/forms to v0.5.11](https://github.com/nethesis/nethvoice-cti/pull/372)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-12-29T05:53:39Z
 - :eyes:  **[chore(deps): update dependency @fortawesome/react-fontawesome to v0.2.6](https://github.com/nethesis/nethvoice-cti/pull/371)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-12-29T00:59:40Z
 - :eyes:  **[chore(deps): update dependency @fortawesome/free-solid-svg-icons to v6.7.2](https://github.com/nethesis/nethvoice-cti/pull/370)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-12-29T00:59:31Z
@@ -299,7 +299,7 @@ date = 2026-01-10
 
 ### nethesis/matrix2acrobits 9 
 
-- :eyes:  **[fix(deps): update module github.com/labstack/echo/v4 to v4.15.0](https://github.com/nethesis/matrix2acrobits/pull/11)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-12-11T22:10:25Z
+- :eyes: :zzz: **[fix(deps): update module github.com/labstack/echo/v4 to v4.15.0](https://github.com/nethesis/matrix2acrobits/pull/11)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-12-11T22:10:25Z
 - :eyes: :zzz: **[chore(deps): update docker/setup-buildx-action action to v3](https://github.com/nethesis/matrix2acrobits/pull/10)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-12-10T20:36:17Z
 - :eyes: :zzz: **[chore(deps): update docker/login-action action to v3](https://github.com/nethesis/matrix2acrobits/pull/9)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-12-10T20:36:13Z
 - :eyes: :zzz: **[chore(deps): update docker/build-push-action action to v6](https://github.com/nethesis/matrix2acrobits/pull/8)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-12-10T17:40:28Z
