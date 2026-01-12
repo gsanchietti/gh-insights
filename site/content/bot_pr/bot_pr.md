@@ -1,6 +1,6 @@
 +++
 title = 'Open Pull Requests by Bots'
-date = 2026-01-11
+date = 2026-01-12
 +++
 
 ## Organization: nethserver
@@ -197,7 +197,7 @@ date = 2026-01-11
 
 ### nethesis/tancredi 8 
 
-- :eyes:  **[chore(deps): update actions/upload-artifact action to v6](https://github.com/nethesis/tancredi/pull/339)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-12-12T22:53:00Z
+- :eyes: :zzz: **[chore(deps): update actions/upload-artifact action to v6](https://github.com/nethesis/tancredi/pull/339)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-12-12T22:53:00Z
 - :eyes: :zzz: **[chore(deps): update actions/cache action to v5](https://github.com/nethesis/tancredi/pull/337)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-12-11T22:07:57Z
 - :eyes: :zzz: **[chore(deps): update peter-evans/create-pull-request action to v8](https://github.com/nethesis/tancredi/pull/336)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-12-10T03:03:28Z
 - :eyes: :zzz: **[fix(deps): update dependency slim/slim to v4](https://github.com/nethesis/tancredi/pull/334)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-12-05T07:39:32Z
@@ -208,7 +208,7 @@ date = 2026-01-11
 
 ### nethesis/falconieri 5 
 
-- :eyes:  **[chore(deps): update github artifact actions (major)](https://github.com/nethesis/falconieri/pull/20)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-12-12T22:32:02Z
+- :eyes: :zzz: **[chore(deps): update github artifact actions (major)](https://github.com/nethesis/falconieri/pull/20)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-12-12T22:32:02Z
 - :eyes: :zzz: **[chore(deps): update softprops/action-gh-release action to v2](https://github.com/nethesis/falconieri/pull/19)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-11-26T22:41:37Z
 - :eyes: :zzz: **[chore(deps): update github/codeql-action action to v4](https://github.com/nethesis/falconieri/pull/18)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-11-26T22:41:34Z
 - :eyes: :zzz: **[chore(deps): update dependency ubuntu to v24](https://github.com/nethesis/falconieri/pull/16)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-11-26T19:02:10Z
@@ -222,8 +222,10 @@ date = 2026-01-11
 
 - :eyes: :zzz: **[Bump jspdf from 2.1.1 to 3.0.1 in /ui](https://github.com/nethesis/nethvoice-report/pull/203)** by *dependabot[bot]* - Reviewers: *None* - Created at: 2025-03-19T07:36:39Z
 
-### nethesis/astproxy 1 
+### nethesis/astproxy 3 
 
+- :eyes:  **[chore(deps): update dependency winston to v2.4.7](https://github.com/nethesis/astproxy/pull/23)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-01-12T03:43:43Z
+- :eyes:  **[chore(deps): update aquasecurity/trivy-action action to v0.33.1](https://github.com/nethesis/astproxy/pull/22)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-01-12T03:43:23Z
 - :eyes: :zzz: **[chore(deps): update dependency moment to v2.29.4 [security]](https://github.com/nethesis/astproxy/pull/21)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-11-27T08:44:28Z
 
 ### nethesis/ns8-nethvoice 11 
@@ -240,8 +242,10 @@ date = 2026-01-11
 -  :zzz: **[chore(deps): update docker.io/library/golang docker tag to v1.25.4](https://github.com/nethesis/ns8-nethvoice/pull/563)** by *renovate[bot]* - Reviewers: *edospadoni* - Created at: 2025-10-16T01:44:45Z
 -  :zzz: **[chore(deps): update docker.io/library/alpine docker tag to v3.22.2](https://github.com/nethesis/ns8-nethvoice/pull/562)** by *renovate[bot]* - Reviewers: *Amygos, edospadoni* - Created at: 2025-10-16T01:44:42Z
 
-### nethesis/nethvoice-cti 6 
+### nethesis/nethvoice-cti 8 
 
+- :eyes:  **[chore(deps): update dependency eslint-config-prettier to v8.10.2](https://github.com/nethesis/nethvoice-cti/pull/377)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-01-12T01:33:23Z
+- :eyes:  **[chore(deps): update dependency eslint-config-next to v14.2.35](https://github.com/nethesis/nethvoice-cti/pull/376)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-01-12T01:33:16Z
 - :eyes:  **[chore(deps): update dependency autoprefixer to v10.4.23](https://github.com/nethesis/nethvoice-cti/pull/375)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-01-05T01:14:58Z
 - :eyes:  **[chore(deps): update dependency @types/qrcode to v1.5.6](https://github.com/nethesis/nethvoice-cti/pull/374)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-01-05T01:14:48Z
 - :eyes:  **[chore(deps): update dependency @types/lodash to v4.17.23](https://github.com/nethesis/nethvoice-cti/pull/373)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-12-29T05:53:48Z
@@ -249,8 +253,10 @@ date = 2026-01-11
 - :eyes:  **[chore(deps): update dependency @fortawesome/react-fontawesome to v0.2.6](https://github.com/nethesis/nethvoice-cti/pull/371)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-12-29T00:59:40Z
 - :eyes:  **[chore(deps): update dependency @fortawesome/free-solid-svg-icons to v6.7.2](https://github.com/nethesis/nethvoice-cti/pull/370)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-12-29T00:59:31Z
 
-### nethesis/phone-island 8 
+### nethesis/phone-island 10 
 
+- :eyes:  **[chore(deps): update dependency js-base64 to v3.7.8](https://github.com/nethesis/phone-island/pull/149)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-01-12T01:00:26Z
+- :eyes:  **[chore(deps): update dependency autoprefixer to v10.4.23](https://github.com/nethesis/phone-island/pull/148)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-01-12T01:00:11Z
 - :eyes:  **[chore(deps): update dependency @types/audioworklet to ^0.0.92](https://github.com/nethesis/phone-island/pull/146)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-01-05T04:51:30Z
 - :eyes:  **[chore(deps): update dependency @storybook/react-webpack5 to v7.6.21](https://github.com/nethesis/phone-island/pull/145)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-01-05T04:51:14Z
 - :eyes:  **[chore(deps): update dependency @storybook/react to v7.6.21](https://github.com/nethesis/phone-island/pull/144)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-01-05T03:02:54Z
