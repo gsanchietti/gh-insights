@@ -1,6 +1,6 @@
 +++
 title = 'Open Pull Requests by Bots'
-date = 2026-01-12
+date = 2026-01-13
 +++
 
 ## Organization: nethserver
@@ -195,16 +195,12 @@ date = 2026-01-12
 
 -  :zzz: **[Bump symfony/process from 3.1.7 to 5.4.46 in /root/var/www/html/freepbx/contatta](https://github.com/nethesis/contatta/pull/17)** by *dependabot[bot]* - Reviewers: *Stell0* - Created at: 2024-11-06T16:19:29Z
 
-### nethesis/tancredi 8 
+### nethesis/tancredi 4 
 
+- :eyes:  **[chore(deps): update dependency monolog/monolog to v3.10.0](https://github.com/nethesis/tancredi/pull/342)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-01-12T16:04:47Z
+- :eyes:  **[chore(deps): update dependency twig/twig to v3.22.2](https://github.com/nethesis/tancredi/pull/341)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-01-12T16:04:31Z
 - :eyes: :zzz: **[chore(deps): update actions/upload-artifact action to v6](https://github.com/nethesis/tancredi/pull/339)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-12-12T22:53:00Z
 - :eyes: :zzz: **[chore(deps): update actions/cache action to v5](https://github.com/nethesis/tancredi/pull/337)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-12-11T22:07:57Z
-- :eyes: :zzz: **[chore(deps): update peter-evans/create-pull-request action to v8](https://github.com/nethesis/tancredi/pull/336)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-12-10T03:03:28Z
-- :eyes: :zzz: **[fix(deps): update dependency slim/slim to v4](https://github.com/nethesis/tancredi/pull/334)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-12-05T07:39:32Z
-- :eyes: :zzz: **[fix(deps): update dependency monolog/monolog to v3](https://github.com/nethesis/tancredi/pull/332)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-12-02T23:16:28Z
-- :eyes: :zzz: **[fix(deps): update dependency akrabat/ip-address-middleware to v2](https://github.com/nethesis/tancredi/pull/331)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-12-02T23:16:20Z
-- :eyes: :zzz: **[chore(deps): update dependency ubuntu to v24](https://github.com/nethesis/tancredi/pull/327)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-11-30T03:56:41Z
-- :eyes: :zzz: **[fix(deps): update dependency twig/twig to v3 [security]](https://github.com/nethesis/tancredi/pull/322)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-11-28T08:33:31Z
 
 ### nethesis/falconieri 5 
 
@@ -242,8 +238,10 @@ date = 2026-01-12
 -  :zzz: **[chore(deps): update docker.io/library/golang docker tag to v1.25.4](https://github.com/nethesis/ns8-nethvoice/pull/563)** by *renovate[bot]* - Reviewers: *edospadoni* - Created at: 2025-10-16T01:44:45Z
 -  :zzz: **[chore(deps): update docker.io/library/alpine docker tag to v3.22.2](https://github.com/nethesis/ns8-nethvoice/pull/562)** by *renovate[bot]* - Reviewers: *Amygos, edospadoni* - Created at: 2025-10-16T01:44:42Z
 
-### nethesis/nethvoice-cti 8 
+### nethesis/nethvoice-cti 10 
 
+- :eyes:  **[chore(deps): update dependency react-infinite-scroll-component to v6.1.1](https://github.com/nethesis/nethvoice-cti/pull/379)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-01-12T05:03:16Z
+- :eyes:  **[chore(deps): update dependency i18next-browser-languagedetector to v7.2.2](https://github.com/nethesis/nethvoice-cti/pull/378)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-01-12T05:03:07Z
 - :eyes:  **[chore(deps): update dependency eslint-config-prettier to v8.10.2](https://github.com/nethesis/nethvoice-cti/pull/377)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-01-12T01:33:23Z
 - :eyes:  **[chore(deps): update dependency eslint-config-next to v14.2.35](https://github.com/nethesis/nethvoice-cti/pull/376)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-01-12T01:33:16Z
 - :eyes:  **[chore(deps): update dependency autoprefixer to v10.4.23](https://github.com/nethesis/nethvoice-cti/pull/375)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-01-05T01:14:58Z
@@ -290,7 +288,7 @@ date = 2026-01-12
 - :eyes:  **[chore(deps): update dependency eslint-plugin-vue to v10](https://github.com/nethesis/vue-components/pull/115)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-12-19T18:50:41Z
 - :eyes:  **[chore(deps): update dependency @vitejs/plugin-vue to v6](https://github.com/nethesis/vue-components/pull/114)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-12-19T15:37:45Z
 - :eyes:  **[chore(deps): update dependency @types/uuid to v11](https://github.com/nethesis/vue-components/pull/113)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-12-19T15:37:36Z
-- :eyes:  **[chore(deps): update actions/checkout action to v6](https://github.com/nethesis/vue-components/pull/107)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-12-13T19:14:30Z
+- :eyes: :zzz: **[chore(deps): update actions/checkout action to v6](https://github.com/nethesis/vue-components/pull/107)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-12-13T19:14:30Z
 - :eyes: :zzz: **[chore(deps): update dependency typescript to ~5.9.0](https://github.com/nethesis/vue-components/pull/103)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-12-09T14:29:51Z
 - :eyes: :zzz: **[chore(deps): update dependency @vue/tsconfig to ^0.8.0](https://github.com/nethesis/vue-components/pull/100)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-12-09T11:09:23Z
 

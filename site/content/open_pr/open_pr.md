@@ -1,17 +1,23 @@
 +++
 title = 'Open Pull Requests'
-date = 2026-01-12
+date = 2026-01-13
 +++
 
 ## Organization: nethserver
 
-### NethServer/ns8-core 1 
+### NethServer/ns8-core 2 
 
+-   **[Remove redundant instance label validation messages and simplify validation logic](https://github.com/NethServer/ns8-core/pull/1006)** by *stephdl* - Reviewers: *DavidePrincipi, andre8244* - Created at: 2026-01-12T14:42:35Z
 - :eyes:  **[Add offline node message and update disabled nodes logic](https://github.com/NethServer/ns8-core/pull/1004)** by *stephdl* - Reviewers: *None* - Created at: 2026-01-07T17:11:26Z
 
 ### NethServer/ns8-traefik 1 
 
 - :eyes: :zzz: **[fix: cryptography 45 deprecation warning](https://github.com/NethServer/ns8-traefik/pull/120)** by *DavidePrincipi* - Reviewers: *None* - Created at: 2025-10-28T08:48:29Z
+
+### NethServer/nethsecurity 2 
+
+- :eyes:  **[fix(reverse proxy): removed server tokens, added good default headers](https://github.com/NethServer/nethsecurity/pull/1470)** by *Tbaile* - Reviewers: *None* - Created at: 2026-01-12T12:50:06Z
+- :eyes: :zzz: **[build: added softflowd](https://github.com/NethServer/nethsecurity/pull/1453)** by *Tbaile* - Reviewers: *None* - Created at: 2025-12-10T11:48:14Z
 
 ### NethServer/ns8-nethsecurity-controller 1 
 
@@ -25,9 +31,10 @@ date = 2026-01-12
 
 - :eyes: :zzz: **[chore(master): release 1.5.1](https://github.com/NethServer/phonehome-server/pull/138)** by *Tbaile* - Reviewers: *None* - Created at: 2025-11-15T06:38:38Z
 
-### NethServer/ns8-docs 1 
+### NethServer/ns8-docs 2 
 
-- :eyes:  **[Add matrix documentation](https://github.com/NethServer/ns8-docs/pull/211)** by *mrmarkuz* - Reviewers: *None* - Created at: 2025-12-23T15:07:05Z
+-   **[Add n8n documentation](https://github.com/NethServer/ns8-docs/pull/214)** by *mrmarkuz* - Reviewers: *Stell0* - Created at: 2026-01-12T14:48:50Z
+-   **[Add matrix documentation](https://github.com/NethServer/ns8-docs/pull/211)** by *mrmarkuz* - Reviewers: *gsanchietti* - Created at: 2025-12-23T15:07:05Z
 
 ### NethServer/nethsecurity-docs 1 
 
@@ -39,7 +46,7 @@ date = 2026-01-12
 
 ### NethServer/ns8-nethforge 1 
 
--   **[feat: add n8n metadata](https://github.com/NethServer/ns8-nethforge/pull/33)** by *mrmarkuz* - Reviewers: *Stell0* - Created at: 2026-01-08T10:05:38Z
+- :eyes:  **[feat: add n8n metadata](https://github.com/NethServer/ns8-nethforge/pull/33)** by *mrmarkuz* - Reviewers: *None* - Created at: 2026-01-08T10:05:38Z
 
 ### NethServer/nethlink 1 
 
@@ -67,10 +74,9 @@ date = 2026-01-12
 
 -  :zzz: **[Removed old notification service usage](https://github.com/nethesis/nethcti-app-iphone/pull/37)** by *NicolaMrAPPs* - Reviewers: *b9874e* - Created at: 2023-08-02T09:19:30Z
 
-### nethesis/tancredi 2 
+### nethesis/tancredi 1 
 
 - :eyes:  **[Fix Yealink expand key number](https://github.com/nethesis/tancredi/pull/340)** by *andrea-marchionni* - Reviewers: *None* - Created at: 2025-12-22T16:57:04Z
--  :zzz: **[Upgrade Tancredi Stack](https://github.com/nethesis/tancredi/pull/335)** by *Stell0* - Reviewers: *Amygos* - Created at: 2025-12-05T09:27:17Z
 
 ### nethesis/nethvoice-report 1 
 
@@ -85,6 +91,10 @@ date = 2026-01-12
 -  :zzz: **[Transcription at the end of a call](https://github.com/nethesis/ns8-nethvoice/pull/606)** by *Stell0* - Reviewers: *Amygos, edospadoni* - Created at: 2025-11-20T11:16:26Z
 -  :zzz: **[enhancement(freepbx): Don't slow down system at reboot](https://github.com/nethesis/ns8-nethvoice/pull/605)** by *Stell0* - Reviewers: *Amygos, DavidePrincipi* - Created at: 2025-11-19T14:40:39Z
 
+### nethesis/phone-island 1 
+
+- :eyes:  **[fix: added missing unknown translation](https://github.com/nethesis/phone-island/pull/150)** by *tonyco97* - Reviewers: *None* - Created at: 2026-01-12T15:49:30Z
+
 ### nethesis/ns8-nethvoice-proxy 2 
 
 - :eyes:  **[feat: Add NAT localnet support with custom ports 6060/6061](https://github.com/nethesis/ns8-nethvoice-proxy/pull/113)** by *paolovisintin* - Reviewers: *None* - Created at: 2025-12-18T11:03:32Z
@@ -96,7 +106,7 @@ date = 2026-01-12
 
 ### nethesis/ctiapp-authproxy 1 
 
--   **[feat: add chat provisioning](https://github.com/nethesis/ctiapp-authproxy/pull/16)** by *gsanchietti* - Reviewers: *Stell0, edospadoni* - Created at: 2025-12-17T13:12:41Z
+-   **[feat: add chat provisioning](https://github.com/nethesis/ctiapp-authproxy/pull/16)** by *gsanchietti* - Reviewers: *edospadoni* - Created at: 2025-12-17T13:12:41Z
 
 ### nethesis/nethvoice-client-docs 1 
 
