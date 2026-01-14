@@ -1,13 +1,13 @@
 +++
 title = 'Open Pull Requests'
-date = 2026-01-13
+date = 2026-01-14
 +++
 
 ## Organization: nethserver
 
 ### NethServer/ns8-core 2 
 
--   **[Remove redundant instance label validation messages and simplify validation logic](https://github.com/NethServer/ns8-core/pull/1006)** by *stephdl* - Reviewers: *DavidePrincipi, andre8244* - Created at: 2026-01-12T14:42:35Z
+- :eyes:  **[Extend action output for additional volumes selection UI](https://github.com/NethServer/ns8-core/pull/1008)** by *DavidePrincipi* - Reviewers: *None* - Created at: 2026-01-13T17:57:44Z
 - :eyes:  **[Add offline node message and update disabled nodes logic](https://github.com/NethServer/ns8-core/pull/1004)** by *stephdl* - Reviewers: *None* - Created at: 2026-01-07T17:11:26Z
 
 ### NethServer/ns8-traefik 1 
@@ -44,13 +44,18 @@ date = 2026-01-13
 
 - :eyes: :zzz: **[chore(main): release 1.2.5](https://github.com/NethServer/ns8-user-manager/pull/134)** by *Tbaile* - Reviewers: *None* - Created at: 2025-10-06T20:38:53Z
 
-### NethServer/ns8-nethforge 1 
+### NethServer/ns8-sogo 1 
 
+- :eyes:  **[Use runagent instead of ssh in README](https://github.com/NethServer/ns8-sogo/pull/56)** by *mrmarkuz* - Reviewers: *None* - Created at: 2026-01-13T08:27:57Z
+
+### NethServer/ns8-nethforge 2 
+
+- :eyes:  **[Fix code URL in metadata.json](https://github.com/NethServer/ns8-nethforge/pull/34)** by *mrmarkuz* - Reviewers: *None* - Created at: 2026-01-13T09:16:18Z
 - :eyes:  **[feat: add n8n metadata](https://github.com/NethServer/ns8-nethforge/pull/33)** by *mrmarkuz* - Reviewers: *None* - Created at: 2026-01-08T10:05:38Z
 
 ### NethServer/nethlink 1 
 
-- :eyes:  **[feat: added command bar](https://github.com/NethServer/nethlink/pull/82)** by *edospadoni* - Reviewers: *None* - Created at: 2025-12-23T13:27:16Z
+-   **[fix: added listen and intrude protocols](https://github.com/NethServer/nethlink/pull/83)** by *tonyco97* - Reviewers: *edospadoni* - Created at: 2026-01-12T13:06:19Z
 
 ### NethServer/nethvoice-docs 1 
 
@@ -59,6 +64,10 @@ date = 2026-01-13
 ### NethServer/ns8-n8n 1 
 
 -   **[Add N8N to NethForge](https://github.com/NethServer/ns8-n8n/pull/1)** by *mrmarkuz* - Reviewers: *gsanchietti* - Created at: 2025-12-17T10:47:29Z
+
+### NethServer/ns8-rustfs 1 
+
+- :eyes:  **[Fix robot tests](https://github.com/NethServer/ns8-rustfs/pull/5)** by *mrmarkuz* - Reviewers: *None* - Created at: 2026-01-13T10:10:19Z
 
 ## Organization: nethesis
 
@@ -74,10 +83,6 @@ date = 2026-01-13
 
 -  :zzz: **[Removed old notification service usage](https://github.com/nethesis/nethcti-app-iphone/pull/37)** by *NicolaMrAPPs* - Reviewers: *b9874e* - Created at: 2023-08-02T09:19:30Z
 
-### nethesis/tancredi 1 
-
-- :eyes:  **[Fix Yealink expand key number](https://github.com/nethesis/tancredi/pull/340)** by *andrea-marchionni* - Reviewers: *None* - Created at: 2025-12-22T16:57:04Z
-
 ### nethesis/nethvoice-report 1 
 
 - :eyes: :zzz: **[feat(cdr): add phone number masking for users with privacy enabled](https://github.com/nethesis/nethvoice-report/pull/205)** by *edospadoni* - Reviewers: *None* - Created at: 2025-12-11T13:04:27Z
@@ -90,10 +95,6 @@ date = 2026-01-13
 - :eyes: :zzz: **[Import CSV with admin APIs](https://github.com/nethesis/ns8-nethvoice/pull/617)** by *gsanchietti* - Reviewers: *None* - Created at: 2025-11-26T14:37:01Z
 -  :zzz: **[Transcription at the end of a call](https://github.com/nethesis/ns8-nethvoice/pull/606)** by *Stell0* - Reviewers: *Amygos, edospadoni* - Created at: 2025-11-20T11:16:26Z
 -  :zzz: **[enhancement(freepbx): Don't slow down system at reboot](https://github.com/nethesis/ns8-nethvoice/pull/605)** by *Stell0* - Reviewers: *Amygos, DavidePrincipi* - Created at: 2025-11-19T14:40:39Z
-
-### nethesis/phone-island 1 
-
-- :eyes:  **[fix: added missing unknown translation](https://github.com/nethesis/phone-island/pull/150)** by *tonyco97* - Reviewers: *None* - Created at: 2026-01-12T15:49:30Z
 
 ### nethesis/ns8-nethvoice-proxy 2 
 

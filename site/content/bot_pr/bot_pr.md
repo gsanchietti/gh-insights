@@ -1,6 +1,6 @@
 +++
 title = 'Open Pull Requests by Bots'
-date = 2026-01-13
+date = 2026-01-14
 +++
 
 ## Organization: nethserver
@@ -14,10 +14,6 @@ date = 2026-01-13
 - :eyes: :zzz: **[Bump form-data, @vue/cli-plugin-babel, @vue/cli-plugin-eslint and @vue/cli-service in /ui](https://github.com/NethServer/nethserver-business/pull/8)** by *dependabot[bot]* - Reviewers: *None* - Created at: 2025-07-22T00:21:58Z
 - :eyes: :zzz: **[Bump on-headers and compression in /ui](https://github.com/NethServer/nethserver-business/pull/7)** by *dependabot[bot]* - Reviewers: *None* - Created at: 2025-07-18T00:03:46Z
 - :eyes: :zzz: **[Bump pbkdf2 from 3.0.17 to 3.1.3 in /ui](https://github.com/NethServer/nethserver-business/pull/6)** by *dependabot[bot]* - Reviewers: *None* - Created at: 2025-06-24T07:44:23Z
-
-### NethServer/ns8-core 1 
-
-- :eyes:  **[Translations update from Hosted Weblate](https://github.com/NethServer/ns8-core/pull/1001)** by *weblate* - Reviewers: *None* - Created at: 2025-12-19T09:02:23Z
 
 ### NethServer/ns8-kickstart 1 
 
@@ -195,13 +191,6 @@ date = 2026-01-13
 
 -  :zzz: **[Bump symfony/process from 3.1.7 to 5.4.46 in /root/var/www/html/freepbx/contatta](https://github.com/nethesis/contatta/pull/17)** by *dependabot[bot]* - Reviewers: *Stell0* - Created at: 2024-11-06T16:19:29Z
 
-### nethesis/tancredi 4 
-
-- :eyes:  **[chore(deps): update dependency monolog/monolog to v3.10.0](https://github.com/nethesis/tancredi/pull/342)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-01-12T16:04:47Z
-- :eyes:  **[chore(deps): update dependency twig/twig to v3.22.2](https://github.com/nethesis/tancredi/pull/341)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-01-12T16:04:31Z
-- :eyes: :zzz: **[chore(deps): update actions/upload-artifact action to v6](https://github.com/nethesis/tancredi/pull/339)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-12-12T22:53:00Z
-- :eyes: :zzz: **[chore(deps): update actions/cache action to v5](https://github.com/nethesis/tancredi/pull/337)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-12-11T22:07:57Z
-
 ### nethesis/falconieri 5 
 
 - :eyes: :zzz: **[chore(deps): update github artifact actions (major)](https://github.com/nethesis/falconieri/pull/20)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-12-12T22:32:02Z
@@ -309,7 +298,7 @@ date = 2026-01-13
 - :eyes: :zzz: **[chore(deps): update docker/build-push-action action to v6](https://github.com/nethesis/matrix2acrobits/pull/8)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-12-10T17:40:28Z
 - :eyes: :zzz: **[chore(deps): update actions/setup-go action to v6](https://github.com/nethesis/matrix2acrobits/pull/7)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-12-10T17:40:25Z
 - :eyes: :zzz: **[chore(deps): update actions/checkout action to v6](https://github.com/nethesis/matrix2acrobits/pull/6)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-12-10T14:22:39Z
-- :eyes: :zzz: **[fix(deps): update module modernc.org/sqlite to v1.43.0](https://github.com/nethesis/matrix2acrobits/pull/5)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-12-10T14:22:34Z
+- :eyes: :zzz: **[fix(deps): update module modernc.org/sqlite to v1.44.0](https://github.com/nethesis/matrix2acrobits/pull/5)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-12-10T14:22:34Z
 - :eyes: :zzz: **[chore(deps): update golang docker tag to v1.25.5](https://github.com/nethesis/matrix2acrobits/pull/4)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-12-09T14:46:31Z
 - :eyes: :zzz: **[chore(deps): update dependency go to 1.25](https://github.com/nethesis/matrix2acrobits/pull/3)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-12-09T14:46:27Z
 
