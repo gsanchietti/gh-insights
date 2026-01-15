@@ -1,22 +1,26 @@
 +++
 title = 'Open Pull Requests'
-date = 2026-01-14
+date = 2026-01-15
 +++
 
 ## Organization: nethserver
 
-### NethServer/ns8-core 2 
+### NethServer/ns8-core 3 
 
-- :eyes:  **[Extend action output for additional volumes selection UI](https://github.com/NethServer/ns8-core/pull/1008)** by *DavidePrincipi* - Reviewers: *None* - Created at: 2026-01-13T17:57:44Z
+-   **[fix(apply-vpn-routes): preserve wg0 endpoints](https://github.com/NethServer/ns8-core/pull/1011)** by *DavidePrincipi* - Reviewers: *nrauso* - Created at: 2026-01-14T18:06:37Z
+- :eyes:  **[Extend action output for additional disk selection UI](https://github.com/NethServer/ns8-core/pull/1008)** by *DavidePrincipi* - Reviewers: *None* - Created at: 2026-01-13T17:57:44Z
 - :eyes:  **[Add offline node message and update disabled nodes logic](https://github.com/NethServer/ns8-core/pull/1004)** by *stephdl* - Reviewers: *None* - Created at: 2026-01-07T17:11:26Z
+
+### NethServer/ns8-samba 1 
+
+- :eyes:  **[Add certificate management for samba dc](https://github.com/NethServer/ns8-samba/pull/175)** by *mrmarkuz* - Reviewers: *None* - Created at: 2026-01-14T15:38:47Z
 
 ### NethServer/ns8-traefik 1 
 
 - :eyes: :zzz: **[fix: cryptography 45 deprecation warning](https://github.com/NethServer/ns8-traefik/pull/120)** by *DavidePrincipi* - Reviewers: *None* - Created at: 2025-10-28T08:48:29Z
 
-### NethServer/nethsecurity 2 
+### NethServer/nethsecurity 1 
 
-- :eyes:  **[fix(reverse proxy): removed server tokens, added good default headers](https://github.com/NethServer/nethsecurity/pull/1470)** by *Tbaile* - Reviewers: *None* - Created at: 2026-01-12T12:50:06Z
 - :eyes: :zzz: **[build: added softflowd](https://github.com/NethServer/nethsecurity/pull/1453)** by *Tbaile* - Reviewers: *None* - Created at: 2025-12-10T11:48:14Z
 
 ### NethServer/ns8-nethsecurity-controller 1 
@@ -48,26 +52,18 @@ date = 2026-01-14
 
 - :eyes:  **[Use runagent instead of ssh in README](https://github.com/NethServer/ns8-sogo/pull/56)** by *mrmarkuz* - Reviewers: *None* - Created at: 2026-01-13T08:27:57Z
 
-### NethServer/ns8-nethforge 2 
+### NethServer/ns8-nethforge 1 
 
-- :eyes:  **[Fix code URL in metadata.json](https://github.com/NethServer/ns8-nethforge/pull/34)** by *mrmarkuz* - Reviewers: *None* - Created at: 2026-01-13T09:16:18Z
 - :eyes:  **[feat: add n8n metadata](https://github.com/NethServer/ns8-nethforge/pull/33)** by *mrmarkuz* - Reviewers: *None* - Created at: 2026-01-08T10:05:38Z
 
-### NethServer/nethlink 1 
+### NethServer/nethvoice-docs 2 
 
--   **[fix: added listen and intrude protocols](https://github.com/NethServer/nethlink/pull/83)** by *tonyco97* - Reviewers: *edospadoni* - Created at: 2026-01-12T13:06:19Z
-
-### NethServer/nethvoice-docs 1 
-
+-   **[fix(admin_manual): ns8 wizard and settings refactored](https://github.com/NethServer/nethvoice-docs/pull/33)** by *andre8244* - Reviewers: *gsanchietti, andrea-marchionni* - Created at: 2026-01-13T14:04:17Z
 - :eyes: :zzz: **[Add ringtone selection](https://github.com/NethServer/nethvoice-docs/pull/26)** by *andrea-marchionni* - Reviewers: *None* - Created at: 2025-11-28T11:05:27Z
 
 ### NethServer/ns8-n8n 1 
 
 -   **[Add N8N to NethForge](https://github.com/NethServer/ns8-n8n/pull/1)** by *mrmarkuz* - Reviewers: *gsanchietti* - Created at: 2025-12-17T10:47:29Z
-
-### NethServer/ns8-rustfs 1 
-
-- :eyes:  **[Fix robot tests](https://github.com/NethServer/ns8-rustfs/pull/5)** by *mrmarkuz* - Reviewers: *None* - Created at: 2026-01-13T10:10:19Z
 
 ## Organization: nethesis
 
@@ -83,21 +79,17 @@ date = 2026-01-14
 
 -  :zzz: **[Removed old notification service usage](https://github.com/nethesis/nethcti-app-iphone/pull/37)** by *NicolaMrAPPs* - Reviewers: *b9874e* - Created at: 2023-08-02T09:19:30Z
 
-### nethesis/nethvoice-report 1 
+### nethesis/ns8-nethvoice 5 
 
-- :eyes: :zzz: **[feat(cdr): add phone number masking for users with privacy enabled](https://github.com/nethesis/nethvoice-report/pull/205)** by *edospadoni* - Reviewers: *None* - Created at: 2025-12-11T13:04:27Z
-
-### nethesis/ns8-nethvoice 6 
-
-- :eyes: :zzz: **[feat(cdr): add privacy field to user_authorizations.json](https://github.com/nethesis/ns8-nethvoice/pull/632)** by *edospadoni* - Reviewers: *None* - Created at: 2025-12-11T13:28:22Z
 -  :zzz: **[Matrix integration](https://github.com/nethesis/ns8-nethvoice/pull/627)** by *gsanchietti* - Reviewers: *Amygos* - Created at: 2025-12-10T11:32:50Z
 - :eyes: :zzz: **[fix: new user-domain-changed event format](https://github.com/nethesis/ns8-nethvoice/pull/626)** by *DavidePrincipi* - Reviewers: *None* - Created at: 2025-12-09T14:46:42Z
 - :eyes: :zzz: **[Import CSV with admin APIs](https://github.com/nethesis/ns8-nethvoice/pull/617)** by *gsanchietti* - Reviewers: *None* - Created at: 2025-11-26T14:37:01Z
 -  :zzz: **[Transcription at the end of a call](https://github.com/nethesis/ns8-nethvoice/pull/606)** by *Stell0* - Reviewers: *Amygos, edospadoni* - Created at: 2025-11-20T11:16:26Z
 -  :zzz: **[enhancement(freepbx): Don't slow down system at reboot](https://github.com/nethesis/ns8-nethvoice/pull/605)** by *Stell0* - Reviewers: *Amygos, DavidePrincipi* - Created at: 2025-11-19T14:40:39Z
 
-### nethesis/ns8-nethvoice-proxy 2 
+### nethesis/ns8-nethvoice-proxy 3 
 
+- :eyes:  **[164 notify timeout](https://github.com/nethesis/ns8-nethvoice-proxy/pull/123)** by *paolovisintin* - Reviewers: *None* - Created at: 2026-01-14T08:00:32Z
 - :eyes:  **[feat: Add NAT localnet support with custom ports 6060/6061](https://github.com/nethesis/ns8-nethvoice-proxy/pull/113)** by *paolovisintin* - Reviewers: *None* - Created at: 2025-12-18T11:03:32Z
 - :eyes: :zzz: **[144 multi port binding](https://github.com/nethesis/ns8-nethvoice-proxy/pull/98)** by *paolovisintin* - Reviewers: *None* - Created at: 2025-11-14T10:18:53Z
 
@@ -112,6 +104,10 @@ date = 2026-01-14
 ### nethesis/nethvoice-client-docs 1 
 
 - :eyes: :zzz: **[Update and add the CTI image](https://github.com/nethesis/nethvoice-client-docs/pull/14)** by *viktec* - Reviewers: *None* - Created at: 2025-11-05T16:11:10Z
+
+### nethesis/parceler 1 
+
+- :eyes:  **[chore(main): release 1.3.1](https://github.com/nethesis/parceler/pull/145)** by *Tbaile* - Reviewers: *None* - Created at: 2026-01-14T15:22:43Z
 
 ### nethesis/satellite 1 
 

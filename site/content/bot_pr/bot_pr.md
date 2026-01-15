@@ -1,6 +1,6 @@
 +++
 title = 'Open Pull Requests by Bots'
-date = 2026-01-14
+date = 2026-01-15
 +++
 
 ## Organization: nethserver
@@ -125,14 +125,11 @@ date = 2026-01-14
 
 - :eyes: :zzz: **[chore(deps): update debian docker tag to v13](https://github.com/NethServer/ns8-porthos/pull/9)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-08-12T22:35:00Z
 
-### NethServer/ns8-passbolt 21 
+### NethServer/ns8-passbolt 10 
 
 - :eyes: :zzz: **[chore(deps): update mcr.microsoft.com/devcontainers/javascript-node docker tag to v1](https://github.com/NethServer/ns8-passbolt/pull/50)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-12-09T15:00:08Z
 - :eyes: :zzz: **[chore(deps): update mariadb docker tag to v12](https://github.com/NethServer/ns8-passbolt/pull/49)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-12-09T15:00:04Z
-- :eyes: :zzz: **[chore(deps): update dependency vue-router to v3.6.5](https://github.com/NethServer/ns8-passbolt/pull/48)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-12-09T14:59:59Z
 - :eyes: :zzz: **[chore(deps): update dependency vue-i18n to v8.28.2](https://github.com/NethServer/ns8-passbolt/pull/47)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-12-09T14:59:46Z
-- :eyes: :zzz: **[chore(deps): update dependency vue-axios to v3.5.2](https://github.com/NethServer/ns8-passbolt/pull/46)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-12-09T14:59:32Z
-- :eyes: :zzz: **[chore(deps): update dependency sass-loader to v10.5.2](https://github.com/NethServer/ns8-passbolt/pull/45)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-12-09T14:59:21Z
 - :eyes: :zzz: **[chore(deps): update dependency sass to v1.95.0](https://github.com/NethServer/ns8-passbolt/pull/44)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-12-09T14:59:09Z
 - :eyes: :zzz: **[chore(deps): update dependency prettier to v2.8.8](https://github.com/NethServer/ns8-passbolt/pull/43)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-12-09T14:58:54Z
 - :eyes: :zzz: **[chore(deps): update dependency core-js to v3.47.0](https://github.com/NethServer/ns8-passbolt/pull/42)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-12-09T14:58:41Z
@@ -140,14 +137,6 @@ date = 2026-01-14
 - :eyes: :zzz: **[chore(deps): update dependency @carbon/vue to v2.45.1](https://github.com/NethServer/ns8-passbolt/pull/40)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-12-09T14:58:14Z
 - :eyes: :zzz: **[chore(deps): update dependency @carbon/icons-vue to v10.99.1](https://github.com/NethServer/ns8-passbolt/pull/39)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-12-09T14:57:59Z
 - :eyes: :zzz: **[chore(deps): update mariadb docker tag to v10.11.15](https://github.com/NethServer/ns8-passbolt/pull/38)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-12-09T14:57:44Z
-- :eyes: :zzz: **[chore(deps): update dependency vue-router to v3.5.4](https://github.com/NethServer/ns8-passbolt/pull/37)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-12-09T14:57:40Z
-- :eyes: :zzz: **[chore(deps): update dependency vue-debounce to v4.0.1](https://github.com/NethServer/ns8-passbolt/pull/36)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-12-09T14:57:28Z
-- :eyes: :zzz: **[chore(deps): update dependency vue-date-fns to v2.0.2](https://github.com/NethServer/ns8-passbolt/pull/35)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-12-09T14:57:15Z
-- :eyes: :zzz: **[chore(deps): update dependency vue-axios to v3.2.5](https://github.com/NethServer/ns8-passbolt/pull/34)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-12-09T14:57:02Z
-- :eyes: :zzz: **[chore(deps): update dependency sass-loader to v10.2.1](https://github.com/NethServer/ns8-passbolt/pull/33)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-12-09T14:56:48Z
-- :eyes: :zzz: **[chore(deps): update dependency sass to v1.43.5](https://github.com/NethServer/ns8-passbolt/pull/32)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-12-09T14:56:35Z
-- :eyes: :zzz: **[chore(deps): update dependency lottie-web-vue to v1.2.1](https://github.com/NethServer/ns8-passbolt/pull/31)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-12-09T14:56:21Z
-- :eyes: :zzz: **[chore(deps): replace dependency babel-eslint with @babel/eslint-parser ^7.11.0](https://github.com/NethServer/ns8-passbolt/pull/30)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-12-09T14:56:08Z
 
 ### NethServer/ns8-metrics 4 
 
@@ -158,11 +147,11 @@ date = 2026-01-14
 
 ### NethServer/ns8-matrix 5 
 
-- :eyes:  **[chore(deps-dev): bump prettier from 2.3.2 to 3.7.4 in /ui](https://github.com/NethServer/ns8-matrix/pull/32)** by *dependabot[bot]* - Reviewers: *None* - Created at: 2025-12-15T06:32:39Z
-- :eyes:  **[chore(deps-dev): bump vue-template-compiler from 2.6.14 to 2.7.16 in /ui](https://github.com/NethServer/ns8-matrix/pull/31)** by *dependabot[bot]* - Reviewers: *None* - Created at: 2025-12-15T06:32:31Z
-- :eyes:  **[chore(deps): bump vue-debounce from 4.0.0 to 4.0.1 in /ui](https://github.com/NethServer/ns8-matrix/pull/30)** by *dependabot[bot]* - Reviewers: *None* - Created at: 2025-12-15T06:32:25Z
-- :eyes:  **[chore(deps): bump @carbon/icons-vue from 10.41.0 to 10.99.1 in /ui](https://github.com/NethServer/ns8-matrix/pull/29)** by *dependabot[bot]* - Reviewers: *None* - Created at: 2025-12-15T06:32:03Z
-- :eyes:  **[chore(deps): bump carbon-components from 10.46.0 to 10.58.15 in /ui](https://github.com/NethServer/ns8-matrix/pull/28)** by *dependabot[bot]* - Reviewers: *None* - Created at: 2025-12-15T06:31:43Z
+- :eyes: :zzz: **[chore(deps-dev): bump prettier from 2.3.2 to 3.7.4 in /ui](https://github.com/NethServer/ns8-matrix/pull/32)** by *dependabot[bot]* - Reviewers: *None* - Created at: 2025-12-15T06:32:39Z
+- :eyes: :zzz: **[chore(deps-dev): bump vue-template-compiler from 2.6.14 to 2.7.16 in /ui](https://github.com/NethServer/ns8-matrix/pull/31)** by *dependabot[bot]* - Reviewers: *None* - Created at: 2025-12-15T06:32:31Z
+- :eyes: :zzz: **[chore(deps): bump vue-debounce from 4.0.0 to 4.0.1 in /ui](https://github.com/NethServer/ns8-matrix/pull/30)** by *dependabot[bot]* - Reviewers: *None* - Created at: 2025-12-15T06:32:25Z
+- :eyes: :zzz: **[chore(deps): bump @carbon/icons-vue from 10.41.0 to 10.99.1 in /ui](https://github.com/NethServer/ns8-matrix/pull/29)** by *dependabot[bot]* - Reviewers: *None* - Created at: 2025-12-15T06:32:03Z
+- :eyes: :zzz: **[chore(deps): bump carbon-components from 10.46.0 to 10.58.15 in /ui](https://github.com/NethServer/ns8-matrix/pull/28)** by *dependabot[bot]* - Reviewers: *None* - Created at: 2025-12-15T06:31:43Z
 
 ## Organization: nethesis
 
@@ -253,17 +242,16 @@ date = 2026-01-14
 - :eyes:  **[chore(deps): update dependency @storybook/addon-interactions to v7.6.21](https://github.com/nethesis/phone-island/pull/140)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-12-29T00:34:34Z
 - :eyes:  **[chore(deps): update dependency @storybook/addon-essentials to v7.6.21](https://github.com/nethesis/phone-island/pull/139)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-12-29T00:34:20Z
 
-### nethesis/ns8-nethvoice-proxy 12 
+### nethesis/ns8-nethvoice-proxy 11 
 
+- :eyes:  **[chore(deps): update dependency @nethserver/ns8-ui-lib to v1.11.0](https://github.com/nethesis/ns8-nethvoice-proxy/pull/125)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-01-14T13:14:46Z
+- :eyes:  **[chore(deps): update dependency @babel/eslint-parser to v7.28.6](https://github.com/nethesis/ns8-nethvoice-proxy/pull/124)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-01-14T13:14:31Z
 - :eyes:  **[chore(deps): update dependency vue-template-compiler to v2.7.16](https://github.com/nethesis/ns8-nethvoice-proxy/pull/122)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-01-09T14:13:16Z
-- :eyes:  **[chore(deps): update dependency vue-router to v3.6.5](https://github.com/nethesis/ns8-nethvoice-proxy/pull/121)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-01-09T14:13:03Z
 - :eyes:  **[chore(deps): update dependency vue-i18n to v8.28.2](https://github.com/nethesis/ns8-nethvoice-proxy/pull/120)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-01-09T11:43:48Z
 - :eyes:  **[chore(deps): update dependency prettier to v2.8.8](https://github.com/nethesis/ns8-nethvoice-proxy/pull/118)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-01-08T11:07:01Z
 - :eyes:  **[chore(deps): update dependency core-js to v3.47.0](https://github.com/nethesis/ns8-nethvoice-proxy/pull/117)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-01-07T13:56:34Z
 - :eyes:  **[chore(deps): update dependency carbon-components to v10.58.15](https://github.com/nethesis/ns8-nethvoice-proxy/pull/115)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-12-23T09:34:14Z
-- :eyes: :zzz: **[chore(deps): update dependency vue-router to v3.5.4](https://github.com/nethesis/ns8-nethvoice-proxy/pull/109)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-11-27T05:16:48Z
 - :eyes: :zzz: **[chore(deps): update dependency lottie-web-vue to v1.2.1](https://github.com/nethesis/ns8-nethvoice-proxy/pull/104)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-11-26T22:04:12Z
-- :eyes: :zzz: **[chore(deps): update dependency eslint-plugin-prettier to v3.4.1](https://github.com/nethesis/ns8-nethvoice-proxy/pull/103)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-11-26T20:12:27Z
 - :eyes: :zzz: **[Translations update from Hosted Weblate](https://github.com/nethesis/ns8-nethvoice-proxy/pull/101)** by *weblate* - Reviewers: *None* - Created at: 2025-11-26T08:51:51Z
 - :eyes: :zzz: **[chore(deps): update redis docker tag to v8](https://github.com/nethesis/ns8-nethvoice-proxy/pull/78)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-07-08T11:53:47Z
 - :eyes: :zzz: **[build(deps): bump http-cache-semantics from 4.1.0 to 4.2.0 in /ui](https://github.com/nethesis/ns8-nethvoice-proxy/pull/71)** by *dependabot[bot]* - Reviewers: *None* - Created at: 2025-06-30T12:12:50Z
