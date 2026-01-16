@@ -1,26 +1,30 @@
 +++
 title = 'Open Pull Requests'
-date = 2026-01-15
+date = 2026-01-16
 +++
 
 ## Organization: nethserver
 
-### NethServer/ns8-core 3 
+### NethServer/ns8-core 2 
 
 -   **[fix(apply-vpn-routes): preserve wg0 endpoints](https://github.com/NethServer/ns8-core/pull/1011)** by *DavidePrincipi* - Reviewers: *nrauso* - Created at: 2026-01-14T18:06:37Z
-- :eyes:  **[Extend action output for additional disk selection UI](https://github.com/NethServer/ns8-core/pull/1008)** by *DavidePrincipi* - Reviewers: *None* - Created at: 2026-01-13T17:57:44Z
 - :eyes:  **[Add offline node message and update disabled nodes logic](https://github.com/NethServer/ns8-core/pull/1004)** by *stephdl* - Reviewers: *None* - Created at: 2026-01-07T17:11:26Z
 
 ### NethServer/ns8-samba 1 
 
 - :eyes:  **[Add certificate management for samba dc](https://github.com/NethServer/ns8-samba/pull/175)** by *mrmarkuz* - Reviewers: *None* - Created at: 2026-01-14T15:38:47Z
 
+### NethServer/ns8-loki 1 
+
+-   **[Fix Loki-Metrics initialization race condition](https://github.com/NethServer/ns8-loki/pull/47)** by *DavidePrincipi* - Reviewers: *Amygos* - Created at: 2026-01-15T18:44:46Z
+
 ### NethServer/ns8-traefik 1 
 
 - :eyes: :zzz: **[fix: cryptography 45 deprecation warning](https://github.com/NethServer/ns8-traefik/pull/120)** by *DavidePrincipi* - Reviewers: *None* - Created at: 2025-10-28T08:48:29Z
 
-### NethServer/nethsecurity 1 
+### NethServer/nethsecurity 2 
 
+- :eyes:  **[feat(ns-ui): added server tokens in UI server](https://github.com/NethServer/nethsecurity/pull/1473)** by *Tbaile* - Reviewers: *None* - Created at: 2026-01-15T11:23:21Z
 - :eyes: :zzz: **[build: added softflowd](https://github.com/NethServer/nethsecurity/pull/1453)** by *Tbaile* - Reviewers: *None* - Created at: 2025-12-10T11:48:14Z
 
 ### NethServer/ns8-nethsecurity-controller 1 
@@ -37,11 +41,16 @@ date = 2026-01-15
 
 ### NethServer/ns8-docs 2 
 
--   **[Add n8n documentation](https://github.com/NethServer/ns8-docs/pull/214)** by *mrmarkuz* - Reviewers: *Stell0* - Created at: 2026-01-12T14:48:50Z
+-   **[Manually run apply-vpn-routes ](https://github.com/NethServer/ns8-docs/pull/215)** by *DavidePrincipi* - Reviewers: *nrauso* - Created at: 2026-01-15T17:00:49Z
 -   **[Add matrix documentation](https://github.com/NethServer/ns8-docs/pull/211)** by *mrmarkuz* - Reviewers: *gsanchietti* - Created at: 2025-12-23T15:07:05Z
 
-### NethServer/nethsecurity-docs 1 
+### NethServer/nethsecurity-ui 1 
 
+- :eyes:  **[chore(main): release 2.8.2](https://github.com/NethServer/nethsecurity-ui/pull/667)** by *Tbaile* - Reviewers: *None* - Created at: 2026-01-15T13:59:26Z
+
+### NethServer/nethsecurity-docs 2 
+
+-   **[feat: added nginx removal of `server_tokens`](https://github.com/NethServer/nethsecurity-docs/pull/221)** by *Tbaile* - Reviewers: *cotosso* - Created at: 2026-01-15T11:23:43Z
 -  :zzz: **[fix(ha): update for beta2](https://github.com/NethServer/nethsecurity-docs/pull/208)** by *gsanchietti* - Reviewers: *filippocarletti* - Created at: 2025-10-02T10:43:05Z
 
 ### NethServer/ns8-user-manager 1 
@@ -52,24 +61,19 @@ date = 2026-01-15
 
 - :eyes:  **[Use runagent instead of ssh in README](https://github.com/NethServer/ns8-sogo/pull/56)** by *mrmarkuz* - Reviewers: *None* - Created at: 2026-01-13T08:27:57Z
 
-### NethServer/ns8-nethforge 1 
+### NethServer/ns8-metrics 1 
 
-- :eyes:  **[feat: add n8n metadata](https://github.com/NethServer/ns8-nethforge/pull/33)** by *mrmarkuz* - Reviewers: *None* - Created at: 2026-01-08T10:05:38Z
-
-### NethServer/nethvoice-docs 2 
-
--   **[fix(admin_manual): ns8 wizard and settings refactored](https://github.com/NethServer/nethvoice-docs/pull/33)** by *andre8244* - Reviewers: *gsanchietti, andrea-marchionni* - Created at: 2026-01-13T14:04:17Z
-- :eyes: :zzz: **[Add ringtone selection](https://github.com/NethServer/nethvoice-docs/pull/26)** by *andrea-marchionni* - Reviewers: *None* - Created at: 2025-11-28T11:05:27Z
-
-### NethServer/ns8-n8n 1 
-
--   **[Add N8N to NethForge](https://github.com/NethServer/ns8-n8n/pull/1)** by *mrmarkuz* - Reviewers: *gsanchietti* - Created at: 2025-12-17T10:47:29Z
+-   **[Fix Loki config race condition](https://github.com/NethServer/ns8-metrics/pull/45)** by *DavidePrincipi* - Reviewers: *gsanchietti* - Created at: 2026-01-15T18:50:11Z
 
 ## Organization: nethesis
 
 ### nethesis/icaro 1 
 
 -  :zzz: **[feat: added OAuth login](https://github.com/nethesis/icaro/pull/200)** by *edospadoni* - Reviewers: *Amygos* - Created at: 2025-09-10T10:04:49Z
+
+### nethesis/dartagnan 1 
+
+-   **[fix(payments): fix payments and renewal management](https://github.com/nethesis/dartagnan/pull/36)** by *m-dilorenzi* - Reviewers: *edospadoni* - Created at: 2026-01-15T16:19:53Z
 
 ### nethesis/nethcti-app-android 1 
 

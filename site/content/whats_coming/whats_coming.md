@@ -2,11 +2,15 @@
 
 title = 'To be released soon'
 
-date = 2026-01-15
+date = 2026-01-16
 
 +++
 
-### NoMilestone
+### NethVoice
 
-- [Add ns8-n8n automation app to NethForge](https://github.com/NethServer/dev/issues/7793) (#7793) by mrmarkuz (Created: 2025-12-17T09:19:49Z, Updated: 2026-01-13T13:50:56Z)
+- [NethLink: Listen and Intrude open standard call phone island and show "Unknown" label](https://github.com/NethServer/dev/issues/7800) (#7800) by mgarra (Created: 2026-01-07T11:57:00Z, Updated: 2026-01-15T13:39:36Z)
+
+### NethSecurity
+
+- [Reverse proxy: inconsistent behavior for default certificate](https://github.com/NethServer/nethsecurity/issues/1354) (#1354) by francio87 (Created: 2025-08-22T13:58:49Z, Updated: 2026-01-15T13:59:54Z)
 
