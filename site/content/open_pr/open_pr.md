@@ -1,6 +1,6 @@
 +++
 title = 'Open Pull Requests'
-date = 2026-01-16
+date = 2026-01-17
 +++
 
 ## Organization: nethserver
@@ -12,19 +12,18 @@ date = 2026-01-16
 
 ### NethServer/ns8-samba 1 
 
-- :eyes:  **[Add certificate management for samba dc](https://github.com/NethServer/ns8-samba/pull/175)** by *mrmarkuz* - Reviewers: *None* - Created at: 2026-01-14T15:38:47Z
+-   **[Add certificate management for samba dc](https://github.com/NethServer/ns8-samba/pull/175)** by *mrmarkuz* - Reviewers: *DavidePrincipi* - Created at: 2026-01-14T15:38:47Z
 
 ### NethServer/ns8-loki 1 
 
--   **[Fix Loki-Metrics initialization race condition](https://github.com/NethServer/ns8-loki/pull/47)** by *DavidePrincipi* - Reviewers: *Amygos* - Created at: 2026-01-15T18:44:46Z
+- :eyes:  **[Fix Loki-Metrics initialization race condition](https://github.com/NethServer/ns8-loki/pull/47)** by *DavidePrincipi* - Reviewers: *None* - Created at: 2026-01-15T18:44:46Z
 
 ### NethServer/ns8-traefik 1 
 
 - :eyes: :zzz: **[fix: cryptography 45 deprecation warning](https://github.com/NethServer/ns8-traefik/pull/120)** by *DavidePrincipi* - Reviewers: *None* - Created at: 2025-10-28T08:48:29Z
 
-### NethServer/nethsecurity 2 
+### NethServer/nethsecurity 1 
 
-- :eyes:  **[feat(ns-ui): added server tokens in UI server](https://github.com/NethServer/nethsecurity/pull/1473)** by *Tbaile* - Reviewers: *None* - Created at: 2026-01-15T11:23:21Z
 - :eyes: :zzz: **[build: added softflowd](https://github.com/NethServer/nethsecurity/pull/1453)** by *Tbaile* - Reviewers: *None* - Created at: 2025-12-10T11:48:14Z
 
 ### NethServer/ns8-nethsecurity-controller 1 
@@ -41,12 +40,8 @@ date = 2026-01-16
 
 ### NethServer/ns8-docs 2 
 
--   **[Manually run apply-vpn-routes ](https://github.com/NethServer/ns8-docs/pull/215)** by *DavidePrincipi* - Reviewers: *nrauso* - Created at: 2026-01-15T17:00:49Z
+- :eyes:  **[Manually run apply-vpn-routes ](https://github.com/NethServer/ns8-docs/pull/215)** by *DavidePrincipi* - Reviewers: *None* - Created at: 2026-01-15T17:00:49Z
 -   **[Add matrix documentation](https://github.com/NethServer/ns8-docs/pull/211)** by *mrmarkuz* - Reviewers: *gsanchietti* - Created at: 2025-12-23T15:07:05Z
-
-### NethServer/nethsecurity-ui 1 
-
-- :eyes:  **[chore(main): release 2.8.2](https://github.com/NethServer/nethsecurity-ui/pull/667)** by *Tbaile* - Reviewers: *None* - Created at: 2026-01-15T13:59:26Z
 
 ### NethServer/nethsecurity-docs 2 
 
@@ -71,10 +66,6 @@ date = 2026-01-16
 
 -  :zzz: **[feat: added OAuth login](https://github.com/nethesis/icaro/pull/200)** by *edospadoni* - Reviewers: *Amygos* - Created at: 2025-09-10T10:04:49Z
 
-### nethesis/dartagnan 1 
-
--   **[fix(payments): fix payments and renewal management](https://github.com/nethesis/dartagnan/pull/36)** by *m-dilorenzi* - Reviewers: *edospadoni* - Created at: 2026-01-15T16:19:53Z
-
 ### nethesis/nethcti-app-android 1 
 
 -  :zzz: **[Removed old notificator](https://github.com/nethesis/nethcti-app-android/pull/30)** by *mirkopruiti* - Reviewers: *b9874e* - Created at: 2023-08-02T09:35:24Z
@@ -82,6 +73,10 @@ date = 2026-01-16
 ### nethesis/nethcti-app-iphone 1 
 
 -  :zzz: **[Removed old notification service usage](https://github.com/nethesis/nethcti-app-iphone/pull/37)** by *NicolaMrAPPs* - Reviewers: *b9874e* - Created at: 2023-08-02T09:19:30Z
+
+### nethesis/tancredi 1 
+
+- :eyes:  **[Add pattern for fanvil 00-A8-5A MAC address](https://github.com/nethesis/tancredi/pull/344)** by *Stell0* - Reviewers: *None* - Created at: 2026-01-16T11:09:20Z
 
 ### nethesis/ns8-nethvoice 5 
 
@@ -103,7 +98,7 @@ date = 2026-01-16
 
 ### nethesis/ctiapp-authproxy 1 
 
--   **[feat: add chat provisioning](https://github.com/nethesis/ctiapp-authproxy/pull/16)** by *gsanchietti* - Reviewers: *edospadoni* - Created at: 2025-12-17T13:12:41Z
+-  :zzz: **[feat: add chat provisioning](https://github.com/nethesis/ctiapp-authproxy/pull/16)** by *gsanchietti* - Reviewers: *edospadoni* - Created at: 2025-12-17T13:12:41Z
 
 ### nethesis/nethvoice-client-docs 1 
 
@@ -119,6 +114,6 @@ date = 2026-01-16
 
 ### nethesis/nethcti-middleware 1 
 
--   **[feat: add GET /chat endpoint](https://github.com/nethesis/nethcti-middleware/pull/16)** by *gsanchietti* - Reviewers: *edospadoni, tommaso-ascani* - Created at: 2025-12-17T10:53:42Z
+-  :zzz: **[feat: add GET /chat endpoint](https://github.com/nethesis/nethcti-middleware/pull/16)** by *gsanchietti* - Reviewers: *edospadoni, tommaso-ascani* - Created at: 2025-12-17T10:53:42Z
 
 
