@@ -1,12 +1,13 @@
 +++
 title = 'Open Pull Requests by Bots'
-date = 2026-01-17
+date = 2026-01-18
 +++
 
 ## Organization: nethserver
 
-### NethServer/nethserver-business 7 
+### NethServer/nethserver-business 8 
 
+- :eyes:  **[Bump tar and fsevents in /ui](https://github.com/NethServer/nethserver-business/pull/13)** by *dependabot[bot]* - Reviewers: *None* - Created at: 2026-01-17T06:42:41Z
 - :eyes:  **[Bump qs, @vue/cli-plugin-babel, @vue/cli-plugin-eslint and @vue/cli-service in /ui](https://github.com/NethServer/nethserver-business/pull/12)** by *dependabot[bot]* - Reviewers: *None* - Created at: 2025-12-31T20:33:13Z
 - :eyes: :zzz: **[Bump node-forge and @vue/cli-service in /ui](https://github.com/NethServer/nethserver-business/pull/11)** by *dependabot[bot]* - Reviewers: *None* - Created at: 2025-11-27T15:36:48Z
 - :eyes: :zzz: **[Bump js-yaml, @vue/cli-plugin-eslint, @vue/cli-service and eslint in /ui](https://github.com/NethServer/nethserver-business/pull/10)** by *dependabot[bot]* - Reviewers: *None* - Created at: 2025-11-16T18:27:20Z
@@ -15,8 +16,12 @@ date = 2026-01-17
 - :eyes: :zzz: **[Bump on-headers and compression in /ui](https://github.com/NethServer/nethserver-business/pull/7)** by *dependabot[bot]* - Reviewers: *None* - Created at: 2025-07-18T00:03:46Z
 - :eyes: :zzz: **[Bump pbkdf2 from 3.0.17 to 3.1.3 in /ui](https://github.com/NethServer/nethserver-business/pull/6)** by *dependabot[bot]* - Reviewers: *None* - Created at: 2025-06-24T07:44:23Z
 
-### NethServer/ns8-core 6 
+### NethServer/ns8-core 10 
 
+- :eyes:  **[chore(deps): update dependency lottie-web-vue to v1.2.1](https://github.com/NethServer/ns8-core/pull/1021)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-01-17T09:34:10Z
+- :eyes:  **[chore(deps): update dependency grafana/loki to v3.6.3](https://github.com/NethServer/ns8-core/pull/1020)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-01-17T09:31:46Z
+- :eyes:  **[chore(deps): update dependency d3 to v7.2.1](https://github.com/NethServer/ns8-core/pull/1019)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-01-17T05:23:09Z
+- :eyes:  **[chore(deps): update dependency babel-loader to v8.2.5](https://github.com/NethServer/ns8-core/pull/1018)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-01-17T05:22:55Z
 - :eyes:  **[chore(deps): update dependency @babel/core to v7.16.12](https://github.com/NethServer/ns8-core/pull/1017)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-01-17T00:57:04Z
 - :eyes:  **[chore(deps): replace dependency babel-eslint with @babel/eslint-parser ^7.11.0](https://github.com/NethServer/ns8-core/pull/1016)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-01-17T00:55:19Z
 - :eyes:  **[fix(deps): update module github.com/gin-contrib/cors to v1.6.0 [security]](https://github.com/NethServer/ns8-core/pull/1015)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-01-16T23:54:08Z
@@ -101,7 +106,7 @@ date = 2026-01-17
 
 ### NethServer/ns8-mail 3 
 
-- :eyes:  **[Translations update from Hosted Weblate](https://github.com/NethServer/ns8-mail/pull/212)** by *weblate* - Reviewers: *None* - Created at: 2025-12-18T10:05:40Z
+- :eyes: :zzz: **[Translations update from Hosted Weblate](https://github.com/NethServer/ns8-mail/pull/212)** by *weblate* - Reviewers: *None* - Created at: 2025-12-18T10:05:40Z
 - :eyes: :zzz: **[chore(deps): update alpine docker tag to v3.21.5](https://github.com/NethServer/ns8-mail/pull/211)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-12-17T15:01:22Z
 - :eyes: :zzz: **[chore(deps): update alpine docker tag to v3.22.2](https://github.com/NethServer/ns8-mail/pull/202)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-09-15T08:47:47Z
 
@@ -116,7 +121,7 @@ date = 2026-01-17
 
 ### NethServer/phonehome-server 2 
 
-- :eyes: :zzz: **[chore(deps): update php docker tag to v8.5.1](https://github.com/NethServer/phonehome-server/pull/140)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-11-22T08:25:41Z
+- :eyes: :zzz: **[chore(deps): update php docker tag to v8.5.2](https://github.com/NethServer/phonehome-server/pull/140)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-11-22T08:25:41Z
 - :eyes: :zzz: **[chore(deps): update actions/checkout action to v6](https://github.com/NethServer/phonehome-server/pull/139)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-11-22T02:25:17Z
 
 ### NethServer/ns8-crowdsec 1 
