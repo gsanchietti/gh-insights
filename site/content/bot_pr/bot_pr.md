@@ -1,6 +1,6 @@
 +++
 title = 'Open Pull Requests by Bots'
-date = 2026-01-18
+date = 2026-01-19
 +++
 
 ## Organization: nethserver
@@ -291,9 +291,9 @@ date = 2026-01-18
 - :eyes:  **[chore(deps): update dependency vite to v7](https://github.com/nethesis/vue-components/pull/118)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-12-22T13:28:26Z
 - :eyes:  **[chore(deps): update dependency ubuntu to v24](https://github.com/nethesis/vue-components/pull/117)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-12-22T09:03:28Z
 - :eyes:  **[chore(deps): update dependency npm-run-all2 to v8](https://github.com/nethesis/vue-components/pull/116)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-12-22T08:59:39Z
-- :eyes:  **[chore(deps): update dependency eslint-plugin-vue to v10](https://github.com/nethesis/vue-components/pull/115)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-12-19T18:50:41Z
-- :eyes:  **[chore(deps): update dependency @vitejs/plugin-vue to v6](https://github.com/nethesis/vue-components/pull/114)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-12-19T15:37:45Z
-- :eyes:  **[chore(deps): update dependency @types/uuid to v11](https://github.com/nethesis/vue-components/pull/113)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-12-19T15:37:36Z
+- :eyes: :zzz: **[chore(deps): update dependency eslint-plugin-vue to v10](https://github.com/nethesis/vue-components/pull/115)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-12-19T18:50:41Z
+- :eyes: :zzz: **[chore(deps): update dependency @vitejs/plugin-vue to v6](https://github.com/nethesis/vue-components/pull/114)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-12-19T15:37:45Z
+- :eyes: :zzz: **[chore(deps): update dependency @types/uuid to v11](https://github.com/nethesis/vue-components/pull/113)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-12-19T15:37:36Z
 - :eyes: :zzz: **[chore(deps): update actions/checkout action to v6](https://github.com/nethesis/vue-components/pull/107)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-12-13T19:14:30Z
 - :eyes: :zzz: **[chore(deps): update dependency typescript to ~5.9.0](https://github.com/nethesis/vue-components/pull/103)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-12-09T14:29:51Z
 - :eyes: :zzz: **[chore(deps): update dependency @vue/tsconfig to ^0.8.0](https://github.com/nethesis/vue-components/pull/100)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-12-09T11:09:23Z
@@ -307,15 +307,16 @@ date = 2026-01-18
 - :eyes: :zzz: **[chore(deps): update dependency python to 3.14](https://github.com/nethesis/satellite/pull/22)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-12-17T07:44:36Z
 - :eyes: :zzz: **[chore(deps): update dependency deepgram-sdk to v5](https://github.com/nethesis/satellite/pull/11)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-11-27T15:44:47Z
 
-### nethesis/matrix2acrobits 9 
+### nethesis/matrix2acrobits 10 
 
+- :eyes:  **[fix(deps): update module github.com/labstack/echo/v4 to v5](https://github.com/nethesis/matrix2acrobits/pull/17)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-01-18T17:42:09Z
 - :eyes: :zzz: **[fix(deps): update module github.com/labstack/echo/v4 to v4.15.0](https://github.com/nethesis/matrix2acrobits/pull/11)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-12-11T22:10:25Z
 - :eyes: :zzz: **[chore(deps): update docker/setup-buildx-action action to v3](https://github.com/nethesis/matrix2acrobits/pull/10)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-12-10T20:36:17Z
 - :eyes: :zzz: **[chore(deps): update docker/login-action action to v3](https://github.com/nethesis/matrix2acrobits/pull/9)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-12-10T20:36:13Z
 - :eyes: :zzz: **[chore(deps): update docker/build-push-action action to v6](https://github.com/nethesis/matrix2acrobits/pull/8)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-12-10T17:40:28Z
 - :eyes: :zzz: **[chore(deps): update actions/setup-go action to v6](https://github.com/nethesis/matrix2acrobits/pull/7)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-12-10T17:40:25Z
 - :eyes: :zzz: **[chore(deps): update actions/checkout action to v6](https://github.com/nethesis/matrix2acrobits/pull/6)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-12-10T14:22:39Z
-- :eyes: :zzz: **[fix(deps): update module modernc.org/sqlite to v1.44.1](https://github.com/nethesis/matrix2acrobits/pull/5)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-12-10T14:22:34Z
+- :eyes: :zzz: **[fix(deps): update module modernc.org/sqlite to v1.44.2](https://github.com/nethesis/matrix2acrobits/pull/5)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-12-10T14:22:34Z
 - :eyes: :zzz: **[chore(deps): update golang docker tag to v1.25.6](https://github.com/nethesis/matrix2acrobits/pull/4)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-12-09T14:46:31Z
 - :eyes: :zzz: **[chore(deps): update dependency go to 1.25](https://github.com/nethesis/matrix2acrobits/pull/3)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-12-09T14:46:27Z
 
