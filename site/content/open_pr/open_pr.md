@@ -1,22 +1,17 @@
 +++
 title = 'Open Pull Requests'
-date = 2026-01-19
+date = 2026-01-20
 +++
 
 ## Organization: nethserver
 
-### NethServer/ns8-core 2 
+### NethServer/ns8-core 1 
 
--   **[fix(apply-vpn-routes): preserve wg0 endpoints](https://github.com/NethServer/ns8-core/pull/1011)** by *DavidePrincipi* - Reviewers: *nrauso* - Created at: 2026-01-14T18:06:37Z
 - :eyes:  **[Add offline node message and update disabled nodes logic](https://github.com/NethServer/ns8-core/pull/1004)** by *stephdl* - Reviewers: *None* - Created at: 2026-01-07T17:11:26Z
 
 ### NethServer/ns8-samba 1 
 
 -   **[Add certificate management for samba dc](https://github.com/NethServer/ns8-samba/pull/175)** by *mrmarkuz* - Reviewers: *DavidePrincipi* - Created at: 2026-01-14T15:38:47Z
-
-### NethServer/ns8-loki 1 
-
-- :eyes:  **[Fix Loki-Metrics initialization race condition](https://github.com/NethServer/ns8-loki/pull/47)** by *DavidePrincipi* - Reviewers: *None* - Created at: 2026-01-15T18:44:46Z
 
 ### NethServer/ns8-traefik 1 
 
@@ -56,9 +51,9 @@ date = 2026-01-19
 
 - :eyes:  **[Use runagent instead of ssh in README](https://github.com/NethServer/ns8-sogo/pull/56)** by *mrmarkuz* - Reviewers: *None* - Created at: 2026-01-13T08:27:57Z
 
-### NethServer/ns8-metrics 1 
+### NethServer/nethvoice-docs 1 
 
--   **[Fix Loki config race condition](https://github.com/NethServer/ns8-metrics/pull/45)** by *DavidePrincipi* - Reviewers: *gsanchietti* - Created at: 2026-01-15T18:50:11Z
+-   **[feat: adding command bar shortcut documentation](https://github.com/NethServer/nethvoice-docs/pull/34)** by *andrea-marchionni* - Reviewers: *edospadoni* - Created at: 2026-01-19T16:38:30Z
 
 ## Organization: nethesis
 
