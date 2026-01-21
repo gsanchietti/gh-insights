@@ -1,6 +1,6 @@
 +++
 title = 'Open Pull Requests by Bots'
-date = 2026-01-20
+date = 2026-01-21
 +++
 
 ## Organization: nethserver
@@ -67,12 +67,6 @@ date = 2026-01-20
 - :eyes: :zzz: **[chore(deps): update dependency sass to v1.43.5](https://github.com/NethServer/ns8-samba/pull/156)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-12-10T16:46:08Z
 - :eyes: :zzz: **[chore(deps): update dependency lottie-web-vue to v1.2.1](https://github.com/NethServer/ns8-samba/pull/155)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-12-10T16:45:57Z
 - :eyes: :zzz: **[chore(deps): update dependency eslint-plugin-prettier to v3.4.1](https://github.com/NethServer/ns8-samba/pull/154)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-12-10T16:45:47Z
-
-### NethServer/ns8-loki 3 
-
-- :eyes:  **[chore(deps): update traefik docker tag to v3.6.7](https://github.com/NethServer/ns8-loki/pull/49)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-01-16T23:47:54Z
-- :eyes:  **[chore(deps): update grafana/loki docker tag to v3.5.9](https://github.com/NethServer/ns8-loki/pull/48)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-01-16T23:47:49Z
-- :eyes: :zzz: **[chore(deps): update grafana/loki docker tag to v3.6.2](https://github.com/NethServer/ns8-loki/pull/46)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-11-19T12:45:21Z
 
 ### NethServer/ns8-traefik 1 
 
@@ -160,15 +154,6 @@ date = 2026-01-20
 - :eyes: :zzz: **[chore(deps): update dependency @carbon/icons-vue to v10.99.1](https://github.com/NethServer/ns8-passbolt/pull/39)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-12-09T14:57:59Z
 - :eyes: :zzz: **[chore(deps): update mariadb docker tag to v10.11.15](https://github.com/NethServer/ns8-passbolt/pull/38)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-12-09T14:57:44Z
 
-### NethServer/ns8-metrics 6 
-
-- :eyes:  **[chore(deps): update quay.io/prometheus/prometheus docker tag to v3.9.1](https://github.com/NethServer/ns8-metrics/pull/50)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-01-19T18:47:31Z
-- :eyes:  **[chore(deps): update python docker tag to v3.14.2](https://github.com/NethServer/ns8-metrics/pull/49)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-01-19T14:53:59Z
-- :eyes:  **[chore(deps): update grafana/grafana docker tag to v12.3.1](https://github.com/NethServer/ns8-metrics/pull/48)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-01-19T14:53:55Z
-- :eyes:  **[chore(deps): update python docker tag to v3.13.11](https://github.com/NethServer/ns8-metrics/pull/47)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-01-16T23:47:53Z
-- :eyes:  **[chore(deps): update grafana/grafana docker tag to v12.2.3](https://github.com/NethServer/ns8-metrics/pull/46)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-01-16T23:47:50Z
-- :eyes: :zzz: **[chore(deps): update quay.io/prometheus/alertmanager docker tag to v0.30.1](https://github.com/NethServer/ns8-metrics/pull/40)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-11-04T15:58:54Z
-
 ### NethServer/ns8-matrix 5 
 
 - :eyes: :zzz: **[chore(deps-dev): bump prettier from 2.3.2 to 3.7.4 in /ui](https://github.com/NethServer/ns8-matrix/pull/32)** by *dependabot[bot]* - Reviewers: *None* - Created at: 2025-12-15T06:32:39Z
@@ -204,12 +189,8 @@ date = 2026-01-20
 
 -  :zzz: **[Bump symfony/process from 3.1.7 to 5.4.46 in /root/var/www/html/freepbx/contatta](https://github.com/nethesis/contatta/pull/17)** by *dependabot[bot]* - Reviewers: *Stell0* - Created at: 2024-11-06T16:19:29Z
 
-### nethesis/falconieri 5 
+### nethesis/falconieri 1 
 
-- :eyes: :zzz: **[chore(deps): update github artifact actions (major)](https://github.com/nethesis/falconieri/pull/20)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-12-12T22:32:02Z
-- :eyes: :zzz: **[chore(deps): update softprops/action-gh-release action to v2](https://github.com/nethesis/falconieri/pull/19)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-11-26T22:41:37Z
-- :eyes: :zzz: **[chore(deps): update github/codeql-action action to v4](https://github.com/nethesis/falconieri/pull/18)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-11-26T22:41:34Z
-- :eyes: :zzz: **[chore(deps): update dependency ubuntu to v24](https://github.com/nethesis/falconieri/pull/16)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-11-26T19:02:10Z
 - :eyes: :zzz: **[fix(deps): update module github.com/gin-gonic/gin to v1.11.0](https://github.com/nethesis/falconieri/pull/13)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-11-26T09:01:28Z
 
 ### nethesis/nethserver-tancredi 1 
@@ -285,7 +266,7 @@ date = 2026-01-20
 - :eyes: :zzz: **[chore(deps): update docker/build-push-action action to v6](https://github.com/nethesis/matrix2acrobits/pull/8)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-12-10T17:40:28Z
 - :eyes: :zzz: **[chore(deps): update actions/setup-go action to v6](https://github.com/nethesis/matrix2acrobits/pull/7)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-12-10T17:40:25Z
 - :eyes: :zzz: **[chore(deps): update actions/checkout action to v6](https://github.com/nethesis/matrix2acrobits/pull/6)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-12-10T14:22:39Z
-- :eyes: :zzz: **[fix(deps): update module modernc.org/sqlite to v1.44.2](https://github.com/nethesis/matrix2acrobits/pull/5)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-12-10T14:22:34Z
+- :eyes: :zzz: **[fix(deps): update module modernc.org/sqlite to v1.44.3](https://github.com/nethesis/matrix2acrobits/pull/5)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-12-10T14:22:34Z
 - :eyes: :zzz: **[chore(deps): update golang docker tag to v1.25.6](https://github.com/nethesis/matrix2acrobits/pull/4)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-12-09T14:46:31Z
 - :eyes: :zzz: **[chore(deps): update dependency go to 1.25](https://github.com/nethesis/matrix2acrobits/pull/3)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-12-09T14:46:27Z
 
