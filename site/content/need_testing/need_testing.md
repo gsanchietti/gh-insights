@@ -1,6 +1,6 @@
 +++
-title = 'Need testing (9)'
-date = 2026-01-21
+title = 'Need testing (8)'
+date = 2026-01-22
 +++
 
 ## NethVoice
@@ -10,11 +10,10 @@ date = 2026-01-21
 - :point_right: **[NethCTI: Force 2FA activation prompt on first user login](https://github.com/NethServer/dev/issues/7709)** (#7709) by *viktec* (Created: 2025-10-30, Updated: 2026-01-19T17:14:26Z)
 
 ## NethServer
-- :point_right: **[Core components install random failure during create-cluster](https://github.com/NethServer/dev/issues/7780)** (#7709) by *DavidePrincipi* (Created: 2025-12-05, Updated: 2026-01-20T18:20:53Z)
 - :point_right: **[Upgrade Webtop dependencies (tracking issue)](https://github.com/NethServer/dev/issues/7763)** (#7709) by *stephdl* (Created: 2025-11-28, Updated: 2025-12-17T12:20:11Z)
 
 ## NethSecurity
-- **[Traffic data mismatch between controller and firewall](https://github.com/NethServer/nethsecurity/issues/1471)** (#1354) by *cotosso* (Created: 2026-01-14, Updated: 2026-01-15T14:01:02Z)
+- :point_right: **[Traffic data mismatch between controller and firewall](https://github.com/NethServer/nethsecurity/issues/1471)** (#1354) by *cotosso* (Created: 2026-01-14, Updated: 2026-01-15T14:01:02Z)
 - :point_right: **[Remove possible false positive detection from nginx](https://github.com/NethServer/nethsecurity/issues/1469)** (#1354) by *Tbaile* (Created: 2026-01-12, Updated: 2026-01-20T09:01:35Z)
 - :point_right: **[Reverse proxy: inconsistent behavior for default certificate](https://github.com/NethServer/nethsecurity/issues/1354)** (#1354) by *francio87* (Created: 2025-08-22, Updated: 2026-01-19T10:45:47Z)
 

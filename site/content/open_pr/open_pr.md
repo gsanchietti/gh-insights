@@ -1,26 +1,20 @@
 +++
 title = 'Open Pull Requests'
-date = 2026-01-21
+date = 2026-01-22
 +++
 
 ## Organization: nethserver
 
-### NethServer/ns8-core 2 
+### NethServer/ns8-core 1 
 
--   **[fix(list-nodes): handle Prometheus route prefix](https://github.com/NethServer/ns8-core/pull/1022)** by *DavidePrincipi* - Reviewers: *gsanchietti* - Created at: 2026-01-20T16:31:24Z
-- :eyes:  **[Install/Restore/Clone/Move with additional-volume support](https://github.com/NethServer/ns8-core/pull/1004)** by *stephdl* - Reviewers: *None* - Created at: 2026-01-07T17:11:26Z
-
-### NethServer/ns8-samba 1 
-
-- :eyes:  **[Add certificate management for samba dc](https://github.com/NethServer/ns8-samba/pull/175)** by *mrmarkuz* - Reviewers: *None* - Created at: 2026-01-14T15:38:47Z
+-   **[Install/Restore/Clone/Move with additional-volume support](https://github.com/NethServer/ns8-core/pull/1004)** by *stephdl* - Reviewers: *andre8244* - Created at: 2026-01-07T17:11:26Z
 
 ### NethServer/ns8-traefik 1 
 
 - :eyes: :zzz: **[fix: cryptography 45 deprecation warning](https://github.com/NethServer/ns8-traefik/pull/120)** by *DavidePrincipi* - Reviewers: *None* - Created at: 2025-10-28T08:48:29Z
 
-### NethServer/nethsecurity 2 
+### NethServer/nethsecurity 1 
 
-- :eyes:  **[feat(dpi): added additional logging when dpi blocks](https://github.com/NethServer/nethsecurity/pull/1482)** by *Tbaile* - Reviewers: *None* - Created at: 2026-01-20T09:21:52Z
 - :eyes: :zzz: **[build: added softflowd](https://github.com/NethServer/nethsecurity/pull/1453)** by *Tbaile* - Reviewers: *None* - Created at: 2025-12-10T11:48:14Z
 
 ### NethServer/ns8-nethsecurity-controller 1 
@@ -35,8 +29,9 @@ date = 2026-01-21
 
 - :eyes: :zzz: **[chore(master): release 1.5.1](https://github.com/NethServer/phonehome-server/pull/138)** by *Tbaile* - Reviewers: *None* - Created at: 2025-11-15T06:38:38Z
 
-### NethServer/ns8-docs 2 
+### NethServer/ns8-docs 3 
 
+-   **[Add documentation about OS certificate store](https://github.com/NethServer/ns8-docs/pull/216)** by *mrmarkuz* - Reviewers: *DavidePrincipi* - Created at: 2026-01-21T15:45:22Z
 - :eyes:  **[Manually run apply-vpn-routes ](https://github.com/NethServer/ns8-docs/pull/215)** by *DavidePrincipi* - Reviewers: *None* - Created at: 2026-01-15T17:00:49Z
 -   **[Add matrix documentation](https://github.com/NethServer/ns8-docs/pull/211)** by *mrmarkuz* - Reviewers: *gsanchietti* - Created at: 2025-12-23T15:07:05Z
 
@@ -44,6 +39,10 @@ date = 2026-01-21
 
 -   **[feat: added nginx removal of `server_tokens`](https://github.com/NethServer/nethsecurity-docs/pull/221)** by *Tbaile* - Reviewers: *cotosso* - Created at: 2026-01-15T11:23:43Z
 -  :zzz: **[fix(ha): update for beta2](https://github.com/NethServer/nethsecurity-docs/pull/208)** by *gsanchietti* - Reviewers: *filippocarletti* - Created at: 2025-10-02T10:43:05Z
+
+### NethServer/ns8-imapsync 1 
+
+- :eyes:  **[Fix cron task handling and add type selection](https://github.com/NethServer/ns8-imapsync/pull/66)** by *stephdl* - Reviewers: *None* - Created at: 2026-01-21T14:05:24Z
 
 ### NethServer/ns8-user-manager 1 
 
@@ -55,7 +54,7 @@ date = 2026-01-21
 
 ### NethServer/ns8-metrics 1 
 
--   **[fix(swap_full): false positives on inactive swap](https://github.com/NethServer/ns8-metrics/pull/51)** by *DavidePrincipi* - Reviewers: *gsanchietti* - Created at: 2026-01-20T17:30:47Z
+- :eyes:  **[fix(swap_full): false positives on inactive swap](https://github.com/NethServer/ns8-metrics/pull/51)** by *DavidePrincipi* - Reviewers: *None* - Created at: 2026-01-20T17:30:47Z
 
 ### NethServer/nethvoice-docs 1 
 
@@ -75,13 +74,15 @@ date = 2026-01-21
 
 -  :zzz: **[Removed old notification service usage](https://github.com/nethesis/nethcti-app-iphone/pull/37)** by *NicolaMrAPPs* - Reviewers: *b9874e* - Created at: 2023-08-02T09:19:30Z
 
-### nethesis/tancredi 1 
+### nethesis/tancredi 3 
 
+- :eyes:  **[Add new Gigaset phones](https://github.com/nethesis/tancredi/pull/346)** by *andrea-marchionni* - Reviewers: *None* - Created at: 2026-01-21T11:23:33Z
+- :eyes:  **[Add new Snom model snom-D335 snom-D810 snom-D892](https://github.com/nethesis/tancredi/pull/345)** by *andrea-marchionni* - Reviewers: *None* - Created at: 2026-01-21T10:01:19Z
 - :eyes:  **[Add pattern for fanvil 00-A8-5A MAC address](https://github.com/nethesis/tancredi/pull/344)** by *Stell0* - Reviewers: *None* - Created at: 2026-01-16T11:09:20Z
 
 ### nethesis/ns8-nethvoice 6 
 
-- :eyes:  **[Update bosssecretary module version in Containerfile](https://github.com/nethesis/ns8-nethvoice/pull/665)** by *Stell0* - Reviewers: *None* - Created at: 2026-01-20T15:11:12Z
+-   **[Add new Gigaset mac addresses](https://github.com/nethesis/ns8-nethvoice/pull/667)** by *Stell0* - Reviewers: *Amygos* - Created at: 2026-01-21T15:24:21Z
 -  :zzz: **[Matrix integration](https://github.com/nethesis/ns8-nethvoice/pull/627)** by *gsanchietti* - Reviewers: *Amygos* - Created at: 2025-12-10T11:32:50Z
 - :eyes: :zzz: **[fix: new user-domain-changed event format](https://github.com/nethesis/ns8-nethvoice/pull/626)** by *DavidePrincipi* - Reviewers: *None* - Created at: 2025-12-09T14:46:42Z
 - :eyes: :zzz: **[Import CSV with admin APIs](https://github.com/nethesis/ns8-nethvoice/pull/617)** by *gsanchietti* - Reviewers: *None* - Created at: 2025-11-26T14:37:01Z
