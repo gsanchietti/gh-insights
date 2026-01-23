@@ -1,20 +1,24 @@
 +++
 title = 'Open Pull Requests'
-date = 2026-01-22
+date = 2026-01-23
 +++
 
 ## Organization: nethserver
 
-### NethServer/ns8-core 1 
+### NethServer/ns8-core 3 
 
+-   **[Improve layout for Domain Configuration and Users/Groups components](https://github.com/NethServer/ns8-core/pull/1032)** by *stephdl* - Reviewers: *andre8244* - Created at: 2026-01-22T16:58:50Z
+- :eyes:  **[Display placeholder in NodeCard when no applications are available](https://github.com/NethServer/ns8-core/pull/1028)** by *stephdl* - Reviewers: *None* - Created at: 2026-01-22T09:53:24Z
 -   **[Install/Restore/Clone/Move with additional-volume support](https://github.com/NethServer/ns8-core/pull/1004)** by *stephdl* - Reviewers: *andre8244* - Created at: 2026-01-07T17:11:26Z
 
 ### NethServer/ns8-traefik 1 
 
 - :eyes: :zzz: **[fix: cryptography 45 deprecation warning](https://github.com/NethServer/ns8-traefik/pull/120)** by *DavidePrincipi* - Reviewers: *None* - Created at: 2025-10-28T08:48:29Z
 
-### NethServer/nethsecurity 1 
+### NethServer/nethsecurity 3 
 
+-   **[HA: check device length](https://github.com/NethServer/nethsecurity/pull/1487)** by *gsanchietti* - Reviewers: *Tbaile* - Created at: 2026-01-22T15:33:02Z
+-   **[IPSec: multiple improvements](https://github.com/NethServer/nethsecurity/pull/1485)** by *gsanchietti* - Reviewers: *Tbaile* - Created at: 2026-01-21T08:07:51Z
 - :eyes: :zzz: **[build: added softflowd](https://github.com/NethServer/nethsecurity/pull/1453)** by *Tbaile* - Reviewers: *None* - Created at: 2025-12-10T11:48:14Z
 
 ### NethServer/ns8-nethsecurity-controller 1 
@@ -29,20 +33,19 @@ date = 2026-01-22
 
 - :eyes: :zzz: **[chore(master): release 1.5.1](https://github.com/NethServer/phonehome-server/pull/138)** by *Tbaile* - Reviewers: *None* - Created at: 2025-11-15T06:38:38Z
 
-### NethServer/ns8-docs 3 
+### NethServer/ns8-docs 2 
 
--   **[Add documentation about OS certificate store](https://github.com/NethServer/ns8-docs/pull/216)** by *mrmarkuz* - Reviewers: *DavidePrincipi* - Created at: 2026-01-21T15:45:22Z
+- :eyes:  **[Add documentation about OS certificate store](https://github.com/NethServer/ns8-docs/pull/216)** by *mrmarkuz* - Reviewers: *None* - Created at: 2026-01-21T15:45:22Z
 - :eyes:  **[Manually run apply-vpn-routes ](https://github.com/NethServer/ns8-docs/pull/215)** by *DavidePrincipi* - Reviewers: *None* - Created at: 2026-01-15T17:00:49Z
--   **[Add matrix documentation](https://github.com/NethServer/ns8-docs/pull/211)** by *mrmarkuz* - Reviewers: *gsanchietti* - Created at: 2025-12-23T15:07:05Z
+
+### NethServer/nethsecurity-ui 1 
+
+-   **[feat: multiple IPsec improvements](https://github.com/NethServer/nethsecurity-ui/pull/676)** by *gsanchietti* - Reviewers: *Tbaile* - Created at: 2026-01-21T16:09:54Z
 
 ### NethServer/nethsecurity-docs 2 
 
 -   **[feat: added nginx removal of `server_tokens`](https://github.com/NethServer/nethsecurity-docs/pull/221)** by *Tbaile* - Reviewers: *cotosso* - Created at: 2026-01-15T11:23:43Z
 -  :zzz: **[fix(ha): update for beta2](https://github.com/NethServer/nethsecurity-docs/pull/208)** by *gsanchietti* - Reviewers: *filippocarletti* - Created at: 2025-10-02T10:43:05Z
-
-### NethServer/ns8-imapsync 1 
-
-- :eyes:  **[Fix cron task handling and add type selection](https://github.com/NethServer/ns8-imapsync/pull/66)** by *stephdl* - Reviewers: *None* - Created at: 2026-01-21T14:05:24Z
 
 ### NethServer/ns8-user-manager 1 
 
@@ -52,13 +55,18 @@ date = 2026-01-22
 
 - :eyes:  **[Use runagent instead of ssh in README](https://github.com/NethServer/ns8-sogo/pull/56)** by *mrmarkuz* - Reviewers: *None* - Created at: 2026-01-13T08:27:57Z
 
-### NethServer/ns8-metrics 1 
-
-- :eyes:  **[fix(swap_full): false positives on inactive swap](https://github.com/NethServer/ns8-metrics/pull/51)** by *DavidePrincipi* - Reviewers: *None* - Created at: 2026-01-20T17:30:47Z
-
 ### NethServer/nethvoice-docs 1 
 
 -   **[feat: add voicemail-prune](https://github.com/NethServer/nethvoice-docs/pull/35)** by *gsanchietti* - Reviewers: *mgarra* - Created at: 2026-01-20T14:30:10Z
+
+### NethServer/ns8-rustfs 2 
+
+- :eyes:  **[Refactor settings and password handling](https://github.com/NethServer/ns8-rustfs/pull/7)** by *stephdl* - Reviewers: *None* - Created at: 2026-01-22T16:00:26Z
+- :eyes:  **[Improve backend](https://github.com/NethServer/ns8-rustfs/pull/6)** by *mrmarkuz* - Reviewers: *None* - Created at: 2026-01-22T13:29:58Z
+
+### NethServer/nethsecurity-monitoring 1 
+
+- :eyes:  **[chore(main): release 1.0.0](https://github.com/NethServer/nethsecurity-monitoring/pull/5)** by *Tbaile* - Reviewers: *None* - Created at: 2026-01-22T13:43:47Z
 
 ## Organization: nethesis
 
@@ -82,11 +90,11 @@ date = 2026-01-22
 
 ### nethesis/ns8-nethvoice 6 
 
+-   **[feat(systemd): add ExecStartPost in reports-api to fill redis cache](https://github.com/nethesis/ns8-nethvoice/pull/668)** by *tommaso-ascani* - Reviewers: *Amygos* - Created at: 2026-01-22T10:25:36Z
 -   **[Add new Gigaset mac addresses](https://github.com/nethesis/ns8-nethvoice/pull/667)** by *Stell0* - Reviewers: *Amygos* - Created at: 2026-01-21T15:24:21Z
 -  :zzz: **[Matrix integration](https://github.com/nethesis/ns8-nethvoice/pull/627)** by *gsanchietti* - Reviewers: *Amygos* - Created at: 2025-12-10T11:32:50Z
 - :eyes: :zzz: **[fix: new user-domain-changed event format](https://github.com/nethesis/ns8-nethvoice/pull/626)** by *DavidePrincipi* - Reviewers: *None* - Created at: 2025-12-09T14:46:42Z
 - :eyes: :zzz: **[Import CSV with admin APIs](https://github.com/nethesis/ns8-nethvoice/pull/617)** by *gsanchietti* - Reviewers: *None* - Created at: 2025-11-26T14:37:01Z
--  :zzz: **[Transcription at the end of a call](https://github.com/nethesis/ns8-nethvoice/pull/606)** by *Stell0* - Reviewers: *Amygos, edospadoni* - Created at: 2025-11-20T11:16:26Z
 -  :zzz: **[enhancement(freepbx): Don't slow down system at reboot](https://github.com/nethesis/ns8-nethvoice/pull/605)** by *Stell0* - Reviewers: *Amygos, DavidePrincipi* - Created at: 2025-11-19T14:40:39Z
 
 ### nethesis/ns8-nethvoice-proxy 3 
@@ -110,10 +118,6 @@ date = 2026-01-22
 ### nethesis/parceler 1 
 
 - :eyes:  **[chore(main): release 1.3.1](https://github.com/nethesis/parceler/pull/145)** by *Tbaile* - Reviewers: *None* - Created at: 2026-01-14T15:22:43Z
-
-### nethesis/satellite 1 
-
--  :zzz: **[feature(api): diarized transcription api](https://github.com/nethesis/satellite/pull/4)** by *Stell0* - Reviewers: *Amygos, edospadoni* - Created at: 2025-09-19T07:28:04Z
 
 ### nethesis/nethcti-middleware 1 
 
