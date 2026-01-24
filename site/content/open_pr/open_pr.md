@@ -1,24 +1,30 @@
 +++
 title = 'Open Pull Requests'
-date = 2026-01-23
+date = 2026-01-24
 +++
 
 ## Organization: nethserver
 
-### NethServer/ns8-core 3 
+### NethServer/ns8-core 4 
 
+- :eyes:  **[Add Python 3.13 support and Debian 13 compatibility](https://github.com/NethServer/ns8-core/pull/1038)** by *stephdl* - Reviewers: *None* - Created at: 2026-01-23T07:53:56Z
+- :eyes:  **[feat: extend phonehome facts with pseudonymization](https://github.com/NethServer/ns8-core/pull/1034)** by *DavidePrincipi* - Reviewers: *None* - Created at: 2026-01-22T18:44:06Z
 -   **[Improve layout for Domain Configuration and Users/Groups components](https://github.com/NethServer/ns8-core/pull/1032)** by *stephdl* - Reviewers: *andre8244* - Created at: 2026-01-22T16:58:50Z
-- :eyes:  **[Display placeholder in NodeCard when no applications are available](https://github.com/NethServer/ns8-core/pull/1028)** by *stephdl* - Reviewers: *None* - Created at: 2026-01-22T09:53:24Z
--   **[Install/Restore/Clone/Move with additional-volume support](https://github.com/NethServer/ns8-core/pull/1004)** by *stephdl* - Reviewers: *andre8244* - Created at: 2026-01-07T17:11:26Z
+- :eyes:  **[Install/Restore/Clone/Move with additional-volume support](https://github.com/NethServer/ns8-core/pull/1004)** by *stephdl* - Reviewers: *None* - Created at: 2026-01-07T17:11:26Z
 
-### NethServer/ns8-traefik 1 
+### NethServer/ns8-traefik 2 
 
+-   **[fix(get-facts): pseudo-facts with core library](https://github.com/NethServer/ns8-traefik/pull/124)** by *DavidePrincipi* - Reviewers: *gsanchietti* - Created at: 2026-01-23T17:49:53Z
 - :eyes: :zzz: **[fix: cryptography 45 deprecation warning](https://github.com/NethServer/ns8-traefik/pull/120)** by *DavidePrincipi* - Reviewers: *None* - Created at: 2025-10-28T08:48:29Z
+
+### NethServer/ns8-terraform-infra 1 
+
+- :eyes:  **[feat: run tests on Debian 13 (Trixie)](https://github.com/NethServer/ns8-terraform-infra/pull/6)** by *DavidePrincipi* - Reviewers: *None* - Created at: 2026-01-23T09:56:16Z
 
 ### NethServer/nethsecurity 3 
 
--   **[HA: check device length](https://github.com/NethServer/nethsecurity/pull/1487)** by *gsanchietti* - Reviewers: *Tbaile* - Created at: 2026-01-22T15:33:02Z
--   **[IPSec: multiple improvements](https://github.com/NethServer/nethsecurity/pull/1485)** by *gsanchietti* - Reviewers: *Tbaile* - Created at: 2026-01-21T08:07:51Z
+- :eyes:  **[HA: check device length](https://github.com/NethServer/nethsecurity/pull/1487)** by *gsanchietti* - Reviewers: *None* - Created at: 2026-01-22T15:33:02Z
+- :eyes:  **[IPSec: multiple improvements](https://github.com/NethServer/nethsecurity/pull/1485)** by *gsanchietti* - Reviewers: *None* - Created at: 2026-01-21T08:07:51Z
 - :eyes: :zzz: **[build: added softflowd](https://github.com/NethServer/nethsecurity/pull/1453)** by *Tbaile* - Reviewers: *None* - Created at: 2025-12-10T11:48:14Z
 
 ### NethServer/ns8-nethsecurity-controller 1 
@@ -40,7 +46,7 @@ date = 2026-01-23
 
 ### NethServer/nethsecurity-ui 1 
 
--   **[feat: multiple IPsec improvements](https://github.com/NethServer/nethsecurity-ui/pull/676)** by *gsanchietti* - Reviewers: *Tbaile* - Created at: 2026-01-21T16:09:54Z
+- :eyes:  **[feat: multiple IPsec improvements](https://github.com/NethServer/nethsecurity-ui/pull/676)** by *gsanchietti* - Reviewers: *None* - Created at: 2026-01-21T16:09:54Z
 
 ### NethServer/nethsecurity-docs 2 
 
@@ -55,9 +61,13 @@ date = 2026-01-23
 
 - :eyes:  **[Use runagent instead of ssh in README](https://github.com/NethServer/ns8-sogo/pull/56)** by *mrmarkuz* - Reviewers: *None* - Created at: 2026-01-13T08:27:57Z
 
+### NethServer/ns8-nethforge 1 
+
+-   **[Add logo, metadata, and screenshot for the lamp project](https://github.com/NethServer/ns8-nethforge/pull/35)** by *stephdl* - Reviewers: *DavidePrincipi* - Created at: 2026-01-23T14:17:30Z
+
 ### NethServer/nethvoice-docs 1 
 
--   **[feat: add voicemail-prune](https://github.com/NethServer/nethvoice-docs/pull/35)** by *gsanchietti* - Reviewers: *mgarra* - Created at: 2026-01-20T14:30:10Z
+-   **[feat: voicemail and registration prune](https://github.com/NethServer/nethvoice-docs/pull/35)** by *gsanchietti* - Reviewers: *mgarra* - Created at: 2026-01-20T14:30:10Z
 
 ### NethServer/ns8-rustfs 2 
 
@@ -90,7 +100,7 @@ date = 2026-01-23
 
 ### nethesis/ns8-nethvoice 6 
 
--   **[feat(systemd): add ExecStartPost in reports-api to fill redis cache](https://github.com/nethesis/ns8-nethvoice/pull/668)** by *tommaso-ascani* - Reviewers: *Amygos* - Created at: 2026-01-22T10:25:36Z
+- :eyes:  **[feat(systemd): add ExecStartPost in reports-api to fill redis cache](https://github.com/nethesis/ns8-nethvoice/pull/668)** by *tommaso-ascani* - Reviewers: *None* - Created at: 2026-01-22T10:25:36Z
 -   **[Add new Gigaset mac addresses](https://github.com/nethesis/ns8-nethvoice/pull/667)** by *Stell0* - Reviewers: *Amygos* - Created at: 2026-01-21T15:24:21Z
 -  :zzz: **[Matrix integration](https://github.com/nethesis/ns8-nethvoice/pull/627)** by *gsanchietti* - Reviewers: *Amygos* - Created at: 2025-12-10T11:32:50Z
 - :eyes: :zzz: **[fix: new user-domain-changed event format](https://github.com/nethesis/ns8-nethvoice/pull/626)** by *DavidePrincipi* - Reviewers: *None* - Created at: 2025-12-09T14:46:42Z

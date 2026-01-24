@@ -1,6 +1,6 @@
 +++
 title = 'Open Pull Requests by Bots'
-date = 2026-01-23
+date = 2026-01-24
 +++
 
 ## Organization: nethserver
@@ -18,16 +18,16 @@ date = 2026-01-23
 
 ### NethServer/ns8-core 10 
 
-- :eyes:  **[chore(deps): update golang docker tag to v1.25.6](https://github.com/NethServer/ns8-core/pull/1037)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-01-23T02:02:35Z
-- :eyes:  **[chore(deps): update dependency webrick to v1.9.2](https://github.com/NethServer/ns8-core/pull/1036)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-01-23T02:02:31Z
-- :eyes:  **[chore(deps): update dependency vue-router to v3.5.4](https://github.com/NethServer/ns8-core/pull/1035)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-01-22T20:50:07Z
-- :eyes:  **[chore(deps): update dependency vue-i18n to v8.26.8](https://github.com/NethServer/ns8-core/pull/1033)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-01-22T17:18:28Z
-- :eyes:  **[chore(deps): update dependency vue-gallery to v2.0.5](https://github.com/NethServer/ns8-core/pull/1031)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-01-22T15:54:26Z
-- :eyes:  **[chore(deps): update dependency vue-debounce to v3.0.2](https://github.com/NethServer/ns8-core/pull/1029)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-01-22T09:58:41Z
+- :eyes:  **[chore(deps): update dependency @carbon/themes to v10.55.6](https://github.com/NethServer/ns8-core/pull/1048)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-01-24T02:16:15Z
+- :eyes:  **[chore(deps): update dependency @carbon/icons-vue to v10.99.1](https://github.com/NethServer/ns8-core/pull/1047)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-01-23T22:08:21Z
+- :eyes:  **[chore(deps): update dependency @carbon/grid to v10.43.5](https://github.com/NethServer/ns8-core/pull/1046)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-01-23T22:07:12Z
+- :eyes:  **[chore(deps): update alpine docker tag to v3.23.2](https://github.com/NethServer/ns8-core/pull/1045)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-01-23T20:16:18Z
+- :eyes:  **[fix(deps): update module github.com/spf13/cobra to v1.8.1](https://github.com/NethServer/ns8-core/pull/1044)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-01-23T20:16:13Z
+- :eyes:  **[fix(deps): update module github.com/olahol/melody to v1.1.5](https://github.com/NethServer/ns8-core/pull/1043)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-01-23T12:23:00Z
+- :eyes:  **[fix(deps): update module github.com/mattn/go-sqlite3 to v1.14.33](https://github.com/NethServer/ns8-core/pull/1042)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-01-23T12:22:54Z
+- :eyes:  **[fix(deps): update module github.com/gin-contrib/static to v1.1.5](https://github.com/NethServer/ns8-core/pull/1041)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-01-23T10:22:55Z
+- :eyes:  **[fix(deps): update module github.com/appleboy/gin-jwt/v2 to v2.9.2](https://github.com/NethServer/ns8-core/pull/1040)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-01-23T10:17:02Z
 - :eyes:  **[chore(deps): replace dependency babel-eslint with @babel/eslint-parser ^7.11.0](https://github.com/NethServer/ns8-core/pull/1016)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-01-17T00:55:19Z
-- :eyes:  **[fix(deps): update module github.com/gin-contrib/cors to v1.6.0 [security]](https://github.com/NethServer/ns8-core/pull/1015)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-01-16T23:54:08Z
-- :eyes:  **[chore(deps): update module golang.org/x/crypto to v0.45.0 [security]](https://github.com/NethServer/ns8-core/pull/1013)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-01-16T23:53:44Z
-- :eyes:  **[chore(deps): update module github.com/golang-jwt/jwt/v4 to v4.5.2 [security]](https://github.com/NethServer/ns8-core/pull/1012)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-01-16T23:53:33Z
 
 ### NethServer/ns8-dokuwiki 1 
 
@@ -134,9 +134,14 @@ date = 2026-01-23
 
 - :eyes:  **[chore(deps): update dependency sass to v1.97.3](https://github.com/NethServer/ns8-netdata/pull/63)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-01-21T14:42:22Z
 
-### NethServer/ns8-passbolt 5 
+### NethServer/ns8-lamp 3 
 
-- :eyes:  **[chore(deps): update node.js to v24](https://github.com/NethServer/ns8-passbolt/pull/51)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-01-22T14:11:56Z
+- :eyes:  **[Update dependency sass to v1.97.3](https://github.com/NethServer/ns8-lamp/pull/75)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-01-22T01:30:00Z
+- :eyes:  **[Update dependency core-js to v3.48.0](https://github.com/NethServer/ns8-lamp/pull/74)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-01-21T18:28:19Z
+- :eyes:  **[Update dependency vue-template-compiler to v2.7.16](https://github.com/NethServer/ns8-lamp/pull/66)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-01-01T06:30:35Z
+
+### NethServer/ns8-passbolt 4 
+
 - :eyes: :zzz: **[chore(deps): update mariadb docker tag to v12](https://github.com/NethServer/ns8-passbolt/pull/49)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-12-09T15:00:04Z
 - :eyes: :zzz: **[chore(deps): update dependency sass to v1.97.3](https://github.com/NethServer/ns8-passbolt/pull/44)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-12-09T14:59:09Z
 - :eyes: :zzz: **[chore(deps): update dependency @carbon/vue to v2.45.1](https://github.com/NethServer/ns8-passbolt/pull/40)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-12-09T14:58:14Z
@@ -181,6 +186,10 @@ date = 2026-01-23
 ### nethesis/contatta 1 
 
 -  :zzz: **[Bump symfony/process from 3.1.7 to 5.4.46 in /root/var/www/html/freepbx/contatta](https://github.com/nethesis/contatta/pull/17)** by *dependabot[bot]* - Reviewers: *Stell0* - Created at: 2024-11-06T16:19:29Z
+
+### nethesis/tancredi 1 
+
+- :eyes:  **[chore(deps): update dependency twig/twig to v3.23.0](https://github.com/nethesis/tancredi/pull/348)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-01-23T22:44:07Z
 
 ### nethesis/nethserver-tancredi 1 
 
