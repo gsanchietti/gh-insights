@@ -1,6 +1,6 @@
 +++
 title = 'Open Pull Requests by Bots'
-date = 2026-01-24
+date = 2026-01-25
 +++
 
 ## Organization: nethserver
@@ -18,15 +18,15 @@ date = 2026-01-24
 
 ### NethServer/ns8-core 10 
 
+- :eyes:  **[chore(deps): update dependency prettier to v2.8.8](https://github.com/NethServer/ns8-core/pull/1054)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-01-25T02:14:00Z
+- :eyes:  **[chore(deps): update dependency go to v1.25.6](https://github.com/NethServer/ns8-core/pull/1053)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-01-24T22:15:09Z
+- :eyes:  **[chore(deps): update dependency core-js to v3.48.0](https://github.com/NethServer/ns8-core/pull/1052)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-01-24T16:45:19Z
+- :eyes:  **[chore(deps): update dependency carbon-components to v10.58.15](https://github.com/NethServer/ns8-core/pull/1051)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-01-24T12:45:13Z
+- :eyes:  **[chore(deps): update dependency @carbon/vue to v2.45.1](https://github.com/NethServer/ns8-core/pull/1049)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-01-24T06:06:46Z
 - :eyes:  **[chore(deps): update dependency @carbon/themes to v10.55.6](https://github.com/NethServer/ns8-core/pull/1048)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-01-24T02:16:15Z
 - :eyes:  **[chore(deps): update dependency @carbon/icons-vue to v10.99.1](https://github.com/NethServer/ns8-core/pull/1047)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-01-23T22:08:21Z
 - :eyes:  **[chore(deps): update dependency @carbon/grid to v10.43.5](https://github.com/NethServer/ns8-core/pull/1046)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-01-23T22:07:12Z
 - :eyes:  **[chore(deps): update alpine docker tag to v3.23.2](https://github.com/NethServer/ns8-core/pull/1045)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-01-23T20:16:18Z
-- :eyes:  **[fix(deps): update module github.com/spf13/cobra to v1.8.1](https://github.com/NethServer/ns8-core/pull/1044)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-01-23T20:16:13Z
-- :eyes:  **[fix(deps): update module github.com/olahol/melody to v1.1.5](https://github.com/NethServer/ns8-core/pull/1043)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-01-23T12:23:00Z
-- :eyes:  **[fix(deps): update module github.com/mattn/go-sqlite3 to v1.14.33](https://github.com/NethServer/ns8-core/pull/1042)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-01-23T12:22:54Z
-- :eyes:  **[fix(deps): update module github.com/gin-contrib/static to v1.1.5](https://github.com/NethServer/ns8-core/pull/1041)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-01-23T10:22:55Z
-- :eyes:  **[fix(deps): update module github.com/appleboy/gin-jwt/v2 to v2.9.2](https://github.com/NethServer/ns8-core/pull/1040)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-01-23T10:17:02Z
 - :eyes:  **[chore(deps): replace dependency babel-eslint with @babel/eslint-parser ^7.11.0](https://github.com/NethServer/ns8-core/pull/1016)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-01-17T00:55:19Z
 
 ### NethServer/ns8-dokuwiki 1 
