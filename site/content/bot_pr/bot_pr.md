@@ -1,6 +1,6 @@
 +++
 title = 'Open Pull Requests by Bots'
-date = 2026-01-25
+date = 2026-01-26
 +++
 
 ## Organization: nethserver
@@ -219,12 +219,18 @@ date = 2026-01-25
 -  :zzz: **[chore(deps): update docker.io/library/golang docker tag to v1.25.6](https://github.com/nethesis/ns8-nethvoice/pull/563)** by *renovate[bot]* - Reviewers: *edospadoni* - Created at: 2025-10-16T01:44:45Z
 -  :zzz: **[chore(deps): update docker.io/library/alpine docker tag to v3.22.2](https://github.com/nethesis/ns8-nethvoice/pull/562)** by *renovate[bot]* - Reviewers: *Amygos, edospadoni* - Created at: 2025-10-16T01:44:42Z
 
-### nethesis/nethvoice-cti 1 
+### nethesis/nethvoice-cti 5 
 
+- :eyes:  **[chore(deps): update dependency @babel/runtime to v7.28.6](https://github.com/nethesis/nethvoice-cti/pull/388)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-01-26T04:40:56Z
+- :eyes:  **[chore(deps): update dependency @babel/core to v7.28.6](https://github.com/nethesis/nethvoice-cti/pull/387)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-01-26T04:40:47Z
+- :eyes:  **[chore(deps): update aquasecurity/trivy-action action to v0.33.1](https://github.com/nethesis/nethvoice-cti/pull/386)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-01-26T00:48:42Z
+- :eyes:  **[chore(deps): update dependency tailwindcss to v3.4.19](https://github.com/nethesis/nethvoice-cti/pull/385)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-01-26T00:48:35Z
 - :eyes:  **[chore(deps): update dependency lodash to v4.17.23 [security]](https://github.com/nethesis/nethvoice-cti/pull/384)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-01-22T05:16:17Z
 
-### nethesis/phone-island 1 
+### nethesis/phone-island 3 
 
+- :eyes:  **[chore(deps): update dependency prettier to v2.8.8](https://github.com/nethesis/phone-island/pull/155)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-01-26T02:15:57Z
+- :eyes:  **[chore(deps): update dependency @types/audioworklet to ^0.0.93](https://github.com/nethesis/phone-island/pull/154)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-01-26T02:15:45Z
 - :eyes:  **[chore(deps): update dependency lodash to v4.17.23 [security]](https://github.com/nethesis/phone-island/pull/152)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-01-22T05:38:33Z
 
 ### nethesis/ns8-nethvoice-proxy 10 
