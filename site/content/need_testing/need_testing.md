@@ -1,6 +1,6 @@
 +++
-title = 'Need testing (7)'
-date = 2026-01-26
+title = 'Need testing (9)'
+date = 2026-01-27
 +++
 
 ## NethServer
@@ -12,7 +12,9 @@ date = 2026-01-26
 - :point_right: **[Tancredi needs ❤️ too](https://github.com/NethServer/dev/issues/7779)** (#7763) by *Stell0* (Created: 2025-12-05, Updated: 2026-01-13T15:15:55Z)
 
 ## NethSecurity
-- :point_right: **[Traffic data mismatch between controller and firewall](https://github.com/NethServer/nethsecurity/issues/1471)** (#1354) by *cotosso* (Created: 2026-01-14, Updated: 2026-01-15T14:01:02Z)
-- :point_right: **[Remove possible false positive detection from nginx](https://github.com/NethServer/nethsecurity/issues/1469)** (#1354) by *Tbaile* (Created: 2026-01-12, Updated: 2026-01-20T09:01:35Z)
-- :point_right: **[Reverse proxy: inconsistent behavior for default certificate](https://github.com/NethServer/nethsecurity/issues/1354)** (#1354) by *francio87* (Created: 2025-08-22, Updated: 2026-01-19T10:45:47Z)
+- :point_right: **[HA firewall cannot manage interfaces with long bond names](https://github.com/NethServer/nethsecurity/issues/1478)** (#1425) by *cotosso* (Created: 2026-01-16, Updated: 2026-01-26T10:26:14Z)
+- :point_right: **[Traffic data mismatch between controller and firewall](https://github.com/NethServer/nethsecurity/issues/1471)** (#1425) by *cotosso* (Created: 2026-01-14, Updated: 2026-01-15T14:01:02Z)
+- :point_right: **[Support close_action option for IPsec tunnels](https://github.com/NethServer/nethsecurity/issues/1460)** (#1425) by *cotosso* (Created: 2025-12-29, Updated: 2026-01-26T12:29:53Z)
+- :point_right: **[Improve IPsec status visibility for multi-network tunnels](https://github.com/NethServer/nethsecurity/issues/1430)** (#1425) by *cotosso* (Created: 2025-11-14, Updated: 2026-01-26T12:02:30Z)
+- :point_right: **[IPsec: UI edit causes tunnel to not be generated correctly](https://github.com/NethServer/nethsecurity/issues/1425)** (#1425) by *Tbaile* (Created: 2025-11-13, Updated: 2026-01-26T10:38:06Z)
 
