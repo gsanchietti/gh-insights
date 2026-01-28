@@ -1,13 +1,16 @@
 +++
-title = 'Need testing (9)'
-date = 2026-01-27
+title = 'Need testing (12)'
+date = 2026-01-28
 +++
 
 ## NethServer
-- :point_right: **[Apply TLS certificates to Samba DC](https://github.com/NethServer/dev/issues/7818)** (#7763) by *DavidePrincipi* (Created: 2026-01-14, Updated: 2026-01-23T07:20:34Z)
+- **[Samba DC restore fails with same VPN IP address](https://github.com/NethServer/dev/issues/7835)** (#7763) by *DavidePrincipi* (Created: 2026-01-26, Updated: 2026-01-27T15:38:22Z)
+- **[Samba DC restore fails with empty TimescaleDB](https://github.com/NethServer/dev/issues/7834)** (#7763) by *DavidePrincipi* (Created: 2026-01-26, Updated: 2026-01-27T16:30:57Z)
 - :point_right: **[Upgrade Webtop dependencies (tracking issue)](https://github.com/NethServer/dev/issues/7763)** (#7763) by *stephdl* (Created: 2025-11-28, Updated: 2025-12-17T12:20:11Z)
 
 ## NethVoice
+- :point_right: **[NethVoice reports show no data – scheduled task runs without errors, filters return 404](https://github.com/NethServer/dev/issues/7820)** (#7763) by *andrea-marchionni* (Created: 2026-01-15, Updated: 2026-01-27T08:06:11Z)
+- :point_right: **[NethVoice CTI: Deepgram call transcription does not work for outgoing external calls](https://github.com/NethServer/dev/issues/7795)** (#7763) by *mgarra* (Created: 2025-12-19, Updated: 2026-01-27T14:34:02Z)
 - :point_right: **[NethVoice: Masking of the last three digits of calls in PBX reports for users with privacy enabled](https://github.com/NethServer/dev/issues/7781)** (#7763) by *viktec* (Created: 2025-12-05, Updated: 2026-01-14T10:46:45Z)
 - :point_right: **[Tancredi needs ❤️ too](https://github.com/NethServer/dev/issues/7779)** (#7763) by *Stell0* (Created: 2025-12-05, Updated: 2026-01-13T15:15:55Z)
 

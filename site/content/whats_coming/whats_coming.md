@@ -2,13 +2,15 @@
 
 title = 'To be released soon'
 
-date = 2026-01-27
+date = 2026-01-28
 
 +++
 
 ### NethServer
 
 - [Unify community and enterprise inventories with sensitive data obfuscation](https://github.com/NethServer/dev/issues/7829) (#7608) by edospadoni (Created: 2026-01-21T13:24:07Z, Updated: 2026-01-26T15:54:48Z)
+
+- [Apply TLS certificates to Samba DC](https://github.com/NethServer/dev/issues/7818) (#7608) by DavidePrincipi (Created: 2026-01-14T11:35:58Z, Updated: 2026-01-27T13:52:31Z)
 
 - [Offline worker after power outage](https://github.com/NethServer/dev/issues/7806) (#7608) by DavidePrincipi (Created: 2026-01-09T09:27:19Z, Updated: 2026-01-20T17:40:28Z)
 
@@ -25,6 +27,8 @@ date = 2026-01-27
 - [NethCTI: Force 2FA activation prompt on first user login](https://github.com/NethServer/dev/issues/7709) (#7608) by viktec (Created: 2025-10-30T14:02:44Z, Updated: 2026-01-23T13:42:02Z)
 
 ### NethSecurity
+
+- [OpenVPN Road Warrior UI blocks configuration when /etc/openvpn/ns_roadwarrior1/pki/issued/ exists](https://github.com/NethServer/nethsecurity/issues/1492) (#1354) by gsanchietti (Created: 2026-01-27T13:37:41Z, Updated: 2026-01-27T14:42:28Z)
 
 - [Remove possible false positive detection from nginx](https://github.com/NethServer/nethsecurity/issues/1469) (#1354) by Tbaile (Created: 2026-01-12T10:58:16Z, Updated: 2026-01-26T11:26:52Z)
 

@@ -1,14 +1,9 @@
 +++
 title = 'Open Pull Requests'
-date = 2026-01-27
+date = 2026-01-28
 +++
 
 ## Organization: nethserver
-
-### NethServer/ns8-core 2 
-
-- :eyes:  **[Improve layout for Domain Configuration and Users/Groups components](https://github.com/NethServer/ns8-core/pull/1032)** by *stephdl* - Reviewers: *None* - Created at: 2026-01-22T16:58:50Z
--   **[Install/Restore/Clone/Move with additional-volume support](https://github.com/NethServer/ns8-core/pull/1004)** by *stephdl* - Reviewers: *andre8244* - Created at: 2026-01-07T17:11:26Z
 
 ### NethServer/ns8-traefik 1 
 
@@ -20,7 +15,7 @@ date = 2026-01-27
 
 ### NethServer/nethsecurity 2 
 
--   **[feat(openvpn-tunnel): update certs duration and add certs regeneration functionality](https://github.com/NethServer/nethsecurity/pull/1490)** by *m-dilorenzi* - Reviewers: *Tbaile* - Created at: 2026-01-26T12:38:41Z
+- :eyes:  **[feat(openvpn-tunnel): update certs duration and add certs regeneration functionality](https://github.com/NethServer/nethsecurity/pull/1490)** by *m-dilorenzi* - Reviewers: *None* - Created at: 2026-01-26T12:38:41Z
 - :eyes: :zzz: **[build: added softflowd](https://github.com/NethServer/nethsecurity/pull/1453)** by *Tbaile* - Reviewers: *None* - Created at: 2025-12-10T11:48:14Z
 
 ### NethServer/ns8-nethsecurity-controller 1 
@@ -42,7 +37,7 @@ date = 2026-01-27
 
 ### NethServer/nethsecurity-ui 1 
 
--   **[feat(openvpn-tunnel): update certs duration and add certs regeneration functionality](https://github.com/NethServer/nethsecurity-ui/pull/679)** by *m-dilorenzi* - Reviewers: *Tbaile* - Created at: 2026-01-26T13:49:20Z
+- :eyes:  **[feat(openvpn-tunnel): update certs duration and add certs regeneration functionality](https://github.com/NethServer/nethsecurity-ui/pull/679)** by *m-dilorenzi* - Reviewers: *None* - Created at: 2026-01-26T13:49:20Z
 
 ### NethServer/nethsecurity-docs 2 
 
@@ -61,9 +56,9 @@ date = 2026-01-27
 
 -   **[Add logo, metadata, and screenshot for the lamp project](https://github.com/NethServer/ns8-nethforge/pull/35)** by *stephdl* - Reviewers: *DavidePrincipi* - Created at: 2026-01-23T14:17:30Z
 
-### NethServer/ns8-lamp 1 
+### NethServer/my 1 
 
-- :eyes:  **[Add migration script to remove old stephdl images for NethServer](https://github.com/NethServer/ns8-lamp/pull/80)** by *stephdl* - Reviewers: *None* - Created at: 2026-01-26T17:15:57Z
+- :eyes:  **[feat: add applications management from system inventory](https://github.com/NethServer/my/pull/32)** by *edospadoni* - Reviewers: *None* - Created at: 2026-01-19T14:23:04Z
 
 ### NethServer/nethsecurity-monitoring 1 
 
@@ -89,9 +84,8 @@ date = 2026-01-27
 - :eyes:  **[Add new Snom model snom-D335 snom-D810 snom-D892](https://github.com/nethesis/tancredi/pull/345)** by *andrea-marchionni* - Reviewers: *None* - Created at: 2026-01-21T10:01:19Z
 - :eyes:  **[Add pattern for fanvil 00-A8-5A MAC address](https://github.com/nethesis/tancredi/pull/344)** by *Stell0* - Reviewers: *None* - Created at: 2026-01-16T11:09:20Z
 
-### nethesis/ns8-nethvoice 7 
+### nethesis/ns8-nethvoice 6 
 
--   **[fix(systemd): use named volume in reports-redis](https://github.com/nethesis/ns8-nethvoice/pull/672)** by *Amygos* - Reviewers: *edospadoni* - Created at: 2026-01-26T15:51:15Z
 -   **[fix(clone): update proxy configuration of extensions and trunks](https://github.com/nethesis/ns8-nethvoice/pull/669)** by *Stell0* - Reviewers: *Amygos* - Created at: 2026-01-26T08:40:38Z
 -   **[Add new Gigaset mac addresses](https://github.com/nethesis/ns8-nethvoice/pull/667)** by *Stell0* - Reviewers: *Amygos* - Created at: 2026-01-21T15:24:21Z
 -  :zzz: **[Matrix integration](https://github.com/nethesis/ns8-nethvoice/pull/627)** by *gsanchietti* - Reviewers: *Amygos* - Created at: 2025-12-10T11:32:50Z
@@ -105,8 +99,9 @@ date = 2026-01-27
 - :eyes: :zzz: **[feat: Add NAT localnet support with custom ports 6060/6061](https://github.com/nethesis/ns8-nethvoice-proxy/pull/113)** by *paolovisintin* - Reviewers: *None* - Created at: 2025-12-18T11:03:32Z
 - :eyes: :zzz: **[144 multi port binding](https://github.com/nethesis/ns8-nethvoice-proxy/pull/98)** by *paolovisintin* - Reviewers: *None* - Created at: 2025-11-14T10:18:53Z
 
-### nethesis/vue-components 1 
+### nethesis/vue-components 2 
 
+-   **[feat: add readonly prop to NeTextInput & NeTextArea](https://github.com/nethesis/vue-components/pull/122)** by *andre8244* - Reviewers: *Tbaile* - Created at: 2026-01-27T14:09:27Z
 - :eyes: :zzz: **[fix(sort): relaxing sorting function](https://github.com/nethesis/vue-components/pull/104)** by *Tbaile* - Reviewers: *None* - Created at: 2025-12-11T15:17:22Z
 
 ### nethesis/ctiapp-authproxy 1 
