@@ -2,11 +2,13 @@
 
 title = 'To be released soon'
 
-date = 2026-01-28
+date = 2026-01-29
 
 +++
 
 ### NethServer
+
+- [Samba DC restore fails with same VPN IP address](https://github.com/NethServer/dev/issues/7835) (#7608) by DavidePrincipi (Created: 2026-01-26T17:03:55Z, Updated: 2026-01-28T15:04:47Z)
 
 - [Unify community and enterprise inventories with sensitive data obfuscation](https://github.com/NethServer/dev/issues/7829) (#7608) by edospadoni (Created: 2026-01-21T13:24:07Z, Updated: 2026-01-26T15:54:48Z)
 
@@ -28,7 +30,7 @@ date = 2026-01-28
 
 ### NethSecurity
 
-- [OpenVPN Road Warrior UI blocks configuration when /etc/openvpn/ns_roadwarrior1/pki/issued/ exists](https://github.com/NethServer/nethsecurity/issues/1492) (#1354) by gsanchietti (Created: 2026-01-27T13:37:41Z, Updated: 2026-01-27T14:42:28Z)
+- [OpenVPN Road Warrior UI blocks configuration when /etc/openvpn/ns_roadwarrior1/pki/issued/ exists](https://github.com/NethServer/nethsecurity/issues/1492) (#1354) by gsanchietti (Created: 2026-01-27T13:37:41Z, Updated: 2026-01-28T10:49:31Z)
 
 - [Remove possible false positive detection from nginx](https://github.com/NethServer/nethsecurity/issues/1469) (#1354) by Tbaile (Created: 2026-01-12T10:58:16Z, Updated: 2026-01-26T11:26:52Z)
 

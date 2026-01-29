@@ -1,6 +1,6 @@
 +++
 title = 'Open Pull Requests by Bots'
-date = 2026-01-28
+date = 2026-01-29
 +++
 
 ## Organization: nethserver
@@ -45,12 +45,10 @@ date = 2026-01-28
 
 - :eyes: :zzz: **[Translations update from Hosted Weblate](https://github.com/NethServer/ns8-minio/pull/39)** by *weblate* - Reviewers: *None* - Created at: 2025-12-29T04:00:40Z
 
-### NethServer/ns8-samba 4 
+### NethServer/ns8-samba 2 
 
-- :eyes:  **[chore(deps): update dependency vue-template-compiler to v2.7.16](https://github.com/NethServer/ns8-samba/pull/178)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-01-21T07:59:46Z
 - :eyes: :zzz: **[chore(deps): update timescale/timescaledb docker tag to v2.24.0](https://github.com/NethServer/ns8-samba/pull/172)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-12-10T16:48:42Z
 - :eyes: :zzz: **[chore(deps): update dependency core-js to v3.48.0](https://github.com/NethServer/ns8-samba/pull/165)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-12-10T16:47:40Z
-- :eyes: :zzz: **[chore(deps): update dependency @carbon/icons-vue to v10.99.1](https://github.com/NethServer/ns8-samba/pull/161)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-12-10T16:46:58Z
 
 ### NethServer/ns8-loki 1 
 
@@ -60,7 +58,7 @@ date = 2026-01-28
 
 - :eyes:  **[chore(deps): update dependency core-js to v3.48.0](https://github.com/NethServer/ns8-openldap/pull/105)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-01-21T21:24:57Z
 - :eyes:  **[chore(deps): update dependency vue-template-compiler to v2.7.16](https://github.com/NethServer/ns8-openldap/pull/104)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-01-16T23:48:05Z
-- :eyes: :zzz: **[chore(deps): update alpine docker tag to v3.23.2](https://github.com/NethServer/ns8-openldap/pull/92)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-12-10T16:48:25Z
+- :eyes: :zzz: **[chore(deps): update alpine docker tag to v3.23.3](https://github.com/NethServer/ns8-openldap/pull/92)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-12-10T16:48:25Z
 - :eyes: :zzz: **[chore(deps): replace dependency babel-eslint with @babel/eslint-parser ^7.11.0](https://github.com/NethServer/ns8-openldap/pull/83)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-12-10T16:46:15Z
 
 ### NethServer/ns8-prometheus 1 
@@ -77,9 +75,8 @@ date = 2026-01-28
 - :eyes: :zzz: **[chore(deps): update debian docker tag to v12.12](https://github.com/NethServer/nethsecurity/pull/1366)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-09-08T21:58:45Z
 - :eyes: :zzz: **[chore(deps): update debian docker tag to v13](https://github.com/NethServer/nethsecurity/pull/1342)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-08-12T22:46:15Z
 
-### NethServer/ns8-mail 2 
+### NethServer/ns8-mail 1 
 
-- :eyes: :zzz: **[Translations update from Hosted Weblate](https://github.com/NethServer/ns8-mail/pull/212)** by *weblate* - Reviewers: *None* - Created at: 2025-12-18T10:05:40Z
 - :eyes: :zzz: **[chore(deps): update alpine docker tag to v3.22.2](https://github.com/NethServer/ns8-mail/pull/202)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-09-15T08:47:47Z
 
 ### NethServer/ns8-nethsecurity-controller 1 

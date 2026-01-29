@@ -1,11 +1,10 @@
 +++
 title = 'Need testing (12)'
-date = 2026-01-28
+date = 2026-01-29
 +++
 
 ## NethServer
-- **[Samba DC restore fails with same VPN IP address](https://github.com/NethServer/dev/issues/7835)** (#7763) by *DavidePrincipi* (Created: 2026-01-26, Updated: 2026-01-27T15:38:22Z)
-- **[Samba DC restore fails with empty TimescaleDB](https://github.com/NethServer/dev/issues/7834)** (#7763) by *DavidePrincipi* (Created: 2026-01-26, Updated: 2026-01-27T16:30:57Z)
+- **[Samba DC restore fails with empty TimescaleDB](https://github.com/NethServer/dev/issues/7834)** (#7763) by *DavidePrincipi* (Created: 2026-01-26, Updated: 2026-01-28T15:12:07Z)
 - :point_right: **[Upgrade Webtop dependencies (tracking issue)](https://github.com/NethServer/dev/issues/7763)** (#7763) by *stephdl* (Created: 2025-11-28, Updated: 2025-12-17T12:20:11Z)
 
 ## NethVoice
@@ -17,6 +16,7 @@ date = 2026-01-28
 ## NethSecurity
 - :point_right: **[HA firewall cannot manage interfaces with long bond names](https://github.com/NethServer/nethsecurity/issues/1478)** (#1425) by *cotosso* (Created: 2026-01-16, Updated: 2026-01-26T10:26:14Z)
 - :point_right: **[Traffic data mismatch between controller and firewall](https://github.com/NethServer/nethsecurity/issues/1471)** (#1425) by *cotosso* (Created: 2026-01-14, Updated: 2026-01-15T14:01:02Z)
+- :point_right: **[Realtime monitoring: active flows](https://github.com/NethServer/nethsecurity/issues/1465)** (#1425) by *Tbaile* (Created: 2026-01-09, Updated: 2026-01-28T10:50:37Z)
 - :point_right: **[Support close_action option for IPsec tunnels](https://github.com/NethServer/nethsecurity/issues/1460)** (#1425) by *cotosso* (Created: 2025-12-29, Updated: 2026-01-26T12:29:53Z)
 - :point_right: **[Improve IPsec status visibility for multi-network tunnels](https://github.com/NethServer/nethsecurity/issues/1430)** (#1425) by *cotosso* (Created: 2025-11-14, Updated: 2026-01-26T12:02:30Z)
 - :point_right: **[IPsec: UI edit causes tunnel to not be generated correctly](https://github.com/NethServer/nethsecurity/issues/1425)** (#1425) by *Tbaile* (Created: 2025-11-13, Updated: 2026-01-26T10:38:06Z)
