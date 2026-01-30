@@ -1,16 +1,16 @@
 +++
 title = 'Open Pull Requests'
-date = 2026-01-29
+date = 2026-01-30
 +++
 
 ## Organization: nethserver
 
 ### NethServer/ns8-core 4 
 
--   **[fix(print-phonehome): human-readable repo app name](https://github.com/NethServer/ns8-core/pull/1063)** by *DavidePrincipi* - Reviewers: *andre8244, edospadoni* - Created at: 2026-01-28T17:17:55Z
+-   **[Tweak selectors layout (Volume/Node) and loading indicator sizing](https://github.com/NethServer/ns8-core/pull/1067)** by *stephdl* - Reviewers: *andre8244* - Created at: 2026-01-29T11:23:53Z
 - :eyes:  **[Refactor ApplicationsCenter for clarity and improved naming](https://github.com/NethServer/ns8-core/pull/1062)** by *stephdl* - Reviewers: *None* - Created at: 2026-01-28T16:23:34Z
--   **[feat(api-server): support assigning multiple roles](https://github.com/NethServer/ns8-core/pull/1061)** by *DavidePrincipi* - Reviewers: *edospadoni* - Created at: 2026-01-28T15:26:48Z
-- :eyes:  **[Handle additional volumes during samba provider setup](https://github.com/NethServer/ns8-core/pull/1059)** by *stephdl* - Reviewers: *None* - Created at: 2026-01-28T09:31:56Z
+- :eyes:  **[feat(api-server): support assigning multiple roles](https://github.com/NethServer/ns8-core/pull/1061)** by *DavidePrincipi* - Reviewers: *None* - Created at: 2026-01-28T15:26:48Z
+-   **[Handle additional volumes during samba provider setup](https://github.com/NethServer/ns8-core/pull/1059)** by *stephdl* - Reviewers: *andre8244* - Created at: 2026-01-28T09:31:56Z
 
 ### NethServer/ns8-traefik 1 
 
@@ -20,9 +20,10 @@ date = 2026-01-29
 
 - :eyes:  **[feat: run tests on Debian 13 (Trixie)](https://github.com/NethServer/ns8-terraform-infra/pull/6)** by *DavidePrincipi* - Reviewers: *None* - Created at: 2026-01-23T09:56:16Z
 
-### NethServer/nethsecurity 3 
+### NethServer/nethsecurity 4 
 
--   **[fix(ns-scan): block network scan for large network (/19 or lower)](https://github.com/NethServer/nethsecurity/pull/1493)** by *m-dilorenzi* - Reviewers: *Tbaile* - Created at: 2026-01-28T11:57:32Z
+- :eyes:  **[fix(ns-api): wireguard optimize list](https://github.com/NethServer/nethsecurity/pull/1494)** by *gsanchietti* - Reviewers: *None* - Created at: 2026-01-29T07:27:48Z
+- :eyes:  **[fix(ns-scan): block network scan for large network (/19 or lower)](https://github.com/NethServer/nethsecurity/pull/1493)** by *m-dilorenzi* - Reviewers: *None* - Created at: 2026-01-28T11:57:32Z
 - :eyes:  **[feat(openvpn-tunnel): update certs duration and add certs regeneration functionality](https://github.com/NethServer/nethsecurity/pull/1490)** by *m-dilorenzi* - Reviewers: *None* - Created at: 2026-01-26T12:38:41Z
 - :eyes: :zzz: **[build: added softflowd](https://github.com/NethServer/nethsecurity/pull/1453)** by *Tbaile* - Reviewers: *None* - Created at: 2025-12-10T11:48:14Z
 
@@ -40,12 +41,15 @@ date = 2026-01-29
 
 ### NethServer/ns8-docs 3 
 
--   **[Add rustfs documentation](https://github.com/NethServer/ns8-docs/pull/217)** by *mrmarkuz* - Reviewers: *stephdl* - Created at: 2026-01-28T13:29:42Z
+-   **[Add rustfs documentation](https://github.com/NethServer/ns8-docs/pull/217)** by *mrmarkuz* - Reviewers: *DavidePrincipi* - Created at: 2026-01-28T13:29:42Z
 - :eyes:  **[Add documentation about OS certificate store](https://github.com/NethServer/ns8-docs/pull/216)** by *mrmarkuz* - Reviewers: *None* - Created at: 2026-01-21T15:45:22Z
 - :eyes:  **[Manually run apply-vpn-routes ](https://github.com/NethServer/ns8-docs/pull/215)** by *DavidePrincipi* - Reviewers: *None* - Created at: 2026-01-15T17:00:49Z
 
-### NethServer/nethsecurity-ui 2 
+### NethServer/nethsecurity-ui 5 
 
+-   **[feat(snort): unify bypass and allow home net configuration](https://github.com/NethServer/nethsecurity-ui/pull/683)** by *gsanchietti* - Reviewers: *andre8244, Tbaile* - Created at: 2026-01-29T16:34:49Z
+-   **[fix(routes): show system routes table even if no custom routes are defined](https://github.com/NethServer/nethsecurity-ui/pull/682)** by *m-dilorenzi* - Reviewers: *Tbaile* - Created at: 2026-01-29T15:35:35Z
+-   **[feat: minor improvements](https://github.com/NethServer/nethsecurity-ui/pull/681)** by *gsanchietti* - Reviewers: *andre8244, Tbaile* - Created at: 2026-01-29T13:08:01Z
 -   **[fix(scan-network): block network scan for large network (/19 or lower)](https://github.com/NethServer/nethsecurity-ui/pull/680)** by *m-dilorenzi* - Reviewers: *Tbaile* - Created at: 2026-01-28T12:00:09Z
 - :eyes:  **[feat(openvpn-tunnel): update certs duration and add certs regeneration functionality](https://github.com/NethServer/nethsecurity-ui/pull/679)** by *m-dilorenzi* - Reviewers: *None* - Created at: 2026-01-26T13:49:20Z
 
@@ -66,9 +70,13 @@ date = 2026-01-29
 
 -   **[Add logo, metadata, and screenshot for the lamp project](https://github.com/NethServer/ns8-nethforge/pull/35)** by *stephdl* - Reviewers: *DavidePrincipi* - Created at: 2026-01-23T14:17:30Z
 
+### NethServer/nethlink 1 
+
+-   **[fix: add duration units to translations and update CallsDate component](https://github.com/NethServer/nethlink/pull/86)** by *tommaso-ascani* - Reviewers: *edospadoni, tonyco97* - Created at: 2026-01-29T12:38:09Z
+
 ### NethServer/ns8-rustfs 1 
 
--   **[Small fixes](https://github.com/NethServer/ns8-rustfs/pull/14)** by *mrmarkuz* - Reviewers: *stephdl* - Created at: 2026-01-28T10:34:05Z
+- :eyes:  **[Small fixes](https://github.com/NethServer/ns8-rustfs/pull/14)** by *mrmarkuz* - Reviewers: *None* - Created at: 2026-01-28T10:34:05Z
 
 ### NethServer/nethsecurity-monitoring 1 
 
@@ -96,13 +104,17 @@ date = 2026-01-29
 
 ### nethesis/ns8-nethvoice 7 
 
--   **[fix(set-integrations): Add try-restart for freepbx.service](https://github.com/nethesis/ns8-nethvoice/pull/675)** by *Stell0* - Reviewers: *Amygos* - Created at: 2026-01-28T13:58:27Z
--   **[fix(clone): update proxy configuration of extensions and trunks](https://github.com/nethesis/ns8-nethvoice/pull/669)** by *Stell0* - Reviewers: *Amygos* - Created at: 2026-01-26T08:40:38Z
+- :eyes:  **[fix(set-integrations): Add try-restart for freepbx.service](https://github.com/nethesis/ns8-nethvoice/pull/675)** by *Stell0* - Reviewers: *None* - Created at: 2026-01-28T13:58:27Z
+- :eyes:  **[fix(clone): update proxy configuration of extensions and trunks](https://github.com/nethesis/ns8-nethvoice/pull/669)** by *Stell0* - Reviewers: *None* - Created at: 2026-01-26T08:40:38Z
 -   **[Add new Gigaset mac addresses](https://github.com/nethesis/ns8-nethvoice/pull/667)** by *Stell0* - Reviewers: *Amygos* - Created at: 2026-01-21T15:24:21Z
 -  :zzz: **[Matrix integration](https://github.com/nethesis/ns8-nethvoice/pull/627)** by *gsanchietti* - Reviewers: *Amygos* - Created at: 2025-12-10T11:32:50Z
 - :eyes: :zzz: **[fix: new user-domain-changed event format](https://github.com/nethesis/ns8-nethvoice/pull/626)** by *DavidePrincipi* - Reviewers: *None* - Created at: 2025-12-09T14:46:42Z
 - :eyes: :zzz: **[Import CSV with admin APIs](https://github.com/nethesis/ns8-nethvoice/pull/617)** by *gsanchietti* - Reviewers: *None* - Created at: 2025-11-26T14:37:01Z
 -  :zzz: **[enhancement(freepbx): Don't slow down system at reboot](https://github.com/nethesis/ns8-nethvoice/pull/605)** by *Stell0* - Reviewers: *Amygos, DavidePrincipi* - Created at: 2025-11-19T14:40:39Z
+
+### nethesis/nethvoice-cti 1 
+
+-   **[feat: enhance time display in LastCalls with localized duration units](https://github.com/nethesis/nethvoice-cti/pull/389)** by *tommaso-ascani* - Reviewers: *edospadoni, tonyco97* - Created at: 2026-01-29T12:38:25Z
 
 ### nethesis/ns8-nethvoice-proxy 3 
 
