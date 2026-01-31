@@ -1,10 +1,10 @@
 +++
 title = 'Need testing (12)'
-date = 2026-01-30
+date = 2026-01-31
 +++
 
 ## NethServer
-- **[Samba DC restore fails with empty TimescaleDB](https://github.com/NethServer/dev/issues/7834)** (#7763) by *DavidePrincipi* (Created: 2026-01-26, Updated: 2026-01-28T15:12:07Z)
+- **[ns8-core: rich firewall rule update fails with 403 Forbidden even with correct node:fwadm authorization](https://github.com/NethServer/dev/issues/7836)** (#7763) by *Amygos* (Created: 2026-01-28, Updated: 2026-01-30T09:43:27Z)
 - :point_right: **[Upgrade Webtop dependencies (tracking issue)](https://github.com/NethServer/dev/issues/7763)** (#7763) by *stephdl* (Created: 2025-11-28, Updated: 2025-12-17T12:20:11Z)
 
 ## NethVoice

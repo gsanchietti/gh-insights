@@ -2,21 +2,17 @@
 
 title = 'To be released soon'
 
-date = 2026-01-30
+date = 2026-01-31
 
 +++
 
 ### NethServer
 
-- [Samba DC restore fails with same VPN IP address](https://github.com/NethServer/dev/issues/7835) (#7608) by DavidePrincipi (Created: 2026-01-26T17:03:55Z, Updated: 2026-01-28T15:04:47Z)
-
 - [Unify community and enterprise inventories with sensitive data obfuscation](https://github.com/NethServer/dev/issues/7829) (#7608) by edospadoni (Created: 2026-01-21T13:24:07Z, Updated: 2026-01-26T15:54:48Z)
 
-- [Apply TLS certificates to Samba DC](https://github.com/NethServer/dev/issues/7818) (#7608) by DavidePrincipi (Created: 2026-01-14T11:35:58Z, Updated: 2026-01-27T13:52:31Z)
+- [Offline worker after power outage](https://github.com/NethServer/dev/issues/7806) (#7608) by DavidePrincipi (Created: 2026-01-09T09:27:19Z, Updated: 2026-01-30T12:01:28Z)
 
-- [Offline worker after power outage](https://github.com/NethServer/dev/issues/7806) (#7608) by DavidePrincipi (Created: 2026-01-09T09:27:19Z, Updated: 2026-01-20T17:40:28Z)
-
-- [Support NS8 installation and upgrade in Debian Trixie](https://github.com/NethServer/dev/issues/7608) (#7608) by mrmarkuz (Created: 2025-08-25T06:54:40Z, Updated: 2026-01-26T15:51:15Z)
+- [Support NS8 installation and upgrade in Debian Trixie](https://github.com/NethServer/dev/issues/7608) (#7608) by mrmarkuz (Created: 2025-08-25T06:54:40Z, Updated: 2026-01-30T12:01:35Z)
 
 ### NethVoice
 
