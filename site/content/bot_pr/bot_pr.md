@@ -1,6 +1,6 @@
 +++
 title = 'Open Pull Requests by Bots'
-date = 2026-01-31
+date = 2026-02-01
 +++
 
 ## Organization: nethserver
@@ -102,8 +102,9 @@ date = 2026-01-31
 - :eyes:  **[chore(deps): update dependency sass to v1.97.3](https://github.com/NethServer/ns8-ejabberd/pull/101)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-01-21T14:39:00Z
 - :eyes: :zzz: **[Translations update from Hosted Weblate](https://github.com/NethServer/ns8-ejabberd/pull/100)** by *weblate* - Reviewers: *None* - Created at: 2025-12-29T04:01:01Z
 
-### NethServer/nethsecurity-ui 3 
+### NethServer/nethsecurity-ui 4 
 
+- :eyes:  **[chore(deps): lock file maintenance](https://github.com/NethServer/nethsecurity-ui/pull/685)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-02-01T02:11:33Z
 - :eyes:  **[fix(deps): update dependency vue-router to v5](https://github.com/NethServer/nethsecurity-ui/pull/684)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-01-29T21:09:23Z
 - :eyes:  **[fix(deps): update font awesome to v7 (major)](https://github.com/NethServer/nethsecurity-ui/pull/674)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-01-16T18:31:59Z
 - :eyes:  **[fix(deps): update dependency @xterm/xterm to v6](https://github.com/NethServer/nethsecurity-ui/pull/673)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-01-16T12:44:22Z
@@ -127,7 +128,7 @@ date = 2026-01-31
 ### NethServer/ns8-lamp 2 
 
 - :eyes:  **[Update dependency core-js to v3.48.0](https://github.com/NethServer/ns8-lamp/pull/74)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-01-21T18:28:19Z
-- :eyes:  **[Update dependency vue-template-compiler to v2.7.16](https://github.com/NethServer/ns8-lamp/pull/66)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-01-01T06:30:35Z
+- :eyes: :zzz: **[Update dependency vue-template-compiler to v2.7.16](https://github.com/NethServer/ns8-lamp/pull/66)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-01-01T06:30:35Z
 
 ### NethServer/ns8-passbolt 3 
 
@@ -212,7 +213,7 @@ date = 2026-01-31
 ### nethesis/nethvoice-cti 5 
 
 - :eyes:  **[chore(deps): update dependency @babel/runtime to v7.28.6](https://github.com/nethesis/nethvoice-cti/pull/388)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-01-26T04:40:56Z
-- :eyes:  **[chore(deps): update dependency @babel/core to v7.28.6](https://github.com/nethesis/nethvoice-cti/pull/387)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-01-26T04:40:47Z
+- :eyes:  **[chore(deps): update dependency @babel/core to v7.29.0](https://github.com/nethesis/nethvoice-cti/pull/387)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-01-26T04:40:47Z
 - :eyes:  **[chore(deps): update aquasecurity/trivy-action action to v0.33.1](https://github.com/nethesis/nethvoice-cti/pull/386)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-01-26T00:48:42Z
 - :eyes:  **[chore(deps): update dependency tailwindcss to v3.4.19](https://github.com/nethesis/nethvoice-cti/pull/385)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-01-26T00:48:35Z
 - :eyes:  **[chore(deps): update dependency lodash to v4.17.23 [security]](https://github.com/nethesis/nethvoice-cti/pull/384)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-01-22T05:16:17Z
@@ -249,8 +250,9 @@ date = 2026-01-31
 - :eyes: :zzz: **[chore(deps): update dependency typescript to ~5.9.0](https://github.com/nethesis/vue-components/pull/103)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-12-09T14:29:51Z
 - :eyes: :zzz: **[chore(deps): update dependency @vue/tsconfig to ^0.8.0](https://github.com/nethesis/vue-components/pull/100)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-12-09T11:09:23Z
 
-### nethesis/parceler 1 
+### nethesis/parceler 2 
 
+- :eyes:  **[chore(deps): lock file maintenance](https://github.com/nethesis/parceler/pull/152)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-02-01T01:17:54Z
 - :eyes:  **[chore(deps): update dependency laravel/boost to v2](https://github.com/nethesis/parceler/pull/149)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-01-26T10:36:41Z
 
 ### nethesis/nethKaris 1 
