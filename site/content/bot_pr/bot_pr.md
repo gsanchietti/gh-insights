@@ -1,6 +1,6 @@
 +++
 title = 'Open Pull Requests by Bots'
-date = 2026-02-01
+date = 2026-02-02
 +++
 
 ## Organization: nethserver
@@ -191,8 +191,10 @@ date = 2026-02-01
 
 - :eyes: :zzz: **[Bump jspdf from 2.1.1 to 3.0.1 in /ui](https://github.com/nethesis/nethvoice-report/pull/203)** by *dependabot[bot]* - Reviewers: *None* - Created at: 2025-03-19T07:36:39Z
 
-### nethesis/astproxy 3 
+### nethesis/astproxy 5 
 
+- :eyes:  **[chore(deps): update dependency ubuntu to v24](https://github.com/nethesis/astproxy/pull/25)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-02-02T04:00:16Z
+- :eyes:  **[chore(deps): update actions/checkout action to v6](https://github.com/nethesis/astproxy/pull/24)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-02-02T04:00:11Z
 - :eyes:  **[chore(deps): update dependency winston to v2.4.7](https://github.com/nethesis/astproxy/pull/23)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-01-12T03:43:43Z
 - :eyes:  **[chore(deps): update aquasecurity/trivy-action action to v0.33.1](https://github.com/nethesis/astproxy/pull/22)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-01-12T03:43:23Z
 - :eyes: :zzz: **[chore(deps): update dependency moment to v2.29.4 [security]](https://github.com/nethesis/astproxy/pull/21)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-11-27T08:44:28Z
@@ -210,16 +212,24 @@ date = 2026-02-01
 -  :zzz: **[chore(deps): update docker.io/library/golang docker tag to v1.25.6](https://github.com/nethesis/ns8-nethvoice/pull/563)** by *renovate[bot]* - Reviewers: *edospadoni* - Created at: 2025-10-16T01:44:45Z
 -  :zzz: **[chore(deps): update docker.io/library/alpine docker tag to v3.22.2](https://github.com/nethesis/ns8-nethvoice/pull/562)** by *renovate[bot]* - Reviewers: *Amygos, edospadoni* - Created at: 2025-10-16T01:44:42Z
 
-### nethesis/nethvoice-cti 5 
+### nethesis/nethvoice-cti 9 
 
+- :eyes:  **[chore(deps): update dependency @types/react-dom to v18.3.7](https://github.com/nethesis/nethvoice-cti/pull/394)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-02-02T05:05:56Z
+- :eyes:  **[chore(deps): update dependency @types/react to v18.3.27](https://github.com/nethesis/nethvoice-cti/pull/393)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-02-02T05:05:47Z
+- :eyes:  **[chore(deps): update dependency @types/node to v18.19.130](https://github.com/nethesis/nethvoice-cti/pull/392)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-02-02T01:45:36Z
+- :eyes:  **[chore(deps): update dependency autoprefixer to v10.4.24](https://github.com/nethesis/nethvoice-cti/pull/391)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-02-02T01:45:26Z
 - :eyes:  **[chore(deps): update dependency @babel/runtime to v7.28.6](https://github.com/nethesis/nethvoice-cti/pull/388)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-01-26T04:40:56Z
 - :eyes:  **[chore(deps): update dependency @babel/core to v7.29.0](https://github.com/nethesis/nethvoice-cti/pull/387)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-01-26T04:40:47Z
 - :eyes:  **[chore(deps): update aquasecurity/trivy-action action to v0.33.1](https://github.com/nethesis/nethvoice-cti/pull/386)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-01-26T00:48:42Z
 - :eyes:  **[chore(deps): update dependency tailwindcss to v3.4.19](https://github.com/nethesis/nethvoice-cti/pull/385)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-01-26T00:48:35Z
 - :eyes:  **[chore(deps): update dependency lodash to v4.17.23 [security]](https://github.com/nethesis/nethvoice-cti/pull/384)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-01-22T05:16:17Z
 
-### nethesis/phone-island 5 
+### nethesis/phone-island 9 
 
+- :eyes:  **[chore(deps): update dependency typescript to v4.9.5](https://github.com/nethesis/phone-island/pull/161)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-02-02T05:12:30Z
+- :eyes:  **[chore(deps): update dependency parcel to v2.16.4](https://github.com/nethesis/phone-island/pull/160)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-02-02T05:12:12Z
+- :eyes:  **[chore(deps): update dependency css-loader to v7.1.3](https://github.com/nethesis/phone-island/pull/159)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-02-02T01:47:25Z
+- :eyes:  **[chore(deps): update dependency autoprefixer to v10.4.24](https://github.com/nethesis/phone-island/pull/158)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-02-02T01:47:11Z
 - :eyes:  **[chore(deps): update dependency tailwindcss to v3.4.19](https://github.com/nethesis/phone-island/pull/157)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-01-26T05:27:58Z
 - :eyes:  **[chore(deps): update dependency styled-components to v5.3.11](https://github.com/nethesis/phone-island/pull/156)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-01-26T05:27:43Z
 - :eyes:  **[chore(deps): update dependency prettier to v2.8.8](https://github.com/nethesis/phone-island/pull/155)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-01-26T02:15:57Z
@@ -250,9 +260,8 @@ date = 2026-02-01
 - :eyes: :zzz: **[chore(deps): update dependency typescript to ~5.9.0](https://github.com/nethesis/vue-components/pull/103)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-12-09T14:29:51Z
 - :eyes: :zzz: **[chore(deps): update dependency @vue/tsconfig to ^0.8.0](https://github.com/nethesis/vue-components/pull/100)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-12-09T11:09:23Z
 
-### nethesis/parceler 2 
+### nethesis/parceler 1 
 
-- :eyes:  **[chore(deps): lock file maintenance](https://github.com/nethesis/parceler/pull/152)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-02-01T01:17:54Z
 - :eyes:  **[chore(deps): update dependency laravel/boost to v2](https://github.com/nethesis/parceler/pull/149)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-01-26T10:36:41Z
 
 ### nethesis/nethKaris 1 
