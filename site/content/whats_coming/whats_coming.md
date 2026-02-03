@@ -2,15 +2,19 @@
 
 title = 'To be released soon'
 
-date = 2026-02-02
+date = 2026-02-03
 
 +++
 
 ### NethServer
 
+- [ns8-core: rich firewall rule update fails with 403 Forbidden even with correct node:fwadm authorization](https://github.com/NethServer/dev/issues/7836) (#7608) by Amygos (Created: 2026-01-28T08:18:49Z, Updated: 2026-02-02T09:55:21Z)
+
 - [Unify community and enterprise inventories with sensitive data obfuscation](https://github.com/NethServer/dev/issues/7829) (#7608) by edospadoni (Created: 2026-01-21T13:24:07Z, Updated: 2026-01-26T15:54:48Z)
 
 - [Offline worker after power outage](https://github.com/NethServer/dev/issues/7806) (#7608) by DavidePrincipi (Created: 2026-01-09T09:27:19Z, Updated: 2026-01-30T12:01:28Z)
+
+- [Upgrade Webtop dependencies (tracking issue)](https://github.com/NethServer/dev/issues/7763) (#7608) by stephdl (Created: 2025-11-28T14:06:59Z, Updated: 2026-02-02T08:16:47Z)
 
 - [Support NS8 installation and upgrade in Debian Trixie](https://github.com/NethServer/dev/issues/7608) (#7608) by mrmarkuz (Created: 2025-08-25T06:54:40Z, Updated: 2026-01-30T12:01:35Z)
 
@@ -21,6 +25,8 @@ date = 2026-02-02
 - [NethVoice: If i set an extension as an object's destination using Visual Plan, the extension settings are reset to default.](https://github.com/NethServer/dev/issues/7805) (#7608) by fabbri-marco (Created: 2026-01-08T15:22:14Z, Updated: 2026-01-23T13:42:13Z)
 
 - [NethLink: Listen and Intrude open standard call phone island and show "Unknown" label](https://github.com/NethServer/dev/issues/7800) (#7608) by mgarra (Created: 2026-01-07T11:57:00Z, Updated: 2026-01-21T08:12:42Z)
+
+- [NethVoice CTI: Deepgram call transcription does not work for outgoing external calls](https://github.com/NethServer/dev/issues/7795) (#7608) by mgarra (Created: 2025-12-19T15:29:11Z, Updated: 2026-02-02T09:13:41Z)
 
 - [NethCTI: Force 2FA activation prompt on first user login](https://github.com/NethServer/dev/issues/7709) (#7608) by viktec (Created: 2025-10-30T14:02:44Z, Updated: 2026-01-23T13:42:02Z)
 
