@@ -1,18 +1,15 @@
 +++
-title = 'Need testing (9)'
-date = 2026-02-03
+title = 'Need testing (6)'
+date = 2026-02-04
 +++
 
-## NethVoice
-- :point_right: **[NethVoice reports show no data – scheduled task runs without errors, filters return 404](https://github.com/NethServer/dev/issues/7820)** (#7779) by *andrea-marchionni* (Created: 2026-01-15, Updated: 2026-01-27T08:06:11Z)
-- :point_right: **[NethVoice: Masking of the last three digits of calls in PBX reports for users with privacy enabled](https://github.com/NethServer/dev/issues/7781)** (#7779) by *viktec* (Created: 2025-12-05, Updated: 2026-01-14T10:46:45Z)
-- :point_right: **[Tancredi needs ❤️ too](https://github.com/NethServer/dev/issues/7779)** (#7779) by *Stell0* (Created: 2025-12-05, Updated: 2026-01-13T15:15:55Z)
+## NoMilestone
+- **[NethCTI server file upload for voicemail is accepted but not played by Asterisk](https://github.com/NethServer/dev/issues/7846)** (#7846) by *tommaso-ascani* (Created: 2026-02-03, Updated: 2026-02-03T15:05:10Z)
 
 ## NethSecurity
-- :point_right: **[HA firewall cannot manage interfaces with long bond names](https://github.com/NethServer/nethsecurity/issues/1478)** (#1425) by *cotosso* (Created: 2026-01-16, Updated: 2026-01-26T10:26:14Z)
+- :point_right: **[HA firewall cannot manage interfaces with long bond names](https://github.com/NethServer/nethsecurity/issues/1478)** (#1425) by *cotosso* (Created: 2026-01-16, Updated: 2026-02-03T11:43:48Z)
 - :point_right: **[Traffic data mismatch between controller and firewall](https://github.com/NethServer/nethsecurity/issues/1471)** (#1425) by *cotosso* (Created: 2026-01-14, Updated: 2026-01-15T14:01:02Z)
 - :point_right: **[Realtime monitoring: active flows](https://github.com/NethServer/nethsecurity/issues/1465)** (#1425) by *Tbaile* (Created: 2026-01-09, Updated: 2026-01-28T10:50:37Z)
-- :point_right: **[Support close_action option for IPsec tunnels](https://github.com/NethServer/nethsecurity/issues/1460)** (#1425) by *cotosso* (Created: 2025-12-29, Updated: 2026-01-26T12:29:53Z)
-- :point_right: **[Improve IPsec status visibility for multi-network tunnels](https://github.com/NethServer/nethsecurity/issues/1430)** (#1425) by *cotosso* (Created: 2025-11-14, Updated: 2026-01-26T12:02:30Z)
-- :point_right: **[IPsec: UI edit causes tunnel to not be generated correctly](https://github.com/NethServer/nethsecurity/issues/1425)** (#1425) by *Tbaile* (Created: 2025-11-13, Updated: 2026-01-26T10:38:06Z)
+- :point_right: **[Support close_action option for IPsec tunnels](https://github.com/NethServer/nethsecurity/issues/1460)** (#1425) by *cotosso* (Created: 2025-12-29, Updated: 2026-02-03T15:46:26Z)
+- :point_right: **[IPsec: UI edit causes tunnel to not be generated correctly](https://github.com/NethServer/nethsecurity/issues/1425)** (#1425) by *Tbaile* (Created: 2025-11-13, Updated: 2026-02-03T15:46:36Z)
 

@@ -2,7 +2,7 @@
 
 title = 'To be released soon'
 
-date = 2026-02-03
+date = 2026-02-04
 
 +++
 
@@ -22,11 +22,17 @@ date = 2026-02-03
 
 - [NethVoice CTI: Line Key changes from CTI are not applied to the phone unless reprovisioning is forced](https://github.com/NethServer/dev/issues/7824) (#7608) by mgarra (Created: 2026-01-19T14:58:39Z, Updated: 2026-01-19T15:51:36Z)
 
+- [NethVoice reports show no data – scheduled task runs without errors, filters return 404](https://github.com/NethServer/dev/issues/7820) (#7608) by andrea-marchionni (Created: 2026-01-15T11:01:10Z, Updated: 2026-02-03T14:39:31Z)
+
 - [NethVoice: If i set an extension as an object's destination using Visual Plan, the extension settings are reset to default.](https://github.com/NethServer/dev/issues/7805) (#7608) by fabbri-marco (Created: 2026-01-08T15:22:14Z, Updated: 2026-01-23T13:42:13Z)
 
 - [NethLink: Listen and Intrude open standard call phone island and show "Unknown" label](https://github.com/NethServer/dev/issues/7800) (#7608) by mgarra (Created: 2026-01-07T11:57:00Z, Updated: 2026-01-21T08:12:42Z)
 
 - [NethVoice CTI: Deepgram call transcription does not work for outgoing external calls](https://github.com/NethServer/dev/issues/7795) (#7608) by mgarra (Created: 2025-12-19T15:29:11Z, Updated: 2026-02-02T09:13:41Z)
+
+- [NethVoice: Masking of the last three digits of calls in PBX reports for users with privacy enabled](https://github.com/NethServer/dev/issues/7781) (#7608) by viktec (Created: 2025-12-05T11:02:34Z, Updated: 2026-02-03T14:39:12Z)
+
+- [Tancredi needs ❤️ too](https://github.com/NethServer/dev/issues/7779) (#7608) by Stell0 (Created: 2025-12-05T08:37:50Z, Updated: 2026-02-03T11:44:45Z)
 
 - [NethCTI: Force 2FA activation prompt on first user login](https://github.com/NethServer/dev/issues/7709) (#7608) by viktec (Created: 2025-10-30T14:02:44Z, Updated: 2026-01-23T13:42:02Z)
 

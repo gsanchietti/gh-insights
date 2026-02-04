@@ -1,12 +1,13 @@
 +++
 title = 'Open Pull Requests by Bots'
-date = 2026-02-03
+date = 2026-02-04
 +++
 
 ## Organization: nethserver
 
-### NethServer/nethserver-business 8 
+### NethServer/nethserver-business 9 
 
+- :eyes:  **[Bump url-parse from 1.4.7 to 1.5.10 in /ui](https://github.com/NethServer/nethserver-business/pull/14)** by *dependabot[bot]* - Reviewers: *None* - Created at: 2026-02-04T03:27:37Z
 - :eyes:  **[Bump tar and fsevents in /ui](https://github.com/NethServer/nethserver-business/pull/13)** by *dependabot[bot]* - Reviewers: *None* - Created at: 2026-01-17T06:42:41Z
 - :eyes: :zzz: **[Bump qs, @vue/cli-plugin-babel, @vue/cli-plugin-eslint and @vue/cli-service in /ui](https://github.com/NethServer/nethserver-business/pull/12)** by *dependabot[bot]* - Reviewers: *None* - Created at: 2025-12-31T20:33:13Z
 - :eyes: :zzz: **[Bump node-forge and @vue/cli-service in /ui](https://github.com/NethServer/nethserver-business/pull/11)** by *dependabot[bot]* - Reviewers: *None* - Created at: 2025-11-27T15:36:48Z
@@ -163,9 +164,8 @@ date = 2026-02-03
 
 - :eyes: :zzz: **[Bump guzzlehttp/guzzle from 6.5.7 to 7.5.0 in /root/usr/src/google_speech_php](https://github.com/nethesis/nethvoice-wizard-restapi/pull/206)** by *dependabot[bot]* - Reviewers: *None* - Created at: 2023-01-09T08:53:05Z
 
-### nethesis/icaro 14 
+### nethesis/icaro 13 
 
-- :eyes: :zzz: **[fix(deps): update dependency jspdf to v4 [security]](https://github.com/nethesis/icaro/pull/213)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-11-26T09:36:28Z
 - :eyes: :zzz: **[fix(deps): update dependency crypto-js to v4 [security]](https://github.com/nethesis/icaro/pull/212)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-11-26T09:36:14Z
 - :eyes: :zzz: **[chore(deps): update dependency webpack-dev-server to v5 [security]](https://github.com/nethesis/icaro/pull/211)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-11-26T09:36:03Z
 - :eyes: :zzz: **[chore(deps): update dependency webpack-bundle-analyzer to v3 [security]](https://github.com/nethesis/icaro/pull/210)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-11-26T09:35:38Z
@@ -218,10 +218,9 @@ date = 2026-02-03
 -  :zzz: **[chore(deps): update docker.io/library/golang docker tag to v1.25.6](https://github.com/nethesis/ns8-nethvoice/pull/563)** by *renovate[bot]* - Reviewers: *edospadoni* - Created at: 2025-10-16T01:44:45Z
 -  :zzz: **[chore(deps): update docker.io/library/alpine docker tag to v3.22.2](https://github.com/nethesis/ns8-nethvoice/pull/562)** by *renovate[bot]* - Reviewers: *Amygos, edospadoni* - Created at: 2025-10-16T01:44:42Z
 
-### nethesis/nethvoice-cti 11 
+### nethesis/nethvoice-cti 10 
 
 - :eyes:  **[chore(deps): update dependency next to v16 [security]](https://github.com/nethesis/nethvoice-cti/pull/396)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-02-02T20:03:28Z
-- :eyes:  **[chore(deps): update dependency eslint to v9 [security]](https://github.com/nethesis/nethvoice-cti/pull/395)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-02-02T20:03:13Z
 - :eyes:  **[chore(deps): update dependency @types/react-dom to v18.3.7](https://github.com/nethesis/nethvoice-cti/pull/394)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-02-02T05:05:56Z
 - :eyes:  **[chore(deps): update dependency @types/react to v18.3.27](https://github.com/nethesis/nethvoice-cti/pull/393)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-02-02T05:05:47Z
 - :eyes:  **[chore(deps): update dependency @types/node to v18.19.130](https://github.com/nethesis/nethvoice-cti/pull/392)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-02-02T01:45:36Z
