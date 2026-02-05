@@ -2,7 +2,7 @@
 
 title = 'To be released soon'
 
-date = 2026-02-04
+date = 2026-02-05
 
 +++
 
@@ -39,6 +39,8 @@ date = 2026-02-04
 ### NethSecurity
 
 - [OpenVPN Road Warrior UI blocks configuration when /etc/openvpn/ns_roadwarrior1/pki/issued/ exists](https://github.com/NethServer/nethsecurity/issues/1492) (#1354) by gsanchietti (Created: 2026-01-27T13:37:41Z, Updated: 2026-01-28T10:49:31Z)
+
+- [Traffic data mismatch between controller and firewall](https://github.com/NethServer/nethsecurity/issues/1471) (#1354) by cotosso (Created: 2026-01-14T10:27:37Z, Updated: 2026-02-04T10:45:36Z)
 
 - [Remove possible false positive detection from nginx](https://github.com/NethServer/nethsecurity/issues/1469) (#1354) by Tbaile (Created: 2026-01-12T10:58:16Z, Updated: 2026-01-26T11:26:52Z)
 
