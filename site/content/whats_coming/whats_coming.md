@@ -2,11 +2,17 @@
 
 title = 'To be released soon'
 
-date = 2026-02-05
+date = 2026-02-06
 
 +++
 
+### NoMilestone
+
+- [NethCTI server file upload for voicemail is accepted but not played by Asterisk](https://github.com/NethServer/dev/issues/7846) (#7608) by tommaso-ascani (Created: 2026-02-03T10:38:35Z, Updated: 2026-02-05T14:17:13Z)
+
 ### NethServer
+
+- [Applications page: product type labels are not humanized](https://github.com/NethServer/dev/issues/7837) (#7608) by edospadoni (Created: 2026-01-28T15:38:28Z, Updated: 2026-02-05T15:33:21Z)
 
 - [ns8-core: rich firewall rule update fails with 403 Forbidden even with correct node:fwadm authorization](https://github.com/NethServer/dev/issues/7836) (#7608) by Amygos (Created: 2026-01-28T08:18:49Z, Updated: 2026-02-02T09:55:21Z)
 

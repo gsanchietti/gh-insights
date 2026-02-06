@@ -1,33 +1,28 @@
 +++
 title = 'Open Pull Requests'
-date = 2026-02-05
+date = 2026-02-06
 +++
 
 ## Organization: nethserver
 
-### NethServer/ns8-core 5 
+### NethServer/ns8-core 1 
 
-- :eyes:  **[Add eventId for task tracking in modals](https://github.com/NethServer/ns8-core/pull/1070)** by *stephdl* - Reviewers: *None* - Created at: 2026-02-04T16:54:26Z
 -   **[Backup action changes for UX improvements](https://github.com/NethServer/ns8-core/pull/1069)** by *DavidePrincipi* - Reviewers: *stephdl* - Created at: 2026-02-03T15:14:05Z
-- :eyes:  **[Tweak selectors layout (Volume/Node) and loading indicator sizing](https://github.com/NethServer/ns8-core/pull/1067)** by *stephdl* - Reviewers: *None* - Created at: 2026-01-29T11:23:53Z
-- :eyes:  **[Refactor ApplicationsCenter for clarity and improved naming](https://github.com/NethServer/ns8-core/pull/1062)** by *stephdl* - Reviewers: *None* - Created at: 2026-01-28T16:23:34Z
-- :eyes:  **[Handle additional volumes during samba provider setup](https://github.com/NethServer/ns8-core/pull/1059)** by *stephdl* - Reviewers: *None* - Created at: 2026-01-28T09:31:56Z
 
-### NethServer/ns8-ui-lib 1 
+### NethServer/ns8-traefik 2 
 
--   **[Conditionally hide next button icon on last step](https://github.com/NethServer/ns8-ui-lib/pull/51)** by *stephdl* - Reviewers: *andre8244* - Created at: 2026-02-03T08:54:28Z
-
-### NethServer/ns8-traefik 1 
-
+- :eyes:  **[Check if key has a passphrase](https://github.com/NethServer/ns8-traefik/pull/125)** by *mrmarkuz* - Reviewers: *None* - Created at: 2026-02-05T08:57:59Z
 - :eyes: :zzz: **[fix: cryptography 45 deprecation warning](https://github.com/NethServer/ns8-traefik/pull/120)** by *DavidePrincipi* - Reviewers: *None* - Created at: 2025-10-28T08:48:29Z
 
 ### NethServer/ns8-terraform-infra 1 
 
 - :eyes:  **[feat: run tests on Debian 13 (Trixie)](https://github.com/NethServer/ns8-terraform-infra/pull/6)** by *DavidePrincipi* - Reviewers: *None* - Created at: 2026-01-23T09:56:16Z
 
-### NethServer/nethsecurity 2 
+### NethServer/nethsecurity 4 
 
-- :eyes:  **[feat(api): ovpntunnel, retrieve all cert info](https://github.com/NethServer/nethsecurity/pull/1502)** by *gsanchietti* - Reviewers: *None* - Created at: 2026-02-04T15:26:44Z
+-   **[chore: revert nginx fork](https://github.com/NethServer/nethsecurity/pull/1505)** by *gsanchietti* - Reviewers: *Tbaile* - Created at: 2026-02-05T07:21:14Z
+-   **[Update easy rsa](https://github.com/NethServer/nethsecurity/pull/1504)** by *gsanchietti* - Reviewers: *m-dilorenzi* - Created at: 2026-02-05T06:53:15Z
+-   **[feat(api): ovpntunnel, retrieve all cert info](https://github.com/NethServer/nethsecurity/pull/1502)** by *gsanchietti* - Reviewers: *Tbaile, m-dilorenzi* - Created at: 2026-02-04T15:26:44Z
 - :eyes: :zzz: **[build: added softflowd](https://github.com/NethServer/nethsecurity/pull/1453)** by *Tbaile* - Reviewers: *None* - Created at: 2025-12-10T11:48:14Z
 
 ### NethServer/ns8-nethsecurity-controller 1 
@@ -42,18 +37,22 @@ date = 2026-02-05
 
 - :eyes: :zzz: **[chore(master): release 1.5.1](https://github.com/NethServer/phonehome-server/pull/138)** by *Tbaile* - Reviewers: *None* - Created at: 2025-11-15T06:38:38Z
 
-### NethServer/ns8-docs 3 
+### NethServer/ns8-docs 6 
 
--   **[Add LAMP documentation to the index and create lamp.rst file](https://github.com/NethServer/ns8-docs/pull/218)** by *stephdl* - Reviewers: *mrmarkuz* - Created at: 2026-02-03T16:45:37Z
+-   **[feat: select disk for app volume destination](https://github.com/NethServer/ns8-docs/pull/221)** by *DavidePrincipi* - Reviewers: *stephdl, lucagasparini, nrauso, mrmarkuz* - Created at: 2026-02-05T16:21:47Z
+- :eyes:  **[Update terminology from "file shares" to "shared folders" in Samba documentation](https://github.com/NethServer/ns8-docs/pull/220)** by *stephdl* - Reviewers: *None* - Created at: 2026-02-05T10:36:19Z
+- :eyes:  **[Add forbidden key passphrase](https://github.com/NethServer/ns8-docs/pull/219)** by *mrmarkuz* - Reviewers: *None* - Created at: 2026-02-05T09:12:25Z
+- :eyes:  **[Add LAMP documentation to the index and create lamp.rst file](https://github.com/NethServer/ns8-docs/pull/218)** by *stephdl* - Reviewers: *None* - Created at: 2026-02-03T16:45:37Z
 - :eyes:  **[Add rustfs documentation](https://github.com/NethServer/ns8-docs/pull/217)** by *mrmarkuz* - Reviewers: *None* - Created at: 2026-01-28T13:29:42Z
 - :eyes:  **[Manually run apply-vpn-routes ](https://github.com/NethServer/ns8-docs/pull/215)** by *DavidePrincipi* - Reviewers: *None* - Created at: 2026-01-15T17:00:49Z
 
 ### NethServer/nethsecurity-ui 1 
 
--   **[feat(ovpntunnel): show all cert expirations](https://github.com/NethServer/nethsecurity-ui/pull/690)** by *gsanchietti* - Reviewers: *m-dilorenzi* - Created at: 2026-02-04T15:46:14Z
+-   **[feat(ovpntunnel): show all cert expirations](https://github.com/NethServer/nethsecurity-ui/pull/690)** by *gsanchietti* - Reviewers: *Tbaile* - Created at: 2026-02-04T15:46:14Z
 
-### NethServer/nethsecurity-docs 2 
+### NethServer/nethsecurity-docs 3 
 
+- :eyes:  **[Migration: redirect for port 80](https://github.com/NethServer/nethsecurity-docs/pull/222)** by *gsanchietti* - Reviewers: *None* - Created at: 2026-02-05T15:21:10Z
 -   **[feat: added nginx removal of `server_tokens`](https://github.com/NethServer/nethsecurity-docs/pull/221)** by *Tbaile* - Reviewers: *cotosso* - Created at: 2026-01-15T11:23:43Z
 -  :zzz: **[fix(ha): update for beta2](https://github.com/NethServer/nethsecurity-docs/pull/208)** by *gsanchietti* - Reviewers: *filippocarletti* - Created at: 2025-10-02T10:43:05Z
 
@@ -69,19 +68,19 @@ date = 2026-02-05
 
 -   **[Add logo, metadata, and screenshot for the lamp project](https://github.com/NethServer/ns8-nethforge/pull/35)** by *stephdl* - Reviewers: *AmaLuci* - Created at: 2026-01-23T14:17:30Z
 
+### NethServer/nethlink 1 
+
+- :eyes:  **[fix: use lightweight endpoints with fallbacks for connectivity check](https://github.com/NethServer/nethlink/pull/87)** by *edospadoni* - Reviewers: *None* - Created at: 2026-02-05T09:20:26Z
+
 ### NethServer/ns8-lamp 1 
 
--   **[Refine README and set working directory in Containerfile](https://github.com/NethServer/ns8-lamp/pull/82)** by *stephdl* - Reviewers: *mrmarkuz* - Created at: 2026-02-04T14:41:50Z
+- :eyes:  **[Add support for custom scripts in the module](https://github.com/NethServer/ns8-lamp/pull/83)** by *stephdl* - Reviewers: *None* - Created at: 2026-02-05T10:17:33Z
 
 ### NethServer/nethsecurity-monitoring 1 
 
 - :eyes:  **[chore(main): release 1.0.0](https://github.com/NethServer/nethsecurity-monitoring/pull/5)** by *Tbaile* - Reviewers: *None* - Created at: 2026-01-22T13:43:47Z
 
 ## Organization: nethesis
-
-### nethesis/nethcti-server 1 
-
--   **[fix: add audio format conversion and normalization functions](https://github.com/nethesis/nethcti-server/pull/343)** by *tommaso-ascani* - Reviewers: *edospadoni* - Created at: 2026-02-02T16:35:27Z
 
 ### nethesis/icaro 1 
 
