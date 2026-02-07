@@ -2,7 +2,7 @@
 
 title = 'To be released soon'
 
-date = 2026-02-06
+date = 2026-02-07
 
 +++
 
@@ -10,21 +10,9 @@ date = 2026-02-06
 
 - [NethCTI server file upload for voicemail is accepted but not played by Asterisk](https://github.com/NethServer/dev/issues/7846) (#7608) by tommaso-ascani (Created: 2026-02-03T10:38:35Z, Updated: 2026-02-05T14:17:13Z)
 
-### NethServer
-
-- [Applications page: product type labels are not humanized](https://github.com/NethServer/dev/issues/7837) (#7608) by edospadoni (Created: 2026-01-28T15:38:28Z, Updated: 2026-02-05T15:33:21Z)
-
-- [ns8-core: rich firewall rule update fails with 403 Forbidden even with correct node:fwadm authorization](https://github.com/NethServer/dev/issues/7836) (#7608) by Amygos (Created: 2026-01-28T08:18:49Z, Updated: 2026-02-02T09:55:21Z)
-
-- [Unify community and enterprise inventories with sensitive data obfuscation](https://github.com/NethServer/dev/issues/7829) (#7608) by edospadoni (Created: 2026-01-21T13:24:07Z, Updated: 2026-01-26T15:54:48Z)
-
-- [Offline worker after power outage](https://github.com/NethServer/dev/issues/7806) (#7608) by DavidePrincipi (Created: 2026-01-09T09:27:19Z, Updated: 2026-01-30T12:01:28Z)
-
-- [Upgrade Webtop dependencies (tracking issue)](https://github.com/NethServer/dev/issues/7763) (#7608) by stephdl (Created: 2025-11-28T14:06:59Z, Updated: 2026-02-02T08:16:47Z)
-
-- [Support NS8 installation and upgrade in Debian Trixie](https://github.com/NethServer/dev/issues/7608) (#7608) by mrmarkuz (Created: 2025-08-25T06:54:40Z, Updated: 2026-01-30T12:01:35Z)
-
 ### NethVoice
+
+- [NethLink: Inconsistent localization in NethLink “Recent calls” (days and months shown in English)](https://github.com/NethServer/dev/issues/7839) (#7608) by mgarra (Created: 2026-01-29T11:56:11Z, Updated: 2026-02-06T10:07:32Z)
 
 - [NethVoice CTI: Line Key changes from CTI are not applied to the phone unless reprovisioning is forced](https://github.com/NethServer/dev/issues/7824) (#7608) by mgarra (Created: 2026-01-19T14:58:39Z, Updated: 2026-01-19T15:51:36Z)
 
@@ -42,9 +30,27 @@ date = 2026-02-06
 
 - [NethCTI: Force 2FA activation prompt on first user login](https://github.com/NethServer/dev/issues/7709) (#7608) by viktec (Created: 2025-10-30T14:02:44Z, Updated: 2026-01-23T13:42:02Z)
 
+### NethServer
+
+- [Applications page: product type labels are not humanized](https://github.com/NethServer/dev/issues/7837) (#7608) by edospadoni (Created: 2026-01-28T15:38:28Z, Updated: 2026-02-05T15:33:21Z)
+
+- [ns8-core: rich firewall rule update fails with 403 Forbidden even with correct node:fwadm authorization](https://github.com/NethServer/dev/issues/7836) (#7608) by Amygos (Created: 2026-01-28T08:18:49Z, Updated: 2026-02-02T09:55:21Z)
+
+- [Unify community and enterprise inventories with sensitive data obfuscation](https://github.com/NethServer/dev/issues/7829) (#7608) by edospadoni (Created: 2026-01-21T13:24:07Z, Updated: 2026-01-26T15:54:48Z)
+
+- [Offline worker after power outage](https://github.com/NethServer/dev/issues/7806) (#7608) by DavidePrincipi (Created: 2026-01-09T09:27:19Z, Updated: 2026-01-30T12:01:28Z)
+
+- [Upgrade Webtop dependencies (tracking issue)](https://github.com/NethServer/dev/issues/7763) (#7608) by stephdl (Created: 2025-11-28T14:06:59Z, Updated: 2026-02-02T08:16:47Z)
+
+- [Select disk for app volume destination](https://github.com/NethServer/dev/issues/7757) (#7608) by DavidePrincipi (Created: 2025-11-20T09:38:37Z, Updated: 2026-02-06T17:12:18Z)
+
+- [Support NS8 installation and upgrade in Debian Trixie](https://github.com/NethServer/dev/issues/7608) (#7608) by mrmarkuz (Created: 2025-08-25T06:54:40Z, Updated: 2026-01-30T12:01:35Z)
+
 ### NethSecurity
 
 - [OpenVPN Road Warrior UI blocks configuration when /etc/openvpn/ns_roadwarrior1/pki/issued/ exists](https://github.com/NethServer/nethsecurity/issues/1492) (#1354) by gsanchietti (Created: 2026-01-27T13:37:41Z, Updated: 2026-01-28T10:49:31Z)
+
+- [HA firewall cannot manage interfaces with long bond names](https://github.com/NethServer/nethsecurity/issues/1478) (#1354) by cotosso (Created: 2026-01-16T10:19:10Z, Updated: 2026-02-06T16:20:23Z)
 
 - [Traffic data mismatch between controller and firewall](https://github.com/NethServer/nethsecurity/issues/1471) (#1354) by cotosso (Created: 2026-01-14T10:27:37Z, Updated: 2026-02-04T10:45:36Z)
 

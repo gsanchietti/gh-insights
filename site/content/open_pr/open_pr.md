@@ -1,6 +1,6 @@
 +++
 title = 'Open Pull Requests'
-date = 2026-02-06
+date = 2026-02-07
 +++
 
 ## Organization: nethserver
@@ -9,25 +9,27 @@ date = 2026-02-06
 
 -   **[Backup action changes for UX improvements](https://github.com/NethServer/ns8-core/pull/1069)** by *DavidePrincipi* - Reviewers: *stephdl* - Created at: 2026-02-03T15:14:05Z
 
-### NethServer/ns8-traefik 2 
+### NethServer/ns8-traefik 1 
 
-- :eyes:  **[Check if key has a passphrase](https://github.com/NethServer/ns8-traefik/pull/125)** by *mrmarkuz* - Reviewers: *None* - Created at: 2026-02-05T08:57:59Z
 - :eyes: :zzz: **[fix: cryptography 45 deprecation warning](https://github.com/NethServer/ns8-traefik/pull/120)** by *DavidePrincipi* - Reviewers: *None* - Created at: 2025-10-28T08:48:29Z
 
 ### NethServer/ns8-terraform-infra 1 
 
 - :eyes:  **[feat: run tests on Debian 13 (Trixie)](https://github.com/NethServer/ns8-terraform-infra/pull/6)** by *DavidePrincipi* - Reviewers: *None* - Created at: 2026-01-23T09:56:16Z
 
-### NethServer/nethsecurity 4 
+### NethServer/nethsecurity 3 
 
+- :eyes:  **[fix(wireguard): mtu for peers and config adjustments](https://github.com/NethServer/nethsecurity/pull/1507)** by *Tbaile* - Reviewers: *None* - Created at: 2026-02-06T13:08:53Z
 -   **[chore: revert nginx fork](https://github.com/NethServer/nethsecurity/pull/1505)** by *gsanchietti* - Reviewers: *Tbaile* - Created at: 2026-02-05T07:21:14Z
--   **[Update easy rsa](https://github.com/NethServer/nethsecurity/pull/1504)** by *gsanchietti* - Reviewers: *m-dilorenzi* - Created at: 2026-02-05T06:53:15Z
--   **[feat(api): ovpntunnel, retrieve all cert info](https://github.com/NethServer/nethsecurity/pull/1502)** by *gsanchietti* - Reviewers: *Tbaile, m-dilorenzi* - Created at: 2026-02-04T15:26:44Z
 - :eyes: :zzz: **[build: added softflowd](https://github.com/NethServer/nethsecurity/pull/1453)** by *Tbaile* - Reviewers: *None* - Created at: 2025-12-10T11:48:14Z
 
 ### NethServer/ns8-nethsecurity-controller 1 
 
 - :eyes: :zzz: **[feat(ci): renovate, automerge patches](https://github.com/NethServer/ns8-nethsecurity-controller/pull/135)** by *gsanchietti* - Reviewers: *None* - Created at: 2025-11-24T07:54:15Z
+
+### NethServer/python3-nethsec 1 
+
+- :eyes:  **[fix(ovpn): catching output if unable to resolve myip.opendns.com](https://github.com/NethServer/python3-nethsec/pull/111)** by *Tbaile* - Reviewers: *None* - Created at: 2026-02-06T10:57:06Z
 
 ### NethServer/ns8-roundcubemail 1 
 
@@ -37,10 +39,9 @@ date = 2026-02-06
 
 - :eyes: :zzz: **[chore(master): release 1.5.1](https://github.com/NethServer/phonehome-server/pull/138)** by *Tbaile* - Reviewers: *None* - Created at: 2025-11-15T06:38:38Z
 
-### NethServer/ns8-docs 6 
+### NethServer/ns8-docs 5 
 
--   **[feat: select disk for app volume destination](https://github.com/NethServer/ns8-docs/pull/221)** by *DavidePrincipi* - Reviewers: *stephdl, lucagasparini, nrauso, mrmarkuz* - Created at: 2026-02-05T16:21:47Z
-- :eyes:  **[Update terminology from "file shares" to "shared folders" in Samba documentation](https://github.com/NethServer/ns8-docs/pull/220)** by *stephdl* - Reviewers: *None* - Created at: 2026-02-05T10:36:19Z
+-   **[feat: select disk for app volume destination](https://github.com/NethServer/ns8-docs/pull/221)** by *DavidePrincipi* - Reviewers: *lucagasparini* - Created at: 2026-02-05T16:21:47Z
 - :eyes:  **[Add forbidden key passphrase](https://github.com/NethServer/ns8-docs/pull/219)** by *mrmarkuz* - Reviewers: *None* - Created at: 2026-02-05T09:12:25Z
 - :eyes:  **[Add LAMP documentation to the index and create lamp.rst file](https://github.com/NethServer/ns8-docs/pull/218)** by *stephdl* - Reviewers: *None* - Created at: 2026-02-03T16:45:37Z
 - :eyes:  **[Add rustfs documentation](https://github.com/NethServer/ns8-docs/pull/217)** by *mrmarkuz* - Reviewers: *None* - Created at: 2026-01-28T13:29:42Z
@@ -48,11 +49,10 @@ date = 2026-02-06
 
 ### NethServer/nethsecurity-ui 1 
 
--   **[feat(ovpntunnel): show all cert expirations](https://github.com/NethServer/nethsecurity-ui/pull/690)** by *gsanchietti* - Reviewers: *Tbaile* - Created at: 2026-02-04T15:46:14Z
+-   **[feat(wireguard): mtu for peers and amenities](https://github.com/NethServer/nethsecurity-ui/pull/693)** by *Tbaile* - Reviewers: *andre8244* - Created at: 2026-02-06T13:43:12Z
 
-### NethServer/nethsecurity-docs 3 
+### NethServer/nethsecurity-docs 2 
 
-- :eyes:  **[Migration: redirect for port 80](https://github.com/NethServer/nethsecurity-docs/pull/222)** by *gsanchietti* - Reviewers: *None* - Created at: 2026-02-05T15:21:10Z
 -   **[feat: added nginx removal of `server_tokens`](https://github.com/NethServer/nethsecurity-docs/pull/221)** by *Tbaile* - Reviewers: *cotosso* - Created at: 2026-01-15T11:23:43Z
 -  :zzz: **[fix(ha): update for beta2](https://github.com/NethServer/nethsecurity-docs/pull/208)** by *gsanchietti* - Reviewers: *filippocarletti* - Created at: 2025-10-02T10:43:05Z
 
@@ -71,10 +71,6 @@ date = 2026-02-06
 ### NethServer/nethlink 1 
 
 - :eyes:  **[fix: use lightweight endpoints with fallbacks for connectivity check](https://github.com/NethServer/nethlink/pull/87)** by *edospadoni* - Reviewers: *None* - Created at: 2026-02-05T09:20:26Z
-
-### NethServer/ns8-lamp 1 
-
-- :eyes:  **[Add support for custom scripts in the module](https://github.com/NethServer/ns8-lamp/pull/83)** by *stephdl* - Reviewers: *None* - Created at: 2026-02-05T10:17:33Z
 
 ### NethServer/nethsecurity-monitoring 1 
 
