@@ -1,6 +1,6 @@
 +++
 title = 'Open Pull Requests by Bots'
-date = 2026-02-08
+date = 2026-02-09
 +++
 
 ## Organization: nethserver
@@ -270,6 +270,11 @@ date = 2026-02-08
 
 - :eyes: :zzz: **[chore(deps): update dependency python to 3.14](https://github.com/nethesis/satellite/pull/22)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-12-17T07:44:36Z
 - :eyes: :zzz: **[chore(deps): update dependency deepgram-sdk to v5](https://github.com/nethesis/satellite/pull/11)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-11-27T15:44:47Z
+
+### nethesis/nethcti-middleware 2 
+
+- :eyes:  **[chore(deps): update module github.com/gin-contrib/gzip to v1.2.5](https://github.com/nethesis/nethcti-middleware/pull/19)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-02-09T03:40:50Z
+- :eyes:  **[chore(deps): update module github.com/gin-contrib/cors to v1.7.6](https://github.com/nethesis/nethcti-middleware/pull/18)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-02-09T03:40:37Z
 
 ### nethesis/matrix2acrobits 10 
 
