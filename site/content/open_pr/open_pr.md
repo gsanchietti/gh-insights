@@ -1,6 +1,6 @@
 +++
 title = 'Open Pull Requests'
-date = 2026-02-09
+date = 2026-02-10
 +++
 
 ## Organization: nethserver
@@ -9,17 +9,24 @@ date = 2026-02-09
 
 -   **[Backup action changes for UX improvements](https://github.com/NethServer/ns8-core/pull/1069)** by *DavidePrincipi* - Reviewers: *stephdl* - Created at: 2026-02-03T15:14:05Z
 
+### NethServer/ns8-webserver 1 
+
+- :eyes:  **[Add SMTP configuration and environment support](https://github.com/NethServer/ns8-webserver/pull/129)** by *stephdl* - Reviewers: *None* - Created at: 2026-02-09T09:41:43Z
+
 ### NethServer/ns8-traefik 1 
 
 - :eyes: :zzz: **[fix: cryptography 45 deprecation warning](https://github.com/NethServer/ns8-traefik/pull/120)** by *DavidePrincipi* - Reviewers: *None* - Created at: 2025-10-28T08:48:29Z
+
+### NethServer/ns8-openldap 1 
+
+- :eyes:  **[refactor(build): remove WITH_UI & always build UI](https://github.com/NethServer/ns8-openldap/pull/109)** by *andre8244* - Reviewers: *None* - Created at: 2026-02-09T12:54:22Z
 
 ### NethServer/ns8-terraform-infra 1 
 
 - :eyes:  **[feat: run tests on Debian 13 (Trixie)](https://github.com/NethServer/ns8-terraform-infra/pull/6)** by *DavidePrincipi* - Reviewers: *None* - Created at: 2026-01-23T09:56:16Z
 
-### NethServer/nethsecurity 3 
+### NethServer/nethsecurity 2 
 
-- :eyes:  **[fix(wireguard): mtu for peers and config adjustments](https://github.com/NethServer/nethsecurity/pull/1507)** by *Tbaile* - Reviewers: *None* - Created at: 2026-02-06T13:08:53Z
 -   **[chore: revert nginx fork](https://github.com/NethServer/nethsecurity/pull/1505)** by *gsanchietti* - Reviewers: *Tbaile* - Created at: 2026-02-05T07:21:14Z
 - :eyes: :zzz: **[build: added softflowd](https://github.com/NethServer/nethsecurity/pull/1453)** by *Tbaile* - Reviewers: *None* - Created at: 2025-12-10T11:48:14Z
 
@@ -29,7 +36,7 @@ date = 2026-02-09
 
 ### NethServer/python3-nethsec 1 
 
-- :eyes:  **[fix(ovpn): catching output if unable to resolve myip.opendns.com](https://github.com/NethServer/python3-nethsec/pull/111)** by *Tbaile* - Reviewers: *None* - Created at: 2026-02-06T10:57:06Z
+-   **[fix(inventory): updated wireguard fetching info](https://github.com/NethServer/python3-nethsec/pull/112)** by *Tbaile* - Reviewers: *gsanchietti* - Created at: 2026-02-09T13:36:47Z
 
 ### NethServer/ns8-roundcubemail 1 
 
@@ -39,17 +46,10 @@ date = 2026-02-09
 
 - :eyes: :zzz: **[chore(master): release 1.5.1](https://github.com/NethServer/phonehome-server/pull/138)** by *Tbaile* - Reviewers: *None* - Created at: 2025-11-15T06:38:38Z
 
-### NethServer/ns8-docs 5 
+### NethServer/ns8-docs 2 
 
--   **[feat: select disk for app volume destination](https://github.com/NethServer/ns8-docs/pull/221)** by *DavidePrincipi* - Reviewers: *lucagasparini* - Created at: 2026-02-05T16:21:47Z
-- :eyes:  **[Add forbidden key passphrase](https://github.com/NethServer/ns8-docs/pull/219)** by *mrmarkuz* - Reviewers: *None* - Created at: 2026-02-05T09:12:25Z
 - :eyes:  **[Add LAMP documentation to the index and create lamp.rst file](https://github.com/NethServer/ns8-docs/pull/218)** by *stephdl* - Reviewers: *None* - Created at: 2026-02-03T16:45:37Z
 - :eyes:  **[Add rustfs documentation](https://github.com/NethServer/ns8-docs/pull/217)** by *mrmarkuz* - Reviewers: *None* - Created at: 2026-01-28T13:29:42Z
-- :eyes:  **[Manually run apply-vpn-routes ](https://github.com/NethServer/ns8-docs/pull/215)** by *DavidePrincipi* - Reviewers: *None* - Created at: 2026-01-15T17:00:49Z
-
-### NethServer/nethsecurity-ui 1 
-
--   **[feat(wireguard): mtu for peers and amenities](https://github.com/NethServer/nethsecurity-ui/pull/693)** by *Tbaile* - Reviewers: *andre8244* - Created at: 2026-02-06T13:43:12Z
 
 ### NethServer/nethsecurity-docs 2 
 
@@ -96,8 +96,10 @@ date = 2026-02-09
 - :eyes:  **[Add new Snom model snom-D335 snom-D810 snom-D892](https://github.com/nethesis/tancredi/pull/345)** by *andrea-marchionni* - Reviewers: *None* - Created at: 2026-01-21T10:01:19Z
 - :eyes:  **[Add pattern for fanvil 00-A8-5A MAC address](https://github.com/nethesis/tancredi/pull/344)** by *Stell0* - Reviewers: *None* - Created at: 2026-01-16T11:09:20Z
 
-### nethesis/ns8-nethvoice 7 
+### nethesis/ns8-nethvoice 9 
 
+- :eyes:  **[Add New Provider OVAL](https://github.com/nethesis/ns8-nethvoice/pull/681)** by *fabbri-marco* - Reviewers: *None* - Created at: 2026-02-09T15:50:10Z
+- :eyes:  **[Adds shebang to sample script](https://github.com/nethesis/ns8-nethvoice/pull/680)** by *a-ghigi* - Reviewers: *None* - Created at: 2026-02-09T14:24:43Z
 - :eyes:  **[fix: removed jsPDF library](https://github.com/nethesis/ns8-nethvoice/pull/678)** by *tonyco97* - Reviewers: *None* - Created at: 2026-02-03T08:37:53Z
 - :eyes:  **[fix(clone): update proxy configuration of extensions and trunks](https://github.com/nethesis/ns8-nethvoice/pull/669)** by *Stell0* - Reviewers: *None* - Created at: 2026-01-26T08:40:38Z
 -   **[Add new Gigaset mac addresses](https://github.com/nethesis/ns8-nethvoice/pull/667)** by *Stell0* - Reviewers: *Amygos* - Created at: 2026-01-21T15:24:21Z

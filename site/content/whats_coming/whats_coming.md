@@ -2,49 +2,35 @@
 
 title = 'To be released soon'
 
-date = 2026-02-09
+date = 2026-02-10
 
 +++
 
 ### NoMilestone
 
-- [NethCTI server file upload for voicemail is accepted but not played by Asterisk](https://github.com/NethServer/dev/issues/7846) (#7608) by tommaso-ascani (Created: 2026-02-03T10:38:35Z, Updated: 2026-02-05T14:17:13Z)
+- [NethCTI server file upload for voicemail is accepted but not played by Asterisk](https://github.com/NethServer/dev/issues/7846) (#7709) by tommaso-ascani (Created: 2026-02-03T10:38:35Z, Updated: 2026-02-05T14:17:13Z)
 
 ### NethVoice
 
-- [NethLink: Inconsistent localization in NethLink “Recent calls” (days and months shown in English)](https://github.com/NethServer/dev/issues/7839) (#7608) by mgarra (Created: 2026-01-29T11:56:11Z, Updated: 2026-02-06T10:07:32Z)
+- [NethLink: Inconsistent localization in NethLink “Recent calls” (days and months shown in English)](https://github.com/NethServer/dev/issues/7839) (#7709) by mgarra (Created: 2026-01-29T11:56:11Z, Updated: 2026-02-06T10:07:32Z)
 
-- [NethVoice CTI: Line Key changes from CTI are not applied to the phone unless reprovisioning is forced](https://github.com/NethServer/dev/issues/7824) (#7608) by mgarra (Created: 2026-01-19T14:58:39Z, Updated: 2026-01-19T15:51:36Z)
+- [Design: Simplify “NethVoice Proxy” step for second NethVoice instance](https://github.com/NethServer/dev/issues/7828) (#7709) by AmaLuci (Created: 2026-01-20T16:39:06Z, Updated: 2026-02-09T12:07:15Z)
 
-- [NethVoice reports show no data – scheduled task runs without errors, filters return 404](https://github.com/NethServer/dev/issues/7820) (#7608) by andrea-marchionni (Created: 2026-01-15T11:01:10Z, Updated: 2026-02-03T14:39:31Z)
+- [NethVoice CTI: Line Key changes from CTI are not applied to the phone unless reprovisioning is forced](https://github.com/NethServer/dev/issues/7824) (#7709) by mgarra (Created: 2026-01-19T14:58:39Z, Updated: 2026-01-19T15:51:36Z)
 
-- [NethVoice: If i set an extension as an object's destination using Visual Plan, the extension settings are reset to default.](https://github.com/NethServer/dev/issues/7805) (#7608) by fabbri-marco (Created: 2026-01-08T15:22:14Z, Updated: 2026-01-23T13:42:13Z)
+- [NethVoice reports show no data – scheduled task runs without errors, filters return 404](https://github.com/NethServer/dev/issues/7820) (#7709) by andrea-marchionni (Created: 2026-01-15T11:01:10Z, Updated: 2026-02-03T14:39:31Z)
 
-- [NethLink: Listen and Intrude open standard call phone island and show "Unknown" label](https://github.com/NethServer/dev/issues/7800) (#7608) by mgarra (Created: 2026-01-07T11:57:00Z, Updated: 2026-01-21T08:12:42Z)
+- [NethVoice: If i set an extension as an object's destination using Visual Plan, the extension settings are reset to default.](https://github.com/NethServer/dev/issues/7805) (#7709) by fabbri-marco (Created: 2026-01-08T15:22:14Z, Updated: 2026-01-23T13:42:13Z)
 
-- [NethVoice CTI: Deepgram call transcription does not work for outgoing external calls](https://github.com/NethServer/dev/issues/7795) (#7608) by mgarra (Created: 2025-12-19T15:29:11Z, Updated: 2026-02-02T09:13:41Z)
+- [NethLink: Listen and Intrude open standard call phone island and show "Unknown" label](https://github.com/NethServer/dev/issues/7800) (#7709) by mgarra (Created: 2026-01-07T11:57:00Z, Updated: 2026-01-21T08:12:42Z)
 
-- [NethVoice: Masking of the last three digits of calls in PBX reports for users with privacy enabled](https://github.com/NethServer/dev/issues/7781) (#7608) by viktec (Created: 2025-12-05T11:02:34Z, Updated: 2026-02-03T14:39:12Z)
+- [NethVoice CTI: Deepgram call transcription does not work for outgoing external calls](https://github.com/NethServer/dev/issues/7795) (#7709) by mgarra (Created: 2025-12-19T15:29:11Z, Updated: 2026-02-02T09:13:41Z)
 
-- [Tancredi needs ❤️ too](https://github.com/NethServer/dev/issues/7779) (#7608) by Stell0 (Created: 2025-12-05T08:37:50Z, Updated: 2026-02-03T11:44:45Z)
+- [NethVoice: Masking of the last three digits of calls in PBX reports for users with privacy enabled](https://github.com/NethServer/dev/issues/7781) (#7709) by viktec (Created: 2025-12-05T11:02:34Z, Updated: 2026-02-03T14:39:12Z)
 
-- [NethCTI: Force 2FA activation prompt on first user login](https://github.com/NethServer/dev/issues/7709) (#7608) by viktec (Created: 2025-10-30T14:02:44Z, Updated: 2026-01-23T13:42:02Z)
+- [Tancredi needs ❤️ too](https://github.com/NethServer/dev/issues/7779) (#7709) by Stell0 (Created: 2025-12-05T08:37:50Z, Updated: 2026-02-03T11:44:45Z)
 
-### NethServer
-
-- [Applications page: product type labels are not humanized](https://github.com/NethServer/dev/issues/7837) (#7608) by edospadoni (Created: 2026-01-28T15:38:28Z, Updated: 2026-02-05T15:33:21Z)
-
-- [ns8-core: rich firewall rule update fails with 403 Forbidden even with correct node:fwadm authorization](https://github.com/NethServer/dev/issues/7836) (#7608) by Amygos (Created: 2026-01-28T08:18:49Z, Updated: 2026-02-02T09:55:21Z)
-
-- [Unify community and enterprise inventories with sensitive data obfuscation](https://github.com/NethServer/dev/issues/7829) (#7608) by edospadoni (Created: 2026-01-21T13:24:07Z, Updated: 2026-01-26T15:54:48Z)
-
-- [Offline worker after power outage](https://github.com/NethServer/dev/issues/7806) (#7608) by DavidePrincipi (Created: 2026-01-09T09:27:19Z, Updated: 2026-01-30T12:01:28Z)
-
-- [Upgrade Webtop dependencies (tracking issue)](https://github.com/NethServer/dev/issues/7763) (#7608) by stephdl (Created: 2025-11-28T14:06:59Z, Updated: 2026-02-02T08:16:47Z)
-
-- [Select disk for app volume destination](https://github.com/NethServer/dev/issues/7757) (#7608) by DavidePrincipi (Created: 2025-11-20T09:38:37Z, Updated: 2026-02-06T17:12:18Z)
-
-- [Support NS8 installation and upgrade in Debian Trixie](https://github.com/NethServer/dev/issues/7608) (#7608) by mrmarkuz (Created: 2025-08-25T06:54:40Z, Updated: 2026-01-30T12:01:35Z)
+- [NethCTI: Force 2FA activation prompt on first user login](https://github.com/NethServer/dev/issues/7709) (#7709) by viktec (Created: 2025-10-30T14:02:44Z, Updated: 2026-01-23T13:42:02Z)
 
 ### NethSecurity
 
