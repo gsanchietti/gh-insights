@@ -1,12 +1,13 @@
 +++
 title = 'Open Pull Requests'
-date = 2026-02-11
+date = 2026-02-12
 +++
 
 ## Organization: nethserver
 
-### NethServer/ns8-core 1 
+### NethServer/ns8-core 2 
 
+- :eyes:  **[feat: send data to new enterprise portal proxy](https://github.com/NethServer/ns8-core/pull/1078)** by *gsanchietti* - Reviewers: *None* - Created at: 2026-02-11T14:22:29Z
 -   **[Backup action changes for UX improvements](https://github.com/NethServer/ns8-core/pull/1069)** by *DavidePrincipi* - Reviewers: *stephdl* - Created at: 2026-02-03T15:14:05Z
 
 ### NethServer/ns8-webserver 1 
@@ -44,10 +45,11 @@ date = 2026-02-11
 - :eyes:  **[Add LAMP documentation to the index and create lamp.rst file](https://github.com/NethServer/ns8-docs/pull/218)** by *stephdl* - Reviewers: *None* - Created at: 2026-02-03T16:45:37Z
 - :eyes:  **[Add rustfs documentation](https://github.com/NethServer/ns8-docs/pull/217)** by *mrmarkuz* - Reviewers: *None* - Created at: 2026-01-28T13:29:42Z
 
-### NethServer/nethsecurity-docs 2 
+### NethServer/nethsecurity-docs 3 
 
+- :eyes:  **[feat(TS DNS): add local allowlist section and domain blocklist troubleshooting](https://github.com/NethServer/nethsecurity-docs/pull/224)** by *francio87* - Reviewers: *None* - Created at: 2026-02-11T14:08:03Z
 -   **[feat: added nginx removal of `server_tokens`](https://github.com/NethServer/nethsecurity-docs/pull/221)** by *Tbaile* - Reviewers: *cotosso* - Created at: 2026-01-15T11:23:43Z
--  :zzz: **[fix(ha): update for beta2](https://github.com/NethServer/nethsecurity-docs/pull/208)** by *gsanchietti* - Reviewers: *filippocarletti* - Created at: 2025-10-02T10:43:05Z
+- :eyes: :zzz: **[fix(ha): update for beta2](https://github.com/NethServer/nethsecurity-docs/pull/208)** by *gsanchietti* - Reviewers: *None* - Created at: 2025-10-02T10:43:05Z
 
 ### NethServer/ns8-user-manager 1 
 
@@ -66,9 +68,17 @@ date = 2026-02-11
 - :eyes:  **[chore(dep): update phone-island](https://github.com/NethServer/nethlink/pull/88)** by *tonyco97* - Reviewers: *None* - Created at: 2026-02-10T08:04:10Z
 - :eyes:  **[fix: use lightweight endpoints with fallbacks for connectivity check](https://github.com/NethServer/nethlink/pull/87)** by *edospadoni* - Reviewers: *None* - Created at: 2026-02-05T09:20:26Z
 
-### NethServer/nethvoice-docs 1 
+### NethServer/my 1 
 
--   **[Add voicemail configuration](https://github.com/NethServer/nethvoice-docs/pull/36)** by *Stell0* - Reviewers: *andrea-marchionni* - Created at: 2026-02-10T17:09:59Z
+-   **[feat(inventory): extract nethsecurity IPv4/IPv6](https://github.com/NethServer/my/pull/39)** by *gsanchietti* - Reviewers: *edospadoni* - Created at: 2026-02-11T13:46:25Z
+
+### NethServer/ns8-matrix 1 
+
+- :eyes:  **[Add update procedure to restart the enabled services](https://github.com/NethServer/ns8-matrix/pull/60)** by *mrmarkuz* - Reviewers: *None* - Created at: 2026-02-11T16:06:31Z
+
+### NethServer/ns8-rustfs 1 
+
+-   **[Fix clean registry](https://github.com/NethServer/ns8-rustfs/pull/24)** by *mrmarkuz* - Reviewers: *stephdl* - Created at: 2026-02-11T15:42:45Z
 
 ### NethServer/nethsecurity-monitoring 1 
 
@@ -98,8 +108,10 @@ date = 2026-02-11
 - :eyes:  **[Add new Snom model snom-D335 snom-D810 snom-D892](https://github.com/nethesis/tancredi/pull/345)** by *andrea-marchionni* - Reviewers: *None* - Created at: 2026-01-21T10:01:19Z
 - :eyes:  **[Add pattern for fanvil 00-A8-5A MAC address](https://github.com/nethesis/tancredi/pull/344)** by *Stell0* - Reviewers: *None* - Created at: 2026-01-16T11:09:20Z
 
-### nethesis/ns8-nethvoice 10 
+### nethesis/ns8-nethvoice 12 
 
+- :eyes:  **[add new provider enegan](https://github.com/nethesis/ns8-nethvoice/pull/686)** by *margit86* - Reviewers: *None* - Created at: 2026-02-11T16:23:59Z
+- :eyes:  **[fix(visualplan): align new IVR defaults with FreePBX and fix timeout/invalid handling](https://github.com/nethesis/ns8-nethvoice/pull/685)** by *tommaso-ascani* - Reviewers: *None* - Created at: 2026-02-11T10:01:21Z
 -   **[fix(nethcti-server): use 127.0.0.1 instead of localhost in services.json](https://github.com/nethesis/ns8-nethvoice/pull/684)** by *edospadoni* - Reviewers: *Stell0* - Created at: 2026-02-10T10:49:52Z
 - :eyes:  **[chore(deps): update ghcr.io/nethesis/nethvoice-cti docker tag to v0.15.5](https://github.com/nethesis/ns8-nethvoice/pull/683)** by *tonyco97* - Reviewers: *None* - Created at: 2026-02-10T08:14:32Z
 - :eyes:  **[Add New Provider OVAL](https://github.com/nethesis/ns8-nethvoice/pull/681)** by *fabbri-marco* - Reviewers: *None* - Created at: 2026-02-09T15:50:10Z

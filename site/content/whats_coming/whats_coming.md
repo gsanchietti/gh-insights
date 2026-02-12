@@ -2,15 +2,13 @@
 
 title = 'To be released soon'
 
-date = 2026-02-11
+date = 2026-02-12
 
 +++
 
-### NoMilestone
-
-- [NethCTI server file upload for voicemail is accepted but not played by Asterisk](https://github.com/NethServer/dev/issues/7846) (#7709) by tommaso-ascani (Created: 2026-02-03T10:38:35Z, Updated: 2026-02-05T14:17:13Z)
-
 ### NethVoice
+
+- [NethVoice: extend call transcription with advanced summarization and search features](https://github.com/NethServer/dev/issues/7858) (#7709) by Amygos (Created: 2026-02-10T15:04:29Z, Updated: 2026-02-11T16:35:11Z)
 
 - [NethLink: Inconsistent localization in NethLink “Recent calls” (days and months shown in English)](https://github.com/NethServer/dev/issues/7839) (#7709) by mgarra (Created: 2026-01-29T11:56:11Z, Updated: 2026-02-06T10:07:32Z)
 
@@ -32,7 +30,13 @@ date = 2026-02-11
 
 - [NethCTI: Force 2FA activation prompt on first user login](https://github.com/NethServer/dev/issues/7709) (#7709) by viktec (Created: 2025-10-30T14:02:44Z, Updated: 2026-01-23T13:42:02Z)
 
+### NoMilestone
+
+- [NethCTI server file upload for voicemail is accepted but not played by Asterisk](https://github.com/NethServer/dev/issues/7846) (#7709) by tommaso-ascani (Created: 2026-02-03T10:38:35Z, Updated: 2026-02-05T14:17:13Z)
+
 ### NethSecurity
+
+- [Revert nginx fork ](https://github.com/NethServer/nethsecurity/issues/1506) (#1354) by gsanchietti (Created: 2026-02-05T12:04:08Z, Updated: 2026-02-11T08:00:13Z)
 
 - [OpenVPN Road Warrior UI blocks configuration when /etc/openvpn/ns_roadwarrior1/pki/issued/ exists](https://github.com/NethServer/nethsecurity/issues/1492) (#1354) by gsanchietti (Created: 2026-01-27T13:37:41Z, Updated: 2026-01-28T10:49:31Z)
 
@@ -50,17 +54,19 @@ date = 2026-02-11
 
 - [Add WireGuard VPN status card to the dashboard](https://github.com/NethServer/nethsecurity/issues/1450) (#1354) by cotosso (Created: 2025-12-05T13:41:54Z, Updated: 2026-02-10T08:18:52Z)
 
+- [Routing page does not display routing table when no additional route is present](https://github.com/NethServer/nethsecurity/issues/1447) (#1354) by cotosso (Created: 2025-11-28T16:04:07Z, Updated: 2026-02-11T13:14:11Z)
+
 - [Wireguard public IP check: Fail silently if IP cannot be resolved](https://github.com/NethServer/nethsecurity/issues/1443) (#1354) by Tbaile (Created: 2025-11-26T09:36:05Z, Updated: 2026-02-10T08:40:30Z)
 
 - [network scan fails when using very large subnets](https://github.com/NethServer/nethsecurity/issues/1434) (#1354) by cotosso (Created: 2025-11-14T17:01:16Z, Updated: 2026-02-10T07:47:31Z)
+
+- [Improve IPsec status visibility for multi-network tunnels](https://github.com/NethServer/nethsecurity/issues/1430) (#1354) by cotosso (Created: 2025-11-14T10:30:06Z, Updated: 2026-02-11T12:45:22Z)
+
+- [IPsec: UI edit causes tunnel to not be generated correctly](https://github.com/NethServer/nethsecurity/issues/1425) (#1354) by Tbaile (Created: 2025-11-13T09:03:36Z, Updated: 2026-02-11T12:44:44Z)
 
 - [Snort: home_net configuration does not get updated](https://github.com/NethServer/nethsecurity/issues/1422) (#1354) by francio87 (Created: 2025-11-06T17:51:26Z, Updated: 2026-02-10T10:57:15Z)
 
 - [Unify Snort host bypass: one entry for both directions (source and destination)](https://github.com/NethServer/nethsecurity/issues/1381) (#1354) by gsanchietti (Created: 2025-09-30T08:50:53Z, Updated: 2026-02-10T11:38:31Z)
 
 - [Reverse proxy: inconsistent behavior for default certificate](https://github.com/NethServer/nethsecurity/issues/1354) (#1354) by francio87 (Created: 2025-08-22T13:58:49Z, Updated: 2026-01-26T09:21:41Z)
-
-### NoMilestone
-
-- [Routing page does not display routing table when no additional route is present](https://github.com/NethServer/nethsecurity/issues/1447) (#1354) by cotosso (Created: 2025-11-28T16:04:07Z, Updated: 2026-02-10T07:39:35Z)
 

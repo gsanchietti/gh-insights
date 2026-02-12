@@ -1,6 +1,6 @@
 +++
 title = 'Open Pull Requests by Bots'
-date = 2026-02-11
+date = 2026-02-12
 +++
 
 ## Organization: nethserver
@@ -46,10 +46,9 @@ date = 2026-02-11
 
 - :eyes: :zzz: **[Translations update from Hosted Weblate](https://github.com/NethServer/ns8-minio/pull/39)** by *weblate* - Reviewers: *None* - Created at: 2025-12-29T04:00:40Z
 
-### NethServer/ns8-samba 3 
+### NethServer/ns8-samba 2 
 
 - :eyes:  **[fix(deps): update dependency axios to v1 [security]](https://github.com/NethServer/ns8-samba/pull/185)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-02-10T10:15:10Z
-- :eyes:  **[chore(deps): update dependency @nethserver/ns8-ui-lib to v1.12.0](https://github.com/NethServer/ns8-samba/pull/184)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-02-05T10:05:50Z
 - :eyes:  **[Translations update from Hosted Weblate](https://github.com/NethServer/ns8-samba/pull/182)** by *weblate* - Reviewers: *None* - Created at: 2026-01-30T23:02:14Z
 
 ### NethServer/ns8-loki 1 
@@ -127,9 +126,8 @@ date = 2026-02-11
 
 - :eyes: :zzz: **[chore(deps): update debian docker tag to v13](https://github.com/NethServer/ns8-porthos/pull/9)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-08-12T22:35:00Z
 
-### NethServer/ns8-lamp 2 
+### NethServer/ns8-lamp 1 
 
-- :eyes:  **[Translations update from Hosted Weblate](https://github.com/NethServer/ns8-lamp/pull/84)** by *weblate* - Reviewers: *None* - Created at: 2026-02-10T10:10:21Z
 - :eyes:  **[Update dependency core-js to v3.48.0](https://github.com/NethServer/ns8-lamp/pull/74)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-01-21T18:28:19Z
 
 ### NethServer/ns8-passbolt 3 
@@ -142,11 +140,14 @@ date = 2026-02-11
 
 - :eyes:  **[chore(deps): update python docker tag to v3.14.3](https://github.com/NethServer/ns8-metrics/pull/57)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-02-04T22:45:13Z
 - :eyes:  **[chore(deps): update python docker tag to v3.13.12](https://github.com/NethServer/ns8-metrics/pull/56)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-02-04T22:45:09Z
-- :eyes:  **[chore(deps): update quay.io/prometheus/alertmanager docker tag to v0.31.0](https://github.com/NethServer/ns8-metrics/pull/55)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-02-02T19:55:24Z
+- :eyes:  **[chore(deps): update quay.io/prometheus/alertmanager docker tag to v0.31.1](https://github.com/NethServer/ns8-metrics/pull/55)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-02-02T19:55:24Z
 - :eyes:  **[chore(deps): update grafana/grafana docker tag to v12.3.2](https://github.com/NethServer/ns8-metrics/pull/54)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-01-27T21:07:46Z
 
-### NethServer/ns8-matrix 5 
+### NethServer/ns8-matrix 8 
 
+- :eyes:  **[chore(deps): update dependency vue-template-compiler to v2.7.16](https://github.com/NethServer/ns8-matrix/pull/54)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-02-11T12:45:15Z
+- :eyes:  **[chore(deps): update dependency @carbon/vue to v2.45.1](https://github.com/NethServer/ns8-matrix/pull/44)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-02-11T12:43:39Z
+- :eyes:  **[chore(deps): update dependency @carbon/icons-vue to v10.99.1](https://github.com/NethServer/ns8-matrix/pull/43)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-02-11T12:43:28Z
 - :eyes: :zzz: **[chore(deps-dev): bump prettier from 2.3.2 to 3.7.4 in /ui](https://github.com/NethServer/ns8-matrix/pull/32)** by *dependabot[bot]* - Reviewers: *None* - Created at: 2025-12-15T06:32:39Z
 - :eyes: :zzz: **[chore(deps-dev): bump vue-template-compiler from 2.6.14 to 2.7.16 in /ui](https://github.com/NethServer/ns8-matrix/pull/31)** by *dependabot[bot]* - Reviewers: *None* - Created at: 2025-12-15T06:32:31Z
 - :eyes: :zzz: **[chore(deps): bump vue-debounce from 4.0.0 to 4.0.1 in /ui](https://github.com/NethServer/ns8-matrix/pull/30)** by *dependabot[bot]* - Reviewers: *None* - Created at: 2025-12-15T06:32:25Z
@@ -243,8 +244,8 @@ date = 2026-02-11
 
 ### nethesis/vue-components 10 
 
+- :eyes:  **[chore(deps): update dependency eslint to v10](https://github.com/nethesis/vue-components/pull/126)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-02-11T07:52:23Z
 - :eyes:  **[chore(deps): update js-devtools/npm-publish action to v4](https://github.com/nethesis/vue-components/pull/125)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-02-05T08:25:56Z
-- :eyes:  **[chore(deps): update dependency lodash-es to v4.17.23 [security]](https://github.com/nethesis/vue-components/pull/121)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-01-22T01:30:10Z
 - :eyes: :zzz: **[chore(deps): update dependency vue-tsc to v3](https://github.com/nethesis/vue-components/pull/119)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-12-23T09:47:44Z
 - :eyes: :zzz: **[chore(deps): update dependency vite to v7](https://github.com/nethesis/vue-components/pull/118)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-12-22T13:28:26Z
 - :eyes: :zzz: **[chore(deps): update dependency npm-run-all2 to v8](https://github.com/nethesis/vue-components/pull/116)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-12-22T08:59:39Z
@@ -266,11 +267,6 @@ date = 2026-02-11
 
 - :eyes: :zzz: **[chore(deps): update dependency python to 3.14](https://github.com/nethesis/satellite/pull/22)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-12-17T07:44:36Z
 - :eyes: :zzz: **[chore(deps): update dependency deepgram-sdk to v5](https://github.com/nethesis/satellite/pull/11)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-11-27T15:44:47Z
-
-### nethesis/nethcti-middleware 2 
-
-- :eyes:  **[chore(deps): update module github.com/gin-contrib/gzip to v1.2.5](https://github.com/nethesis/nethcti-middleware/pull/19)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-02-09T03:40:50Z
-- :eyes:  **[chore(deps): update module github.com/gin-contrib/cors to v1.7.6](https://github.com/nethesis/nethcti-middleware/pull/18)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-02-09T03:40:37Z
 
 ### nethesis/matrix2acrobits 10 
 
