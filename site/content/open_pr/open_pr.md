@@ -1,6 +1,6 @@
 +++
 title = 'Open Pull Requests'
-date = 2026-02-14
+date = 2026-02-15
 +++
 
 ## Organization: nethserver
@@ -49,7 +49,7 @@ date = 2026-02-14
 ### NethServer/nethsecurity-docs 3 
 
 - :eyes:  **[feat(TS DNS): add local allowlist section and domain blocklist troubleshooting](https://github.com/NethServer/nethsecurity-docs/pull/224)** by *francio87* - Reviewers: *None* - Created at: 2026-02-11T14:08:03Z
--   **[feat: added nginx removal of `server_tokens`](https://github.com/NethServer/nethsecurity-docs/pull/221)** by *Tbaile* - Reviewers: *cotosso* - Created at: 2026-01-15T11:23:43Z
+-  :zzz: **[feat: added nginx removal of `server_tokens`](https://github.com/NethServer/nethsecurity-docs/pull/221)** by *Tbaile* - Reviewers: *cotosso* - Created at: 2026-01-15T11:23:43Z
 - :eyes: :zzz: **[fix(ha): update for beta2](https://github.com/NethServer/nethsecurity-docs/pull/208)** by *gsanchietti* - Reviewers: *None* - Created at: 2025-10-02T10:43:05Z
 
 ### NethServer/ns8-user-manager 1 
