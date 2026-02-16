@@ -1,6 +1,6 @@
 +++
 title = 'Open Pull Requests'
-date = 2026-02-15
+date = 2026-02-16
 +++
 
 ## Organization: nethserver
@@ -93,7 +93,7 @@ date = 2026-02-15
 
 - :eyes:  **[Add new Gigaset phones](https://github.com/nethesis/tancredi/pull/346)** by *andrea-marchionni* - Reviewers: *None* - Created at: 2026-01-21T11:23:33Z
 - :eyes:  **[Add new Snom model snom-D335 snom-D810 snom-D892](https://github.com/nethesis/tancredi/pull/345)** by *andrea-marchionni* - Reviewers: *None* - Created at: 2026-01-21T10:01:19Z
-- :eyes:  **[Add pattern for fanvil 00-A8-5A MAC address](https://github.com/nethesis/tancredi/pull/344)** by *Stell0* - Reviewers: *None* - Created at: 2026-01-16T11:09:20Z
+- :eyes: :zzz: **[Add pattern for fanvil 00-A8-5A MAC address](https://github.com/nethesis/tancredi/pull/344)** by *Stell0* - Reviewers: *None* - Created at: 2026-01-16T11:09:20Z
 
 ### nethesis/ns8-nethvoice 9 
 
