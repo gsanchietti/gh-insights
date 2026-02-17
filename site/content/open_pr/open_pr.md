@@ -1,6 +1,6 @@
 +++
 title = 'Open Pull Requests'
-date = 2026-02-16
+date = 2026-02-17
 +++
 
 ## Organization: nethserver
@@ -15,7 +15,7 @@ date = 2026-02-16
 
 ### NethServer/ns8-webserver 1 
 
--   **[Add SMTP configuration and environment support](https://github.com/NethServer/ns8-webserver/pull/129)** by *stephdl* - Reviewers: *DavidePrincipi* - Created at: 2026-02-09T09:41:43Z
+- :eyes:  **[Add SMTP configuration and environment support](https://github.com/NethServer/ns8-webserver/pull/129)** by *stephdl* - Reviewers: *None* - Created at: 2026-02-09T09:41:43Z
 
 ### NethServer/ns8-traefik 1 
 
@@ -27,7 +27,7 @@ date = 2026-02-16
 
 ### NethServer/nethsecurity 5 
 
--   **[Netifyd connection marking](https://github.com/NethServer/nethsecurity/pull/1520)** by *gsanchietti* - Reviewers: *Tbaile* - Created at: 2026-02-12T14:23:32Z
+-   **[refactor(netifyd, ns-dpi): blocking using conntrack labels](https://github.com/NethServer/nethsecurity/pull/1520)** by *gsanchietti* - Reviewers: *Tbaile* - Created at: 2026-02-12T14:23:32Z
 -   **[fix(bonding): add default link monitoring settings for bonding interfaces](https://github.com/NethServer/nethsecurity/pull/1514)** by *m-dilorenzi* - Reviewers: *Tbaile* - Created at: 2026-02-10T16:09:19Z
 - :eyes:  **[chore: revert nginx fork](https://github.com/NethServer/nethsecurity/pull/1505)** by *gsanchietti* - Reviewers: *None* - Created at: 2026-02-05T07:21:14Z
 - :eyes:  **[fix(ns-plug): fixing blocking logs if controller is unreachable](https://github.com/NethServer/nethsecurity/pull/1495)** by *Tbaile* - Reviewers: *None* - Created at: 2026-01-29T11:59:50Z
@@ -37,6 +37,10 @@ date = 2026-02-16
 
 - :eyes: :zzz: **[feat(ci): renovate, automerge patches](https://github.com/NethServer/ns8-nethsecurity-controller/pull/135)** by *gsanchietti* - Reviewers: *None* - Created at: 2025-11-24T07:54:15Z
 
+### NethServer/python3-nethsec 1 
+
+-   **[feat(conntrack): added labels to the response](https://github.com/NethServer/python3-nethsec/pull/118)** by *Tbaile* - Reviewers: *gsanchietti* - Created at: 2026-02-16T15:46:26Z
+
 ### NethServer/phonehome-server 1 
 
 - :eyes: :zzz: **[chore(master): release 1.5.1](https://github.com/NethServer/phonehome-server/pull/138)** by *Tbaile* - Reviewers: *None* - Created at: 2025-11-15T06:38:38Z
@@ -45,6 +49,10 @@ date = 2026-02-16
 
 - :eyes:  **[Add LAMP documentation to the index and create lamp.rst file](https://github.com/NethServer/ns8-docs/pull/218)** by *stephdl* - Reviewers: *None* - Created at: 2026-02-03T16:45:37Z
 - :eyes:  **[Add rustfs documentation](https://github.com/NethServer/ns8-docs/pull/217)** by *mrmarkuz* - Reviewers: *None* - Created at: 2026-01-28T13:29:42Z
+
+### NethServer/nethsecurity-ui 1 
+
+- :eyes:  **[feat(conntrack): added netifyd labels and IDs](https://github.com/NethServer/nethsecurity-ui/pull/702)** by *Tbaile* - Reviewers: *None* - Created at: 2026-02-16T13:12:53Z
 
 ### NethServer/nethsecurity-docs 3 
 
@@ -64,12 +72,9 @@ date = 2026-02-16
 
 -   **[Add logo, metadata, and screenshot for the lamp project](https://github.com/NethServer/ns8-nethforge/pull/35)** by *stephdl* - Reviewers: *AmaLuci* - Created at: 2026-01-23T14:17:30Z
 
-### NethServer/nethlink 4 
+### NethServer/nethlink 1 
 
-- :eyes:  **[fix: better icon for userLastCalls tab](https://github.com/NethServer/nethlink/pull/90)** by *tonyco97* - Reviewers: *None* - Created at: 2026-02-12T09:52:46Z
-- :eyes:  **[fix: added missing control for name field](https://github.com/NethServer/nethlink/pull/89)** by *tonyco97* - Reviewers: *None* - Created at: 2026-02-12T07:46:55Z
-- :eyes:  **[chore(dep): update phone-island](https://github.com/NethServer/nethlink/pull/88)** by *tonyco97* - Reviewers: *None* - Created at: 2026-02-10T08:04:10Z
-- :eyes:  **[fix: use lightweight endpoints with fallbacks for connectivity check](https://github.com/NethServer/nethlink/pull/87)** by *edospadoni* - Reviewers: *None* - Created at: 2026-02-05T09:20:26Z
+- :eyes:  **[feat: add button and shortcut to restore default phone-island position](https://github.com/NethServer/nethlink/pull/91)** by *tonyco97* - Reviewers: *None* - Created at: 2026-02-16T08:45:48Z
 
 ### NethServer/nethsecurity-monitoring 1 
 
@@ -107,9 +112,9 @@ date = 2026-02-16
 - :eyes: :zzz: **[Import CSV with admin APIs](https://github.com/nethesis/ns8-nethvoice/pull/617)** by *gsanchietti* - Reviewers: *None* - Created at: 2025-11-26T14:37:01Z
 -  :zzz: **[enhancement(freepbx): Don't slow down system at reboot](https://github.com/nethesis/ns8-nethvoice/pull/605)** by *Stell0* - Reviewers: *Amygos, DavidePrincipi* - Created at: 2025-11-19T14:40:39Z
 
-### nethesis/phone-island 1 
+### nethesis/nethvoice-cti 1 
 
-- :eyes:  **[feat: create new phone-island to reset position](https://github.com/nethesis/phone-island/pull/165)** by *tonyco97* - Reviewers: *None* - Created at: 2026-02-12T15:02:22Z
+- :eyes:  **[chore(dep): update phone-island](https://github.com/nethesis/nethvoice-cti/pull/403)** by *tonyco97* - Reviewers: *None* - Created at: 2026-02-16T08:10:38Z
 
 ### nethesis/ns8-nethvoice-proxy 4 
 
@@ -133,6 +138,10 @@ date = 2026-02-16
 ### nethesis/parceler 1 
 
 - :eyes: :zzz: **[chore(main): release 1.3.1](https://github.com/nethesis/parceler/pull/145)** by *Tbaile* - Reviewers: *None* - Created at: 2026-01-14T15:22:43Z
+
+### nethesis/satellite 1 
+
+-   **[Multi-Provider Transcription Support (REST/Batch Path)](https://github.com/nethesis/satellite/pull/31)** by *Amygos* - Reviewers: *Stell0* - Created at: 2026-02-16T09:08:57Z
 
 ### nethesis/nethcti-middleware 1 
 
