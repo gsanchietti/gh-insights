@@ -1,6 +1,6 @@
 +++
 title = 'Open Pull Requests'
-date = 2026-02-17
+date = 2026-02-18
 +++
 
 ## Organization: nethserver
@@ -9,8 +9,9 @@ date = 2026-02-17
 
 -   **[Update version numbering guidelines in handbook](https://github.com/NethServer/dev/pull/7869)** by *DavidePrincipi* - Reviewers: *Amygos* - Created at: 2026-02-12T09:44:35Z
 
-### NethServer/ns8-core 1 
+### NethServer/ns8-core 2 
 
+-   **[backup: refactor UI with tabbed layout, import destination, and cancel support](https://github.com/NethServer/ns8-core/pull/1074)** by *stephdl* - Reviewers: *andre8244* - Created at: 2026-02-06T17:06:14Z
 -   **[Backup action changes for UX improvements](https://github.com/NethServer/ns8-core/pull/1069)** by *DavidePrincipi* - Reviewers: *stephdl* - Created at: 2026-02-03T15:14:05Z
 
 ### NethServer/ns8-webserver 1 
@@ -25,21 +26,14 @@ date = 2026-02-17
 
 - :eyes:  **[feat: run tests on Debian 13 (Trixie)](https://github.com/NethServer/ns8-terraform-infra/pull/6)** by *DavidePrincipi* - Reviewers: *None* - Created at: 2026-01-23T09:56:16Z
 
-### NethServer/nethsecurity 5 
+### NethServer/nethsecurity 2 
 
--   **[refactor(netifyd, ns-dpi): blocking using conntrack labels](https://github.com/NethServer/nethsecurity/pull/1520)** by *gsanchietti* - Reviewers: *Tbaile* - Created at: 2026-02-12T14:23:32Z
--   **[fix(bonding): add default link monitoring settings for bonding interfaces](https://github.com/NethServer/nethsecurity/pull/1514)** by *m-dilorenzi* - Reviewers: *Tbaile* - Created at: 2026-02-10T16:09:19Z
 - :eyes:  **[chore: revert nginx fork](https://github.com/NethServer/nethsecurity/pull/1505)** by *gsanchietti* - Reviewers: *None* - Created at: 2026-02-05T07:21:14Z
-- :eyes:  **[fix(ns-plug): fixing blocking logs if controller is unreachable](https://github.com/NethServer/nethsecurity/pull/1495)** by *Tbaile* - Reviewers: *None* - Created at: 2026-01-29T11:59:50Z
 - :eyes: :zzz: **[build: added softflowd](https://github.com/NethServer/nethsecurity/pull/1453)** by *Tbaile* - Reviewers: *None* - Created at: 2025-12-10T11:48:14Z
 
 ### NethServer/ns8-nethsecurity-controller 1 
 
 - :eyes: :zzz: **[feat(ci): renovate, automerge patches](https://github.com/NethServer/ns8-nethsecurity-controller/pull/135)** by *gsanchietti* - Reviewers: *None* - Created at: 2025-11-24T07:54:15Z
-
-### NethServer/python3-nethsec 1 
-
--   **[feat(conntrack): added labels to the response](https://github.com/NethServer/python3-nethsec/pull/118)** by *Tbaile* - Reviewers: *gsanchietti* - Created at: 2026-02-16T15:46:26Z
 
 ### NethServer/phonehome-server 1 
 
@@ -75,6 +69,10 @@ date = 2026-02-17
 ### NethServer/nethlink 1 
 
 - :eyes:  **[feat: add button and shortcut to restore default phone-island position](https://github.com/NethServer/nethlink/pull/91)** by *tonyco97* - Reviewers: *None* - Created at: 2026-02-16T08:45:48Z
+
+### NethServer/nethvoice-docs 1 
+
+-   **[feat(translation-agent): enhance translation agent commit diff](https://github.com/NethServer/nethvoice-docs/pull/37)** by *m-dilorenzi* - Reviewers: *gsanchietti* - Created at: 2026-02-17T10:13:39Z
 
 ### NethServer/nethsecurity-monitoring 1 
 
@@ -112,8 +110,9 @@ date = 2026-02-17
 - :eyes: :zzz: **[Import CSV with admin APIs](https://github.com/nethesis/ns8-nethvoice/pull/617)** by *gsanchietti* - Reviewers: *None* - Created at: 2025-11-26T14:37:01Z
 -  :zzz: **[enhancement(freepbx): Don't slow down system at reboot](https://github.com/nethesis/ns8-nethvoice/pull/605)** by *Stell0* - Reviewers: *Amygos, DavidePrincipi* - Created at: 2025-11-19T14:40:39Z
 
-### nethesis/nethvoice-cti 1 
+### nethesis/nethvoice-cti 2 
 
+- :eyes:  **[fix: update QR code token generation endpoint](https://github.com/nethesis/nethvoice-cti/pull/405)** by *tommaso-ascani* - Reviewers: *None* - Created at: 2026-02-17T12:43:11Z
 - :eyes:  **[chore(dep): update phone-island](https://github.com/nethesis/nethvoice-cti/pull/403)** by *tonyco97* - Reviewers: *None* - Created at: 2026-02-16T08:10:38Z
 
 ### nethesis/ns8-nethvoice-proxy 4 
@@ -127,8 +126,9 @@ date = 2026-02-17
 
 - :eyes: :zzz: **[fix(sort): relaxing sorting function](https://github.com/nethesis/vue-components/pull/104)** by *Tbaile* - Reviewers: *None* - Created at: 2025-12-11T15:17:22Z
 
-### nethesis/ctiapp-authproxy 1 
+### nethesis/ctiapp-authproxy 2 
 
+- :eyes:  **[refactor(auth): enhance authentication methods](https://github.com/nethesis/ctiapp-authproxy/pull/17)** by *tommaso-ascani* - Reviewers: *None* - Created at: 2026-02-17T13:32:06Z
 -  :zzz: **[feat: add chat provisioning](https://github.com/nethesis/ctiapp-authproxy/pull/16)** by *gsanchietti* - Reviewers: *edospadoni* - Created at: 2025-12-17T13:12:41Z
 
 ### nethesis/nethvoice-client-docs 1 
@@ -143,8 +143,9 @@ date = 2026-02-17
 
 -   **[Multi-Provider Transcription Support (REST/Batch Path)](https://github.com/nethesis/satellite/pull/31)** by *Amygos* - Reviewers: *Stell0* - Created at: 2026-02-16T09:08:57Z
 
-### nethesis/nethcti-middleware 1 
+### nethesis/nethcti-middleware 2 
 
+- :eyes:  **[feat: add mobile QR token login endpoint and related API key management](https://github.com/nethesis/nethcti-middleware/pull/27)** by *tommaso-ascani* - Reviewers: *None* - Created at: 2026-02-17T12:42:32Z
 -  :zzz: **[feat: add GET /chat endpoint](https://github.com/nethesis/nethcti-middleware/pull/16)** by *gsanchietti* - Reviewers: *tommaso-ascani* - Created at: 2025-12-17T10:53:42Z
 
 ### nethesis/matrix2acrobits 1 

@@ -2,9 +2,13 @@
 
 title = 'To be released soon'
 
-date = 2026-02-17
+date = 2026-02-18
 
 +++
+
+### NethServer
+
+- [Public folder access fails with long AD DN](https://github.com/NethServer/dev/issues/7879) (#7828) by DavidePrincipi (Created: 2026-02-17T14:57:55Z, Updated: 2026-02-17T16:09:25Z)
 
 ### NethVoice
 
