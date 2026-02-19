@@ -1,6 +1,6 @@
 +++
 title = 'Open Pull Requests'
-date = 2026-02-18
+date = 2026-02-19
 +++
 
 ## Organization: nethserver
@@ -11,7 +11,7 @@ date = 2026-02-18
 
 ### NethServer/ns8-core 2 
 
--   **[backup: refactor UI with tabbed layout, import destination, and cancel support](https://github.com/NethServer/ns8-core/pull/1074)** by *stephdl* - Reviewers: *andre8244* - Created at: 2026-02-06T17:06:14Z
+- :eyes:  **[backup: refactor UI with tabbed layout, import destination, and cancel support](https://github.com/NethServer/ns8-core/pull/1074)** by *stephdl* - Reviewers: *None* - Created at: 2026-02-06T17:06:14Z
 -   **[Backup action changes for UX improvements](https://github.com/NethServer/ns8-core/pull/1069)** by *DavidePrincipi* - Reviewers: *stephdl* - Created at: 2026-02-03T15:14:05Z
 
 ### NethServer/ns8-webserver 1 
@@ -46,7 +46,7 @@ date = 2026-02-18
 
 ### NethServer/nethsecurity-ui 1 
 
-- :eyes:  **[feat(conntrack): added netifyd labels and IDs](https://github.com/NethServer/nethsecurity-ui/pull/702)** by *Tbaile* - Reviewers: *None* - Created at: 2026-02-16T13:12:53Z
+-   **[feat(port-forward): improve usability of the create and edit port-forward modal](https://github.com/NethServer/nethsecurity-ui/pull/704)** by *m-dilorenzi* - Reviewers: *Tbaile* - Created at: 2026-02-18T16:25:17Z
 
 ### NethServer/nethsecurity-docs 3 
 
@@ -66,8 +66,11 @@ date = 2026-02-18
 
 -   **[Add logo, metadata, and screenshot for the lamp project](https://github.com/NethServer/ns8-nethforge/pull/35)** by *stephdl* - Reviewers: *AmaLuci* - Created at: 2026-01-23T14:17:30Z
 
-### NethServer/nethlink 1 
+### NethServer/nethlink 4 
 
+- :eyes:  **[fix: remove phone island token login/logout from API](https://github.com/NethServer/nethlink/pull/94)** by *tommaso-ascani* - Reviewers: *None* - Created at: 2026-02-18T15:44:14Z
+- :eyes:  **[fix: window position drift on Windows multi-monitor setups](https://github.com/NethServer/nethlink/pull/93)** by *edospadoni* - Reviewers: *None* - Created at: 2026-02-18T11:21:36Z
+- :eyes:  **[fix: memory leak and performance in Last Calls section](https://github.com/NethServer/nethlink/pull/92)** by *edospadoni* - Reviewers: *None* - Created at: 2026-02-18T09:21:22Z
 - :eyes:  **[feat: add button and shortcut to restore default phone-island position](https://github.com/NethServer/nethlink/pull/91)** by *tonyco97* - Reviewers: *None* - Created at: 2026-02-16T08:45:48Z
 
 ### NethServer/nethvoice-docs 1 
