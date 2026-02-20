@@ -1,10 +1,10 @@
 +++
-title = 'Need testing (6)'
-date = 2026-02-19
+title = 'Need testing (5)'
+date = 2026-02-20
 +++
 
 ## NethServer
-- **[Update dependencies - NethServer 8.8](https://github.com/NethServer/dev/issues/7868)** (#7725) by *DavidePrincipi* (Created: 2026-02-12, Updated: 2026-02-13T08:24:25Z)
+- :point_right: **[Update dependencies - NethServer 8.8](https://github.com/NethServer/dev/issues/7868)** (#7725) by *DavidePrincipi* (Created: 2026-02-12, Updated: 2026-02-19T08:29:05Z)
 - :point_right: **[Matrix upgrade is not applied due to missing service restart](https://github.com/NethServer/dev/issues/7865)** (#7725) by *mrmarkuz* (Created: 2026-02-11, Updated: 2026-02-12T10:21:18Z)
 
 ## NoMilestone
@@ -14,6 +14,5 @@ date = 2026-02-19
 - :point_right: **[NethVoice Proxy: Use local IP in SDP for local clients to simplify NAT configuration](https://github.com/NethServer/dev/issues/7725)** (#7725) by *Amygos* (Created: 2025-11-03, Updated: 2026-02-17T15:59:50Z)
 
 ## NethSecurity
-- **[Remote rsyslog forwarding failure stops local logging](https://github.com/NethServer/nethsecurity/issues/1523)** (#1465) by *gsanchietti* (Created: 2026-02-13, Updated: 2026-02-17T16:20:45Z)
 - :point_right: **[Realtime monitoring: active flows](https://github.com/NethServer/nethsecurity/issues/1465)** (#1465) by *Tbaile* (Created: 2026-01-09, Updated: 2026-01-28T10:50:37Z)
 

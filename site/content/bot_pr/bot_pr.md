@@ -1,6 +1,6 @@
 +++
 title = 'Open Pull Requests by Bots'
-date = 2026-02-19
+date = 2026-02-20
 +++
 
 ## Organization: nethserver
@@ -49,7 +49,7 @@ date = 2026-02-19
 
 ### NethServer/ns8-loki 1 
 
-- :eyes:  **[chore(deps): update grafana/loki docker tag to v3.6.5](https://github.com/NethServer/ns8-loki/pull/50)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-01-21T12:28:24Z
+- :eyes:  **[chore(deps): update grafana/loki docker tag to v3.6.6](https://github.com/NethServer/ns8-loki/pull/50)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-01-21T12:28:24Z
 
 ### NethServer/ns8-traefik 1 
 
@@ -197,8 +197,9 @@ date = 2026-02-19
 
 -  :zzz: **[Bump symfony/process from 3.1.7 to 5.4.46 in /root/var/www/html/freepbx/contatta](https://github.com/nethesis/contatta/pull/17)** by *dependabot[bot]* - Reviewers: *Stell0* - Created at: 2024-11-06T16:19:29Z
 
-### nethesis/tancredi 4 
+### nethesis/tancredi 5 
 
+- :eyes:  **[Bump nokogiri from 1.16.5 to 1.19.1 in /docs](https://github.com/nethesis/tancredi/pull/352)** by *dependabot[bot]* - Reviewers: *None* - Created at: 2026-02-19T23:50:36Z
 - :eyes:  **[Bump aquasecurity/trivy-action from 0.33.1 to 0.34.0 in /.github/workflows](https://github.com/nethesis/tancredi/pull/351)** by *dependabot[bot]* - Reviewers: *None* - Created at: 2026-02-18T15:53:31Z
 - :eyes:  **[chore(deps): update aquasecurity/trivy-action action to v0.34.0](https://github.com/nethesis/tancredi/pull/350)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-02-12T21:58:30Z
 - :eyes:  **[Bump faraday from 1.0.1 to 2.14.1 in /docs](https://github.com/nethesis/tancredi/pull/349)** by *dependabot[bot]* - Reviewers: *None* - Created at: 2026-02-09T21:34:29Z
@@ -227,9 +228,8 @@ date = 2026-02-19
 - :eyes: :zzz: **[chore(deps): update aquasecurity/trivy-action action to v0.34.0](https://github.com/nethesis/astproxy/pull/22)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-01-12T03:43:23Z
 - :eyes: :zzz: **[chore(deps): update dependency moment to v2.29.4 [security]](https://github.com/nethesis/astproxy/pull/21)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-11-27T08:44:28Z
 
-### nethesis/ns8-nethvoice 11 
+### nethesis/ns8-nethvoice 10 
 
-- :eyes:  **[fix(deps): update dependency axios to v1 [security]](https://github.com/nethesis/ns8-nethvoice/pull/682)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-02-10T05:52:11Z
 - :eyes: :zzz: **[chore(deps): update dependency rollup to v2 [security]](https://github.com/nethesis/ns8-nethvoice/pull/620)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-11-28T08:46:01Z
 - :eyes: :zzz: **[chore(deps): update dependency karma to v6 [security]](https://github.com/nethesis/ns8-nethvoice/pull/619)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-11-28T08:45:49Z
 - :eyes: :zzz: **[fix(deps): update dependency angular-resource to v1.8.3](https://github.com/nethesis/ns8-nethvoice/pull/610)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-11-21T09:04:25Z
@@ -257,7 +257,7 @@ date = 2026-02-19
 ### nethesis/ns8-nethvoice-proxy 4 
 
 - :eyes:  **[chore(deps): update redis docker tag to v8.6](https://github.com/nethesis/ns8-nethvoice-proxy/pull/137)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-02-11T01:44:15Z
-- :eyes:  **[fix(deps): update dependency axios to v1 [security]](https://github.com/nethesis/ns8-nethvoice-proxy/pull/135)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-02-10T10:47:39Z
+- :eyes:  **[chore(deps): update dependency axios to v0.30.3 [security]](https://github.com/nethesis/ns8-nethvoice-proxy/pull/135)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-02-10T10:47:39Z
 - :eyes:  **[chore(deps): update dependency @nethserver/ns8-ui-lib to v1.12.0](https://github.com/nethesis/ns8-nethvoice-proxy/pull/134)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-02-05T12:35:48Z
 - :eyes: :zzz: **[Translations update from Hosted Weblate](https://github.com/nethesis/ns8-nethvoice-proxy/pull/101)** by *weblate* - Reviewers: *None* - Created at: 2025-11-26T08:51:51Z
 

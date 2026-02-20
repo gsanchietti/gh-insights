@@ -1,6 +1,6 @@
 +++
 title = 'Open Pull Requests'
-date = 2026-02-19
+date = 2026-02-20
 +++
 
 ## Organization: nethserver
@@ -13,10 +13,6 @@ date = 2026-02-19
 
 - :eyes:  **[backup: refactor UI with tabbed layout, import destination, and cancel support](https://github.com/NethServer/ns8-core/pull/1074)** by *stephdl* - Reviewers: *None* - Created at: 2026-02-06T17:06:14Z
 -   **[Backup action changes for UX improvements](https://github.com/NethServer/ns8-core/pull/1069)** by *DavidePrincipi* - Reviewers: *stephdl* - Created at: 2026-02-03T15:14:05Z
-
-### NethServer/ns8-webserver 1 
-
-- :eyes:  **[Add SMTP configuration and environment support](https://github.com/NethServer/ns8-webserver/pull/129)** by *stephdl* - Reviewers: *None* - Created at: 2026-02-09T09:41:43Z
 
 ### NethServer/ns8-traefik 1 
 

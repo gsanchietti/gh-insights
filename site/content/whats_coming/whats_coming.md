@@ -2,7 +2,7 @@
 
 title = 'To be released soon'
 
-date = 2026-02-19
+date = 2026-02-20
 
 +++
 
@@ -11,6 +11,8 @@ date = 2026-02-19
 - [Public folder access fails with long AD DN](https://github.com/NethServer/dev/issues/7879) (#7828) by DavidePrincipi (Created: 2026-02-17T14:57:55Z, Updated: 2026-02-17T16:09:25Z)
 
 ### NethVoice
+
+- [Mobile app migration from /webrest to /api](https://github.com/NethServer/dev/issues/7875) (#7828) by tommaso-ascani (Created: 2026-02-13T15:13:01Z, Updated: 2026-02-19T09:50:56Z)
 
 - [Deepgram connection failure causes Satellite memory leak (unbounded RAM growth)](https://github.com/NethServer/dev/issues/7872) (#7828) by Stell0 (Created: 2026-02-13T09:53:51Z, Updated: 2026-02-13T10:00:24Z)
 
@@ -31,6 +33,8 @@ date = 2026-02-19
 ### NethSecurity
 
 - [netifyd: activate nfqueue mode for improved performance](https://github.com/NethServer/nethsecurity/issues/1526) (#1446) by Tbaile (Created: 2026-02-17T10:03:18Z, Updated: 2026-02-18T13:32:38Z)
+
+- [Remote rsyslog forwarding failure stops local logging](https://github.com/NethServer/nethsecurity/issues/1523) (#1446) by gsanchietti (Created: 2026-02-13T14:00:28Z, Updated: 2026-02-19T14:19:26Z)
 
 - [Send inventory and heartbeat to temporary endpoint](https://github.com/NethServer/nethsecurity/issues/1512) (#1446) by gsanchietti (Created: 2026-02-10T11:27:55Z, Updated: 2026-02-16T13:31:06Z)
 
