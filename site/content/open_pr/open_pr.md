@@ -1,6 +1,6 @@
 +++
 title = 'Open Pull Requests'
-date = 2026-02-20
+date = 2026-02-21
 +++
 
 ## Organization: nethserver
@@ -9,9 +9,10 @@ date = 2026-02-20
 
 -   **[Update version numbering guidelines in handbook](https://github.com/NethServer/dev/pull/7869)** by *DavidePrincipi* - Reviewers: *Amygos* - Created at: 2026-02-12T09:44:35Z
 
-### NethServer/ns8-core 2 
+### NethServer/ns8-core 3 
 
-- :eyes:  **[backup: refactor UI with tabbed layout, import destination, and cancel support](https://github.com/NethServer/ns8-core/pull/1074)** by *stephdl* - Reviewers: *None* - Created at: 2026-02-06T17:06:14Z
+-   **[chore: initialize AGENTS.md](https://github.com/NethServer/ns8-core/pull/1084)** by *DavidePrincipi* - Reviewers: *edospadoni* - Created at: 2026-02-20T16:39:42Z
+-   **[backup: refactor UI with tabbed layout, import destination, and cancel support](https://github.com/NethServer/ns8-core/pull/1074)** by *stephdl* - Reviewers: *andre8244* - Created at: 2026-02-06T17:06:14Z
 -   **[Backup action changes for UX improvements](https://github.com/NethServer/ns8-core/pull/1069)** by *DavidePrincipi* - Reviewers: *stephdl* - Created at: 2026-02-03T15:14:05Z
 
 ### NethServer/ns8-traefik 1 
@@ -44,8 +45,9 @@ date = 2026-02-20
 
 -   **[feat(port-forward): improve usability of the create and edit port-forward modal](https://github.com/NethServer/nethsecurity-ui/pull/704)** by *m-dilorenzi* - Reviewers: *Tbaile* - Created at: 2026-02-18T16:25:17Z
 
-### NethServer/nethsecurity-docs 3 
+### NethServer/nethsecurity-docs 4 
 
+-   **[feat(threat shield): describe confidence](https://github.com/NethServer/nethsecurity-docs/pull/225)** by *gsanchietti* - Reviewers: *cotosso* - Created at: 2026-02-20T11:24:17Z
 - :eyes:  **[feat(TS DNS): add local allowlist section and domain blocklist troubleshooting](https://github.com/NethServer/nethsecurity-docs/pull/224)** by *francio87* - Reviewers: *None* - Created at: 2026-02-11T14:08:03Z
 -  :zzz: **[feat: added nginx removal of `server_tokens`](https://github.com/NethServer/nethsecurity-docs/pull/221)** by *Tbaile* - Reviewers: *cotosso* - Created at: 2026-01-15T11:23:43Z
 - :eyes: :zzz: **[fix(ha): update for beta2](https://github.com/NethServer/nethsecurity-docs/pull/208)** by *gsanchietti* - Reviewers: *None* - Created at: 2025-10-02T10:43:05Z
@@ -62,12 +64,10 @@ date = 2026-02-20
 
 -   **[Add logo, metadata, and screenshot for the lamp project](https://github.com/NethServer/ns8-nethforge/pull/35)** by *stephdl* - Reviewers: *AmaLuci* - Created at: 2026-01-23T14:17:30Z
 
-### NethServer/nethlink 4 
+### NethServer/nethlink 2 
 
-- :eyes:  **[fix: remove phone island token login/logout from API](https://github.com/NethServer/nethlink/pull/94)** by *tommaso-ascani* - Reviewers: *None* - Created at: 2026-02-18T15:44:14Z
-- :eyes:  **[fix: window position drift on Windows multi-monitor setups](https://github.com/NethServer/nethlink/pull/93)** by *edospadoni* - Reviewers: *None* - Created at: 2026-02-18T11:21:36Z
+- :eyes:  **[fix: missing https protocol for phone request](https://github.com/NethServer/nethlink/pull/95)** by *tonyco97* - Reviewers: *None* - Created at: 2026-02-20T16:24:11Z
 - :eyes:  **[fix: memory leak and performance in Last Calls section](https://github.com/NethServer/nethlink/pull/92)** by *edospadoni* - Reviewers: *None* - Created at: 2026-02-18T09:21:22Z
-- :eyes:  **[feat: add button and shortcut to restore default phone-island position](https://github.com/NethServer/nethlink/pull/91)** by *tonyco97* - Reviewers: *None* - Created at: 2026-02-16T08:45:48Z
 
 ### NethServer/nethvoice-docs 1 
 
@@ -93,26 +93,22 @@ date = 2026-02-20
 
 ### nethesis/tancredi 3 
 
-- :eyes:  **[Add new Gigaset phones](https://github.com/nethesis/tancredi/pull/346)** by *andrea-marchionni* - Reviewers: *None* - Created at: 2026-01-21T11:23:33Z
-- :eyes:  **[Add new Snom model snom-D335 snom-D810 snom-D892](https://github.com/nethesis/tancredi/pull/345)** by *andrea-marchionni* - Reviewers: *None* - Created at: 2026-01-21T10:01:19Z
+- :eyes: :zzz: **[Add new Gigaset phones](https://github.com/nethesis/tancredi/pull/346)** by *andrea-marchionni* - Reviewers: *None* - Created at: 2026-01-21T11:23:33Z
+- :eyes: :zzz: **[Add new Snom model snom-D335 snom-D810 snom-D892](https://github.com/nethesis/tancredi/pull/345)** by *andrea-marchionni* - Reviewers: *None* - Created at: 2026-01-21T10:01:19Z
 - :eyes: :zzz: **[Add pattern for fanvil 00-A8-5A MAC address](https://github.com/nethesis/tancredi/pull/344)** by *Stell0* - Reviewers: *None* - Created at: 2026-01-16T11:09:20Z
 
-### nethesis/ns8-nethvoice 9 
+### nethesis/ns8-nethvoice 10 
 
--   **[fix(hotel): Only insert rates and options if there aren't already configured](https://github.com/nethesis/ns8-nethvoice/pull/691)** by *Stell0* - Reviewers: *Amygos* - Created at: 2026-02-13T16:04:55Z
+- :eyes:  **[refactor: persistent tokens and app mobile migrations](https://github.com/nethesis/ns8-nethvoice/pull/696)** by *tommaso-ascani* - Reviewers: *None* - Created at: 2026-02-20T11:43:56Z
+-   **[feat: display service ports in NethVoice status view](https://github.com/nethesis/ns8-nethvoice/pull/694)** by *Amygos* - Reviewers: *Stell0* - Created at: 2026-02-19T17:45:50Z
 - :eyes:  **[add new provider enegan](https://github.com/nethesis/ns8-nethvoice/pull/686)** by *margit86* - Reviewers: *None* - Created at: 2026-02-11T16:23:59Z
 - :eyes:  **[Add New Provider OVAL](https://github.com/nethesis/ns8-nethvoice/pull/681)** by *fabbri-marco* - Reviewers: *None* - Created at: 2026-02-09T15:50:10Z
 - :eyes:  **[fix(clone): update proxy configuration of extensions and trunks](https://github.com/nethesis/ns8-nethvoice/pull/669)** by *Stell0* - Reviewers: *None* - Created at: 2026-01-26T08:40:38Z
--   **[Add new Gigaset mac addresses](https://github.com/nethesis/ns8-nethvoice/pull/667)** by *Stell0* - Reviewers: *Amygos* - Created at: 2026-01-21T15:24:21Z
+-  :zzz: **[Add new Gigaset mac addresses](https://github.com/nethesis/ns8-nethvoice/pull/667)** by *Stell0* - Reviewers: *Amygos* - Created at: 2026-01-21T15:24:21Z
 -  :zzz: **[Matrix integration](https://github.com/nethesis/ns8-nethvoice/pull/627)** by *gsanchietti* - Reviewers: *Amygos* - Created at: 2025-12-10T11:32:50Z
 - :eyes: :zzz: **[fix: new user-domain-changed event format](https://github.com/nethesis/ns8-nethvoice/pull/626)** by *DavidePrincipi* - Reviewers: *None* - Created at: 2025-12-09T14:46:42Z
 - :eyes: :zzz: **[Import CSV with admin APIs](https://github.com/nethesis/ns8-nethvoice/pull/617)** by *gsanchietti* - Reviewers: *None* - Created at: 2025-11-26T14:37:01Z
 -  :zzz: **[enhancement(freepbx): Don't slow down system at reboot](https://github.com/nethesis/ns8-nethvoice/pull/605)** by *Stell0* - Reviewers: *Amygos, DavidePrincipi* - Created at: 2025-11-19T14:40:39Z
-
-### nethesis/nethvoice-cti 2 
-
-- :eyes:  **[fix: update QR code token generation endpoint](https://github.com/nethesis/nethvoice-cti/pull/405)** by *tommaso-ascani* - Reviewers: *None* - Created at: 2026-02-17T12:43:11Z
-- :eyes:  **[chore(dep): update phone-island](https://github.com/nethesis/nethvoice-cti/pull/403)** by *tonyco97* - Reviewers: *None* - Created at: 2026-02-16T08:10:38Z
 
 ### nethesis/ns8-nethvoice-proxy 4 
 
@@ -142,9 +138,8 @@ date = 2026-02-20
 
 -   **[Multi-Provider Transcription Support (REST/Batch Path)](https://github.com/nethesis/satellite/pull/31)** by *Amygos* - Reviewers: *Stell0* - Created at: 2026-02-16T09:08:57Z
 
-### nethesis/nethcti-middleware 2 
+### nethesis/nethcti-middleware 1 
 
-- :eyes:  **[feat: add mobile QR token login endpoint and related API key management](https://github.com/nethesis/nethcti-middleware/pull/27)** by *tommaso-ascani* - Reviewers: *None* - Created at: 2026-02-17T12:42:32Z
 -  :zzz: **[feat: add GET /chat endpoint](https://github.com/nethesis/nethcti-middleware/pull/16)** by *gsanchietti* - Reviewers: *tommaso-ascani* - Created at: 2025-12-17T10:53:42Z
 
 ### nethesis/matrix2acrobits 1 
