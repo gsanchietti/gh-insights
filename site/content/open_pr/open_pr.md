@@ -1,6 +1,6 @@
 +++
 title = 'Open Pull Requests'
-date = 2026-02-21
+date = 2026-02-22
 +++
 
 ## Organization: nethserver
@@ -75,7 +75,7 @@ date = 2026-02-21
 
 ### NethServer/nethsecurity-monitoring 1 
 
-- :eyes:  **[chore(main): release 1.0.0](https://github.com/NethServer/nethsecurity-monitoring/pull/5)** by *Tbaile* - Reviewers: *None* - Created at: 2026-01-22T13:43:47Z
+- :eyes: :zzz: **[chore(main): release 1.0.0](https://github.com/NethServer/nethsecurity-monitoring/pull/5)** by *Tbaile* - Reviewers: *None* - Created at: 2026-01-22T13:43:47Z
 
 ## Organization: nethesis
 
