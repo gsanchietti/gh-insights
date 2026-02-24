@@ -1,6 +1,6 @@
 +++
 title = 'Open Pull Requests by Bots'
-date = 2026-02-23
+date = 2026-02-24
 +++
 
 ## Organization: nethserver
@@ -25,8 +25,8 @@ date = 2026-02-23
 - :eyes:  **[chore(deps): update dependency grafana/loki to v3.6.6](https://github.com/NethServer/ns8-core/pull/1081)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-02-12T10:07:01Z
 - :eyes:  **[chore(deps): update dependency go to v1.24.13](https://github.com/NethServer/ns8-core/pull/1080)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-02-12T08:58:00Z
 - :eyes:  **[chore(deps): update dependency axios to v0.30.3 [security]](https://github.com/NethServer/ns8-core/pull/1075)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-02-10T06:08:16Z
-- :eyes:  **[chore(deps): update dependency go to v1.26.0](https://github.com/NethServer/ns8-core/pull/1053)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-01-24T22:15:09Z
-- :eyes:  **[chore(deps): update dependency carbon-components to v10.58.15](https://github.com/NethServer/ns8-core/pull/1051)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-01-24T12:45:13Z
+- :eyes: :zzz: **[chore(deps): update dependency go to v1.26.0](https://github.com/NethServer/ns8-core/pull/1053)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-01-24T22:15:09Z
+- :eyes: :zzz: **[chore(deps): update dependency carbon-components to v10.58.15](https://github.com/NethServer/ns8-core/pull/1051)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-01-24T12:45:13Z
 
 ### NethServer/ns8-dokuwiki 1 
 
@@ -49,9 +49,10 @@ date = 2026-02-23
 - :eyes:  **[chore(deps): update dependency axios to v0.30.3 [security]](https://github.com/NethServer/ns8-samba/pull/185)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-02-10T10:15:10Z
 - :eyes:  **[Translations update from Hosted Weblate](https://github.com/NethServer/ns8-samba/pull/182)** by *weblate* - Reviewers: *None* - Created at: 2026-01-30T23:02:14Z
 
-### NethServer/ns8-loki 1 
+### NethServer/ns8-loki 2 
 
-- :eyes: :zzz: **[chore(deps): update grafana/loki docker tag to v3.6.6](https://github.com/NethServer/ns8-loki/pull/50)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-01-21T12:28:24Z
+- :eyes:  **[chore(deps): update traefik docker tag to v3.6.9](https://github.com/NethServer/ns8-loki/pull/54)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-02-24T01:06:56Z
+- :eyes: :zzz: **[chore(deps): update grafana/loki docker tag to v3.6.7](https://github.com/NethServer/ns8-loki/pull/50)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-01-21T12:28:24Z
 
 ### NethServer/ns8-traefik 1 
 
@@ -244,8 +245,10 @@ date = 2026-02-23
 -  :zzz: **[chore(deps): update docker.io/library/golang docker tag to v1.26.0](https://github.com/nethesis/ns8-nethvoice/pull/563)** by *renovate[bot]* - Reviewers: *edospadoni* - Created at: 2025-10-16T01:44:45Z
 -  :zzz: **[chore(deps): update docker.io/library/alpine docker tag to v3.22.2](https://github.com/nethesis/ns8-nethvoice/pull/562)** by *renovate[bot]* - Reviewers: *Amygos, edospadoni* - Created at: 2025-10-16T01:44:42Z
 
-### nethesis/nethvoice-cti 7 
+### nethesis/nethvoice-cti 9 
 
+- :eyes:  **[chore(deps): update dependency babel-loader to v9.2.1](https://github.com/nethesis/nethvoice-cti/pull/409)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-02-23T05:41:12Z
+- :eyes:  **[chore(deps): update dependency @types/lodash to v4.17.24](https://github.com/nethesis/nethvoice-cti/pull/408)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-02-23T05:41:03Z
 - :eyes:  **[chore(deps): update dependency @nethesis/phone-island to v0.18.6](https://github.com/nethesis/nethvoice-cti/pull/407)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-02-23T00:56:48Z
 - :eyes:  **[chore(deps): update aquasecurity/trivy-action action to v0.34.1](https://github.com/nethesis/nethvoice-cti/pull/406)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-02-23T00:56:32Z
 - :eyes:  **[build(deps): Update phone-island dependency (automated)](https://github.com/nethesis/nethvoice-cti/pull/404)** by *github-actions[bot]* - Reviewers: *None* - Created at: 2026-02-17T00:28:29Z
@@ -254,8 +257,10 @@ date = 2026-02-23
 - :eyes:  **[chore(deps): update dependency @types/node to v18.19.130](https://github.com/nethesis/nethvoice-cti/pull/392)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-02-02T01:45:36Z
 - :eyes:  **[chore(deps): update dependency @babel/runtime to v7.28.6](https://github.com/nethesis/nethvoice-cti/pull/388)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-01-26T04:40:56Z
 
-### nethesis/phone-island 4 
+### nethesis/phone-island 6 
 
+- :eyes:  **[chore(deps): update dependency @storybook/addon-links to v7.6.23](https://github.com/nethesis/phone-island/pull/174)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-02-23T05:29:14Z
+- :eyes:  **[chore(deps): update dependency @storybook/addon-interactions to v7.6.23](https://github.com/nethesis/phone-island/pull/173)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-02-23T05:28:55Z
 - :eyes:  **[chore(deps): update dependency @storybook/addon-essentials to v7.6.23](https://github.com/nethesis/phone-island/pull/172)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-02-23T01:51:57Z
 - :eyes:  **[chore(deps): update dependency @storybook/addon-actions to v7.6.23](https://github.com/nethesis/phone-island/pull/171)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-02-23T01:51:33Z
 - :eyes:  **[chore(deps): update dependency @babel/core to v7.29.0](https://github.com/nethesis/phone-island/pull/169)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-02-16T05:59:06Z
@@ -291,20 +296,9 @@ date = 2026-02-23
 
 ### nethesis/satellite 3 
 
+- :eyes:  **[chore(deps): update dependency deepgram-sdk to v6](https://github.com/nethesis/satellite/pull/32)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-02-23T10:16:26Z
 - :eyes:  **[chore(deps): update aquasecurity/trivy-action action to v0.34.1](https://github.com/nethesis/satellite/pull/30)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-02-12T22:13:21Z
 - :eyes: :zzz: **[chore(deps): update dependency python to 3.14](https://github.com/nethesis/satellite/pull/22)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-12-17T07:44:36Z
-- :eyes: :zzz: **[chore(deps): update dependency deepgram-sdk to v5](https://github.com/nethesis/satellite/pull/11)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-11-27T15:44:47Z
-
-### nethesis/nethcti-middleware 8 
-
-- :eyes:  **[chore(deps): update module github.com/golang-jwt/jwt/v4 to v5](https://github.com/nethesis/nethcti-middleware/pull/31)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-02-23T04:47:05Z
-- :eyes:  **[chore(deps): update module github.com/appleboy/gin-jwt/v2 to v3](https://github.com/nethesis/nethcti-middleware/pull/30)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-02-23T04:46:57Z
-- :eyes:  **[chore(deps): update actions/upload-artifact action to v6](https://github.com/nethesis/nethcti-middleware/pull/29)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-02-23T01:27:54Z
-- :eyes:  **[chore(deps): update actions/setup-go action to v6](https://github.com/nethesis/nethcti-middleware/pull/28)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-02-23T01:27:51Z
-- :eyes:  **[chore(deps): update actions/checkout action to v6](https://github.com/nethesis/nethcti-middleware/pull/26)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-02-16T04:47:58Z
-- :eyes:  **[chore(deps): update docker.io/golang docker tag to v1.26](https://github.com/nethesis/nethcti-middleware/pull/25)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-02-16T04:47:53Z
-- :eyes:  **[chore(deps): update docker.io/alpine docker tag to v3.23](https://github.com/nethesis/nethcti-middleware/pull/24)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-02-16T01:37:29Z
-- :eyes:  **[chore(deps): update dependency go to 1.26](https://github.com/nethesis/nethcti-middleware/pull/23)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-02-16T01:37:26Z
 
 ### nethesis/matrix2acrobits 10 
 

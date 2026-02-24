@@ -1,6 +1,6 @@
 +++
 title = 'Open Pull Requests'
-date = 2026-02-23
+date = 2026-02-24
 +++
 
 ## Organization: nethserver
@@ -9,9 +9,8 @@ date = 2026-02-23
 
 -   **[Update version numbering guidelines in handbook](https://github.com/NethServer/dev/pull/7869)** by *DavidePrincipi* - Reviewers: *Amygos* - Created at: 2026-02-12T09:44:35Z
 
-### NethServer/ns8-core 3 
+### NethServer/ns8-core 2 
 
--   **[chore: initialize AGENTS.md](https://github.com/NethServer/ns8-core/pull/1084)** by *DavidePrincipi* - Reviewers: *edospadoni* - Created at: 2026-02-20T16:39:42Z
 -   **[backup: refactor UI with tabbed layout, import destination, and cancel support](https://github.com/NethServer/ns8-core/pull/1074)** by *stephdl* - Reviewers: *andre8244* - Created at: 2026-02-06T17:06:14Z
 -   **[Backup action changes for UX improvements](https://github.com/NethServer/ns8-core/pull/1069)** by *DavidePrincipi* - Reviewers: *stephdl* - Created at: 2026-02-03T15:14:05Z
 
@@ -47,7 +46,7 @@ date = 2026-02-23
 
 ### NethServer/nethsecurity-docs 4 
 
--   **[feat(threat shield): describe confidence](https://github.com/NethServer/nethsecurity-docs/pull/225)** by *gsanchietti* - Reviewers: *cotosso* - Created at: 2026-02-20T11:24:17Z
+-   **[feat(threat shield): describe confidence](https://github.com/NethServer/nethsecurity-docs/pull/225)** by *gsanchietti* - Reviewers: *Tbaile, cotosso* - Created at: 2026-02-20T11:24:17Z
 - :eyes:  **[feat(TS DNS): add local allowlist section and domain blocklist troubleshooting](https://github.com/NethServer/nethsecurity-docs/pull/224)** by *francio87* - Reviewers: *None* - Created at: 2026-02-11T14:08:03Z
 -  :zzz: **[feat: added nginx removal of `server_tokens`](https://github.com/NethServer/nethsecurity-docs/pull/221)** by *Tbaile* - Reviewers: *cotosso* - Created at: 2026-01-15T11:23:43Z
 - :eyes: :zzz: **[fix(ha): update for beta2](https://github.com/NethServer/nethsecurity-docs/pull/208)** by *gsanchietti* - Reviewers: *None* - Created at: 2025-10-02T10:43:05Z
@@ -97,21 +96,23 @@ date = 2026-02-23
 - :eyes: :zzz: **[Add new Snom model snom-D335 snom-D810 snom-D892](https://github.com/nethesis/tancredi/pull/345)** by *andrea-marchionni* - Reviewers: *None* - Created at: 2026-01-21T10:01:19Z
 - :eyes: :zzz: **[Add pattern for fanvil 00-A8-5A MAC address](https://github.com/nethesis/tancredi/pull/344)** by *Stell0* - Reviewers: *None* - Created at: 2026-01-16T11:09:20Z
 
-### nethesis/ns8-nethvoice 10 
+### nethesis/ns8-nethvoice 6 
 
-- :eyes:  **[refactor: persistent tokens and app mobile migrations](https://github.com/nethesis/ns8-nethvoice/pull/696)** by *tommaso-ascani* - Reviewers: *None* - Created at: 2026-02-20T11:43:56Z
--   **[feat: display service ports in NethVoice status view](https://github.com/nethesis/ns8-nethvoice/pull/694)** by *Amygos* - Reviewers: *Stell0* - Created at: 2026-02-19T17:45:50Z
-- :eyes:  **[add new provider enegan](https://github.com/nethesis/ns8-nethvoice/pull/686)** by *margit86* - Reviewers: *None* - Created at: 2026-02-11T16:23:59Z
-- :eyes:  **[Add New Provider OVAL](https://github.com/nethesis/ns8-nethvoice/pull/681)** by *fabbri-marco* - Reviewers: *None* - Created at: 2026-02-09T15:50:10Z
+- :eyes:  **[fix(ui): add restart confirmation dialog](https://github.com/nethesis/ns8-nethvoice/pull/697)** by *Amygos* - Reviewers: *None* - Created at: 2026-02-23T14:33:40Z
 - :eyes:  **[fix(clone): update proxy configuration of extensions and trunks](https://github.com/nethesis/ns8-nethvoice/pull/669)** by *Stell0* - Reviewers: *None* - Created at: 2026-01-26T08:40:38Z
 -  :zzz: **[Add new Gigaset mac addresses](https://github.com/nethesis/ns8-nethvoice/pull/667)** by *Stell0* - Reviewers: *Amygos* - Created at: 2026-01-21T15:24:21Z
 -  :zzz: **[Matrix integration](https://github.com/nethesis/ns8-nethvoice/pull/627)** by *gsanchietti* - Reviewers: *Amygos* - Created at: 2025-12-10T11:32:50Z
 - :eyes: :zzz: **[fix: new user-domain-changed event format](https://github.com/nethesis/ns8-nethvoice/pull/626)** by *DavidePrincipi* - Reviewers: *None* - Created at: 2025-12-09T14:46:42Z
 - :eyes: :zzz: **[Import CSV with admin APIs](https://github.com/nethesis/ns8-nethvoice/pull/617)** by *gsanchietti* - Reviewers: *None* - Created at: 2025-11-26T14:37:01Z
--  :zzz: **[enhancement(freepbx): Don't slow down system at reboot](https://github.com/nethesis/ns8-nethvoice/pull/605)** by *Stell0* - Reviewers: *Amygos, DavidePrincipi* - Created at: 2025-11-19T14:40:39Z
 
-### nethesis/ns8-nethvoice-proxy 4 
+### nethesis/ns8-nethvoice-proxy 10 
 
+-   **[docs: add NAT local networks section to README](https://github.com/nethesis/ns8-nethvoice-proxy/pull/149)** by *Amygos* - Reviewers: *gsanchietti, Stell0* - Created at: 2026-02-23T13:27:00Z
+-   **[refactor: remove dead code and unused flags](https://github.com/nethesis/ns8-nethvoice-proxy/pull/148)** by *Amygos* - Reviewers: *paolovisintin* - Created at: 2026-02-23T08:21:43Z
+-   **[refactor: remove unused defines from template](https://github.com/nethesis/ns8-nethvoice-proxy/pull/147)** by *Amygos* - Reviewers: *paolovisintin* - Created at: 2026-02-23T08:21:41Z
+-   **[refactor: remove 12 unused kamailio modules](https://github.com/nethesis/ns8-nethvoice-proxy/pull/146)** by *Amygos* - Reviewers: *paolovisintin* - Created at: 2026-02-23T08:21:37Z
+-   **[fix: check ds_select_dst return value](https://github.com/nethesis/ns8-nethvoice-proxy/pull/143)** by *Amygos* - Reviewers: *paolovisintin* - Created at: 2026-02-23T08:21:28Z
+-   **[fix: increase fr_timer from 1s to 30s](https://github.com/nethesis/ns8-nethvoice-proxy/pull/141)** by *Amygos* - Reviewers: *paolovisintin* - Created at: 2026-02-23T08:06:07Z
 - :eyes:  **[build(rtpengine): migrate to Ubuntu 24.04](https://github.com/nethesis/ns8-nethvoice-proxy/pull/139)** by *Amygos* - Reviewers: *None* - Created at: 2026-02-12T13:08:07Z
 - :eyes:  **[build(kamailio): update base image to Ubuntu 24.04](https://github.com/nethesis/ns8-nethvoice-proxy/pull/136)** by *Amygos* - Reviewers: *None* - Created at: 2026-02-10T15:31:39Z
 - :eyes: :zzz: **[164 notify timeout](https://github.com/nethesis/ns8-nethvoice-proxy/pull/123)** by *paolovisintin* - Reviewers: *None* - Created at: 2026-01-14T08:00:32Z

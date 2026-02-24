@@ -2,7 +2,7 @@
 
 title = 'To be released soon'
 
-date = 2026-02-23
+date = 2026-02-24
 
 +++
 
@@ -12,13 +12,9 @@ date = 2026-02-23
 
 ### NethVoice
 
-- [Mobile app migration from /webrest to /api](https://github.com/NethServer/dev/issues/7875) (#7828) by tommaso-ascani (Created: 2026-02-13T15:13:01Z, Updated: 2026-02-19T09:50:56Z)
-
 - [Deepgram connection failure causes Satellite memory leak (unbounded RAM growth)](https://github.com/NethServer/dev/issues/7872) (#7828) by Stell0 (Created: 2026-02-13T09:53:51Z, Updated: 2026-02-13T10:00:24Z)
 
 - [NethLink: Mismatch between “Last calls” and NethVoice CTI](https://github.com/NethServer/dev/issues/7870) (#7828) by tonyco97 (Created: 2026-02-12T10:03:49Z, Updated: 2026-02-13T16:15:44Z)
-
-- [NethHotel outbound calls from checked-in rooms fail when default rates/costs are missing (AGI camere.php returns 4)](https://github.com/NethServer/dev/issues/7867) (#7828) by Stell0 (Created: 2026-02-11T17:10:15Z, Updated: 2026-02-20T11:23:14Z)
 
 - [NethLink: Company type address book contacts hide their names in Nethlink](https://github.com/NethServer/dev/issues/7862) (#7828) by Ilvo (Created: 2026-02-11T14:12:24Z, Updated: 2026-02-13T16:42:02Z)
 
