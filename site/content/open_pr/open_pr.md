@@ -1,6 +1,6 @@
 +++
 title = 'Open Pull Requests'
-date = 2026-02-24
+date = 2026-02-25
 +++
 
 ## Organization: nethserver
@@ -44,11 +44,8 @@ date = 2026-02-24
 
 -   **[feat(port-forward): improve usability of the create and edit port-forward modal](https://github.com/NethServer/nethsecurity-ui/pull/704)** by *m-dilorenzi* - Reviewers: *Tbaile* - Created at: 2026-02-18T16:25:17Z
 
-### NethServer/nethsecurity-docs 4 
+### NethServer/nethsecurity-docs 1 
 
--   **[feat(threat shield): describe confidence](https://github.com/NethServer/nethsecurity-docs/pull/225)** by *gsanchietti* - Reviewers: *Tbaile, cotosso* - Created at: 2026-02-20T11:24:17Z
-- :eyes:  **[feat(TS DNS): add local allowlist section and domain blocklist troubleshooting](https://github.com/NethServer/nethsecurity-docs/pull/224)** by *francio87* - Reviewers: *None* - Created at: 2026-02-11T14:08:03Z
--  :zzz: **[feat: added nginx removal of `server_tokens`](https://github.com/NethServer/nethsecurity-docs/pull/221)** by *Tbaile* - Reviewers: *cotosso* - Created at: 2026-01-15T11:23:43Z
 - :eyes: :zzz: **[fix(ha): update for beta2](https://github.com/NethServer/nethsecurity-docs/pull/208)** by *gsanchietti* - Reviewers: *None* - Created at: 2025-10-02T10:43:05Z
 
 ### NethServer/ns8-user-manager 1 
@@ -63,10 +60,11 @@ date = 2026-02-24
 
 -  :zzz: **[Add logo, metadata, and screenshot for the lamp project](https://github.com/NethServer/ns8-nethforge/pull/35)** by *stephdl* - Reviewers: *AmaLuci* - Created at: 2026-01-23T14:17:30Z
 
-### NethServer/nethlink 2 
+### NethServer/nethlink 3 
 
+- :eyes:  **[fix: update phoneIslandTokenLogin/logout handling](https://github.com/NethServer/nethlink/pull/97)** by *tommaso-ascani* - Reviewers: *None* - Created at: 2026-02-24T10:31:31Z
+- :eyes:  **[feat: add contact search to command bar](https://github.com/NethServer/nethlink/pull/96)** by *edospadoni* - Reviewers: *None* - Created at: 2026-02-24T10:14:36Z
 - :eyes:  **[fix: missing https protocol for phone request](https://github.com/NethServer/nethlink/pull/95)** by *tonyco97* - Reviewers: *None* - Created at: 2026-02-20T16:24:11Z
-- :eyes:  **[fix: memory leak and performance in Last Calls section](https://github.com/NethServer/nethlink/pull/92)** by *edospadoni* - Reviewers: *None* - Created at: 2026-02-18T09:21:22Z
 
 ### NethServer/nethvoice-docs 1 
 
@@ -96,18 +94,21 @@ date = 2026-02-24
 - :eyes: :zzz: **[Add new Snom model snom-D335 snom-D810 snom-D892](https://github.com/nethesis/tancredi/pull/345)** by *andrea-marchionni* - Reviewers: *None* - Created at: 2026-01-21T10:01:19Z
 - :eyes: :zzz: **[Add pattern for fanvil 00-A8-5A MAC address](https://github.com/nethesis/tancredi/pull/344)** by *Stell0* - Reviewers: *None* - Created at: 2026-01-16T11:09:20Z
 
-### nethesis/ns8-nethvoice 6 
+### nethesis/ns8-nethvoice 5 
 
 - :eyes:  **[fix(ui): add restart confirmation dialog](https://github.com/nethesis/ns8-nethvoice/pull/697)** by *Amygos* - Reviewers: *None* - Created at: 2026-02-23T14:33:40Z
 - :eyes:  **[fix(clone): update proxy configuration of extensions and trunks](https://github.com/nethesis/ns8-nethvoice/pull/669)** by *Stell0* - Reviewers: *None* - Created at: 2026-01-26T08:40:38Z
 -  :zzz: **[Add new Gigaset mac addresses](https://github.com/nethesis/ns8-nethvoice/pull/667)** by *Stell0* - Reviewers: *Amygos* - Created at: 2026-01-21T15:24:21Z
 -  :zzz: **[Matrix integration](https://github.com/nethesis/ns8-nethvoice/pull/627)** by *gsanchietti* - Reviewers: *Amygos* - Created at: 2025-12-10T11:32:50Z
 - :eyes: :zzz: **[fix: new user-domain-changed event format](https://github.com/nethesis/ns8-nethvoice/pull/626)** by *DavidePrincipi* - Reviewers: *None* - Created at: 2025-12-09T14:46:42Z
-- :eyes: :zzz: **[Import CSV with admin APIs](https://github.com/nethesis/ns8-nethvoice/pull/617)** by *gsanchietti* - Reviewers: *None* - Created at: 2025-11-26T14:37:01Z
+
+### nethesis/phone-island 1 
+
+- :eyes:  **[fix: avoid error if user has only physical device](https://github.com/nethesis/phone-island/pull/175)** by *tonyco97* - Reviewers: *None* - Created at: 2026-02-24T08:43:27Z
 
 ### nethesis/ns8-nethvoice-proxy 10 
 
--   **[docs: add NAT local networks section to README](https://github.com/nethesis/ns8-nethvoice-proxy/pull/149)** by *Amygos* - Reviewers: *gsanchietti, Stell0* - Created at: 2026-02-23T13:27:00Z
+-   **[docs: add NAT local networks section to README](https://github.com/nethesis/ns8-nethvoice-proxy/pull/149)** by *Amygos* - Reviewers: *Stell0* - Created at: 2026-02-23T13:27:00Z
 -   **[refactor: remove dead code and unused flags](https://github.com/nethesis/ns8-nethvoice-proxy/pull/148)** by *Amygos* - Reviewers: *paolovisintin* - Created at: 2026-02-23T08:21:43Z
 -   **[refactor: remove unused defines from template](https://github.com/nethesis/ns8-nethvoice-proxy/pull/147)** by *Amygos* - Reviewers: *paolovisintin* - Created at: 2026-02-23T08:21:41Z
 -   **[refactor: remove 12 unused kamailio modules](https://github.com/nethesis/ns8-nethvoice-proxy/pull/146)** by *Amygos* - Reviewers: *paolovisintin* - Created at: 2026-02-23T08:21:37Z
@@ -118,8 +119,9 @@ date = 2026-02-24
 - :eyes: :zzz: **[164 notify timeout](https://github.com/nethesis/ns8-nethvoice-proxy/pull/123)** by *paolovisintin* - Reviewers: *None* - Created at: 2026-01-14T08:00:32Z
 - :eyes: :zzz: **[144 multi port binding](https://github.com/nethesis/ns8-nethvoice-proxy/pull/98)** by *paolovisintin* - Reviewers: *None* - Created at: 2025-11-14T10:18:53Z
 
-### nethesis/vue-components 1 
+### nethesis/vue-components 2 
 
+-   **[feat: add option groups support to NeDropdownFilter](https://github.com/nethesis/vue-components/pull/127)** by *edospadoni* - Reviewers: *andre8244* - Created at: 2026-02-24T15:17:36Z
 - :eyes: :zzz: **[fix(sort): relaxing sorting function](https://github.com/nethesis/vue-components/pull/104)** by *Tbaile* - Reviewers: *None* - Created at: 2025-12-11T15:17:22Z
 
 ### nethesis/ctiapp-authproxy 2 
@@ -135,9 +137,10 @@ date = 2026-02-24
 
 - :eyes: :zzz: **[chore(main): release 1.3.1](https://github.com/nethesis/parceler/pull/145)** by *Tbaile* - Reviewers: *None* - Created at: 2026-01-14T15:22:43Z
 
-### nethesis/satellite 1 
+### nethesis/satellite 2 
 
 -   **[Multi-Provider Transcription Support (REST/Batch Path)](https://github.com/nethesis/satellite/pull/31)** by *Amygos* - Reviewers: *Stell0* - Created at: 2026-02-16T09:08:57Z
+-   **[feat(TTS): Provide a Text-To-Speech API](https://github.com/nethesis/satellite/pull/28)** by *Stell0* - Reviewers: *tommaso-ascani* - Created at: 2026-01-27T16:24:37Z
 
 ### nethesis/nethcti-middleware 1 
 

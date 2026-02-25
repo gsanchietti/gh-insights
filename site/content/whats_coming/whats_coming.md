@@ -2,7 +2,7 @@
 
 title = 'To be released soon'
 
-date = 2026-02-24
+date = 2026-02-25
 
 +++
 
@@ -30,13 +30,5 @@ date = 2026-02-24
 
 ### NethSecurity
 
-- [netifyd: activate nfqueue mode for improved performance](https://github.com/NethServer/nethsecurity/issues/1526) (#1446) by Tbaile (Created: 2026-02-17T10:03:18Z, Updated: 2026-02-18T13:32:38Z)
-
-- [Remote rsyslog forwarding failure stops local logging](https://github.com/NethServer/nethsecurity/issues/1523) (#1446) by gsanchietti (Created: 2026-02-13T14:00:28Z, Updated: 2026-02-19T14:19:26Z)
-
-- [Send inventory and heartbeat to temporary endpoint](https://github.com/NethServer/nethsecurity/issues/1512) (#1446) by gsanchietti (Created: 2026-02-10T11:27:55Z, Updated: 2026-02-16T13:31:06Z)
-
-- [Revert nginx fork ](https://github.com/NethServer/nethsecurity/issues/1506) (#1446) by gsanchietti (Created: 2026-02-05T12:04:08Z, Updated: 2026-02-11T08:00:13Z)
-
-- [Bond in active-backup mode does not switch to backup interface when the primary link goes down](https://github.com/NethServer/nethsecurity/issues/1446) (#1446) by cotosso (Created: 2025-11-26T15:25:58Z, Updated: 2026-02-18T14:28:01Z)
+- [Revert nginx fork ](https://github.com/NethServer/nethsecurity/issues/1506) (#1506) by gsanchietti (Created: 2026-02-05T12:04:08Z, Updated: 2026-02-11T08:00:13Z)
 

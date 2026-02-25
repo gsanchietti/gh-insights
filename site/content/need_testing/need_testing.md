@@ -1,6 +1,6 @@
 +++
-title = 'Need testing (8)'
-date = 2026-02-24
+title = 'Need testing (7)'
+date = 2026-02-25
 +++
 
 ## NethVoice
@@ -10,12 +10,11 @@ date = 2026-02-24
 - :point_right: **[Display service ports in the NethVoice APP UI (cluster-admin)](https://github.com/NethServer/dev/issues/7488)** (#7488) by *mgarra* (Created: 2025-05-30, Updated: 2026-02-23T16:07:46Z)
 
 ## NethServer
-- :point_right: **[Update dependencies - NethServer 8.8](https://github.com/NethServer/dev/issues/7868)** (#7488) by *DavidePrincipi* (Created: 2026-02-12, Updated: 2026-02-19T08:29:05Z)
+- :point_right: **[Update dependencies - NethServer 8.8](https://github.com/NethServer/dev/issues/7868)** (#7488) by *DavidePrincipi* (Created: 2026-02-12, Updated: 2026-02-24T10:34:54Z)
 
 ## NoMilestone
 - :point_right: **[Design NS8 Backup UI](https://github.com/NethServer/dev/issues/7811)** (#7488) by *DavidePrincipi* (Created: 2026-01-12, Updated: 2026-02-20T16:51:47Z)
 
 ## NethSecurity
-- :point_right: **[Realtime monitoring: active flows](https://github.com/NethServer/nethsecurity/issues/1465)** (#1461) by *Tbaile* (Created: 2026-01-09, Updated: 2026-01-28T10:50:37Z)
-- :point_right: **[Remove confidence indicator from community dns blocklists](https://github.com/NethServer/nethsecurity/issues/1461)** (#1461) by *cotosso* (Created: 2025-12-31, Updated: 2026-02-20T08:34:01Z)
+- :point_right: **[Realtime monitoring: active flows](https://github.com/NethServer/nethsecurity/issues/1465)** (#1465) by *Tbaile* (Created: 2026-01-09, Updated: 2026-01-28T10:50:37Z)
 
