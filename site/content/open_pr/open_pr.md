@@ -1,6 +1,6 @@
 +++
 title = 'Open Pull Requests'
-date = 2026-02-25
+date = 2026-02-26
 +++
 
 ## Organization: nethserver
@@ -9,10 +9,16 @@ date = 2026-02-25
 
 -   **[Update version numbering guidelines in handbook](https://github.com/NethServer/dev/pull/7869)** by *DavidePrincipi* - Reviewers: *Amygos* - Created at: 2026-02-12T09:44:35Z
 
-### NethServer/ns8-core 2 
+### NethServer/ns8-core 4 
 
+-   **[fix(ui): improve restart module confirmation dialog](https://github.com/NethServer/ns8-core/pull/1090)** by *Amygos* - Reviewers: *andre8244* - Created at: 2026-02-25T09:46:21Z
+- :eyes:  **[feat: cluster/module_uuid hash key](https://github.com/NethServer/ns8-core/pull/1088)** by *DavidePrincipi* - Reviewers: *None* - Created at: 2026-02-24T17:49:00Z
 -   **[backup: refactor UI with tabbed layout, import destination, and cancel support](https://github.com/NethServer/ns8-core/pull/1074)** by *stephdl* - Reviewers: *andre8244* - Created at: 2026-02-06T17:06:14Z
 -   **[Backup action changes for UX improvements](https://github.com/NethServer/ns8-core/pull/1069)** by *DavidePrincipi* - Reviewers: *stephdl* - Created at: 2026-02-03T15:14:05Z
+
+### NethServer/ns8-nextcloud 1 
+
+- :eyes:  **[Add switch to manage the smarthost between cluster and Nextcloud](https://github.com/NethServer/ns8-nextcloud/pull/175)** by *mrmarkuz* - Reviewers: *None* - Created at: 2026-02-25T10:50:24Z
 
 ### NethServer/ns8-traefik 1 
 
@@ -22,8 +28,9 @@ date = 2026-02-25
 
 - :eyes: :zzz: **[feat: run tests on Debian 13 (Trixie)](https://github.com/NethServer/ns8-terraform-infra/pull/6)** by *DavidePrincipi* - Reviewers: *None* - Created at: 2026-01-23T09:56:16Z
 
-### NethServer/nethsecurity 2 
+### NethServer/nethsecurity 3 
 
+-   **[feat(openvpn-rw): add certificates renewal (CA and server) functionalities](https://github.com/NethServer/nethsecurity/pull/1536)** by *m-dilorenzi* - Reviewers: *Tbaile* - Created at: 2026-02-25T11:31:46Z
 - :eyes:  **[chore: revert nginx fork](https://github.com/NethServer/nethsecurity/pull/1505)** by *gsanchietti* - Reviewers: *None* - Created at: 2026-02-05T07:21:14Z
 - :eyes: :zzz: **[build: added softflowd](https://github.com/NethServer/nethsecurity/pull/1453)** by *Tbaile* - Reviewers: *None* - Created at: 2025-12-10T11:48:14Z
 
@@ -35,13 +42,13 @@ date = 2026-02-25
 
 - :eyes: :zzz: **[chore(master): release 1.5.1](https://github.com/NethServer/phonehome-server/pull/138)** by *Tbaile* - Reviewers: *None* - Created at: 2025-11-15T06:38:38Z
 
-### NethServer/ns8-docs 2 
+### NethServer/ns8-docs 1 
 
-- :eyes:  **[Add LAMP documentation to the index and create lamp.rst file](https://github.com/NethServer/ns8-docs/pull/218)** by *stephdl* - Reviewers: *None* - Created at: 2026-02-03T16:45:37Z
 - :eyes:  **[Add rustfs documentation](https://github.com/NethServer/ns8-docs/pull/217)** by *mrmarkuz* - Reviewers: *None* - Created at: 2026-01-28T13:29:42Z
 
-### NethServer/nethsecurity-ui 1 
+### NethServer/nethsecurity-ui 2 
 
+-   **[feat(openvpn-rw): add certificates renewal (CA and server) functionalities](https://github.com/NethServer/nethsecurity-ui/pull/707)** by *m-dilorenzi* - Reviewers: *Tbaile* - Created at: 2026-02-25T11:34:45Z
 -   **[feat(port-forward): improve usability of the create and edit port-forward modal](https://github.com/NethServer/nethsecurity-ui/pull/704)** by *m-dilorenzi* - Reviewers: *Tbaile* - Created at: 2026-02-18T16:25:17Z
 
 ### NethServer/nethsecurity-docs 1 
@@ -55,10 +62,6 @@ date = 2026-02-25
 ### NethServer/ns8-sogo 1 
 
 - :eyes: :zzz: **[Use runagent instead of ssh in README](https://github.com/NethServer/ns8-sogo/pull/56)** by *mrmarkuz* - Reviewers: *None* - Created at: 2026-01-13T08:27:57Z
-
-### NethServer/ns8-nethforge 1 
-
--  :zzz: **[Add logo, metadata, and screenshot for the lamp project](https://github.com/NethServer/ns8-nethforge/pull/35)** by *stephdl* - Reviewers: *AmaLuci* - Created at: 2026-01-23T14:17:30Z
 
 ### NethServer/nethlink 3 
 
@@ -88,23 +91,12 @@ date = 2026-02-25
 
 -  :zzz: **[Removed old notification service usage](https://github.com/nethesis/nethcti-app-iphone/pull/37)** by *NicolaMrAPPs* - Reviewers: *b9874e* - Created at: 2023-08-02T09:19:30Z
 
-### nethesis/tancredi 3 
-
-- :eyes: :zzz: **[Add new Gigaset phones](https://github.com/nethesis/tancredi/pull/346)** by *andrea-marchionni* - Reviewers: *None* - Created at: 2026-01-21T11:23:33Z
-- :eyes: :zzz: **[Add new Snom model snom-D335 snom-D810 snom-D892](https://github.com/nethesis/tancredi/pull/345)** by *andrea-marchionni* - Reviewers: *None* - Created at: 2026-01-21T10:01:19Z
-- :eyes: :zzz: **[Add pattern for fanvil 00-A8-5A MAC address](https://github.com/nethesis/tancredi/pull/344)** by *Stell0* - Reviewers: *None* - Created at: 2026-01-16T11:09:20Z
-
-### nethesis/ns8-nethvoice 5 
+### nethesis/ns8-nethvoice 4 
 
 - :eyes:  **[fix(ui): add restart confirmation dialog](https://github.com/nethesis/ns8-nethvoice/pull/697)** by *Amygos* - Reviewers: *None* - Created at: 2026-02-23T14:33:40Z
-- :eyes:  **[fix(clone): update proxy configuration of extensions and trunks](https://github.com/nethesis/ns8-nethvoice/pull/669)** by *Stell0* - Reviewers: *None* - Created at: 2026-01-26T08:40:38Z
--  :zzz: **[Add new Gigaset mac addresses](https://github.com/nethesis/ns8-nethvoice/pull/667)** by *Stell0* - Reviewers: *Amygos* - Created at: 2026-01-21T15:24:21Z
+- :eyes: :zzz: **[fix(clone): update proxy configuration of extensions and trunks](https://github.com/nethesis/ns8-nethvoice/pull/669)** by *Stell0* - Reviewers: *None* - Created at: 2026-01-26T08:40:38Z
 -  :zzz: **[Matrix integration](https://github.com/nethesis/ns8-nethvoice/pull/627)** by *gsanchietti* - Reviewers: *Amygos* - Created at: 2025-12-10T11:32:50Z
 - :eyes: :zzz: **[fix: new user-domain-changed event format](https://github.com/nethesis/ns8-nethvoice/pull/626)** by *DavidePrincipi* - Reviewers: *None* - Created at: 2025-12-09T14:46:42Z
-
-### nethesis/phone-island 1 
-
-- :eyes:  **[fix: avoid error if user has only physical device](https://github.com/nethesis/phone-island/pull/175)** by *tonyco97* - Reviewers: *None* - Created at: 2026-02-24T08:43:27Z
 
 ### nethesis/ns8-nethvoice-proxy 10 
 
@@ -119,9 +111,8 @@ date = 2026-02-25
 - :eyes: :zzz: **[164 notify timeout](https://github.com/nethesis/ns8-nethvoice-proxy/pull/123)** by *paolovisintin* - Reviewers: *None* - Created at: 2026-01-14T08:00:32Z
 - :eyes: :zzz: **[144 multi port binding](https://github.com/nethesis/ns8-nethvoice-proxy/pull/98)** by *paolovisintin* - Reviewers: *None* - Created at: 2025-11-14T10:18:53Z
 
-### nethesis/vue-components 2 
+### nethesis/vue-components 1 
 
--   **[feat: add option groups support to NeDropdownFilter](https://github.com/nethesis/vue-components/pull/127)** by *edospadoni* - Reviewers: *andre8244* - Created at: 2026-02-24T15:17:36Z
 - :eyes: :zzz: **[fix(sort): relaxing sorting function](https://github.com/nethesis/vue-components/pull/104)** by *Tbaile* - Reviewers: *None* - Created at: 2025-12-11T15:17:22Z
 
 ### nethesis/ctiapp-authproxy 2 

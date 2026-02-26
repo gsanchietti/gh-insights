@@ -2,11 +2,13 @@
 
 title = 'To be released soon'
 
-date = 2026-02-25
+date = 2026-02-26
 
 +++
 
 ### NethServer
+
+- [Controller update from Applications page shows broken modal and does not work](https://github.com/NethServer/dev/issues/7891) (#7828) by nrauso (Created: 2026-02-25T09:24:53Z, Updated: 2026-02-25T10:46:39Z)
 
 - [Public folder access fails with long AD DN](https://github.com/NethServer/dev/issues/7879) (#7828) by DavidePrincipi (Created: 2026-02-17T14:57:55Z, Updated: 2026-02-17T16:09:25Z)
 
