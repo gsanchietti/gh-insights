@@ -1,14 +1,13 @@
 +++
 title = 'Open Pull Requests'
-date = 2026-02-27
+date = 2026-02-28
 +++
 
 ## Organization: nethserver
 
-### NethServer/ns8-core 2 
+### NethServer/ns8-core 1 
 
-- :eyes:  **[Fix empty app name handling in modal titles](https://github.com/NethServer/ns8-core/pull/1094)** by *stephdl* - Reviewers: *None* - Created at: 2026-02-26T14:12:28Z
-- :eyes:  **[backup: refactor UI with tabbed layout, import destination, and cancel support](https://github.com/NethServer/ns8-core/pull/1074)** by *stephdl* - Reviewers: *None* - Created at: 2026-02-06T17:06:14Z
+- :eyes:  **[Make file uploader inputs removable in various modals](https://github.com/NethServer/ns8-core/pull/1098)** by *stephdl* - Reviewers: *None* - Created at: 2026-02-27T14:42:58Z
 
 ### NethServer/ns8-nextcloud 1 
 
@@ -38,10 +37,11 @@ date = 2026-02-27
 ### NethServer/ns8-docs 2 
 
 - :eyes:  **[Add Nextcloud smarthost override](https://github.com/NethServer/ns8-docs/pull/222)** by *mrmarkuz* - Reviewers: *None* - Created at: 2026-02-26T09:21:06Z
-- :eyes:  **[Add rustfs documentation](https://github.com/NethServer/ns8-docs/pull/217)** by *mrmarkuz* - Reviewers: *None* - Created at: 2026-01-28T13:29:42Z
+- :eyes: :zzz: **[Add rustfs documentation](https://github.com/NethServer/ns8-docs/pull/217)** by *mrmarkuz* - Reviewers: *None* - Created at: 2026-01-28T13:29:42Z
 
-### NethServer/nethsecurity-ui 2 
+### NethServer/nethsecurity-ui 3 
 
+-   **[fix(multiwan-rules): improve condition checks for source and destination objects on edit drawer](https://github.com/NethServer/nethsecurity-ui/pull/709)** by *m-dilorenzi* - Reviewers: *Tbaile* - Created at: 2026-02-27T15:11:40Z
 - :eyes:  **[feat(openvpn-rw): add certificates renewal (CA and server) functionalities](https://github.com/NethServer/nethsecurity-ui/pull/707)** by *m-dilorenzi* - Reviewers: *None* - Created at: 2026-02-25T11:34:45Z
 -   **[feat(port-forward): improve usability of the create and edit port-forward modal](https://github.com/NethServer/nethsecurity-ui/pull/704)** by *m-dilorenzi* - Reviewers: *Tbaile* - Created at: 2026-02-18T16:25:17Z
 
@@ -57,8 +57,9 @@ date = 2026-02-27
 
 - :eyes: :zzz: **[Use runagent instead of ssh in README](https://github.com/NethServer/ns8-sogo/pull/56)** by *mrmarkuz* - Reviewers: *None* - Created at: 2026-01-13T08:27:57Z
 
-### NethServer/nethlink 5 
+### NethServer/nethlink 6 
 
+- :eyes:  **[chore(dep): update phone-island](https://github.com/NethServer/nethlink/pull/100)** by *tonyco97* - Reviewers: *None* - Created at: 2026-02-27T14:14:43Z
 - :eyes:  **[fix: avoid to show phone-island if user disabled](https://github.com/NethServer/nethlink/pull/99)** by *tonyco97* - Reviewers: *None* - Created at: 2026-02-26T15:29:53Z
 - :eyes:  **[chore(dep): update phone-island](https://github.com/NethServer/nethlink/pull/98)** by *tonyco97* - Reviewers: *None* - Created at: 2026-02-26T12:21:32Z
 - :eyes:  **[fix: update phoneIslandTokenLogin/logout handling](https://github.com/NethServer/nethlink/pull/97)** by *tommaso-ascani* - Reviewers: *None* - Created at: 2026-02-24T10:31:31Z
@@ -93,8 +94,8 @@ date = 2026-02-27
 
 ### nethesis/ns8-nethvoice 3 
 
+- :eyes:  **[fix(ui): reload config after first config wizard](https://github.com/nethesis/ns8-nethvoice/pull/712)** by *andre8244* - Reviewers: *None* - Created at: 2026-02-27T18:41:26Z
 - :eyes:  **[perf: update nethvoice-reports with CDR query optimizations](https://github.com/nethesis/ns8-nethvoice/pull/710)** by *edospadoni* - Reviewers: *None* - Created at: 2026-02-26T14:50:19Z
--   **[fix(ui): add restart confirmation dialog](https://github.com/nethesis/ns8-nethvoice/pull/697)** by *Amygos* - Reviewers: *andre8244* - Created at: 2026-02-23T14:33:40Z
 -  :zzz: **[Matrix integration](https://github.com/nethesis/ns8-nethvoice/pull/627)** by *gsanchietti* - Reviewers: *Amygos* - Created at: 2025-12-10T11:32:50Z
 
 ### nethesis/ns8-nethvoice-proxy 10 
@@ -127,11 +128,10 @@ date = 2026-02-27
 
 - :eyes: :zzz: **[chore(main): release 1.3.1](https://github.com/nethesis/parceler/pull/145)** by *Tbaile* - Reviewers: *None* - Created at: 2026-01-14T15:22:43Z
 
-### nethesis/satellite 3 
+### nethesis/satellite 2 
 
 - :eyes:  **[feat(transcription): implement start and stop control for realtime](https://github.com/nethesis/satellite/pull/33)** by *tommaso-ascani* - Reviewers: *None* - Created at: 2026-02-26T11:12:54Z
 -   **[Multi-Provider Transcription Support (REST/Batch Path)](https://github.com/nethesis/satellite/pull/31)** by *Amygos* - Reviewers: *Stell0* - Created at: 2026-02-16T09:08:57Z
-- :eyes: :zzz: **[feat(TTS): Provide a Text-To-Speech API](https://github.com/nethesis/satellite/pull/28)** by *Stell0* - Reviewers: *None* - Created at: 2026-01-27T16:24:37Z
 
 ### nethesis/nethcti-middleware 1 
 
@@ -139,6 +139,6 @@ date = 2026-02-27
 
 ### nethesis/matrix2acrobits 1 
 
-- :eyes:  **[fix: rename SubExtensions to Extensions in user models and related logic](https://github.com/nethesis/matrix2acrobits/pull/18)** by *tommaso-ascani* - Reviewers: *None* - Created at: 2026-01-28T11:13:10Z
+- :eyes: :zzz: **[fix: rename SubExtensions to Extensions in user models and related logic](https://github.com/nethesis/matrix2acrobits/pull/18)** by *tommaso-ascani* - Reviewers: *None* - Created at: 2026-01-28T11:13:10Z
 
 
