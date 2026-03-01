@@ -1,6 +1,6 @@
 +++
 title = 'Open Pull Requests by Bots'
-date = 2026-02-28
+date = 2026-03-01
 +++
 
 ## Organization: nethserver
@@ -126,14 +126,15 @@ date = 2026-02-28
 
 - :eyes: :zzz: **[Translations update from Hosted Weblate](https://github.com/NethServer/ns8-ejabberd/pull/100)** by *weblate* - Reviewers: *None* - Created at: 2025-12-29T04:01:01Z
 
-### NethServer/nethsecurity-ui 8 
+### NethServer/nethsecurity-ui 9 
 
+- :eyes:  **[chore(deps): lock file maintenance](https://github.com/NethServer/nethsecurity-ui/pull/710)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-03-01T01:27:23Z
 - :eyes:  **[chore(deps): update actions/upload-artifact action to v7](https://github.com/NethServer/nethsecurity-ui/pull/708)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-02-26T21:38:52Z
 - :eyes:  **[chore(deps): update node.js to v24.14.0](https://github.com/NethServer/nethsecurity-ui/pull/706)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-02-24T18:09:28Z
 - :eyes:  **[chore(deps): update aquasecurity/trivy-action action to v0.34.1](https://github.com/NethServer/nethsecurity-ui/pull/705)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-02-21T00:55:12Z
 - :eyes:  **[chore(deps): update dependency eslint to v10](https://github.com/NethServer/nethsecurity-ui/pull/694)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-02-07T00:36:07Z
 - :eyes:  **[chore(deps): update dependency jsdom to v28](https://github.com/NethServer/nethsecurity-ui/pull/686)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-02-02T10:24:11Z
-- :eyes:  **[fix(deps): update dependency vue-router to v5](https://github.com/NethServer/nethsecurity-ui/pull/684)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-01-29T21:09:23Z
+- :eyes: :zzz: **[fix(deps): update dependency vue-router to v5](https://github.com/NethServer/nethsecurity-ui/pull/684)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-01-29T21:09:23Z
 - :eyes: :zzz: **[fix(deps): update font awesome to v7 (major)](https://github.com/NethServer/nethsecurity-ui/pull/674)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-01-16T18:31:59Z
 - :eyes: :zzz: **[fix(deps): update dependency @xterm/xterm to v6](https://github.com/NethServer/nethsecurity-ui/pull/673)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-01-16T12:44:22Z
 
@@ -208,8 +209,9 @@ date = 2026-02-28
 - :eyes:  **[chore(deps): update actions/upload-artifact action to v7](https://github.com/nethesis/tancredi/pull/355)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-02-26T20:56:37Z
 - :eyes:  **[Bump faraday from 1.0.1 to 2.14.1 in /docs](https://github.com/nethesis/tancredi/pull/349)** by *dependabot[bot]* - Reviewers: *None* - Created at: 2026-02-09T21:34:29Z
 
-### nethesis/falconieri 3 
+### nethesis/falconieri 4 
 
+- :eyes:  **[fix(deps): update module github.com/gin-gonic/gin to v1.12.0](https://github.com/nethesis/falconieri/pull/40)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-02-28T13:19:36Z
 - :eyes:  **[chore(deps): update aquasecurity/trivy-action action to v0.34.0 [security]](https://github.com/nethesis/falconieri/pull/39)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-02-27T13:29:37Z
 - :eyes:  **[chore(deps): update github artifact actions (major)](https://github.com/nethesis/falconieri/pull/38)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-02-26T22:03:57Z
 - :eyes:  **[chore(deps): update dependency go to v1.26.0](https://github.com/nethesis/falconieri/pull/36)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-02-10T21:39:45Z
