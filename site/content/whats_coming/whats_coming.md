@@ -2,15 +2,13 @@
 
 title = 'To be released soon'
 
-date = 2026-03-02
+date = 2026-03-03
 
 +++
 
 ### NoMilestone
 
 - [Enable lowContrast by default for NsInlineNotification in ns8-core](https://github.com/NethServer/dev/issues/7896) (#7488) by stephdl (Created: 2026-02-26T16:34:26Z, Updated: 2026-02-27T09:19:18Z)
-
-- [NethCTI server file upload for voicemail is accepted but not played by Asterisk](https://github.com/NethServer/dev/issues/7846) (#7488) by tommaso-ascani (Created: 2026-02-03T10:38:35Z, Updated: 2026-02-05T14:17:13Z)
 
 ### NethVoice
 
@@ -42,7 +40,15 @@ date = 2026-03-02
 
 - [Controller update from Applications page shows broken modal and does not work](https://github.com/NethServer/dev/issues/7891) (#7488) by nrauso (Created: 2026-02-25T09:24:53Z, Updated: 2026-02-25T10:46:39Z)
 
+- [Cluster and module_uuid based hash key](https://github.com/NethServer/dev/issues/7890) (#7488) by DavidePrincipi (Created: 2026-02-24T17:59:19Z, Updated: 2026-03-02T13:03:45Z)
+
+- [Zero-length environment file after power loss during module update](https://github.com/NethServer/dev/issues/7886) (#7488) by DavidePrincipi (Created: 2026-02-19T10:37:25Z, Updated: 2026-03-02T12:21:53Z)
+
 - [Public folder access fails with long AD DN](https://github.com/NethServer/dev/issues/7879) (#7488) by DavidePrincipi (Created: 2026-02-17T14:57:55Z, Updated: 2026-02-17T16:09:25Z)
+
+- [Cannot clear individual file selection for custom certificate upload in NS8 cluster-admin TLS certificates page](https://github.com/NethServer/dev/issues/7851) (#7488) by DavidePrincipi (Created: 2026-02-09T14:20:04Z, Updated: 2026-03-02T12:59:32Z)
+
+- [Improve Restore UX in Disaster Recovery and Backup pages](https://github.com/NethServer/dev/issues/7810) (#7488) by DavidePrincipi (Created: 2026-01-12T13:53:42Z, Updated: 2026-03-02T13:21:33Z)
 
 ### NethSecurity
 

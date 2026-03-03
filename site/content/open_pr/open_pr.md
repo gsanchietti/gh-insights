@@ -1,13 +1,14 @@
 +++
 title = 'Open Pull Requests'
-date = 2026-03-02
+date = 2026-03-03
 +++
 
 ## Organization: nethserver
 
-### NethServer/ns8-core 1 
+### NethServer/ns8-core 2 
 
-- :eyes:  **[Make file uploader inputs removable in various modals](https://github.com/NethServer/ns8-core/pull/1098)** by *stephdl* - Reviewers: *None* - Created at: 2026-02-27T14:42:58Z
+- :eyes:  **[Add notification for offline Traefik instances and improve error handling](https://github.com/NethServer/ns8-core/pull/1101)** by *stephdl* - Reviewers: *None* - Created at: 2026-03-02T16:00:16Z
+-   **[Automatic stop of support.service unit](https://github.com/NethServer/ns8-core/pull/1100)** by *DavidePrincipi* - Reviewers: *gsanchietti* - Created at: 2026-03-02T15:29:46Z
 
 ### NethServer/ns8-nextcloud 1 
 
@@ -26,8 +27,9 @@ date = 2026-03-02
 - :eyes:  **[chore: revert nginx fork](https://github.com/NethServer/nethsecurity/pull/1505)** by *gsanchietti* - Reviewers: *None* - Created at: 2026-02-05T07:21:14Z
 - :eyes: :zzz: **[build: added softflowd](https://github.com/NethServer/nethsecurity/pull/1453)** by *Tbaile* - Reviewers: *None* - Created at: 2025-12-10T11:48:14Z
 
-### NethServer/ns8-nethsecurity-controller 1 
+### NethServer/ns8-nethsecurity-controller 2 
 
+-   **[Add UI test workflow for Renovate dependency-update PRs](https://github.com/NethServer/ns8-nethsecurity-controller/pull/179)** by *Copilot* - Reviewers: *DavidePrincipi* - Created at: 2026-02-27T10:41:43Z
 - :eyes: :zzz: **[feat(ci): renovate, automerge patches](https://github.com/NethServer/ns8-nethsecurity-controller/pull/135)** by *gsanchietti* - Reviewers: *None* - Created at: 2025-11-24T07:54:15Z
 
 ### NethServer/phonehome-server 1 
@@ -39,8 +41,9 @@ date = 2026-03-02
 - :eyes:  **[Add Nextcloud smarthost override](https://github.com/NethServer/ns8-docs/pull/222)** by *mrmarkuz* - Reviewers: *None* - Created at: 2026-02-26T09:21:06Z
 - :eyes: :zzz: **[Add rustfs documentation](https://github.com/NethServer/ns8-docs/pull/217)** by *mrmarkuz* - Reviewers: *None* - Created at: 2026-01-28T13:29:42Z
 
-### NethServer/nethsecurity-ui 3 
+### NethServer/nethsecurity-ui 4 
 
+-   **[DPI app count increased](https://github.com/NethServer/nethsecurity-ui/pull/712)** by *cotosso* - Reviewers: *Tbaile* - Created at: 2026-03-02T12:04:42Z
 -   **[fix(multiwan-rules): improve condition checks for source and destination objects on edit drawer](https://github.com/NethServer/nethsecurity-ui/pull/709)** by *m-dilorenzi* - Reviewers: *Tbaile* - Created at: 2026-02-27T15:11:40Z
 - :eyes:  **[feat(openvpn-rw): add certificates renewal (CA and server) functionalities](https://github.com/NethServer/nethsecurity-ui/pull/707)** by *m-dilorenzi* - Reviewers: *None* - Created at: 2026-02-25T11:34:45Z
 -   **[feat(port-forward): improve usability of the create and edit port-forward modal](https://github.com/NethServer/nethsecurity-ui/pull/704)** by *m-dilorenzi* - Reviewers: *Tbaile* - Created at: 2026-02-18T16:25:17Z
@@ -57,13 +60,10 @@ date = 2026-03-02
 
 - :eyes: :zzz: **[Use runagent instead of ssh in README](https://github.com/NethServer/ns8-sogo/pull/56)** by *mrmarkuz* - Reviewers: *None* - Created at: 2026-01-13T08:27:57Z
 
-### NethServer/nethlink 6 
+### NethServer/nethlink 3 
 
 - :eyes:  **[chore(dep): update phone-island](https://github.com/NethServer/nethlink/pull/100)** by *tonyco97* - Reviewers: *None* - Created at: 2026-02-27T14:14:43Z
-- :eyes:  **[fix: avoid to show phone-island if user disabled](https://github.com/NethServer/nethlink/pull/99)** by *tonyco97* - Reviewers: *None* - Created at: 2026-02-26T15:29:53Z
-- :eyes:  **[chore(dep): update phone-island](https://github.com/NethServer/nethlink/pull/98)** by *tonyco97* - Reviewers: *None* - Created at: 2026-02-26T12:21:32Z
 - :eyes:  **[fix: update phoneIslandTokenLogin/logout handling](https://github.com/NethServer/nethlink/pull/97)** by *tommaso-ascani* - Reviewers: *None* - Created at: 2026-02-24T10:31:31Z
-- :eyes:  **[feat: add contact search to command bar](https://github.com/NethServer/nethlink/pull/96)** by *edospadoni* - Reviewers: *None* - Created at: 2026-02-24T10:14:36Z
 - :eyes:  **[fix: missing https protocol for phone request](https://github.com/NethServer/nethlink/pull/95)** by *tonyco97* - Reviewers: *None* - Created at: 2026-02-20T16:24:11Z
 
 ### NethServer/nethvoice-docs 1 
@@ -75,6 +75,10 @@ date = 2026-03-02
 - :eyes: :zzz: **[chore(main): release 1.0.0](https://github.com/NethServer/nethsecurity-monitoring/pull/5)** by *Tbaile* - Reviewers: *None* - Created at: 2026-01-22T13:43:47Z
 
 ## Organization: nethesis
+
+### nethesis/windmill 1 
+
+- :eyes:  **[feat: auto-expire OpenVPN sessions after configurable max age](https://github.com/nethesis/windmill/pull/8)** by *edospadoni* - Reviewers: *None* - Created at: 2026-03-02T15:34:30Z
 
 ### nethesis/icaro 1 
 
@@ -94,9 +98,13 @@ date = 2026-03-02
 
 ### nethesis/ns8-nethvoice 3 
 
-- :eyes:  **[fix(ui): reload config after first config wizard](https://github.com/nethesis/ns8-nethvoice/pull/712)** by *andre8244* - Reviewers: *None* - Created at: 2026-02-27T18:41:26Z
+- :eyes:  **[feat(cti): add triggerMiddlewareProfilesReload function](https://github.com/nethesis/ns8-nethvoice/pull/716)** by *tommaso-ascani* - Reviewers: *None* - Created at: 2026-03-02T13:19:47Z
 - :eyes:  **[perf: update nethvoice-reports with CDR query optimizations](https://github.com/nethesis/ns8-nethvoice/pull/710)** by *edospadoni* - Reviewers: *None* - Created at: 2026-02-26T14:50:19Z
 -  :zzz: **[Matrix integration](https://github.com/nethesis/ns8-nethvoice/pull/627)** by *gsanchietti* - Reviewers: *Amygos* - Created at: 2025-12-10T11:32:50Z
+
+### nethesis/nethvoice-cti 1 
+
+- :eyes:  **[feat(parking): implement debounced refresh for parking list updates](https://github.com/nethesis/nethvoice-cti/pull/415)** by *tommaso-ascani* - Reviewers: *None* - Created at: 2026-03-02T13:17:38Z
 
 ### nethesis/ns8-nethvoice-proxy 10 
 
@@ -111,8 +119,9 @@ date = 2026-03-02
 - :eyes: :zzz: **[164 notify timeout](https://github.com/nethesis/ns8-nethvoice-proxy/pull/123)** by *paolovisintin* - Reviewers: *None* - Created at: 2026-01-14T08:00:32Z
 - :eyes: :zzz: **[144 multi port binding](https://github.com/nethesis/ns8-nethvoice-proxy/pull/98)** by *paolovisintin* - Reviewers: *None* - Created at: 2025-11-14T10:18:53Z
 
-### nethesis/vue-components 1 
+### nethesis/vue-components 2 
 
+-   **[chore(deps): update storybook to v10](https://github.com/nethesis/vue-components/pull/131)** by *andre8244* - Reviewers: *Tbaile* - Created at: 2026-03-02T16:01:50Z
 - :eyes: :zzz: **[fix(sort): relaxing sorting function](https://github.com/nethesis/vue-components/pull/104)** by *Tbaile* - Reviewers: *None* - Created at: 2025-12-11T15:17:22Z
 
 ### nethesis/ctiapp-authproxy 2 
@@ -123,10 +132,6 @@ date = 2026-03-02
 ### nethesis/nethvoice-client-docs 1 
 
 - :eyes: :zzz: **[Update and add the CTI image](https://github.com/nethesis/nethvoice-client-docs/pull/14)** by *viktec* - Reviewers: *None* - Created at: 2025-11-05T16:11:10Z
-
-### nethesis/parceler 1 
-
-- :eyes: :zzz: **[chore(main): release 1.3.1](https://github.com/nethesis/parceler/pull/145)** by *Tbaile* - Reviewers: *None* - Created at: 2026-01-14T15:22:43Z
 
 ### nethesis/satellite 2 
 
