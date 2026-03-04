@@ -1,6 +1,6 @@
 +++
 title = 'Open Pull Requests'
-date = 2026-03-03
+date = 2026-03-04
 +++
 
 ## Organization: nethserver
@@ -22,15 +22,17 @@ date = 2026-03-03
 
 - :eyes: :zzz: **[feat: run tests on Debian 13 (Trixie)](https://github.com/NethServer/ns8-terraform-infra/pull/6)** by *DavidePrincipi* - Reviewers: *None* - Created at: 2026-01-23T09:56:16Z
 
-### NethServer/nethsecurity 2 
+### NethServer/nethsecurity 5 
 
+- :eyes:  **[fix(ns-ha): added locking mechanism on switch](https://github.com/NethServer/nethsecurity/pull/1548)** by *Tbaile* - Reviewers: *None* - Created at: 2026-03-03T13:21:04Z
+-   **[feat(ns-api): add update-timezone script for post-commit processing](https://github.com/NethServer/nethsecurity/pull/1545)** by *m-dilorenzi* - Reviewers: *Tbaile* - Created at: 2026-03-03T09:21:33Z
+- :eyes:  **[fix(dpi): hardcoding the logging limit](https://github.com/NethServer/nethsecurity/pull/1544)** by *Tbaile* - Reviewers: *None* - Created at: 2026-03-03T09:21:09Z
 - :eyes:  **[chore: revert nginx fork](https://github.com/NethServer/nethsecurity/pull/1505)** by *gsanchietti* - Reviewers: *None* - Created at: 2026-02-05T07:21:14Z
 - :eyes: :zzz: **[build: added softflowd](https://github.com/NethServer/nethsecurity/pull/1453)** by *Tbaile* - Reviewers: *None* - Created at: 2025-12-10T11:48:14Z
 
-### NethServer/ns8-nethsecurity-controller 2 
+### NethServer/ns8-nethsecurity-controller 1 
 
 -   **[Add UI test workflow for Renovate dependency-update PRs](https://github.com/NethServer/ns8-nethsecurity-controller/pull/179)** by *Copilot* - Reviewers: *DavidePrincipi* - Created at: 2026-02-27T10:41:43Z
-- :eyes: :zzz: **[feat(ci): renovate, automerge patches](https://github.com/NethServer/ns8-nethsecurity-controller/pull/135)** by *gsanchietti* - Reviewers: *None* - Created at: 2025-11-24T07:54:15Z
 
 ### NethServer/phonehome-server 1 
 
@@ -41,11 +43,10 @@ date = 2026-03-03
 - :eyes:  **[Add Nextcloud smarthost override](https://github.com/NethServer/ns8-docs/pull/222)** by *mrmarkuz* - Reviewers: *None* - Created at: 2026-02-26T09:21:06Z
 - :eyes: :zzz: **[Add rustfs documentation](https://github.com/NethServer/ns8-docs/pull/217)** by *mrmarkuz* - Reviewers: *None* - Created at: 2026-01-28T13:29:42Z
 
-### NethServer/nethsecurity-ui 4 
+### NethServer/nethsecurity-ui 3 
 
+- :eyes:  **[chore(main): release 2.15.0](https://github.com/NethServer/nethsecurity-ui/pull/713)** by *Tbaile* - Reviewers: *None* - Created at: 2026-03-03T15:30:51Z
 -   **[DPI app count increased](https://github.com/NethServer/nethsecurity-ui/pull/712)** by *cotosso* - Reviewers: *Tbaile* - Created at: 2026-03-02T12:04:42Z
--   **[fix(multiwan-rules): improve condition checks for source and destination objects on edit drawer](https://github.com/NethServer/nethsecurity-ui/pull/709)** by *m-dilorenzi* - Reviewers: *Tbaile* - Created at: 2026-02-27T15:11:40Z
-- :eyes:  **[feat(openvpn-rw): add certificates renewal (CA and server) functionalities](https://github.com/NethServer/nethsecurity-ui/pull/707)** by *m-dilorenzi* - Reviewers: *None* - Created at: 2026-02-25T11:34:45Z
 -   **[feat(port-forward): improve usability of the create and edit port-forward modal](https://github.com/NethServer/nethsecurity-ui/pull/704)** by *m-dilorenzi* - Reviewers: *Tbaile* - Created at: 2026-02-18T16:25:17Z
 
 ### NethServer/nethsecurity-docs 1 
@@ -69,6 +70,10 @@ date = 2026-03-03
 ### NethServer/nethvoice-docs 1 
 
 -   **[feat(translation-agent): enhance translation agent commit diff](https://github.com/NethServer/nethvoice-docs/pull/37)** by *m-dilorenzi* - Reviewers: *gsanchietti* - Created at: 2026-02-17T10:13:39Z
+
+### NethServer/ns8-rustfs 1 
+
+-   **[Use semver versioning](https://github.com/NethServer/ns8-rustfs/pull/28)** by *mrmarkuz* - Reviewers: *stephdl* - Created at: 2026-03-03T10:53:54Z
 
 ### NethServer/nethsecurity-monitoring 1 
 
@@ -96,15 +101,10 @@ date = 2026-03-03
 
 - :eyes:  **[perf(cdr): optimize queries for large CDR installations](https://github.com/nethesis/nethvoice-report/pull/207)** by *edospadoni* - Reviewers: *None* - Created at: 2026-02-26T14:35:44Z
 
-### nethesis/ns8-nethvoice 3 
+### nethesis/ns8-nethvoice 2 
 
-- :eyes:  **[feat(cti): add triggerMiddlewareProfilesReload function](https://github.com/nethesis/ns8-nethvoice/pull/716)** by *tommaso-ascani* - Reviewers: *None* - Created at: 2026-03-02T13:19:47Z
 - :eyes:  **[perf: update nethvoice-reports with CDR query optimizations](https://github.com/nethesis/ns8-nethvoice/pull/710)** by *edospadoni* - Reviewers: *None* - Created at: 2026-02-26T14:50:19Z
 -  :zzz: **[Matrix integration](https://github.com/nethesis/ns8-nethvoice/pull/627)** by *gsanchietti* - Reviewers: *Amygos* - Created at: 2025-12-10T11:32:50Z
-
-### nethesis/nethvoice-cti 1 
-
-- :eyes:  **[feat(parking): implement debounced refresh for parking list updates](https://github.com/nethesis/nethvoice-cti/pull/415)** by *tommaso-ascani* - Reviewers: *None* - Created at: 2026-03-02T13:17:38Z
 
 ### nethesis/ns8-nethvoice-proxy 10 
 

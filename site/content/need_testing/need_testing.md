@@ -1,6 +1,6 @@
 +++
-title = 'Need testing (8)'
-date = 2026-03-03
+title = 'Need testing (9)'
+date = 2026-03-04
 +++
 
 ## NethVoice
@@ -14,6 +14,7 @@ date = 2026-03-03
 - :point_right: **[Update dependencies - NethServer 8.8](https://github.com/NethServer/dev/issues/7868)** (#7725) by *DavidePrincipi* (Created: 2026-02-12, Updated: 2026-02-25T18:06:11Z)
 
 ## NethSecurity
+- **[Hardening controller: protect prometheus and webssh paths with authentication](https://github.com/NethServer/nethsecurity/issues/1546)** (#1465) by *gsanchietti* (Created: 2026-03-03, Updated: 2026-03-03T15:17:16Z)
 - :point_right: **[QoS LAN upload/download speeds are inverted ](https://github.com/NethServer/nethsecurity/issues/1524)** (#1465) by *Tbaile* (Created: 2026-02-16, Updated: 2026-02-27T11:31:26Z)
 - :point_right: **[Realtime monitoring: active flows](https://github.com/NethServer/nethsecurity/issues/1465)** (#1465) by *Tbaile* (Created: 2026-01-09, Updated: 2026-01-28T10:50:37Z)
 

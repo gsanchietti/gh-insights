@@ -2,15 +2,13 @@
 
 title = 'To be released soon'
 
-date = 2026-03-03
+date = 2026-03-04
 
 +++
 
-### NoMilestone
-
-- [Enable lowContrast by default for NsInlineNotification in ns8-core](https://github.com/NethServer/dev/issues/7896) (#7488) by stephdl (Created: 2026-02-26T16:34:26Z, Updated: 2026-02-27T09:19:18Z)
-
 ### NethVoice
+
+- [NethVoice: Settings page does not update after completing first configuration wizard](https://github.com/NethServer/dev/issues/7899) (#7488) by andre8244 (Created: 2026-02-27T18:39:23Z, Updated: 2026-03-03T15:28:30Z)
 
 - [Nethvoice: user filter "Internal" does not show all results with infinite scroll](https://github.com/NethServer/dev/issues/7893) (#7488) by tonyco97 (Created: 2026-02-25T11:29:56Z, Updated: 2026-02-26T13:32:59Z)
 
@@ -35,6 +33,10 @@ date = 2026-03-03
 - [NethVoice: Application restarts without confirmation](https://github.com/NethServer/dev/issues/7819) (#7488) by andre8244 (Created: 2026-01-14T14:47:06Z, Updated: 2026-02-27T17:00:23Z)
 
 - [Display service ports in the NethVoice APP UI (cluster-admin)](https://github.com/NethServer/dev/issues/7488) (#7488) by mgarra (Created: 2025-05-30T10:18:01Z, Updated: 2026-02-26T10:12:48Z)
+
+### NoMilestone
+
+- [Enable lowContrast by default for NsInlineNotification in ns8-core](https://github.com/NethServer/dev/issues/7896) (#7488) by stephdl (Created: 2026-02-26T16:34:26Z, Updated: 2026-02-27T09:19:18Z)
 
 ### NethServer
 
