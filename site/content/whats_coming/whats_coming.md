@@ -2,7 +2,7 @@
 
 title = 'To be released soon'
 
-date = 2026-03-04
+date = 2026-03-05
 
 +++
 
@@ -50,9 +50,13 @@ date = 2026-03-04
 
 - [Cannot clear individual file selection for custom certificate upload in NS8 cluster-admin TLS certificates page](https://github.com/NethServer/dev/issues/7851) (#7488) by DavidePrincipi (Created: 2026-02-09T14:20:04Z, Updated: 2026-03-02T12:59:32Z)
 
-- [Improve Restore UX in Disaster Recovery and Backup pages](https://github.com/NethServer/dev/issues/7810) (#7488) by DavidePrincipi (Created: 2026-01-12T13:53:42Z, Updated: 2026-03-02T13:21:33Z)
+- [Improve Restore UX in Disaster Recovery and Backup pages](https://github.com/NethServer/dev/issues/7810) (#7488) by DavidePrincipi (Created: 2026-01-12T13:53:42Z, Updated: 2026-03-04T18:23:21Z)
 
 ### NethSecurity
+
+- [netifyd: proc-nfa core dumps and tmpfs filling](https://github.com/NethServer/nethsecurity/issues/1552) (#1506) by Tbaile (Created: 2026-03-04T14:02:52Z, Updated: 2026-03-04T15:19:00Z)
+
+- [Send inventory and heartbeat to temporary endpoint](https://github.com/NethServer/nethsecurity/issues/1512) (#1506) by gsanchietti (Created: 2026-02-10T11:27:55Z, Updated: 2026-03-04T14:57:48Z)
 
 - [Revert nginx fork ](https://github.com/NethServer/nethsecurity/issues/1506) (#1506) by gsanchietti (Created: 2026-02-05T12:04:08Z, Updated: 2026-02-11T08:00:13Z)
 

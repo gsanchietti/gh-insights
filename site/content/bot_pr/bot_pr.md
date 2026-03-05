@@ -1,6 +1,6 @@
 +++
 title = 'Open Pull Requests by Bots'
-date = 2026-03-04
+date = 2026-03-05
 +++
 
 ## Organization: nethserver
@@ -43,10 +43,6 @@ date = 2026-03-04
 ### NethServer/ns8-minio 1 
 
 - :eyes: :zzz: **[Translations update from Hosted Weblate](https://github.com/NethServer/ns8-minio/pull/39)** by *weblate* - Reviewers: *None* - Created at: 2025-12-29T04:00:40Z
-
-### NethServer/ns8-samba 1 
-
-- :eyes: :zzz: **[Translations update from Hosted Weblate](https://github.com/NethServer/ns8-samba/pull/182)** by *weblate* - Reviewers: *None* - Created at: 2026-01-30T23:02:14Z
 
 ### NethServer/ns8-loki 1 
 
@@ -191,11 +187,9 @@ date = 2026-03-04
 - :eyes:  **[chore(deps): update actions/upload-artifact action to v7](https://github.com/nethesis/tancredi/pull/355)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-02-26T20:56:37Z
 - :eyes:  **[Bump faraday from 1.0.1 to 2.14.1 in /docs](https://github.com/nethesis/tancredi/pull/349)** by *dependabot[bot]* - Reviewers: *None* - Created at: 2026-02-09T21:34:29Z
 
-### nethesis/falconieri 4 
+### nethesis/falconieri 2 
 
 - :eyes:  **[fix(deps): update module github.com/gin-gonic/gin to v1.12.0](https://github.com/nethesis/falconieri/pull/40)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-02-28T13:19:36Z
-- :eyes:  **[chore(deps): update aquasecurity/trivy-action action to v0.34.0 [security]](https://github.com/nethesis/falconieri/pull/39)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-02-27T13:29:37Z
-- :eyes:  **[chore(deps): update github artifact actions (major)](https://github.com/nethesis/falconieri/pull/38)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-02-26T22:03:57Z
 - :eyes:  **[chore(deps): update dependency go to v1.26.0](https://github.com/nethesis/falconieri/pull/36)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-02-10T21:39:45Z
 
 ### nethesis/nethserver-tancredi 1 
@@ -216,9 +210,8 @@ date = 2026-03-04
 - :eyes: :zzz: **[chore(deps): update aquasecurity/trivy-action action to v0.34.1](https://github.com/nethesis/astproxy/pull/22)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-01-12T03:43:23Z
 - :eyes: :zzz: **[chore(deps): update dependency moment to v2.29.4 [security]](https://github.com/nethesis/astproxy/pull/21)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-11-27T08:44:28Z
 
-### nethesis/ns8-nethvoice 11 
+### nethesis/ns8-nethvoice 10 
 
-- :eyes:  **[chore(deps): update ghcr.io/nethesis/satellite docker tag to v0.1.0](https://github.com/nethesis/ns8-nethvoice/pull/713)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-03-02T07:58:49Z
 - :eyes: :zzz: **[chore(deps): update dependency rollup to v2 [security]](https://github.com/nethesis/ns8-nethvoice/pull/620)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-11-28T08:46:01Z
 - :eyes: :zzz: **[chore(deps): update dependency karma to v6 [security]](https://github.com/nethesis/ns8-nethvoice/pull/619)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-11-28T08:45:49Z
 - :eyes: :zzz: **[fix(deps): update dependency angular-resource to v1.8.3](https://github.com/nethesis/ns8-nethvoice/pull/610)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-11-21T09:04:25Z
@@ -229,10 +222,6 @@ date = 2026-03-04
 -  :zzz: **[fix(deps): update dependency angular to v1.8.3](https://github.com/nethesis/ns8-nethvoice/pull/598)** by *renovate[bot]* - Reviewers: *tonyco97* - Created at: 2025-11-17T15:12:02Z
 -  :zzz: **[chore(deps): update docker.io/library/golang docker tag to v1.26.0](https://github.com/nethesis/ns8-nethvoice/pull/563)** by *renovate[bot]* - Reviewers: *edospadoni* - Created at: 2025-10-16T01:44:45Z
 -  :zzz: **[chore(deps): update docker.io/library/alpine docker tag to v3.22.2](https://github.com/nethesis/ns8-nethvoice/pull/562)** by *renovate[bot]* - Reviewers: *Amygos, edospadoni* - Created at: 2025-10-16T01:44:42Z
-
-### nethesis/nethvoice-cti 1 
-
-- :eyes:  **[build(deps): Update phone-island dependency (automated)](https://github.com/nethesis/nethvoice-cti/pull/416)** by *github-actions[bot]* - Reviewers: *None* - Created at: 2026-03-03T00:28:14Z
 
 ### nethesis/phone-island 1 
 
@@ -256,23 +245,27 @@ date = 2026-03-04
 - :eyes: :zzz: **[chore(deps): update dependency @types/uuid to v11](https://github.com/nethesis/vue-components/pull/113)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-12-19T15:37:36Z
 - :eyes: :zzz: **[chore(deps): update dependency @vue/tsconfig to ^0.9.0](https://github.com/nethesis/vue-components/pull/100)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-12-09T11:09:23Z
 
+### nethesis/parceler 1 
+
+- :eyes:  **[chore(deps): update docker/login-action action to v4](https://github.com/nethesis/parceler/pull/163)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-03-04T09:18:16Z
+
 ### nethesis/nethKaris 1 
 
 - :eyes: :zzz: **[build(deps): bump axios from 1.7.7 to 1.12.2 in /slide/frontend](https://github.com/nethesis/nethKaris/pull/1)** by *dependabot[bot]* - Reviewers: *None* - Created at: 2025-10-01T05:47:37Z
 
 ### nethesis/satellite 4 
 
-- :eyes:  **[chore(deps): update aquasecurity/trivy-action action to v0.34.0 [security]](https://github.com/nethesis/satellite/pull/35)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-02-27T12:41:18Z
-- :eyes:  **[chore(deps): update actions/upload-artifact action to v7](https://github.com/nethesis/satellite/pull/34)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-02-26T20:32:46Z
+- :eyes:  **[chore(deps): update docker/login-action action to v4](https://github.com/nethesis/satellite/pull/36)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-03-04T10:47:16Z
 - :eyes:  **[chore(deps): update dependency deepgram-sdk to v6](https://github.com/nethesis/satellite/pull/32)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-02-23T10:16:26Z
+- :eyes:  **[chore(deps): update aquasecurity/trivy-action action to v0.34.2](https://github.com/nethesis/satellite/pull/30)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-02-12T22:13:21Z
 - :eyes: :zzz: **[chore(deps): update dependency python to 3.14](https://github.com/nethesis/satellite/pull/22)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-12-17T07:44:36Z
 
 ### nethesis/matrix2acrobits 10 
 
+- :eyes:  **[fix(deps): update module maunium.net/go/mautrix to v0.26.3](https://github.com/nethesis/matrix2acrobits/pull/22)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-03-04T18:15:05Z
 - :eyes: :zzz: **[fix(deps): update module github.com/labstack/echo/v4 to v5](https://github.com/nethesis/matrix2acrobits/pull/17)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-01-18T17:42:09Z
 - :eyes: :zzz: **[fix(deps): update module github.com/labstack/echo/v4 to v4.15.1](https://github.com/nethesis/matrix2acrobits/pull/11)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-12-11T22:10:25Z
 - :eyes: :zzz: **[chore(deps): update docker/setup-buildx-action action to v3](https://github.com/nethesis/matrix2acrobits/pull/10)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-12-10T20:36:17Z
-- :eyes: :zzz: **[chore(deps): update docker/login-action action to v3](https://github.com/nethesis/matrix2acrobits/pull/9)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-12-10T20:36:13Z
 - :eyes: :zzz: **[chore(deps): update docker/build-push-action action to v6](https://github.com/nethesis/matrix2acrobits/pull/8)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-12-10T17:40:28Z
 - :eyes: :zzz: **[chore(deps): update actions/setup-go action to v6](https://github.com/nethesis/matrix2acrobits/pull/7)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-12-10T17:40:25Z
 - :eyes: :zzz: **[chore(deps): update actions/checkout action to v6](https://github.com/nethesis/matrix2acrobits/pull/6)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-12-10T14:22:39Z
