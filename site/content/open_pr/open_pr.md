@@ -1,19 +1,19 @@
 +++
 title = 'Open Pull Requests'
-date = 2026-03-05
+date = 2026-03-06
 +++
 
 ## Organization: nethserver
 
 ### NethServer/ns8-core 3 
 
--   **[api-server: enforce per-user IP/network allowlist at login](https://github.com/NethServer/ns8-core/pull/1103)** by *DavidePrincipi* - Reviewers: *gsanchietti, edospadoni* - Created at: 2026-03-02T17:58:15Z
-- :eyes:  **[Add notification for offline Traefik instances and improve error handling](https://github.com/NethServer/ns8-core/pull/1101)** by *stephdl* - Reviewers: *None* - Created at: 2026-03-02T16:00:16Z
--   **[Automatic stop of support.service unit](https://github.com/NethServer/ns8-core/pull/1100)** by *DavidePrincipi* - Reviewers: *gsanchietti* - Created at: 2026-03-02T15:29:46Z
+-   **[Document the NS8 release process](https://github.com/NethServer/ns8-core/pull/1104)** by *DavidePrincipi* - Reviewers: *gsanchietti* - Created at: 2026-03-05T17:00:50Z
+-   **[api-server: enforce per-user IP/network allowlist at login](https://github.com/NethServer/ns8-core/pull/1103)** by *DavidePrincipi* - Reviewers: *edospadoni* - Created at: 2026-03-02T17:58:15Z
+- :eyes:  **[Automatic stop of support.service unit](https://github.com/NethServer/ns8-core/pull/1100)** by *DavidePrincipi* - Reviewers: *None* - Created at: 2026-03-02T15:29:46Z
 
 ### NethServer/ns8-nextcloud 1 
 
-- :eyes:  **[Add switch to manage the smarthost between cluster and Nextcloud](https://github.com/NethServer/ns8-nextcloud/pull/175)** by *mrmarkuz* - Reviewers: *None* - Created at: 2026-02-25T10:50:24Z
+-   **[Add switch to manage the smarthost between cluster and Nextcloud](https://github.com/NethServer/ns8-nextcloud/pull/175)** by *mrmarkuz* - Reviewers: *DavidePrincipi* - Created at: 2026-02-25T10:50:24Z
 
 ### NethServer/ns8-traefik 1 
 
@@ -23,24 +23,21 @@ date = 2026-03-05
 
 - :eyes: :zzz: **[feat: run tests on Debian 13 (Trixie)](https://github.com/NethServer/ns8-terraform-infra/pull/6)** by *DavidePrincipi* - Reviewers: *None* - Created at: 2026-01-23T09:56:16Z
 
-### NethServer/nethsecurity 8 
+### NethServer/nethsecurity 5 
 
 - :eyes:  **[Enhance session management with logging and expiration checks](https://github.com/NethServer/nethsecurity/pull/1554)** by *stephdl* - Reviewers: *None* - Created at: 2026-03-04T16:13:32Z
-- :eyes:  **[feat(phonehome): add extra info](https://github.com/NethServer/nethsecurity/pull/1553)** by *gsanchietti* - Reviewers: *None* - Created at: 2026-03-04T15:11:13Z
-- :eyes:  **[feat: added uptime in seconds](https://github.com/NethServer/nethsecurity/pull/1550)** by *Tbaile* - Reviewers: *None* - Created at: 2026-03-04T10:53:44Z
 - :eyes:  **[fix(ns-ha): added locking mechanism on switch](https://github.com/NethServer/nethsecurity/pull/1548)** by *Tbaile* - Reviewers: *None* - Created at: 2026-03-03T13:21:04Z
 -   **[feat(ns-api): add update-timezone script for post-commit processing](https://github.com/NethServer/nethsecurity/pull/1545)** by *m-dilorenzi* - Reviewers: *Tbaile* - Created at: 2026-03-03T09:21:33Z
-- :eyes:  **[fix(dpi): hardcoding the logging limit](https://github.com/NethServer/nethsecurity/pull/1544)** by *Tbaile* - Reviewers: *None* - Created at: 2026-03-03T09:21:09Z
-- :eyes:  **[chore: revert nginx fork](https://github.com/NethServer/nethsecurity/pull/1505)** by *gsanchietti* - Reviewers: *None* - Created at: 2026-02-05T07:21:14Z
+- :eyes:  **[build: added python-semver package](https://github.com/NethServer/nethsecurity/pull/1529)** by *Tbaile* - Reviewers: *None* - Created at: 2026-02-18T15:08:32Z
 - :eyes: :zzz: **[build: added softflowd](https://github.com/NethServer/nethsecurity/pull/1453)** by *Tbaile* - Reviewers: *None* - Created at: 2025-12-10T11:48:14Z
 
 ### NethServer/ns8-nethsecurity-controller 1 
 
--   **[Add UI test workflow for Renovate dependency-update PRs](https://github.com/NethServer/ns8-nethsecurity-controller/pull/179)** by *Copilot* - Reviewers: *DavidePrincipi* - Created at: 2026-02-27T10:41:43Z
+- :eyes:  **[Add UI test workflow for Renovate dependency-update PRs](https://github.com/NethServer/ns8-nethsecurity-controller/pull/179)** by *Copilot* - Reviewers: *None* - Created at: 2026-02-27T10:41:43Z
 
 ### NethServer/python3-nethsec 1 
 
-- :eyes:  **[feat(inventory): add timezone](https://github.com/NethServer/python3-nethsec/pull/120)** by *gsanchietti* - Reviewers: *None* - Created at: 2026-03-04T14:55:57Z
+-   **[feat: added conntrack filter by labels](https://github.com/NethServer/python3-nethsec/pull/122)** by *Tbaile* - Reviewers: *gsanchietti* - Created at: 2026-03-05T16:43:44Z
 
 ### NethServer/phonehome-server 1 
 
@@ -55,8 +52,9 @@ date = 2026-03-05
 
 - :eyes:  **[chore(main): release 2.15.0](https://github.com/NethServer/nethsecurity-ui/pull/713)** by *Tbaile* - Reviewers: *None* - Created at: 2026-03-03T15:30:51Z
 
-### NethServer/nethsecurity-docs 1 
+### NethServer/nethsecurity-docs 2 
 
+-   **[feat: added softflowd doc](https://github.com/NethServer/nethsecurity-docs/pull/227)** by *Tbaile* - Reviewers: *cotosso* - Created at: 2026-03-05T09:29:42Z
 - :eyes: :zzz: **[fix(ha): update for beta2](https://github.com/NethServer/nethsecurity-docs/pull/208)** by *gsanchietti* - Reviewers: *None* - Created at: 2025-10-02T10:43:05Z
 
 ### NethServer/ns8-user-manager 1 
@@ -77,8 +75,9 @@ date = 2026-03-05
 
 -   **[feat(translation-agent): enhance translation agent commit diff](https://github.com/NethServer/nethvoice-docs/pull/37)** by *m-dilorenzi* - Reviewers: *gsanchietti* - Created at: 2026-02-17T10:13:39Z
 
-### NethServer/nethsecurity-monitoring 1 
+### NethServer/nethsecurity-monitoring 2 
 
+-   **[feat: added API endpoint for flows fetching](https://github.com/NethServer/nethsecurity-monitoring/pull/10)** by *Tbaile* - Reviewers: *gsanchietti* - Created at: 2026-03-05T16:57:07Z
 - :eyes: :zzz: **[chore(main): release 1.0.0](https://github.com/NethServer/nethsecurity-monitoring/pull/5)** by *Tbaile* - Reviewers: *None* - Created at: 2026-01-22T13:43:47Z
 
 ## Organization: nethesis
@@ -94,10 +93,6 @@ date = 2026-03-05
 ### nethesis/nethcti-app-iphone 1 
 
 -  :zzz: **[Removed old notification service usage](https://github.com/nethesis/nethcti-app-iphone/pull/37)** by *NicolaMrAPPs* - Reviewers: *b9874e* - Created at: 2023-08-02T09:19:30Z
-
-### nethesis/falconieri 1 
-
-- :eyes:  **[feat: add GRAPE provider](https://github.com/nethesis/falconieri/pull/42)** by *Amygos* - Reviewers: *None* - Created at: 2026-03-04T17:09:07Z
 
 ### nethesis/nethvoice-report 1 
 

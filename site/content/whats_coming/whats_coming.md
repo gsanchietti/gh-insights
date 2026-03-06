@@ -2,7 +2,7 @@
 
 title = 'To be released soon'
 
-date = 2026-03-05
+date = 2026-03-06
 
 +++
 
@@ -15,6 +15,8 @@ date = 2026-03-05
 - [NethVoice CTI: Crashes on manual click2call when user has only a physical phone configured](https://github.com/NethServer/dev/issues/7889) (#7488) by mgarra (Created: 2026-02-23T16:39:59Z, Updated: 2026-02-26T14:46:10Z)
 
 - [NethVoice CTI: Parameterized URL uses wrong UniqueID (should use LinkedID)](https://github.com/NethServer/dev/issues/7887) (#7488) by andrea-marchionni (Created: 2026-02-19T12:12:16Z, Updated: 2026-02-26T14:47:20Z)
+
+- [NethVoice: add new Ringtone: mute tone](https://github.com/NethServer/dev/issues/7880) (#7488) by tonyco97 (Created: 2026-02-18T13:20:09Z, Updated: 2026-03-05T15:51:36Z)
 
 - [Deepgram connection failure causes Satellite memory leak (unbounded RAM growth)](https://github.com/NethServer/dev/issues/7872) (#7488) by Stell0 (Created: 2026-02-13T09:53:51Z, Updated: 2026-02-13T10:00:24Z)
 
@@ -34,29 +36,7 @@ date = 2026-03-05
 
 - [Display service ports in the NethVoice APP UI (cluster-admin)](https://github.com/NethServer/dev/issues/7488) (#7488) by mgarra (Created: 2025-05-30T10:18:01Z, Updated: 2026-02-26T10:12:48Z)
 
-### NoMilestone
-
-- [Enable lowContrast by default for NsInlineNotification in ns8-core](https://github.com/NethServer/dev/issues/7896) (#7488) by stephdl (Created: 2026-02-26T16:34:26Z, Updated: 2026-02-27T09:19:18Z)
-
-### NethServer
-
-- [Controller update from Applications page shows broken modal and does not work](https://github.com/NethServer/dev/issues/7891) (#7488) by nrauso (Created: 2026-02-25T09:24:53Z, Updated: 2026-02-25T10:46:39Z)
-
-- [Cluster and module_uuid based hash key](https://github.com/NethServer/dev/issues/7890) (#7488) by DavidePrincipi (Created: 2026-02-24T17:59:19Z, Updated: 2026-03-02T13:03:45Z)
-
-- [Zero-length environment file after power loss during module update](https://github.com/NethServer/dev/issues/7886) (#7488) by DavidePrincipi (Created: 2026-02-19T10:37:25Z, Updated: 2026-03-02T12:21:53Z)
-
-- [Public folder access fails with long AD DN](https://github.com/NethServer/dev/issues/7879) (#7488) by DavidePrincipi (Created: 2026-02-17T14:57:55Z, Updated: 2026-02-17T16:09:25Z)
-
-- [Cannot clear individual file selection for custom certificate upload in NS8 cluster-admin TLS certificates page](https://github.com/NethServer/dev/issues/7851) (#7488) by DavidePrincipi (Created: 2026-02-09T14:20:04Z, Updated: 2026-03-02T12:59:32Z)
-
-- [Improve Restore UX in Disaster Recovery and Backup pages](https://github.com/NethServer/dev/issues/7810) (#7488) by DavidePrincipi (Created: 2026-01-12T13:53:42Z, Updated: 2026-03-04T18:23:21Z)
-
 ### NethSecurity
-
-- [netifyd: proc-nfa core dumps and tmpfs filling](https://github.com/NethServer/nethsecurity/issues/1552) (#1506) by Tbaile (Created: 2026-03-04T14:02:52Z, Updated: 2026-03-04T15:19:00Z)
-
-- [Send inventory and heartbeat to temporary endpoint](https://github.com/NethServer/nethsecurity/issues/1512) (#1506) by gsanchietti (Created: 2026-02-10T11:27:55Z, Updated: 2026-03-04T14:57:48Z)
 
 - [Revert nginx fork ](https://github.com/NethServer/nethsecurity/issues/1506) (#1506) by gsanchietti (Created: 2026-02-05T12:04:08Z, Updated: 2026-02-11T08:00:13Z)
 
