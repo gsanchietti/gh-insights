@@ -2,7 +2,7 @@
 
 title = 'To be released soon'
 
-date = 2026-03-06
+date = 2026-03-07
 
 +++
 
@@ -36,7 +36,13 @@ date = 2026-03-06
 
 - [Display service ports in the NethVoice APP UI (cluster-admin)](https://github.com/NethServer/dev/issues/7488) (#7488) by mgarra (Created: 2025-05-30T10:18:01Z, Updated: 2026-02-26T10:12:48Z)
 
+### NethServer
+
+- [HTTP routes error if a node goes offline](https://github.com/NethServer/dev/issues/7842) (#7488) by DavidePrincipi (Created: 2026-01-30T14:43:26Z, Updated: 2026-03-06T09:13:48Z)
+
 ### NethSecurity
+
+- [Hardening controller: protect prometheus and webssh paths with authentication](https://github.com/NethServer/nethsecurity/issues/1546) (#1506) by gsanchietti (Created: 2026-03-03T09:44:11Z, Updated: 2026-03-06T14:26:27Z)
 
 - [Revert nginx fork ](https://github.com/NethServer/nethsecurity/issues/1506) (#1506) by gsanchietti (Created: 2026-02-05T12:04:08Z, Updated: 2026-02-11T08:00:13Z)
 
