@@ -1,6 +1,6 @@
 +++
 title = 'Open Pull Requests by Bots'
-date = 2026-03-07
+date = 2026-03-08
 +++
 
 ## Organization: nethserver
@@ -17,8 +17,11 @@ date = 2026-03-07
 - :eyes: :zzz: **[Bump on-headers and compression in /ui](https://github.com/NethServer/nethserver-business/pull/7)** by *dependabot[bot]* - Reviewers: *None* - Created at: 2025-07-18T00:03:46Z
 - :eyes: :zzz: **[Bump pbkdf2 from 3.0.17 to 3.1.3 in /ui](https://github.com/NethServer/nethserver-business/pull/6)** by *dependabot[bot]* - Reviewers: *None* - Created at: 2025-06-24T07:44:23Z
 
-### NethServer/ns8-core 7 
+### NethServer/ns8-core 10 
 
+- :eyes:  **[fix(deps): update module github.com/google/uuid to v1.6.0](https://github.com/NethServer/ns8-core/pull/1116)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-03-07T08:56:51Z
+- :eyes:  **[fix(deps): update module github.com/gin-gonic/gin to v1.12.0](https://github.com/NethServer/ns8-core/pull/1115)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-03-07T06:02:56Z
+- :eyes:  **[fix(deps): update module github.com/gin-contrib/cors to v1.7.6](https://github.com/NethServer/ns8-core/pull/1114)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-03-07T06:02:26Z
 - :eyes:  **[fix(deps): update module github.com/appleboy/gin-jwt/v2 to v2.10.3](https://github.com/NethServer/ns8-core/pull/1113)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-03-07T02:57:09Z
 - :eyes:  **[chore(deps): update yarn to v3.8.7](https://github.com/NethServer/ns8-core/pull/1112)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-03-07T02:56:14Z
 - :eyes:  **[chore(deps): update dependency vue-template-compiler to v2.7.16](https://github.com/NethServer/ns8-core/pull/1111)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-03-06T22:44:25Z
@@ -115,8 +118,9 @@ date = 2026-03-07
 
 - :eyes: :zzz: **[Translations update from Hosted Weblate](https://github.com/NethServer/ns8-ejabberd/pull/100)** by *weblate* - Reviewers: *None* - Created at: 2025-12-29T04:01:01Z
 
-### NethServer/nethsecurity-ui 5 
+### NethServer/nethsecurity-ui 6 
 
+- :eyes:  **[chore(deps): update aquasecurity/trivy-action action to v0.35.0](https://github.com/NethServer/nethsecurity-ui/pull/716)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-03-07T05:29:16Z
 - :eyes:  **[chore: translations update from Hosted Weblate](https://github.com/NethServer/nethsecurity-ui/pull/714)** by *weblate* - Reviewers: *None* - Created at: 2026-03-06T11:35:16Z
 - :eyes:  **[chore(deps): update node.js to v24.14.0](https://github.com/NethServer/nethsecurity-ui/pull/706)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-02-24T18:09:28Z
 - :eyes: :zzz: **[fix(deps): update dependency vue-router to v5](https://github.com/NethServer/nethsecurity-ui/pull/684)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-01-29T21:09:23Z
@@ -162,9 +166,8 @@ date = 2026-03-07
 - :eyes:  **[Update dependency @carbon/icons-vue to v10.99.1](https://github.com/NethServer/ns8-n8n/pull/9)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-03-05T11:00:01Z
 - :eyes:  **[Replace dependency babel-eslint with @babel/eslint-parser ^7.11.0](https://github.com/NethServer/ns8-n8n/pull/4)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-03-05T10:58:57Z
 
-### NethServer/nethsecurity-monitoring 2 
+### NethServer/nethsecurity-monitoring 1 
 
-- :eyes:  **[chore(deps): update aquasecurity/trivy-action action to v0.35.0](https://github.com/NethServer/nethsecurity-monitoring/pull/14)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-03-07T02:15:36Z
 - :eyes:  **[fix(deps): update module github.com/gofiber/fiber/v2 to v3](https://github.com/NethServer/nethsecurity-monitoring/pull/13)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-03-06T13:50:49Z
 
 ## Organization: nethesis
@@ -198,6 +201,10 @@ date = 2026-03-07
 - :eyes:  **[chore(deps): update aquasecurity/trivy-action action to v0.35.0](https://github.com/nethesis/tancredi/pull/357)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-03-07T02:04:05Z
 - :eyes:  **[chore(deps): update actions/upload-artifact action to v7](https://github.com/nethesis/tancredi/pull/355)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-02-26T20:56:37Z
 - :eyes:  **[Bump faraday from 1.0.1 to 2.14.1 in /docs](https://github.com/nethesis/tancredi/pull/349)** by *dependabot[bot]* - Reviewers: *None* - Created at: 2026-02-09T21:34:29Z
+
+### nethesis/falconieri 1 
+
+- :eyes:  **[chore(deps): update aquasecurity/trivy-action action to v0.35.0](https://github.com/nethesis/falconieri/pull/49)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-03-07T05:24:08Z
 
 ### nethesis/nethserver-tancredi 1 
 
@@ -244,7 +251,7 @@ date = 2026-03-07
 
 - :eyes:  **[chore(deps): update aquasecurity/trivy-action action to v0.34.0 [security]](https://github.com/nethesis/vue-components/pull/130)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-02-27T12:40:35Z
 - :eyes:  **[chore(deps): update dependency eslint to v10](https://github.com/nethesis/vue-components/pull/126)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-02-11T07:52:23Z
-- :eyes:  **[chore(deps): update js-devtools/npm-publish action to v4](https://github.com/nethesis/vue-components/pull/125)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-02-05T08:25:56Z
+- :eyes: :zzz: **[chore(deps): update js-devtools/npm-publish action to v4](https://github.com/nethesis/vue-components/pull/125)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-02-05T08:25:56Z
 - :eyes: :zzz: **[chore(deps): update dependency vue-tsc to v3](https://github.com/nethesis/vue-components/pull/119)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-12-23T09:47:44Z
 - :eyes: :zzz: **[chore(deps): update dependency vite to v7](https://github.com/nethesis/vue-components/pull/118)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-12-22T13:28:26Z
 - :eyes: :zzz: **[chore(deps): update dependency npm-run-all2 to v8](https://github.com/nethesis/vue-components/pull/116)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-12-22T08:59:39Z
@@ -253,17 +260,17 @@ date = 2026-03-07
 - :eyes: :zzz: **[chore(deps): update dependency @types/uuid to v11](https://github.com/nethesis/vue-components/pull/113)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-12-19T15:37:36Z
 - :eyes: :zzz: **[chore(deps): update dependency @vue/tsconfig to ^0.9.0](https://github.com/nethesis/vue-components/pull/100)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-12-09T11:09:23Z
 
-### nethesis/parceler 2 
+### nethesis/parceler 1 
 
-- :eyes:  **[chore(deps): update aquasecurity/trivy-action action to v0.35.0](https://github.com/nethesis/parceler/pull/167)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-03-07T04:38:57Z
 - :eyes:  **[chore(deps): update docker/metadata-action action to v6](https://github.com/nethesis/parceler/pull/166)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-03-05T19:37:49Z
 
 ### nethesis/nethKaris 1 
 
 - :eyes: :zzz: **[build(deps): bump axios from 1.7.7 to 1.12.2 in /slide/frontend](https://github.com/nethesis/nethKaris/pull/1)** by *dependabot[bot]* - Reviewers: *None* - Created at: 2025-10-01T05:47:37Z
 
-### nethesis/satellite 5 
+### nethesis/satellite 6 
 
+- :eyes:  **[chore(deps): update aquasecurity/trivy-action action to v0.35.0](https://github.com/nethesis/satellite/pull/40)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-03-07T05:41:28Z
 - :eyes:  **[chore(deps): update docker/metadata-action action to v6](https://github.com/nethesis/satellite/pull/39)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-03-05T23:45:59Z
 - :eyes:  **[chore(deps): update docker/build-push-action action to v7](https://github.com/nethesis/satellite/pull/38)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-03-05T23:45:56Z
 - :eyes:  **[chore(deps): update docker/setup-buildx-action action to v4](https://github.com/nethesis/satellite/pull/37)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-03-05T10:40:50Z
