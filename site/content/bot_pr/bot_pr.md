@@ -1,6 +1,6 @@
 +++
 title = 'Open Pull Requests by Bots'
-date = 2026-03-08
+date = 2026-03-09
 +++
 
 ## Organization: nethserver
@@ -221,7 +221,7 @@ date = 2026-03-08
 - :eyes: :zzz: **[chore(deps): update dependency ubuntu to v24](https://github.com/nethesis/astproxy/pull/25)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-02-02T04:00:16Z
 - :eyes: :zzz: **[chore(deps): update actions/checkout action to v6](https://github.com/nethesis/astproxy/pull/24)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-02-02T04:00:11Z
 - :eyes: :zzz: **[chore(deps): update dependency winston to v2.4.7](https://github.com/nethesis/astproxy/pull/23)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-01-12T03:43:43Z
-- :eyes: :zzz: **[chore(deps): update aquasecurity/trivy-action action to v0.34.1](https://github.com/nethesis/astproxy/pull/22)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-01-12T03:43:23Z
+- :eyes: :zzz: **[chore(deps): update aquasecurity/trivy-action action to v0.35.0](https://github.com/nethesis/astproxy/pull/22)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-01-12T03:43:23Z
 - :eyes: :zzz: **[chore(deps): update dependency moment to v2.29.4 [security]](https://github.com/nethesis/astproxy/pull/21)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-11-27T08:44:28Z
 
 ### nethesis/ns8-nethvoice 11 
@@ -238,8 +238,15 @@ date = 2026-03-08
 -  :zzz: **[chore(deps): update docker.io/library/golang docker tag to v1.26.1](https://github.com/nethesis/ns8-nethvoice/pull/563)** by *renovate[bot]* - Reviewers: *edospadoni* - Created at: 2025-10-16T01:44:45Z
 -  :zzz: **[chore(deps): update docker.io/library/alpine docker tag to v3.22.2](https://github.com/nethesis/ns8-nethvoice/pull/562)** by *renovate[bot]* - Reviewers: *Amygos, edospadoni* - Created at: 2025-10-16T01:44:42Z
 
-### nethesis/phone-island 1 
+### nethesis/nethvoice-cti 2 
 
+- :eyes:  **[chore(deps): update dependency axios to v1.13.6](https://github.com/nethesis/nethvoice-cti/pull/420)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-03-09T02:11:49Z
+- :eyes:  **[chore(deps): update dependency autoprefixer to v10.4.27](https://github.com/nethesis/nethvoice-cti/pull/419)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-03-09T02:11:39Z
+
+### nethesis/phone-island 3 
+
+- :eyes:  **[chore(deps): update dependency @storybook/addon-essentials to v7.6.24](https://github.com/nethesis/phone-island/pull/188)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-03-09T01:49:40Z
+- :eyes:  **[chore(deps): update dependency @storybook/addon-actions to v7.6.24](https://github.com/nethesis/phone-island/pull/187)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-03-09T01:49:18Z
 - :eyes:  **[chore(deps): update dependency rollup to v2.80.0 [security]](https://github.com/nethesis/phone-island/pull/186)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-03-03T15:00:43Z
 
 ### nethesis/ns8-nethvoice-proxy 2 
@@ -276,6 +283,11 @@ date = 2026-03-08
 - :eyes:  **[chore(deps): update docker/setup-buildx-action action to v4](https://github.com/nethesis/satellite/pull/37)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-03-05T10:40:50Z
 - :eyes:  **[chore(deps): update dependency deepgram-sdk to v6](https://github.com/nethesis/satellite/pull/32)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-02-23T10:16:26Z
 - :eyes: :zzz: **[chore(deps): update dependency python to 3.14](https://github.com/nethesis/satellite/pull/22)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-12-17T07:44:36Z
+
+### nethesis/nethcti-middleware 2 
+
+- :eyes:  **[chore(deps): update mariadb docker tag to v12](https://github.com/nethesis/nethcti-middleware/pull/38)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-03-09T02:04:56Z
+- :eyes:  **[chore(deps): update actions/upload-artifact action to v7](https://github.com/nethesis/nethcti-middleware/pull/37)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-03-09T02:04:53Z
 
 ### nethesis/matrix2acrobits 10 
 
