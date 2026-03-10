@@ -1,6 +1,6 @@
 +++
 title = 'Open Pull Requests'
-date = 2026-03-09
+date = 2026-03-10
 +++
 
 ## Organization: nethserver
@@ -9,6 +9,18 @@ date = 2026-03-09
 
 - :eyes:  **[fix: preserve localhost lines](https://github.com/NethServer/ns8-core/pull/1107)** by *DavidePrincipi* - Reviewers: *None* - Created at: 2026-03-06T10:55:49Z
 -   **[Document the NS8 release process](https://github.com/NethServer/ns8-core/pull/1104)** by *DavidePrincipi* - Reviewers: *gsanchietti* - Created at: 2026-03-05T17:00:50Z
+
+### NethServer/ns8-repomd 1 
+
+-   **[Add rustfs and remove minio](https://github.com/NethServer/ns8-repomd/pull/56)** by *mrmarkuz* - Reviewers: *stephdl* - Created at: 2026-03-09T12:30:42Z
+
+### NethServer/ns8-ui-lib 1 
+
+- :eyes:  **[fix(NsInlineNotification): update icon color based on lowContrast prop](https://github.com/NethServer/ns8-ui-lib/pull/60)** by *stephdl* - Reviewers: *None* - Created at: 2026-03-09T10:27:05Z
+
+### NethServer/ns8-github-actions 1 
+
+-   **[fix: sanitize IMAGETAG](https://github.com/NethServer/ns8-github-actions/pull/34)** by *DavidePrincipi* - Reviewers: *Tbaile* - Created at: 2026-03-09T14:43:52Z
 
 ### NethServer/ns8-nextcloud 1 
 
@@ -29,9 +41,10 @@ date = 2026-03-09
 -   **[feat(ns-api): add update-timezone script for post-commit processing](https://github.com/NethServer/nethsecurity/pull/1545)** by *m-dilorenzi* - Reviewers: *Tbaile* - Created at: 2026-03-03T09:21:33Z
 - :eyes: :zzz: **[build: added softflowd](https://github.com/NethServer/nethsecurity/pull/1453)** by *Tbaile* - Reviewers: *None* - Created at: 2025-12-10T11:48:14Z
 
-### NethServer/ns8-nethsecurity-controller 1 
+### NethServer/ns8-webtop 2 
 
-- :eyes:  **[Add UI test workflow for Renovate dependency-update PRs](https://github.com/NethServer/ns8-nethsecurity-controller/pull/179)** by *Copilot* - Reviewers: *None* - Created at: 2026-02-27T10:41:43Z
+- :eyes:  **[Refactor: remove unused webtop-tmceplugins.jar and clean up file permissions](https://github.com/NethServer/ns8-webtop/pull/189)** by *stephdl* - Reviewers: *None* - Created at: 2026-03-09T13:49:12Z
+- :eyes:  **[Change OTP input type from password to text](https://github.com/NethServer/ns8-webtop/pull/187)** by *stephdl* - Reviewers: *None* - Created at: 2026-03-09T13:40:51Z
 
 ### NethServer/phonehome-server 1 
 
@@ -59,12 +72,14 @@ date = 2026-03-09
 
 - :eyes: :zzz: **[Use runagent instead of ssh in README](https://github.com/NethServer/ns8-sogo/pull/56)** by *mrmarkuz* - Reviewers: *None* - Created at: 2026-01-13T08:27:57Z
 
-### NethServer/nethlink 4 
+### NethServer/nethlink 2 
 
 - :eyes:  **[chore(dep): update phone-island](https://github.com/NethServer/nethlink/pull/101)** by *tonyco97* - Reviewers: *None* - Created at: 2026-03-06T11:02:34Z
-- :eyes:  **[chore(dep): update phone-island](https://github.com/NethServer/nethlink/pull/100)** by *tonyco97* - Reviewers: *None* - Created at: 2026-02-27T14:14:43Z
 - :eyes:  **[fix: update phoneIslandTokenLogin/logout handling](https://github.com/NethServer/nethlink/pull/97)** by *tommaso-ascani* - Reviewers: *None* - Created at: 2026-02-24T10:31:31Z
-- :eyes:  **[fix: missing https protocol for phone request](https://github.com/NethServer/nethlink/pull/95)** by *tonyco97* - Reviewers: *None* - Created at: 2026-02-20T16:24:11Z
+
+### NethServer/ns8-metrics 1 
+
+-   **[Extend md_failure alert to cover RAID device missing state](https://github.com/NethServer/ns8-metrics/pull/62)** by *Copilot* - Reviewers: *gsanchietti* - Created at: 2026-03-09T10:01:57Z
 
 ### NethServer/nethvoice-docs 1 
 

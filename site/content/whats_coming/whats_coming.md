@@ -2,7 +2,7 @@
 
 title = 'To be released soon'
 
-date = 2026-03-09
+date = 2026-03-10
 
 +++
 
@@ -18,6 +18,8 @@ date = 2026-03-09
 
 - [NethVoice: add new Ringtone: mute tone](https://github.com/NethServer/dev/issues/7880) (#7488) by tonyco97 (Created: 2026-02-18T13:20:09Z, Updated: 2026-03-05T15:51:36Z)
 
+- [NethVoice CTI: Phone Island - change in Call Transfer Interaction Flow](https://github.com/NethServer/dev/issues/7873) (#7488) by viktec (Created: 2026-02-13T10:42:01Z, Updated: 2026-03-09T10:05:53Z)
+
 - [Deepgram connection failure causes Satellite memory leak (unbounded RAM growth)](https://github.com/NethServer/dev/issues/7872) (#7488) by Stell0 (Created: 2026-02-13T09:53:51Z, Updated: 2026-02-13T10:00:24Z)
 
 - [NethLink: Mismatch between “Last calls” and NethVoice CTI](https://github.com/NethServer/dev/issues/7870) (#7488) by tonyco97 (Created: 2026-02-12T10:03:49Z, Updated: 2026-02-13T16:15:44Z)
@@ -30,6 +32,8 @@ date = 2026-03-09
 
 - [NethLink: Inconsistent localization in NethLink “Recent calls” (days and months shown in English)](https://github.com/NethServer/dev/issues/7839) (#7488) by mgarra (Created: 2026-01-29T11:56:11Z, Updated: 2026-02-12T15:04:16Z)
 
+- [Phone Island: Missing “Cancel transfer” button and inconsistent call transfer behavior when using provisioned phone](https://github.com/NethServer/dev/issues/7830) (#7488) by viktec (Created: 2026-01-21T13:44:17Z, Updated: 2026-03-09T10:07:25Z)
+
 - [Design: Simplify “NethVoice Proxy” step for second NethVoice instance](https://github.com/NethServer/dev/issues/7828) (#7488) by AmaLuci (Created: 2026-01-20T16:39:06Z, Updated: 2026-02-09T12:07:15Z)
 
 - [NethVoice: Application restarts without confirmation](https://github.com/NethServer/dev/issues/7819) (#7488) by andre8244 (Created: 2026-01-14T14:47:06Z, Updated: 2026-02-27T17:00:23Z)
@@ -40,9 +44,15 @@ date = 2026-03-09
 
 - [HTTP routes error if a node goes offline](https://github.com/NethServer/dev/issues/7842) (#7488) by DavidePrincipi (Created: 2026-01-30T14:43:26Z, Updated: 2026-03-06T09:13:48Z)
 
+- [S3-compatible app to replace MinIO](https://github.com/NethServer/dev/issues/7788) (#7488) by DavidePrincipi (Created: 2025-12-11T08:33:16Z, Updated: 2026-03-09T16:29:13Z)
+
 ### NethSecurity
 
-- [Hardening controller: protect prometheus and webssh paths with authentication](https://github.com/NethServer/nethsecurity/issues/1546) (#1506) by gsanchietti (Created: 2026-03-03T09:44:11Z, Updated: 2026-03-06T14:26:27Z)
+- [Hardening controller: protect prometheus and webssh paths with authentication](https://github.com/NethServer/nethsecurity/issues/1546) (#1466) by gsanchietti (Created: 2026-03-03T09:44:11Z, Updated: 2026-03-06T14:26:27Z)
 
-- [Revert nginx fork ](https://github.com/NethServer/nethsecurity/issues/1506) (#1506) by gsanchietti (Created: 2026-02-05T12:04:08Z, Updated: 2026-02-11T08:00:13Z)
+- [QoS LAN upload/download speeds are inverted ](https://github.com/NethServer/nethsecurity/issues/1524) (#1466) by Tbaile (Created: 2026-02-16T14:14:53Z, Updated: 2026-03-09T16:22:38Z)
+
+- [Revert nginx fork ](https://github.com/NethServer/nethsecurity/issues/1506) (#1466) by gsanchietti (Created: 2026-02-05T12:04:08Z, Updated: 2026-02-11T08:00:13Z)
+
+- [Multiwan: Rules previously configured options not retained on edit](https://github.com/NethServer/nethsecurity/issues/1466) (#1466) by francio87 (Created: 2026-01-09T11:25:49Z, Updated: 2026-03-09T16:51:36Z)
 
