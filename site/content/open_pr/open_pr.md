@@ -1,6 +1,6 @@
 +++
 title = 'Open Pull Requests'
-date = 2026-03-10
+date = 2026-03-11
 +++
 
 ## Organization: nethserver
@@ -14,18 +14,6 @@ date = 2026-03-10
 
 -   **[Add rustfs and remove minio](https://github.com/NethServer/ns8-repomd/pull/56)** by *mrmarkuz* - Reviewers: *stephdl* - Created at: 2026-03-09T12:30:42Z
 
-### NethServer/ns8-ui-lib 1 
-
-- :eyes:  **[fix(NsInlineNotification): update icon color based on lowContrast prop](https://github.com/NethServer/ns8-ui-lib/pull/60)** by *stephdl* - Reviewers: *None* - Created at: 2026-03-09T10:27:05Z
-
-### NethServer/ns8-github-actions 1 
-
--   **[fix: sanitize IMAGETAG](https://github.com/NethServer/ns8-github-actions/pull/34)** by *DavidePrincipi* - Reviewers: *Tbaile* - Created at: 2026-03-09T14:43:52Z
-
-### NethServer/ns8-nextcloud 1 
-
-- :eyes:  **[Add switch to manage the smarthost between cluster and Nextcloud](https://github.com/NethServer/ns8-nextcloud/pull/175)** by *mrmarkuz* - Reviewers: *None* - Created at: 2026-02-25T10:50:24Z
-
 ### NethServer/ns8-traefik 1 
 
 - :eyes: :zzz: **[fix: cryptography 45 deprecation warning](https://github.com/NethServer/ns8-traefik/pull/120)** by *DavidePrincipi* - Reviewers: *None* - Created at: 2025-10-28T08:48:29Z
@@ -34,17 +22,15 @@ date = 2026-03-10
 
 - :eyes: :zzz: **[feat: run tests on Debian 13 (Trixie)](https://github.com/NethServer/ns8-terraform-infra/pull/6)** by *DavidePrincipi* - Reviewers: *None* - Created at: 2026-01-23T09:56:16Z
 
-### NethServer/nethsecurity 4 
+### NethServer/nethsecurity 3 
 
--   **[feat(ns-don): enhance session management with logging and expiration checks](https://github.com/NethServer/nethsecurity/pull/1554)** by *stephdl* - Reviewers: *Tbaile* - Created at: 2026-03-04T16:13:32Z
-- :eyes:  **[fix(ns-ha): added locking mechanism on switch](https://github.com/NethServer/nethsecurity/pull/1548)** by *Tbaile* - Reviewers: *None* - Created at: 2026-03-03T13:21:04Z
+- :eyes:  **[feat(ns-don): enhance session management with logging and expiration checks](https://github.com/NethServer/nethsecurity/pull/1554)** by *stephdl* - Reviewers: *None* - Created at: 2026-03-04T16:13:32Z
 -   **[feat(ns-api): add update-timezone script for post-commit processing](https://github.com/NethServer/nethsecurity/pull/1545)** by *m-dilorenzi* - Reviewers: *Tbaile* - Created at: 2026-03-03T09:21:33Z
 - :eyes: :zzz: **[build: added softflowd](https://github.com/NethServer/nethsecurity/pull/1453)** by *Tbaile* - Reviewers: *None* - Created at: 2025-12-10T11:48:14Z
 
-### NethServer/ns8-webtop 2 
+### NethServer/ns8-webtop 1 
 
-- :eyes:  **[Refactor: remove unused webtop-tmceplugins.jar and clean up file permissions](https://github.com/NethServer/ns8-webtop/pull/189)** by *stephdl* - Reviewers: *None* - Created at: 2026-03-09T13:49:12Z
-- :eyes:  **[Change OTP input type from password to text](https://github.com/NethServer/ns8-webtop/pull/187)** by *stephdl* - Reviewers: *None* - Created at: 2026-03-09T13:40:51Z
+- :eyes:  **[fix: migrate favorite folders from NS7 format to NS8 format](https://github.com/NethServer/ns8-webtop/pull/201)** by *stephdl* - Reviewers: *None* - Created at: 2026-03-10T11:18:23Z
 
 ### NethServer/phonehome-server 1 
 
@@ -55,9 +41,10 @@ date = 2026-03-10
 - :eyes:  **[Add Nextcloud smarthost override](https://github.com/NethServer/ns8-docs/pull/222)** by *mrmarkuz* - Reviewers: *None* - Created at: 2026-02-26T09:21:06Z
 - :eyes: :zzz: **[Add rustfs documentation](https://github.com/NethServer/ns8-docs/pull/217)** by *mrmarkuz* - Reviewers: *None* - Created at: 2026-01-28T13:29:42Z
 
-### NethServer/nethsecurity-ui 1 
+### NethServer/nethsecurity-ui 2 
 
--   **[feat(remote-support): add session expiration information and related translations](https://github.com/NethServer/nethsecurity-ui/pull/715)** by *stephdl* - Reviewers: *Tbaile* - Created at: 2026-03-06T12:03:34Z
+-   **[fix(port-forward): update traffic type handling in form reset logic](https://github.com/NethServer/nethsecurity-ui/pull/717)** by *m-dilorenzi* - Reviewers: *Tbaile* - Created at: 2026-03-10T16:25:59Z
+- :eyes:  **[feat(remote-support): add session expiration information and related translations](https://github.com/NethServer/nethsecurity-ui/pull/715)** by *stephdl* - Reviewers: *None* - Created at: 2026-03-06T12:03:34Z
 
 ### NethServer/nethsecurity-docs 2 
 
@@ -72,18 +59,23 @@ date = 2026-03-10
 
 - :eyes: :zzz: **[Use runagent instead of ssh in README](https://github.com/NethServer/ns8-sogo/pull/56)** by *mrmarkuz* - Reviewers: *None* - Created at: 2026-01-13T08:27:57Z
 
-### NethServer/nethlink 2 
+### NethServer/nethlink 3 
 
+- :eyes:  **[fix(unhold): write logs to debug unhold mute audio](https://github.com/NethServer/nethlink/pull/103)** by *edospadoni* - Reviewers: *None* - Created at: 2026-03-10T10:04:44Z
 - :eyes:  **[chore(dep): update phone-island](https://github.com/NethServer/nethlink/pull/101)** by *tonyco97* - Reviewers: *None* - Created at: 2026-03-06T11:02:34Z
 - :eyes:  **[fix: update phoneIslandTokenLogin/logout handling](https://github.com/NethServer/nethlink/pull/97)** by *tommaso-ascani* - Reviewers: *None* - Created at: 2026-02-24T10:31:31Z
 
-### NethServer/ns8-metrics 1 
+### NethServer/my 1 
 
--   **[Extend md_failure alert to cover RAID device missing state](https://github.com/NethServer/ns8-metrics/pull/62)** by *Copilot* - Reviewers: *gsanchietti* - Created at: 2026-03-09T10:01:57Z
+- :eyes:  **[feat(support): add support service with WebSockets and Yamux](https://github.com/NethServer/my/pull/47)** by *edospadoni* - Reviewers: *None* - Created at: 2026-03-10T08:00:00Z
 
 ### NethServer/nethvoice-docs 1 
 
 -   **[feat(translation-agent): enhance translation agent commit diff](https://github.com/NethServer/nethvoice-docs/pull/37)** by *m-dilorenzi* - Reviewers: *gsanchietti* - Created at: 2026-02-17T10:13:39Z
+
+### NethServer/ns8-rustfs 1 
+
+-   **[Add migration step to README when on same node](https://github.com/NethServer/ns8-rustfs/pull/32)** by *mrmarkuz* - Reviewers: *DavidePrincipi* - Created at: 2026-03-10T09:27:36Z
 
 ### NethServer/nethsecurity-monitoring 1 
 
@@ -114,9 +106,8 @@ date = 2026-03-10
 -   **[Use Satellite TTS](https://github.com/nethesis/ns8-nethvoice/pull/707)** by *Stell0* - Reviewers: *tommaso-ascani* - Created at: 2026-02-26T11:00:46Z
 -  :zzz: **[Matrix integration](https://github.com/nethesis/ns8-nethvoice/pull/627)** by *gsanchietti* - Reviewers: *Amygos* - Created at: 2025-12-10T11:32:50Z
 
-### nethesis/ns8-nethvoice-proxy 10 
+### nethesis/ns8-nethvoice-proxy 9 
 
--   **[docs: add NAT local networks section to README](https://github.com/nethesis/ns8-nethvoice-proxy/pull/149)** by *Amygos* - Reviewers: *Stell0* - Created at: 2026-02-23T13:27:00Z
 -   **[refactor: remove dead code and unused flags](https://github.com/nethesis/ns8-nethvoice-proxy/pull/148)** by *Amygos* - Reviewers: *paolovisintin* - Created at: 2026-02-23T08:21:43Z
 -   **[refactor: remove unused defines from template](https://github.com/nethesis/ns8-nethvoice-proxy/pull/147)** by *Amygos* - Reviewers: *paolovisintin* - Created at: 2026-02-23T08:21:41Z
 -   **[refactor: remove 12 unused kamailio modules](https://github.com/nethesis/ns8-nethvoice-proxy/pull/146)** by *Amygos* - Reviewers: *paolovisintin* - Created at: 2026-02-23T08:21:37Z
