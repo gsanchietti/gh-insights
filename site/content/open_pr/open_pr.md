@@ -1,20 +1,15 @@
 +++
 title = 'Open Pull Requests'
-date = 2026-03-13
+date = 2026-03-14
 +++
 
 ## Organization: nethserver
 
-### NethServer/ns8-core 4 
+### NethServer/ns8-core 3 
 
-- :eyes:  **[Add favorite functionality and testing upgrade  to applications](https://github.com/NethServer/ns8-core/pull/1119)** by *stephdl* - Reviewers: *None* - Created at: 2026-03-12T15:44:21Z
-- :eyes:  **[fix: preserve file permissions in safe_open()](https://github.com/NethServer/ns8-core/pull/1117)** by *Copilot* - Reviewers: *None* - Created at: 2026-03-10T09:03:03Z
+-   **[Add favorite functionality and testing upgrade  to applications](https://github.com/NethServer/ns8-core/pull/1119)** by *stephdl* - Reviewers: *andre8244* - Created at: 2026-03-12T15:44:21Z
 - :eyes:  **[fix: preserve localhost lines](https://github.com/NethServer/ns8-core/pull/1107)** by *DavidePrincipi* - Reviewers: *None* - Created at: 2026-03-06T10:55:49Z
 -   **[Document the NS8 release process](https://github.com/NethServer/ns8-core/pull/1104)** by *DavidePrincipi* - Reviewers: *gsanchietti* - Created at: 2026-03-05T17:00:50Z
-
-### NethServer/ns8-repomd 1 
-
--   **[Add rustfs and remove minio](https://github.com/NethServer/ns8-repomd/pull/56)** by *mrmarkuz* - Reviewers: *stephdl* - Created at: 2026-03-09T12:30:42Z
 
 ### NethServer/ns8-traefik 1 
 
@@ -24,8 +19,9 @@ date = 2026-03-13
 
 - :eyes: :zzz: **[feat: run tests on Debian 13 (Trixie)](https://github.com/NethServer/ns8-terraform-infra/pull/6)** by *DavidePrincipi* - Reviewers: *None* - Created at: 2026-01-23T09:56:16Z
 
-### NethServer/nethsecurity 4 
+### NethServer/nethsecurity 5 
 
+-   **[fix(ns-ipsec): synchronize disabled state for existing routes in edit tunnel API](https://github.com/NethServer/nethsecurity/pull/1567)** by *m-dilorenzi* - Reviewers: *Tbaile* - Created at: 2026-03-13T11:48:39Z
 -   **[feat(ovpn-rw-conn-history): connections history from storage if available](https://github.com/NethServer/nethsecurity/pull/1566)** by *m-dilorenzi* - Reviewers: *Tbaile* - Created at: 2026-03-12T15:59:54Z
 - :eyes:  **[feat(ns-don): enhance session management with logging and expiration checks](https://github.com/NethServer/nethsecurity/pull/1554)** by *stephdl* - Reviewers: *None* - Created at: 2026-03-04T16:13:32Z
 -   **[feat(ns-api): add update-timezone script for post-commit processing](https://github.com/NethServer/nethsecurity/pull/1545)** by *m-dilorenzi* - Reviewers: *Tbaile* - Created at: 2026-03-03T09:21:33Z
@@ -45,10 +41,9 @@ date = 2026-03-13
 
 - :eyes: :zzz: **[chore(master): release 1.5.1](https://github.com/NethServer/phonehome-server/pull/138)** by *Tbaile* - Reviewers: *None* - Created at: 2025-11-15T06:38:38Z
 
-### NethServer/ns8-docs 2 
+### NethServer/ns8-docs 1 
 
 - :eyes:  **[Add Nextcloud smarthost override](https://github.com/NethServer/ns8-docs/pull/222)** by *mrmarkuz* - Reviewers: *None* - Created at: 2026-02-26T09:21:06Z
-- :eyes: :zzz: **[Add rustfs documentation](https://github.com/NethServer/ns8-docs/pull/217)** by *mrmarkuz* - Reviewers: *None* - Created at: 2026-01-28T13:29:42Z
 
 ### NethServer/nethsecurity-ui 2 
 
@@ -68,11 +63,10 @@ date = 2026-03-13
 
 - :eyes: :zzz: **[Use runagent instead of ssh in README](https://github.com/NethServer/ns8-sogo/pull/56)** by *mrmarkuz* - Reviewers: *None* - Created at: 2026-01-13T08:27:57Z
 
-### NethServer/nethlink 3 
+### NethServer/nethlink 2 
 
+- :eyes:  **[chore(dep): update phone-island to 1.0.0](https://github.com/NethServer/nethlink/pull/104)** by *tonyco97* - Reviewers: *None* - Created at: 2026-03-13T09:29:26Z
 - :eyes:  **[fix(unhold): write logs to debug unhold mute audio](https://github.com/NethServer/nethlink/pull/103)** by *edospadoni* - Reviewers: *None* - Created at: 2026-03-10T10:04:44Z
-- :eyes:  **[chore(dep): update phone-island](https://github.com/NethServer/nethlink/pull/101)** by *tonyco97* - Reviewers: *None* - Created at: 2026-03-06T11:02:34Z
-- :eyes:  **[fix: update phoneIslandTokenLogin/logout handling](https://github.com/NethServer/nethlink/pull/97)** by *tommaso-ascani* - Reviewers: *None* - Created at: 2026-02-24T10:31:31Z
 
 ### NethServer/my 1 
 
@@ -81,6 +75,10 @@ date = 2026-03-13
 ### NethServer/nethvoice-docs 1 
 
 -   **[feat(translation-agent): enhance translation agent commit diff](https://github.com/NethServer/nethvoice-docs/pull/37)** by *m-dilorenzi* - Reviewers: *gsanchietti* - Created at: 2026-02-17T10:13:39Z
+
+### NethServer/ns8-rustfs 1 
+
+- :eyes:  **[Update metadata description for RustFS](https://github.com/NethServer/ns8-rustfs/pull/35)** by *DavidePrincipi* - Reviewers: *None* - Created at: 2026-03-13T12:05:09Z
 
 ## Organization: nethesis
 
@@ -102,7 +100,7 @@ date = 2026-03-13
 
 ### nethesis/ns8-nethvoice 6 
 
--   **[chore: format translations json](https://github.com/nethesis/ns8-nethvoice/pull/726)** by *Amygos* - Reviewers: *andre8244* - Created at: 2026-03-12T17:31:39Z
+- :eyes:  **[fix(freepbx): Normalize wizard UI MAC lookup](https://github.com/nethesis/ns8-nethvoice/pull/723)** by *Stell0* - Reviewers: *None* - Created at: 2026-03-12T15:38:29Z
 - :eyes:  **[fix(freepbx): Preserve CSV upload ownership](https://github.com/nethesis/ns8-nethvoice/pull/721)** by *Stell0* - Reviewers: *None* - Created at: 2026-03-06T16:20:04Z
 - :eyes:  **[perf: update nethvoice-reports with CDR query optimizations](https://github.com/nethesis/ns8-nethvoice/pull/710)** by *edospadoni* - Reviewers: *None* - Created at: 2026-02-26T14:50:19Z
 -   **[Use Satellite TTS](https://github.com/nethesis/ns8-nethvoice/pull/707)** by *Stell0* - Reviewers: *tommaso-ascani* - Created at: 2026-02-26T11:00:46Z
@@ -112,10 +110,6 @@ date = 2026-03-13
 ### nethesis/nethvoice-cti 1 
 
 - :eyes: :zzz: **[fix: created new drawer for transcription](https://github.com/nethesis/nethvoice-cti/pull/383)** by *tonyco97* - Reviewers: *None* - Created at: 2026-01-21T08:11:32Z
-
-### nethesis/phone-island 1 
-
--  :zzz: **[fix: added missing event to check if a call has it's own summary/transcription](https://github.com/nethesis/phone-island/pull/153)** by *tonyco97* - Reviewers: *edospadoni* - Created at: 2026-01-22T11:03:59Z
 
 ### nethesis/ns8-nethvoice-proxy 9 
 
@@ -144,7 +138,7 @@ date = 2026-03-13
 
 ### nethesis/satellite 2 
 
-- :eyes:  **[feat(transcription): implement start and stop control for realtime](https://github.com/nethesis/satellite/pull/33)** by *tommaso-ascani* - Reviewers: *None* - Created at: 2026-02-26T11:12:54Z
+- :eyes:  **[feat(transcription): enhance transcription handling](https://github.com/nethesis/satellite/pull/42)** by *tommaso-ascani* - Reviewers: *None* - Created at: 2026-03-13T18:06:35Z
 -   **[Multi-Provider Transcription Support (REST/Batch Path)](https://github.com/nethesis/satellite/pull/31)** by *Amygos* - Reviewers: *Stell0* - Created at: 2026-02-16T09:08:57Z
 
 ### nethesis/nethcti-middleware 2 

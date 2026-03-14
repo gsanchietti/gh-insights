@@ -2,7 +2,7 @@
 
 title = 'To be released soon'
 
-date = 2026-03-13
+date = 2026-03-14
 
 +++
 
@@ -20,7 +20,7 @@ date = 2026-03-13
 
 - [NethVoice: add new Ringtone: mute tone](https://github.com/NethServer/dev/issues/7880) (#7488) by tonyco97 (Created: 2026-02-18T13:20:09Z, Updated: 2026-03-05T15:51:36Z)
 
-- [Mobile app migration from /webrest to /api](https://github.com/NethServer/dev/issues/7875) (#7488) by tommaso-ascani (Created: 2026-02-13T15:13:01Z, Updated: 2026-03-12T13:32:01Z)
+- [Mobile app migration from /webrest to /api](https://github.com/NethServer/dev/issues/7875) (#7488) by tommaso-ascani (Created: 2026-02-13T15:13:01Z, Updated: 2026-03-13T09:23:26Z)
 
 - [NethVoice CTI: Phone Island - change in Call Transfer Interaction Flow](https://github.com/NethServer/dev/issues/7873) (#7488) by viktec (Created: 2026-02-13T10:42:01Z, Updated: 2026-03-09T10:05:53Z)
 
@@ -46,23 +46,29 @@ date = 2026-03-13
 
 - [NethVoice: Application restarts without confirmation](https://github.com/NethServer/dev/issues/7819) (#7488) by andre8244 (Created: 2026-01-14T14:47:06Z, Updated: 2026-02-27T17:00:23Z)
 
+- [NethVoice Proxy: Use local IP in SDP for local clients to simplify NAT configuration](https://github.com/NethServer/dev/issues/7725) (#7488) by Amygos (Created: 2025-11-03T15:32:59Z, Updated: 2026-03-13T14:58:12Z)
+
 - [Display service ports in the NethVoice APP UI (cluster-admin)](https://github.com/NethServer/dev/issues/7488) (#7488) by mgarra (Created: 2025-05-30T10:18:01Z, Updated: 2026-02-26T10:12:48Z)
 
 ### NethServer
 
 - [Change WebTop OTP field type to avoid browser password update](https://github.com/NethServer/dev/issues/7845) (#7488) by federicoballarini (Created: 2026-02-01T14:43:18Z, Updated: 2026-03-12T07:17:04Z)
 
-- [HTTP routes error if a node goes offline](https://github.com/NethServer/dev/issues/7842) (#7488) by DavidePrincipi (Created: 2026-01-30T14:43:26Z, Updated: 2026-03-06T09:13:48Z)
-
-- [S3-compatible app to replace MinIO](https://github.com/NethServer/dev/issues/7788) (#7488) by DavidePrincipi (Created: 2025-12-11T08:33:16Z, Updated: 2026-03-10T07:52:08Z)
+- [HTTP routes error if a node goes offline](https://github.com/NethServer/dev/issues/7842) (#7488) by DavidePrincipi (Created: 2026-01-30T14:43:26Z, Updated: 2026-03-13T11:22:24Z)
 
 ### NethSecurity
 
+- [ns-ha: possible race condition if switches happen close to one another ](https://github.com/NethServer/nethsecurity/issues/1547) (#1317) by Tbaile (Created: 2026-03-03T13:20:04Z, Updated: 2026-03-13T08:51:20Z)
+
 - [Hardening controller: protect prometheus and webssh paths with authentication](https://github.com/NethServer/nethsecurity/issues/1546) (#1317) by gsanchietti (Created: 2026-03-03T09:44:11Z, Updated: 2026-03-06T14:26:27Z)
+
+- [DPI: netifyd fails to reload firewall, logging breaks fw4 reload](https://github.com/NethServer/nethsecurity/issues/1543) (#1317) by Tbaile (Created: 2026-03-03T09:08:21Z, Updated: 2026-03-13T07:50:34Z)
 
 - [pppd crashes with SIGILL during PPPoE connection](https://github.com/NethServer/nethsecurity/issues/1535) (#1317) by filippocarletti (Created: 2026-02-25T10:25:21Z, Updated: 2026-03-10T09:37:43Z)
 
 - [QoS LAN upload/download speeds are inverted ](https://github.com/NethServer/nethsecurity/issues/1524) (#1317) by Tbaile (Created: 2026-02-16T14:14:53Z, Updated: 2026-03-09T16:22:38Z)
+
+- [Send inventory and heartbeat to temporary endpoint](https://github.com/NethServer/nethsecurity/issues/1512) (#1317) by gsanchietti (Created: 2026-02-10T11:27:55Z, Updated: 2026-03-13T08:36:17Z)
 
 - [Revert nginx fork ](https://github.com/NethServer/nethsecurity/issues/1506) (#1317) by gsanchietti (Created: 2026-02-05T12:04:08Z, Updated: 2026-02-11T08:00:13Z)
 
