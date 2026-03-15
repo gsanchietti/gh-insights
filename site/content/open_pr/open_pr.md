@@ -1,6 +1,6 @@
 +++
 title = 'Open Pull Requests'
-date = 2026-03-14
+date = 2026-03-15
 +++
 
 ## Organization: nethserver
@@ -118,7 +118,7 @@ date = 2026-03-14
 -   **[refactor: remove 12 unused kamailio modules](https://github.com/nethesis/ns8-nethvoice-proxy/pull/146)** by *Amygos* - Reviewers: *paolovisintin* - Created at: 2026-02-23T08:21:37Z
 -   **[fix: check ds_select_dst return value](https://github.com/nethesis/ns8-nethvoice-proxy/pull/143)** by *Amygos* - Reviewers: *paolovisintin* - Created at: 2026-02-23T08:21:28Z
 -   **[fix: increase fr_timer from 1s to 30s](https://github.com/nethesis/ns8-nethvoice-proxy/pull/141)** by *Amygos* - Reviewers: *paolovisintin* - Created at: 2026-02-23T08:06:07Z
-- :eyes:  **[build(rtpengine): migrate to Ubuntu 24.04](https://github.com/nethesis/ns8-nethvoice-proxy/pull/139)** by *Amygos* - Reviewers: *None* - Created at: 2026-02-12T13:08:07Z
+- :eyes: :zzz: **[build(rtpengine): migrate to Ubuntu 24.04](https://github.com/nethesis/ns8-nethvoice-proxy/pull/139)** by *Amygos* - Reviewers: *None* - Created at: 2026-02-12T13:08:07Z
 - :eyes: :zzz: **[build(kamailio): update base image to Ubuntu 24.04](https://github.com/nethesis/ns8-nethvoice-proxy/pull/136)** by *Amygos* - Reviewers: *None* - Created at: 2026-02-10T15:31:39Z
 - :eyes: :zzz: **[164 notify timeout](https://github.com/nethesis/ns8-nethvoice-proxy/pull/123)** by *paolovisintin* - Reviewers: *None* - Created at: 2026-01-14T08:00:32Z
 - :eyes: :zzz: **[144 multi port binding](https://github.com/nethesis/ns8-nethvoice-proxy/pull/98)** by *paolovisintin* - Reviewers: *None* - Created at: 2025-11-14T10:18:53Z

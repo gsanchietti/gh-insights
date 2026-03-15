@@ -1,6 +1,6 @@
 +++
 title = 'Open Pull Requests by Bots'
-date = 2026-03-14
+date = 2026-03-15
 +++
 
 ## Organization: nethserver
@@ -42,8 +42,10 @@ date = 2026-03-14
 - :eyes:  **[chore(deps): update dependency rollup to v2.80.0 [security]](https://github.com/NethServer/ns8-ui-lib/pull/56)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-03-09T09:56:29Z
 - :eyes:  **[chore(deps): update dependency minimist to v1.2.6 [security]](https://github.com/NethServer/ns8-ui-lib/pull/54)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-03-09T09:56:13Z
 
-### NethServer/ns8-kickstart 8 
+### NethServer/ns8-kickstart 10 
 
+- :eyes:  **[chore(deps): update node.js to v24.14.0](https://github.com/NethServer/ns8-kickstart/pull/104)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-03-15T00:46:55Z
+- :eyes:  **[chore(deps): update dependency sass to v1.98.0](https://github.com/NethServer/ns8-kickstart/pull/103)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-03-14T16:20:40Z
 - :eyes:  **[chore(deps): update dependency vue-i18n to v8.28.2](https://github.com/NethServer/ns8-kickstart/pull/101)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-03-10T13:05:42Z
 - :eyes:  **[chore(deps): update dependency prettier to v2.8.8](https://github.com/NethServer/ns8-kickstart/pull/100)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-03-10T13:05:28Z
 - :eyes:  **[chore(deps): update dependency core-js to v3.48.0](https://github.com/NethServer/ns8-kickstart/pull/99)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-03-10T08:50:25Z
@@ -194,7 +196,7 @@ date = 2026-03-14
 - :eyes:  **[chore(deps): update python docker tag to v3.14.3](https://github.com/NethServer/ns8-nethsecurity-controller/pull/178)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-02-21T01:33:35Z
 - :eyes:  **[chore(deps): update node.js to v24.14.0](https://github.com/NethServer/ns8-nethsecurity-controller/pull/174)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-02-17T08:48:49Z
 - :eyes:  **[chore(deps): update dependency vue-i18n to v8.28.2](https://github.com/NethServer/ns8-nethsecurity-controller/pull/172)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-02-17T02:46:44Z
-- :eyes:  **[chore(deps): replace dependency babel-eslint with @babel/eslint-parser ^7.11.0](https://github.com/NethServer/ns8-nethsecurity-controller/pull/153)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-02-12T10:15:09Z
+- :eyes: :zzz: **[chore(deps): replace dependency babel-eslint with @babel/eslint-parser ^7.11.0](https://github.com/NethServer/ns8-nethsecurity-controller/pull/153)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-02-12T10:15:09Z
 - :eyes: :zzz: **[Translations update from Hosted Weblate](https://github.com/NethServer/ns8-nethsecurity-controller/pull/146)** by *weblate* - Reviewers: *None* - Created at: 2025-11-29T12:08:11Z
 
 ### NethServer/ns8-mattermost 8 
@@ -256,8 +258,10 @@ date = 2026-03-14
 - :eyes:  **[chore(deps): update dependency @carbon/icons-vue to v10.99.1](https://github.com/NethServer/ns8-piler/pull/64)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-03-10T09:29:25Z
 - :eyes:  **[chore(deps): replace dependency babel-eslint with @babel/eslint-parser ^7.11.0](https://github.com/NethServer/ns8-piler/pull/54)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-03-09T12:36:46Z
 
-### NethServer/phonehome-server 4 
+### NethServer/phonehome-server 6 
 
+- :eyes:  **[chore(deps): update docker/login-action action to v4](https://github.com/NethServer/phonehome-server/pull/144)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-03-15T04:52:48Z
+- :eyes:  **[chore(deps): update docker/bake-action action to v7](https://github.com/NethServer/phonehome-server/pull/143)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-03-15T00:52:05Z
 - :eyes:  **[chore(deps): update dependency vite to v8](https://github.com/NethServer/phonehome-server/pull/142)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-03-14T04:44:18Z
 - :eyes:  **[chore(deps): replace grafana/grafana-oss docker tag with grafana/grafana](https://github.com/NethServer/phonehome-server/pull/141)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-03-14T01:31:39Z
 - :eyes: :zzz: **[chore(deps): update php docker tag to v8.5.4](https://github.com/NethServer/phonehome-server/pull/140)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-11-22T08:25:41Z
