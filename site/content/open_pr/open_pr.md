@@ -1,6 +1,6 @@
 +++
 title = 'Open Pull Requests'
-date = 2026-03-16
+date = 2026-03-17
 +++
 
 ## Organization: nethserver
@@ -50,18 +50,19 @@ date = 2026-03-16
 -   **[feat(ovpn-rw-conn-history): connections history from storage if available](https://github.com/NethServer/nethsecurity-ui/pull/720)** by *m-dilorenzi* - Reviewers: *Tbaile* - Created at: 2026-03-12T16:01:53Z
 - :eyes:  **[feat(remote-support): add session expiration information and related translations](https://github.com/NethServer/nethsecurity-ui/pull/715)** by *stephdl* - Reviewers: *None* - Created at: 2026-03-06T12:03:34Z
 
-### NethServer/nethsecurity-docs 2 
+### NethServer/nethsecurity-docs 7 
 
+- :eyes:  **[Update port forward documentation, including last updates](https://github.com/NethServer/nethsecurity-docs/pull/232)** by *cotosso* - Reviewers: *None* - Created at: 2026-03-16T13:56:31Z
+-   **[Revise bypass rules section in ips.rst](https://github.com/NethServer/nethsecurity-docs/pull/231)** by *cotosso* - Reviewers: *Tbaile* - Created at: 2026-03-16T10:50:59Z
+-   **[Add note on manual updates for Home Networks](https://github.com/NethServer/nethsecurity-docs/pull/230)** by *cotosso* - Reviewers: *Tbaile* - Created at: 2026-03-16T10:39:32Z
+- :eyes:  **[Expand and refine monitoring documentation to align with latest UI](https://github.com/NethServer/nethsecurity-docs/pull/229)** by *cotosso* - Reviewers: *None* - Created at: 2026-03-16T09:36:53Z
 -   **[feat: added softflowd doc](https://github.com/NethServer/nethsecurity-docs/pull/227)** by *Tbaile* - Reviewers: *cotosso* - Created at: 2026-03-05T09:29:42Z
+-  :zzz: **[feat(certificates): add certificates expiration management instructions for OpenVPN](https://github.com/NethServer/nethsecurity-docs/pull/223)** by *m-dilorenzi* - Reviewers: *cotosso* - Created at: 2026-02-10T08:20:18Z
 - :eyes: :zzz: **[fix(ha): update for beta2](https://github.com/NethServer/nethsecurity-docs/pull/208)** by *gsanchietti* - Reviewers: *None* - Created at: 2025-10-02T10:43:05Z
 
 ### NethServer/ns8-user-manager 1 
 
 - :eyes: :zzz: **[chore(main): release 1.2.5](https://github.com/NethServer/ns8-user-manager/pull/134)** by *Tbaile* - Reviewers: *None* - Created at: 2025-10-06T20:38:53Z
-
-### NethServer/ns8-sogo 1 
-
-- :eyes: :zzz: **[Use runagent instead of ssh in README](https://github.com/NethServer/ns8-sogo/pull/56)** by *mrmarkuz* - Reviewers: *None* - Created at: 2026-01-13T08:27:57Z
 
 ### NethServer/nethlink 2 
 
@@ -100,8 +101,8 @@ date = 2026-03-16
 
 ### nethesis/ns8-nethvoice 6 
 
-- :eyes:  **[fix(freepbx): Normalize wizard UI MAC lookup](https://github.com/nethesis/ns8-nethvoice/pull/723)** by *Stell0* - Reviewers: *None* - Created at: 2026-03-12T15:38:29Z
-- :eyes:  **[fix(freepbx): Preserve CSV upload ownership](https://github.com/nethesis/ns8-nethvoice/pull/721)** by *Stell0* - Reviewers: *None* - Created at: 2026-03-06T16:20:04Z
+- :eyes:  **[Patton gateway forced to use TLS](https://github.com/nethesis/ns8-nethvoice/pull/727)** by *andrea-marchionni* - Reviewers: *None* - Created at: 2026-03-16T15:42:36Z
+-   **[fix(freepbx): Add CDR indexes for install and upgrade](https://github.com/nethesis/ns8-nethvoice/pull/717)** by *Stell0* - Reviewers: *Amygos, edospadoni* - Created at: 2026-03-03T10:08:51Z
 - :eyes:  **[perf: update nethvoice-reports with CDR query optimizations](https://github.com/nethesis/ns8-nethvoice/pull/710)** by *edospadoni* - Reviewers: *None* - Created at: 2026-02-26T14:50:19Z
 -   **[Use Satellite TTS](https://github.com/nethesis/ns8-nethvoice/pull/707)** by *Stell0* - Reviewers: *tommaso-ascani* - Created at: 2026-02-26T11:00:46Z
 - :eyes: :zzz: **[fix: update middleware image tag and middleware unit](https://github.com/nethesis/ns8-nethvoice/pull/674)** by *tommaso-ascani* - Reviewers: *None* - Created at: 2026-01-28T11:03:32Z
@@ -110,6 +111,10 @@ date = 2026-03-16
 ### nethesis/nethvoice-cti 1 
 
 - :eyes: :zzz: **[fix: created new drawer for transcription](https://github.com/nethesis/nethvoice-cti/pull/383)** by *tonyco97* - Reviewers: *None* - Created at: 2026-01-21T08:11:32Z
+
+### nethesis/phone-island 1 
+
+- :eyes:  **[fix: avoid toast notification if user is in conference](https://github.com/nethesis/phone-island/pull/197)** by *tonyco97* - Reviewers: *None* - Created at: 2026-03-16T11:03:15Z
 
 ### nethesis/ns8-nethvoice-proxy 9 
 
