@@ -1,13 +1,14 @@
 +++
 title = 'Open Pull Requests'
-date = 2026-03-17
+date = 2026-03-18
 +++
 
 ## Organization: nethserver
 
-### NethServer/ns8-core 3 
+### NethServer/ns8-core 4 
 
--   **[Add favorite functionality and testing upgrade  to applications](https://github.com/NethServer/ns8-core/pull/1119)** by *stephdl* - Reviewers: *andre8244* - Created at: 2026-03-12T15:44:21Z
+- :eyes:  **[fix(install): fix 443 port check](https://github.com/NethServer/ns8-core/pull/1126)** by *andre8244* - Reviewers: *None* - Created at: 2026-03-17T15:14:28Z
+- :eyes:  **[Add favorite functionality and testing upgrade  to applications](https://github.com/NethServer/ns8-core/pull/1119)** by *stephdl* - Reviewers: *None* - Created at: 2026-03-12T15:44:21Z
 - :eyes:  **[fix: preserve localhost lines](https://github.com/NethServer/ns8-core/pull/1107)** by *DavidePrincipi* - Reviewers: *None* - Created at: 2026-03-06T10:55:49Z
 -   **[Document the NS8 release process](https://github.com/NethServer/ns8-core/pull/1104)** by *DavidePrincipi* - Reviewers: *gsanchietti* - Created at: 2026-03-05T17:00:50Z
 
@@ -19,23 +20,29 @@ date = 2026-03-17
 
 - :eyes: :zzz: **[feat: run tests on Debian 13 (Trixie)](https://github.com/NethServer/ns8-terraform-infra/pull/6)** by *DavidePrincipi* - Reviewers: *None* - Created at: 2026-01-23T09:56:16Z
 
-### NethServer/nethsecurity 5 
+### NethServer/nethsecurity 8 
 
+-   **[chore(ns-api): call df once](https://github.com/NethServer/nethsecurity/pull/1570)** by *filippocarletti* - Reviewers: *Tbaile* - Created at: 2026-03-17T17:31:32Z
+-   **[fix(ns-api): get total memory from meminfo](https://github.com/NethServer/nethsecurity/pull/1569)** by *filippocarletti* - Reviewers: *andre8244, Tbaile* - Created at: 2026-03-17T13:55:14Z
+-   **[fix(ns-api): relax DHCP range validation for interface IP](https://github.com/NethServer/nethsecurity/pull/1568)** by *Tbaile* - Reviewers: *gsanchietti* - Created at: 2026-03-17T09:36:47Z
 -   **[fix(ns-ipsec): synchronize disabled state for existing routes in edit tunnel API](https://github.com/NethServer/nethsecurity/pull/1567)** by *m-dilorenzi* - Reviewers: *Tbaile* - Created at: 2026-03-13T11:48:39Z
 -   **[feat(ovpn-rw-conn-history): connections history from storage if available](https://github.com/NethServer/nethsecurity/pull/1566)** by *m-dilorenzi* - Reviewers: *Tbaile* - Created at: 2026-03-12T15:59:54Z
 - :eyes:  **[feat(ns-don): enhance session management with logging and expiration checks](https://github.com/NethServer/nethsecurity/pull/1554)** by *stephdl* - Reviewers: *None* - Created at: 2026-03-04T16:13:32Z
 -   **[feat(ns-api): add update-timezone script for post-commit processing](https://github.com/NethServer/nethsecurity/pull/1545)** by *m-dilorenzi* - Reviewers: *Tbaile* - Created at: 2026-03-03T09:21:33Z
 - :eyes: :zzz: **[build: added softflowd](https://github.com/NethServer/nethsecurity/pull/1453)** by *Tbaile* - Reviewers: *None* - Created at: 2025-12-10T11:48:14Z
 
-### NethServer/ns8-mail 1 
+### NethServer/ns8-mail 2 
 
+-   **[Add base64 decode to dovecot postlogin script](https://github.com/NethServer/ns8-mail/pull/240)** by *mrmarkuz* - Reviewers: *DavidePrincipi* - Created at: 2026-03-17T09:06:03Z
 -   **[feat(mail): fix sieve filters on NS8 import](https://github.com/NethServer/ns8-mail/pull/237)** by *stephdl* - Reviewers: *DavidePrincipi* - Created at: 2026-03-11T14:09:18Z
 
-### NethServer/ns8-webtop 3 
+### NethServer/ns8-nethsecurity-controller 1 
 
-- :eyes:  **[Migrate favorite folders to NS8 format and update webtop-apache container](https://github.com/NethServer/ns8-webtop/pull/215)** by *stephdl* - Reviewers: *None* - Created at: 2026-03-12T14:12:11Z
-- :eyes:  **[fix: migrate defaultfolders paths from NS7 to NS8 format (for 1.4.4)](https://github.com/NethServer/ns8-webtop/pull/212)** by *stephdl* - Reviewers: *None* - Created at: 2026-03-11T10:06:16Z
-- :eyes:  **[fix: migrate favorite folders from NS7 format to NS8 format](https://github.com/NethServer/ns8-webtop/pull/201)** by *stephdl* - Reviewers: *None* - Created at: 2026-03-10T11:18:23Z
+-   **[fix(prometheus): escaped string for pass hash](https://github.com/NethServer/ns8-nethsecurity-controller/pull/196)** by *Tbaile* - Reviewers: *gsanchietti* - Created at: 2026-03-17T10:08:59Z
+
+### NethServer/ns8-webtop 1 
+
+-   **[Fix NS7 to NS8 migration: favorite folders and default folder path format](https://github.com/NethServer/ns8-webtop/pull/215)** by *stephdl* - Reviewers: *DavidePrincipi* - Created at: 2026-03-12T14:12:11Z
 
 ### NethServer/phonehome-server 1 
 
@@ -45,13 +52,15 @@ date = 2026-03-17
 
 - :eyes:  **[Add Nextcloud smarthost override](https://github.com/NethServer/ns8-docs/pull/222)** by *mrmarkuz* - Reviewers: *None* - Created at: 2026-02-26T09:21:06Z
 
-### NethServer/nethsecurity-ui 2 
+### NethServer/nethsecurity-ui 3 
 
+-   **[fix(dashboard): get total memory from meminfo](https://github.com/NethServer/nethsecurity-ui/pull/726)** by *filippocarletti* - Reviewers: *andre8244* - Created at: 2026-03-17T13:20:21Z
 -   **[feat(ovpn-rw-conn-history): connections history from storage if available](https://github.com/NethServer/nethsecurity-ui/pull/720)** by *m-dilorenzi* - Reviewers: *Tbaile* - Created at: 2026-03-12T16:01:53Z
 - :eyes:  **[feat(remote-support): add session expiration information and related translations](https://github.com/NethServer/nethsecurity-ui/pull/715)** by *stephdl* - Reviewers: *None* - Created at: 2026-03-06T12:03:34Z
 
-### NethServer/nethsecurity-docs 7 
+### NethServer/nethsecurity-docs 8 
 
+-   **[Extra packages preserved during the upgrade from NethSecurity 8.7.2](https://github.com/NethServer/nethsecurity-docs/pull/233)** by *cotosso* - Reviewers: *Tbaile* - Created at: 2026-03-17T17:02:04Z
 - :eyes:  **[Update port forward documentation, including last updates](https://github.com/NethServer/nethsecurity-docs/pull/232)** by *cotosso* - Reviewers: *None* - Created at: 2026-03-16T13:56:31Z
 -   **[Revise bypass rules section in ips.rst](https://github.com/NethServer/nethsecurity-docs/pull/231)** by *cotosso* - Reviewers: *Tbaile* - Created at: 2026-03-16T10:50:59Z
 -   **[Add note on manual updates for Home Networks](https://github.com/NethServer/nethsecurity-docs/pull/230)** by *cotosso* - Reviewers: *Tbaile* - Created at: 2026-03-16T10:39:32Z
@@ -77,11 +86,11 @@ date = 2026-03-17
 
 -   **[feat(translation-agent): enhance translation agent commit diff](https://github.com/NethServer/nethvoice-docs/pull/37)** by *m-dilorenzi* - Reviewers: *gsanchietti* - Created at: 2026-02-17T10:13:39Z
 
-### NethServer/ns8-rustfs 1 
-
-- :eyes:  **[Update metadata description for RustFS](https://github.com/NethServer/ns8-rustfs/pull/35)** by *DavidePrincipi* - Reviewers: *None* - Created at: 2026-03-13T12:05:09Z
-
 ## Organization: nethesis
+
+### nethesis/nethcti-server 1 
+
+- :eyes:  **[feat(configUser): initialize missing default user settings in database](https://github.com/nethesis/nethcti-server/pull/345)** by *tommaso-ascani* - Reviewers: *None* - Created at: 2026-03-17T16:10:08Z
 
 ### nethesis/icaro 1 
 
@@ -95,17 +104,11 @@ date = 2026-03-17
 
 -  :zzz: **[Removed old notification service usage](https://github.com/nethesis/nethcti-app-iphone/pull/37)** by *NicolaMrAPPs* - Reviewers: *b9874e* - Created at: 2023-08-02T09:19:30Z
 
-### nethesis/nethvoice-report 1 
-
-- :eyes:  **[perf(cdr): optimize queries for large CDR installations](https://github.com/nethesis/nethvoice-report/pull/207)** by *edospadoni* - Reviewers: *None* - Created at: 2026-02-26T14:35:44Z
-
-### nethesis/ns8-nethvoice 6 
+### nethesis/ns8-nethvoice 4 
 
 - :eyes:  **[Patton gateway forced to use TLS](https://github.com/nethesis/ns8-nethvoice/pull/727)** by *andrea-marchionni* - Reviewers: *None* - Created at: 2026-03-16T15:42:36Z
--   **[fix(freepbx): Add CDR indexes for install and upgrade](https://github.com/nethesis/ns8-nethvoice/pull/717)** by *Stell0* - Reviewers: *Amygos, edospadoni* - Created at: 2026-03-03T10:08:51Z
-- :eyes:  **[perf: update nethvoice-reports with CDR query optimizations](https://github.com/nethesis/ns8-nethvoice/pull/710)** by *edospadoni* - Reviewers: *None* - Created at: 2026-02-26T14:50:19Z
 -   **[Use Satellite TTS](https://github.com/nethesis/ns8-nethvoice/pull/707)** by *Stell0* - Reviewers: *tommaso-ascani* - Created at: 2026-02-26T11:00:46Z
-- :eyes: :zzz: **[fix: update middleware image tag and middleware unit](https://github.com/nethesis/ns8-nethvoice/pull/674)** by *tommaso-ascani* - Reviewers: *None* - Created at: 2026-01-28T11:03:32Z
+- :eyes: :zzz: **[feat: transcription and summary](https://github.com/nethesis/ns8-nethvoice/pull/674)** by *tommaso-ascani* - Reviewers: *None* - Created at: 2026-01-28T11:03:32Z
 -  :zzz: **[Matrix integration](https://github.com/nethesis/ns8-nethvoice/pull/627)** by *gsanchietti* - Reviewers: *Amygos* - Created at: 2025-12-10T11:32:50Z
 
 ### nethesis/nethvoice-cti 1 
@@ -132,9 +135,8 @@ date = 2026-03-17
 
 - :eyes: :zzz: **[fix(sort): relaxing sorting function](https://github.com/nethesis/vue-components/pull/104)** by *Tbaile* - Reviewers: *None* - Created at: 2025-12-11T15:17:22Z
 
-### nethesis/ctiapp-authproxy 2 
+### nethesis/ctiapp-authproxy 1 
 
-- :eyes:  **[refactor(auth): enhance authentication methods](https://github.com/nethesis/ctiapp-authproxy/pull/17)** by *tommaso-ascani* - Reviewers: *None* - Created at: 2026-02-17T13:32:06Z
 -  :zzz: **[feat: add chat provisioning](https://github.com/nethesis/ctiapp-authproxy/pull/16)** by *gsanchietti* - Reviewers: *edospadoni* - Created at: 2025-12-17T13:12:41Z
 
 ### nethesis/nethvoice-client-docs 1 
