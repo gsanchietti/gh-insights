@@ -1,16 +1,19 @@
 +++
 title = 'Open Pull Requests'
-date = 2026-03-18
+date = 2026-03-19
 +++
 
 ## Organization: nethserver
 
-### NethServer/ns8-core 4 
+### NethServer/ns8-core 3 
 
-- :eyes:  **[fix(install): fix 443 port check](https://github.com/NethServer/ns8-core/pull/1126)** by *andre8244* - Reviewers: *None* - Created at: 2026-03-17T15:14:28Z
-- :eyes:  **[Add favorite functionality and testing upgrade  to applications](https://github.com/NethServer/ns8-core/pull/1119)** by *stephdl* - Reviewers: *None* - Created at: 2026-03-12T15:44:21Z
+-   **[fix(ui): css of content switcher in app launcher](https://github.com/NethServer/ns8-core/pull/1127)** by *andre8244* - Reviewers: *edospadoni* - Created at: 2026-03-18T11:40:41Z
 - :eyes:  **[fix: preserve localhost lines](https://github.com/NethServer/ns8-core/pull/1107)** by *DavidePrincipi* - Reviewers: *None* - Created at: 2026-03-06T10:55:49Z
 -   **[Document the NS8 release process](https://github.com/NethServer/ns8-core/pull/1104)** by *DavidePrincipi* - Reviewers: *gsanchietti* - Created at: 2026-03-05T17:00:50Z
+
+### NethServer/ns8-repomd 1 
+
+- :eyes:  **[Update webtop tag from 1.4.4 to 1.4.5](https://github.com/NethServer/ns8-repomd/pull/57)** by *DavidePrincipi* - Reviewers: *None* - Created at: 2026-03-18T12:43:43Z
 
 ### NethServer/ns8-traefik 1 
 
@@ -20,29 +23,27 @@ date = 2026-03-18
 
 - :eyes: :zzz: **[feat: run tests on Debian 13 (Trixie)](https://github.com/NethServer/ns8-terraform-infra/pull/6)** by *DavidePrincipi* - Reviewers: *None* - Created at: 2026-01-23T09:56:16Z
 
-### NethServer/nethsecurity 8 
+### NethServer/nethserver-ns8-migration 1 
 
--   **[chore(ns-api): call df once](https://github.com/NethServer/nethsecurity/pull/1570)** by *filippocarletti* - Reviewers: *Tbaile* - Created at: 2026-03-17T17:31:32Z
--   **[fix(ns-api): get total memory from meminfo](https://github.com/NethServer/nethsecurity/pull/1569)** by *filippocarletti* - Reviewers: *andre8244, Tbaile* - Created at: 2026-03-17T13:55:14Z
--   **[fix(ns-api): relax DHCP range validation for interface IP](https://github.com/NethServer/nethsecurity/pull/1568)** by *Tbaile* - Reviewers: *gsanchietti* - Created at: 2026-03-17T09:36:47Z
+- :eyes:  **[Update webtop image version to 1.4.5](https://github.com/NethServer/nethserver-ns8-migration/pull/126)** by *DavidePrincipi* - Reviewers: *None* - Created at: 2026-03-18T12:45:10Z
+
+### NethServer/nethsecurity 5 
+
 -   **[fix(ns-ipsec): synchronize disabled state for existing routes in edit tunnel API](https://github.com/NethServer/nethsecurity/pull/1567)** by *m-dilorenzi* - Reviewers: *Tbaile* - Created at: 2026-03-13T11:48:39Z
 -   **[feat(ovpn-rw-conn-history): connections history from storage if available](https://github.com/NethServer/nethsecurity/pull/1566)** by *m-dilorenzi* - Reviewers: *Tbaile* - Created at: 2026-03-12T15:59:54Z
 - :eyes:  **[feat(ns-don): enhance session management with logging and expiration checks](https://github.com/NethServer/nethsecurity/pull/1554)** by *stephdl* - Reviewers: *None* - Created at: 2026-03-04T16:13:32Z
 -   **[feat(ns-api): add update-timezone script for post-commit processing](https://github.com/NethServer/nethsecurity/pull/1545)** by *m-dilorenzi* - Reviewers: *Tbaile* - Created at: 2026-03-03T09:21:33Z
 - :eyes: :zzz: **[build: added softflowd](https://github.com/NethServer/nethsecurity/pull/1453)** by *Tbaile* - Reviewers: *None* - Created at: 2025-12-10T11:48:14Z
 
-### NethServer/ns8-mail 2 
+### NethServer/ns8-mail 3 
 
--   **[Add base64 decode to dovecot postlogin script](https://github.com/NethServer/ns8-mail/pull/240)** by *mrmarkuz* - Reviewers: *DavidePrincipi* - Created at: 2026-03-17T09:06:03Z
--   **[feat(mail): fix sieve filters on NS8 import](https://github.com/NethServer/ns8-mail/pull/237)** by *stephdl* - Reviewers: *DavidePrincipi* - Created at: 2026-03-11T14:09:18Z
+- :eyes:  **[Fix IMAP ACLs and permissions management](https://github.com/NethServer/ns8-mail/pull/242)** by *stephdl* - Reviewers: *None* - Created at: 2026-03-18T16:58:46Z
+-   **[Add validation for invalid characters in mailbox name](https://github.com/NethServer/ns8-mail/pull/241)** by *stephdl* - Reviewers: *DavidePrincipi* - Created at: 2026-03-18T16:25:52Z
+- :eyes:  **[feat(mail): fix sieve filters on NS8 import](https://github.com/NethServer/ns8-mail/pull/237)** by *stephdl* - Reviewers: *None* - Created at: 2026-03-11T14:09:18Z
 
 ### NethServer/ns8-nethsecurity-controller 1 
 
 -   **[fix(prometheus): escaped string for pass hash](https://github.com/NethServer/ns8-nethsecurity-controller/pull/196)** by *Tbaile* - Reviewers: *gsanchietti* - Created at: 2026-03-17T10:08:59Z
-
-### NethServer/ns8-webtop 1 
-
--   **[Fix NS7 to NS8 migration: favorite folders and default folder path format](https://github.com/NethServer/ns8-webtop/pull/215)** by *stephdl* - Reviewers: *DavidePrincipi* - Created at: 2026-03-12T14:12:11Z
 
 ### NethServer/phonehome-server 1 
 
@@ -52,9 +53,8 @@ date = 2026-03-18
 
 - :eyes:  **[Add Nextcloud smarthost override](https://github.com/NethServer/ns8-docs/pull/222)** by *mrmarkuz* - Reviewers: *None* - Created at: 2026-02-26T09:21:06Z
 
-### NethServer/nethsecurity-ui 3 
+### NethServer/nethsecurity-ui 2 
 
--   **[fix(dashboard): get total memory from meminfo](https://github.com/NethServer/nethsecurity-ui/pull/726)** by *filippocarletti* - Reviewers: *andre8244* - Created at: 2026-03-17T13:20:21Z
 -   **[feat(ovpn-rw-conn-history): connections history from storage if available](https://github.com/NethServer/nethsecurity-ui/pull/720)** by *m-dilorenzi* - Reviewers: *Tbaile* - Created at: 2026-03-12T16:01:53Z
 - :eyes:  **[feat(remote-support): add session expiration information and related translations](https://github.com/NethServer/nethsecurity-ui/pull/715)** by *stephdl* - Reviewers: *None* - Created at: 2026-03-06T12:03:34Z
 
@@ -68,6 +68,10 @@ date = 2026-03-18
 -   **[feat: added softflowd doc](https://github.com/NethServer/nethsecurity-docs/pull/227)** by *Tbaile* - Reviewers: *cotosso* - Created at: 2026-03-05T09:29:42Z
 -  :zzz: **[feat(certificates): add certificates expiration management instructions for OpenVPN](https://github.com/NethServer/nethsecurity-docs/pull/223)** by *m-dilorenzi* - Reviewers: *cotosso* - Created at: 2026-02-10T08:20:18Z
 - :eyes: :zzz: **[fix(ha): update for beta2](https://github.com/NethServer/nethsecurity-docs/pull/208)** by *gsanchietti* - Reviewers: *None* - Created at: 2025-10-02T10:43:05Z
+
+### NethServer/ns8-imapsync 1 
+
+-   **[fix: error if Mail is not running](https://github.com/NethServer/ns8-imapsync/pull/92)** by *DavidePrincipi* - Reviewers: *stephdl* - Created at: 2026-03-18T14:43:37Z
 
 ### NethServer/ns8-user-manager 1 
 
@@ -104,8 +108,9 @@ date = 2026-03-18
 
 -  :zzz: **[Removed old notification service usage](https://github.com/nethesis/nethcti-app-iphone/pull/37)** by *NicolaMrAPPs* - Reviewers: *b9874e* - Created at: 2023-08-02T09:19:30Z
 
-### nethesis/ns8-nethvoice 4 
+### nethesis/ns8-nethvoice 5 
 
+- :eyes:  **[feat(phonebook): add Zucchetti Infinity API sync](https://github.com/nethesis/ns8-nethvoice/pull/730)** by *Stell0* - Reviewers: *None* - Created at: 2026-03-18T15:25:22Z
 - :eyes:  **[Patton gateway forced to use TLS](https://github.com/nethesis/ns8-nethvoice/pull/727)** by *andrea-marchionni* - Reviewers: *None* - Created at: 2026-03-16T15:42:36Z
 -   **[Use Satellite TTS](https://github.com/nethesis/ns8-nethvoice/pull/707)** by *Stell0* - Reviewers: *tommaso-ascani* - Created at: 2026-02-26T11:00:46Z
 - :eyes: :zzz: **[feat: transcription and summary](https://github.com/nethesis/ns8-nethvoice/pull/674)** by *tommaso-ascani* - Reviewers: *None* - Created at: 2026-01-28T11:03:32Z
@@ -146,7 +151,7 @@ date = 2026-03-18
 ### nethesis/satellite 2 
 
 - :eyes:  **[feat(transcription): enhance transcription handling](https://github.com/nethesis/satellite/pull/42)** by *tommaso-ascani* - Reviewers: *None* - Created at: 2026-03-13T18:06:35Z
--   **[Multi-Provider Transcription Support (REST/Batch Path)](https://github.com/nethesis/satellite/pull/31)** by *Amygos* - Reviewers: *Stell0* - Created at: 2026-02-16T09:08:57Z
+-  :zzz: **[Multi-Provider Transcription Support (REST/Batch Path)](https://github.com/nethesis/satellite/pull/31)** by *Amygos* - Reviewers: *Stell0* - Created at: 2026-02-16T09:08:57Z
 
 ### nethesis/nethcti-middleware 2 
 

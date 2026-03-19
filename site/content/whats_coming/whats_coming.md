@@ -2,11 +2,27 @@
 
 title = 'To be released soon'
 
-date = 2026-03-18
+date = 2026-03-19
 
 +++
 
+### NethServer
+
+- [install.sh port check false positive causes installation to abort](https://github.com/NethServer/dev/issues/7921) (#7828) by andre8244 (Created: 2026-03-17T15:05:00Z, Updated: 2026-03-18T12:25:55Z)
+
+- [Imapsync boot failure due to Mail agent not ready](https://github.com/NethServer/dev/issues/7910) (#7828) by DavidePrincipi (Created: 2026-03-06T08:26:54Z, Updated: 2026-03-18T14:39:09Z)
+
+- [Change WebTop OTP field type to avoid browser password update](https://github.com/NethServer/dev/issues/7845) (#7828) by federicoballarini (Created: 2026-02-01T14:43:18Z, Updated: 2026-03-12T07:17:04Z)
+
+- [HTTP routes error if a node goes offline](https://github.com/NethServer/dev/issues/7842) (#7828) by DavidePrincipi (Created: 2026-01-30T14:43:26Z, Updated: 2026-03-13T11:22:24Z)
+
+### NethServer
+
+- [Complete context menu in Applications page](https://github.com/NethServer/dev/issues/7916) (#7828) by Amygos (Created: 2026-03-10T17:01:12Z, Updated: 2026-03-18T14:30:40Z)
+
 ### NethVoice
+
+- [CSV upload fails in Phonebook Sources when `uploads/` directory is owned by `root` inside FreePBX container](https://github.com/NethServer/dev/issues/7912) (#7828) by Stell0 (Created: 2026-03-06T16:02:01Z, Updated: 2026-03-18T09:23:09Z)
 
 - [NethVoice: add new Ringtone: mute tone](https://github.com/NethServer/dev/issues/7880) (#7828) by tonyco97 (Created: 2026-02-18T13:20:09Z, Updated: 2026-03-05T15:51:36Z)
 
@@ -25,12 +41,6 @@ date = 2026-03-18
 - [Phone Island: Missing “Cancel transfer” button and inconsistent call transfer behavior when using provisioned phone](https://github.com/NethServer/dev/issues/7830) (#7828) by viktec (Created: 2026-01-21T13:44:17Z, Updated: 2026-03-09T10:07:25Z)
 
 - [Design: Simplify “NethVoice Proxy” step for second NethVoice instance](https://github.com/NethServer/dev/issues/7828) (#7828) by AmaLuci (Created: 2026-01-20T16:39:06Z, Updated: 2026-02-09T12:07:15Z)
-
-### NethServer
-
-- [Change WebTop OTP field type to avoid browser password update](https://github.com/NethServer/dev/issues/7845) (#7828) by federicoballarini (Created: 2026-02-01T14:43:18Z, Updated: 2026-03-12T07:17:04Z)
-
-- [HTTP routes error if a node goes offline](https://github.com/NethServer/dev/issues/7842) (#7828) by DavidePrincipi (Created: 2026-01-30T14:43:26Z, Updated: 2026-03-13T11:22:24Z)
 
 ### NethSecurity
 
