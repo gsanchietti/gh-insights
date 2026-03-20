@@ -1,13 +1,13 @@
 +++
 title = 'Open Pull Requests'
-date = 2026-03-19
+date = 2026-03-20
 +++
 
 ## Organization: nethserver
 
 ### NethServer/ns8-core 3 
 
--   **[fix(ui): css of content switcher in app launcher](https://github.com/NethServer/ns8-core/pull/1127)** by *andre8244* - Reviewers: *edospadoni* - Created at: 2026-03-18T11:40:41Z
+- :eyes:  **[Add --nologin option for rootless module configuration](https://github.com/NethServer/ns8-core/pull/1128)** by *stephdl* - Reviewers: *None* - Created at: 2026-03-19T16:46:59Z
 - :eyes:  **[fix: preserve localhost lines](https://github.com/NethServer/ns8-core/pull/1107)** by *DavidePrincipi* - Reviewers: *None* - Created at: 2026-03-06T10:55:49Z
 -   **[Document the NS8 release process](https://github.com/NethServer/ns8-core/pull/1104)** by *DavidePrincipi* - Reviewers: *gsanchietti* - Created at: 2026-03-05T17:00:50Z
 
@@ -35,11 +35,10 @@ date = 2026-03-19
 -   **[feat(ns-api): add update-timezone script for post-commit processing](https://github.com/NethServer/nethsecurity/pull/1545)** by *m-dilorenzi* - Reviewers: *Tbaile* - Created at: 2026-03-03T09:21:33Z
 - :eyes: :zzz: **[build: added softflowd](https://github.com/NethServer/nethsecurity/pull/1453)** by *Tbaile* - Reviewers: *None* - Created at: 2025-12-10T11:48:14Z
 
-### NethServer/ns8-mail 3 
+### NethServer/ns8-mail 2 
 
 - :eyes:  **[Fix IMAP ACLs and permissions management](https://github.com/NethServer/ns8-mail/pull/242)** by *stephdl* - Reviewers: *None* - Created at: 2026-03-18T16:58:46Z
 -   **[Add validation for invalid characters in mailbox name](https://github.com/NethServer/ns8-mail/pull/241)** by *stephdl* - Reviewers: *DavidePrincipi* - Created at: 2026-03-18T16:25:52Z
-- :eyes:  **[feat(mail): fix sieve filters on NS8 import](https://github.com/NethServer/ns8-mail/pull/237)** by *stephdl* - Reviewers: *None* - Created at: 2026-03-11T14:09:18Z
 
 ### NethServer/ns8-nethsecurity-controller 1 
 
@@ -53,8 +52,9 @@ date = 2026-03-19
 
 - :eyes:  **[Add Nextcloud smarthost override](https://github.com/NethServer/ns8-docs/pull/222)** by *mrmarkuz* - Reviewers: *None* - Created at: 2026-02-26T09:21:06Z
 
-### NethServer/nethsecurity-ui 2 
+### NethServer/nethsecurity-ui 3 
 
+-   **[feat(ipsec-tunnels): enhance table structure and add sorting functionality](https://github.com/NethServer/nethsecurity-ui/pull/728)** by *m-dilorenzi* - Reviewers: *Tbaile* - Created at: 2026-03-19T14:31:41Z
 -   **[feat(ovpn-rw-conn-history): connections history from storage if available](https://github.com/NethServer/nethsecurity-ui/pull/720)** by *m-dilorenzi* - Reviewers: *Tbaile* - Created at: 2026-03-12T16:01:53Z
 - :eyes:  **[feat(remote-support): add session expiration information and related translations](https://github.com/NethServer/nethsecurity-ui/pull/715)** by *stephdl* - Reviewers: *None* - Created at: 2026-03-06T12:03:34Z
 
@@ -66,12 +66,8 @@ date = 2026-03-19
 -   **[Add note on manual updates for Home Networks](https://github.com/NethServer/nethsecurity-docs/pull/230)** by *cotosso* - Reviewers: *Tbaile* - Created at: 2026-03-16T10:39:32Z
 - :eyes:  **[Expand and refine monitoring documentation to align with latest UI](https://github.com/NethServer/nethsecurity-docs/pull/229)** by *cotosso* - Reviewers: *None* - Created at: 2026-03-16T09:36:53Z
 -   **[feat: added softflowd doc](https://github.com/NethServer/nethsecurity-docs/pull/227)** by *Tbaile* - Reviewers: *cotosso* - Created at: 2026-03-05T09:29:42Z
--  :zzz: **[feat(certificates): add certificates expiration management instructions for OpenVPN](https://github.com/NethServer/nethsecurity-docs/pull/223)** by *m-dilorenzi* - Reviewers: *cotosso* - Created at: 2026-02-10T08:20:18Z
+- :eyes: :zzz: **[feat(certificates): add certificates expiration management instructions for OpenVPN](https://github.com/NethServer/nethsecurity-docs/pull/223)** by *m-dilorenzi* - Reviewers: *None* - Created at: 2026-02-10T08:20:18Z
 - :eyes: :zzz: **[fix(ha): update for beta2](https://github.com/NethServer/nethsecurity-docs/pull/208)** by *gsanchietti* - Reviewers: *None* - Created at: 2025-10-02T10:43:05Z
-
-### NethServer/ns8-imapsync 1 
-
--   **[fix: error if Mail is not running](https://github.com/NethServer/ns8-imapsync/pull/92)** by *DavidePrincipi* - Reviewers: *stephdl* - Created at: 2026-03-18T14:43:37Z
 
 ### NethServer/ns8-user-manager 1 
 
@@ -88,7 +84,7 @@ date = 2026-03-19
 
 ### NethServer/nethvoice-docs 1 
 
--   **[feat(translation-agent): enhance translation agent commit diff](https://github.com/NethServer/nethvoice-docs/pull/37)** by *m-dilorenzi* - Reviewers: *gsanchietti* - Created at: 2026-02-17T10:13:39Z
+-  :zzz: **[feat(translation-agent): enhance translation agent commit diff](https://github.com/NethServer/nethvoice-docs/pull/37)** by *m-dilorenzi* - Reviewers: *gsanchietti* - Created at: 2026-02-17T10:13:39Z
 
 ## Organization: nethesis
 
@@ -112,7 +108,7 @@ date = 2026-03-19
 
 - :eyes:  **[feat(phonebook): add Zucchetti Infinity API sync](https://github.com/nethesis/ns8-nethvoice/pull/730)** by *Stell0* - Reviewers: *None* - Created at: 2026-03-18T15:25:22Z
 - :eyes:  **[Patton gateway forced to use TLS](https://github.com/nethesis/ns8-nethvoice/pull/727)** by *andrea-marchionni* - Reviewers: *None* - Created at: 2026-03-16T15:42:36Z
--   **[Use Satellite TTS](https://github.com/nethesis/ns8-nethvoice/pull/707)** by *Stell0* - Reviewers: *tommaso-ascani* - Created at: 2026-02-26T11:00:46Z
+- :eyes:  **[Use Satellite TTS](https://github.com/nethesis/ns8-nethvoice/pull/707)** by *Stell0* - Reviewers: *None* - Created at: 2026-02-26T11:00:46Z
 - :eyes: :zzz: **[feat: transcription and summary](https://github.com/nethesis/ns8-nethvoice/pull/674)** by *tommaso-ascani* - Reviewers: *None* - Created at: 2026-01-28T11:03:32Z
 -  :zzz: **[Matrix integration](https://github.com/nethesis/ns8-nethvoice/pull/627)** by *gsanchietti* - Reviewers: *Amygos* - Created at: 2025-12-10T11:32:50Z
 

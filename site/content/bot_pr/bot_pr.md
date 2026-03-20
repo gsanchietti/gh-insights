@@ -1,6 +1,6 @@
 +++
 title = 'Open Pull Requests by Bots'
-date = 2026-03-19
+date = 2026-03-20
 +++
 
 ## Organization: nethserver
@@ -156,7 +156,7 @@ date = 2026-03-19
 - :eyes:  **[chore(deps): update actions/download-artifact action to v8](https://github.com/NethServer/ns8-nethsecurity-controller/pull/189)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-03-09T15:16:52Z
 - :eyes:  **[chore(deps): update timescale/timescaledb docker tag to v2.25.2](https://github.com/NethServer/ns8-nethsecurity-controller/pull/186)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-03-02T15:35:09Z
 - :eyes:  **[chore(deps): update python docker tag to v3.14.3](https://github.com/NethServer/ns8-nethsecurity-controller/pull/178)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-02-21T01:33:35Z
-- :eyes:  **[chore(deps): update node.js to v24.14.0](https://github.com/NethServer/ns8-nethsecurity-controller/pull/174)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-02-17T08:48:49Z
+- :eyes: :zzz: **[chore(deps): update node.js to v24.14.0](https://github.com/NethServer/ns8-nethsecurity-controller/pull/174)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-02-17T08:48:49Z
 - :eyes: :zzz: **[chore(deps): update dependency vue-i18n to v8.28.2](https://github.com/NethServer/ns8-nethsecurity-controller/pull/172)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-02-17T02:46:44Z
 - :eyes: :zzz: **[chore(deps): replace dependency babel-eslint with @babel/eslint-parser ^7.11.0](https://github.com/NethServer/ns8-nethsecurity-controller/pull/153)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-02-12T10:15:09Z
 - :eyes: :zzz: **[Translations update from Hosted Weblate](https://github.com/NethServer/ns8-nethsecurity-controller/pull/146)** by *weblate* - Reviewers: *None* - Created at: 2025-11-29T12:08:11Z
@@ -165,7 +165,7 @@ date = 2026-03-19
 
 - :eyes:  **[chore(deps): update peter-evans/create-pull-request action to v8](https://github.com/NethServer/ns8-webtop/pull/219)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-03-17T10:33:18Z
 - :eyes:  **[chore(deps): update postgres docker tag to v17.9](https://github.com/NethServer/ns8-webtop/pull/217)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-03-13T21:37:26Z
-- :eyes:  **[chore(deps): update mlocati/php-extension-installer docker tag to v2.10.6](https://github.com/NethServer/ns8-webtop/pull/210)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-03-11T09:18:33Z
+- :eyes:  **[chore(deps): update mlocati/php-extension-installer docker tag to v2.10.7](https://github.com/NethServer/ns8-webtop/pull/210)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-03-11T09:18:33Z
 
 ### NethServer/ns8-piler 2 
 
@@ -208,7 +208,7 @@ date = 2026-03-19
 
 ### NethServer/ns8-dnsmasq 1 
 
-- :eyes:  **[chore(deps): update yarn to v4.12.0](https://github.com/NethServer/ns8-dnsmasq/pull/76)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-03-17T13:34:56Z
+- :eyes:  **[chore(deps): update yarn to v4.13.0](https://github.com/NethServer/ns8-dnsmasq/pull/76)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-03-17T13:34:56Z
 
 ### NethServer/ns8-metrics 3 
 
@@ -249,9 +249,8 @@ date = 2026-03-19
 - :eyes:  **[Update dependency @carbon/icons-vue to v10.99.1](https://github.com/NethServer/ns8-n8n/pull/9)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-03-05T11:00:01Z
 - :eyes:  **[Replace dependency babel-eslint with @babel/eslint-parser ^7.11.0](https://github.com/NethServer/ns8-n8n/pull/4)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-03-05T10:58:57Z
 
-### NethServer/ns8-rustfs 2 
+### NethServer/ns8-rustfs 1 
 
-- :eyes:  **[Update rustfs/rustfs Docker tag to v1.0.0-alpha.88-glibc](https://github.com/NethServer/ns8-rustfs/pull/38)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-03-18T16:47:59Z
 - :eyes:  **[Update dependency core-js to v3.49.0](https://github.com/NethServer/ns8-rustfs/pull/37)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-03-17T00:34:51Z
 
 ### NethServer/nethsecurity-monitoring 1 
@@ -307,8 +306,9 @@ date = 2026-03-19
 - :eyes: :zzz: **[chore(deps): update dependency winston to v2.4.7](https://github.com/nethesis/astproxy/pull/23)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-01-12T03:43:43Z
 - :eyes: :zzz: **[chore(deps): update dependency moment to v2.29.4 [security]](https://github.com/nethesis/astproxy/pull/21)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-11-27T08:44:28Z
 
-### nethesis/ns8-nethvoice 10 
+### nethesis/ns8-nethvoice 11 
 
+- :eyes:  **[Translations update from Hosted Weblate](https://github.com/nethesis/ns8-nethvoice/pull/731)** by *weblate* - Reviewers: *None* - Created at: 2026-03-19T11:10:06Z
 - :eyes: :zzz: **[chore(deps): update dependency rollup to v2 [security]](https://github.com/nethesis/ns8-nethvoice/pull/620)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-11-28T08:46:01Z
 - :eyes: :zzz: **[chore(deps): update dependency karma to v6 [security]](https://github.com/nethesis/ns8-nethvoice/pull/619)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-11-28T08:45:49Z
 - :eyes: :zzz: **[fix(deps): update dependency angular-resource to v1.8.3](https://github.com/nethesis/ns8-nethvoice/pull/610)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-11-21T09:04:25Z
@@ -322,7 +322,7 @@ date = 2026-03-19
 
 ### nethesis/nethvoice-cti 10 
 
-- :eyes:  **[chore(deps): update dependency next to v16 [security]](https://github.com/nethesis/nethvoice-cti/pull/429)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-03-18T21:05:48Z
+- :eyes:  **[chore(deps): update dependency next to v15.5.14 [security]](https://github.com/nethesis/nethvoice-cti/pull/430)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-03-20T04:34:24Z
 - :eyes:  **[chore(deps): update dependency framer-motion to v11.18.2](https://github.com/nethesis/nethvoice-cti/pull/428)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-03-16T04:42:42Z
 - :eyes:  **[chore(deps): update dependency eslint to v8.57.1](https://github.com/nethesis/nethvoice-cti/pull/427)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-03-16T04:42:30Z
 - :eyes:  **[chore(deps): update dependency chart.js to v4.5.1](https://github.com/nethesis/nethvoice-cti/pull/426)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-03-16T01:39:17Z
