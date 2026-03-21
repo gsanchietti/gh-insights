@@ -2,49 +2,35 @@
 
 title = 'To be released soon'
 
-date = 2026-03-20
+date = 2026-03-21
 
 +++
 
-### NethServer
-
-- [install.sh port check false positive causes installation to abort](https://github.com/NethServer/dev/issues/7921) (#7714) by andre8244 (Created: 2026-03-17T15:05:00Z, Updated: 2026-03-18T12:25:55Z)
-
-- [Complete context menu in Applications page](https://github.com/NethServer/dev/issues/7916) (#7714) by Amygos (Created: 2026-03-10T17:01:12Z, Updated: 2026-03-19T08:27:58Z)
-
-- [Change WebTop OTP field type to avoid browser password update](https://github.com/NethServer/dev/issues/7845) (#7714) by federicoballarini (Created: 2026-02-01T14:43:18Z, Updated: 2026-03-12T07:17:04Z)
-
-- [HTTP routes error if a node goes offline](https://github.com/NethServer/dev/issues/7842) (#7714) by DavidePrincipi (Created: 2026-01-30T14:43:26Z, Updated: 2026-03-13T11:22:24Z)
-
-- [Group permission on public mail folder is not applied due to special characters in full name](https://github.com/NethServer/dev/issues/7775) (#7714) by mrmarkuz (Created: 2025-12-02T09:38:17Z, Updated: 2026-03-19T10:14:54Z)
-
-- [WebTop: Favorite folders not migrated](https://github.com/NethServer/dev/issues/7718) (#7714) by lucagasparini (Created: 2025-11-03T09:13:27Z, Updated: 2026-03-19T11:18:23Z)
-
-- [Alternate root folder configured on webtop does not work after migration to NS8](https://github.com/NethServer/dev/issues/7715) (#7714) by lucagasparini (Created: 2025-10-31T16:15:10Z, Updated: 2026-03-19T11:18:05Z)
-
-- [Sieve filters migrated from NS7 sometimes do not work](https://github.com/NethServer/dev/issues/7714) (#7714) by lucagasparini (Created: 2025-10-31T15:40:29Z, Updated: 2026-03-19T14:37:01Z)
-
 ### NethVoice
 
-- [CSV upload fails in Phonebook Sources when `uploads/` directory is owned by `root` inside FreePBX container](https://github.com/NethServer/dev/issues/7912) (#7714) by Stell0 (Created: 2026-03-06T16:02:01Z, Updated: 2026-03-18T09:23:09Z)
+- [CSV upload fails in Phonebook Sources when `uploads/` directory is owned by `root` inside FreePBX container](https://github.com/NethServer/dev/issues/7912) (#7828) by Stell0 (Created: 2026-03-06T16:02:01Z, Updated: 2026-03-18T09:23:09Z)
 
-- [NethVoice: add new Ringtone: mute tone](https://github.com/NethServer/dev/issues/7880) (#7714) by tonyco97 (Created: 2026-02-18T13:20:09Z, Updated: 2026-03-05T15:51:36Z)
+- [NethVoice: add new Ringtone: mute tone](https://github.com/NethServer/dev/issues/7880) (#7828) by tonyco97 (Created: 2026-02-18T13:20:09Z, Updated: 2026-03-05T15:51:36Z)
 
-- [NethVoice CTI: Phone Island - change in Call Transfer Interaction Flow](https://github.com/NethServer/dev/issues/7873) (#7714) by viktec (Created: 2026-02-13T10:42:01Z, Updated: 2026-03-09T10:05:53Z)
+- [NethVoice CTI: Phone Island - change in Call Transfer Interaction Flow](https://github.com/NethServer/dev/issues/7873) (#7828) by viktec (Created: 2026-02-13T10:42:01Z, Updated: 2026-03-09T10:05:53Z)
 
-- [Deepgram connection failure causes Satellite memory leak (unbounded RAM growth)](https://github.com/NethServer/dev/issues/7872) (#7714) by Stell0 (Created: 2026-02-13T09:53:51Z, Updated: 2026-02-13T10:00:24Z)
+- [Deepgram connection failure causes Satellite memory leak (unbounded RAM growth)](https://github.com/NethServer/dev/issues/7872) (#7828) by Stell0 (Created: 2026-02-13T09:53:51Z, Updated: 2026-02-13T10:00:24Z)
 
-- [NethLink: Mismatch between “Last calls” and NethVoice CTI](https://github.com/NethServer/dev/issues/7870) (#7714) by tonyco97 (Created: 2026-02-12T10:03:49Z, Updated: 2026-02-13T16:15:44Z)
+- [NethLink: Mismatch between “Last calls” and NethVoice CTI](https://github.com/NethServer/dev/issues/7870) (#7828) by tonyco97 (Created: 2026-02-12T10:03:49Z, Updated: 2026-02-13T16:15:44Z)
 
-- [NethLink: Company type address book contacts hide their names in Nethlink](https://github.com/NethServer/dev/issues/7862) (#7714) by Ilvo (Created: 2026-02-11T14:12:24Z, Updated: 2026-02-13T16:42:02Z)
+- [NethLink: Company type address book contacts hide their names in Nethlink](https://github.com/NethServer/dev/issues/7862) (#7828) by Ilvo (Created: 2026-02-11T14:12:24Z, Updated: 2026-02-13T16:42:02Z)
 
-- [NethLink: connectivity check causes rate limiting (429) on startup with many clients](https://github.com/NethServer/dev/issues/7849) (#7714) by edospadoni (Created: 2026-02-05T09:19:16Z, Updated: 2026-02-16T15:43:32Z)
+- [NethLink: connectivity check causes rate limiting (429) on startup with many clients](https://github.com/NethServer/dev/issues/7849) (#7828) by edospadoni (Created: 2026-02-05T09:19:16Z, Updated: 2026-02-16T15:43:32Z)
 
-- [NethLink: Inconsistent localization in NethLink “Recent calls” (days and months shown in English)](https://github.com/NethServer/dev/issues/7839) (#7714) by mgarra (Created: 2026-01-29T11:56:11Z, Updated: 2026-02-12T15:04:16Z)
+- [NethLink: Inconsistent localization in NethLink “Recent calls” (days and months shown in English)](https://github.com/NethServer/dev/issues/7839) (#7828) by mgarra (Created: 2026-01-29T11:56:11Z, Updated: 2026-02-12T15:04:16Z)
 
-- [Phone Island: Missing “Cancel transfer” button and inconsistent call transfer behavior when using provisioned phone](https://github.com/NethServer/dev/issues/7830) (#7714) by viktec (Created: 2026-01-21T13:44:17Z, Updated: 2026-03-09T10:07:25Z)
+- [Phone Island: Missing “Cancel transfer” button and inconsistent call transfer behavior when using provisioned phone](https://github.com/NethServer/dev/issues/7830) (#7828) by viktec (Created: 2026-01-21T13:44:17Z, Updated: 2026-03-09T10:07:25Z)
 
-- [Design: Simplify “NethVoice Proxy” step for second NethVoice instance](https://github.com/NethServer/dev/issues/7828) (#7714) by AmaLuci (Created: 2026-01-20T16:39:06Z, Updated: 2026-02-09T12:07:15Z)
+- [Design: Simplify “NethVoice Proxy” step for second NethVoice instance](https://github.com/NethServer/dev/issues/7828) (#7828) by AmaLuci (Created: 2026-01-20T16:39:06Z, Updated: 2026-02-09T12:07:15Z)
+
+### NethServer
+
+- [Change WebTop OTP field type to avoid browser password update](https://github.com/NethServer/dev/issues/7845) (#7828) by federicoballarini (Created: 2026-02-01T14:43:18Z, Updated: 2026-03-20T18:07:29Z)
 
 ### NethSecurity
 

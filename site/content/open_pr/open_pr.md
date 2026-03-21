@@ -1,19 +1,16 @@
 +++
 title = 'Open Pull Requests'
-date = 2026-03-20
+date = 2026-03-21
 +++
 
 ## Organization: nethserver
 
-### NethServer/ns8-core 3 
+### NethServer/ns8-core 4 
 
+- :eyes:  **[feat: new default shell /bin/nologin](https://github.com/NethServer/ns8-core/pull/1129)** by *DavidePrincipi* - Reviewers: *None* - Created at: 2026-03-20T16:43:22Z
 - :eyes:  **[Add --nologin option for rootless module configuration](https://github.com/NethServer/ns8-core/pull/1128)** by *stephdl* - Reviewers: *None* - Created at: 2026-03-19T16:46:59Z
 - :eyes:  **[fix: preserve localhost lines](https://github.com/NethServer/ns8-core/pull/1107)** by *DavidePrincipi* - Reviewers: *None* - Created at: 2026-03-06T10:55:49Z
 -   **[Document the NS8 release process](https://github.com/NethServer/ns8-core/pull/1104)** by *DavidePrincipi* - Reviewers: *gsanchietti* - Created at: 2026-03-05T17:00:50Z
-
-### NethServer/ns8-repomd 1 
-
-- :eyes:  **[Update webtop tag from 1.4.4 to 1.4.5](https://github.com/NethServer/ns8-repomd/pull/57)** by *DavidePrincipi* - Reviewers: *None* - Created at: 2026-03-18T12:43:43Z
 
 ### NethServer/ns8-traefik 1 
 
@@ -23,20 +20,17 @@ date = 2026-03-20
 
 - :eyes: :zzz: **[feat: run tests on Debian 13 (Trixie)](https://github.com/NethServer/ns8-terraform-infra/pull/6)** by *DavidePrincipi* - Reviewers: *None* - Created at: 2026-01-23T09:56:16Z
 
-### NethServer/nethserver-ns8-migration 1 
-
-- :eyes:  **[Update webtop image version to 1.4.5](https://github.com/NethServer/nethserver-ns8-migration/pull/126)** by *DavidePrincipi* - Reviewers: *None* - Created at: 2026-03-18T12:45:10Z
-
 ### NethServer/nethsecurity 5 
 
 -   **[fix(ns-ipsec): synchronize disabled state for existing routes in edit tunnel API](https://github.com/NethServer/nethsecurity/pull/1567)** by *m-dilorenzi* - Reviewers: *Tbaile* - Created at: 2026-03-13T11:48:39Z
--   **[feat(ovpn-rw-conn-history): connections history from storage if available](https://github.com/NethServer/nethsecurity/pull/1566)** by *m-dilorenzi* - Reviewers: *Tbaile* - Created at: 2026-03-12T15:59:54Z
+-   **[feat(ovpnrw): connections history from storage if available](https://github.com/NethServer/nethsecurity/pull/1566)** by *m-dilorenzi* - Reviewers: *Tbaile* - Created at: 2026-03-12T15:59:54Z
 - :eyes:  **[feat(ns-don): enhance session management with logging and expiration checks](https://github.com/NethServer/nethsecurity/pull/1554)** by *stephdl* - Reviewers: *None* - Created at: 2026-03-04T16:13:32Z
 -   **[feat(ns-api): add update-timezone script for post-commit processing](https://github.com/NethServer/nethsecurity/pull/1545)** by *m-dilorenzi* - Reviewers: *Tbaile* - Created at: 2026-03-03T09:21:33Z
 - :eyes: :zzz: **[build: added softflowd](https://github.com/NethServer/nethsecurity/pull/1453)** by *Tbaile* - Reviewers: *None* - Created at: 2025-12-10T11:48:14Z
 
-### NethServer/ns8-mail 2 
+### NethServer/ns8-mail 3 
 
+- :eyes:  **[Add pre-check for orphaned DB entries in add-public-mailbox script](https://github.com/NethServer/ns8-mail/pull/245)** by *stephdl* - Reviewers: *None* - Created at: 2026-03-20T15:18:33Z
 - :eyes:  **[Fix IMAP ACLs and permissions management](https://github.com/NethServer/ns8-mail/pull/242)** by *stephdl* - Reviewers: *None* - Created at: 2026-03-18T16:58:46Z
 -   **[Add validation for invalid characters in mailbox name](https://github.com/NethServer/ns8-mail/pull/241)** by *stephdl* - Reviewers: *DavidePrincipi* - Created at: 2026-03-18T16:25:52Z
 
@@ -55,7 +49,7 @@ date = 2026-03-20
 ### NethServer/nethsecurity-ui 3 
 
 -   **[feat(ipsec-tunnels): enhance table structure and add sorting functionality](https://github.com/NethServer/nethsecurity-ui/pull/728)** by *m-dilorenzi* - Reviewers: *Tbaile* - Created at: 2026-03-19T14:31:41Z
--   **[feat(ovpn-rw-conn-history): connections history from storage if available](https://github.com/NethServer/nethsecurity-ui/pull/720)** by *m-dilorenzi* - Reviewers: *Tbaile* - Created at: 2026-03-12T16:01:53Z
+-   **[feat(ovpnrw): connections history from storage if available](https://github.com/NethServer/nethsecurity-ui/pull/720)** by *m-dilorenzi* - Reviewers: *Tbaile* - Created at: 2026-03-12T16:01:53Z
 - :eyes:  **[feat(remote-support): add session expiration information and related translations](https://github.com/NethServer/nethsecurity-ui/pull/715)** by *stephdl* - Reviewers: *None* - Created at: 2026-03-06T12:03:34Z
 
 ### NethServer/nethsecurity-docs 8 
