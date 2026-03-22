@@ -1,6 +1,6 @@
 +++
 title = 'Open Pull Requests by Bots'
-date = 2026-03-21
+date = 2026-03-22
 +++
 
 ## Organization: nethserver
@@ -125,7 +125,7 @@ date = 2026-03-21
 
 ### NethServer/nethsecurity-controller 16 
 
-- :eyes:  **[fix(deps): update module github.com/jackc/pgx/v5 to v5.8.0](https://github.com/NethServer/nethsecurity-controller/pull/235)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-03-16T00:37:19Z
+- :eyes:  **[fix(deps): update module github.com/jackc/pgx/v5 to v5.9.0](https://github.com/NethServer/nethsecurity-controller/pull/235)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-03-16T00:37:19Z
 - :eyes:  **[fix(deps): update module github.com/gin-gonic/gin to v1.12.0](https://github.com/NethServer/nethsecurity-controller/pull/234)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-03-16T00:37:13Z
 - :eyes:  **[chore(deps): update docker/setup-buildx-action action to v4](https://github.com/NethServer/nethsecurity-controller/pull/231)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-03-13T16:15:04Z
 - :eyes:  **[chore(deps): update docker/metadata-action action to v6](https://github.com/NethServer/nethsecurity-controller/pull/230)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-03-13T16:15:00Z
