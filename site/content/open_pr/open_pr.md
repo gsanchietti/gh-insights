@@ -1,14 +1,14 @@
 +++
 title = 'Open Pull Requests'
-date = 2026-03-23
+date = 2026-03-24
 +++
 
 ## Organization: nethserver
 
 ### NethServer/ns8-core 4 
 
+-   **[Enhance node discovery and data retrieval after node removal](https://github.com/NethServer/ns8-core/pull/1130)** by *stephdl* - Reviewers: *DavidePrincipi* - Created at: 2026-03-23T10:45:31Z
 - :eyes:  **[feat: new default shell /bin/nologin](https://github.com/NethServer/ns8-core/pull/1129)** by *DavidePrincipi* - Reviewers: *None* - Created at: 2026-03-20T16:43:22Z
-- :eyes:  **[Add --nologin option for rootless module configuration](https://github.com/NethServer/ns8-core/pull/1128)** by *stephdl* - Reviewers: *None* - Created at: 2026-03-19T16:46:59Z
 - :eyes:  **[fix: preserve localhost lines](https://github.com/NethServer/ns8-core/pull/1107)** by *DavidePrincipi* - Reviewers: *None* - Created at: 2026-03-06T10:55:49Z
 -   **[Document the NS8 release process](https://github.com/NethServer/ns8-core/pull/1104)** by *DavidePrincipi* - Reviewers: *gsanchietti* - Created at: 2026-03-05T17:00:50Z
 
@@ -28,11 +28,10 @@ date = 2026-03-23
 -   **[feat(ns-api): add update-timezone script for post-commit processing](https://github.com/NethServer/nethsecurity/pull/1545)** by *m-dilorenzi* - Reviewers: *Tbaile* - Created at: 2026-03-03T09:21:33Z
 - :eyes: :zzz: **[build: added softflowd](https://github.com/NethServer/nethsecurity/pull/1453)** by *Tbaile* - Reviewers: *None* - Created at: 2025-12-10T11:48:14Z
 
-### NethServer/ns8-mail 3 
+### NethServer/ns8-mail 2 
 
-- :eyes:  **[Add pre-check for orphaned DB entries in add-public-mailbox script](https://github.com/NethServer/ns8-mail/pull/245)** by *stephdl* - Reviewers: *None* - Created at: 2026-03-20T15:18:33Z
-- :eyes:  **[Fix IMAP ACLs and permissions management](https://github.com/NethServer/ns8-mail/pull/242)** by *stephdl* - Reviewers: *None* - Created at: 2026-03-18T16:58:46Z
--   **[Add validation for invalid characters in mailbox name](https://github.com/NethServer/ns8-mail/pull/241)** by *stephdl* - Reviewers: *DavidePrincipi* - Created at: 2026-03-18T16:25:52Z
+- :eyes:  **[Add rspamd plugin for spamhaus DQS](https://github.com/NethServer/ns8-mail/pull/247)** by *mrmarkuz* - Reviewers: *None* - Created at: 2026-03-23T10:19:37Z
+-   **[Add pre-check for orphaned DB entries in add-public-mailbox script](https://github.com/NethServer/ns8-mail/pull/245)** by *stephdl* - Reviewers: *DavidePrincipi* - Created at: 2026-03-20T15:18:33Z
 
 ### NethServer/ns8-nethsecurity-controller 1 
 
