@@ -1,13 +1,12 @@
 +++
 title = 'Open Pull Requests'
-date = 2026-03-24
+date = 2026-03-25
 +++
 
 ## Organization: nethserver
 
-### NethServer/ns8-core 4 
+### NethServer/ns8-core 3 
 
--   **[Enhance node discovery and data retrieval after node removal](https://github.com/NethServer/ns8-core/pull/1130)** by *stephdl* - Reviewers: *DavidePrincipi* - Created at: 2026-03-23T10:45:31Z
 - :eyes:  **[feat: new default shell /bin/nologin](https://github.com/NethServer/ns8-core/pull/1129)** by *DavidePrincipi* - Reviewers: *None* - Created at: 2026-03-20T16:43:22Z
 - :eyes:  **[fix: preserve localhost lines](https://github.com/NethServer/ns8-core/pull/1107)** by *DavidePrincipi* - Reviewers: *None* - Created at: 2026-03-06T10:55:49Z
 -   **[Document the NS8 release process](https://github.com/NethServer/ns8-core/pull/1104)** by *DavidePrincipi* - Reviewers: *gsanchietti* - Created at: 2026-03-05T17:00:50Z
@@ -28,10 +27,9 @@ date = 2026-03-24
 -   **[feat(ns-api): add update-timezone script for post-commit processing](https://github.com/NethServer/nethsecurity/pull/1545)** by *m-dilorenzi* - Reviewers: *Tbaile* - Created at: 2026-03-03T09:21:33Z
 - :eyes: :zzz: **[build: added softflowd](https://github.com/NethServer/nethsecurity/pull/1453)** by *Tbaile* - Reviewers: *None* - Created at: 2025-12-10T11:48:14Z
 
-### NethServer/ns8-mail 2 
+### NethServer/ns8-mail 1 
 
-- :eyes:  **[Add rspamd plugin for spamhaus DQS](https://github.com/NethServer/ns8-mail/pull/247)** by *mrmarkuz* - Reviewers: *None* - Created at: 2026-03-23T10:19:37Z
--   **[Add pre-check for orphaned DB entries in add-public-mailbox script](https://github.com/NethServer/ns8-mail/pull/245)** by *stephdl* - Reviewers: *DavidePrincipi* - Created at: 2026-03-20T15:18:33Z
+-   **[Add rspamd plugin for spamhaus DQS](https://github.com/NethServer/ns8-mail/pull/247)** by *mrmarkuz* - Reviewers: *DavidePrincipi* - Created at: 2026-03-23T10:19:37Z
 
 ### NethServer/ns8-nethsecurity-controller 1 
 
@@ -41,8 +39,9 @@ date = 2026-03-24
 
 - :eyes: :zzz: **[chore(master): release 1.5.1](https://github.com/NethServer/phonehome-server/pull/138)** by *Tbaile* - Reviewers: *None* - Created at: 2025-11-15T06:38:38Z
 
-### NethServer/ns8-docs 1 
+### NethServer/ns8-docs 2 
 
+- :eyes:  **[feat: release notes milestone 8.8](https://github.com/NethServer/ns8-docs/pull/224)** by *DavidePrincipi* - Reviewers: *None* - Created at: 2026-03-23T15:05:50Z
 - :eyes:  **[Add Nextcloud smarthost override](https://github.com/NethServer/ns8-docs/pull/222)** by *mrmarkuz* - Reviewers: *None* - Created at: 2026-02-26T09:21:06Z
 
 ### NethServer/nethsecurity-ui 3 
@@ -71,6 +70,10 @@ date = 2026-03-24
 - :eyes:  **[chore(dep): update phone-island to 1.0.0](https://github.com/NethServer/nethlink/pull/104)** by *tonyco97* - Reviewers: *None* - Created at: 2026-03-13T09:29:26Z
 - :eyes:  **[fix(unhold): write logs to debug unhold mute audio](https://github.com/NethServer/nethlink/pull/103)** by *edospadoni* - Reviewers: *None* - Created at: 2026-03-10T10:04:44Z
 
+### NethServer/ns8-metrics 1 
+
+- :eyes:  **[Fix backup failure description template](https://github.com/NethServer/ns8-metrics/pull/65)** by *mrmarkuz* - Reviewers: *None* - Created at: 2026-03-24T13:48:12Z
+
 ### NethServer/my 1 
 
 - :eyes:  **[feat(support): add support service with WebSockets and Yamux](https://github.com/NethServer/my/pull/47)** by *edospadoni* - Reviewers: *None* - Created at: 2026-03-10T08:00:00Z
@@ -97,10 +100,8 @@ date = 2026-03-24
 
 -  :zzz: **[Removed old notification service usage](https://github.com/nethesis/nethcti-app-iphone/pull/37)** by *NicolaMrAPPs* - Reviewers: *b9874e* - Created at: 2023-08-02T09:19:30Z
 
-### nethesis/ns8-nethvoice 5 
+### nethesis/ns8-nethvoice 3 
 
-- :eyes:  **[feat(phonebook): add Zucchetti Infinity API sync](https://github.com/nethesis/ns8-nethvoice/pull/730)** by *Stell0* - Reviewers: *None* - Created at: 2026-03-18T15:25:22Z
-- :eyes:  **[Patton gateway forced to use TLS](https://github.com/nethesis/ns8-nethvoice/pull/727)** by *andrea-marchionni* - Reviewers: *None* - Created at: 2026-03-16T15:42:36Z
 - :eyes:  **[Use Satellite TTS](https://github.com/nethesis/ns8-nethvoice/pull/707)** by *Stell0* - Reviewers: *None* - Created at: 2026-02-26T11:00:46Z
 - :eyes: :zzz: **[feat: transcription and summary](https://github.com/nethesis/ns8-nethvoice/pull/674)** by *tommaso-ascani* - Reviewers: *None* - Created at: 2026-01-28T11:03:32Z
 -  :zzz: **[Matrix integration](https://github.com/nethesis/ns8-nethvoice/pull/627)** by *gsanchietti* - Reviewers: *Amygos* - Created at: 2025-12-10T11:32:50Z
@@ -113,8 +114,9 @@ date = 2026-03-24
 
 - :eyes:  **[fix: avoid toast notification if user is in conference](https://github.com/nethesis/phone-island/pull/197)** by *tonyco97* - Reviewers: *None* - Created at: 2026-03-16T11:03:15Z
 
-### nethesis/ns8-nethvoice-proxy 9 
+### nethesis/ns8-nethvoice-proxy 10 
 
+- :eyes:  **[feat: Dynamic port slot binding for multi-trunk support (Vianova)](https://github.com/nethesis/ns8-nethvoice-proxy/pull/158)** by *paolovisintin* - Reviewers: *None* - Created at: 2026-03-24T10:43:30Z
 -   **[refactor: remove dead code and unused flags](https://github.com/nethesis/ns8-nethvoice-proxy/pull/148)** by *Amygos* - Reviewers: *paolovisintin* - Created at: 2026-02-23T08:21:43Z
 -   **[refactor: remove unused defines from template](https://github.com/nethesis/ns8-nethvoice-proxy/pull/147)** by *Amygos* - Reviewers: *paolovisintin* - Created at: 2026-02-23T08:21:41Z
 -   **[refactor: remove 12 unused kamailio modules](https://github.com/nethesis/ns8-nethvoice-proxy/pull/146)** by *Amygos* - Reviewers: *paolovisintin* - Created at: 2026-02-23T08:21:37Z
