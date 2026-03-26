@@ -1,12 +1,13 @@
 +++
 title = 'Open Pull Requests'
-date = 2026-03-25
+date = 2026-03-26
 +++
 
 ## Organization: nethserver
 
-### NethServer/ns8-core 3 
+### NethServer/ns8-core 4 
 
+- :eyes:  **[Enhance restore eligibility checks and output schema](https://github.com/NethServer/ns8-core/pull/1131)** by *stephdl* - Reviewers: *None* - Created at: 2026-03-25T09:58:05Z
 - :eyes:  **[feat: new default shell /bin/nologin](https://github.com/NethServer/ns8-core/pull/1129)** by *DavidePrincipi* - Reviewers: *None* - Created at: 2026-03-20T16:43:22Z
 - :eyes:  **[fix: preserve localhost lines](https://github.com/NethServer/ns8-core/pull/1107)** by *DavidePrincipi* - Reviewers: *None* - Created at: 2026-03-06T10:55:49Z
 -   **[Document the NS8 release process](https://github.com/NethServer/ns8-core/pull/1104)** by *DavidePrincipi* - Reviewers: *gsanchietti* - Created at: 2026-03-05T17:00:50Z
@@ -29,7 +30,7 @@ date = 2026-03-25
 
 ### NethServer/ns8-mail 1 
 
--   **[Add rspamd plugin for spamhaus DQS](https://github.com/NethServer/ns8-mail/pull/247)** by *mrmarkuz* - Reviewers: *DavidePrincipi* - Created at: 2026-03-23T10:19:37Z
+- :eyes:  **[Add rspamd plugin for spamhaus DQS](https://github.com/NethServer/ns8-mail/pull/247)** by *mrmarkuz* - Reviewers: *None* - Created at: 2026-03-23T10:19:37Z
 
 ### NethServer/ns8-nethsecurity-controller 1 
 
@@ -69,10 +70,6 @@ date = 2026-03-25
 
 - :eyes:  **[chore(dep): update phone-island to 1.0.0](https://github.com/NethServer/nethlink/pull/104)** by *tonyco97* - Reviewers: *None* - Created at: 2026-03-13T09:29:26Z
 - :eyes:  **[fix(unhold): write logs to debug unhold mute audio](https://github.com/NethServer/nethlink/pull/103)** by *edospadoni* - Reviewers: *None* - Created at: 2026-03-10T10:04:44Z
-
-### NethServer/ns8-metrics 1 
-
-- :eyes:  **[Fix backup failure description template](https://github.com/NethServer/ns8-metrics/pull/65)** by *mrmarkuz* - Reviewers: *None* - Created at: 2026-03-24T13:48:12Z
 
 ### NethServer/my 1 
 
@@ -114,18 +111,17 @@ date = 2026-03-25
 
 - :eyes:  **[fix: avoid toast notification if user is in conference](https://github.com/nethesis/phone-island/pull/197)** by *tonyco97* - Reviewers: *None* - Created at: 2026-03-16T11:03:15Z
 
-### nethesis/ns8-nethvoice-proxy 10 
+### nethesis/ns8-nethvoice-proxy 9 
 
 - :eyes:  **[feat: Dynamic port slot binding for multi-trunk support (Vianova)](https://github.com/nethesis/ns8-nethvoice-proxy/pull/158)** by *paolovisintin* - Reviewers: *None* - Created at: 2026-03-24T10:43:30Z
--   **[refactor: remove dead code and unused flags](https://github.com/nethesis/ns8-nethvoice-proxy/pull/148)** by *Amygos* - Reviewers: *paolovisintin* - Created at: 2026-02-23T08:21:43Z
--   **[refactor: remove unused defines from template](https://github.com/nethesis/ns8-nethvoice-proxy/pull/147)** by *Amygos* - Reviewers: *paolovisintin* - Created at: 2026-02-23T08:21:41Z
--   **[refactor: remove 12 unused kamailio modules](https://github.com/nethesis/ns8-nethvoice-proxy/pull/146)** by *Amygos* - Reviewers: *paolovisintin* - Created at: 2026-02-23T08:21:37Z
--   **[fix: check ds_select_dst return value](https://github.com/nethesis/ns8-nethvoice-proxy/pull/143)** by *Amygos* - Reviewers: *paolovisintin* - Created at: 2026-02-23T08:21:28Z
--   **[fix: increase fr_timer from 1s to 30s](https://github.com/nethesis/ns8-nethvoice-proxy/pull/141)** by *Amygos* - Reviewers: *paolovisintin* - Created at: 2026-02-23T08:06:07Z
+-  :zzz: **[refactor: remove dead code and unused flags](https://github.com/nethesis/ns8-nethvoice-proxy/pull/148)** by *Amygos* - Reviewers: *paolovisintin* - Created at: 2026-02-23T08:21:43Z
+-  :zzz: **[refactor: remove unused defines from template](https://github.com/nethesis/ns8-nethvoice-proxy/pull/147)** by *Amygos* - Reviewers: *paolovisintin* - Created at: 2026-02-23T08:21:41Z
+-  :zzz: **[refactor: remove 12 unused kamailio modules](https://github.com/nethesis/ns8-nethvoice-proxy/pull/146)** by *Amygos* - Reviewers: *paolovisintin* - Created at: 2026-02-23T08:21:37Z
+-  :zzz: **[fix: check ds_select_dst return value](https://github.com/nethesis/ns8-nethvoice-proxy/pull/143)** by *Amygos* - Reviewers: *paolovisintin* - Created at: 2026-02-23T08:21:28Z
+-  :zzz: **[fix: increase fr_timer from 1s to 30s](https://github.com/nethesis/ns8-nethvoice-proxy/pull/141)** by *Amygos* - Reviewers: *paolovisintin* - Created at: 2026-02-23T08:06:07Z
 - :eyes: :zzz: **[build(rtpengine): migrate to Ubuntu 24.04](https://github.com/nethesis/ns8-nethvoice-proxy/pull/139)** by *Amygos* - Reviewers: *None* - Created at: 2026-02-12T13:08:07Z
 - :eyes: :zzz: **[build(kamailio): update base image to Ubuntu 24.04](https://github.com/nethesis/ns8-nethvoice-proxy/pull/136)** by *Amygos* - Reviewers: *None* - Created at: 2026-02-10T15:31:39Z
 - :eyes: :zzz: **[164 notify timeout](https://github.com/nethesis/ns8-nethvoice-proxy/pull/123)** by *paolovisintin* - Reviewers: *None* - Created at: 2026-01-14T08:00:32Z
-- :eyes: :zzz: **[144 multi port binding](https://github.com/nethesis/ns8-nethvoice-proxy/pull/98)** by *paolovisintin* - Reviewers: *None* - Created at: 2025-11-14T10:18:53Z
 
 ### nethesis/vue-components 1 
 
