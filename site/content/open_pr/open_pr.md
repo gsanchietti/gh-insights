@@ -1,15 +1,13 @@
 +++
 title = 'Open Pull Requests'
-date = 2026-03-26
+date = 2026-03-27
 +++
 
 ## Organization: nethserver
 
-### NethServer/ns8-core 4 
+### NethServer/ns8-core 2 
 
-- :eyes:  **[Enhance restore eligibility checks and output schema](https://github.com/NethServer/ns8-core/pull/1131)** by *stephdl* - Reviewers: *None* - Created at: 2026-03-25T09:58:05Z
 - :eyes:  **[feat: new default shell /bin/nologin](https://github.com/NethServer/ns8-core/pull/1129)** by *DavidePrincipi* - Reviewers: *None* - Created at: 2026-03-20T16:43:22Z
-- :eyes:  **[fix: preserve localhost lines](https://github.com/NethServer/ns8-core/pull/1107)** by *DavidePrincipi* - Reviewers: *None* - Created at: 2026-03-06T10:55:49Z
 -   **[Document the NS8 release process](https://github.com/NethServer/ns8-core/pull/1104)** by *DavidePrincipi* - Reviewers: *gsanchietti* - Created at: 2026-03-05T17:00:50Z
 
 ### NethServer/ns8-traefik 1 
@@ -28,22 +26,18 @@ date = 2026-03-26
 -   **[feat(ns-api): add update-timezone script for post-commit processing](https://github.com/NethServer/nethsecurity/pull/1545)** by *m-dilorenzi* - Reviewers: *Tbaile* - Created at: 2026-03-03T09:21:33Z
 - :eyes: :zzz: **[build: added softflowd](https://github.com/NethServer/nethsecurity/pull/1453)** by *Tbaile* - Reviewers: *None* - Created at: 2025-12-10T11:48:14Z
 
-### NethServer/ns8-mail 1 
-
-- :eyes:  **[Add rspamd plugin for spamhaus DQS](https://github.com/NethServer/ns8-mail/pull/247)** by *mrmarkuz* - Reviewers: *None* - Created at: 2026-03-23T10:19:37Z
-
-### NethServer/ns8-nethsecurity-controller 1 
-
--   **[fix(prometheus): escaped string for pass hash](https://github.com/NethServer/ns8-nethsecurity-controller/pull/196)** by *Tbaile* - Reviewers: *gsanchietti* - Created at: 2026-03-17T10:08:59Z
-
 ### NethServer/phonehome-server 1 
 
 - :eyes: :zzz: **[chore(master): release 1.5.1](https://github.com/NethServer/phonehome-server/pull/138)** by *Tbaile* - Reviewers: *None* - Created at: 2025-11-15T06:38:38Z
 
+### NethServer/ns8-crowdsec 1 
+
+-   **[Fix typo in mail template](https://github.com/NethServer/ns8-crowdsec/pull/149)** by *mrmarkuz* - Reviewers: *stephdl* - Created at: 2026-03-26T09:53:00Z
+
 ### NethServer/ns8-docs 2 
 
+- :eyes:  **[Add DQS queries to mail outbound connections](https://github.com/NethServer/ns8-docs/pull/225)** by *mrmarkuz* - Reviewers: *None* - Created at: 2026-03-26T08:52:48Z
 - :eyes:  **[feat: release notes milestone 8.8](https://github.com/NethServer/ns8-docs/pull/224)** by *DavidePrincipi* - Reviewers: *None* - Created at: 2026-03-23T15:05:50Z
-- :eyes:  **[Add Nextcloud smarthost override](https://github.com/NethServer/ns8-docs/pull/222)** by *mrmarkuz* - Reviewers: *None* - Created at: 2026-02-26T09:21:06Z
 
 ### NethServer/nethsecurity-ui 3 
 
@@ -51,16 +45,11 @@ date = 2026-03-26
 -   **[feat(ovpnrw): connections history from storage if available](https://github.com/NethServer/nethsecurity-ui/pull/720)** by *m-dilorenzi* - Reviewers: *Tbaile* - Created at: 2026-03-12T16:01:53Z
 - :eyes:  **[feat(remote-support): add session expiration information and related translations](https://github.com/NethServer/nethsecurity-ui/pull/715)** by *stephdl* - Reviewers: *None* - Created at: 2026-03-06T12:03:34Z
 
-### NethServer/nethsecurity-docs 8 
+### NethServer/nethsecurity-docs 3 
 
--   **[Extra packages preserved during the upgrade from NethSecurity 8.7.2](https://github.com/NethServer/nethsecurity-docs/pull/233)** by *cotosso* - Reviewers: *Tbaile* - Created at: 2026-03-17T17:02:04Z
-- :eyes:  **[Update port forward documentation, including last updates](https://github.com/NethServer/nethsecurity-docs/pull/232)** by *cotosso* - Reviewers: *None* - Created at: 2026-03-16T13:56:31Z
--   **[Revise bypass rules section in ips.rst](https://github.com/NethServer/nethsecurity-docs/pull/231)** by *cotosso* - Reviewers: *Tbaile* - Created at: 2026-03-16T10:50:59Z
--   **[Add note on manual updates for Home Networks](https://github.com/NethServer/nethsecurity-docs/pull/230)** by *cotosso* - Reviewers: *Tbaile* - Created at: 2026-03-16T10:39:32Z
-- :eyes:  **[Expand and refine monitoring documentation to align with latest UI](https://github.com/NethServer/nethsecurity-docs/pull/229)** by *cotosso* - Reviewers: *None* - Created at: 2026-03-16T09:36:53Z
+-   **[feat(remote support) Enhance documentation with session management](https://github.com/NethServer/nethsecurity-docs/pull/234)** by *stephdl* - Reviewers: *Tbaile* - Created at: 2026-03-26T08:33:26Z
 -   **[feat: added softflowd doc](https://github.com/NethServer/nethsecurity-docs/pull/227)** by *Tbaile* - Reviewers: *cotosso* - Created at: 2026-03-05T09:29:42Z
 - :eyes: :zzz: **[feat(certificates): add certificates expiration management instructions for OpenVPN](https://github.com/NethServer/nethsecurity-docs/pull/223)** by *m-dilorenzi* - Reviewers: *None* - Created at: 2026-02-10T08:20:18Z
-- :eyes: :zzz: **[fix(ha): update for beta2](https://github.com/NethServer/nethsecurity-docs/pull/208)** by *gsanchietti* - Reviewers: *None* - Created at: 2025-10-02T10:43:05Z
 
 ### NethServer/ns8-user-manager 1 
 
@@ -111,8 +100,9 @@ date = 2026-03-26
 
 - :eyes:  **[fix: avoid toast notification if user is in conference](https://github.com/nethesis/phone-island/pull/197)** by *tonyco97* - Reviewers: *None* - Created at: 2026-03-16T11:03:15Z
 
-### nethesis/ns8-nethvoice-proxy 9 
+### nethesis/ns8-nethvoice-proxy 10 
 
+- :eyes:  **[Force standard port on socket (6060 and 6061) advertise](https://github.com/nethesis/ns8-nethvoice-proxy/pull/160)** by *andrea-marchionni* - Reviewers: *None* - Created at: 2026-03-26T10:03:45Z
 - :eyes:  **[feat: Dynamic port slot binding for multi-trunk support (Vianova)](https://github.com/nethesis/ns8-nethvoice-proxy/pull/158)** by *paolovisintin* - Reviewers: *None* - Created at: 2026-03-24T10:43:30Z
 -  :zzz: **[refactor: remove dead code and unused flags](https://github.com/nethesis/ns8-nethvoice-proxy/pull/148)** by *Amygos* - Reviewers: *paolovisintin* - Created at: 2026-02-23T08:21:43Z
 -  :zzz: **[refactor: remove unused defines from template](https://github.com/nethesis/ns8-nethvoice-proxy/pull/147)** by *Amygos* - Reviewers: *paolovisintin* - Created at: 2026-02-23T08:21:41Z
