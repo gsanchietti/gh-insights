@@ -2,7 +2,7 @@
 
 title = 'To be released soon'
 
-date = 2026-03-27
+date = 2026-03-28
 
 +++
 
@@ -35,10 +35,4 @@ date = 2026-03-27
 - [Change WebTop OTP field type to avoid browser password update](https://github.com/NethServer/dev/issues/7845) (#7792) by federicoballarini (Created: 2026-02-01T14:43:18Z, Updated: 2026-03-20T18:07:29Z)
 
 - [WebTop: request to remove webtop-tmceplugins.jar](https://github.com/NethServer/dev/issues/7792) (#7792) by lucagasparini (Created: 2025-12-16T14:24:32Z, Updated: 2026-03-23T13:26:32Z)
-
-### NethServer
-
-- [File /etc/hosts corrupted by set-fqdn](https://github.com/NethServer/dev/issues/7911) (#7792) by DavidePrincipi (Created: 2026-03-06T10:54:49Z, Updated: 2026-03-26T17:03:27Z)
-
-- [Improve Security of Remote Support Sessions](https://github.com/NethServer/dev/issues/7900) (#7792) by gsanchietti (Created: 2026-03-02T13:08:09Z, Updated: 2026-03-26T16:43:53Z)
 

@@ -1,6 +1,6 @@
 +++
 title = 'Open Pull Requests by Bots'
-date = 2026-03-27
+date = 2026-03-28
 +++
 
 ## Organization: nethserver
@@ -86,7 +86,7 @@ date = 2026-03-27
 ### NethServer/ns8-loki 2 
 
 - :eyes:  **[chore(deps): update traefik docker tag to v3.6.12](https://github.com/NethServer/ns8-loki/pull/58)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-03-26T17:30:17Z
-- :eyes: :zzz: **[chore(deps): update grafana/loki docker tag to v3.7.0](https://github.com/NethServer/ns8-loki/pull/50)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-01-21T12:28:24Z
+- :eyes: :zzz: **[chore(deps): update grafana/loki docker tag to v3.7.1](https://github.com/NethServer/ns8-loki/pull/50)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-01-21T12:28:24Z
 
 ### NethServer/ns8-traefik 1 
 
@@ -122,8 +122,9 @@ date = 2026-03-27
 - :eyes:  **[chore(deps): update dependency @carbon/icons-vue to v10.99.1](https://github.com/NethServer/ns8-grafana/pull/48)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-03-09T16:40:02Z
 - :eyes:  **[chore(deps): replace dependency babel-eslint with @babel/eslint-parser ^7.11.0](https://github.com/NethServer/ns8-grafana/pull/44)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-03-09T09:48:12Z
 
-### NethServer/nethsecurity 4 
+### NethServer/nethsecurity 5 
 
+- :eyes:  **[chore(deps): update actions/configure-pages action to v6](https://github.com/NethServer/nethsecurity/pull/1576)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-03-27T21:54:37Z
 - :eyes:  **[chore(deps): update actions/deploy-pages action to v5](https://github.com/NethServer/nethsecurity/pull/1573)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-03-25T21:36:16Z
 - :eyes:  **[chore(deps): update actions/upload-artifact action to v7](https://github.com/NethServer/nethsecurity/pull/1539)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-02-26T20:33:57Z
 - :eyes: :zzz: **[chore(deps): update debian docker tag to v12.12](https://github.com/NethServer/nethsecurity/pull/1366)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-09-08T21:58:45Z
@@ -220,7 +221,7 @@ date = 2026-03-27
 
 ### NethServer/ns8-metrics 3 
 
-- :eyes:  **[chore(deps): update quay.io/prometheus/prometheus docker tag to v3.10.0](https://github.com/NethServer/ns8-metrics/pull/60)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-02-26T01:09:47Z
+- :eyes: :zzz: **[chore(deps): update quay.io/prometheus/prometheus docker tag to v3.10.0](https://github.com/NethServer/ns8-metrics/pull/60)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-02-26T01:09:47Z
 - :eyes: :zzz: **[chore(deps): update python docker tag to v3.14.3](https://github.com/NethServer/ns8-metrics/pull/57)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-02-04T22:45:13Z
 - :eyes: :zzz: **[chore(deps): update grafana/grafana docker tag to v12.4.2](https://github.com/NethServer/ns8-metrics/pull/54)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-01-27T21:07:46Z
 
@@ -230,8 +231,9 @@ date = 2026-03-27
 - :eyes:  **[chore(deps): update nginx docker tag to v1.28.3](https://github.com/NethServer/ns8-dependencytrack/pull/82)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-03-25T01:25:46Z
 - :eyes:  **[chore(deps): update dependency core-js to v3.49.0](https://github.com/NethServer/ns8-dependencytrack/pull/80)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-03-16T22:11:26Z
 
-### NethServer/ns8-matrix 9 
+### NethServer/ns8-matrix 10 
 
+- :eyes:  **[chore(deps): update dependency axios to v1.14.0](https://github.com/NethServer/ns8-matrix/pull/74)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-03-27T21:25:20Z
 - :eyes:  **[chore(deps): update node.js to v24.14.1](https://github.com/NethServer/ns8-matrix/pull/73)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-03-25T18:28:34Z
 - :eyes:  **[chore(deps): update ghcr.io/element-hq/synapse docker tag to v1.150.0](https://github.com/NethServer/ns8-matrix/pull/72)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-03-24T18:18:44Z
 - :eyes:  **[chore(deps): update ghcr.io/element-hq/element-web docker tag to v1.12.13](https://github.com/NethServer/ns8-matrix/pull/71)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-03-24T14:17:28Z
@@ -253,8 +255,9 @@ date = 2026-03-27
 - :eyes:  **[Update dependency @carbon/icons-vue to v10.99.1](https://github.com/NethServer/ns8-n8n/pull/9)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-03-05T11:00:01Z
 - :eyes:  **[Replace dependency babel-eslint with @babel/eslint-parser ^7.11.0](https://github.com/NethServer/ns8-n8n/pull/4)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-03-05T10:58:57Z
 
-### NethServer/ns8-rustfs 1 
+### NethServer/ns8-rustfs 2 
 
+- :eyes:  **[Update dependency axios to v1.14.0](https://github.com/NethServer/ns8-rustfs/pull/40)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-03-27T21:27:17Z
 - :eyes:  **[Update dependency core-js to v3.49.0](https://github.com/NethServer/ns8-rustfs/pull/37)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-03-17T00:34:51Z
 
 ### NethServer/nethsecurity-monitoring 1 
@@ -303,8 +306,10 @@ date = 2026-03-27
 - :eyes: :zzz: **[chore(deps): update actions/checkout action to v6](https://github.com/nethesis/astproxy/pull/24)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-02-02T04:00:11Z
 - :eyes: :zzz: **[chore(deps): update dependency winston to v2.4.7](https://github.com/nethesis/astproxy/pull/23)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-01-12T03:43:43Z
 
-### nethesis/ns8-nethvoice 11 
+### nethesis/ns8-nethvoice 13 
 
+- :eyes:  **[chore(deps): replace dependency rollup-plugin-babel with @rollup/plugin-babel ^5.0.0](https://github.com/nethesis/ns8-nethvoice/pull/742)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-03-27T10:17:08Z
+- :eyes:  **[chore(deps): replace dependency babel-eslint with @babel/eslint-parser ^7.11.0](https://github.com/nethesis/ns8-nethvoice/pull/741)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-03-27T10:17:05Z
 - :eyes:  **[Translations update from Hosted Weblate](https://github.com/nethesis/ns8-nethvoice/pull/731)** by *weblate* - Reviewers: *None* - Created at: 2026-03-19T11:10:06Z
 - :eyes: :zzz: **[chore(deps): update dependency rollup to v2 [security]](https://github.com/nethesis/ns8-nethvoice/pull/620)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-11-28T08:46:01Z
 - :eyes: :zzz: **[chore(deps): update dependency karma to v6 [security]](https://github.com/nethesis/ns8-nethvoice/pull/619)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-11-28T08:45:49Z
@@ -375,7 +380,7 @@ date = 2026-03-27
 - :eyes: :zzz: **[fix(deps): update module github.com/labstack/echo/v4 to v4.15.1](https://github.com/nethesis/matrix2acrobits/pull/11)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-12-11T22:10:25Z
 - :eyes: :zzz: **[chore(deps): update actions/setup-go action to v6](https://github.com/nethesis/matrix2acrobits/pull/7)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-12-10T17:40:25Z
 - :eyes: :zzz: **[chore(deps): update actions/checkout action to v6](https://github.com/nethesis/matrix2acrobits/pull/6)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-12-10T14:22:39Z
-- :eyes: :zzz: **[fix(deps): update module modernc.org/sqlite to v1.47.0](https://github.com/nethesis/matrix2acrobits/pull/5)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-12-10T14:22:34Z
+- :eyes: :zzz: **[fix(deps): update module modernc.org/sqlite to v1.48.0](https://github.com/nethesis/matrix2acrobits/pull/5)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-12-10T14:22:34Z
 - :eyes: :zzz: **[chore(deps): update golang docker tag to v1.26.1](https://github.com/nethesis/matrix2acrobits/pull/4)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-12-09T14:46:31Z
 - :eyes: :zzz: **[chore(deps): update dependency go to 1.26](https://github.com/nethesis/matrix2acrobits/pull/3)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-12-09T14:46:27Z
 

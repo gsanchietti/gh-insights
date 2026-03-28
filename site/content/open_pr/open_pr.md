@@ -1,12 +1,13 @@
 +++
 title = 'Open Pull Requests'
-date = 2026-03-27
+date = 2026-03-28
 +++
 
 ## Organization: nethserver
 
-### NethServer/ns8-core 2 
+### NethServer/ns8-core 3 
 
+- :eyes:  **[Add IPv6 validation and translation for errors](https://github.com/NethServer/ns8-core/pull/1135)** by *stephdl* - Reviewers: *None* - Created at: 2026-03-27T10:20:57Z
 - :eyes:  **[feat: new default shell /bin/nologin](https://github.com/NethServer/ns8-core/pull/1129)** by *DavidePrincipi* - Reviewers: *None* - Created at: 2026-03-20T16:43:22Z
 -   **[Document the NS8 release process](https://github.com/NethServer/ns8-core/pull/1104)** by *DavidePrincipi* - Reviewers: *gsanchietti* - Created at: 2026-03-05T17:00:50Z
 
@@ -14,15 +15,11 @@ date = 2026-03-27
 
 - :eyes: :zzz: **[fix: cryptography 45 deprecation warning](https://github.com/NethServer/ns8-traefik/pull/120)** by *DavidePrincipi* - Reviewers: *None* - Created at: 2025-10-28T08:48:29Z
 
-### NethServer/ns8-terraform-infra 1 
-
-- :eyes: :zzz: **[feat: run tests on Debian 13 (Trixie)](https://github.com/NethServer/ns8-terraform-infra/pull/6)** by *DavidePrincipi* - Reviewers: *None* - Created at: 2026-01-23T09:56:16Z
-
 ### NethServer/nethsecurity 5 
 
 -   **[fix(ns-ipsec): synchronize disabled state for existing routes in edit tunnel API](https://github.com/NethServer/nethsecurity/pull/1567)** by *m-dilorenzi* - Reviewers: *Tbaile* - Created at: 2026-03-13T11:48:39Z
 -   **[feat(ovpnrw): connections history from storage if available](https://github.com/NethServer/nethsecurity/pull/1566)** by *m-dilorenzi* - Reviewers: *Tbaile* - Created at: 2026-03-12T15:59:54Z
-- :eyes:  **[feat(ns-don): enhance session management with logging and expiration checks](https://github.com/NethServer/nethsecurity/pull/1554)** by *stephdl* - Reviewers: *None* - Created at: 2026-03-04T16:13:32Z
+-   **[feat(ns-don): enhance session management with logging and expiration checks](https://github.com/NethServer/nethsecurity/pull/1554)** by *stephdl* - Reviewers: *gsanchietti* - Created at: 2026-03-04T16:13:32Z
 -   **[feat(ns-api): add update-timezone script for post-commit processing](https://github.com/NethServer/nethsecurity/pull/1545)** by *m-dilorenzi* - Reviewers: *Tbaile* - Created at: 2026-03-03T09:21:33Z
 - :eyes: :zzz: **[build: added softflowd](https://github.com/NethServer/nethsecurity/pull/1453)** by *Tbaile* - Reviewers: *None* - Created at: 2025-12-10T11:48:14Z
 
@@ -30,14 +27,14 @@ date = 2026-03-27
 
 - :eyes: :zzz: **[chore(master): release 1.5.1](https://github.com/NethServer/phonehome-server/pull/138)** by *Tbaile* - Reviewers: *None* - Created at: 2025-11-15T06:38:38Z
 
-### NethServer/ns8-crowdsec 1 
+### NethServer/ns8-crowdsec 2 
 
+- :eyes:  **[Fix email decision count wording for singular and plural cases](https://github.com/NethServer/ns8-crowdsec/pull/150)** by *stephdl* - Reviewers: *None* - Created at: 2026-03-27T08:42:37Z
 -   **[Fix typo in mail template](https://github.com/NethServer/ns8-crowdsec/pull/149)** by *mrmarkuz* - Reviewers: *stephdl* - Created at: 2026-03-26T09:53:00Z
 
-### NethServer/ns8-docs 2 
+### NethServer/ns8-docs 1 
 
 - :eyes:  **[Add DQS queries to mail outbound connections](https://github.com/NethServer/ns8-docs/pull/225)** by *mrmarkuz* - Reviewers: *None* - Created at: 2026-03-26T08:52:48Z
-- :eyes:  **[feat: release notes milestone 8.8](https://github.com/NethServer/ns8-docs/pull/224)** by *DavidePrincipi* - Reviewers: *None* - Created at: 2026-03-23T15:05:50Z
 
 ### NethServer/nethsecurity-ui 3 
 
@@ -45,11 +42,10 @@ date = 2026-03-27
 -   **[feat(ovpnrw): connections history from storage if available](https://github.com/NethServer/nethsecurity-ui/pull/720)** by *m-dilorenzi* - Reviewers: *Tbaile* - Created at: 2026-03-12T16:01:53Z
 - :eyes:  **[feat(remote-support): add session expiration information and related translations](https://github.com/NethServer/nethsecurity-ui/pull/715)** by *stephdl* - Reviewers: *None* - Created at: 2026-03-06T12:03:34Z
 
-### NethServer/nethsecurity-docs 3 
+### NethServer/nethsecurity-docs 2 
 
 -   **[feat(remote support) Enhance documentation with session management](https://github.com/NethServer/nethsecurity-docs/pull/234)** by *stephdl* - Reviewers: *Tbaile* - Created at: 2026-03-26T08:33:26Z
 -   **[feat: added softflowd doc](https://github.com/NethServer/nethsecurity-docs/pull/227)** by *Tbaile* - Reviewers: *cotosso* - Created at: 2026-03-05T09:29:42Z
-- :eyes: :zzz: **[feat(certificates): add certificates expiration management instructions for OpenVPN](https://github.com/NethServer/nethsecurity-docs/pull/223)** by *m-dilorenzi* - Reviewers: *None* - Created at: 2026-02-10T08:20:18Z
 
 ### NethServer/ns8-user-manager 1 
 
@@ -100,9 +96,8 @@ date = 2026-03-27
 
 - :eyes:  **[fix: avoid toast notification if user is in conference](https://github.com/nethesis/phone-island/pull/197)** by *tonyco97* - Reviewers: *None* - Created at: 2026-03-16T11:03:15Z
 
-### nethesis/ns8-nethvoice-proxy 10 
+### nethesis/ns8-nethvoice-proxy 9 
 
-- :eyes:  **[Force standard port on socket (6060 and 6061) advertise](https://github.com/nethesis/ns8-nethvoice-proxy/pull/160)** by *andrea-marchionni* - Reviewers: *None* - Created at: 2026-03-26T10:03:45Z
 - :eyes:  **[feat: Dynamic port slot binding for multi-trunk support (Vianova)](https://github.com/nethesis/ns8-nethvoice-proxy/pull/158)** by *paolovisintin* - Reviewers: *None* - Created at: 2026-03-24T10:43:30Z
 -  :zzz: **[refactor: remove dead code and unused flags](https://github.com/nethesis/ns8-nethvoice-proxy/pull/148)** by *Amygos* - Reviewers: *paolovisintin* - Created at: 2026-02-23T08:21:43Z
 -  :zzz: **[refactor: remove unused defines from template](https://github.com/nethesis/ns8-nethvoice-proxy/pull/147)** by *Amygos* - Reviewers: *paolovisintin* - Created at: 2026-02-23T08:21:41Z
