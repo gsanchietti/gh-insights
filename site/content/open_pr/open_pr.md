@@ -1,6 +1,6 @@
 +++
 title = 'Open Pull Requests'
-date = 2026-03-28
+date = 2026-03-29
 +++
 
 ## Organization: nethserver
@@ -84,7 +84,7 @@ date = 2026-03-28
 
 ### nethesis/ns8-nethvoice 3 
 
-- :eyes:  **[Use Satellite TTS](https://github.com/nethesis/ns8-nethvoice/pull/707)** by *Stell0* - Reviewers: *None* - Created at: 2026-02-26T11:00:46Z
+- :eyes: :zzz: **[Use Satellite TTS](https://github.com/nethesis/ns8-nethvoice/pull/707)** by *Stell0* - Reviewers: *None* - Created at: 2026-02-26T11:00:46Z
 - :eyes: :zzz: **[feat: transcription and summary](https://github.com/nethesis/ns8-nethvoice/pull/674)** by *tommaso-ascani* - Reviewers: *None* - Created at: 2026-01-28T11:03:32Z
 -  :zzz: **[Matrix integration](https://github.com/nethesis/ns8-nethvoice/pull/627)** by *gsanchietti* - Reviewers: *Amygos* - Created at: 2025-12-10T11:32:50Z
 

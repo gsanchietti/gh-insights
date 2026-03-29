@@ -1,6 +1,6 @@
 +++
 title = 'Open Pull Requests by Bots'
-date = 2026-03-28
+date = 2026-03-29
 +++
 
 ## Organization: nethserver
@@ -126,7 +126,7 @@ date = 2026-03-28
 
 - :eyes:  **[chore(deps): update actions/configure-pages action to v6](https://github.com/NethServer/nethsecurity/pull/1576)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-03-27T21:54:37Z
 - :eyes:  **[chore(deps): update actions/deploy-pages action to v5](https://github.com/NethServer/nethsecurity/pull/1573)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-03-25T21:36:16Z
-- :eyes:  **[chore(deps): update actions/upload-artifact action to v7](https://github.com/NethServer/nethsecurity/pull/1539)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-02-26T20:33:57Z
+- :eyes: :zzz: **[chore(deps): update actions/upload-artifact action to v7](https://github.com/NethServer/nethsecurity/pull/1539)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-02-26T20:33:57Z
 - :eyes: :zzz: **[chore(deps): update debian docker tag to v12.12](https://github.com/NethServer/nethsecurity/pull/1366)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-09-08T21:58:45Z
 - :eyes: :zzz: **[chore(deps): update debian docker tag to v13](https://github.com/NethServer/nethsecurity/pull/1342)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-08-12T22:46:15Z
 
