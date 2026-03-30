@@ -1,6 +1,6 @@
 +++
 title = 'Open Pull Requests'
-date = 2026-03-29
+date = 2026-03-30
 +++
 
 ## Organization: nethserver
@@ -22,6 +22,10 @@ date = 2026-03-29
 -   **[feat(ns-don): enhance session management with logging and expiration checks](https://github.com/NethServer/nethsecurity/pull/1554)** by *stephdl* - Reviewers: *gsanchietti* - Created at: 2026-03-04T16:13:32Z
 -   **[feat(ns-api): add update-timezone script for post-commit processing](https://github.com/NethServer/nethsecurity/pull/1545)** by *m-dilorenzi* - Reviewers: *Tbaile* - Created at: 2026-03-03T09:21:33Z
 - :eyes: :zzz: **[build: added softflowd](https://github.com/NethServer/nethsecurity/pull/1453)** by *Tbaile* - Reviewers: *None* - Created at: 2025-12-10T11:48:14Z
+
+### NethServer/ns8-piler 1 
+
+- :eyes:  **[Add support for NS8 volume management](https://github.com/NethServer/ns8-piler/pull/75)** by *pagaille* - Reviewers: *None* - Created at: 2026-03-29T20:38:17Z
 
 ### NethServer/phonehome-server 1 
 
