@@ -1,15 +1,15 @@
 +++
 title = 'Open Pull Requests'
-date = 2026-03-30
+date = 2026-03-31
 +++
 
 ## Organization: nethserver
 
 ### NethServer/ns8-core 3 
 
+-   **[docs: add NethVoice release procedure addendum](https://github.com/NethServer/ns8-core/pull/1136)** by *Copilot* - Reviewers: *Amygos, gsanchietti* - Created at: 2026-03-30T14:06:18Z
 - :eyes:  **[Add IPv6 validation and translation for errors](https://github.com/NethServer/ns8-core/pull/1135)** by *stephdl* - Reviewers: *None* - Created at: 2026-03-27T10:20:57Z
 - :eyes:  **[feat: new default shell /bin/nologin](https://github.com/NethServer/ns8-core/pull/1129)** by *DavidePrincipi* - Reviewers: *None* - Created at: 2026-03-20T16:43:22Z
--   **[Document the NS8 release process](https://github.com/NethServer/ns8-core/pull/1104)** by *DavidePrincipi* - Reviewers: *gsanchietti* - Created at: 2026-03-05T17:00:50Z
 
 ### NethServer/ns8-traefik 1 
 
@@ -23,18 +23,13 @@ date = 2026-03-30
 -   **[feat(ns-api): add update-timezone script for post-commit processing](https://github.com/NethServer/nethsecurity/pull/1545)** by *m-dilorenzi* - Reviewers: *Tbaile* - Created at: 2026-03-03T09:21:33Z
 - :eyes: :zzz: **[build: added softflowd](https://github.com/NethServer/nethsecurity/pull/1453)** by *Tbaile* - Reviewers: *None* - Created at: 2025-12-10T11:48:14Z
 
-### NethServer/ns8-piler 1 
+### NethServer/ns8-nethsecurity-controller 1 
 
-- :eyes:  **[Add support for NS8 volume management](https://github.com/NethServer/ns8-piler/pull/75)** by *pagaille* - Reviewers: *None* - Created at: 2026-03-29T20:38:17Z
+-   **[perf: removed relabeling for high inode volumes](https://github.com/NethServer/ns8-nethsecurity-controller/pull/200)** by *Tbaile* - Reviewers: *gsanchietti* - Created at: 2026-03-30T08:23:54Z
 
 ### NethServer/phonehome-server 1 
 
 - :eyes: :zzz: **[chore(master): release 1.5.1](https://github.com/NethServer/phonehome-server/pull/138)** by *Tbaile* - Reviewers: *None* - Created at: 2025-11-15T06:38:38Z
-
-### NethServer/ns8-crowdsec 2 
-
-- :eyes:  **[Fix email decision count wording for singular and plural cases](https://github.com/NethServer/ns8-crowdsec/pull/150)** by *stephdl* - Reviewers: *None* - Created at: 2026-03-27T08:42:37Z
--   **[Fix typo in mail template](https://github.com/NethServer/ns8-crowdsec/pull/149)** by *mrmarkuz* - Reviewers: *stephdl* - Created at: 2026-03-26T09:53:00Z
 
 ### NethServer/ns8-docs 1 
 
@@ -86,22 +81,29 @@ date = 2026-03-30
 
 -  :zzz: **[Removed old notification service usage](https://github.com/nethesis/nethcti-app-iphone/pull/37)** by *NicolaMrAPPs* - Reviewers: *b9874e* - Created at: 2023-08-02T09:19:30Z
 
+### nethesis/nethvoice-report 1 
+
+- :eyes:  **[feat: add cookie support for support proxy integration](https://github.com/nethesis/nethvoice-report/pull/209)** by *edospadoni* - Reviewers: *None* - Created at: 2026-03-30T08:57:52Z
+
 ### nethesis/ns8-nethvoice 3 
 
 - :eyes: :zzz: **[Use Satellite TTS](https://github.com/nethesis/ns8-nethvoice/pull/707)** by *Stell0* - Reviewers: *None* - Created at: 2026-02-26T11:00:46Z
 - :eyes: :zzz: **[feat: transcription and summary](https://github.com/nethesis/ns8-nethvoice/pull/674)** by *tommaso-ascani* - Reviewers: *None* - Created at: 2026-01-28T11:03:32Z
 -  :zzz: **[Matrix integration](https://github.com/nethesis/ns8-nethvoice/pull/627)** by *gsanchietti* - Reviewers: *Amygos* - Created at: 2025-12-10T11:32:50Z
 
-### nethesis/nethvoice-cti 1 
+### nethesis/nethvoice-cti 2 
 
+- :eyes:  **[chore(deps): update babel-loader to v10.1.1](https://github.com/nethesis/nethvoice-cti/pull/446)** by *tommaso-ascani* - Reviewers: *None* - Created at: 2026-03-30T16:47:14Z
 - :eyes: :zzz: **[fix: created new drawer for transcription](https://github.com/nethesis/nethvoice-cti/pull/383)** by *tonyco97* - Reviewers: *None* - Created at: 2026-01-21T08:11:32Z
 
-### nethesis/phone-island 1 
+### nethesis/phone-island 2 
 
+- :eyes:  **[feat: add cookie support for support proxy integration](https://github.com/nethesis/phone-island/pull/205)** by *edospadoni* - Reviewers: *None* - Created at: 2026-03-30T08:56:40Z
 - :eyes:  **[fix: avoid toast notification if user is in conference](https://github.com/nethesis/phone-island/pull/197)** by *tonyco97* - Reviewers: *None* - Created at: 2026-03-16T11:03:15Z
 
-### nethesis/ns8-nethvoice-proxy 9 
+### nethesis/ns8-nethvoice-proxy 10 
 
+- :eyes:  **[fix: transport-aware socket selection for LAN clients](https://github.com/nethesis/ns8-nethvoice-proxy/pull/161)** by *paolovisintin* - Reviewers: *None* - Created at: 2026-03-30T17:17:03Z
 - :eyes:  **[feat: Dynamic port slot binding for multi-trunk support (Vianova)](https://github.com/nethesis/ns8-nethvoice-proxy/pull/158)** by *paolovisintin* - Reviewers: *None* - Created at: 2026-03-24T10:43:30Z
 -  :zzz: **[refactor: remove dead code and unused flags](https://github.com/nethesis/ns8-nethvoice-proxy/pull/148)** by *Amygos* - Reviewers: *paolovisintin* - Created at: 2026-02-23T08:21:43Z
 -  :zzz: **[refactor: remove unused defines from template](https://github.com/nethesis/ns8-nethvoice-proxy/pull/147)** by *Amygos* - Reviewers: *paolovisintin* - Created at: 2026-02-23T08:21:41Z
@@ -129,8 +131,9 @@ date = 2026-03-30
 - :eyes:  **[feat(transcription): enhance transcription handling](https://github.com/nethesis/satellite/pull/42)** by *tommaso-ascani* - Reviewers: *None* - Created at: 2026-03-13T18:06:35Z
 -  :zzz: **[Multi-Provider Transcription Support (REST/Batch Path)](https://github.com/nethesis/satellite/pull/31)** by *Amygos* - Reviewers: *Stell0* - Created at: 2026-02-16T09:08:57Z
 
-### nethesis/nethcti-middleware 2 
+### nethesis/nethcti-middleware 3 
 
+- :eyes:  **[feat: add support user authentication for FreePBX CTI APIs](https://github.com/nethesis/nethcti-middleware/pull/42)** by *edospadoni* - Reviewers: *None* - Created at: 2026-03-30T08:59:50Z
 - :eyes: :zzz: **[feat: add transcription support](https://github.com/nethesis/nethcti-middleware/pull/17)** by *tommaso-ascani* - Reviewers: *None* - Created at: 2026-01-26T09:42:11Z
 -  :zzz: **[feat: add GET /chat endpoint](https://github.com/nethesis/nethcti-middleware/pull/16)** by *gsanchietti* - Reviewers: *tommaso-ascani* - Created at: 2025-12-17T10:53:42Z
 
