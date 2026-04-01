@@ -2,13 +2,13 @@
 
 title = 'To be released soon'
 
-date = 2026-03-31
+date = 2026-04-01
 
 +++
 
 ### NethServer
 
-- [Feature: Support for NS8 volume management in ns8-piler](https://github.com/NethServer/dev/issues/7941) (#7792) by stephdl (Created: 2026-03-30T10:08:01Z, Updated: 2026-03-30T15:28:51Z)
+- [Add IPv6 addresses to HTTP routes allow list](https://github.com/NethServer/dev/issues/7932) (#7792) by DavidePrincipi (Created: 2026-03-27T09:32:04Z, Updated: 2026-03-31T13:42:15Z)
 
 - [Offline node not listed and not removable](https://github.com/NethServer/dev/issues/7918) (#7792) by DavidePrincipi (Created: 2026-03-13T07:48:48Z, Updated: 2026-03-24T09:51:20Z)
 
