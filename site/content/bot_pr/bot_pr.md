@@ -1,6 +1,6 @@
 +++
 title = 'Open Pull Requests by Bots'
-date = 2026-04-01
+date = 2026-04-02
 +++
 
 ## Organization: nethserver
@@ -151,7 +151,7 @@ date = 2026-04-01
 
 - :eyes:  **[chore(deps): update dependency core-js to v3.49.0](https://github.com/NethServer/ns8-nethsecurity-controller/pull/195)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-03-16T21:55:54Z
 - :eyes:  **[chore(deps): update dependency sass to v1.98.0](https://github.com/NethServer/ns8-nethsecurity-controller/pull/193)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-03-11T02:41:39Z
-- :eyes:  **[chore(deps): update timescale/timescaledb docker tag to v2.26.1](https://github.com/NethServer/ns8-nethsecurity-controller/pull/186)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-03-02T15:35:09Z
+- :eyes: :zzz: **[chore(deps): update timescale/timescaledb docker tag to v2.26.1](https://github.com/NethServer/ns8-nethsecurity-controller/pull/186)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-03-02T15:35:09Z
 - :eyes: :zzz: **[chore(deps): update python docker tag to v3.14.3](https://github.com/NethServer/ns8-nethsecurity-controller/pull/178)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-02-21T01:33:35Z
 - :eyes: :zzz: **[chore(deps): update node.js to v24.14.1](https://github.com/NethServer/ns8-nethsecurity-controller/pull/174)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-02-17T08:48:49Z
 - :eyes: :zzz: **[chore(deps): update dependency vue-i18n to v8.28.2](https://github.com/NethServer/ns8-nethsecurity-controller/pull/172)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-02-17T02:46:44Z
@@ -184,18 +184,21 @@ date = 2026-04-01
 - :eyes: :zzz: **[chore(deps): update php docker tag to v8.5.4](https://github.com/NethServer/phonehome-server/pull/140)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-11-22T08:25:41Z
 - :eyes: :zzz: **[chore(deps): update actions/checkout action to v6](https://github.com/NethServer/phonehome-server/pull/139)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-11-22T02:25:17Z
 
+### NethServer/ns8-crowdsec 1 
+
+- :eyes:  **[chore(deps): update crowdsecurity/crowdsec docker tag to v1.7.7](https://github.com/NethServer/ns8-crowdsec/pull/153)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-04-01T17:35:15Z
+
 ### NethServer/ns8-ejabberd 1 
 
 - :eyes:  **[chore(deps): update ejabberd/ecs docker tag to v26.03](https://github.com/NethServer/ns8-ejabberd/pull/110)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-03-25T21:00:48Z
 
-### NethServer/nethsecurity-ui 8 
+### NethServer/nethsecurity-ui 7 
 
-- :eyes:  **[chore(deps): lock file maintenance](https://github.com/NethServer/nethsecurity-ui/pull/731)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-04-01T01:55:45Z
+- :eyes:  **[chore(deps): update node.js to v22.22.2](https://github.com/NethServer/nethsecurity-ui/pull/733)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-04-01T08:49:36Z
+- :eyes:  **[chore(deps): replace dependency @tsconfig/node22 with @tsconfig/node24](https://github.com/NethServer/nethsecurity-ui/pull/732)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-04-01T08:49:22Z
 - :eyes:  **[chore(deps): update dependency typescript to v6](https://github.com/NethServer/nethsecurity-ui/pull/730)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-03-24T14:17:57Z
 - :eyes:  **[chore(deps): update dependency vite to v8](https://github.com/NethServer/nethsecurity-ui/pull/721)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-03-12T18:43:46Z
-- :eyes:  **[chore: translations update from Hosted Weblate](https://github.com/NethServer/nethsecurity-ui/pull/714)** by *weblate* - Reviewers: *None* - Created at: 2026-03-06T11:35:16Z
-- :eyes: :zzz: **[chore(deps): update node.js to v24.14.1](https://github.com/NethServer/nethsecurity-ui/pull/706)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-02-24T18:09:28Z
-- :eyes: :zzz: **[fix(deps): update dependency vue-router to v5](https://github.com/NethServer/nethsecurity-ui/pull/684)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-01-29T21:09:23Z
+- :eyes: :zzz: **[chore(deps): update node.js to v24](https://github.com/NethServer/nethsecurity-ui/pull/706)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-02-24T18:09:28Z
 - :eyes: :zzz: **[fix(deps): update font awesome to v7 (major)](https://github.com/NethServer/nethsecurity-ui/pull/674)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-01-16T18:31:59Z
 - :eyes: :zzz: **[fix(deps): update dependency @xterm/xterm to v6](https://github.com/NethServer/nethsecurity-ui/pull/673)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-01-16T12:44:22Z
 

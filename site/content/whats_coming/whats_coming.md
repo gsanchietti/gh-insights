@@ -2,7 +2,7 @@
 
 title = 'To be released soon'
 
-date = 2026-04-01
+date = 2026-04-02
 
 +++
 
@@ -17,10 +17,6 @@ date = 2026-04-01
 - [WebTop: request to remove webtop-tmceplugins.jar](https://github.com/NethServer/dev/issues/7792) (#7792) by lucagasparini (Created: 2025-12-16T14:24:32Z, Updated: 2026-03-23T13:26:32Z)
 
 ### NethVoice
-
-- [Snom line keys (BLF) not applied due to Twig regex check in snom.tmpl](https://github.com/NethServer/dev/issues/7931) (#7792) by Stell0 (Created: 2026-03-26T07:31:48Z, Updated: 2026-03-30T15:38:23Z)
-
-- [No audio on encrypted calls (TLS/SRTP) with Yealink T54W firmware 96.87.0.15](https://github.com/NethServer/dev/issues/7930) (#7792) by viktec (Created: 2026-03-25T09:23:08Z, Updated: 2026-03-30T15:38:21Z)
 
 - [NethVoice: add new Ringtone: mute tone](https://github.com/NethServer/dev/issues/7880) (#7792) by tonyco97 (Created: 2026-02-18T13:20:09Z, Updated: 2026-03-05T15:51:36Z)
 
@@ -39,4 +35,8 @@ date = 2026-04-01
 - [Phone Island: Missing “Cancel transfer” button and inconsistent call transfer behavior when using provisioned phone](https://github.com/NethServer/dev/issues/7830) (#7792) by viktec (Created: 2026-01-21T13:44:17Z, Updated: 2026-03-09T10:07:25Z)
 
 - [Design: Simplify “NethVoice Proxy” step for second NethVoice instance](https://github.com/NethServer/dev/issues/7828) (#7792) by AmaLuci (Created: 2026-01-20T16:39:06Z, Updated: 2026-02-09T12:07:15Z)
+
+### NethSecurity
+
+- [Improve Security of Remote Support Sessions](https://github.com/NethServer/nethsecurity/issues/1542) (#1542) by gsanchietti (Created: 2026-03-02T13:10:42Z, Updated: 2026-04-01T16:09:55Z)
 

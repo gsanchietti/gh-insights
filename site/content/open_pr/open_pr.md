@@ -1,15 +1,24 @@
 +++
 title = 'Open Pull Requests'
-date = 2026-04-01
+date = 2026-04-02
 +++
 
 ## Organization: nethserver
 
-### NethServer/ns8-core 3 
+### NethServer/ns8-core 4 
 
--   **[Fix next button logic in restore modal](https://github.com/NethServer/ns8-core/pull/1137)** by *stephdl* - Reviewers: *DavidePrincipi* - Created at: 2026-03-31T07:48:30Z
+- :eyes:  **[Add 'restore-module' action to cancel notification logic](https://github.com/NethServer/ns8-core/pull/1139)** by *stephdl* - Reviewers: *None* - Created at: 2026-04-01T08:01:05Z
+-   **[Fix next button logic in restore modal](https://github.com/NethServer/ns8-core/pull/1137)** by *stephdl* - Reviewers: *andre8244* - Created at: 2026-03-31T07:48:30Z
 -   **[docs: add NethVoice release procedure addendum](https://github.com/NethServer/ns8-core/pull/1136)** by *Copilot* - Reviewers: *Amygos* - Created at: 2026-03-30T14:06:18Z
 - :eyes:  **[feat: new default shell /bin/nologin](https://github.com/NethServer/ns8-core/pull/1129)** by *DavidePrincipi* - Reviewers: *None* - Created at: 2026-03-20T16:43:22Z
+
+### NethServer/ns8-nextcloud 1 
+
+-   **[Update minimum version label from 1.5.0 to 1.6.0](https://github.com/NethServer/ns8-nextcloud/pull/204)** by *mrmarkuz* - Reviewers: *DavidePrincipi* - Created at: 2026-04-01T14:42:09Z
+
+### NethServer/ns8-samba 1 
+
+-   **[fix: backup/restore of samba_audit DB](https://github.com/NethServer/ns8-samba/pull/193)** by *DavidePrincipi* - Reviewers: *Tbaile* - Created at: 2026-04-01T16:42:18Z
 
 ### NethServer/ns8-traefik 1 
 
@@ -17,8 +26,8 @@ date = 2026-04-01
 
 ### NethServer/nethsecurity 6 
 
--   **[fix(flashstart): proplus fixes](https://github.com/NethServer/nethsecurity/pull/1578)** by *Tbaile* - Reviewers: *gsanchietti* - Created at: 2026-03-31T14:29:21Z
-- :eyes:  **[feat: add ns-clm (Cloud Log Manager)](https://github.com/NethServer/nethsecurity/pull/1577)** by *gsanchietti* - Reviewers: *None* - Created at: 2026-03-31T09:56:30Z
+- :eyes:  **[fix(flashstart): proplus fixes](https://github.com/NethServer/nethsecurity/pull/1578)** by *Tbaile* - Reviewers: *None* - Created at: 2026-03-31T14:29:21Z
+-   **[feat: add ns-clm (Cloud Log Manager)](https://github.com/NethServer/nethsecurity/pull/1577)** by *gsanchietti* - Reviewers: *Tbaile* - Created at: 2026-03-31T09:56:30Z
 -   **[fix(ns-ipsec): synchronize disabled state for existing routes in edit tunnel API](https://github.com/NethServer/nethsecurity/pull/1567)** by *m-dilorenzi* - Reviewers: *Tbaile* - Created at: 2026-03-13T11:48:39Z
 -   **[feat(ovpnrw): connections history from storage if available](https://github.com/NethServer/nethsecurity/pull/1566)** by *m-dilorenzi* - Reviewers: *Tbaile* - Created at: 2026-03-12T15:59:54Z
 -   **[feat(ns-api): add update-timezone script for post-commit processing](https://github.com/NethServer/nethsecurity/pull/1545)** by *m-dilorenzi* - Reviewers: *Tbaile* - Created at: 2026-03-03T09:21:33Z
@@ -40,19 +49,23 @@ date = 2026-04-01
 
 - :eyes: :zzz: **[chore(master): release 1.5.1](https://github.com/NethServer/phonehome-server/pull/138)** by *Tbaile* - Reviewers: *None* - Created at: 2025-11-15T06:38:38Z
 
+### NethServer/ns8-crowdsec 1 
+
+- :eyes:  **[feat: add crowdsec to metrics](https://github.com/NethServer/ns8-crowdsec/pull/152)** by *mrmarkuz* - Reviewers: *None* - Created at: 2026-04-01T08:58:00Z
+
 ### NethServer/ns8-docs 1 
 
 - :eyes:  **[Add DQS queries to mail outbound connections](https://github.com/NethServer/ns8-docs/pull/225)** by *mrmarkuz* - Reviewers: *None* - Created at: 2026-03-26T08:52:48Z
 
-### NethServer/nethsecurity-ui 3 
+### NethServer/nethsecurity-ui 2 
 
 -   **[feat(ipsec-tunnels): enhance table structure and add sorting functionality](https://github.com/NethServer/nethsecurity-ui/pull/728)** by *m-dilorenzi* - Reviewers: *Tbaile* - Created at: 2026-03-19T14:31:41Z
 -   **[feat(ovpnrw): connections history from storage if available](https://github.com/NethServer/nethsecurity-ui/pull/720)** by *m-dilorenzi* - Reviewers: *Tbaile* - Created at: 2026-03-12T16:01:53Z
-- :eyes:  **[feat(remote-support): add session expiration information and related translations](https://github.com/NethServer/nethsecurity-ui/pull/715)** by *stephdl* - Reviewers: *None* - Created at: 2026-03-06T12:03:34Z
 
-### NethServer/nethsecurity-docs 3 
+### NethServer/nethsecurity-docs 4 
 
-- :eyes:  **[feat(logs): add CLM](https://github.com/NethServer/nethsecurity-docs/pull/238)** by *gsanchietti* - Reviewers: *None* - Created at: 2026-03-31T12:56:55Z
+-   **[feat: added hyperscan documentation](https://github.com/NethServer/nethsecurity-docs/pull/239)** by *Tbaile* - Reviewers: *filippocarletti, cotosso* - Created at: 2026-04-01T12:56:52Z
+-   **[feat(logs): add CLM](https://github.com/NethServer/nethsecurity-docs/pull/238)** by *gsanchietti* - Reviewers: *Tbaile* - Created at: 2026-03-31T12:56:55Z
 -   **[feat(remote support) Enhance documentation with session management](https://github.com/NethServer/nethsecurity-docs/pull/234)** by *stephdl* - Reviewers: *Tbaile* - Created at: 2026-03-26T08:33:26Z
 -   **[feat: added softflowd doc](https://github.com/NethServer/nethsecurity-docs/pull/227)** by *Tbaile* - Reviewers: *cotosso* - Created at: 2026-03-05T09:29:42Z
 
@@ -107,14 +120,14 @@ date = 2026-04-01
 
 - :eyes: :zzz: **[fix: created new drawer for transcription](https://github.com/nethesis/nethvoice-cti/pull/383)** by *tonyco97* - Reviewers: *None* - Created at: 2026-01-21T08:11:32Z
 
-### nethesis/phone-island 2 
+### nethesis/phone-island 3 
 
 - :eyes:  **[feat: add cookie support for support proxy integration](https://github.com/nethesis/phone-island/pull/205)** by *edospadoni* - Reviewers: *None* - Created at: 2026-03-30T08:56:40Z
+- :eyes:  **[fix: avoid informations update if user is already in call](https://github.com/nethesis/phone-island/pull/204)** by *tonyco97* - Reviewers: *None* - Created at: 2026-03-27T09:31:44Z
 - :eyes:  **[fix: avoid toast notification if user is in conference](https://github.com/nethesis/phone-island/pull/197)** by *tonyco97* - Reviewers: *None* - Created at: 2026-03-16T11:03:15Z
 
-### nethesis/ns8-nethvoice-proxy 10 
+### nethesis/ns8-nethvoice-proxy 9 
 
--   **[Addressing PR comments](https://github.com/nethesis/ns8-nethvoice-proxy/pull/161)** by *paolovisintin* - Reviewers: *Amygos* - Created at: 2026-03-30T17:17:03Z
 - :eyes:  **[feat: Dynamic port slot binding for multi-trunk support (Vianova)](https://github.com/nethesis/ns8-nethvoice-proxy/pull/158)** by *paolovisintin* - Reviewers: *None* - Created at: 2026-03-24T10:43:30Z
 -  :zzz: **[refactor: remove dead code and unused flags](https://github.com/nethesis/ns8-nethvoice-proxy/pull/148)** by *Amygos* - Reviewers: *paolovisintin* - Created at: 2026-02-23T08:21:43Z
 -  :zzz: **[refactor: remove unused defines from template](https://github.com/nethesis/ns8-nethvoice-proxy/pull/147)** by *Amygos* - Reviewers: *paolovisintin* - Created at: 2026-02-23T08:21:41Z
