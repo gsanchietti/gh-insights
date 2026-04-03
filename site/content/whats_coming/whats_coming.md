@@ -2,21 +2,13 @@
 
 title = 'To be released soon'
 
-date = 2026-04-02
+date = 2026-04-03
 
 +++
 
-### NethServer
-
-- [Add IPv6 addresses to HTTP routes allow list](https://github.com/NethServer/dev/issues/7932) (#7792) by DavidePrincipi (Created: 2026-03-27T09:32:04Z, Updated: 2026-03-31T13:42:15Z)
-
-- [Offline node not listed and not removable](https://github.com/NethServer/dev/issues/7918) (#7792) by DavidePrincipi (Created: 2026-03-13T07:48:48Z, Updated: 2026-03-24T09:51:20Z)
-
-- [Change WebTop OTP field type to avoid browser password update](https://github.com/NethServer/dev/issues/7845) (#7792) by federicoballarini (Created: 2026-02-01T14:43:18Z, Updated: 2026-03-20T18:07:29Z)
-
-- [WebTop: request to remove webtop-tmceplugins.jar](https://github.com/NethServer/dev/issues/7792) (#7792) by lucagasparini (Created: 2025-12-16T14:24:32Z, Updated: 2026-03-23T13:26:32Z)
-
 ### NethVoice
+
+- [Grandstream FXS: new “cleartext” extensions saved with rest_devices_phones.srtp = NULL instead of 0](https://github.com/NethServer/dev/issues/7953) (#7792) by Stell0 (Created: 2026-03-31T15:38:41Z, Updated: 2026-04-02T08:54:17Z)
 
 - [NethVoice: add new Ringtone: mute tone](https://github.com/NethServer/dev/issues/7880) (#7792) by tonyco97 (Created: 2026-02-18T13:20:09Z, Updated: 2026-03-05T15:51:36Z)
 
@@ -36,7 +28,13 @@ date = 2026-04-02
 
 - [Design: Simplify “NethVoice Proxy” step for second NethVoice instance](https://github.com/NethServer/dev/issues/7828) (#7792) by AmaLuci (Created: 2026-01-20T16:39:06Z, Updated: 2026-02-09T12:07:15Z)
 
-### NethSecurity
+### NethServer
 
-- [Improve Security of Remote Support Sessions](https://github.com/NethServer/nethsecurity/issues/1542) (#1542) by gsanchietti (Created: 2026-03-02T13:10:42Z, Updated: 2026-04-01T16:09:55Z)
+- [Add IPv6 addresses to HTTP routes allow list](https://github.com/NethServer/dev/issues/7932) (#7792) by DavidePrincipi (Created: 2026-03-27T09:32:04Z, Updated: 2026-03-31T13:42:15Z)
+
+- [Offline node not listed and not removable](https://github.com/NethServer/dev/issues/7918) (#7792) by DavidePrincipi (Created: 2026-03-13T07:48:48Z, Updated: 2026-03-24T09:51:20Z)
+
+- [Change WebTop OTP field type to avoid browser password update](https://github.com/NethServer/dev/issues/7845) (#7792) by federicoballarini (Created: 2026-02-01T14:43:18Z, Updated: 2026-03-20T18:07:29Z)
+
+- [WebTop: request to remove webtop-tmceplugins.jar](https://github.com/NethServer/dev/issues/7792) (#7792) by lucagasparini (Created: 2025-12-16T14:24:32Z, Updated: 2026-03-23T13:26:32Z)
 
