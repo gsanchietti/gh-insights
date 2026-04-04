@@ -2,7 +2,7 @@
 
 title = 'To be released soon'
 
-date = 2026-04-03
+date = 2026-04-04
 
 +++
 
@@ -29,10 +29,6 @@ date = 2026-04-03
 - [Design: Simplify “NethVoice Proxy” step for second NethVoice instance](https://github.com/NethServer/dev/issues/7828) (#7792) by AmaLuci (Created: 2026-01-20T16:39:06Z, Updated: 2026-02-09T12:07:15Z)
 
 ### NethServer
-
-- [Add IPv6 addresses to HTTP routes allow list](https://github.com/NethServer/dev/issues/7932) (#7792) by DavidePrincipi (Created: 2026-03-27T09:32:04Z, Updated: 2026-03-31T13:42:15Z)
-
-- [Offline node not listed and not removable](https://github.com/NethServer/dev/issues/7918) (#7792) by DavidePrincipi (Created: 2026-03-13T07:48:48Z, Updated: 2026-03-24T09:51:20Z)
 
 - [Change WebTop OTP field type to avoid browser password update](https://github.com/NethServer/dev/issues/7845) (#7792) by federicoballarini (Created: 2026-02-01T14:43:18Z, Updated: 2026-03-20T18:07:29Z)
 
