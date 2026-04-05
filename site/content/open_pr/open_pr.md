@@ -1,6 +1,6 @@
 +++
 title = 'Open Pull Requests'
-date = 2026-04-04
+date = 2026-04-05
 +++
 
 ## Organization: nethserver
@@ -60,7 +60,7 @@ date = 2026-04-04
 
 -   **[feat: add DoH tutorial](https://github.com/NethServer/nethsecurity-docs/pull/241)** by *gsanchietti* - Reviewers: *cotosso, Tbaile* - Created at: 2026-04-03T12:26:12Z
 -   **[feat(logs): add CLM](https://github.com/NethServer/nethsecurity-docs/pull/238)** by *gsanchietti* - Reviewers: *Tbaile* - Created at: 2026-03-31T12:56:55Z
--   **[feat: added softflowd doc](https://github.com/NethServer/nethsecurity-docs/pull/227)** by *Tbaile* - Reviewers: *cotosso* - Created at: 2026-03-05T09:29:42Z
+-  :zzz: **[feat: added softflowd doc](https://github.com/NethServer/nethsecurity-docs/pull/227)** by *Tbaile* - Reviewers: *cotosso* - Created at: 2026-03-05T09:29:42Z
 
 ### NethServer/ns8-user-manager 1 
 
