@@ -2,13 +2,15 @@
 
 title = 'To be released soon'
 
-date = 2026-04-07
+date = 2026-04-08
 
 +++
 
 ### NethVoice
 
 - [Grandstream FXS: new “cleartext” extensions saved with rest_devices_phones.srtp = NULL instead of 0](https://github.com/NethServer/dev/issues/7953) (#7792) by Stell0 (Created: 2026-03-31T15:38:41Z, Updated: 2026-04-02T08:54:17Z)
+
+- [NethLink: Phone Island position shifts on multi-monitor setups with mixed scaling on Windows](https://github.com/NethServer/dev/issues/7951) (#7792) by tonyco97 (Created: 2026-03-31T10:18:54Z, Updated: 2026-04-07T09:35:17Z)
 
 - [NethVoice: add new Ringtone: mute tone](https://github.com/NethServer/dev/issues/7880) (#7792) by tonyco97 (Created: 2026-02-18T13:20:09Z, Updated: 2026-03-05T15:51:36Z)
 
@@ -32,5 +34,11 @@ date = 2026-04-07
 
 - [Change WebTop OTP field type to avoid browser password update](https://github.com/NethServer/dev/issues/7845) (#7792) by federicoballarini (Created: 2026-02-01T14:43:18Z, Updated: 2026-03-20T18:07:29Z)
 
-- [WebTop: request to remove webtop-tmceplugins.jar](https://github.com/NethServer/dev/issues/7792) (#7792) by lucagasparini (Created: 2025-12-16T14:24:32Z, Updated: 2026-03-23T13:26:32Z)
+- [WebTop: request to remove webtop-tmceplugins.jar](https://github.com/NethServer/dev/issues/7792) (#7792) by lucagasparini (Created: 2025-12-16T14:24:32Z, Updated: 2026-04-07T12:07:17Z)
+
+### NethSecurity
+
+- [flashstart: ipsets ranges not added and bypasses not working correctly](https://github.com/NethServer/nethsecurity/issues/1579) (#1454) by Tbaile (Created: 2026-03-31T14:41:07Z, Updated: 2026-04-07T12:23:37Z)
+
+- [Timezone is not applied](https://github.com/NethServer/nethsecurity/issues/1454) (#1454) by mrmarkuz (Created: 2025-12-11T08:52:46Z, Updated: 2026-04-07T08:22:26Z)
 
