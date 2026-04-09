@@ -1,6 +1,6 @@
 +++
 title = 'Open Pull Requests'
-date = 2026-04-08
+date = 2026-04-09
 +++
 
 ## Organization: nethserver
@@ -18,10 +18,11 @@ date = 2026-04-08
 
 - :eyes: :zzz: **[fix: cryptography 45 deprecation warning](https://github.com/NethServer/ns8-traefik/pull/120)** by *DavidePrincipi* - Reviewers: *None* - Created at: 2025-10-28T08:48:29Z
 
-### NethServer/nethsecurity 4 
+### NethServer/nethsecurity 5 
 
+-   **[fix(ns-dpi): updated crontab entries for dpi updates](https://github.com/NethServer/nethsecurity/pull/1588)** by *Tbaile* - Reviewers: *gsanchietti* - Created at: 2026-04-08T14:46:55Z
 -   **[feat: add ns-clm (Cloud Log Manager)](https://github.com/NethServer/nethsecurity/pull/1577)** by *gsanchietti* - Reviewers: *Tbaile* - Created at: 2026-03-31T09:56:30Z
-- :eyes:  **[feat(ovpnrw): connections history from storage if available](https://github.com/NethServer/nethsecurity/pull/1566)** by *m-dilorenzi* - Reviewers: *None* - Created at: 2026-03-12T15:59:54Z
+-   **[feat(ovpnrw): connections history from storage if available](https://github.com/NethServer/nethsecurity/pull/1566)** by *m-dilorenzi* - Reviewers: *Tbaile* - Created at: 2026-03-12T15:59:54Z
 -  :zzz: **[feat: add checkmk custom agent](https://github.com/NethServer/nethsecurity/pull/1511)** by *gsanchietti* - Reviewers: *Tbaile* - Created at: 2026-02-10T11:06:05Z
 - :eyes: :zzz: **[build: added softflowd](https://github.com/NethServer/nethsecurity/pull/1453)** by *Tbaile* - Reviewers: *None* - Created at: 2025-12-10T11:48:14Z
 
@@ -66,6 +67,16 @@ date = 2026-04-08
 ### NethServer/ns8-user-manager 1 
 
 - :eyes: :zzz: **[chore(main): release 1.2.5](https://github.com/NethServer/ns8-user-manager/pull/134)** by *Tbaile* - Reviewers: *None* - Created at: 2025-10-06T20:38:53Z
+
+### NethServer/ns8-sogo 2 
+
+- :eyes:  **[Update Sogo version to debian-trixie](https://github.com/NethServer/ns8-sogo/pull/81)** by *stephdl* - Reviewers: *None* - Created at: 2026-04-08T16:14:37Z
+- :eyes:  **[Update SOGo version to build from sources](https://github.com/NethServer/ns8-sogo/pull/80)** by *stephdl* - Reviewers: *None* - Created at: 2026-04-08T13:20:08Z
+
+### NethServer/sogo-server 2 
+
+- :eyes:  **[Port build to Debian Trixie with multi-stage buildah](https://github.com/NethServer/sogo-server/pull/12)** by *stephdl* - Reviewers: *None* - Created at: 2026-04-08T16:10:49Z
+-   **[Build SOGo and SOPE directly from official sources instead of AUR](https://github.com/NethServer/sogo-server/pull/11)** by *stephdl* - Reviewers: *DavidePrincipi* - Created at: 2026-04-08T13:17:21Z
 
 ### NethServer/nethlink 3 
 
