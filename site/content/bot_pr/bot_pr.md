@@ -1,6 +1,6 @@
 +++
 title = 'Open Pull Requests by Bots'
-date = 2026-04-11
+date = 2026-04-12
 +++
 
 ## Organization: nethserver
@@ -152,7 +152,7 @@ date = 2026-04-11
 
 - :eyes:  **[chore(deps): update node.js to v24.14.1](https://github.com/NethServer/ns8-user-manager/pull/165)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-04-07T01:27:26Z
 - :eyes:  **[chore(deps): update dependency typescript to v6](https://github.com/NethServer/ns8-user-manager/pull/162)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-03-23T18:32:01Z
-- :eyes:  **[chore(deps): update dependency vite to v8](https://github.com/NethServer/ns8-user-manager/pull/161)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-03-12T19:06:51Z
+- :eyes: :zzz: **[chore(deps): update dependency vite to v8](https://github.com/NethServer/ns8-user-manager/pull/161)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-03-12T19:06:51Z
 - :eyes: :zzz: **[chore(deps): update eslint monorepo to v10 (major)](https://github.com/NethServer/ns8-user-manager/pull/148)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-02-09T08:27:33Z
 - :eyes: :zzz: **[chore(deps): update dependency @fortawesome/fontawesome-svg-core to v7](https://github.com/NethServer/ns8-user-manager/pull/106)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-07-22T19:44:03Z
 
@@ -247,6 +247,10 @@ date = 2026-04-11
 
 - :eyes:  **[chore(deps): bump addressable from 2.8.1 to 2.9.0 in /docs](https://github.com/nethesis/tancredi/pull/368)** by *dependabot[bot]* - Reviewers: *None* - Created at: 2026-04-08T09:06:00Z
 
+### nethesis/falconieri 1 
+
+- :eyes:  **[chore(deps): update softprops/action-gh-release action to v3](https://github.com/nethesis/falconieri/pull/54)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-04-12T05:43:35Z
+
 ### nethesis/nethserver-tancredi 1 
 
 -  :zzz: **[Bump tancredi version](https://github.com/nethesis/nethserver-tancredi/pull/156)** by *nethbot* - Reviewers: *Stell0, andrea-marchionni* - Created at: 2025-12-04T14:52:21Z
@@ -266,11 +270,11 @@ date = 2026-04-11
 
 ### nethesis/ns8-nethvoice 10 
 
-- :eyes:  **[chore(deps): update docker.io/library/nginx docker tag to v1.29.8](https://github.com/nethesis/ns8-nethvoice/pull/767)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-04-11T04:32:03Z
-- :eyes:  **[chore(deps): update docker.io/library/golang docker tag to v1.19.13](https://github.com/nethesis/ns8-nethvoice/pull/766)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-04-11T00:44:24Z
-- :eyes:  **[chore(deps): update docker.io/library/alpine docker tag to v3.17.10](https://github.com/nethesis/ns8-nethvoice/pull/765)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-04-10T20:59:16Z
-- :eyes:  **[chore(deps): update docker.io/debian docker tag to bullseye-20260406](https://github.com/nethesis/ns8-nethvoice/pull/764)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-04-10T17:46:53Z
-- :eyes:  **[chore(deps): update dependency vue-router to v3.5.4](https://github.com/nethesis/ns8-nethvoice/pull/763)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-04-10T14:15:40Z
+- :eyes:  **[chore(deps): update dependency @carbon/vue to v2.45.1](https://github.com/nethesis/ns8-nethvoice/pull/773)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-04-12T05:48:17Z
+- :eyes:  **[chore(deps): update dependency @carbon/icons-vue to v10.99.1](https://github.com/nethesis/ns8-nethvoice/pull/772)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-04-12T00:27:03Z
+- :eyes:  **[fix(deps): update dependency ldapjs to v2.3.3](https://github.com/nethesis/ns8-nethvoice/pull/771)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-04-11T21:52:04Z
+- :eyes:  **[fix(deps): update dependency angular-ui-sortable to v0.0.1](https://github.com/nethesis/ns8-nethvoice/pull/770)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-04-11T17:18:36Z
+- :eyes:  **[chore(deps): update mariadb docker tag to v10.11.16](https://github.com/nethesis/ns8-nethvoice/pull/768)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-04-11T09:21:44Z
 -   **[chore(deps): update dependency generate-password-lite to v1.0.2](https://github.com/nethesis/ns8-nethvoice/pull/756)** by *renovate[bot]* - Reviewers: *andre8244* - Created at: 2026-04-09T15:30:34Z
 -   **[fix(deps): update dependency axios to v1 [security]](https://github.com/nethesis/ns8-nethvoice/pull/753)** by *renovate[bot]* - Reviewers: *andre8244* - Created at: 2026-04-08T21:03:35Z
 - :eyes:  **[chore(deps): replace dependency babel-eslint with @babel/eslint-parser ^7.11.0](https://github.com/nethesis/ns8-nethvoice/pull/741)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-03-27T10:17:05Z
@@ -285,7 +289,7 @@ date = 2026-04-11
 
 - :eyes:  **[chore(deps): update dependency vite to v6.4.2 [security]](https://github.com/nethesis/vue-components/pull/138)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-04-06T21:11:44Z
 - :eyes:  **[chore(deps): update dependency lodash-es to v4.18.1 [security]](https://github.com/nethesis/vue-components/pull/136)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-04-02T08:34:32Z
-- :eyes:  **[chore(deps): update node.js to v22.22.2](https://github.com/nethesis/vue-components/pull/135)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-03-12T18:45:12Z
+- :eyes: :zzz: **[chore(deps): update node.js to v22.22.2](https://github.com/nethesis/vue-components/pull/135)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-03-12T18:45:12Z
 - :eyes: :zzz: **[chore(deps): update node.js to v22.22.2](https://github.com/nethesis/vue-components/pull/134)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-03-09T21:21:51Z
 - :eyes: :zzz: **[chore(deps): update dependency eslint to v10](https://github.com/nethesis/vue-components/pull/126)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-02-11T07:52:23Z
 - :eyes: :zzz: **[chore(deps): update js-devtools/npm-publish action to v4](https://github.com/nethesis/vue-components/pull/125)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-02-05T08:25:56Z
