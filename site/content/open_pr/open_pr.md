@@ -1,6 +1,6 @@
 +++
 title = 'Open Pull Requests'
-date = 2026-04-12
+date = 2026-04-13
 +++
 
 ## Organization: nethserver
@@ -73,7 +73,7 @@ date = 2026-04-12
 
 - :eyes:  **[Show all phone numbers for contacts in Command Bar search](https://github.com/NethServer/nethlink/pull/126)** by *edospadoni* - Reviewers: *None* - Created at: 2026-04-09T12:32:29Z
 - :eyes:  **[fix: avoid wrong name on second call](https://github.com/NethServer/nethlink/pull/119)** by *tonyco97* - Reviewers: *None* - Created at: 2026-04-02T12:23:52Z
-- :eyes:  **[feat: added transcription for NethLink](https://github.com/NethServer/nethlink/pull/104)** by *tonyco97* - Reviewers: *None* - Created at: 2026-03-13T09:29:26Z
+- :eyes: :zzz: **[feat: added transcription for NethLink](https://github.com/NethServer/nethlink/pull/104)** by *tonyco97* - Reviewers: *None* - Created at: 2026-03-13T09:29:26Z
 - :eyes: :zzz: **[fix(unhold): write logs to debug unhold mute audio](https://github.com/NethServer/nethlink/pull/103)** by *edospadoni* - Reviewers: *None* - Created at: 2026-03-10T10:04:44Z
 
 ### NethServer/my 2 
