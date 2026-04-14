@@ -1,6 +1,6 @@
 +++
 title = 'Open Pull Requests'
-date = 2026-04-13
+date = 2026-04-14
 +++
 
 ## Organization: nethserver
@@ -11,10 +11,6 @@ date = 2026-04-13
 -   **[docs: add NethVoice release procedure addendum](https://github.com/NethServer/ns8-core/pull/1136)** by *Copilot* - Reviewers: *Amygos* - Created at: 2026-03-30T14:06:18Z
 - :eyes:  **[feat: new default shell /bin/nologin](https://github.com/NethServer/ns8-core/pull/1129)** by *DavidePrincipi* - Reviewers: *None* - Created at: 2026-03-20T16:43:22Z
 
-### NethServer/ns8-webserver 1 
-
-- :eyes:  **[perf: parallelize PHP FPM/node image builds](https://github.com/NethServer/ns8-webserver/pull/159)** by *stephdl* - Reviewers: *None* - Created at: 2026-04-09T12:27:12Z
-
 ### NethServer/ns8-nextcloud 1 
 
 - :eyes:  **[Update minimum version label from 1.5.0 to 1.6.0](https://github.com/NethServer/ns8-nextcloud/pull/204)** by *mrmarkuz* - Reviewers: *None* - Created at: 2026-04-01T14:42:09Z
@@ -23,8 +19,9 @@ date = 2026-04-13
 
 - :eyes: :zzz: **[fix: cryptography 45 deprecation warning](https://github.com/NethServer/ns8-traefik/pull/120)** by *DavidePrincipi* - Reviewers: *None* - Created at: 2025-10-28T08:48:29Z
 
-### NethServer/nethsecurity 4 
+### NethServer/nethsecurity 5 
 
+- :eyes:  **[fix(flashstart): avoiding bypass redirect, removing from ipsets](https://github.com/NethServer/nethsecurity/pull/1592)** by *Tbaile* - Reviewers: *None* - Created at: 2026-04-13T15:35:49Z
 -   **[feat: add ns-clm (Cloud Log Manager)](https://github.com/NethServer/nethsecurity/pull/1577)** by *gsanchietti* - Reviewers: *Tbaile* - Created at: 2026-03-31T09:56:30Z
 -  :zzz: **[feat(ovpnrw): connections history from storage if available](https://github.com/NethServer/nethsecurity/pull/1566)** by *m-dilorenzi* - Reviewers: *Tbaile* - Created at: 2026-03-12T15:59:54Z
 -  :zzz: **[feat: add checkmk custom agent](https://github.com/NethServer/nethsecurity/pull/1511)** by *gsanchietti* - Reviewers: *Tbaile* - Created at: 2026-02-10T11:06:05Z
@@ -69,8 +66,9 @@ date = 2026-04-13
 
 - :eyes: :zzz: **[chore(main): release 1.2.5](https://github.com/NethServer/ns8-user-manager/pull/134)** by *Tbaile* - Reviewers: *None* - Created at: 2025-10-06T20:38:53Z
 
-### NethServer/nethlink 4 
+### NethServer/nethlink 5 
 
+- :eyes:  **[fix: added missing queue information on call answer](https://github.com/NethServer/nethlink/pull/127)** by *tonyco97* - Reviewers: *None* - Created at: 2026-04-13T14:51:28Z
 - :eyes:  **[Show all phone numbers for contacts in Command Bar search](https://github.com/NethServer/nethlink/pull/126)** by *edospadoni* - Reviewers: *None* - Created at: 2026-04-09T12:32:29Z
 - :eyes:  **[fix: avoid wrong name on second call](https://github.com/NethServer/nethlink/pull/119)** by *tonyco97* - Reviewers: *None* - Created at: 2026-04-02T12:23:52Z
 - :eyes: :zzz: **[feat: added transcription for NethLink](https://github.com/NethServer/nethlink/pull/104)** by *tonyco97* - Reviewers: *None* - Created at: 2026-03-13T09:29:26Z
@@ -80,6 +78,11 @@ date = 2026-04-13
 
 - :eyes: :zzz: **[feat(support): add support service with WebSockets and Yamux](https://github.com/NethServer/my/pull/47)** by *edospadoni* - Reviewers: *None* - Created at: 2026-03-10T08:00:00Z
 -  :zzz: **[Mimir integration](https://github.com/NethServer/my/pull/42)** by *gsanchietti* - Reviewers: *edospadoni* - Created at: 2026-02-20T10:53:30Z
+
+### NethServer/nethvoice-docs 2 
+
+-   **[feat: enhance documentation for AI call transcription and summary](https://github.com/NethServer/nethvoice-docs/pull/44)** by *tommaso-ascani* - Reviewers: *gsanchietti* - Created at: 2026-04-13T13:38:04Z
+- :eyes:  **[Add vtenext CRM integration](https://github.com/NethServer/nethvoice-docs/pull/43)** by *a-ghigi* - Reviewers: *None* - Created at: 2026-04-13T07:30:42Z
 
 ## Organization: nethesis
 
@@ -117,6 +120,10 @@ date = 2026-04-13
 ### nethesis/nethvoice-cti 1 
 
 - :eyes:  **[feat: enhance call disposition handling with new utility functions](https://github.com/nethesis/nethvoice-cti/pull/457)** by *tommaso-ascani* - Reviewers: *None* - Created at: 2026-04-03T17:36:17Z
+
+### nethesis/phone-island 1 
+
+-   **[fix: added missing queue information on call answer](https://github.com/nethesis/phone-island/pull/213)** by *tonyco97* - Reviewers: *edospadoni* - Created at: 2026-04-09T13:53:03Z
 
 ### nethesis/ns8-nethvoice-proxy 9 
 

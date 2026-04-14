@@ -2,7 +2,7 @@
 
 title = 'To be released soon'
 
-date = 2026-04-13
+date = 2026-04-14
 
 +++
 
@@ -44,19 +44,5 @@ date = 2026-04-13
 
 - [WebTop: request to remove webtop-tmceplugins.jar](https://github.com/NethServer/dev/issues/7792) (#7672) by lucagasparini (Created: 2025-12-16T14:24:32Z, Updated: 2026-04-07T12:07:17Z)
 
-- [Sender address blocklist for Rspamd](https://github.com/NethServer/dev/issues/7672) (#7672) by nrauso (Created: 2025-10-02T12:50:20Z, Updated: 2026-04-10T08:29:57Z)
-
-### NethSecurity
-
-- [Distfeed high load on midnight updates](https://github.com/NethServer/nethsecurity/issues/1589) (#1454) by Tbaile (Created: 2026-04-09T10:55:11Z, Updated: 2026-04-10T13:56:22Z)
-
-- [Live Flows filter for “Internal” tag shows no results](https://github.com/NethServer/nethsecurity/issues/1583) (#1454) by cotosso (Created: 2026-04-03T06:56:46Z, Updated: 2026-04-08T10:57:46Z)
-
-- [flashstart: ipsets ranges not added and bypasses not working correctly](https://github.com/NethServer/nethsecurity/issues/1579) (#1454) by Tbaile (Created: 2026-03-31T14:41:07Z, Updated: 2026-04-07T12:23:37Z)
-
-- [Order IPSEC tunnels by name in the UI](https://github.com/NethServer/nethsecurity/issues/1563) (#1454) by cotosso (Created: 2026-03-06T15:20:50Z, Updated: 2026-04-08T11:52:50Z)
-
-- [IPSec: route not reactivated when enabled from drawer](https://github.com/NethServer/nethsecurity/issues/1558) (#1454) by francio87 (Created: 2026-03-05T14:52:35Z, Updated: 2026-04-08T13:16:41Z)
-
-- [Timezone is not applied](https://github.com/NethServer/nethsecurity/issues/1454) (#1454) by mrmarkuz (Created: 2025-12-11T08:52:46Z, Updated: 2026-04-07T08:22:26Z)
+- [Sender address blocklist for Rspamd](https://github.com/NethServer/dev/issues/7672) (#7672) by nrauso (Created: 2025-10-02T12:50:20Z, Updated: 2026-04-13T22:09:15Z)
 
