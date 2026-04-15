@@ -2,9 +2,19 @@
 
 title = 'To be released soon'
 
-date = 2026-04-14
+date = 2026-04-15
 
 +++
+
+### NethServer
+
+- [Podman volume appears in additional volume selection](https://github.com/NethServer/dev/issues/7960) (#7672) by DavidePrincipi (Created: 2026-04-09T07:50:52Z, Updated: 2026-04-14T07:44:45Z)
+
+- [Change WebTop OTP field type to avoid browser password update](https://github.com/NethServer/dev/issues/7845) (#7672) by federicoballarini (Created: 2026-02-01T14:43:18Z, Updated: 2026-03-20T18:07:29Z)
+
+- [WebTop: request to remove webtop-tmceplugins.jar](https://github.com/NethServer/dev/issues/7792) (#7672) by lucagasparini (Created: 2025-12-16T14:24:32Z, Updated: 2026-04-07T12:07:17Z)
+
+- [Sender address blocklist for Rspamd](https://github.com/NethServer/dev/issues/7672) (#7672) by nrauso (Created: 2025-10-02T12:50:20Z, Updated: 2026-04-13T22:09:15Z)
 
 ### NethVoice
 
@@ -37,12 +47,4 @@ date = 2026-04-14
 - [Design: Simplify “NethVoice Proxy” step for second NethVoice instance](https://github.com/NethServer/dev/issues/7828) (#7672) by AmaLuci (Created: 2026-01-20T16:39:06Z, Updated: 2026-02-09T12:07:15Z)
 
 - [NethVoice: Support for New Gigaset IP Phone Models in Tancredi Auto-Provisioning](https://github.com/NethServer/dev/issues/7764) (#7672) by andrea-marchionni (Created: 2025-11-28T14:49:43Z, Updated: 2026-04-10T10:39:43Z)
-
-### NethServer
-
-- [Change WebTop OTP field type to avoid browser password update](https://github.com/NethServer/dev/issues/7845) (#7672) by federicoballarini (Created: 2026-02-01T14:43:18Z, Updated: 2026-03-20T18:07:29Z)
-
-- [WebTop: request to remove webtop-tmceplugins.jar](https://github.com/NethServer/dev/issues/7792) (#7672) by lucagasparini (Created: 2025-12-16T14:24:32Z, Updated: 2026-04-07T12:07:17Z)
-
-- [Sender address blocklist for Rspamd](https://github.com/NethServer/dev/issues/7672) (#7672) by nrauso (Created: 2025-10-02T12:50:20Z, Updated: 2026-04-13T22:09:15Z)
 

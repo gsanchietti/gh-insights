@@ -1,6 +1,6 @@
 +++
-title = 'Need testing (9)'
-date = 2026-04-14
+title = 'Need testing (10)'
+date = 2026-04-15
 +++
 
 ## NethVoice
@@ -10,6 +10,7 @@ date = 2026-04-14
 - :point_right: **[NethVoice Proxy: Use local IP in SDP for local clients to simplify NAT configuration](https://github.com/NethServer/dev/issues/7725)** (#7143) by *Amygos* (Created: 2025-11-03, Updated: 2026-04-01T11:58:02Z)
 - :point_right: **[NethAI integration backend: Text Summarization for Call Transcripts](https://github.com/NethServer/dev/issues/7692)** (#7143) by *andrea-marchionni* (Created: 2025-10-22, Updated: 2026-04-08T09:37:01Z)
 - :point_right: **[NethVoice: Automatic Firmware Update for NethPhone X5 v2](https://github.com/NethServer/dev/issues/7478)** (#7143) by *andrea-marchionni* (Created: 2025-05-23, Updated: 2026-04-13T07:38:09Z)
+- :point_right: **[NethVoice CTI: Display call queue information for incoming and ongoing calls](https://github.com/NethServer/dev/issues/7332)** (#7143) by *AmaLuci* (Created: 2025-02-26, Updated: 2026-04-14T10:07:42Z)
 - :point_right: **[Get the summary and/or transcript of the phone calls](https://github.com/NethServer/dev/issues/7143)** (#7143) by *Amygos* (Created: 2024-11-15, Updated: 2026-04-07T13:18:54Z)
 
 ## NethServer

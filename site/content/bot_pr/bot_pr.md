@@ -1,6 +1,6 @@
 +++
 title = 'Open Pull Requests by Bots'
-date = 2026-04-14
+date = 2026-04-15
 +++
 
 ## Organization: nethserver
@@ -81,12 +81,12 @@ date = 2026-04-14
 
 ### NethServer/nethsecurity-controller 10 
 
-- :eyes:  **[fix(deps): update module github.com/jackc/pgx/v5 to v5.9.1](https://github.com/NethServer/nethsecurity-controller/pull/235)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-03-16T00:37:19Z
+- :eyes: :zzz: **[fix(deps): update module github.com/jackc/pgx/v5 to v5.9.1](https://github.com/NethServer/nethsecurity-controller/pull/235)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-03-16T00:37:19Z
 - :eyes: :zzz: **[fix(deps): update module github.com/oschwald/geoip2-golang to v2](https://github.com/NethServer/nethsecurity-controller/pull/222)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-02-16T01:34:23Z
 - :eyes: :zzz: **[fix(deps): update module github.com/appleboy/gin-jwt/v2 to v3](https://github.com/NethServer/nethsecurity-controller/pull/221)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-02-16T01:34:17Z
 - :eyes: :zzz: **[fix(deps): update module golang.org/x/crypto to v0.50.0](https://github.com/NethServer/nethsecurity-controller/pull/220)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-02-16T01:34:10Z
 - :eyes: :zzz: **[fix(deps): update module github.com/oschwald/geoip2-golang/v2 to v2.1.0](https://github.com/NethServer/nethsecurity-controller/pull/219)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-02-16T01:34:04Z
-- :eyes: :zzz: **[fix(deps): update module github.com/appleboy/gin-jwt/v3 to v3.4.1](https://github.com/NethServer/nethsecurity-controller/pull/217)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-02-16T01:33:53Z
+- :eyes: :zzz: **[fix(deps): update module github.com/appleboy/gin-jwt/v3 to v3.5.1](https://github.com/NethServer/nethsecurity-controller/pull/217)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-02-16T01:33:53Z
 - :eyes: :zzz: **[chore(deps): update docker.io/golang docker tag to v1.26.2](https://github.com/NethServer/nethsecurity-controller/pull/216)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-02-16T01:33:43Z
 - :eyes: :zzz: **[chore(deps): update docker.io/alpine docker tag to v3.23.3](https://github.com/NethServer/nethsecurity-controller/pull/215)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-02-16T01:33:39Z
 - :eyes: :zzz: **[chore(deps): update dependency go to v1.26.2](https://github.com/NethServer/nethsecurity-controller/pull/214)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-02-16T01:33:35Z
@@ -96,10 +96,11 @@ date = 2026-04-14
 
 - :eyes: :zzz: **[chore(deps): update alpine docker tag to v3.22.2](https://github.com/NethServer/ns8-mail/pull/202)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-09-15T08:47:47Z
 
-### NethServer/ns8-nethsecurity-controller 4 
+### NethServer/ns8-nethsecurity-controller 5 
 
+- :eyes:  **[chore(deps): update grafana/grafana docker tag to v13](https://github.com/NethServer/ns8-nethsecurity-controller/pull/206)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-04-14T09:34:47Z
 - :eyes:  **[chore(deps): update prom/prometheus docker tag to v3.11.2](https://github.com/NethServer/ns8-nethsecurity-controller/pull/201)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-04-02T13:20:26Z
-- :eyes: :zzz: **[chore(deps): update timescale/timescaledb docker tag to v2.26.2](https://github.com/NethServer/ns8-nethsecurity-controller/pull/186)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-03-02T15:35:09Z
+- :eyes: :zzz: **[chore(deps): update timescale/timescaledb docker tag to v2.26.3](https://github.com/NethServer/ns8-nethsecurity-controller/pull/186)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-03-02T15:35:09Z
 - :eyes: :zzz: **[chore(deps): update python docker tag to v3.14.4](https://github.com/NethServer/ns8-nethsecurity-controller/pull/178)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-02-21T01:33:35Z
 - :eyes: :zzz: **[Translations update from Hosted Weblate](https://github.com/NethServer/ns8-nethsecurity-controller/pull/146)** by *weblate* - Reviewers: *None* - Created at: 2025-11-29T12:08:11Z
 
@@ -114,8 +115,8 @@ date = 2026-04-14
 - :eyes:  **[fix(deps): update dependency laravel/tinker to v3](https://github.com/NethServer/phonehome-server/pull/149)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-03-21T00:47:09Z
 - :eyes:  **[fix(deps): update dependency laravel/framework to v13](https://github.com/NethServer/phonehome-server/pull/148)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-03-21T00:47:01Z
 - :eyes:  **[chore(deps): update dependency laravel-vite-plugin to v3](https://github.com/NethServer/phonehome-server/pull/147)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-03-21T00:46:42Z
-- :eyes:  **[chore(deps): update docker/setup-buildx-action action to v4](https://github.com/NethServer/phonehome-server/pull/146)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-03-15T12:45:19Z
-- :eyes:  **[chore(deps): update docker/metadata-action action to v6](https://github.com/NethServer/phonehome-server/pull/145)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-03-15T08:48:04Z
+- :eyes: :zzz: **[chore(deps): update docker/setup-buildx-action action to v4](https://github.com/NethServer/phonehome-server/pull/146)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-03-15T12:45:19Z
+- :eyes: :zzz: **[chore(deps): update docker/metadata-action action to v6](https://github.com/NethServer/phonehome-server/pull/145)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-03-15T08:48:04Z
 - :eyes: :zzz: **[chore(deps): update docker/login-action action to v4](https://github.com/NethServer/phonehome-server/pull/144)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-03-15T04:52:48Z
 - :eyes: :zzz: **[chore(deps): update docker/bake-action action to v7](https://github.com/NethServer/phonehome-server/pull/143)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-03-15T00:52:05Z
 - :eyes: :zzz: **[chore(deps): update dependency vite to v8](https://github.com/NethServer/phonehome-server/pull/142)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-03-14T04:44:18Z
@@ -132,10 +133,6 @@ date = 2026-04-14
 - :eyes:  **[chore(deps): update dependency typescript to v6](https://github.com/NethServer/nethsecurity-ui/pull/730)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-03-24T14:17:57Z
 - :eyes: :zzz: **[fix(deps): update font awesome to v7 (major)](https://github.com/NethServer/nethsecurity-ui/pull/674)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-01-16T18:31:59Z
 - :eyes: :zzz: **[fix(deps): update dependency @xterm/xterm to v6](https://github.com/NethServer/nethsecurity-ui/pull/673)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-01-16T12:44:22Z
-
-### NethServer/nethsecurity-docs 1 
-
-- :eyes:  **[[BOT] Update Italian translation](https://github.com/NethServer/nethsecurity-docs/pull/240)** by *github-actions[bot]* - Reviewers: *None* - Created at: 2026-04-02T06:36:37Z
 
 ### NethServer/ns8-user-manager 5 
 
@@ -248,14 +245,6 @@ date = 2026-04-14
 -  :zzz: **[chore(deps): update docker.io/library/golang docker tag to v1.26.2](https://github.com/nethesis/ns8-nethvoice/pull/563)** by *renovate[bot]* - Reviewers: *edospadoni* - Created at: 2025-10-16T01:44:45Z
 -  :zzz: **[chore(deps): update docker.io/library/alpine docker tag to v3.22.2](https://github.com/nethesis/ns8-nethvoice/pull/562)** by *renovate[bot]* - Reviewers: *Amygos, edospadoni* - Created at: 2025-10-16T01:44:42Z
 
-### nethesis/nethvoice-cti 1 
-
-- :eyes:  **[chore(deps): update dependency axios to v1.15.0 [security]](https://github.com/nethesis/nethvoice-cti/pull/463)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-04-12T13:36:56Z
-
-### nethesis/phone-island 1 
-
-- :eyes:  **[chore(deps): update dependency @rollup/plugin-node-resolve to v15.3.1](https://github.com/nethesis/phone-island/pull/215)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-04-13T01:55:15Z
-
 ### nethesis/vue-components 12 
 
 - :eyes:  **[chore(deps): update dependency vite to v6.4.2 [security]](https://github.com/nethesis/vue-components/pull/138)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-04-06T21:11:44Z
@@ -271,8 +260,9 @@ date = 2026-04-14
 - :eyes: :zzz: **[chore(deps): update dependency @types/uuid to v11](https://github.com/nethesis/vue-components/pull/113)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-12-19T15:37:36Z
 - :eyes: :zzz: **[chore(deps): update dependency @vue/tsconfig to ^0.9.0](https://github.com/nethesis/vue-components/pull/100)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-12-09T11:09:23Z
 
-### nethesis/parceler 1 
+### nethesis/parceler 2 
 
+- :eyes:  **[chore(deps): update nginx docker tag to v1.30.0](https://github.com/nethesis/parceler/pull/187)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-04-15T04:23:27Z
 - :eyes:  **[chore(deps): update php docker tag to v8.5.5](https://github.com/nethesis/parceler/pull/185)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-04-10T00:34:13Z
 
 ### nethesis/nethKaris 1 

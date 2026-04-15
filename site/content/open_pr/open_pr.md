@@ -1,13 +1,13 @@
 +++
 title = 'Open Pull Requests'
-date = 2026-04-14
+date = 2026-04-15
 +++
 
 ## Organization: nethserver
 
 ### NethServer/ns8-core 3 
 
-- :eyes:  **[fix(volumes.py): ignore Podman-managed volumes](https://github.com/NethServer/ns8-core/pull/1141)** by *DavidePrincipi* - Reviewers: *None* - Created at: 2026-04-09T09:43:42Z
+- :eyes:  **[feat: centralize module testing](https://github.com/NethServer/ns8-core/pull/1142)** by *andre8244* - Reviewers: *None* - Created at: 2026-04-14T15:25:11Z
 -   **[docs: add NethVoice release procedure addendum](https://github.com/NethServer/ns8-core/pull/1136)** by *Copilot* - Reviewers: *Amygos* - Created at: 2026-03-30T14:06:18Z
 - :eyes:  **[feat: new default shell /bin/nologin](https://github.com/NethServer/ns8-core/pull/1129)** by *DavidePrincipi* - Reviewers: *None* - Created at: 2026-03-20T16:43:22Z
 
@@ -23,13 +23,13 @@ date = 2026-04-14
 
 - :eyes:  **[fix(flashstart): avoiding bypass redirect, removing from ipsets](https://github.com/NethServer/nethsecurity/pull/1592)** by *Tbaile* - Reviewers: *None* - Created at: 2026-04-13T15:35:49Z
 -   **[feat: add ns-clm (Cloud Log Manager)](https://github.com/NethServer/nethsecurity/pull/1577)** by *gsanchietti* - Reviewers: *Tbaile* - Created at: 2026-03-31T09:56:30Z
--  :zzz: **[feat(ovpnrw): connections history from storage if available](https://github.com/NethServer/nethsecurity/pull/1566)** by *m-dilorenzi* - Reviewers: *Tbaile* - Created at: 2026-03-12T15:59:54Z
+- :eyes: :zzz: **[feat(ovpnrw): connections history from storage if available](https://github.com/NethServer/nethsecurity/pull/1566)** by *m-dilorenzi* - Reviewers: *None* - Created at: 2026-03-12T15:59:54Z
 -  :zzz: **[feat: add checkmk custom agent](https://github.com/NethServer/nethsecurity/pull/1511)** by *gsanchietti* - Reviewers: *Tbaile* - Created at: 2026-02-10T11:06:05Z
 - :eyes: :zzz: **[build: added softflowd](https://github.com/NethServer/nethsecurity/pull/1453)** by *Tbaile* - Reviewers: *None* - Created at: 2025-12-10T11:48:14Z
 
 ### NethServer/ns8-mail 1 
 
--   **[Add block rules examples](https://github.com/NethServer/ns8-mail/pull/253)** by *mrmarkuz* - Reviewers: *DavidePrincipi* - Created at: 2026-04-10T14:12:44Z
+- :eyes:  **[Add block rules examples](https://github.com/NethServer/ns8-mail/pull/253)** by *mrmarkuz* - Reviewers: *None* - Created at: 2026-04-10T14:12:44Z
 
 ### NethServer/ns8-nethsecurity-controller 1 
 
@@ -49,16 +49,19 @@ date = 2026-04-14
 
 ### NethServer/ns8-docs 2 
 
--   **[Add Rspamd subsection](https://github.com/NethServer/ns8-docs/pull/230)** by *mrmarkuz* - Reviewers: *DavidePrincipi* - Created at: 2026-04-10T14:14:29Z
+- :eyes:  **[Add Rspamd subsection](https://github.com/NethServer/ns8-docs/pull/230)** by *mrmarkuz* - Reviewers: *None* - Created at: 2026-04-10T14:14:29Z
 - :eyes:  **[Add CrowdSec Grafana dashboards](https://github.com/NethServer/ns8-docs/pull/229)** by *mrmarkuz* - Reviewers: *None* - Created at: 2026-04-09T08:16:35Z
+
+### NethServer/ns8-images 1 
+
+- :eyes:  **[Use random password instead of the predefined one](https://github.com/NethServer/ns8-images/pull/12)** by *mrmarkuz* - Reviewers: *None* - Created at: 2026-04-14T09:25:41Z
 
 ### NethServer/nethsecurity-ui 1 
 
 -  :zzz: **[feat(ovpnrw): connections history from storage if available](https://github.com/NethServer/nethsecurity-ui/pull/720)** by *m-dilorenzi* - Reviewers: *Tbaile* - Created at: 2026-03-12T16:01:53Z
 
-### NethServer/nethsecurity-docs 3 
+### NethServer/nethsecurity-docs 2 
 
--   **[fix: forward port 9090](https://github.com/NethServer/nethsecurity-docs/pull/245)** by *gsanchietti* - Reviewers: *cotosso, francio87* - Created at: 2026-04-09T08:06:52Z
 -   **[feat(logs): add CLM](https://github.com/NethServer/nethsecurity-docs/pull/238)** by *gsanchietti* - Reviewers: *Tbaile* - Created at: 2026-03-31T12:56:55Z
 -  :zzz: **[feat: added softflowd doc](https://github.com/NethServer/nethsecurity-docs/pull/227)** by *Tbaile* - Reviewers: *cotosso* - Created at: 2026-03-05T09:29:42Z
 
@@ -69,7 +72,7 @@ date = 2026-04-14
 ### NethServer/nethlink 5 
 
 - :eyes:  **[fix: added missing queue information on call answer](https://github.com/NethServer/nethlink/pull/127)** by *tonyco97* - Reviewers: *None* - Created at: 2026-04-13T14:51:28Z
-- :eyes:  **[Show all phone numbers for contacts in Command Bar search](https://github.com/NethServer/nethlink/pull/126)** by *edospadoni* - Reviewers: *None* - Created at: 2026-04-09T12:32:29Z
+- :eyes:  **[feat: show all phone numbers for contacts in Command Bar search](https://github.com/NethServer/nethlink/pull/126)** by *edospadoni* - Reviewers: *None* - Created at: 2026-04-09T12:32:29Z
 - :eyes:  **[fix: avoid wrong name on second call](https://github.com/NethServer/nethlink/pull/119)** by *tonyco97* - Reviewers: *None* - Created at: 2026-04-02T12:23:52Z
 - :eyes: :zzz: **[feat: added transcription for NethLink](https://github.com/NethServer/nethlink/pull/104)** by *tonyco97* - Reviewers: *None* - Created at: 2026-03-13T09:29:26Z
 - :eyes: :zzz: **[fix(unhold): write logs to debug unhold mute audio](https://github.com/NethServer/nethlink/pull/103)** by *edospadoni* - Reviewers: *None* - Created at: 2026-03-10T10:04:44Z
@@ -77,12 +80,11 @@ date = 2026-04-14
 ### NethServer/my 2 
 
 - :eyes: :zzz: **[feat(support): add support service with WebSockets and Yamux](https://github.com/NethServer/my/pull/47)** by *edospadoni* - Reviewers: *None* - Created at: 2026-03-10T08:00:00Z
--  :zzz: **[Mimir integration](https://github.com/NethServer/my/pull/42)** by *gsanchietti* - Reviewers: *edospadoni* - Created at: 2026-02-20T10:53:30Z
+-  :zzz: **[Mimir integration](https://github.com/NethServer/my/pull/42)** by *gsanchietti* - Reviewers: *andre8244, edospadoni* - Created at: 2026-02-20T10:53:30Z
 
-### NethServer/nethvoice-docs 2 
+### NethServer/nethvoice-docs 1 
 
 -   **[feat: enhance documentation for AI call transcription and summary](https://github.com/NethServer/nethvoice-docs/pull/44)** by *tommaso-ascani* - Reviewers: *gsanchietti* - Created at: 2026-04-13T13:38:04Z
-- :eyes:  **[Add vtenext CRM integration](https://github.com/NethServer/nethvoice-docs/pull/43)** by *a-ghigi* - Reviewers: *None* - Created at: 2026-04-13T07:30:42Z
 
 ## Organization: nethesis
 
@@ -110,20 +112,22 @@ date = 2026-04-14
 
 - :eyes:  **[feat: add cookie support for support proxy integration](https://github.com/nethesis/nethvoice-report/pull/209)** by *edospadoni* - Reviewers: *None* - Created at: 2026-03-30T08:57:52Z
 
-### nethesis/ns8-nethvoice 4 
+### nethesis/ns8-nethvoice 5 
 
+- :eyes:  **[fix(transcriptions): update satellite transcription handling](https://github.com/nethesis/ns8-nethvoice/pull/781)** by *tommaso-ascani* - Reviewers: *None* - Created at: 2026-04-14T10:29:41Z
 - :eyes:  **[feat: implement AGI script for handling calls answered elsewhere](https://github.com/nethesis/ns8-nethvoice/pull/751)** by *tommaso-ascani* - Reviewers: *None* - Created at: 2026-04-03T17:39:50Z
 - :eyes:  **[fix(janus): fix one-way audio after long SIP hold](https://github.com/nethesis/ns8-nethvoice/pull/743)** by *edospadoni* - Reviewers: *None* - Created at: 2026-03-31T07:49:10Z
 - :eyes: :zzz: **[Use Satellite TTS](https://github.com/nethesis/ns8-nethvoice/pull/707)** by *Stell0* - Reviewers: *None* - Created at: 2026-02-26T11:00:46Z
 -  :zzz: **[Matrix integration](https://github.com/nethesis/ns8-nethvoice/pull/627)** by *gsanchietti* - Reviewers: *Amygos* - Created at: 2025-12-10T11:32:50Z
 
-### nethesis/nethvoice-cti 1 
+### nethesis/nethvoice-cti 2 
 
+- :eyes:  **[fix: update summary handling to use linked IDs instead of unique IDs](https://github.com/nethesis/nethvoice-cti/pull/467)** by *tommaso-ascani* - Reviewers: *None* - Created at: 2026-04-14T10:17:15Z
 - :eyes:  **[feat: enhance call disposition handling with new utility functions](https://github.com/nethesis/nethvoice-cti/pull/457)** by *tommaso-ascani* - Reviewers: *None* - Created at: 2026-04-03T17:36:17Z
 
 ### nethesis/phone-island 1 
 
--   **[fix: added missing queue information on call answer](https://github.com/nethesis/phone-island/pull/213)** by *tonyco97* - Reviewers: *edospadoni* - Created at: 2026-04-09T13:53:03Z
+- :eyes:  **[fix: enhance transcription handling with linkedId and uniqueId refere…](https://github.com/nethesis/phone-island/pull/216)** by *tommaso-ascani* - Reviewers: *None* - Created at: 2026-04-14T10:17:20Z
 
 ### nethesis/ns8-nethvoice-proxy 9 
 
@@ -149,12 +153,14 @@ date = 2026-04-14
 
 - :eyes: :zzz: **[Update and add the CTI image](https://github.com/nethesis/nethvoice-client-docs/pull/14)** by *viktec* - Reviewers: *None* - Created at: 2025-11-05T16:11:10Z
 
-### nethesis/satellite 1 
+### nethesis/satellite 2 
 
+- :eyes:  **[feat(transcription): update linkedid handling in transcription process](https://github.com/nethesis/satellite/pull/43)** by *tommaso-ascani* - Reviewers: *None* - Created at: 2026-04-14T10:17:24Z
 -  :zzz: **[Multi-Provider Transcription Support (REST/Batch Path)](https://github.com/nethesis/satellite/pull/31)** by *Amygos* - Reviewers: *Stell0* - Created at: 2026-02-16T09:08:57Z
 
-### nethesis/nethcti-middleware 2 
+### nethesis/nethcti-middleware 3 
 
+- :eyes:  **[fix: update API to support linked IDs for transcription and summary](https://github.com/nethesis/nethcti-middleware/pull/44)** by *tommaso-ascani* - Reviewers: *None* - Created at: 2026-04-14T10:17:21Z
 - :eyes:  **[feat: add support user authentication for FreePBX CTI APIs](https://github.com/nethesis/nethcti-middleware/pull/42)** by *edospadoni* - Reviewers: *None* - Created at: 2026-03-30T08:59:50Z
 -  :zzz: **[feat: add GET /chat endpoint](https://github.com/nethesis/nethcti-middleware/pull/16)** by *gsanchietti* - Reviewers: *tommaso-ascani* - Created at: 2025-12-17T10:53:42Z
 
