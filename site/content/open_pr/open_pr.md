@@ -1,6 +1,6 @@
 +++
 title = 'Open Pull Requests'
-date = 2026-04-15
+date = 2026-04-16
 +++
 
 ## Organization: nethserver
@@ -9,7 +9,7 @@ date = 2026-04-15
 
 - :eyes:  **[feat: centralize module testing](https://github.com/NethServer/ns8-core/pull/1142)** by *andre8244* - Reviewers: *None* - Created at: 2026-04-14T15:25:11Z
 -   **[docs: add NethVoice release procedure addendum](https://github.com/NethServer/ns8-core/pull/1136)** by *Copilot* - Reviewers: *Amygos* - Created at: 2026-03-30T14:06:18Z
-- :eyes:  **[feat: new default shell /bin/nologin](https://github.com/NethServer/ns8-core/pull/1129)** by *DavidePrincipi* - Reviewers: *None* - Created at: 2026-03-20T16:43:22Z
+-   **[feat: new default shell /bin/nologin](https://github.com/NethServer/ns8-core/pull/1129)** by *DavidePrincipi* - Reviewers: *stephdl, Stell0, andre8244* - Created at: 2026-03-20T16:43:22Z
 
 ### NethServer/ns8-nextcloud 1 
 
@@ -19,17 +19,11 @@ date = 2026-04-15
 
 - :eyes: :zzz: **[fix: cryptography 45 deprecation warning](https://github.com/NethServer/ns8-traefik/pull/120)** by *DavidePrincipi* - Reviewers: *None* - Created at: 2025-10-28T08:48:29Z
 
-### NethServer/nethsecurity 5 
+### NethServer/nethsecurity 3 
 
-- :eyes:  **[fix(flashstart): avoiding bypass redirect, removing from ipsets](https://github.com/NethServer/nethsecurity/pull/1592)** by *Tbaile* - Reviewers: *None* - Created at: 2026-04-13T15:35:49Z
+- :eyes:  **[feat: add checkmk agent and Nethesis scripts](https://github.com/NethServer/nethsecurity/pull/1593)** by *gsanchietti* - Reviewers: *None* - Created at: 2026-04-15T12:03:02Z
 -   **[feat: add ns-clm (Cloud Log Manager)](https://github.com/NethServer/nethsecurity/pull/1577)** by *gsanchietti* - Reviewers: *Tbaile* - Created at: 2026-03-31T09:56:30Z
-- :eyes: :zzz: **[feat(ovpnrw): connections history from storage if available](https://github.com/NethServer/nethsecurity/pull/1566)** by *m-dilorenzi* - Reviewers: *None* - Created at: 2026-03-12T15:59:54Z
--  :zzz: **[feat: add checkmk custom agent](https://github.com/NethServer/nethsecurity/pull/1511)** by *gsanchietti* - Reviewers: *Tbaile* - Created at: 2026-02-10T11:06:05Z
 - :eyes: :zzz: **[build: added softflowd](https://github.com/NethServer/nethsecurity/pull/1453)** by *Tbaile* - Reviewers: *None* - Created at: 2025-12-10T11:48:14Z
-
-### NethServer/ns8-mail 1 
-
-- :eyes:  **[Add block rules examples](https://github.com/NethServer/ns8-mail/pull/253)** by *mrmarkuz* - Reviewers: *None* - Created at: 2026-04-10T14:12:44Z
 
 ### NethServer/ns8-nethsecurity-controller 1 
 
@@ -47,9 +41,8 @@ date = 2026-04-15
 
 - :eyes: :zzz: **[chore(master): release 1.5.1](https://github.com/NethServer/phonehome-server/pull/138)** by *Tbaile* - Reviewers: *None* - Created at: 2025-11-15T06:38:38Z
 
-### NethServer/ns8-docs 2 
+### NethServer/ns8-docs 1 
 
-- :eyes:  **[Add Rspamd subsection](https://github.com/NethServer/ns8-docs/pull/230)** by *mrmarkuz* - Reviewers: *None* - Created at: 2026-04-10T14:14:29Z
 - :eyes:  **[Add CrowdSec Grafana dashboards](https://github.com/NethServer/ns8-docs/pull/229)** by *mrmarkuz* - Reviewers: *None* - Created at: 2026-04-09T08:16:35Z
 
 ### NethServer/ns8-images 1 
@@ -58,7 +51,7 @@ date = 2026-04-15
 
 ### NethServer/nethsecurity-ui 1 
 
--  :zzz: **[feat(ovpnrw): connections history from storage if available](https://github.com/NethServer/nethsecurity-ui/pull/720)** by *m-dilorenzi* - Reviewers: *Tbaile* - Created at: 2026-03-12T16:01:53Z
+- :eyes: :zzz: **[feat(ovpnrw): connections history from storage if available](https://github.com/NethServer/nethsecurity-ui/pull/720)** by *m-dilorenzi* - Reviewers: *None* - Created at: 2026-03-12T16:01:53Z
 
 ### NethServer/nethsecurity-docs 2 
 
@@ -69,10 +62,9 @@ date = 2026-04-15
 
 - :eyes: :zzz: **[chore(main): release 1.2.5](https://github.com/NethServer/ns8-user-manager/pull/134)** by *Tbaile* - Reviewers: *None* - Created at: 2025-10-06T20:38:53Z
 
-### NethServer/nethlink 5 
+### NethServer/nethlink 4 
 
 - :eyes:  **[fix: added missing queue information on call answer](https://github.com/NethServer/nethlink/pull/127)** by *tonyco97* - Reviewers: *None* - Created at: 2026-04-13T14:51:28Z
-- :eyes:  **[feat: show all phone numbers for contacts in Command Bar search](https://github.com/NethServer/nethlink/pull/126)** by *edospadoni* - Reviewers: *None* - Created at: 2026-04-09T12:32:29Z
 - :eyes:  **[fix: avoid wrong name on second call](https://github.com/NethServer/nethlink/pull/119)** by *tonyco97* - Reviewers: *None* - Created at: 2026-04-02T12:23:52Z
 - :eyes: :zzz: **[feat: added transcription for NethLink](https://github.com/NethServer/nethlink/pull/104)** by *tonyco97* - Reviewers: *None* - Created at: 2026-03-13T09:29:26Z
 - :eyes: :zzz: **[fix(unhold): write logs to debug unhold mute audio](https://github.com/NethServer/nethlink/pull/103)** by *edospadoni* - Reviewers: *None* - Created at: 2026-03-10T10:04:44Z
