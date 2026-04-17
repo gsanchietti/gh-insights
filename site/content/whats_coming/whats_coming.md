@@ -2,7 +2,7 @@
 
 title = 'To be released soon'
 
-date = 2026-04-16
+date = 2026-04-17
 
 +++
 
@@ -54,7 +54,11 @@ date = 2026-04-16
 
 - [Podman volume appears in additional volume selection](https://github.com/NethServer/dev/issues/7960) (#7332) by DavidePrincipi (Created: 2026-04-09T07:50:52Z, Updated: 2026-04-14T07:44:45Z)
 
-- [Change WebTop OTP field type to avoid browser password update](https://github.com/NethServer/dev/issues/7845) (#7332) by federicoballarini (Created: 2026-02-01T14:43:18Z, Updated: 2026-03-20T18:07:29Z)
+- [Change WebTop OTP field type to avoid browser password update](https://github.com/NethServer/dev/issues/7845) (#7332) by federicoballarini (Created: 2026-02-01T14:43:18Z, Updated: 2026-04-16T09:48:50Z)
 
-- [WebTop: request to remove webtop-tmceplugins.jar](https://github.com/NethServer/dev/issues/7792) (#7332) by lucagasparini (Created: 2025-12-16T14:24:32Z, Updated: 2026-04-07T12:07:17Z)
+- [WebTop: request to remove webtop-tmceplugins.jar](https://github.com/NethServer/dev/issues/7792) (#7332) by lucagasparini (Created: 2025-12-16T14:24:32Z, Updated: 2026-04-16T09:48:27Z)
+
+### NethSecurity
+
+- [flashstart: ipsets ranges not added and bypasses not working correctly](https://github.com/NethServer/nethsecurity/issues/1579) (#1579) by Tbaile (Created: 2026-03-31T14:41:07Z, Updated: 2026-04-16T10:53:01Z)
 
