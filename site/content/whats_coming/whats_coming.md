@@ -2,7 +2,7 @@
 
 title = 'To be released soon'
 
-date = 2026-04-17
+date = 2026-04-18
 
 +++
 
@@ -59,6 +59,8 @@ date = 2026-04-17
 - [WebTop: request to remove webtop-tmceplugins.jar](https://github.com/NethServer/dev/issues/7792) (#7332) by lucagasparini (Created: 2025-12-16T14:24:32Z, Updated: 2026-04-16T09:48:27Z)
 
 ### NethSecurity
+
+- [Add Check_MK agent and NethSecurity Check_MK utilities](https://github.com/NethServer/nethsecurity/issues/1582) (#1579) by gsanchietti (Created: 2026-04-02T13:24:40Z, Updated: 2026-04-17T09:47:11Z)
 
 - [flashstart: ipsets ranges not added and bypasses not working correctly](https://github.com/NethServer/nethsecurity/issues/1579) (#1579) by Tbaile (Created: 2026-03-31T14:41:07Z, Updated: 2026-04-16T10:53:01Z)
 

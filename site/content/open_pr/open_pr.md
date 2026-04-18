@@ -1,15 +1,20 @@
 +++
 title = 'Open Pull Requests'
-date = 2026-04-17
+date = 2026-04-18
 +++
 
 ## Organization: nethserver
 
-### NethServer/ns8-core 3 
+### NethServer/ns8-core 4 
 
+- :eyes:  **[Suppress samba decryption error](https://github.com/NethServer/ns8-core/pull/1145)** by *mrmarkuz* - Reviewers: *None* - Created at: 2026-04-17T11:53:01Z
 - :eyes:  **[feat: centralize module testing](https://github.com/NethServer/ns8-core/pull/1142)** by *andre8244* - Reviewers: *None* - Created at: 2026-04-14T15:25:11Z
 -   **[docs: add NethVoice release procedure addendum](https://github.com/NethServer/ns8-core/pull/1136)** by *Copilot* - Reviewers: *Amygos* - Created at: 2026-03-30T14:06:18Z
 -   **[feat: new default shell /bin/nologin](https://github.com/NethServer/ns8-core/pull/1129)** by *DavidePrincipi* - Reviewers: *stephdl* - Created at: 2026-03-20T16:43:22Z
+
+### NethServer/ns8-github-actions 1 
+
+-   **[Add optional extra cache inputs to publish-branch workflow](https://github.com/NethServer/ns8-github-actions/pull/47)** by *stephdl* - Reviewers: *Amygos, DavidePrincipi* - Created at: 2026-04-17T09:59:18Z
 
 ### NethServer/ns8-nextcloud 1 
 
@@ -27,6 +32,11 @@ date = 2026-04-17
 
 -   **[perf: removed relabeling for high inode volumes](https://github.com/NethServer/ns8-nethsecurity-controller/pull/200)** by *Tbaile* - Reviewers: *gsanchietti* - Created at: 2026-03-30T08:23:54Z
 
+### NethServer/ns8-webtop 2 
+
+- :eyes:  **[test build cache](https://github.com/NethServer/ns8-webtop/pull/233)** by *stephdl* - Reviewers: *None* - Created at: 2026-04-17T11:07:17Z
+-   **[Cache Maven build artifacts in CI to speed up builds](https://github.com/NethServer/ns8-webtop/pull/231)** by *stephdl* - Reviewers: *DavidePrincipi* - Created at: 2026-04-17T09:46:35Z
+
 ### NethServer/phonehome-server 1 
 
 - :eyes: :zzz: **[chore(master): release 1.5.1](https://github.com/NethServer/phonehome-server/pull/138)** by *Tbaile* - Reviewers: *None* - Created at: 2025-11-15T06:38:38Z
@@ -40,8 +50,9 @@ date = 2026-04-17
 
 -   **[Use random password instead of the predefined one](https://github.com/NethServer/ns8-images/pull/12)** by *mrmarkuz* - Reviewers: *DavidePrincipi* - Created at: 2026-04-14T09:25:41Z
 
-### NethServer/nethsecurity-docs 2 
+### NethServer/nethsecurity-docs 3 
 
+-   **[feat: add checkmk agent](https://github.com/NethServer/nethsecurity-docs/pull/248)** by *gsanchietti* - Reviewers: *cotosso, Tbaile* - Created at: 2026-04-17T12:42:27Z
 -   **[feat(logs): add CLM](https://github.com/NethServer/nethsecurity-docs/pull/238)** by *gsanchietti* - Reviewers: *Tbaile* - Created at: 2026-03-31T12:56:55Z
 -  :zzz: **[feat: added softflowd doc](https://github.com/NethServer/nethsecurity-docs/pull/227)** by *Tbaile* - Reviewers: *cotosso* - Created at: 2026-03-05T09:29:42Z
 
@@ -57,7 +68,7 @@ date = 2026-04-17
 ### NethServer/my 2 
 
 - :eyes: :zzz: **[feat(support): add support service with WebSockets and Yamux](https://github.com/NethServer/my/pull/47)** by *edospadoni* - Reviewers: *None* - Created at: 2026-03-10T08:00:00Z
--  :zzz: **[Mimir integration](https://github.com/NethServer/my/pull/42)** by *gsanchietti* - Reviewers: *andre8244, edospadoni* - Created at: 2026-02-20T10:53:30Z
+-  :zzz: **[Mimir integration](https://github.com/NethServer/my/pull/42)** by *gsanchietti* - Reviewers: *edospadoni* - Created at: 2026-02-20T10:53:30Z
 
 ### NethServer/nethvoice-docs 1 
 
@@ -89,13 +100,11 @@ date = 2026-04-17
 
 - :eyes:  **[feat: add cookie support for support proxy integration](https://github.com/nethesis/nethvoice-report/pull/209)** by *edospadoni* - Reviewers: *None* - Created at: 2026-03-30T08:57:52Z
 
-### nethesis/ns8-nethvoice 6 
+### nethesis/ns8-nethvoice 4 
 
--   **[chore(skills): Add a Conventional Commit skill](https://github.com/nethesis/ns8-nethvoice/pull/783)** by *Stell0* - Reviewers: *Amygos* - Created at: 2026-04-16T15:44:42Z
 - :eyes:  **[fix(transcriptions): update satellite transcription handling](https://github.com/nethesis/ns8-nethvoice/pull/781)** by *tommaso-ascani* - Reviewers: *None* - Created at: 2026-04-14T10:29:41Z
 - :eyes:  **[feat: implement AGI script for handling calls answered elsewhere](https://github.com/nethesis/ns8-nethvoice/pull/751)** by *tommaso-ascani* - Reviewers: *None* - Created at: 2026-04-03T17:39:50Z
 - :eyes:  **[fix(janus): fix one-way audio after long SIP hold](https://github.com/nethesis/ns8-nethvoice/pull/743)** by *edospadoni* - Reviewers: *None* - Created at: 2026-03-31T07:49:10Z
-- :eyes: :zzz: **[Use Satellite TTS](https://github.com/nethesis/ns8-nethvoice/pull/707)** by *Stell0* - Reviewers: *None* - Created at: 2026-02-26T11:00:46Z
 -  :zzz: **[Matrix integration](https://github.com/nethesis/ns8-nethvoice/pull/627)** by *gsanchietti* - Reviewers: *Amygos* - Created at: 2025-12-10T11:32:50Z
 
 ### nethesis/nethvoice-cti 2 
@@ -105,7 +114,7 @@ date = 2026-04-17
 
 ### nethesis/phone-island 1 
 
-- :eyes:  **[fix: enhance transcription handling with linkedId and uniqueId refere…](https://github.com/nethesis/phone-island/pull/216)** by *tommaso-ascani* - Reviewers: *None* - Created at: 2026-04-14T10:17:20Z
+- :eyes:  **[fix: enhance transcription handling with linkedId and uniqueId](https://github.com/nethesis/phone-island/pull/216)** by *tommaso-ascani* - Reviewers: *None* - Created at: 2026-04-14T10:17:20Z
 
 ### nethesis/ns8-nethvoice-proxy 9 
 
@@ -131,9 +140,8 @@ date = 2026-04-17
 
 - :eyes: :zzz: **[Update and add the CTI image](https://github.com/nethesis/nethvoice-client-docs/pull/14)** by *viktec* - Reviewers: *None* - Created at: 2025-11-05T16:11:10Z
 
-### nethesis/satellite 2 
+### nethesis/satellite 1 
 
-- :eyes:  **[feat(transcription): update linkedid handling in transcription process](https://github.com/nethesis/satellite/pull/43)** by *tommaso-ascani* - Reviewers: *None* - Created at: 2026-04-14T10:17:24Z
 -  :zzz: **[Multi-Provider Transcription Support (REST/Batch Path)](https://github.com/nethesis/satellite/pull/31)** by *Amygos* - Reviewers: *Stell0* - Created at: 2026-02-16T09:08:57Z
 
 ### nethesis/nethcti-middleware 3 
