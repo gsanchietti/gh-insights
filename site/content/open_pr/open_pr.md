@@ -1,6 +1,6 @@
 +++
 title = 'Open Pull Requests'
-date = 2026-04-19
+date = 2026-04-20
 +++
 
 ## Organization: nethserver
@@ -10,7 +10,7 @@ date = 2026-04-19
 - :eyes:  **[Suppress samba decryption error](https://github.com/NethServer/ns8-core/pull/1145)** by *mrmarkuz* - Reviewers: *None* - Created at: 2026-04-17T11:53:01Z
 - :eyes:  **[feat: centralize module testing](https://github.com/NethServer/ns8-core/pull/1142)** by *andre8244* - Reviewers: *None* - Created at: 2026-04-14T15:25:11Z
 -   **[docs: add NethVoice release procedure addendum](https://github.com/NethServer/ns8-core/pull/1136)** by *Copilot* - Reviewers: *Amygos* - Created at: 2026-03-30T14:06:18Z
--   **[feat: new default shell /bin/nologin](https://github.com/NethServer/ns8-core/pull/1129)** by *DavidePrincipi* - Reviewers: *stephdl* - Created at: 2026-03-20T16:43:22Z
+-  :zzz: **[feat: new default shell /bin/nologin](https://github.com/NethServer/ns8-core/pull/1129)** by *DavidePrincipi* - Reviewers: *stephdl* - Created at: 2026-03-20T16:43:22Z
 
 ### NethServer/ns8-github-actions 1 
 
