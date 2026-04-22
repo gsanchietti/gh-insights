@@ -1,6 +1,6 @@
 +++
 title = 'Open Pull Requests by Bots'
-date = 2026-04-21
+date = 2026-04-22
 +++
 
 ## Organization: nethserver
@@ -157,8 +157,9 @@ date = 2026-04-21
 - :eyes:  **[chore(deps): update nginx docker tag to v1.30.0](https://github.com/NethServer/ns8-porthos/pull/18)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-04-16T05:53:32Z
 - :eyes: :zzz: **[chore(deps): update debian docker tag to v13](https://github.com/NethServer/ns8-porthos/pull/9)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-08-12T22:35:00Z
 
-### NethServer/sogo-server 1 
+### NethServer/sogo-server 2 
 
+- :eyes:  **[Update debian Docker tag to trixie-20260421](https://github.com/NethServer/sogo-server/pull/21)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-04-22T04:53:22Z
 - :eyes:  **[Update mcr.microsoft.com/devcontainers/javascript-node Docker tag to v24](https://github.com/NethServer/sogo-server/pull/19)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-04-09T17:12:43Z
 
 ### NethServer/ns8-dnsmasq 5 
@@ -204,10 +205,15 @@ date = 2026-04-21
 
 ### NethServer/ns8-n8n 4 
 
-- :eyes:  **[Update n8nio/runners Docker tag to v2.17.3](https://github.com/NethServer/ns8-n8n/pull/32)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-04-16T02:26:51Z
+- :eyes:  **[Update n8nio/runners Docker tag to v2.18.0](https://github.com/NethServer/ns8-n8n/pull/32)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-04-16T02:26:51Z
 - :eyes:  **[Update dependency axios to ^0.31.0 [SECURITY]](https://github.com/NethServer/ns8-n8n/pull/31)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-04-16T02:26:40Z
 - :eyes: :zzz: **[Update postgres Docker tag to v18](https://github.com/NethServer/ns8-n8n/pull/26)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-03-09T19:47:09Z
 - :eyes: :zzz: **[Update n8nio/n8n Docker tag to v2.15.0](https://github.com/NethServer/ns8-n8n/pull/24)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-03-09T14:40:41Z
+
+### NethServer/ns8-rustfs 2 
+
+- :eyes:  **[Update rustfs/rustfs Docker tag to v1.0.0-alpha.97-glibc](https://github.com/NethServer/ns8-rustfs/pull/49)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-04-21T21:44:36Z
+- :eyes:  **[Translations update from Hosted Weblate](https://github.com/NethServer/ns8-rustfs/pull/47)** by *weblate* - Reviewers: *None* - Created at: 2026-04-21T14:57:14Z
 
 ### NethServer/nethsecurity-monitoring 1 
 
@@ -282,6 +288,10 @@ date = 2026-04-21
 -  :zzz: **[chore(deps): update docker.io/library/golang docker tag to v1.26.2](https://github.com/nethesis/ns8-nethvoice/pull/563)** by *renovate[bot]* - Reviewers: *edospadoni* - Created at: 2025-10-16T01:44:45Z
 -  :zzz: **[chore(deps): update docker.io/library/alpine docker tag to v3.23.4](https://github.com/nethesis/ns8-nethvoice/pull/562)** by *renovate[bot]* - Reviewers: *Amygos, edospadoni* - Created at: 2025-10-16T01:44:42Z
 
+### nethesis/ns8-nethvoice-proxy 1 
+
+- :eyes:  **[chore(deps): update dependency axios to v1.15.2](https://github.com/nethesis/ns8-nethvoice-proxy/pull/164)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-04-21T22:05:36Z
+
 ### nethesis/vue-components 12 
 
 - :eyes:  **[chore(deps): update dependency vite to v6.4.2 [security]](https://github.com/nethesis/vue-components/pull/138)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-04-06T21:11:44Z
@@ -304,11 +314,6 @@ date = 2026-04-21
 ### nethesis/satellite 1 
 
 - :eyes: :zzz: **[chore(deps): update dependency deepgram-sdk to v6](https://github.com/nethesis/satellite/pull/41)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-03-13T14:53:30Z
-
-### nethesis/nethcti-middleware 2 
-
-- :eyes:  **[chore(deps): update module github.com/appleboy/gin-jwt/v3 to v3.5.1](https://github.com/nethesis/nethcti-middleware/pull/46)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-04-20T00:51:04Z
-- :eyes:  **[chore(deps): update module github.com/jackc/pgx/v5 to v5.9.0 [security]](https://github.com/nethesis/nethcti-middleware/pull/45)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-04-16T23:30:25Z
 
 ### nethesis/matrix2acrobits 10 
 

@@ -1,6 +1,6 @@
 +++
 title = 'Open Pull Requests'
-date = 2026-04-21
+date = 2026-04-22
 +++
 
 ## Organization: nethserver
@@ -8,13 +8,14 @@ date = 2026-04-21
 ### NethServer/ns8-core 4 
 
 - :eyes:  **[Suppress samba decryption error](https://github.com/NethServer/ns8-core/pull/1145)** by *mrmarkuz* - Reviewers: *None* - Created at: 2026-04-17T11:53:01Z
-- :eyes:  **[feat: centralize module testing](https://github.com/NethServer/ns8-core/pull/1142)** by *andre8244* - Reviewers: *None* - Created at: 2026-04-14T15:25:11Z
+-   **[feat: centralize module testing](https://github.com/NethServer/ns8-core/pull/1142)** by *andre8244* - Reviewers: *DavidePrincipi* - Created at: 2026-04-14T15:25:11Z
 -   **[docs: add NethVoice release procedure addendum](https://github.com/NethServer/ns8-core/pull/1136)** by *Copilot* - Reviewers: *Amygos* - Created at: 2026-03-30T14:06:18Z
 -  :zzz: **[feat: new default shell /bin/nologin](https://github.com/NethServer/ns8-core/pull/1129)** by *DavidePrincipi* - Reviewers: *stephdl* - Created at: 2026-03-20T16:43:22Z
 
-### NethServer/ns8-github-actions 1 
+### NethServer/ns8-github-actions 2 
 
 -   **[Add optional extra cache inputs to publish-branch workflow](https://github.com/NethServer/ns8-github-actions/pull/47)** by *stephdl* - Reviewers: *Amygos, DavidePrincipi* - Created at: 2026-04-17T09:59:18Z
+-   **[feat: centralize module testing](https://github.com/NethServer/ns8-github-actions/pull/46)** by *andre8244* - Reviewers: *DavidePrincipi* - Created at: 2026-04-10T11:45:16Z
 
 ### NethServer/ns8-nextcloud 1 
 
@@ -26,8 +27,12 @@ date = 2026-04-21
 
 ### NethServer/nethsecurity 2 
 
-- :eyes:  **[Alertmanager](https://github.com/NethServer/nethsecurity/pull/1601)** by *gsanchietti* - Reviewers: *None* - Created at: 2026-04-20T09:12:21Z
+- :eyes:  **[refactor: dpireport replacement](https://github.com/NethServer/nethsecurity/pull/1605)** by *Tbaile* - Reviewers: *None* - Created at: 2026-04-21T08:13:03Z
 - :eyes: :zzz: **[build: added softflowd](https://github.com/NethServer/nethsecurity/pull/1453)** by *Tbaile* - Reviewers: *None* - Created at: 2025-12-10T11:48:14Z
+
+### NethServer/ns8-mail 1 
+
+-   **[feat: centralize module testing](https://github.com/NethServer/ns8-mail/pull/252)** by *andre8244* - Reviewers: *DavidePrincipi* - Created at: 2026-04-10T11:48:05Z
 
 ### NethServer/ns8-nethsecurity-controller 1 
 
@@ -51,25 +56,27 @@ date = 2026-04-21
 
 -   **[Use random password instead of the predefined one](https://github.com/NethServer/ns8-images/pull/12)** by *mrmarkuz* - Reviewers: *DavidePrincipi* - Created at: 2026-04-14T09:25:41Z
 
+### NethServer/nethsecurity-ui 1 
+
+- :eyes:  **[feat: added icons and better labels to daily traffic view](https://github.com/NethServer/nethsecurity-ui/pull/743)** by *Tbaile* - Reviewers: *None* - Created at: 2026-04-21T07:55:04Z
+
 ### NethServer/nethsecurity-docs 3 
 
--   **[feat: add checkmk agent](https://github.com/NethServer/nethsecurity-docs/pull/248)** by *gsanchietti* - Reviewers: *cotosso, Tbaile* - Created at: 2026-04-17T12:42:27Z
--   **[feat(logs): add CLM](https://github.com/NethServer/nethsecurity-docs/pull/238)** by *gsanchietti* - Reviewers: *Tbaile* - Created at: 2026-03-31T12:56:55Z
+-   **[feat: add checkmk agent](https://github.com/NethServer/nethsecurity-docs/pull/248)** by *gsanchietti* - Reviewers: *cotosso* - Created at: 2026-04-17T12:42:27Z
+- :eyes:  **[feat(logs): add CLM](https://github.com/NethServer/nethsecurity-docs/pull/238)** by *gsanchietti* - Reviewers: *None* - Created at: 2026-03-31T12:56:55Z
 -  :zzz: **[feat: added softflowd doc](https://github.com/NethServer/nethsecurity-docs/pull/227)** by *Tbaile* - Reviewers: *cotosso* - Created at: 2026-03-05T09:29:42Z
 
 ### NethServer/ns8-user-manager 1 
 
 - :eyes: :zzz: **[chore(main): release 1.2.5](https://github.com/NethServer/ns8-user-manager/pull/134)** by *Tbaile* - Reviewers: *None* - Created at: 2025-10-06T20:38:53Z
 
-### NethServer/nethlink 2 
+### NethServer/nethlink 1 
 
 - :eyes: :zzz: **[feat: added transcription for NethLink](https://github.com/NethServer/nethlink/pull/104)** by *tonyco97* - Reviewers: *None* - Created at: 2026-03-13T09:29:26Z
-- :eyes: :zzz: **[fix(unhold): write logs to debug unhold mute audio](https://github.com/NethServer/nethlink/pull/103)** by *edospadoni* - Reviewers: *None* - Created at: 2026-03-10T10:04:44Z
 
-### NethServer/my 2 
+### NethServer/my 1 
 
 - :eyes: :zzz: **[feat(support): add support service with WebSockets and Yamux](https://github.com/NethServer/my/pull/47)** by *edospadoni* - Reviewers: *None* - Created at: 2026-03-10T08:00:00Z
--  :zzz: **[Mimir integration](https://github.com/NethServer/my/pull/42)** by *gsanchietti* - Reviewers: *edospadoni* - Created at: 2026-02-20T10:53:30Z
 
 ### NethServer/nethvoice-docs 1 
 
@@ -101,9 +108,8 @@ date = 2026-04-21
 
 - :eyes:  **[feat: add cookie support for support proxy integration](https://github.com/nethesis/nethvoice-report/pull/209)** by *edospadoni* - Reviewers: *None* - Created at: 2026-03-30T08:57:52Z
 
-### nethesis/ns8-nethvoice 5 
+### nethesis/ns8-nethvoice 4 
 
-- :eyes:  **[chore(deps): update ghcr.io/nethesis/nethvoice-cti docker tag to v0.15.14](https://github.com/nethesis/ns8-nethvoice/pull/788)** by *tonyco97* - Reviewers: *None* - Created at: 2026-04-20T14:16:35Z
 - :eyes:  **[fix(transcriptions): update satellite transcription handling](https://github.com/nethesis/ns8-nethvoice/pull/781)** by *tommaso-ascani* - Reviewers: *None* - Created at: 2026-04-14T10:29:41Z
 - :eyes:  **[feat: implement AGI script for handling calls answered elsewhere](https://github.com/nethesis/ns8-nethvoice/pull/751)** by *tommaso-ascani* - Reviewers: *None* - Created at: 2026-04-03T17:39:50Z
 - :eyes:  **[fix(janus): fix one-way audio after long SIP hold](https://github.com/nethesis/ns8-nethvoice/pull/743)** by *edospadoni* - Reviewers: *None* - Created at: 2026-03-31T07:49:10Z
