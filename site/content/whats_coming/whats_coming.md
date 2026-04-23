@@ -2,7 +2,7 @@
 
 title = 'To be released soon'
 
-date = 2026-04-22
+date = 2026-04-23
 
 +++
 
@@ -43,8 +43,6 @@ date = 2026-04-22
 - [Design: Simplify “NethVoice Proxy” step for second NethVoice instance](https://github.com/NethServer/dev/issues/7828) (#7332) by AmaLuci (Created: 2026-01-20T16:39:06Z, Updated: 2026-02-09T12:07:15Z)
 
 - [NethVoice: Support for New Gigaset IP Phone Models in Tancredi Auto-Provisioning](https://github.com/NethServer/dev/issues/7764) (#7332) by andrea-marchionni (Created: 2025-11-28T14:49:43Z, Updated: 2026-04-10T10:39:43Z)
-
-- [NethVoice Proxy: Use local IP in SDP for local clients to simplify NAT configuration](https://github.com/NethServer/dev/issues/7725) (#7332) by Amygos (Created: 2025-11-03T15:32:59Z, Updated: 2026-04-15T09:03:02Z)
 
 - [NethVoice: Automatic Firmware Update for NethPhone X5 v2](https://github.com/NethServer/dev/issues/7478) (#7332) by andrea-marchionni (Created: 2025-05-23T10:40:46Z, Updated: 2026-04-15T09:03:12Z)
 

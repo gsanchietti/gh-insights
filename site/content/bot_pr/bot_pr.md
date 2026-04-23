@@ -1,6 +1,6 @@
 +++
 title = 'Open Pull Requests by Bots'
-date = 2026-04-22
+date = 2026-04-23
 +++
 
 ## Organization: nethserver
@@ -17,8 +17,9 @@ date = 2026-04-22
 - :eyes: :zzz: **[Bump on-headers and compression in /ui](https://github.com/NethServer/nethserver-business/pull/7)** by *dependabot[bot]* - Reviewers: *None* - Created at: 2025-07-18T00:03:46Z
 - :eyes: :zzz: **[Bump pbkdf2 from 3.0.17 to 3.1.3 in /ui](https://github.com/NethServer/nethserver-business/pull/6)** by *dependabot[bot]* - Reviewers: *None* - Created at: 2025-06-24T07:44:23Z
 
-### NethServer/ns8-core 6 
+### NethServer/ns8-core 7 
 
+- :eyes:  **[Translations update from Hosted Weblate](https://github.com/NethServer/ns8-core/pull/1147)** by *weblate* - Reviewers: *None* - Created at: 2026-04-22T15:15:21Z
 - :eyes:  **[fix(deps): update dependency axios to ^0.31.0 [security]](https://github.com/NethServer/ns8-core/pull/1144)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-04-16T00:49:33Z
 - :eyes:  **[chore(deps): update dependency lodash to v4.18.1 [security]](https://github.com/NethServer/ns8-core/pull/1143)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-04-16T00:49:19Z
 - :eyes: :zzz: **[fix(deps): update module github.com/gin-gonic/gin to v1.12.0](https://github.com/NethServer/ns8-core/pull/1115)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-03-07T06:02:56Z
@@ -28,7 +29,7 @@ date = 2026-04-22
 
 ### NethServer/ns8-ui-lib 7 
 
-- :eyes:  **[chore(deps): update mcr.microsoft.com/devcontainers/javascript-node docker tag to v1](https://github.com/NethServer/ns8-ui-lib/pull/76)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-04-08T23:02:29Z
+- :eyes:  **[chore(deps): update aquasecurity/trivy-action action to v0.36.0](https://github.com/NethServer/ns8-ui-lib/pull/77)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-04-22T18:07:08Z
 - :eyes:  **[chore(deps): update actions/setup-node action to v6](https://github.com/NethServer/ns8-ui-lib/pull/75)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-04-08T23:01:40Z
 - :eyes:  **[chore(deps): update actions/checkout action to v6](https://github.com/NethServer/ns8-ui-lib/pull/74)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-04-08T16:35:38Z
 - :eyes:  **[chore(deps): update dependency date-fns-tz to v1.3.8](https://github.com/NethServer/ns8-ui-lib/pull/72)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-04-08T15:09:31Z
@@ -42,8 +43,9 @@ date = 2026-04-22
 - :eyes:  **[chore(deps): update actions/setup-node action to v6](https://github.com/NethServer/ns8-kickstart/pull/107)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-04-09T17:26:35Z
 - :eyes:  **[chore(deps): update actions/checkout action to v6](https://github.com/NethServer/ns8-kickstart/pull/106)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-04-09T13:21:07Z
 
-### NethServer/ns8-github-actions 2 
+### NethServer/ns8-github-actions 3 
 
+- :eyes:  **[chore(deps): update aquasecurity/trivy-action action to v0.36.0](https://github.com/NethServer/ns8-github-actions/pull/52)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-04-22T17:19:34Z
 - :eyes: :zzz: **[chore(deps): update github/codeql-action action to v4](https://github.com/NethServer/ns8-github-actions/pull/44)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-03-10T14:04:38Z
 - :eyes: :zzz: **[chore(deps): update actions/upload-artifact action to v7](https://github.com/NethServer/ns8-github-actions/pull/43)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-03-10T14:04:33Z
 
@@ -57,8 +59,9 @@ date = 2026-04-22
 
 - :eyes:  **[chore(deps): update nginx docker tag to v1.30.0](https://github.com/NethServer/ns8-ldapproxy/pull/29)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-04-15T23:54:59Z
 
-### NethServer/ns8-samba 1 
+### NethServer/ns8-samba 2 
 
+- :eyes:  **[Translations update from Hosted Weblate](https://github.com/NethServer/ns8-samba/pull/197)** by *weblate* - Reviewers: *None* - Created at: 2026-04-22T15:15:44Z
 - :eyes:  **[fix(deps): update dependency axios to ^0.31.0 [security]](https://github.com/NethServer/ns8-samba/pull/196)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-04-16T10:12:28Z
 
 ### NethServer/ns8-loki 1 
@@ -81,8 +84,9 @@ date = 2026-04-22
 - :eyes:  **[fix(deps): update dependency axios to ^0.31.0 [security]](https://github.com/NethServer/ns8-prometheus/pull/60)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-04-16T05:03:26Z
 - :eyes: :zzz: **[chore(deps): update quay.io/prometheus/prometheus docker tag to v3.11.2](https://github.com/NethServer/ns8-prometheus/pull/33)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-05-31T14:35:56Z
 
-### NethServer/ns8-grafana 3 
+### NethServer/ns8-grafana 4 
 
+- :eyes:  **[Translations update from Hosted Weblate](https://github.com/NethServer/ns8-grafana/pull/73)** by *weblate* - Reviewers: *None* - Created at: 2026-04-22T15:15:55Z
 - :eyes:  **[chore(deps): update node.js to v24.15.0](https://github.com/NethServer/ns8-grafana/pull/72)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-04-16T17:42:32Z
 - :eyes:  **[chore(deps): update grafana/grafana docker tag to v13](https://github.com/NethServer/ns8-grafana/pull/71)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-04-16T09:20:16Z
 - :eyes:  **[fix(deps): update dependency axios to ^0.31.0 [security]](https://github.com/NethServer/ns8-grafana/pull/69)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-04-16T00:51:55Z
@@ -95,7 +99,7 @@ date = 2026-04-22
 ### NethServer/nethsecurity-controller 11 
 
 - :eyes:  **[chore(deps): update dependency nethserver/nethsecurity-ui to v2.18.0](https://github.com/NethServer/nethsecurity-controller/pull/250)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-04-20T01:24:56Z
-- :eyes:  **[fix(deps): update module github.com/jackc/pgx/v5 to v5.9.0 [security]](https://github.com/NethServer/nethsecurity-controller/pull/248)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-04-17T00:16:59Z
+- :eyes:  **[fix(deps): update module github.com/jackc/pgx/v5 to v5.9.2 [security]](https://github.com/NethServer/nethsecurity-controller/pull/248)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-04-17T00:16:59Z
 - :eyes: :zzz: **[fix(deps): update module github.com/oschwald/geoip2-golang to v2](https://github.com/NethServer/nethsecurity-controller/pull/222)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-02-16T01:34:23Z
 - :eyes: :zzz: **[fix(deps): update module github.com/appleboy/gin-jwt/v2 to v3](https://github.com/NethServer/nethsecurity-controller/pull/221)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-02-16T01:34:17Z
 - :eyes: :zzz: **[fix(deps): update module golang.org/x/crypto to v0.50.0](https://github.com/NethServer/nethsecurity-controller/pull/220)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-02-16T01:34:10Z
@@ -106,8 +110,9 @@ date = 2026-04-22
 - :eyes: :zzz: **[chore(deps): update dependency go to v1.26.2](https://github.com/NethServer/nethsecurity-controller/pull/214)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-02-16T01:33:35Z
 - :eyes: :zzz: **[fix(deps): update github.com/nethserver/nethsecurity-api digest to 300d8f5](https://github.com/NethServer/nethsecurity-controller/pull/205)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-02-16T01:32:32Z
 
-### NethServer/ns8-mail 3 
+### NethServer/ns8-mail 4 
 
+- :eyes:  **[Translations update from Hosted Weblate](https://github.com/NethServer/ns8-mail/pull/257)** by *weblate* - Reviewers: *None* - Created at: 2026-04-22T15:15:33Z
 - :eyes:  **[chore(deps): update node.js to v24.15.0](https://github.com/NethServer/ns8-mail/pull/255)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-04-16T17:44:54Z
 - :eyes:  **[fix(deps): update dependency axios to ^0.31.0 [security]](https://github.com/NethServer/ns8-mail/pull/254)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-04-16T10:45:31Z
 - :eyes: :zzz: **[chore(deps): update alpine docker tag to v3.22.2](https://github.com/NethServer/ns8-mail/pull/202)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-09-15T08:47:47Z
@@ -121,8 +126,13 @@ date = 2026-04-22
 - :eyes: :zzz: **[chore(deps): update python docker tag to v3.14.4](https://github.com/NethServer/ns8-nethsecurity-controller/pull/178)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-02-21T01:33:35Z
 - :eyes: :zzz: **[Translations update from Hosted Weblate](https://github.com/NethServer/ns8-nethsecurity-controller/pull/146)** by *weblate* - Reviewers: *None* - Created at: 2025-11-29T12:08:11Z
 
-### NethServer/ns8-webtop 1 
+### NethServer/ns8-collabora 1 
 
+- :eyes:  **[Translations update from Hosted Weblate](https://github.com/NethServer/ns8-collabora/pull/78)** by *weblate* - Reviewers: *None* - Created at: 2026-04-22T15:13:41Z
+
+### NethServer/ns8-webtop 2 
+
+- :eyes:  **[Translations update from Hosted Weblate](https://github.com/NethServer/ns8-webtop/pull/235)** by *weblate* - Reviewers: *None* - Created at: 2026-04-22T15:13:52Z
 - :eyes: :zzz: **[chore(deps): update peter-evans/create-pull-request action to v8](https://github.com/NethServer/ns8-webtop/pull/219)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-03-17T10:33:18Z
 
 ### NethServer/phonehome-server 10 
@@ -138,16 +148,27 @@ date = 2026-04-22
 - :eyes: :zzz: **[chore(deps): update php docker tag to v8.5.5](https://github.com/NethServer/phonehome-server/pull/140)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-11-22T08:25:41Z
 - :eyes: :zzz: **[chore(deps): update actions/checkout action to v6](https://github.com/NethServer/phonehome-server/pull/139)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-11-22T02:25:17Z
 
-### NethServer/nethsecurity-ui 4 
+### NethServer/ns8-crowdsec 1 
 
+- :eyes:  **[Translations update from Hosted Weblate](https://github.com/NethServer/ns8-crowdsec/pull/159)** by *weblate* - Reviewers: *None* - Created at: 2026-04-22T15:14:36Z
+
+### NethServer/ns8-ejabberd 1 
+
+- :eyes:  **[Translations update from Hosted Weblate](https://github.com/NethServer/ns8-ejabberd/pull/114)** by *weblate* - Reviewers: *None* - Created at: 2026-04-22T15:16:07Z
+
+### NethServer/nethsecurity-ui 6 
+
+- :eyes:  **[chore(deps): update googleapis/release-please-action action to v5](https://github.com/NethServer/nethsecurity-ui/pull/745)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-04-22T22:47:42Z
+- :eyes:  **[chore(deps): update aquasecurity/trivy-action action to v0.36.0](https://github.com/NethServer/nethsecurity-ui/pull/744)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-04-22T16:44:28Z
 - :eyes:  **[chore(deps): update dependency vite to v8](https://github.com/NethServer/nethsecurity-ui/pull/742)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-04-16T08:25:47Z
 - :eyes:  **[chore(deps): update dependency typescript to v6](https://github.com/NethServer/nethsecurity-ui/pull/730)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-03-24T14:17:57Z
 - :eyes: :zzz: **[fix(deps): update font awesome to v7 (major)](https://github.com/NethServer/nethsecurity-ui/pull/674)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-01-16T18:31:59Z
 - :eyes: :zzz: **[fix(deps): update dependency @xterm/xterm to v6](https://github.com/NethServer/nethsecurity-ui/pull/673)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-01-16T12:44:22Z
 
-### NethServer/ns8-user-manager 4 
+### NethServer/ns8-user-manager 5 
 
-- :eyes:  **[chore(deps): update dependency typescript to v6](https://github.com/NethServer/ns8-user-manager/pull/162)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-03-23T18:32:01Z
+- :eyes:  **[chore(deps): update googleapis/release-please-action action to v5](https://github.com/NethServer/ns8-user-manager/pull/169)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-04-22T23:43:45Z
+- :eyes: :zzz: **[chore(deps): update dependency typescript to v6](https://github.com/NethServer/ns8-user-manager/pull/162)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-03-23T18:32:01Z
 - :eyes: :zzz: **[chore(deps): update dependency vite to v8](https://github.com/NethServer/ns8-user-manager/pull/161)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-03-12T19:06:51Z
 - :eyes: :zzz: **[chore(deps): update eslint monorepo to v10 (major)](https://github.com/NethServer/ns8-user-manager/pull/148)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-02-09T08:27:33Z
 - :eyes: :zzz: **[chore(deps): update dependency @fortawesome/fontawesome-svg-core to v7](https://github.com/NethServer/ns8-user-manager/pull/106)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-07-22T19:44:03Z
@@ -162,16 +183,18 @@ date = 2026-04-22
 - :eyes:  **[Update debian Docker tag to trixie-20260421](https://github.com/NethServer/sogo-server/pull/21)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-04-22T04:53:22Z
 - :eyes:  **[Update mcr.microsoft.com/devcontainers/javascript-node Docker tag to v24](https://github.com/NethServer/sogo-server/pull/19)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-04-09T17:12:43Z
 
-### NethServer/ns8-dnsmasq 5 
+### NethServer/ns8-dnsmasq 6 
 
+- :eyes:  **[Translations update from Hosted Weblate](https://github.com/NethServer/ns8-dnsmasq/pull/87)** by *weblate* - Reviewers: *None* - Created at: 2026-04-22T15:14:25Z
 - :eyes:  **[chore(deps): update yarn to v4.14.1](https://github.com/NethServer/ns8-dnsmasq/pull/86)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-04-16T18:06:17Z
 - :eyes:  **[chore(deps): update node.js to v24.15.0](https://github.com/NethServer/ns8-dnsmasq/pull/85)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-04-16T18:05:54Z
 - :eyes:  **[chore(deps): update node.js to v24.15.0](https://github.com/NethServer/ns8-dnsmasq/pull/84)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-04-16T09:18:52Z
-- :eyes:  **[chore(deps): update dependency @carbon/icons-vue to v10.127.0](https://github.com/NethServer/ns8-dnsmasq/pull/83)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-04-16T06:31:51Z
+- :eyes:  **[chore(deps): update dependency @carbon/icons-vue to v10.128.0](https://github.com/NethServer/ns8-dnsmasq/pull/83)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-04-16T06:31:51Z
 - :eyes:  **[fix(deps): update dependency axios to ^0.31.0 [security]](https://github.com/NethServer/ns8-dnsmasq/pull/82)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-04-16T06:31:36Z
 
-### NethServer/ns8-lamp 1 
+### NethServer/ns8-lamp 2 
 
+- :eyes:  **[Translations update from Hosted Weblate](https://github.com/NethServer/ns8-lamp/pull/107)** by *weblate* - Reviewers: *None* - Created at: 2026-04-22T15:13:18Z
 - :eyes:  **[Update dependency axios to v0.31.1](https://github.com/NethServer/ns8-lamp/pull/106)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-04-19T21:56:23Z
 
 ### NethServer/ns8-passbolt 1 
@@ -205,18 +228,18 @@ date = 2026-04-22
 
 ### NethServer/ns8-n8n 4 
 
-- :eyes:  **[Update n8nio/runners Docker tag to v2.18.0](https://github.com/NethServer/ns8-n8n/pull/32)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-04-16T02:26:51Z
+- :eyes:  **[Update n8nio/runners Docker tag to v2.18.1](https://github.com/NethServer/ns8-n8n/pull/32)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-04-16T02:26:51Z
 - :eyes:  **[Update dependency axios to ^0.31.0 [SECURITY]](https://github.com/NethServer/ns8-n8n/pull/31)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-04-16T02:26:40Z
 - :eyes: :zzz: **[Update postgres Docker tag to v18](https://github.com/NethServer/ns8-n8n/pull/26)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-03-09T19:47:09Z
 - :eyes: :zzz: **[Update n8nio/n8n Docker tag to v2.15.0](https://github.com/NethServer/ns8-n8n/pull/24)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-03-09T14:40:41Z
 
-### NethServer/ns8-rustfs 2 
+### NethServer/ns8-rustfs 1 
 
-- :eyes:  **[Update rustfs/rustfs Docker tag to v1.0.0-alpha.97-glibc](https://github.com/NethServer/ns8-rustfs/pull/49)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-04-21T21:44:36Z
 - :eyes:  **[Translations update from Hosted Weblate](https://github.com/NethServer/ns8-rustfs/pull/47)** by *weblate* - Reviewers: *None* - Created at: 2026-04-21T14:57:14Z
 
-### NethServer/nethsecurity-monitoring 1 
+### NethServer/nethsecurity-monitoring 2 
 
+- :eyes:  **[chore(deps): update googleapis/release-please-action action to v5](https://github.com/NethServer/nethsecurity-monitoring/pull/17)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-04-22T21:54:46Z
 - :eyes: :zzz: **[fix(deps): update module github.com/gofiber/fiber/v2 to v3](https://github.com/NethServer/nethsecurity-monitoring/pull/13)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-03-06T13:50:49Z
 
 ## Organization: nethesis
@@ -250,12 +273,14 @@ date = 2026-04-22
 
 - :eyes:  **[Bump addressable from 2.8.6 to 2.9.0](https://github.com/nethesis/docs/pull/17)** by *dependabot[bot]* - Reviewers: *None* - Created at: 2026-04-08T09:00:10Z
 
-### nethesis/tancredi 1 
+### nethesis/tancredi 2 
 
+- :eyes:  **[chore(deps): update aquasecurity/trivy-action action to v0.36.0](https://github.com/nethesis/tancredi/pull/370)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-04-22T15:46:07Z
 - :eyes:  **[chore(deps): bump addressable from 2.8.1 to 2.9.0 in /docs](https://github.com/nethesis/tancredi/pull/368)** by *dependabot[bot]* - Reviewers: *None* - Created at: 2026-04-08T09:06:00Z
 
-### nethesis/falconieri 1 
+### nethesis/falconieri 2 
 
+- :eyes:  **[chore(deps): update aquasecurity/trivy-action action to v0.36.0](https://github.com/nethesis/falconieri/pull/55)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-04-22T15:13:30Z
 - :eyes:  **[chore(deps): update softprops/action-gh-release action to v3](https://github.com/nethesis/falconieri/pull/54)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-04-12T05:43:35Z
 
 ### nethesis/nethserver-tancredi 1 
@@ -275,31 +300,39 @@ date = 2026-04-22
 - :eyes: :zzz: **[Update dependency winston to v2.4.7](https://github.com/nethesis/astproxy/pull/23)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-01-12T03:43:43Z
 - :eyes: :zzz: **[Update dependency moment to v2.29.4 [SECURITY]](https://github.com/nethesis/astproxy/pull/21)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-11-27T08:44:28Z
 
-### nethesis/ns8-nethvoice 10 
+### nethesis/ns8-nethvoice 11 
 
+- :eyes:  **[chore(deps): update dependency flow-bin to ^0.311.0](https://github.com/nethesis/ns8-nethvoice/pull/793)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-04-23T01:35:07Z
+- :eyes:  **[Translations update from Hosted Weblate](https://github.com/nethesis/ns8-nethvoice/pull/791)** by *weblate* - Reviewers: *None* - Created at: 2026-04-22T15:14:58Z
 - :eyes:  **[chore(deps): update dependency grunt-angular-templates to ^0.6.0](https://github.com/nethesis/ns8-nethvoice/pull/787)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-04-20T09:55:57Z
 -   **[chore(deps): update dependency core-js to v3.49.0](https://github.com/nethesis/ns8-nethvoice/pull/776)** by *renovate[bot]* - Reviewers: *andre8244* - Created at: 2026-04-12T17:34:28Z
 -   **[chore(deps): update dependency carbon-components to v10.58.15](https://github.com/nethesis/ns8-nethvoice/pull/775)** by *renovate[bot]* - Reviewers: *andre8244* - Created at: 2026-04-12T13:04:45Z
 -   **[chore(deps): update dependency @nethserver/ns8-ui-lib to v1.12.2](https://github.com/nethesis/ns8-nethvoice/pull/774)** by *renovate[bot]* - Reviewers: *andre8244* - Created at: 2026-04-12T09:11:57Z
 -   **[chore(deps): update dependency @carbon/vue to v2.45.1](https://github.com/nethesis/ns8-nethvoice/pull/773)** by *renovate[bot]* - Reviewers: *andre8244* - Created at: 2026-04-12T05:48:17Z
 -   **[chore(deps): update dependency @carbon/icons-vue to v10.99.1](https://github.com/nethesis/ns8-nethvoice/pull/772)** by *renovate[bot]* - Reviewers: *andre8244* - Created at: 2026-04-12T00:27:03Z
--   **[chore(deps): update dependency generate-password-lite to v1.0.2](https://github.com/nethesis/ns8-nethvoice/pull/756)** by *renovate[bot]* - Reviewers: *andre8244* - Created at: 2026-04-09T15:30:34Z
 - :eyes:  **[chore(deps): replace dependency babel-eslint with @babel/eslint-parser ^7.11.0](https://github.com/nethesis/ns8-nethvoice/pull/741)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-03-27T10:17:05Z
 -  :zzz: **[chore(deps): update docker.io/library/golang docker tag to v1.26.2](https://github.com/nethesis/ns8-nethvoice/pull/563)** by *renovate[bot]* - Reviewers: *edospadoni* - Created at: 2025-10-16T01:44:45Z
 -  :zzz: **[chore(deps): update docker.io/library/alpine docker tag to v3.23.4](https://github.com/nethesis/ns8-nethvoice/pull/562)** by *renovate[bot]* - Reviewers: *Amygos, edospadoni* - Created at: 2025-10-16T01:44:42Z
 
+### nethesis/nethvoice-cti 1 
+
+- :eyes:  **[chore(deps): update dependency i18next-http-backend to v3 [security]](https://github.com/nethesis/nethvoice-cti/pull/473)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-04-22T22:57:47Z
+
+### nethesis/phone-island 1 
+
+- :eyes:  **[chore(deps): update dependency i18next-http-backend to v3 [security]](https://github.com/nethesis/phone-island/pull/224)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-04-22T22:51:17Z
+
 ### nethesis/ns8-nethvoice-proxy 1 
 
-- :eyes:  **[chore(deps): update dependency axios to v1.15.2](https://github.com/nethesis/ns8-nethvoice-proxy/pull/164)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-04-21T22:05:36Z
+- :eyes:  **[Translations update from Hosted Weblate](https://github.com/nethesis/ns8-nethvoice-proxy/pull/166)** by *weblate* - Reviewers: *None* - Created at: 2026-04-22T15:16:51Z
 
-### nethesis/vue-components 12 
+### nethesis/vue-components 11 
 
+- :eyes:  **[fix(deps): update dependency uuid to v14 [security]](https://github.com/nethesis/vue-components/pull/142)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-04-23T01:45:54Z
+- :eyes:  **[chore(deps): update actions/upload-artifact action to v7](https://github.com/nethesis/vue-components/pull/141)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-04-22T09:43:45Z
+- :eyes:  **[chore(deps): update actions/deploy-pages action to v5](https://github.com/nethesis/vue-components/pull/140)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-04-22T09:41:24Z
 - :eyes:  **[chore(deps): update dependency vite to v6.4.2 [security]](https://github.com/nethesis/vue-components/pull/138)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-04-06T21:11:44Z
-- :eyes:  **[chore(deps): update dependency lodash-es to v4.18.1 [security]](https://github.com/nethesis/vue-components/pull/136)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-04-02T08:34:32Z
-- :eyes: :zzz: **[chore(deps): update node.js to v22.22.2](https://github.com/nethesis/vue-components/pull/135)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-03-12T18:45:12Z
-- :eyes: :zzz: **[chore(deps): update node.js to v22.22.2](https://github.com/nethesis/vue-components/pull/134)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-03-09T21:21:51Z
 - :eyes: :zzz: **[chore(deps): update dependency eslint to v10](https://github.com/nethesis/vue-components/pull/126)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-02-11T07:52:23Z
-- :eyes: :zzz: **[chore(deps): update js-devtools/npm-publish action to v4](https://github.com/nethesis/vue-components/pull/125)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-02-05T08:25:56Z
 - :eyes: :zzz: **[chore(deps): update dependency vue-tsc to v3](https://github.com/nethesis/vue-components/pull/119)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-12-23T09:47:44Z
 - :eyes: :zzz: **[chore(deps): update dependency npm-run-all2 to v8](https://github.com/nethesis/vue-components/pull/116)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-12-22T08:59:39Z
 - :eyes: :zzz: **[chore(deps): update dependency eslint-plugin-vue to v10](https://github.com/nethesis/vue-components/pull/115)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-12-19T18:50:41Z
@@ -307,12 +340,17 @@ date = 2026-04-22
 - :eyes: :zzz: **[chore(deps): update dependency @types/uuid to v11](https://github.com/nethesis/vue-components/pull/113)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-12-19T15:37:36Z
 - :eyes: :zzz: **[chore(deps): update dependency @vue/tsconfig to ^0.9.0](https://github.com/nethesis/vue-components/pull/100)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-12-09T11:09:23Z
 
+### nethesis/parceler 1 
+
+- :eyes:  **[chore(deps): update googleapis/release-please-action action to v5](https://github.com/nethesis/parceler/pull/192)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-04-22T22:10:59Z
+
 ### nethesis/nethKaris 1 
 
 - :eyes: :zzz: **[build(deps): bump axios from 1.7.7 to 1.12.2 in /slide/frontend](https://github.com/nethesis/nethKaris/pull/1)** by *dependabot[bot]* - Reviewers: *None* - Created at: 2025-10-01T05:47:37Z
 
-### nethesis/satellite 1 
+### nethesis/satellite 2 
 
+- :eyes:  **[chore(deps): update aquasecurity/trivy-action action to v0.36.0](https://github.com/nethesis/satellite/pull/45)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-04-22T13:51:58Z
 - :eyes: :zzz: **[chore(deps): update dependency deepgram-sdk to v6](https://github.com/nethesis/satellite/pull/41)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-03-13T14:53:30Z
 
 ### nethesis/matrix2acrobits 10 

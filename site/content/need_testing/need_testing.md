@@ -1,6 +1,6 @@
 +++
-title = 'Need testing (9)'
-date = 2026-04-22
+title = 'Need testing (10)'
+date = 2026-04-23
 +++
 
 ## NethVoice
@@ -15,6 +15,7 @@ date = 2026-04-22
 - :point_right: **[Imapsync boot failure due to Mail agent not ready](https://github.com/NethServer/dev/issues/7910)** (#7143) by *DavidePrincipi* (Created: 2026-03-06, Updated: 2026-03-27T08:23:11Z)
 
 ## NethSecurity
+- **[Daily Traffic: inconsistent metrics](https://github.com/NethServer/nethsecurity/issues/1604)** (#1404) by *Tbaile* (Created: 2026-04-21, Updated: 2026-04-22T08:10:20Z)
 - **[Backup download hangs indefinitely on boot when firewall has no connectivity](https://github.com/NethServer/nethsecurity/issues/1598)** (#1404) by *cotosso* (Created: 2026-04-16, Updated: 2026-04-16T13:27:16Z)
-- :point_right: **[Show full OpenVPN RW in the UI connection history from stored logs instead of RAM](https://github.com/NethServer/nethsecurity/issues/1404)** (#1404) by *cotosso* (Created: 2025-10-22, Updated: 2026-04-16T12:52:40Z)
+- :point_right: **[Show full OpenVPN RW in the UI connection history from stored logs instead of RAM](https://github.com/NethServer/nethsecurity/issues/1404)** (#1404) by *cotosso* (Created: 2025-10-22, Updated: 2026-04-22T09:30:37Z)
 

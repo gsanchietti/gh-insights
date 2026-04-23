@@ -1,21 +1,22 @@
 +++
 title = 'Open Pull Requests'
-date = 2026-04-22
+date = 2026-04-23
 +++
 
 ## Organization: nethserver
 
-### NethServer/ns8-core 4 
+### NethServer/ns8-core 5 
 
+- :eyes:  **[feat(backup): dual-send cluster backup to my-new proxy](https://github.com/NethServer/ns8-core/pull/1146)** by *edospadoni* - Reviewers: *None* - Created at: 2026-04-22T13:24:38Z
 - :eyes:  **[Suppress samba decryption error](https://github.com/NethServer/ns8-core/pull/1145)** by *mrmarkuz* - Reviewers: *None* - Created at: 2026-04-17T11:53:01Z
--   **[feat: centralize module testing](https://github.com/NethServer/ns8-core/pull/1142)** by *andre8244* - Reviewers: *DavidePrincipi* - Created at: 2026-04-14T15:25:11Z
+- :eyes:  **[refactor: centralize module testing](https://github.com/NethServer/ns8-core/pull/1142)** by *andre8244* - Reviewers: *None* - Created at: 2026-04-14T15:25:11Z
 -   **[docs: add NethVoice release procedure addendum](https://github.com/NethServer/ns8-core/pull/1136)** by *Copilot* - Reviewers: *Amygos* - Created at: 2026-03-30T14:06:18Z
 -  :zzz: **[feat: new default shell /bin/nologin](https://github.com/NethServer/ns8-core/pull/1129)** by *DavidePrincipi* - Reviewers: *stephdl* - Created at: 2026-03-20T16:43:22Z
 
 ### NethServer/ns8-github-actions 2 
 
 -   **[Add optional extra cache inputs to publish-branch workflow](https://github.com/NethServer/ns8-github-actions/pull/47)** by *stephdl* - Reviewers: *Amygos, DavidePrincipi* - Created at: 2026-04-17T09:59:18Z
--   **[feat: centralize module testing](https://github.com/NethServer/ns8-github-actions/pull/46)** by *andre8244* - Reviewers: *DavidePrincipi* - Created at: 2026-04-10T11:45:16Z
+- :eyes:  **[refactor: centralize module testing](https://github.com/NethServer/ns8-github-actions/pull/46)** by *andre8244* - Reviewers: *None* - Created at: 2026-04-10T11:45:16Z
 
 ### NethServer/ns8-nextcloud 1 
 
@@ -25,14 +26,15 @@ date = 2026-04-22
 
 - :eyes: :zzz: **[fix: cryptography 45 deprecation warning](https://github.com/NethServer/ns8-traefik/pull/120)** by *DavidePrincipi* - Reviewers: *None* - Created at: 2025-10-28T08:48:29Z
 
-### NethServer/nethsecurity 2 
+### NethServer/nethsecurity 3 
 
+- :eyes:  **[feat(ns-plug): dual-send backup to my-new proxy](https://github.com/NethServer/nethsecurity/pull/1608)** by *edospadoni* - Reviewers: *None* - Created at: 2026-04-22T13:32:27Z
 - :eyes:  **[refactor: dpireport replacement](https://github.com/NethServer/nethsecurity/pull/1605)** by *Tbaile* - Reviewers: *None* - Created at: 2026-04-21T08:13:03Z
 - :eyes: :zzz: **[build: added softflowd](https://github.com/NethServer/nethsecurity/pull/1453)** by *Tbaile* - Reviewers: *None* - Created at: 2025-12-10T11:48:14Z
 
 ### NethServer/ns8-mail 1 
 
--   **[feat: centralize module testing](https://github.com/NethServer/ns8-mail/pull/252)** by *andre8244* - Reviewers: *DavidePrincipi* - Created at: 2026-04-10T11:48:05Z
+- :eyes:  **[refactor: centralize module testing](https://github.com/NethServer/ns8-mail/pull/252)** by *andre8244* - Reviewers: *None* - Created at: 2026-04-10T11:48:05Z
 
 ### NethServer/ns8-nethsecurity-controller 1 
 
@@ -74,12 +76,14 @@ date = 2026-04-22
 
 - :eyes: :zzz: **[feat: added transcription for NethLink](https://github.com/NethServer/nethlink/pull/104)** by *tonyco97* - Reviewers: *None* - Created at: 2026-03-13T09:29:26Z
 
-### NethServer/my 1 
+### NethServer/my 2 
 
+- :eyes:  **[feat(backup): configuration backup service (collect ingest + backend UI API)](https://github.com/NethServer/my/pull/81)** by *edospadoni* - Reviewers: *None* - Created at: 2026-04-21T13:57:02Z
 - :eyes: :zzz: **[feat(support): add support service with WebSockets and Yamux](https://github.com/NethServer/my/pull/47)** by *edospadoni* - Reviewers: *None* - Created at: 2026-03-10T08:00:00Z
 
-### NethServer/nethvoice-docs 1 
+### NethServer/nethvoice-docs 2 
 
+- :eyes:  **[feat: add API Migration Status page](https://github.com/NethServer/nethvoice-docs/pull/48)** by *tommaso-ascani* - Reviewers: *None* - Created at: 2026-04-22T09:18:40Z
 -   **[feat: enhance documentation for AI call transcription and summary](https://github.com/NethServer/nethvoice-docs/pull/44)** by *tommaso-ascani* - Reviewers: *gsanchietti* - Created at: 2026-04-13T13:38:04Z
 
 ## Organization: nethesis
@@ -108,8 +112,9 @@ date = 2026-04-22
 
 - :eyes:  **[feat: add cookie support for support proxy integration](https://github.com/nethesis/nethvoice-report/pull/209)** by *edospadoni* - Reviewers: *None* - Created at: 2026-03-30T08:57:52Z
 
-### nethesis/ns8-nethvoice 4 
+### nethesis/ns8-nethvoice 5 
 
+-   **[feat: add spool volume label](https://github.com/nethesis/ns8-nethvoice/pull/789)** by *Amygos* - Reviewers: *DavidePrincipi* - Created at: 2026-04-22T14:23:51Z
 - :eyes:  **[fix(transcriptions): update satellite transcription handling](https://github.com/nethesis/ns8-nethvoice/pull/781)** by *tommaso-ascani* - Reviewers: *None* - Created at: 2026-04-14T10:29:41Z
 - :eyes:  **[feat: implement AGI script for handling calls answered elsewhere](https://github.com/nethesis/ns8-nethvoice/pull/751)** by *tommaso-ascani* - Reviewers: *None* - Created at: 2026-04-03T17:39:50Z
 - :eyes:  **[fix(janus): fix one-way audio after long SIP hold](https://github.com/nethesis/ns8-nethvoice/pull/743)** by *edospadoni* - Reviewers: *None* - Created at: 2026-03-31T07:49:10Z
@@ -120,12 +125,14 @@ date = 2026-04-22
 - :eyes:  **[fix: update summary handling to use linked IDs instead of unique IDs](https://github.com/nethesis/nethvoice-cti/pull/467)** by *tommaso-ascani* - Reviewers: *None* - Created at: 2026-04-14T10:17:15Z
 - :eyes:  **[feat: enhance call disposition handling with new utility functions](https://github.com/nethesis/nethvoice-cti/pull/457)** by *tommaso-ascani* - Reviewers: *None* - Created at: 2026-04-03T17:36:17Z
 
-### nethesis/phone-island 1 
+### nethesis/phone-island 2 
 
+- :eyes:  **[Add missing notification on videocall start](https://github.com/nethesis/phone-island/pull/223)** by *tonyco97* - Reviewers: *None* - Created at: 2026-04-22T07:26:49Z
 - :eyes:  **[fix: enhance transcription handling with linkedId and uniqueId](https://github.com/nethesis/phone-island/pull/216)** by *tommaso-ascani* - Reviewers: *None* - Created at: 2026-04-14T10:17:20Z
 
-### nethesis/ns8-nethvoice-proxy 9 
+### nethesis/ns8-nethvoice-proxy 10 
 
+-   **[fix: preserve local networks in ui](https://github.com/nethesis/ns8-nethvoice-proxy/pull/165)** by *Amygos* - Reviewers: *andre8244* - Created at: 2026-04-22T15:13:51Z
 - :eyes:  **[feat: Dynamic port slot binding for multi-trunk support (Vianova)](https://github.com/nethesis/ns8-nethvoice-proxy/pull/158)** by *paolovisintin* - Reviewers: *None* - Created at: 2026-03-24T10:43:30Z
 -  :zzz: **[refactor: remove dead code and unused flags](https://github.com/nethesis/ns8-nethvoice-proxy/pull/148)** by *Amygos* - Reviewers: *paolovisintin* - Created at: 2026-02-23T08:21:43Z
 -  :zzz: **[refactor: remove unused defines from template](https://github.com/nethesis/ns8-nethvoice-proxy/pull/147)** by *Amygos* - Reviewers: *paolovisintin* - Created at: 2026-02-23T08:21:41Z
