@@ -1,11 +1,11 @@
 +++
-title = 'Need testing (10)'
-date = 2026-04-23
+title = 'Need testing (9)'
+date = 2026-04-24
 +++
 
 ## NethVoice
 - **[Phone-island: remove Storybook, reduce security warnings, and align local dev with the real integration](https://github.com/NethServer/dev/issues/7968)** (#7143) by *tonyco97* (Created: 2026-04-20, Updated: 2026-04-21T07:35:02Z)
-- **[NS8-NethVoice: User can't complete wizard if first inizialization](https://github.com/NethServer/dev/issues/7964)** (#7143) by *tonyco97* (Created: 2026-04-16, Updated: 2026-04-16T15:12:38Z)
+- :point_right: **[NS8-NethVoice: User can't complete wizard if first inizialization](https://github.com/NethServer/dev/issues/7964)** (#7143) by *tonyco97* (Created: 2026-04-16, Updated: 2026-04-16T15:12:38Z)
 - :point_right: **[NethAI integration backend: Text Summarization for Call Transcripts](https://github.com/NethServer/dev/issues/7692)** (#7143) by *andrea-marchionni* (Created: 2025-10-22, Updated: 2026-04-08T09:37:01Z)
 - :point_right: **[Get the summary and/or transcript of the phone calls](https://github.com/NethServer/dev/issues/7143)** (#7143) by *Amygos* (Created: 2024-11-15, Updated: 2026-04-07T13:18:54Z)
 
@@ -16,6 +16,5 @@ date = 2026-04-23
 
 ## NethSecurity
 - **[Daily Traffic: inconsistent metrics](https://github.com/NethServer/nethsecurity/issues/1604)** (#1404) by *Tbaile* (Created: 2026-04-21, Updated: 2026-04-22T08:10:20Z)
-- **[Backup download hangs indefinitely on boot when firewall has no connectivity](https://github.com/NethServer/nethsecurity/issues/1598)** (#1404) by *cotosso* (Created: 2026-04-16, Updated: 2026-04-16T13:27:16Z)
-- :point_right: **[Show full OpenVPN RW in the UI connection history from stored logs instead of RAM](https://github.com/NethServer/nethsecurity/issues/1404)** (#1404) by *cotosso* (Created: 2025-10-22, Updated: 2026-04-22T09:30:37Z)
+- :point_right: **[Show full OpenVPN RW in the UI connection history from stored logs instead of RAM](https://github.com/NethServer/nethsecurity/issues/1404)** (#1404) by *cotosso* (Created: 2025-10-22, Updated: 2026-04-23T14:08:41Z)
 

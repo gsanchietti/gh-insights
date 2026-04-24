@@ -1,40 +1,36 @@
 +++
 title = 'Open Pull Requests'
-date = 2026-04-23
+date = 2026-04-24
 +++
 
 ## Organization: nethserver
 
-### NethServer/ns8-core 5 
+### NethServer/ns8-core 4 
 
 - :eyes:  **[feat(backup): dual-send cluster backup to my-new proxy](https://github.com/NethServer/ns8-core/pull/1146)** by *edospadoni* - Reviewers: *None* - Created at: 2026-04-22T13:24:38Z
 - :eyes:  **[Suppress samba decryption error](https://github.com/NethServer/ns8-core/pull/1145)** by *mrmarkuz* - Reviewers: *None* - Created at: 2026-04-17T11:53:01Z
-- :eyes:  **[refactor: centralize module testing](https://github.com/NethServer/ns8-core/pull/1142)** by *andre8244* - Reviewers: *None* - Created at: 2026-04-14T15:25:11Z
 -   **[docs: add NethVoice release procedure addendum](https://github.com/NethServer/ns8-core/pull/1136)** by *Copilot* - Reviewers: *Amygos* - Created at: 2026-03-30T14:06:18Z
 -  :zzz: **[feat: new default shell /bin/nologin](https://github.com/NethServer/ns8-core/pull/1129)** by *DavidePrincipi* - Reviewers: *stephdl* - Created at: 2026-03-20T16:43:22Z
 
-### NethServer/ns8-github-actions 2 
+### NethServer/ns8-github-actions 1 
 
 -   **[Add optional extra cache inputs to publish-branch workflow](https://github.com/NethServer/ns8-github-actions/pull/47)** by *stephdl* - Reviewers: *Amygos, DavidePrincipi* - Created at: 2026-04-17T09:59:18Z
-- :eyes:  **[refactor: centralize module testing](https://github.com/NethServer/ns8-github-actions/pull/46)** by *andre8244* - Reviewers: *None* - Created at: 2026-04-10T11:45:16Z
 
 ### NethServer/ns8-nextcloud 1 
 
 - :eyes:  **[Update minimum version label from 1.5.0 to 1.6.0](https://github.com/NethServer/ns8-nextcloud/pull/204)** by *mrmarkuz* - Reviewers: *None* - Created at: 2026-04-01T14:42:09Z
 
-### NethServer/ns8-traefik 1 
+### NethServer/ns8-traefik 2 
 
+- :eyes:  **[refactor: centralize module testing](https://github.com/NethServer/ns8-traefik/pull/131)** by *Copilot* - Reviewers: *None* - Created at: 2026-04-23T08:45:10Z
 - :eyes: :zzz: **[fix: cryptography 45 deprecation warning](https://github.com/NethServer/ns8-traefik/pull/120)** by *DavidePrincipi* - Reviewers: *None* - Created at: 2025-10-28T08:48:29Z
 
-### NethServer/nethsecurity 3 
+### NethServer/nethsecurity 4 
 
+-   **[fix(ovpnrw): ensure only enabled users are recorded on disconnection](https://github.com/NethServer/nethsecurity/pull/1611)** by *m-dilorenzi* - Reviewers: *Tbaile* - Created at: 2026-04-23T13:43:22Z
 - :eyes:  **[feat(ns-plug): dual-send backup to my-new proxy](https://github.com/NethServer/nethsecurity/pull/1608)** by *edospadoni* - Reviewers: *None* - Created at: 2026-04-22T13:32:27Z
 - :eyes:  **[refactor: dpireport replacement](https://github.com/NethServer/nethsecurity/pull/1605)** by *Tbaile* - Reviewers: *None* - Created at: 2026-04-21T08:13:03Z
 - :eyes: :zzz: **[build: added softflowd](https://github.com/NethServer/nethsecurity/pull/1453)** by *Tbaile* - Reviewers: *None* - Created at: 2025-12-10T11:48:14Z
-
-### NethServer/ns8-mail 1 
-
-- :eyes:  **[refactor: centralize module testing](https://github.com/NethServer/ns8-mail/pull/252)** by *andre8244* - Reviewers: *None* - Created at: 2026-04-10T11:48:05Z
 
 ### NethServer/ns8-nethsecurity-controller 1 
 
@@ -71,6 +67,10 @@ date = 2026-04-23
 ### NethServer/ns8-user-manager 1 
 
 - :eyes: :zzz: **[chore(main): release 1.2.5](https://github.com/NethServer/ns8-user-manager/pull/134)** by *Tbaile* - Reviewers: *None* - Created at: 2025-10-06T20:38:53Z
+
+### NethServer/ns8-nethforge 1 
+
+-   **[feat(module): Add Hermes Agent module for NS8](https://github.com/NethServer/ns8-nethforge/pull/39)** by *Stell0* - Reviewers: *DavidePrincipi* - Created at: 2026-04-23T09:07:23Z
 
 ### NethServer/nethlink 1 
 
@@ -132,8 +132,8 @@ date = 2026-04-23
 
 ### nethesis/ns8-nethvoice-proxy 10 
 
--   **[fix: preserve local networks in ui](https://github.com/nethesis/ns8-nethvoice-proxy/pull/165)** by *Amygos* - Reviewers: *andre8244* - Created at: 2026-04-22T15:13:51Z
-- :eyes:  **[feat: Dynamic port slot binding for multi-trunk support (Vianova)](https://github.com/nethesis/ns8-nethvoice-proxy/pull/158)** by *paolovisintin* - Reviewers: *None* - Created at: 2026-03-24T10:43:30Z
+- :eyes:  **[fix: preserve local networks in ui](https://github.com/nethesis/ns8-nethvoice-proxy/pull/165)** by *Amygos* - Reviewers: *None* - Created at: 2026-04-22T15:13:51Z
+- :eyes: :zzz: **[feat: Dynamic port slot binding for multi-trunk support (Vianova)](https://github.com/nethesis/ns8-nethvoice-proxy/pull/158)** by *paolovisintin* - Reviewers: *None* - Created at: 2026-03-24T10:43:30Z
 -  :zzz: **[refactor: remove dead code and unused flags](https://github.com/nethesis/ns8-nethvoice-proxy/pull/148)** by *Amygos* - Reviewers: *paolovisintin* - Created at: 2026-02-23T08:21:43Z
 -  :zzz: **[refactor: remove unused defines from template](https://github.com/nethesis/ns8-nethvoice-proxy/pull/147)** by *Amygos* - Reviewers: *paolovisintin* - Created at: 2026-02-23T08:21:41Z
 -  :zzz: **[refactor: remove 12 unused kamailio modules](https://github.com/nethesis/ns8-nethvoice-proxy/pull/146)** by *Amygos* - Reviewers: *paolovisintin* - Created at: 2026-02-23T08:21:37Z

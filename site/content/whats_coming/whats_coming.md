@@ -2,7 +2,7 @@
 
 title = 'To be released soon'
 
-date = 2026-04-23
+date = 2026-04-24
 
 +++
 
@@ -57,6 +57,8 @@ date = 2026-04-23
 - [WebTop: request to remove webtop-tmceplugins.jar](https://github.com/NethServer/dev/issues/7792) (#7332) by lucagasparini (Created: 2025-12-16T14:24:32Z, Updated: 2026-04-16T09:48:27Z)
 
 ### NethSecurity
+
+- [Backup download hangs indefinitely on boot when firewall has no connectivity](https://github.com/NethServer/nethsecurity/issues/1598) (#1579) by cotosso (Created: 2026-04-16T11:13:38Z, Updated: 2026-04-23T10:02:06Z)
 
 - [DNS field in inventory not populated for some firewalls](https://github.com/NethServer/nethsecurity/issues/1594) (#1579) by Tbaile (Created: 2026-04-15T13:25:37Z, Updated: 2026-04-21T06:17:40Z)
 
