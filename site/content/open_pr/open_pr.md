@@ -1,6 +1,6 @@
 +++
 title = 'Open Pull Requests'
-date = 2026-04-24
+date = 2026-04-25
 +++
 
 ## Organization: nethserver
@@ -11,6 +11,10 @@ date = 2026-04-24
 - :eyes:  **[Suppress samba decryption error](https://github.com/NethServer/ns8-core/pull/1145)** by *mrmarkuz* - Reviewers: *None* - Created at: 2026-04-17T11:53:01Z
 -   **[docs: add NethVoice release procedure addendum](https://github.com/NethServer/ns8-core/pull/1136)** by *Copilot* - Reviewers: *Amygos* - Created at: 2026-03-30T14:06:18Z
 -  :zzz: **[feat: new default shell /bin/nologin](https://github.com/NethServer/ns8-core/pull/1129)** by *DavidePrincipi* - Reviewers: *stephdl* - Created at: 2026-03-20T16:43:22Z
+
+### NethServer/ns8-kickstart 1 
+
+- :eyes:  **[ci: fix ui tests](https://github.com/NethServer/ns8-kickstart/pull/113)** by *andre8244* - Reviewers: *None* - Created at: 2026-04-24T16:17:00Z
 
 ### NethServer/ns8-github-actions 1 
 
@@ -36,8 +40,9 @@ date = 2026-04-24
 
 -   **[perf: removed relabeling for high inode volumes](https://github.com/NethServer/ns8-nethsecurity-controller/pull/200)** by *Tbaile* - Reviewers: *gsanchietti* - Created at: 2026-03-30T08:23:54Z
 
-### NethServer/ns8-webtop 2 
+### NethServer/ns8-webtop 3 
 
+-   **[refactor: centralize module testing](https://github.com/NethServer/ns8-webtop/pull/237)** by *Copilot* - Reviewers: *andre8244* - Created at: 2026-04-24T13:15:02Z
 - :eyes:  **[test build cache](https://github.com/NethServer/ns8-webtop/pull/233)** by *stephdl* - Reviewers: *None* - Created at: 2026-04-17T11:07:17Z
 -   **[Cache Maven build artifacts in CI to speed up builds](https://github.com/NethServer/ns8-webtop/pull/231)** by *stephdl* - Reviewers: *DavidePrincipi* - Created at: 2026-04-17T09:46:35Z
 
@@ -58,8 +63,10 @@ date = 2026-04-24
 
 - :eyes:  **[feat: added icons and better labels to daily traffic view](https://github.com/NethServer/nethsecurity-ui/pull/743)** by *Tbaile* - Reviewers: *None* - Created at: 2026-04-21T07:55:04Z
 
-### NethServer/nethsecurity-docs 3 
+### NethServer/nethsecurity-docs 5 
 
+-   **[fix: real name is DNS4EU](https://github.com/NethServer/nethsecurity-docs/pull/250)** by *filippocarletti* - Reviewers: *gsanchietti, cotosso* - Created at: 2026-04-24T10:36:13Z
+-   **[Https dns proxy fix configuration](https://github.com/NethServer/nethsecurity-docs/pull/249)** by *cotosso* - Reviewers: *gsanchietti* - Created at: 2026-04-24T08:14:41Z
 -   **[feat: add checkmk agent](https://github.com/NethServer/nethsecurity-docs/pull/248)** by *gsanchietti* - Reviewers: *cotosso* - Created at: 2026-04-17T12:42:27Z
 - :eyes:  **[feat(logs): add CLM](https://github.com/NethServer/nethsecurity-docs/pull/238)** by *gsanchietti* - Reviewers: *None* - Created at: 2026-03-31T12:56:55Z
 -  :zzz: **[feat: added softflowd doc](https://github.com/NethServer/nethsecurity-docs/pull/227)** by *Tbaile* - Reviewers: *cotosso* - Created at: 2026-03-05T09:29:42Z
@@ -99,6 +106,10 @@ date = 2026-04-24
 ### nethesis/icaro 1 
 
 -  :zzz: **[feat: added OAuth login](https://github.com/nethesis/icaro/pull/200)** by *edospadoni* - Reviewers: *Amygos* - Created at: 2025-09-10T10:04:49Z
+
+### nethesis/returnontransfer 1 
+
+- :eyes:  **[Fix query in AGI](https://github.com/nethesis/returnontransfer/pull/6)** by *andrea-marchionni* - Reviewers: *None* - Created at: 2026-04-24T08:21:40Z
 
 ### nethesis/nethcti-app-android 1 
 
