@@ -1,6 +1,6 @@
 +++
 title = 'Open Pull Requests'
-date = 2026-04-25
+date = 2026-04-26
 +++
 
 ## Organization: nethserver
@@ -92,6 +92,10 @@ date = 2026-04-25
 
 - :eyes:  **[feat: add API Migration Status page](https://github.com/NethServer/nethvoice-docs/pull/48)** by *tommaso-ascani* - Reviewers: *None* - Created at: 2026-04-22T09:18:40Z
 -   **[feat: enhance documentation for AI call transcription and summary](https://github.com/NethServer/nethvoice-docs/pull/44)** by *tommaso-ascani* - Reviewers: *gsanchietti* - Created at: 2026-04-13T13:38:04Z
+
+### NethServer/nethsecurity-monitoring 1 
+
+- :eyes:  **[chore(main): release 1.0.3](https://github.com/NethServer/nethsecurity-monitoring/pull/19)** by *Tbaile* - Reviewers: *None* - Created at: 2026-04-25T17:18:40Z
 
 ## Organization: nethesis
 

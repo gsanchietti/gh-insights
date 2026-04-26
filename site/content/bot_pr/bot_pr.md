@@ -1,6 +1,6 @@
 +++
 title = 'Open Pull Requests by Bots'
-date = 2026-04-25
+date = 2026-04-26
 +++
 
 ## Organization: nethserver
@@ -17,14 +17,16 @@ date = 2026-04-25
 - :eyes: :zzz: **[Bump on-headers and compression in /ui](https://github.com/NethServer/nethserver-business/pull/7)** by *dependabot[bot]* - Reviewers: *None* - Created at: 2025-07-18T00:03:46Z
 - :eyes: :zzz: **[Bump pbkdf2 from 3.0.17 to 3.1.3 in /ui](https://github.com/NethServer/nethserver-business/pull/6)** by *dependabot[bot]* - Reviewers: *None* - Created at: 2025-06-24T07:44:23Z
 
-### NethServer/ns8-core 11 
+### NethServer/ns8-core 13 
 
+- :eyes:  **[chore(deps): update module golang.org/x/net to v0.45.0 [security]](https://github.com/NethServer/ns8-core/pull/1163)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-04-25T08:48:53Z
+- :eyes:  **[chore(deps): update module golang.org/x/crypto to v0.45.0 [security]](https://github.com/NethServer/ns8-core/pull/1162)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-04-25T08:48:45Z
+- :eyes:  **[chore(deps): update module github.com/golang-jwt/jwt/v4 to v4.5.2 [security]](https://github.com/NethServer/ns8-core/pull/1161)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-04-25T08:48:37Z
 - :eyes:  **[fix(deps): update module github.com/spf13/cobra to v1.10.2](https://github.com/NethServer/ns8-core/pull/1160)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-04-25T05:29:49Z
 - :eyes:  **[fix(deps): update module github.com/olahol/melody to v1.4.0](https://github.com/NethServer/ns8-core/pull/1159)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-04-25T05:29:43Z
 - :eyes:  **[chore(deps): update dependency sass to v1.99.0](https://github.com/NethServer/ns8-core/pull/1158)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-04-25T01:23:05Z
 - :eyes:  **[chore(deps): update dependency core-js to v3.49.0](https://github.com/NethServer/ns8-core/pull/1157)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-04-24T20:34:29Z
 - :eyes:  **[chore(deps): update dependency @carbon/icons-vue to v10.128.0](https://github.com/NethServer/ns8-core/pull/1156)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-04-24T17:39:20Z
-- :eyes:  **[fix(deps): update module github.com/mattn/go-sqlite3 to v1.14.42](https://github.com/NethServer/ns8-core/pull/1155)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-04-24T17:36:35Z
 - :eyes:  **[fix(deps): update dependency uuid to v14 [security]](https://github.com/NethServer/ns8-core/pull/1149)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-04-24T09:59:13Z
 - :eyes:  **[Translations update from Hosted Weblate](https://github.com/NethServer/ns8-core/pull/1147)** by *weblate* - Reviewers: *None* - Created at: 2026-04-22T15:15:21Z
 - :eyes: :zzz: **[fix(deps): update module github.com/gin-gonic/gin to v1.12.0](https://github.com/NethServer/ns8-core/pull/1115)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-03-07T06:02:56Z
