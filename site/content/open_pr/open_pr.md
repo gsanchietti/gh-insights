@@ -1,6 +1,6 @@
 +++
 title = 'Open Pull Requests'
-date = 2026-04-27
+date = 2026-04-28
 +++
 
 ## Organization: nethserver
@@ -11,10 +11,6 @@ date = 2026-04-27
 - :eyes:  **[Suppress samba decryption error](https://github.com/NethServer/ns8-core/pull/1145)** by *mrmarkuz* - Reviewers: *None* - Created at: 2026-04-17T11:53:01Z
 -   **[docs: add NethVoice release procedure addendum](https://github.com/NethServer/ns8-core/pull/1136)** by *Copilot* - Reviewers: *Amygos* - Created at: 2026-03-30T14:06:18Z
 -  :zzz: **[feat: new default shell /bin/nologin](https://github.com/NethServer/ns8-core/pull/1129)** by *DavidePrincipi* - Reviewers: *stephdl* - Created at: 2026-03-20T16:43:22Z
-
-### NethServer/ns8-kickstart 1 
-
-- :eyes:  **[ci: fix ui tests](https://github.com/NethServer/ns8-kickstart/pull/113)** by *andre8244* - Reviewers: *None* - Created at: 2026-04-24T16:17:00Z
 
 ### NethServer/ns8-github-actions 1 
 
@@ -31,7 +27,7 @@ date = 2026-04-27
 
 ### NethServer/nethsecurity 4 
 
--   **[fix(ovpnrw): ensure only enabled users are recorded on disconnection](https://github.com/NethServer/nethsecurity/pull/1611)** by *m-dilorenzi* - Reviewers: *Tbaile* - Created at: 2026-04-23T13:43:22Z
+- :eyes:  **[fix(openvpn-rw): update server key path handling for migrated systems](https://github.com/NethServer/nethsecurity/pull/1613)** by *m-dilorenzi* - Reviewers: *None* - Created at: 2026-04-27T12:08:46Z
 - :eyes:  **[feat(ns-plug): dual-send backup to my-new proxy](https://github.com/NethServer/nethsecurity/pull/1608)** by *edospadoni* - Reviewers: *None* - Created at: 2026-04-22T13:32:27Z
 - :eyes:  **[refactor: dpireport replacement](https://github.com/NethServer/nethsecurity/pull/1605)** by *Tbaile* - Reviewers: *None* - Created at: 2026-04-21T08:13:03Z
 - :eyes: :zzz: **[build: added softflowd](https://github.com/NethServer/nethsecurity/pull/1453)** by *Tbaile* - Reviewers: *None* - Created at: 2025-12-10T11:48:14Z
@@ -40,9 +36,8 @@ date = 2026-04-27
 
 -   **[perf: removed relabeling for high inode volumes](https://github.com/NethServer/ns8-nethsecurity-controller/pull/200)** by *Tbaile* - Reviewers: *gsanchietti* - Created at: 2026-03-30T08:23:54Z
 
-### NethServer/ns8-webtop 3 
+### NethServer/ns8-webtop 2 
 
--   **[refactor: centralize module testing](https://github.com/NethServer/ns8-webtop/pull/237)** by *Copilot* - Reviewers: *andre8244* - Created at: 2026-04-24T13:15:02Z
 - :eyes:  **[test build cache](https://github.com/NethServer/ns8-webtop/pull/233)** by *stephdl* - Reviewers: *None* - Created at: 2026-04-17T11:07:17Z
 -   **[Cache Maven build artifacts in CI to speed up builds](https://github.com/NethServer/ns8-webtop/pull/231)** by *stephdl* - Reviewers: *DavidePrincipi* - Created at: 2026-04-17T09:46:35Z
 
@@ -63,10 +58,8 @@ date = 2026-04-27
 
 - :eyes:  **[feat: added icons and better labels to daily traffic view](https://github.com/NethServer/nethsecurity-ui/pull/743)** by *Tbaile* - Reviewers: *None* - Created at: 2026-04-21T07:55:04Z
 
-### NethServer/nethsecurity-docs 5 
+### NethServer/nethsecurity-docs 3 
 
--   **[fix: real name is DNS4EU](https://github.com/NethServer/nethsecurity-docs/pull/250)** by *filippocarletti* - Reviewers: *gsanchietti, cotosso* - Created at: 2026-04-24T10:36:13Z
--   **[Https dns proxy fix configuration](https://github.com/NethServer/nethsecurity-docs/pull/249)** by *cotosso* - Reviewers: *gsanchietti* - Created at: 2026-04-24T08:14:41Z
 -   **[feat: add checkmk agent](https://github.com/NethServer/nethsecurity-docs/pull/248)** by *gsanchietti* - Reviewers: *cotosso* - Created at: 2026-04-17T12:42:27Z
 - :eyes:  **[feat(logs): add CLM](https://github.com/NethServer/nethsecurity-docs/pull/238)** by *gsanchietti* - Reviewers: *None* - Created at: 2026-03-31T12:56:55Z
 -  :zzz: **[feat: added softflowd doc](https://github.com/NethServer/nethsecurity-docs/pull/227)** by *Tbaile* - Reviewers: *cotosso* - Created at: 2026-03-05T09:29:42Z
@@ -77,7 +70,7 @@ date = 2026-04-27
 
 ### NethServer/ns8-nethforge 1 
 
--   **[feat(module): Add Hermes Agent module for NS8](https://github.com/NethServer/ns8-nethforge/pull/39)** by *Stell0* - Reviewers: *DavidePrincipi* - Created at: 2026-04-23T09:07:23Z
+-   **[feat(module): Add Hermes Agent module for NS8](https://github.com/NethServer/ns8-nethforge/pull/39)** by *Stell0* - Reviewers: *gsanchietti* - Created at: 2026-04-23T09:07:23Z
 
 ### NethServer/nethlink 1 
 
@@ -90,7 +83,7 @@ date = 2026-04-27
 
 ### NethServer/nethvoice-docs 2 
 
-- :eyes:  **[feat: add API Migration Status page](https://github.com/NethServer/nethvoice-docs/pull/48)** by *tommaso-ascani* - Reviewers: *None* - Created at: 2026-04-22T09:18:40Z
+- :eyes:  **[Fanvil W series added](https://github.com/NethServer/nethvoice-docs/pull/50)** by *andrea-marchionni* - Reviewers: *None* - Created at: 2026-04-27T11:30:24Z
 -   **[feat: enhance documentation for AI call transcription and summary](https://github.com/NethServer/nethvoice-docs/pull/44)** by *tommaso-ascani* - Reviewers: *gsanchietti* - Created at: 2026-04-13T13:38:04Z
 
 ### NethServer/nethsecurity-monitoring 1 
@@ -129,7 +122,7 @@ date = 2026-04-27
 
 ### nethesis/ns8-nethvoice 5 
 
--   **[feat: add spool volume label](https://github.com/nethesis/ns8-nethvoice/pull/789)** by *Amygos* - Reviewers: *DavidePrincipi* - Created at: 2026-04-22T14:23:51Z
+- :eyes:  **[feat: add spool volume label](https://github.com/nethesis/ns8-nethvoice/pull/789)** by *Amygos* - Reviewers: *None* - Created at: 2026-04-22T14:23:51Z
 - :eyes:  **[fix(transcriptions): update satellite transcription handling](https://github.com/nethesis/ns8-nethvoice/pull/781)** by *tommaso-ascani* - Reviewers: *None* - Created at: 2026-04-14T10:29:41Z
 - :eyes:  **[feat: implement AGI script for handling calls answered elsewhere](https://github.com/nethesis/ns8-nethvoice/pull/751)** by *tommaso-ascani* - Reviewers: *None* - Created at: 2026-04-03T17:39:50Z
 - :eyes:  **[fix(janus): fix one-way audio after long SIP hold](https://github.com/nethesis/ns8-nethvoice/pull/743)** by *edospadoni* - Reviewers: *None* - Created at: 2026-03-31T07:49:10Z

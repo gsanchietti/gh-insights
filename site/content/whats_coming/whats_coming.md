@@ -2,7 +2,7 @@
 
 title = 'To be released soon'
 
-date = 2026-04-27
+date = 2026-04-28
 
 +++
 
@@ -58,13 +58,15 @@ date = 2026-04-27
 
 ### NethSecurity
 
-- [Backup download hangs indefinitely on boot when firewall has no connectivity](https://github.com/NethServer/nethsecurity/issues/1598) (#1579) by cotosso (Created: 2026-04-16T11:13:38Z, Updated: 2026-04-23T10:02:06Z)
+- [Backup download hangs indefinitely on boot when firewall has no connectivity](https://github.com/NethServer/nethsecurity/issues/1598) (#1404) by cotosso (Created: 2026-04-16T11:13:38Z, Updated: 2026-04-23T10:02:06Z)
 
-- [DNS field in inventory not populated for some firewalls](https://github.com/NethServer/nethsecurity/issues/1594) (#1579) by Tbaile (Created: 2026-04-15T13:25:37Z, Updated: 2026-04-21T06:17:40Z)
+- [DNS field in inventory not populated for some firewalls](https://github.com/NethServer/nethsecurity/issues/1594) (#1404) by Tbaile (Created: 2026-04-15T13:25:37Z, Updated: 2026-04-21T06:17:40Z)
 
-- [Add Check_MK agent and NethSecurity Check_MK utilities](https://github.com/NethServer/nethsecurity/issues/1582) (#1579) by gsanchietti (Created: 2026-04-02T13:24:40Z, Updated: 2026-04-17T09:47:11Z)
+- [Add Check_MK agent and NethSecurity Check_MK utilities](https://github.com/NethServer/nethsecurity/issues/1582) (#1404) by gsanchietti (Created: 2026-04-02T13:24:40Z, Updated: 2026-04-17T09:47:11Z)
 
-- [CLM agent for NethSecurity](https://github.com/NethServer/nethsecurity/issues/1580) (#1579) by cotosso (Created: 2026-04-01T06:56:19Z, Updated: 2026-04-21T06:21:23Z)
+- [CLM agent for NethSecurity](https://github.com/NethServer/nethsecurity/issues/1580) (#1404) by cotosso (Created: 2026-04-01T06:56:19Z, Updated: 2026-04-21T06:21:23Z)
 
-- [flashstart: ipsets ranges not added and bypasses not working correctly](https://github.com/NethServer/nethsecurity/issues/1579) (#1579) by Tbaile (Created: 2026-03-31T14:41:07Z, Updated: 2026-04-16T10:53:01Z)
+- [flashstart: ipsets ranges not added and bypasses not working correctly](https://github.com/NethServer/nethsecurity/issues/1579) (#1404) by Tbaile (Created: 2026-03-31T14:41:07Z, Updated: 2026-04-16T10:53:01Z)
+
+- [Show full OpenVPN RW in the UI connection history from stored logs instead of RAM](https://github.com/NethServer/nethsecurity/issues/1404) (#1404) by cotosso (Created: 2025-10-22T10:48:02Z, Updated: 2026-04-27T08:37:27Z)
 
