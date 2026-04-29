@@ -1,12 +1,13 @@
 +++
 title = 'Open Pull Requests'
-date = 2026-04-28
+date = 2026-04-29
 +++
 
 ## Organization: nethserver
 
-### NethServer/ns8-core 4 
+### NethServer/ns8-core 5 
 
+-   **[feat(ns8-sendmail): log SMTP submission status and details](https://github.com/NethServer/ns8-core/pull/1164)** by *gsanchietti* - Reviewers: *DavidePrincipi* - Created at: 2026-04-28T12:43:33Z
 - :eyes:  **[feat(backup): dual-send cluster backup to my-new proxy](https://github.com/NethServer/ns8-core/pull/1146)** by *edospadoni* - Reviewers: *None* - Created at: 2026-04-22T13:24:38Z
 - :eyes:  **[Suppress samba decryption error](https://github.com/NethServer/ns8-core/pull/1145)** by *mrmarkuz* - Reviewers: *None* - Created at: 2026-04-17T11:53:01Z
 -   **[docs: add NethVoice release procedure addendum](https://github.com/NethServer/ns8-core/pull/1136)** by *Copilot* - Reviewers: *Amygos* - Created at: 2026-03-30T14:06:18Z
@@ -25,12 +26,18 @@ date = 2026-04-28
 - :eyes:  **[refactor: centralize module testing](https://github.com/NethServer/ns8-traefik/pull/131)** by *Copilot* - Reviewers: *None* - Created at: 2026-04-23T08:45:10Z
 - :eyes: :zzz: **[fix: cryptography 45 deprecation warning](https://github.com/NethServer/ns8-traefik/pull/120)** by *DavidePrincipi* - Reviewers: *None* - Created at: 2025-10-28T08:48:29Z
 
-### NethServer/nethsecurity 4 
+### NethServer/nethsecurity 6 
 
+-   **[chore: add more info to agents.md](https://github.com/NethServer/nethsecurity/pull/1620)** by *gsanchietti* - Reviewers: *Tbaile* - Created at: 2026-04-29T05:31:51Z
+- :eyes:  **[fix(reverse_proxy): added certificate checks for file uploaded](https://github.com/NethServer/nethsecurity/pull/1619)** by *Tbaile* - Reviewers: *None* - Created at: 2026-04-28T14:20:33Z
 - :eyes:  **[fix(openvpn-rw): update server key path handling for migrated systems](https://github.com/NethServer/nethsecurity/pull/1613)** by *m-dilorenzi* - Reviewers: *None* - Created at: 2026-04-27T12:08:46Z
 - :eyes:  **[feat(ns-plug): dual-send backup to my-new proxy](https://github.com/NethServer/nethsecurity/pull/1608)** by *edospadoni* - Reviewers: *None* - Created at: 2026-04-22T13:32:27Z
 - :eyes:  **[refactor: dpireport replacement](https://github.com/NethServer/nethsecurity/pull/1605)** by *Tbaile* - Reviewers: *None* - Created at: 2026-04-21T08:13:03Z
 - :eyes: :zzz: **[build: added softflowd](https://github.com/NethServer/nethsecurity/pull/1453)** by *Tbaile* - Reviewers: *None* - Created at: 2025-12-10T11:48:14Z
+
+### NethServer/ns8-mail 1 
+
+- :eyes:  **[Update to rspamd 4.x and add configuration options](https://github.com/NethServer/ns8-mail/pull/258)** by *stephdl* - Reviewers: *None* - Created at: 2026-04-28T07:53:07Z
 
 ### NethServer/ns8-nethsecurity-controller 1 
 
@@ -54,8 +61,9 @@ date = 2026-04-28
 
 -   **[Use random password instead of the predefined one](https://github.com/NethServer/ns8-images/pull/12)** by *mrmarkuz* - Reviewers: *DavidePrincipi* - Created at: 2026-04-14T09:25:41Z
 
-### NethServer/nethsecurity-ui 1 
+### NethServer/nethsecurity-ui 2 
 
+- :eyes:  **[fix(certificates): added message labels for certificate drawer](https://github.com/NethServer/nethsecurity-ui/pull/748)** by *Tbaile* - Reviewers: *None* - Created at: 2026-04-28T14:49:45Z
 - :eyes:  **[feat: added icons and better labels to daily traffic view](https://github.com/NethServer/nethsecurity-ui/pull/743)** by *Tbaile* - Reviewers: *None* - Created at: 2026-04-21T07:55:04Z
 
 ### NethServer/nethsecurity-docs 3 
@@ -120,8 +128,9 @@ date = 2026-04-28
 
 - :eyes:  **[feat: add cookie support for support proxy integration](https://github.com/nethesis/nethvoice-report/pull/209)** by *edospadoni* - Reviewers: *None* - Created at: 2026-03-30T08:57:52Z
 
-### nethesis/ns8-nethvoice 5 
+### nethesis/ns8-nethvoice 6 
 
+-   **[Fix transcriptions 3](https://github.com/nethesis/ns8-nethvoice/pull/803)** by *Stell0* - Reviewers: *tommaso-ascani* - Created at: 2026-04-28T07:53:15Z
 - :eyes:  **[feat: add spool volume label](https://github.com/nethesis/ns8-nethvoice/pull/789)** by *Amygos* - Reviewers: *None* - Created at: 2026-04-22T14:23:51Z
 - :eyes:  **[fix(transcriptions): update satellite transcription handling](https://github.com/nethesis/ns8-nethvoice/pull/781)** by *tommaso-ascani* - Reviewers: *None* - Created at: 2026-04-14T10:29:41Z
 - :eyes:  **[feat: implement AGI script for handling calls answered elsewhere](https://github.com/nethesis/ns8-nethvoice/pull/751)** by *tommaso-ascani* - Reviewers: *None* - Created at: 2026-04-03T17:39:50Z
@@ -138,7 +147,7 @@ date = 2026-04-28
 - :eyes:  **[Add missing notification on videocall start](https://github.com/nethesis/phone-island/pull/223)** by *tonyco97* - Reviewers: *None* - Created at: 2026-04-22T07:26:49Z
 - :eyes:  **[fix: enhance transcription handling with linkedId and uniqueId](https://github.com/nethesis/phone-island/pull/216)** by *tommaso-ascani* - Reviewers: *None* - Created at: 2026-04-14T10:17:20Z
 
-### nethesis/ns8-nethvoice-proxy 10 
+### nethesis/ns8-nethvoice-proxy 8 
 
 - :eyes:  **[fix: preserve local networks in ui](https://github.com/nethesis/ns8-nethvoice-proxy/pull/165)** by *Amygos* - Reviewers: *None* - Created at: 2026-04-22T15:13:51Z
 - :eyes: :zzz: **[feat: Dynamic port slot binding for multi-trunk support (Vianova)](https://github.com/nethesis/ns8-nethvoice-proxy/pull/158)** by *paolovisintin* - Reviewers: *None* - Created at: 2026-03-24T10:43:30Z
@@ -147,8 +156,6 @@ date = 2026-04-28
 -  :zzz: **[refactor: remove 12 unused kamailio modules](https://github.com/nethesis/ns8-nethvoice-proxy/pull/146)** by *Amygos* - Reviewers: *paolovisintin* - Created at: 2026-02-23T08:21:37Z
 -  :zzz: **[fix: check ds_select_dst return value](https://github.com/nethesis/ns8-nethvoice-proxy/pull/143)** by *Amygos* - Reviewers: *paolovisintin* - Created at: 2026-02-23T08:21:28Z
 -  :zzz: **[fix: increase fr_timer from 1s to 30s](https://github.com/nethesis/ns8-nethvoice-proxy/pull/141)** by *Amygos* - Reviewers: *paolovisintin* - Created at: 2026-02-23T08:06:07Z
-- :eyes: :zzz: **[build(rtpengine): migrate to Ubuntu 24.04](https://github.com/nethesis/ns8-nethvoice-proxy/pull/139)** by *Amygos* - Reviewers: *None* - Created at: 2026-02-12T13:08:07Z
-- :eyes: :zzz: **[build(kamailio): update base image to Ubuntu 24.04](https://github.com/nethesis/ns8-nethvoice-proxy/pull/136)** by *Amygos* - Reviewers: *None* - Created at: 2026-02-10T15:31:39Z
 - :eyes: :zzz: **[164 notify timeout](https://github.com/nethesis/ns8-nethvoice-proxy/pull/123)** by *paolovisintin* - Reviewers: *None* - Created at: 2026-01-14T08:00:32Z
 
 ### nethesis/vue-components 1 

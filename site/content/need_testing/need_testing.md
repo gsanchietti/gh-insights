@@ -1,6 +1,6 @@
 +++
 title = 'Need testing (8)'
-date = 2026-04-28
+date = 2026-04-29
 +++
 
 ## NethVoice
@@ -15,5 +15,5 @@ date = 2026-04-28
 - :point_right: **[Imapsync boot failure due to Mail agent not ready](https://github.com/NethServer/dev/issues/7910)** (#7143) by *DavidePrincipi* (Created: 2026-03-06, Updated: 2026-03-27T08:23:11Z)
 
 ## NethSecurity
-- **[Daily Traffic: inconsistent metrics](https://github.com/NethServer/nethsecurity/issues/1604)** (#1604) by *Tbaile* (Created: 2026-04-21, Updated: 2026-04-22T08:10:20Z)
+- :point_right: **[Daily Traffic: inconsistent metrics](https://github.com/NethServer/nethsecurity/issues/1604)** (#1604) by *Tbaile* (Created: 2026-04-21, Updated: 2026-04-22T08:10:20Z)
 
