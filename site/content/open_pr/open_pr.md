@@ -1,21 +1,21 @@
 +++
 title = 'Open Pull Requests'
-date = 2026-04-29
+date = 2026-04-30
 +++
 
 ## Organization: nethserver
 
 ### NethServer/ns8-core 5 
 
--   **[feat(ns8-sendmail): log SMTP submission status and details](https://github.com/NethServer/ns8-core/pull/1164)** by *gsanchietti* - Reviewers: *DavidePrincipi* - Created at: 2026-04-28T12:43:33Z
+- :eyes:  **[Update visibility condition for password expiration policy toggle](https://github.com/NethServer/ns8-core/pull/1167)** by *stephdl* - Reviewers: *None* - Created at: 2026-04-29T11:21:35Z
 - :eyes:  **[feat(backup): dual-send cluster backup to my-new proxy](https://github.com/NethServer/ns8-core/pull/1146)** by *edospadoni* - Reviewers: *None* - Created at: 2026-04-22T13:24:38Z
 - :eyes:  **[Suppress samba decryption error](https://github.com/NethServer/ns8-core/pull/1145)** by *mrmarkuz* - Reviewers: *None* - Created at: 2026-04-17T11:53:01Z
--   **[docs: add NethVoice release procedure addendum](https://github.com/NethServer/ns8-core/pull/1136)** by *Copilot* - Reviewers: *Amygos* - Created at: 2026-03-30T14:06:18Z
+-  :zzz: **[docs: add NethVoice release procedure addendum](https://github.com/NethServer/ns8-core/pull/1136)** by *Copilot* - Reviewers: *Amygos* - Created at: 2026-03-30T14:06:18Z
 -  :zzz: **[feat: new default shell /bin/nologin](https://github.com/NethServer/ns8-core/pull/1129)** by *DavidePrincipi* - Reviewers: *stephdl* - Created at: 2026-03-20T16:43:22Z
 
 ### NethServer/ns8-github-actions 1 
 
--   **[Add optional extra cache inputs to publish-branch workflow](https://github.com/NethServer/ns8-github-actions/pull/47)** by *stephdl* - Reviewers: *Amygos, DavidePrincipi* - Created at: 2026-04-17T09:59:18Z
+- :eyes:  **[Add optional extra cache inputs to publish-branch workflow](https://github.com/NethServer/ns8-github-actions/pull/47)** by *stephdl* - Reviewers: *None* - Created at: 2026-04-17T09:59:18Z
 
 ### NethServer/ns8-nextcloud 1 
 
@@ -26,27 +26,27 @@ date = 2026-04-29
 - :eyes:  **[refactor: centralize module testing](https://github.com/NethServer/ns8-traefik/pull/131)** by *Copilot* - Reviewers: *None* - Created at: 2026-04-23T08:45:10Z
 - :eyes: :zzz: **[fix: cryptography 45 deprecation warning](https://github.com/NethServer/ns8-traefik/pull/120)** by *DavidePrincipi* - Reviewers: *None* - Created at: 2025-10-28T08:48:29Z
 
-### NethServer/nethsecurity 6 
+### NethServer/ns8-openldap 1 
 
--   **[chore: add more info to agents.md](https://github.com/NethServer/nethsecurity/pull/1620)** by *gsanchietti* - Reviewers: *Tbaile* - Created at: 2026-04-29T05:31:51Z
+- :eyes:  **[Add no_password_expiration option for user management](https://github.com/NethServer/ns8-openldap/pull/120)** by *stephdl* - Reviewers: *None* - Created at: 2026-04-29T11:09:55Z
+
+### NethServer/nethsecurity 7 
+
+-   **[fix(snort3): prevent boot hang when rules download times out](https://github.com/NethServer/nethsecurity/pull/1622)** by *gsanchietti* - Reviewers: *Tbaile* - Created at: 2026-04-29T10:00:26Z
+-   **[feat(snort): add max_inspect_bytes nftables rule for large file handling](https://github.com/NethServer/nethsecurity/pull/1621)** by *gsanchietti* - Reviewers: *filippocarletti* - Created at: 2026-04-29T09:16:48Z
 - :eyes:  **[fix(reverse_proxy): added certificate checks for file uploaded](https://github.com/NethServer/nethsecurity/pull/1619)** by *Tbaile* - Reviewers: *None* - Created at: 2026-04-28T14:20:33Z
 - :eyes:  **[fix(openvpn-rw): update server key path handling for migrated systems](https://github.com/NethServer/nethsecurity/pull/1613)** by *m-dilorenzi* - Reviewers: *None* - Created at: 2026-04-27T12:08:46Z
 - :eyes:  **[feat(ns-plug): dual-send backup to my-new proxy](https://github.com/NethServer/nethsecurity/pull/1608)** by *edospadoni* - Reviewers: *None* - Created at: 2026-04-22T13:32:27Z
 - :eyes:  **[refactor: dpireport replacement](https://github.com/NethServer/nethsecurity/pull/1605)** by *Tbaile* - Reviewers: *None* - Created at: 2026-04-21T08:13:03Z
 - :eyes: :zzz: **[build: added softflowd](https://github.com/NethServer/nethsecurity/pull/1453)** by *Tbaile* - Reviewers: *None* - Created at: 2025-12-10T11:48:14Z
 
-### NethServer/ns8-mail 1 
-
-- :eyes:  **[Update to rspamd 4.x and add configuration options](https://github.com/NethServer/ns8-mail/pull/258)** by *stephdl* - Reviewers: *None* - Created at: 2026-04-28T07:53:07Z
-
 ### NethServer/ns8-nethsecurity-controller 1 
 
--   **[perf: removed relabeling for high inode volumes](https://github.com/NethServer/ns8-nethsecurity-controller/pull/200)** by *Tbaile* - Reviewers: *gsanchietti* - Created at: 2026-03-30T08:23:54Z
+-  :zzz: **[perf: removed relabeling for high inode volumes](https://github.com/NethServer/ns8-nethsecurity-controller/pull/200)** by *Tbaile* - Reviewers: *gsanchietti* - Created at: 2026-03-30T08:23:54Z
 
-### NethServer/ns8-webtop 2 
+### NethServer/ns8-webtop 1 
 
-- :eyes:  **[test build cache](https://github.com/NethServer/ns8-webtop/pull/233)** by *stephdl* - Reviewers: *None* - Created at: 2026-04-17T11:07:17Z
--   **[Cache Maven build artifacts in CI to speed up builds](https://github.com/NethServer/ns8-webtop/pull/231)** by *stephdl* - Reviewers: *DavidePrincipi* - Created at: 2026-04-17T09:46:35Z
+- :eyes:  **[Cache Maven build artifacts in CI to speed up builds](https://github.com/NethServer/ns8-webtop/pull/231)** by *stephdl* - Reviewers: *None* - Created at: 2026-04-17T09:46:35Z
 
 ### NethServer/phonehome-server 1 
 
@@ -59,26 +59,24 @@ date = 2026-04-29
 
 ### NethServer/ns8-images 1 
 
--   **[Use random password instead of the predefined one](https://github.com/NethServer/ns8-images/pull/12)** by *mrmarkuz* - Reviewers: *DavidePrincipi* - Created at: 2026-04-14T09:25:41Z
+- :eyes:  **[Use random password instead of the predefined one](https://github.com/NethServer/ns8-images/pull/12)** by *mrmarkuz* - Reviewers: *None* - Created at: 2026-04-14T09:25:41Z
 
 ### NethServer/nethsecurity-ui 2 
 
 - :eyes:  **[fix(certificates): added message labels for certificate drawer](https://github.com/NethServer/nethsecurity-ui/pull/748)** by *Tbaile* - Reviewers: *None* - Created at: 2026-04-28T14:49:45Z
 - :eyes:  **[feat: added icons and better labels to daily traffic view](https://github.com/NethServer/nethsecurity-ui/pull/743)** by *Tbaile* - Reviewers: *None* - Created at: 2026-04-21T07:55:04Z
 
-### NethServer/nethsecurity-docs 3 
+### NethServer/nethsecurity-docs 1 
 
--   **[feat: add checkmk agent](https://github.com/NethServer/nethsecurity-docs/pull/248)** by *gsanchietti* - Reviewers: *cotosso* - Created at: 2026-04-17T12:42:27Z
-- :eyes:  **[feat(logs): add CLM](https://github.com/NethServer/nethsecurity-docs/pull/238)** by *gsanchietti* - Reviewers: *None* - Created at: 2026-03-31T12:56:55Z
 -  :zzz: **[feat: added softflowd doc](https://github.com/NethServer/nethsecurity-docs/pull/227)** by *Tbaile* - Reviewers: *cotosso* - Created at: 2026-03-05T09:29:42Z
 
 ### NethServer/ns8-user-manager 1 
 
-- :eyes: :zzz: **[chore(main): release 1.2.5](https://github.com/NethServer/ns8-user-manager/pull/134)** by *Tbaile* - Reviewers: *None* - Created at: 2025-10-06T20:38:53Z
+- :eyes:  **[fix(EditUserDrawer): allow openldap for no password expiration policy](https://github.com/NethServer/ns8-user-manager/pull/171)** by *stephdl* - Reviewers: *None* - Created at: 2026-04-29T13:25:46Z
 
 ### NethServer/ns8-nethforge 1 
 
--   **[feat(module): Add Hermes Agent module for NS8](https://github.com/NethServer/ns8-nethforge/pull/39)** by *Stell0* - Reviewers: *gsanchietti* - Created at: 2026-04-23T09:07:23Z
+- :eyes:  **[feat(module): Add Hermes Agent module for NS8](https://github.com/NethServer/ns8-nethforge/pull/39)** by *Stell0* - Reviewers: *None* - Created at: 2026-04-23T09:07:23Z
 
 ### NethServer/nethlink 1 
 
@@ -126,7 +124,7 @@ date = 2026-04-29
 
 ### nethesis/nethvoice-report 1 
 
-- :eyes:  **[feat: add cookie support for support proxy integration](https://github.com/nethesis/nethvoice-report/pull/209)** by *edospadoni* - Reviewers: *None* - Created at: 2026-03-30T08:57:52Z
+- :eyes: :zzz: **[feat: add cookie support for support proxy integration](https://github.com/nethesis/nethvoice-report/pull/209)** by *edospadoni* - Reviewers: *None* - Created at: 2026-03-30T08:57:52Z
 
 ### nethesis/ns8-nethvoice 6 
 
@@ -178,7 +176,7 @@ date = 2026-04-29
 ### nethesis/nethcti-middleware 3 
 
 - :eyes:  **[fix: update API to support linked IDs for transcription and summary](https://github.com/nethesis/nethcti-middleware/pull/44)** by *tommaso-ascani* - Reviewers: *None* - Created at: 2026-04-14T10:17:21Z
-- :eyes:  **[feat: add support user authentication for FreePBX CTI APIs](https://github.com/nethesis/nethcti-middleware/pull/42)** by *edospadoni* - Reviewers: *None* - Created at: 2026-03-30T08:59:50Z
+- :eyes: :zzz: **[feat: add support user authentication for FreePBX CTI APIs](https://github.com/nethesis/nethcti-middleware/pull/42)** by *edospadoni* - Reviewers: *None* - Created at: 2026-03-30T08:59:50Z
 -  :zzz: **[feat: add GET /chat endpoint](https://github.com/nethesis/nethcti-middleware/pull/16)** by *gsanchietti* - Reviewers: *tommaso-ascani* - Created at: 2025-12-17T10:53:42Z
 
 ### nethesis/matrix2acrobits 1 
