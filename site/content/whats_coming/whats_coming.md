@@ -2,7 +2,7 @@
 
 title = 'To be released soon'
 
-date = 2026-04-30
+date = 2026-05-01
 
 +++
 
@@ -50,23 +50,15 @@ date = 2026-04-30
 
 ### NethServer
 
-- [Podman volume appears in additional volume selection](https://github.com/NethServer/dev/issues/7960) (#7332) by DavidePrincipi (Created: 2026-04-09T07:50:52Z, Updated: 2026-04-14T07:44:45Z)
-
 - [Change WebTop OTP field type to avoid browser password update](https://github.com/NethServer/dev/issues/7845) (#7332) by federicoballarini (Created: 2026-02-01T14:43:18Z, Updated: 2026-04-16T09:48:50Z)
 
 - [WebTop: request to remove webtop-tmceplugins.jar](https://github.com/NethServer/dev/issues/7792) (#7332) by lucagasparini (Created: 2025-12-16T14:24:32Z, Updated: 2026-04-16T09:48:27Z)
 
 ### NethSecurity
 
-- [Backup download hangs indefinitely on boot when firewall has no connectivity](https://github.com/NethServer/nethsecurity/issues/1598) (#1404) by cotosso (Created: 2026-04-16T11:13:38Z, Updated: 2026-04-23T10:02:06Z)
+- [IPS breaks file transfers larger than 4GB](https://github.com/NethServer/nethsecurity/issues/1624) (#1612) by cotosso (Created: 2026-04-29T10:06:40Z, Updated: 2026-04-30T09:41:24Z)
 
-- [DNS field in inventory not populated for some firewalls](https://github.com/NethServer/nethsecurity/issues/1594) (#1404) by Tbaile (Created: 2026-04-15T13:25:37Z, Updated: 2026-04-21T06:17:40Z)
+- [reverse proxy: add cryptographic validation for uploaded certificates](https://github.com/NethServer/nethsecurity/issues/1618) (#1612) by Tbaile (Created: 2026-04-28T14:15:57Z, Updated: 2026-04-30T12:36:46Z)
 
-- [Add Check_MK agent and NethSecurity Check_MK utilities](https://github.com/NethServer/nethsecurity/issues/1582) (#1404) by gsanchietti (Created: 2026-04-02T13:24:40Z, Updated: 2026-04-17T09:47:11Z)
-
-- [CLM agent for NethSecurity](https://github.com/NethServer/nethsecurity/issues/1580) (#1404) by cotosso (Created: 2026-04-01T06:56:19Z, Updated: 2026-04-21T06:21:23Z)
-
-- [flashstart: ipsets ranges not added and bypasses not working correctly](https://github.com/NethServer/nethsecurity/issues/1579) (#1404) by Tbaile (Created: 2026-03-31T14:41:07Z, Updated: 2026-04-16T10:53:01Z)
-
-- [Show full OpenVPN RW in the UI connection history from stored logs instead of RAM](https://github.com/NethServer/nethsecurity/issues/1404) (#1404) by cotosso (Created: 2025-10-22T10:48:02Z, Updated: 2026-04-27T08:37:27Z)
+- [OpenVPN RW: Certificate regeneration fails on migrated 7.9 systems](https://github.com/NethServer/nethsecurity/issues/1612) (#1612) by francio87 (Created: 2026-04-24T08:50:03Z, Updated: 2026-04-30T08:47:36Z)
 

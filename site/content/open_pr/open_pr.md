@@ -1,6 +1,6 @@
 +++
 title = 'Open Pull Requests'
-date = 2026-04-30
+date = 2026-05-01
 +++
 
 ## Organization: nethserver
@@ -32,12 +32,12 @@ date = 2026-04-30
 
 ### NethServer/nethsecurity 7 
 
--   **[fix(snort3): prevent boot hang when rules download times out](https://github.com/NethServer/nethsecurity/pull/1622)** by *gsanchietti* - Reviewers: *Tbaile* - Created at: 2026-04-29T10:00:26Z
--   **[feat(snort): add max_inspect_bytes nftables rule for large file handling](https://github.com/NethServer/nethsecurity/pull/1621)** by *gsanchietti* - Reviewers: *filippocarletti* - Created at: 2026-04-29T09:16:48Z
-- :eyes:  **[fix(reverse_proxy): added certificate checks for file uploaded](https://github.com/NethServer/nethsecurity/pull/1619)** by *Tbaile* - Reviewers: *None* - Created at: 2026-04-28T14:20:33Z
-- :eyes:  **[fix(openvpn-rw): update server key path handling for migrated systems](https://github.com/NethServer/nethsecurity/pull/1613)** by *m-dilorenzi* - Reviewers: *None* - Created at: 2026-04-27T12:08:46Z
+-   **[fix(api): prevent error on dashboard](https://github.com/NethServer/nethsecurity/pull/1636)** by *gsanchietti* - Reviewers: *Tbaile* - Created at: 2026-04-30T15:37:21Z
+- :eyes:  **[[EXPERIMENTAL] Alerts and charts using Victoria Metrics](https://github.com/NethServer/nethsecurity/pull/1633)** by *gsanchietti* - Reviewers: *None* - Created at: 2026-04-30T14:42:26Z
+-   **[feat(openvpn): set default tun_mtu and mssfix values for OpenVPN instances](https://github.com/NethServer/nethsecurity/pull/1632)** by *m-dilorenzi* - Reviewers: *Tbaile* - Created at: 2026-04-30T12:15:16Z
 - :eyes:  **[feat(ns-plug): dual-send backup to my-new proxy](https://github.com/NethServer/nethsecurity/pull/1608)** by *edospadoni* - Reviewers: *None* - Created at: 2026-04-22T13:32:27Z
-- :eyes:  **[refactor: dpireport replacement](https://github.com/NethServer/nethsecurity/pull/1605)** by *Tbaile* - Reviewers: *None* - Created at: 2026-04-21T08:13:03Z
+-   **[refactor: dpireport replacement](https://github.com/NethServer/nethsecurity/pull/1605)** by *Tbaile* - Reviewers: *gsanchietti* - Created at: 2026-04-21T08:13:03Z
+- :eyes:  **[refactor: using custom script to configure netifyd](https://github.com/NethServer/nethsecurity/pull/1603)** by *Tbaile* - Reviewers: *None* - Created at: 2026-04-21T06:22:34Z
 - :eyes: :zzz: **[build: added softflowd](https://github.com/NethServer/nethsecurity/pull/1453)** by *Tbaile* - Reviewers: *None* - Created at: 2025-12-10T11:48:14Z
 
 ### NethServer/ns8-nethsecurity-controller 1 
@@ -60,11 +60,6 @@ date = 2026-04-30
 ### NethServer/ns8-images 1 
 
 - :eyes:  **[Use random password instead of the predefined one](https://github.com/NethServer/ns8-images/pull/12)** by *mrmarkuz* - Reviewers: *None* - Created at: 2026-04-14T09:25:41Z
-
-### NethServer/nethsecurity-ui 2 
-
-- :eyes:  **[fix(certificates): added message labels for certificate drawer](https://github.com/NethServer/nethsecurity-ui/pull/748)** by *Tbaile* - Reviewers: *None* - Created at: 2026-04-28T14:49:45Z
-- :eyes:  **[feat: added icons and better labels to daily traffic view](https://github.com/NethServer/nethsecurity-ui/pull/743)** by *Tbaile* - Reviewers: *None* - Created at: 2026-04-21T07:55:04Z
 
 ### NethServer/nethsecurity-docs 1 
 
@@ -94,7 +89,7 @@ date = 2026-04-30
 
 ### NethServer/nethsecurity-monitoring 1 
 
-- :eyes:  **[chore(main): release 1.0.3](https://github.com/NethServer/nethsecurity-monitoring/pull/19)** by *Tbaile* - Reviewers: *None* - Created at: 2026-04-25T17:18:40Z
+- :eyes:  **[chore(main): release 1.1.1](https://github.com/NethServer/nethsecurity-monitoring/pull/21)** by *Tbaile* - Reviewers: *None* - Created at: 2026-04-30T14:37:48Z
 
 ## Organization: nethesis
 
@@ -114,6 +109,10 @@ date = 2026-04-30
 
 - :eyes:  **[Fix query in AGI](https://github.com/nethesis/returnontransfer/pull/6)** by *andrea-marchionni* - Reviewers: *None* - Created at: 2026-04-24T08:21:40Z
 
+### nethesis/contatta 1 
+
+- :eyes:  **[Add trunk attributes handling and improve reload logic for inbound routes](https://github.com/nethesis/contatta/pull/18)** by *gbordonimaps* - Reviewers: *None* - Created at: 2026-04-30T10:26:15Z
+
 ### nethesis/nethcti-app-android 1 
 
 -  :zzz: **[Removed old notificator](https://github.com/nethesis/nethcti-app-android/pull/30)** by *mirkopruiti* - Reviewers: *b9874e* - Created at: 2023-08-02T09:35:24Z
@@ -126,13 +125,14 @@ date = 2026-04-30
 
 - :eyes: :zzz: **[feat: add cookie support for support proxy integration](https://github.com/nethesis/nethvoice-report/pull/209)** by *edospadoni* - Reviewers: *None* - Created at: 2026-03-30T08:57:52Z
 
-### nethesis/ns8-nethvoice 6 
+### nethesis/ns8-nethvoice 7 
 
+-   **[fix(get-defaults): use timedatectl for timezones](https://github.com/nethesis/ns8-nethvoice/pull/804)** by *Amygos* - Reviewers: *Stell0* - Created at: 2026-04-30T10:56:34Z
 -   **[Fix transcriptions 3](https://github.com/nethesis/ns8-nethvoice/pull/803)** by *Stell0* - Reviewers: *tommaso-ascani* - Created at: 2026-04-28T07:53:15Z
 - :eyes:  **[feat: add spool volume label](https://github.com/nethesis/ns8-nethvoice/pull/789)** by *Amygos* - Reviewers: *None* - Created at: 2026-04-22T14:23:51Z
 - :eyes:  **[fix(transcriptions): update satellite transcription handling](https://github.com/nethesis/ns8-nethvoice/pull/781)** by *tommaso-ascani* - Reviewers: *None* - Created at: 2026-04-14T10:29:41Z
 - :eyes:  **[feat: implement AGI script for handling calls answered elsewhere](https://github.com/nethesis/ns8-nethvoice/pull/751)** by *tommaso-ascani* - Reviewers: *None* - Created at: 2026-04-03T17:39:50Z
-- :eyes:  **[fix(janus): fix one-way audio after long SIP hold](https://github.com/nethesis/ns8-nethvoice/pull/743)** by *edospadoni* - Reviewers: *None* - Created at: 2026-03-31T07:49:10Z
+- :eyes: :zzz: **[fix(janus): fix one-way audio after long SIP hold](https://github.com/nethesis/ns8-nethvoice/pull/743)** by *edospadoni* - Reviewers: *None* - Created at: 2026-03-31T07:49:10Z
 -  :zzz: **[Matrix integration](https://github.com/nethesis/ns8-nethvoice/pull/627)** by *gsanchietti* - Reviewers: *Amygos* - Created at: 2025-12-10T11:32:50Z
 
 ### nethesis/nethvoice-cti 2 
@@ -140,9 +140,8 @@ date = 2026-04-30
 - :eyes:  **[fix: update summary handling to use linked IDs instead of unique IDs](https://github.com/nethesis/nethvoice-cti/pull/467)** by *tommaso-ascani* - Reviewers: *None* - Created at: 2026-04-14T10:17:15Z
 - :eyes:  **[feat: enhance call disposition handling with new utility functions](https://github.com/nethesis/nethvoice-cti/pull/457)** by *tommaso-ascani* - Reviewers: *None* - Created at: 2026-04-03T17:36:17Z
 
-### nethesis/phone-island 2 
+### nethesis/phone-island 1 
 
-- :eyes:  **[Add missing notification on videocall start](https://github.com/nethesis/phone-island/pull/223)** by *tonyco97* - Reviewers: *None* - Created at: 2026-04-22T07:26:49Z
 - :eyes:  **[fix: enhance transcription handling with linkedId and uniqueId](https://github.com/nethesis/phone-island/pull/216)** by *tommaso-ascani* - Reviewers: *None* - Created at: 2026-04-14T10:17:20Z
 
 ### nethesis/ns8-nethvoice-proxy 8 
@@ -168,8 +167,9 @@ date = 2026-04-30
 
 - :eyes: :zzz: **[Update and add the CTI image](https://github.com/nethesis/nethvoice-client-docs/pull/14)** by *viktec* - Reviewers: *None* - Created at: 2025-11-05T16:11:10Z
 
-### nethesis/satellite 2 
+### nethesis/satellite 3 
 
+- :eyes:  **[Allow multiple transcript rows for the same Asterisk uniqueid](https://github.com/nethesis/satellite/pull/47)** by *Stell0* - Reviewers: *None* - Created at: 2026-04-30T07:06:19Z
 - :eyes:  **[feat(transcription): add linkedid support and handle silent audio cases](https://github.com/nethesis/satellite/pull/44)** by *tommaso-ascani* - Reviewers: *None* - Created at: 2026-04-20T15:34:59Z
 -  :zzz: **[Multi-Provider Transcription Support (REST/Batch Path)](https://github.com/nethesis/satellite/pull/31)** by *Amygos* - Reviewers: *Stell0* - Created at: 2026-02-16T09:08:57Z
 
