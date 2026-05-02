@@ -1,6 +1,6 @@
 +++
 title = 'Open Pull Requests'
-date = 2026-05-01
+date = 2026-05-02
 +++
 
 ## Organization: nethserver
@@ -19,7 +19,7 @@ date = 2026-05-01
 
 ### NethServer/ns8-nextcloud 1 
 
-- :eyes:  **[Update minimum version label from 1.5.0 to 1.6.0](https://github.com/NethServer/ns8-nextcloud/pull/204)** by *mrmarkuz* - Reviewers: *None* - Created at: 2026-04-01T14:42:09Z
+- :eyes: :zzz: **[Update minimum version label from 1.5.0 to 1.6.0](https://github.com/NethServer/ns8-nextcloud/pull/204)** by *mrmarkuz* - Reviewers: *None* - Created at: 2026-04-01T14:42:09Z
 
 ### NethServer/ns8-traefik 2 
 
