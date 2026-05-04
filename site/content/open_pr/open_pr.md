@@ -1,6 +1,6 @@
 +++
 title = 'Open Pull Requests'
-date = 2026-05-03
+date = 2026-05-04
 +++
 
 ## Organization: nethserver
@@ -95,7 +95,7 @@ date = 2026-05-03
 
 ### nethesis/nethcti-server 1 
 
-- :eyes:  **[fix: enhance history call logic to handle answered elsewhere cases](https://github.com/nethesis/nethcti-server/pull/346)** by *tommaso-ascani* - Reviewers: *None* - Created at: 2026-04-03T17:30:17Z
+- :eyes: :zzz: **[fix: enhance history call logic to handle answered elsewhere cases](https://github.com/nethesis/nethcti-server/pull/346)** by *tommaso-ascani* - Reviewers: *None* - Created at: 2026-04-03T17:30:17Z
 
 ### nethesis/freepbx-core 1 
 
@@ -131,14 +131,14 @@ date = 2026-05-03
 -   **[Fix transcriptions 3](https://github.com/nethesis/ns8-nethvoice/pull/803)** by *Stell0* - Reviewers: *tommaso-ascani* - Created at: 2026-04-28T07:53:15Z
 - :eyes:  **[feat: add spool volume label](https://github.com/nethesis/ns8-nethvoice/pull/789)** by *Amygos* - Reviewers: *None* - Created at: 2026-04-22T14:23:51Z
 - :eyes:  **[fix(transcriptions): update satellite transcription handling](https://github.com/nethesis/ns8-nethvoice/pull/781)** by *tommaso-ascani* - Reviewers: *None* - Created at: 2026-04-14T10:29:41Z
-- :eyes:  **[feat: implement AGI script for handling calls answered elsewhere](https://github.com/nethesis/ns8-nethvoice/pull/751)** by *tommaso-ascani* - Reviewers: *None* - Created at: 2026-04-03T17:39:50Z
+- :eyes: :zzz: **[feat: implement AGI script for handling calls answered elsewhere](https://github.com/nethesis/ns8-nethvoice/pull/751)** by *tommaso-ascani* - Reviewers: *None* - Created at: 2026-04-03T17:39:50Z
 - :eyes: :zzz: **[fix(janus): fix one-way audio after long SIP hold](https://github.com/nethesis/ns8-nethvoice/pull/743)** by *edospadoni* - Reviewers: *None* - Created at: 2026-03-31T07:49:10Z
 -  :zzz: **[Matrix integration](https://github.com/nethesis/ns8-nethvoice/pull/627)** by *gsanchietti* - Reviewers: *Amygos* - Created at: 2025-12-10T11:32:50Z
 
 ### nethesis/nethvoice-cti 2 
 
 - :eyes:  **[fix: update summary handling to use linked IDs instead of unique IDs](https://github.com/nethesis/nethvoice-cti/pull/467)** by *tommaso-ascani* - Reviewers: *None* - Created at: 2026-04-14T10:17:15Z
-- :eyes:  **[feat: enhance call disposition handling with new utility functions](https://github.com/nethesis/nethvoice-cti/pull/457)** by *tommaso-ascani* - Reviewers: *None* - Created at: 2026-04-03T17:36:17Z
+- :eyes: :zzz: **[feat: enhance call disposition handling with new utility functions](https://github.com/nethesis/nethvoice-cti/pull/457)** by *tommaso-ascani* - Reviewers: *None* - Created at: 2026-04-03T17:36:17Z
 
 ### nethesis/phone-island 1 
 
