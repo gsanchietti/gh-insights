@@ -2,7 +2,7 @@
 
 title = 'To be released soon'
 
-date = 2026-05-04
+date = 2026-05-05
 
 +++
 
@@ -56,9 +56,15 @@ date = 2026-05-04
 
 ### NethSecurity
 
-- [IPS breaks file transfers larger than 4GB](https://github.com/NethServer/nethsecurity/issues/1624) (#1612) by cotosso (Created: 2026-04-29T10:06:40Z, Updated: 2026-04-30T09:41:24Z)
+- [False server alerts on clients on netifyd informatics](https://github.com/NethServer/nethsecurity/issues/1628) (#1404) by Tbaile (Created: 2026-04-30T08:11:06Z, Updated: 2026-05-04T08:13:37Z)
 
-- [reverse proxy: add cryptographic validation for uploaded certificates](https://github.com/NethServer/nethsecurity/issues/1618) (#1612) by Tbaile (Created: 2026-04-28T14:15:57Z, Updated: 2026-04-30T12:36:46Z)
+- [Snort rule download blocks procd during boot when internet unavailable](https://github.com/NethServer/nethsecurity/issues/1623) (#1404) by gsanchietti (Created: 2026-04-29T10:04:57Z, Updated: 2026-05-04T09:24:51Z)
 
-- [OpenVPN RW: Certificate regeneration fails on migrated 7.9 systems](https://github.com/NethServer/nethsecurity/issues/1612) (#1612) by francio87 (Created: 2026-04-24T08:50:03Z, Updated: 2026-04-30T08:47:36Z)
+- [reverse proxy: add cryptographic validation for uploaded certificates](https://github.com/NethServer/nethsecurity/issues/1618) (#1404) by Tbaile (Created: 2026-04-28T14:15:57Z, Updated: 2026-04-30T12:36:46Z)
+
+- [OpenVPN RW: Certificate regeneration fails on migrated 7.9 systems](https://github.com/NethServer/nethsecurity/issues/1612) (#1404) by francio87 (Created: 2026-04-24T08:50:03Z, Updated: 2026-04-30T08:47:36Z)
+
+- [Daily Traffic: inconsistent metrics](https://github.com/NethServer/nethsecurity/issues/1604) (#1404) by Tbaile (Created: 2026-04-21T07:48:06Z, Updated: 2026-05-04T08:43:39Z)
+
+- [Show full OpenVPN RW in the UI connection history from stored logs instead of RAM](https://github.com/NethServer/nethsecurity/issues/1404) (#1404) by cotosso (Created: 2025-10-22T10:48:02Z, Updated: 2026-05-04T11:30:32Z)
 
