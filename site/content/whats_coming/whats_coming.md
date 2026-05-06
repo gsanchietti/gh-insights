@@ -2,11 +2,25 @@
 
 title = 'To be released soon'
 
-date = 2026-05-05
+date = 2026-05-06
 
 +++
 
+### NethServer
+
+- [Task Abort button confirmation UX](https://github.com/NethServer/dev/issues/7972) (#7332) by DavidePrincipi (Created: 2026-04-21T10:31:06Z, Updated: 2026-05-05T16:42:09Z)
+
+- [Show free disk space for nodes without additional volumes](https://github.com/NethServer/dev/issues/7971) (#7332) by DavidePrincipi (Created: 2026-04-21T10:21:07Z, Updated: 2026-05-05T16:42:25Z)
+
+- [Change WebTop OTP field type to avoid browser password update](https://github.com/NethServer/dev/issues/7845) (#7332) by federicoballarini (Created: 2026-02-01T14:43:18Z, Updated: 2026-04-16T09:48:50Z)
+
+- [WebTop: request to remove webtop-tmceplugins.jar](https://github.com/NethServer/dev/issues/7792) (#7332) by lucagasparini (Created: 2025-12-16T14:24:32Z, Updated: 2026-04-16T09:48:27Z)
+
 ### NethVoice
+
+- [Phone-island: remove Storybook, reduce security warnings, and align local dev with the real integration](https://github.com/NethServer/dev/issues/7968) (#7332) by tonyco97 (Created: 2026-04-20T08:36:34Z, Updated: 2026-05-05T10:26:16Z)
+
+- [NS8-NethVoice: User can't complete wizard if first inizialization](https://github.com/NethServer/dev/issues/7964) (#7332) by tonyco97 (Created: 2026-04-16T08:01:33Z, Updated: 2026-05-05T12:22:56Z)
 
 - [NethLink: Command Bar search shows only mobile number for contacts with multiple phone numbers](https://github.com/NethServer/dev/issues/7961) (#7332) by viktec (Created: 2026-04-09T10:20:15Z, Updated: 2026-04-15T10:34:22Z)
 
@@ -48,15 +62,11 @@ date = 2026-05-05
 
 - [NethVoice CTI: Display call queue information for incoming and ongoing calls](https://github.com/NethServer/dev/issues/7332) (#7332) by AmaLuci (Created: 2025-02-26T11:06:43Z, Updated: 2026-04-15T12:29:07Z)
 
-### NethServer
-
-- [Change WebTop OTP field type to avoid browser password update](https://github.com/NethServer/dev/issues/7845) (#7332) by federicoballarini (Created: 2026-02-01T14:43:18Z, Updated: 2026-04-16T09:48:50Z)
-
-- [WebTop: request to remove webtop-tmceplugins.jar](https://github.com/NethServer/dev/issues/7792) (#7332) by lucagasparini (Created: 2025-12-16T14:24:32Z, Updated: 2026-04-16T09:48:27Z)
-
 ### NethSecurity
 
 - [False server alerts on clients on netifyd informatics](https://github.com/NethServer/nethsecurity/issues/1628) (#1404) by Tbaile (Created: 2026-04-30T08:11:06Z, Updated: 2026-05-04T08:13:37Z)
+
+- [IPS breaks file transfers larger than 4GB](https://github.com/NethServer/nethsecurity/issues/1624) (#1404) by cotosso (Created: 2026-04-29T10:06:40Z, Updated: 2026-05-05T07:10:30Z)
 
 - [Snort rule download blocks procd during boot when internet unavailable](https://github.com/NethServer/nethsecurity/issues/1623) (#1404) by gsanchietti (Created: 2026-04-29T10:04:57Z, Updated: 2026-05-04T09:24:51Z)
 
@@ -66,5 +76,5 @@ date = 2026-05-05
 
 - [Daily Traffic: inconsistent metrics](https://github.com/NethServer/nethsecurity/issues/1604) (#1404) by Tbaile (Created: 2026-04-21T07:48:06Z, Updated: 2026-05-04T08:43:39Z)
 
-- [Show full OpenVPN RW in the UI connection history from stored logs instead of RAM](https://github.com/NethServer/nethsecurity/issues/1404) (#1404) by cotosso (Created: 2025-10-22T10:48:02Z, Updated: 2026-05-04T11:30:32Z)
+- [Show full OpenVPN RW in the UI connection history from stored logs instead of RAM](https://github.com/NethServer/nethsecurity/issues/1404) (#1404) by cotosso (Created: 2025-10-22T10:48:02Z, Updated: 2026-05-05T06:54:40Z)
 

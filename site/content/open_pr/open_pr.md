@@ -1,21 +1,18 @@
 +++
 title = 'Open Pull Requests'
-date = 2026-05-05
+date = 2026-05-06
 +++
 
 ## Organization: nethserver
 
-### NethServer/ns8-core 5 
+### NethServer/ns8-core 6 
 
+- :eyes:  **[Enhance node display with default disk info and notifications](https://github.com/NethServer/ns8-core/pull/1169)** by *stephdl* - Reviewers: *None* - Created at: 2026-05-05T16:18:37Z
 - :eyes:  **[Update visibility condition for password expiration policy toggle](https://github.com/NethServer/ns8-core/pull/1167)** by *stephdl* - Reviewers: *None* - Created at: 2026-04-29T11:21:35Z
 - :eyes:  **[feat(backup): dual-send cluster backup to my-new proxy](https://github.com/NethServer/ns8-core/pull/1146)** by *edospadoni* - Reviewers: *None* - Created at: 2026-04-22T13:24:38Z
 - :eyes:  **[Suppress samba decryption error](https://github.com/NethServer/ns8-core/pull/1145)** by *mrmarkuz* - Reviewers: *None* - Created at: 2026-04-17T11:53:01Z
 -  :zzz: **[docs: add NethVoice release procedure addendum](https://github.com/NethServer/ns8-core/pull/1136)** by *Copilot* - Reviewers: *Amygos* - Created at: 2026-03-30T14:06:18Z
 -  :zzz: **[feat: new default shell /bin/nologin](https://github.com/NethServer/ns8-core/pull/1129)** by *DavidePrincipi* - Reviewers: *stephdl* - Created at: 2026-03-20T16:43:22Z
-
-### NethServer/ns8-github-actions 1 
-
-- :eyes:  **[Add optional extra cache inputs to publish-branch workflow](https://github.com/NethServer/ns8-github-actions/pull/47)** by *stephdl* - Reviewers: *None* - Created at: 2026-04-17T09:59:18Z
 
 ### NethServer/ns8-nextcloud 2 
 
@@ -31,11 +28,13 @@ date = 2026-05-05
 
 -   **[Add no_password_expiration option for user management](https://github.com/NethServer/ns8-openldap/pull/120)** by *stephdl* - Reviewers: *DavidePrincipi* - Created at: 2026-04-29T11:09:55Z
 
-### NethServer/nethsecurity 5 
+### NethServer/nethsecurity 7 
 
+- :eyes:  **[fix(api-server): increase max upload size](https://github.com/NethServer/nethsecurity/pull/1643)** by *gsanchietti* - Reviewers: *None* - Created at: 2026-05-05T15:20:36Z
+- :eyes:  **[Nethsecurity 8.8.0](https://github.com/NethServer/nethsecurity/pull/1642)** by *gsanchietti* - Reviewers: *None* - Created at: 2026-05-05T13:31:12Z
 -   **[fix(openvpn): ensure RW connection database is merged after package installation](https://github.com/NethServer/nethsecurity/pull/1639)** by *m-dilorenzi* - Reviewers: *Tbaile* - Created at: 2026-05-04T15:02:27Z
 - :eyes:  **[fix(api): prevent error on dashboard](https://github.com/NethServer/nethsecurity/pull/1636)** by *gsanchietti* - Reviewers: *None* - Created at: 2026-04-30T15:37:21Z
--   **[feat(openvpn): add tun_mtu and mssfix configuration management for instances](https://github.com/NethServer/nethsecurity/pull/1632)** by *m-dilorenzi* - Reviewers: *Tbaile* - Created at: 2026-04-30T12:15:16Z
+- :eyes:  **[feat(openvpn): add tun_mtu and mssfix configuration management for instances](https://github.com/NethServer/nethsecurity/pull/1632)** by *m-dilorenzi* - Reviewers: *None* - Created at: 2026-04-30T12:15:16Z
 - :eyes:  **[feat(ns-plug): dual-send backup to my-new proxy](https://github.com/NethServer/nethsecurity/pull/1608)** by *edospadoni* - Reviewers: *None* - Created at: 2026-04-22T13:32:27Z
 - :eyes: :zzz: **[build: added softflowd](https://github.com/NethServer/nethsecurity/pull/1453)** by *Tbaile* - Reviewers: *None* - Created at: 2025-12-10T11:48:14Z
 
@@ -43,16 +42,13 @@ date = 2026-05-05
 
 -  :zzz: **[perf: removed relabeling for high inode volumes](https://github.com/NethServer/ns8-nethsecurity-controller/pull/200)** by *Tbaile* - Reviewers: *gsanchietti* - Created at: 2026-03-30T08:23:54Z
 
-### NethServer/ns8-webtop 1 
-
-- :eyes:  **[Cache Maven build artifacts in CI to speed up builds](https://github.com/NethServer/ns8-webtop/pull/231)** by *stephdl* - Reviewers: *None* - Created at: 2026-04-17T09:46:35Z
-
 ### NethServer/phonehome-server 1 
 
 - :eyes: :zzz: **[chore(master): release 1.5.1](https://github.com/NethServer/phonehome-server/pull/138)** by *Tbaile* - Reviewers: *None* - Created at: 2025-11-15T06:38:38Z
 
-### NethServer/ns8-docs 2 
+### NethServer/ns8-docs 3 
 
+- :eyes:  **[Update install.rst](https://github.com/NethServer/ns8-docs/pull/233)** by *nrauso* - Reviewers: *None* - Created at: 2026-05-05T15:36:18Z
 -   **[Explain generated root password](https://github.com/NethServer/ns8-docs/pull/231)** by *mrmarkuz* - Reviewers: *DavidePrincipi* - Created at: 2026-04-16T13:45:56Z
 - :eyes:  **[Add CrowdSec Grafana dashboards](https://github.com/NethServer/ns8-docs/pull/229)** by *mrmarkuz* - Reviewers: *None* - Created at: 2026-04-09T08:16:35Z
 
@@ -62,7 +58,7 @@ date = 2026-05-05
 
 ### NethServer/nethsecurity-ui 1 
 
--   **[feat(openvpn): add tun_mtu and mssfix configuration management for instances](https://github.com/NethServer/nethsecurity-ui/pull/753)** by *m-dilorenzi* - Reviewers: *Tbaile* - Created at: 2026-05-04T08:58:06Z
+- :eyes:  **[feat(openvpn): add tun_mtu and mssfix configuration management for instances](https://github.com/NethServer/nethsecurity-ui/pull/753)** by *m-dilorenzi* - Reviewers: *None* - Created at: 2026-05-04T08:58:06Z
 
 ### NethServer/nethsecurity-docs 1 
 
@@ -81,19 +77,14 @@ date = 2026-05-05
 - :eyes:  **[Added missing company name and url for rebranding](https://github.com/NethServer/nethlink/pull/141)** by *tonyco97* - Reviewers: *None* - Created at: 2026-05-04T09:28:01Z
 - :eyes: :zzz: **[feat: added transcription for NethLink](https://github.com/NethServer/nethlink/pull/104)** by *tonyco97* - Reviewers: *None* - Created at: 2026-03-13T09:29:26Z
 
-### NethServer/my 2 
+### NethServer/my 1 
 
-- :eyes:  **[feat(backup): configuration backup service (collect ingest + backend UI API)](https://github.com/NethServer/my/pull/81)** by *edospadoni* - Reviewers: *None* - Created at: 2026-04-21T13:57:02Z
 - :eyes: :zzz: **[feat(support): add support service with WebSockets and Yamux](https://github.com/NethServer/my/pull/47)** by *edospadoni* - Reviewers: *None* - Created at: 2026-03-10T08:00:00Z
 
 ### NethServer/nethvoice-docs 2 
 
 - :eyes:  **[Fanvil W series added](https://github.com/NethServer/nethvoice-docs/pull/50)** by *andrea-marchionni* - Reviewers: *None* - Created at: 2026-04-27T11:30:24Z
 -   **[feat: enhance documentation for AI call transcription and summary](https://github.com/NethServer/nethvoice-docs/pull/44)** by *tommaso-ascani* - Reviewers: *gsanchietti* - Created at: 2026-04-13T13:38:04Z
-
-### NethServer/nethsecurity-monitoring 1 
-
-- :eyes:  **[chore(main): release 1.1.1](https://github.com/NethServer/nethsecurity-monitoring/pull/21)** by *Tbaile* - Reviewers: *None* - Created at: 2026-04-30T14:37:48Z
 
 ## Organization: nethesis
 
