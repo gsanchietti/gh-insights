@@ -2,7 +2,7 @@
 
 title = 'To be released soon'
 
-date = 2026-05-06
+date = 2026-05-07
 
 +++
 
@@ -65,6 +65,8 @@ date = 2026-05-06
 ### NethSecurity
 
 - [False server alerts on clients on netifyd informatics](https://github.com/NethServer/nethsecurity/issues/1628) (#1404) by Tbaile (Created: 2026-04-30T08:11:06Z, Updated: 2026-05-04T08:13:37Z)
+
+- [Implement netifyd bypasses](https://github.com/NethServer/nethsecurity/issues/1627) (#1404) by Tbaile (Created: 2026-04-30T07:44:09Z, Updated: 2026-05-06T07:40:54Z)
 
 - [IPS breaks file transfers larger than 4GB](https://github.com/NethServer/nethsecurity/issues/1624) (#1404) by cotosso (Created: 2026-04-29T10:06:40Z, Updated: 2026-05-05T07:10:30Z)
 

@@ -1,6 +1,6 @@
 +++
 title = 'Open Pull Requests'
-date = 2026-05-06
+date = 2026-05-07
 +++
 
 ## Organization: nethserver
@@ -14,9 +14,12 @@ date = 2026-05-06
 -  :zzz: **[docs: add NethVoice release procedure addendum](https://github.com/NethServer/ns8-core/pull/1136)** by *Copilot* - Reviewers: *Amygos* - Created at: 2026-03-30T14:06:18Z
 -  :zzz: **[feat: new default shell /bin/nologin](https://github.com/NethServer/ns8-core/pull/1129)** by *DavidePrincipi* - Reviewers: *stephdl* - Created at: 2026-03-20T16:43:22Z
 
-### NethServer/ns8-nextcloud 2 
+### NethServer/ns8-kickstart 1 
 
--   **[Improve status check and error handling in wait-startup script](https://github.com/NethServer/ns8-nextcloud/pull/212)** by *stephdl* - Reviewers: *DavidePrincipi* - Created at: 2026-05-04T10:23:27Z
+- :eyes:  **[Suppress Sass deprecation warnings and update browserslist](https://github.com/NethServer/ns8-kickstart/pull/115)** by *andre8244* - Reviewers: *None* - Created at: 2026-05-07T06:34:40Z
+
+### NethServer/ns8-nextcloud 1 
+
 - :eyes: :zzz: **[Update minimum version label from 1.5.0 to 1.6.0](https://github.com/NethServer/ns8-nextcloud/pull/204)** by *mrmarkuz* - Reviewers: *None* - Created at: 2026-04-01T14:42:09Z
 
 ### NethServer/ns8-traefik 2 
@@ -28,12 +31,10 @@ date = 2026-05-06
 
 -   **[Add no_password_expiration option for user management](https://github.com/NethServer/ns8-openldap/pull/120)** by *stephdl* - Reviewers: *DavidePrincipi* - Created at: 2026-04-29T11:09:55Z
 
-### NethServer/nethsecurity 7 
+### NethServer/nethsecurity 5 
 
-- :eyes:  **[fix(api-server): increase max upload size](https://github.com/NethServer/nethsecurity/pull/1643)** by *gsanchietti* - Reviewers: *None* - Created at: 2026-05-05T15:20:36Z
 - :eyes:  **[Nethsecurity 8.8.0](https://github.com/NethServer/nethsecurity/pull/1642)** by *gsanchietti* - Reviewers: *None* - Created at: 2026-05-05T13:31:12Z
 -   **[fix(openvpn): ensure RW connection database is merged after package installation](https://github.com/NethServer/nethsecurity/pull/1639)** by *m-dilorenzi* - Reviewers: *Tbaile* - Created at: 2026-05-04T15:02:27Z
-- :eyes:  **[fix(api): prevent error on dashboard](https://github.com/NethServer/nethsecurity/pull/1636)** by *gsanchietti* - Reviewers: *None* - Created at: 2026-04-30T15:37:21Z
 - :eyes:  **[feat(openvpn): add tun_mtu and mssfix configuration management for instances](https://github.com/NethServer/nethsecurity/pull/1632)** by *m-dilorenzi* - Reviewers: *None* - Created at: 2026-04-30T12:15:16Z
 - :eyes:  **[feat(ns-plug): dual-send backup to my-new proxy](https://github.com/NethServer/nethsecurity/pull/1608)** by *edospadoni* - Reviewers: *None* - Created at: 2026-04-22T13:32:27Z
 - :eyes: :zzz: **[build: added softflowd](https://github.com/NethServer/nethsecurity/pull/1453)** by *Tbaile* - Reviewers: *None* - Created at: 2025-12-10T11:48:14Z
@@ -56,8 +57,10 @@ date = 2026-05-06
 
 - :eyes:  **[Use random password instead of the predefined one](https://github.com/NethServer/ns8-images/pull/12)** by *mrmarkuz* - Reviewers: *None* - Created at: 2026-04-14T09:25:41Z
 
-### NethServer/nethsecurity-ui 1 
+### NethServer/nethsecurity-ui 3 
 
+- :eyes:  **[chore(main): release 2.19.1](https://github.com/NethServer/nethsecurity-ui/pull/757)** by *Tbaile* - Reviewers: *None* - Created at: 2026-05-06T12:44:56Z
+-   **[feat(firewall-logging): unify traffic logging option visualization](https://github.com/NethServer/nethsecurity-ui/pull/756)** by *m-dilorenzi* - Reviewers: *Tbaile* - Created at: 2026-05-06T09:15:57Z
 - :eyes:  **[feat(openvpn): add tun_mtu and mssfix configuration management for instances](https://github.com/NethServer/nethsecurity-ui/pull/753)** by *m-dilorenzi* - Reviewers: *None* - Created at: 2026-05-04T08:58:06Z
 
 ### NethServer/nethsecurity-docs 1 
@@ -106,7 +109,7 @@ date = 2026-05-06
 
 ### nethesis/contatta 1 
 
-- :eyes:  **[Add trunk attributes handling and improve reload logic for inbound routes](https://github.com/nethesis/contatta/pull/18)** by *gbordonimaps* - Reviewers: *None* - Created at: 2026-04-30T10:26:15Z
+- :eyes:  **[Add trunk attributes and NS version handling; improve reload logic for inboundroutes, customdest and setcid](https://github.com/nethesis/contatta/pull/19)** by *gbordonimaps* - Reviewers: *None* - Created at: 2026-05-06T11:14:00Z
 
 ### nethesis/nethcti-app-android 1 
 
@@ -120,8 +123,12 @@ date = 2026-05-06
 
 - :eyes: :zzz: **[feat: add cookie support for support proxy integration](https://github.com/nethesis/nethvoice-report/pull/209)** by *edospadoni* - Reviewers: *None* - Created at: 2026-03-30T08:57:52Z
 
-### nethesis/ns8-nethvoice 8 
+### nethesis/ns8-nethvoice 12 
 
+- :eyes:  **[fix(voicemail): increase voicemessages callerid max length](https://github.com/nethesis/ns8-nethvoice/pull/813)** by *Stell0* - Reviewers: *None* - Created at: 2026-05-07T06:22:43Z
+-   **[Revert "feat: transcription and summary"](https://github.com/nethesis/ns8-nethvoice/pull/812)** by *Amygos* - Reviewers: *tommaso-ascani* - Created at: 2026-05-06T14:23:06Z
+-   **[Revert "Use Satellite TTS"](https://github.com/nethesis/ns8-nethvoice/pull/811)** by *Amygos* - Reviewers: *tommaso-ascani* - Created at: 2026-05-06T13:23:06Z
+- :eyes:  **[Revert "Add Enegan Provider to Nethvoice Wizard"](https://github.com/nethesis/ns8-nethvoice/pull/810)** by *Amygos* - Reviewers: *None* - Created at: 2026-05-06T13:20:21Z
 - :eyes:  **[Adding MultiWire as provider VoIP](https://github.com/nethesis/ns8-nethvoice/pull/808)** by *andrea-marchionni* - Reviewers: *None* - Created at: 2026-05-04T11:06:50Z
 - :eyes:  **[chore(deps): update ghcr.io/nethesis/nethvoice-cti docker tag to v0.15.15](https://github.com/nethesis/ns8-nethvoice/pull/807)** by *tonyco97* - Reviewers: *None* - Created at: 2026-05-04T07:02:47Z
 -   **[fix(get-defaults): use timedatectl for timezones](https://github.com/nethesis/ns8-nethvoice/pull/804)** by *Amygos* - Reviewers: *Stell0* - Created at: 2026-04-30T10:56:34Z
