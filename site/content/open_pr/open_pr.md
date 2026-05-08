@@ -1,22 +1,18 @@
 +++
 title = 'Open Pull Requests'
-date = 2026-05-07
+date = 2026-05-08
 +++
 
 ## Organization: nethserver
 
 ### NethServer/ns8-core 6 
 
-- :eyes:  **[Enhance node display with default disk info and notifications](https://github.com/NethServer/ns8-core/pull/1169)** by *stephdl* - Reviewers: *None* - Created at: 2026-05-05T16:18:37Z
+-   **[Enhance node display with default disk info](https://github.com/NethServer/ns8-core/pull/1169)** by *stephdl* - Reviewers: *andre8244* - Created at: 2026-05-05T16:18:37Z
 - :eyes:  **[Update visibility condition for password expiration policy toggle](https://github.com/NethServer/ns8-core/pull/1167)** by *stephdl* - Reviewers: *None* - Created at: 2026-04-29T11:21:35Z
 - :eyes:  **[feat(backup): dual-send cluster backup to my-new proxy](https://github.com/NethServer/ns8-core/pull/1146)** by *edospadoni* - Reviewers: *None* - Created at: 2026-04-22T13:24:38Z
 - :eyes:  **[Suppress samba decryption error](https://github.com/NethServer/ns8-core/pull/1145)** by *mrmarkuz* - Reviewers: *None* - Created at: 2026-04-17T11:53:01Z
 -  :zzz: **[docs: add NethVoice release procedure addendum](https://github.com/NethServer/ns8-core/pull/1136)** by *Copilot* - Reviewers: *Amygos* - Created at: 2026-03-30T14:06:18Z
 -  :zzz: **[feat: new default shell /bin/nologin](https://github.com/NethServer/ns8-core/pull/1129)** by *DavidePrincipi* - Reviewers: *stephdl* - Created at: 2026-03-20T16:43:22Z
-
-### NethServer/ns8-kickstart 1 
-
-- :eyes:  **[Suppress Sass deprecation warnings and update browserslist](https://github.com/NethServer/ns8-kickstart/pull/115)** by *andre8244* - Reviewers: *None* - Created at: 2026-05-07T06:34:40Z
 
 ### NethServer/ns8-nextcloud 1 
 
@@ -29,29 +25,31 @@ date = 2026-05-07
 
 ### NethServer/ns8-openldap 1 
 
--   **[Add no_password_expiration option for user management](https://github.com/NethServer/ns8-openldap/pull/120)** by *stephdl* - Reviewers: *DavidePrincipi* - Created at: 2026-04-29T11:09:55Z
+- :eyes:  **[Add no_password_expiration option for user management](https://github.com/NethServer/ns8-openldap/pull/120)** by *stephdl* - Reviewers: *None* - Created at: 2026-04-29T11:09:55Z
 
-### NethServer/nethsecurity 5 
+### NethServer/nethsecurity 7 
 
+-   **[fix(nat): handle missing interface label for devices](https://github.com/NethServer/nethsecurity/pull/1652)** by *m-dilorenzi* - Reviewers: *Tbaile* - Created at: 2026-05-07T12:31:48Z
+- :eyes:  **[fix(threatshield): using pppoe device for banip configuration](https://github.com/NethServer/nethsecurity/pull/1651)** by *Tbaile* - Reviewers: *None* - Created at: 2026-05-07T08:07:54Z
 - :eyes:  **[Nethsecurity 8.8.0](https://github.com/NethServer/nethsecurity/pull/1642)** by *gsanchietti* - Reviewers: *None* - Created at: 2026-05-05T13:31:12Z
 -   **[fix(openvpn): ensure RW connection database is merged after package installation](https://github.com/NethServer/nethsecurity/pull/1639)** by *m-dilorenzi* - Reviewers: *Tbaile* - Created at: 2026-05-04T15:02:27Z
 - :eyes:  **[feat(openvpn): add tun_mtu and mssfix configuration management for instances](https://github.com/NethServer/nethsecurity/pull/1632)** by *m-dilorenzi* - Reviewers: *None* - Created at: 2026-04-30T12:15:16Z
 - :eyes:  **[feat(ns-plug): dual-send backup to my-new proxy](https://github.com/NethServer/nethsecurity/pull/1608)** by *edospadoni* - Reviewers: *None* - Created at: 2026-04-22T13:32:27Z
 - :eyes: :zzz: **[build: added softflowd](https://github.com/NethServer/nethsecurity/pull/1453)** by *Tbaile* - Reviewers: *None* - Created at: 2025-12-10T11:48:14Z
 
-### NethServer/ns8-nethsecurity-controller 1 
+### NethServer/ns8-nethsecurity-controller 2 
 
+-   **[Fix controller restore during database import](https://github.com/NethServer/ns8-nethsecurity-controller/pull/214)** by *gsanchietti* - Reviewers: *Tbaile* - Created at: 2026-05-07T10:04:28Z
 -  :zzz: **[perf: removed relabeling for high inode volumes](https://github.com/NethServer/ns8-nethsecurity-controller/pull/200)** by *Tbaile* - Reviewers: *gsanchietti* - Created at: 2026-03-30T08:23:54Z
 
 ### NethServer/phonehome-server 1 
 
 - :eyes: :zzz: **[chore(master): release 1.5.1](https://github.com/NethServer/phonehome-server/pull/138)** by *Tbaile* - Reviewers: *None* - Created at: 2025-11-15T06:38:38Z
 
-### NethServer/ns8-docs 3 
+### NethServer/ns8-docs 2 
 
 - :eyes:  **[Update install.rst](https://github.com/NethServer/ns8-docs/pull/233)** by *nrauso* - Reviewers: *None* - Created at: 2026-05-05T15:36:18Z
 -   **[Explain generated root password](https://github.com/NethServer/ns8-docs/pull/231)** by *mrmarkuz* - Reviewers: *DavidePrincipi* - Created at: 2026-04-16T13:45:56Z
-- :eyes:  **[Add CrowdSec Grafana dashboards](https://github.com/NethServer/ns8-docs/pull/229)** by *mrmarkuz* - Reviewers: *None* - Created at: 2026-04-09T08:16:35Z
 
 ### NethServer/ns8-images 1 
 
@@ -123,12 +121,10 @@ date = 2026-05-07
 
 - :eyes: :zzz: **[feat: add cookie support for support proxy integration](https://github.com/nethesis/nethvoice-report/pull/209)** by *edospadoni* - Reviewers: *None* - Created at: 2026-03-30T08:57:52Z
 
-### nethesis/ns8-nethvoice 12 
+### nethesis/ns8-nethvoice 10 
 
+- :eyes:  **[fix: user profile reload after reverting](https://github.com/nethesis/ns8-nethvoice/pull/814)** by *tommaso-ascani* - Reviewers: *None* - Created at: 2026-05-07T13:16:51Z
 - :eyes:  **[fix(voicemail): increase voicemessages callerid max length](https://github.com/nethesis/ns8-nethvoice/pull/813)** by *Stell0* - Reviewers: *None* - Created at: 2026-05-07T06:22:43Z
--   **[Revert "feat: transcription and summary"](https://github.com/nethesis/ns8-nethvoice/pull/812)** by *Amygos* - Reviewers: *tommaso-ascani* - Created at: 2026-05-06T14:23:06Z
--   **[Revert "Use Satellite TTS"](https://github.com/nethesis/ns8-nethvoice/pull/811)** by *Amygos* - Reviewers: *tommaso-ascani* - Created at: 2026-05-06T13:23:06Z
-- :eyes:  **[Revert "Add Enegan Provider to Nethvoice Wizard"](https://github.com/nethesis/ns8-nethvoice/pull/810)** by *Amygos* - Reviewers: *None* - Created at: 2026-05-06T13:20:21Z
 - :eyes:  **[Adding MultiWire as provider VoIP](https://github.com/nethesis/ns8-nethvoice/pull/808)** by *andrea-marchionni* - Reviewers: *None* - Created at: 2026-05-04T11:06:50Z
 - :eyes:  **[chore(deps): update ghcr.io/nethesis/nethvoice-cti docker tag to v0.15.15](https://github.com/nethesis/ns8-nethvoice/pull/807)** by *tonyco97* - Reviewers: *None* - Created at: 2026-05-04T07:02:47Z
 -   **[fix(get-defaults): use timedatectl for timezones](https://github.com/nethesis/ns8-nethvoice/pull/804)** by *Amygos* - Reviewers: *Stell0* - Created at: 2026-04-30T10:56:34Z
