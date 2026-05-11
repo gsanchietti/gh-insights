@@ -1,6 +1,6 @@
 +++
 title = 'Open Pull Requests'
-date = 2026-05-10
+date = 2026-05-11
 +++
 
 ## Organization: nethserver
@@ -48,7 +48,7 @@ date = 2026-05-10
 
 ### NethServer/ns8-docs 4 
 
--   **[fix(install): update and reboot the system](https://github.com/NethServer/ns8-docs/pull/235)** by *DavidePrincipi* - Reviewers: *gsanchietti, nrauso* - Created at: 2026-05-08T17:41:11Z
+-   **[fix(install): update and reboot the system](https://github.com/NethServer/ns8-docs/pull/235)** by *DavidePrincipi* - Reviewers: *nrauso* - Created at: 2026-05-08T17:41:11Z
 -   **[fix(backup): clarify LE cert not restored](https://github.com/NethServer/ns8-docs/pull/234)** by *DavidePrincipi* - Reviewers: *nrauso* - Created at: 2026-05-08T13:59:28Z
 - :eyes:  **[Update install.rst](https://github.com/NethServer/ns8-docs/pull/233)** by *nrauso* - Reviewers: *None* - Created at: 2026-05-05T15:36:18Z
 -   **[Explain generated root password](https://github.com/NethServer/ns8-docs/pull/231)** by *mrmarkuz* - Reviewers: *DavidePrincipi* - Created at: 2026-04-16T13:45:56Z
@@ -70,10 +70,6 @@ date = 2026-05-10
 ### NethServer/ns8-user-manager 1 
 
 - :eyes:  **[chore(main): release 1.2.6](https://github.com/NethServer/ns8-user-manager/pull/173)** by *Tbaile* - Reviewers: *None* - Created at: 2026-05-04T12:55:06Z
-
-### NethServer/ns8-nethforge 1 
-
-- :eyes:  **[feat(module): Add Hermes Agent module for NS8](https://github.com/NethServer/ns8-nethforge/pull/39)** by *Stell0* - Reviewers: *None* - Created at: 2026-04-23T09:07:23Z
 
 ### NethServer/nethlink 2 
 
@@ -123,8 +119,11 @@ date = 2026-05-10
 
 - :eyes: :zzz: **[feat: add cookie support for support proxy integration](https://github.com/nethesis/nethvoice-report/pull/209)** by *edospadoni* - Reviewers: *None* - Created at: 2026-03-30T08:57:52Z
 
-### nethesis/ns8-nethvoice 11 
+### nethesis/ns8-nethvoice 14 
 
+- :eyes:  **[Restore "Add Enegan Provider to Nethvoice Wizard (#785)"](https://github.com/nethesis/ns8-nethvoice/pull/821)** by *Amygos* - Reviewers: *None* - Created at: 2026-05-11T07:36:38Z
+- :eyes:  **[Restore "Use Satellite TTS (#707)"](https://github.com/nethesis/ns8-nethvoice/pull/820)** by *Amygos* - Reviewers: *None* - Created at: 2026-05-11T07:34:37Z
+-   **[fix(freepbx): remove userbase debug](https://github.com/nethesis/ns8-nethvoice/pull/819)** by *gsanchietti* - Reviewers: *Stell0* - Created at: 2026-05-11T06:44:07Z
 -   **[fix: RTP/UDP ports allocation](https://github.com/nethesis/ns8-nethvoice/pull/817)** by *tommaso-ascani* - Reviewers: *Amygos* - Created at: 2026-05-08T11:06:59Z
 - :eyes:  **[fix(logrotate): remove group write access for log dirs](https://github.com/nethesis/ns8-nethvoice/pull/816)** by *Stell0* - Reviewers: *None* - Created at: 2026-05-08T08:48:51Z
 - :eyes:  **[fix(voicemail): increase voicemessages callerid max length](https://github.com/nethesis/ns8-nethvoice/pull/813)** by *Stell0* - Reviewers: *None* - Created at: 2026-05-07T06:22:43Z
