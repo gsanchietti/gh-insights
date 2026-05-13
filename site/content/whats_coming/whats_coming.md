@@ -2,21 +2,13 @@
 
 title = 'To be released soon'
 
-date = 2026-05-12
+date = 2026-05-13
 
 +++
 
-### NethServer
-
-- [Task Abort button confirmation UX](https://github.com/NethServer/dev/issues/7972) (#7792) by DavidePrincipi (Created: 2026-04-21T10:31:06Z, Updated: 2026-05-05T16:42:09Z)
-
-- [Show free disk space for nodes without additional volumes](https://github.com/NethServer/dev/issues/7971) (#7792) by DavidePrincipi (Created: 2026-04-21T10:21:07Z, Updated: 2026-05-05T16:42:25Z)
-
-- [Change WebTop OTP field type to avoid browser password update](https://github.com/NethServer/dev/issues/7845) (#7792) by federicoballarini (Created: 2026-02-01T14:43:18Z, Updated: 2026-04-16T09:48:50Z)
-
-- [WebTop: request to remove webtop-tmceplugins.jar](https://github.com/NethServer/dev/issues/7792) (#7792) by lucagasparini (Created: 2025-12-16T14:24:32Z, Updated: 2026-04-16T09:48:27Z)
-
 ### NethVoice
+
+- [NethVoice: PBX Report login fails (401 Unauthorized) for external AD users while CTI login works](https://github.com/NethServer/dev/issues/8001) (#7792) by viktec (Created: 2026-05-12T08:26:12Z, Updated: 2026-05-12T08:30:35Z)
 
 - [NethLink: Command Bar search shows only mobile number for contacts with multiple phone numbers](https://github.com/NethServer/dev/issues/7961) (#7792) by viktec (Created: 2026-04-09T10:20:15Z, Updated: 2026-04-15T10:34:22Z)
 
@@ -40,6 +32,16 @@ date = 2026-05-12
 
 - [Design: Simplify “NethVoice Proxy” step for second NethVoice instance](https://github.com/NethServer/dev/issues/7828) (#7792) by AmaLuci (Created: 2026-01-20T16:39:06Z, Updated: 2026-02-09T12:07:15Z)
 
+### NethServer
+
+- [Task Abort button confirmation UX](https://github.com/NethServer/dev/issues/7972) (#7792) by DavidePrincipi (Created: 2026-04-21T10:31:06Z, Updated: 2026-05-05T16:42:09Z)
+
+- [Show free disk space for nodes without additional volumes](https://github.com/NethServer/dev/issues/7971) (#7792) by DavidePrincipi (Created: 2026-04-21T10:21:07Z, Updated: 2026-05-05T16:42:25Z)
+
+- [Change WebTop OTP field type to avoid browser password update](https://github.com/NethServer/dev/issues/7845) (#7792) by federicoballarini (Created: 2026-02-01T14:43:18Z, Updated: 2026-04-16T09:48:50Z)
+
+- [WebTop: request to remove webtop-tmceplugins.jar](https://github.com/NethServer/dev/issues/7792) (#7792) by lucagasparini (Created: 2025-12-16T14:24:32Z, Updated: 2026-04-16T09:48:27Z)
+
 ### NethSecurity
 
 - [False server alerts on clients on netifyd informatics](https://github.com/NethServer/nethsecurity/issues/1628) (#1404) by Tbaile (Created: 2026-04-30T08:11:06Z, Updated: 2026-05-04T08:13:37Z)
@@ -56,5 +58,5 @@ date = 2026-05-12
 
 - [Daily Traffic: inconsistent metrics](https://github.com/NethServer/nethsecurity/issues/1604) (#1404) by Tbaile (Created: 2026-04-21T07:48:06Z, Updated: 2026-05-04T08:43:39Z)
 
-- [Show full OpenVPN RW in the UI connection history from stored logs instead of RAM](https://github.com/NethServer/nethsecurity/issues/1404) (#1404) by cotosso (Created: 2025-10-22T10:48:02Z, Updated: 2026-05-05T06:54:40Z)
+- [Show full OpenVPN RW in the UI connection history from stored logs instead of RAM](https://github.com/NethServer/nethsecurity/issues/1404) (#1404) by cotosso (Created: 2025-10-22T10:48:02Z, Updated: 2026-05-12T09:26:02Z)
 
