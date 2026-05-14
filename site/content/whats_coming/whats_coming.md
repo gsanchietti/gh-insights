@@ -2,7 +2,7 @@
 
 title = 'To be released soon'
 
-date = 2026-05-13
+date = 2026-05-14
 
 +++
 
@@ -44,19 +44,13 @@ date = 2026-05-13
 
 ### NethSecurity
 
-- [False server alerts on clients on netifyd informatics](https://github.com/NethServer/nethsecurity/issues/1628) (#1404) by Tbaile (Created: 2026-04-30T08:11:06Z, Updated: 2026-05-04T08:13:37Z)
+- [Slow IPsec page loading with high number of tunnels](https://github.com/NethServer/nethsecurity/issues/1660) (#1646) by federicoballarini (Created: 2026-05-12T15:17:54Z, Updated: 2026-05-13T11:48:29Z)
 
-- [Implement netifyd bypasses](https://github.com/NethServer/nethsecurity/issues/1627) (#1404) by Tbaile (Created: 2026-04-30T07:44:09Z, Updated: 2026-05-06T07:40:54Z)
+- [Backup passphrase is not synchronized in HA configuration](https://github.com/NethServer/nethsecurity/issues/1655) (#1646) by cotosso (Created: 2026-05-12T05:14:58Z, Updated: 2026-05-13T12:57:27Z)
 
-- [IPS breaks file transfers larger than 4GB](https://github.com/NethServer/nethsecurity/issues/1624) (#1404) by cotosso (Created: 2026-04-29T10:06:40Z, Updated: 2026-05-05T07:10:30Z)
+- [NAT drawer: empty rows in the “Device” dropdown under advanced settings](https://github.com/NethServer/nethsecurity/issues/1650) (#1646) by cotosso (Created: 2026-05-06T13:08:31Z, Updated: 2026-05-13T12:48:24Z)
 
-- [Snort rule download blocks procd during boot when internet unavailable](https://github.com/NethServer/nethsecurity/issues/1623) (#1404) by gsanchietti (Created: 2026-04-29T10:04:57Z, Updated: 2026-05-04T09:24:51Z)
+- [Threat Shield IP blocks do not work when WAN uses PPPoE](https://github.com/NethServer/nethsecurity/issues/1648) (#1646) by cotosso (Created: 2026-05-06T09:35:41Z, Updated: 2026-05-13T12:27:43Z)
 
-- [reverse proxy: add cryptographic validation for uploaded certificates](https://github.com/NethServer/nethsecurity/issues/1618) (#1404) by Tbaile (Created: 2026-04-28T14:15:57Z, Updated: 2026-04-30T12:36:46Z)
-
-- [OpenVPN RW: Certificate regeneration fails on migrated 7.9 systems](https://github.com/NethServer/nethsecurity/issues/1612) (#1404) by francio87 (Created: 2026-04-24T08:50:03Z, Updated: 2026-04-30T08:47:36Z)
-
-- [Daily Traffic: inconsistent metrics](https://github.com/NethServer/nethsecurity/issues/1604) (#1404) by Tbaile (Created: 2026-04-21T07:48:06Z, Updated: 2026-05-04T08:43:39Z)
-
-- [Show full OpenVPN RW in the UI connection history from stored logs instead of RAM](https://github.com/NethServer/nethsecurity/issues/1404) (#1404) by cotosso (Created: 2025-10-22T10:48:02Z, Updated: 2026-05-12T09:26:02Z)
+- [Controller restore procedure gets stuck](https://github.com/NethServer/nethsecurity/issues/1646) (#1646) by nrauso (Created: 2026-05-06T08:31:21Z, Updated: 2026-05-14T06:18:17Z)
 
