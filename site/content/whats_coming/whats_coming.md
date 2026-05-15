@@ -2,7 +2,7 @@
 
 title = 'To be released soon'
 
-date = 2026-05-14
+date = 2026-05-15
 
 +++
 
@@ -34,6 +34,8 @@ date = 2026-05-14
 
 ### NethServer
 
+- [Regexp log search, results date interval and count](https://github.com/NethServer/dev/issues/7974) (#7792) by DavidePrincipi (Created: 2026-04-21T11:07:45Z, Updated: 2026-05-14T16:31:31Z)
+
 - [Task Abort button confirmation UX](https://github.com/NethServer/dev/issues/7972) (#7792) by DavidePrincipi (Created: 2026-04-21T10:31:06Z, Updated: 2026-05-05T16:42:09Z)
 
 - [Show free disk space for nodes without additional volumes](https://github.com/NethServer/dev/issues/7971) (#7792) by DavidePrincipi (Created: 2026-04-21T10:21:07Z, Updated: 2026-05-05T16:42:25Z)
@@ -44,13 +46,21 @@ date = 2026-05-14
 
 ### NethSecurity
 
-- [Slow IPsec page loading with high number of tunnels](https://github.com/NethServer/nethsecurity/issues/1660) (#1646) by federicoballarini (Created: 2026-05-12T15:17:54Z, Updated: 2026-05-13T11:48:29Z)
+- [Slow IPsec page loading with high number of tunnels](https://github.com/NethServer/nethsecurity/issues/1660) (#1192) by federicoballarini (Created: 2026-05-12T15:17:54Z, Updated: 2026-05-13T11:48:29Z)
 
-- [Backup passphrase is not synchronized in HA configuration](https://github.com/NethServer/nethsecurity/issues/1655) (#1646) by cotosso (Created: 2026-05-12T05:14:58Z, Updated: 2026-05-13T12:57:27Z)
+- [Backup passphrase is not synchronized in HA configuration](https://github.com/NethServer/nethsecurity/issues/1655) (#1192) by cotosso (Created: 2026-05-12T05:14:58Z, Updated: 2026-05-13T12:57:27Z)
 
-- [NAT drawer: empty rows in the “Device” dropdown under advanced settings](https://github.com/NethServer/nethsecurity/issues/1650) (#1646) by cotosso (Created: 2026-05-06T13:08:31Z, Updated: 2026-05-13T12:48:24Z)
+- [NAT drawer: empty rows in the “Device” dropdown under advanced settings](https://github.com/NethServer/nethsecurity/issues/1650) (#1192) by cotosso (Created: 2026-05-06T13:08:31Z, Updated: 2026-05-13T12:48:24Z)
 
-- [Threat Shield IP blocks do not work when WAN uses PPPoE](https://github.com/NethServer/nethsecurity/issues/1648) (#1646) by cotosso (Created: 2026-05-06T09:35:41Z, Updated: 2026-05-13T12:27:43Z)
+- [Threat Shield IP blocks do not work when WAN uses PPPoE](https://github.com/NethServer/nethsecurity/issues/1648) (#1192) by cotosso (Created: 2026-05-06T09:35:41Z, Updated: 2026-05-13T12:27:43Z)
 
-- [Controller restore procedure gets stuck](https://github.com/NethServer/nethsecurity/issues/1646) (#1646) by nrauso (Created: 2026-05-06T08:31:21Z, Updated: 2026-05-14T06:18:17Z)
+- [Swanctl error when PSK contains curly braces](https://github.com/NethServer/nethsecurity/issues/1631) (#1192) by mamengoni (Created: 2026-04-30T10:48:31Z, Updated: 2026-05-14T12:26:05Z)
+
+- [OpenVPN: Revert tun_mtu and mssfix values to OpenVPN 2.5 defaults to avoid MTU-related traffic issues](https://github.com/NethServer/nethsecurity/issues/1427) (#1192) by cotosso (Created: 2025-11-13T09:16:49Z, Updated: 2026-05-14T10:53:34Z)
+
+- [Show full OpenVPN RW in the UI connection history from stored logs instead of RAM](https://github.com/NethServer/nethsecurity/issues/1404) (#1192) by cotosso (Created: 2025-10-22T10:48:02Z, Updated: 2026-05-14T09:11:17Z)
+
+### NoMilestone
+
+- [Add mtu and mssfix configuration options to advanced settings in OpenVPN (RW and tunnels)](https://github.com/NethServer/nethsecurity/issues/1192) (#1192) by cotosso (Created: 2025-04-30T08:08:40Z, Updated: 2026-05-14T11:01:40Z)
 

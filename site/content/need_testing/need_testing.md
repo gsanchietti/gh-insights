@@ -1,6 +1,6 @@
 +++
-title = 'Need testing (12)'
-date = 2026-05-14
+title = 'Need testing (15)'
+date = 2026-05-15
 +++
 
 ## NethVoice
@@ -14,6 +14,7 @@ date = 2026-05-14
 - :point_right: **[Password never expires: OpenLDAP support for individual users](https://github.com/NethServer/dev/issues/7981)** (#7691) by *DavidePrincipi* (Created: 2026-04-23, Updated: 2026-05-13T12:36:03Z)
 - :point_right: **[Update dependencies - NethServer 8.9](https://github.com/NethServer/dev/issues/7967)** (#7691) by *DavidePrincipi* (Created: 2026-04-20, Updated: 2026-04-30T15:34:55Z)
 - :point_right: **[Imapsync boot failure due to Mail agent not ready](https://github.com/NethServer/dev/issues/7910)** (#7691) by *DavidePrincipi* (Created: 2026-03-06, Updated: 2026-03-27T08:23:11Z)
+- :point_right: **[Agent restart failed after concurrent update-core runs](https://github.com/NethServer/dev/issues/7877)** (#7691) by *DavidePrincipi* (Created: 2026-02-16, Updated: 2026-05-14T13:57:31Z)
 - :point_right: **[Configurable shell (nologin) for module service users](https://github.com/NethServer/dev/issues/7844)** (#7691) by *DavidePrincipi* (Created: 2026-01-30, Updated: 2026-05-13T08:07:13Z)
 
 ## NethVoice
@@ -21,5 +22,7 @@ date = 2026-05-14
 - :point_right: **[Phone island : automatic video start on incoming call and retention of call controls](https://github.com/NethServer/dev/issues/7926)** (#7691) by *viktec* (Created: 2026-03-23, Updated: 2026-05-11T08:23:32Z)
 
 ## NethSecurity
-- :point_right: **[Show full OpenVPN RW in the UI connection history from stored logs instead of RAM](https://github.com/NethServer/nethsecurity/issues/1404)** (#1404) by *cotosso* (Created: 2025-10-22, Updated: 2026-05-13T14:29:02Z)
+- **[HA configuration is corrupted when the VRRP interface is not named `lan`](https://github.com/NethServer/nethsecurity/issues/1664)** (#1456) by *cotosso* (Created: 2026-05-13, Updated: 2026-05-14T10:37:17Z)
+- :point_right: **[Extra packages not restored after image upgrade](https://github.com/NethServer/nethsecurity/issues/1606)** (#1456) by *filippocarletti* (Created: 2026-04-21, Updated: 2026-05-14T13:53:02Z)
+- :point_right: **[Unify traffic logging option visualization in firewall UI](https://github.com/NethServer/nethsecurity/issues/1456)** (#1456) by *cotosso* (Created: 2025-12-15, Updated: 2026-05-14T09:58:52Z)
 
