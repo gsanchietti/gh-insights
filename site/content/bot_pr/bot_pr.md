@@ -1,6 +1,6 @@
 +++
 title = 'Open Pull Requests by Bots'
-date = 2026-05-15
+date = 2026-05-16
 +++
 
 ## Organization: nethserver
@@ -62,7 +62,7 @@ date = 2026-05-15
 
 ### NethServer/ns8-ldapproxy 1 
 
-- :eyes:  **[chore(deps): update nginx docker tag to v1.31.0](https://github.com/NethServer/ns8-ldapproxy/pull/29)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-04-15T23:54:59Z
+- :eyes: :zzz: **[chore(deps): update nginx docker tag to v1.31.0](https://github.com/NethServer/ns8-ldapproxy/pull/29)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-04-15T23:54:59Z
 
 ### NethServer/ns8-samba 2 
 
@@ -84,7 +84,7 @@ date = 2026-05-15
 
 ### NethServer/ns8-prometheus 2 
 
-- :eyes:  **[chore(deps): update quay.io/prometheus/prometheus docker tag to v3.5.3](https://github.com/NethServer/ns8-prometheus/pull/61)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-04-16T05:03:31Z
+- :eyes: :zzz: **[chore(deps): update quay.io/prometheus/prometheus docker tag to v3.5.3](https://github.com/NethServer/ns8-prometheus/pull/61)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-04-16T05:03:31Z
 - :eyes: :zzz: **[chore(deps): update quay.io/prometheus/prometheus docker tag to v3.11.3](https://github.com/NethServer/ns8-prometheus/pull/33)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-05-31T14:35:56Z
 
 ### NethServer/ns8-grafana 2 
@@ -187,7 +187,7 @@ date = 2026-05-15
 
 ### NethServer/ns8-porthos 2 
 
-- :eyes:  **[chore(deps): update nginx docker tag to v1.31.0](https://github.com/NethServer/ns8-porthos/pull/18)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-04-16T05:53:32Z
+- :eyes: :zzz: **[chore(deps): update nginx docker tag to v1.31.0](https://github.com/NethServer/ns8-porthos/pull/18)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-04-16T05:53:32Z
 - :eyes: :zzz: **[chore(deps): update debian docker tag to v13](https://github.com/NethServer/ns8-porthos/pull/9)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-08-12T22:35:00Z
 
 ### NethServer/sogo-server 1 
@@ -241,11 +241,12 @@ date = 2026-05-15
 - :eyes:  **[chore(deps): update nginx docker tag to v1.30.1](https://github.com/NethServer/ns8-dependencytrack/pull/97)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-05-13T21:38:09Z
 - :eyes:  **[fix(deps): update dependency axios to ^0.32.0](https://github.com/NethServer/ns8-dependencytrack/pull/94)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-05-04T21:53:11Z
 
-### NethServer/ns8-matrix 11 
+### NethServer/ns8-matrix 12 
 
+- :eyes:  **[chore(deps): update ghcr.io/cinnyapp/cinny docker tag to v4.12.1](https://github.com/NethServer/ns8-matrix/pull/79)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-05-15T09:35:20Z
 - :eyes:  **[chore(deps): update postgres docker tag to v14.23](https://github.com/NethServer/ns8-matrix/pull/78)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-05-14T21:42:11Z
 - :eyes:  **[chore(deps): update node.js to v24.15.0](https://github.com/NethServer/ns8-matrix/pull/77)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-04-16T17:12:03Z
-- :eyes:  **[chore(deps): update dependency axios to v1.15.2 [security]](https://github.com/NethServer/ns8-matrix/pull/76)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-04-15T22:48:34Z
+- :eyes: :zzz: **[chore(deps): update dependency axios to v1.15.2 [security]](https://github.com/NethServer/ns8-matrix/pull/76)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-04-15T22:48:34Z
 - :eyes: :zzz: **[chore(deps): update ghcr.io/element-hq/synapse docker tag to v1.152.1](https://github.com/NethServer/ns8-matrix/pull/72)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-03-24T18:18:44Z
 - :eyes: :zzz: **[chore(deps): update ghcr.io/element-hq/element-web docker tag to v1.12.18](https://github.com/NethServer/ns8-matrix/pull/71)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-03-24T14:17:28Z
 - :eyes: :zzz: **[chore(deps): update postgres docker tag to v18](https://github.com/NethServer/ns8-matrix/pull/68)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-03-09T22:06:40Z
@@ -260,8 +261,8 @@ date = 2026-05-15
 - :eyes:  **[Update postgres Docker tag to v16.14](https://github.com/NethServer/ns8-n8n/pull/38)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-05-14T20:25:50Z
 - :eyes:  **[Update dependency vue-template-compiler to v2.7.16](https://github.com/NethServer/ns8-n8n/pull/37)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-05-12T16:45:45Z
 - :eyes:  **[Update dependency axios to v0.31.1 [SECURITY]](https://github.com/NethServer/ns8-n8n/pull/36)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-05-05T19:11:48Z
-- :eyes:  **[Update n8nio/n8n Docker tag to v2.21.2](https://github.com/NethServer/ns8-n8n/pull/35)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-05-05T09:25:28Z
-- :eyes:  **[Update n8nio/runners Docker tag to v2.21.2](https://github.com/NethServer/ns8-n8n/pull/32)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-04-16T02:26:51Z
+- :eyes:  **[Update n8nio/n8n Docker tag to v2.21.3](https://github.com/NethServer/ns8-n8n/pull/35)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-05-05T09:25:28Z
+- :eyes: :zzz: **[Update n8nio/runners Docker tag to v2.21.3](https://github.com/NethServer/ns8-n8n/pull/32)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-04-16T02:26:51Z
 - :eyes: :zzz: **[Update postgres Docker tag to v18](https://github.com/NethServer/ns8-n8n/pull/26)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-03-09T19:47:09Z
 
 ### NethServer/ns8-rustfs 2 
@@ -281,7 +282,7 @@ date = 2026-05-15
 
 ### nethesis/icaro 14 
 
-- :eyes:  **[Update github.com/avct/uasurfer digest to dace534](https://github.com/nethesis/icaro/pull/216)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-04-15T09:47:29Z
+- :eyes: :zzz: **[Update github.com/avct/uasurfer digest to dace534](https://github.com/nethesis/icaro/pull/216)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-04-15T09:47:29Z
 - :eyes: :zzz: **[Update dependency crypto-js to v4 [SECURITY]](https://github.com/nethesis/icaro/pull/212)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-11-26T09:36:14Z
 - :eyes: :zzz: **[Update dependency webpack-dev-server to v5 [SECURITY]](https://github.com/nethesis/icaro/pull/211)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-11-26T09:36:03Z
 - :eyes: :zzz: **[Update dependency webpack-bundle-analyzer to v3 [SECURITY]](https://github.com/nethesis/icaro/pull/210)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-11-26T09:35:38Z

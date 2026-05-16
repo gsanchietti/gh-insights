@@ -1,6 +1,6 @@
 +++
 title = 'Open Pull Requests'
-date = 2026-05-15
+date = 2026-05-16
 +++
 
 ## Organization: nethserver
@@ -20,11 +20,10 @@ date = 2026-05-15
 - :eyes:  **[refactor: centralize module testing](https://github.com/NethServer/ns8-traefik/pull/131)** by *Copilot* - Reviewers: *None* - Created at: 2026-04-23T08:45:10Z
 - :eyes: :zzz: **[fix: cryptography 45 deprecation warning](https://github.com/NethServer/ns8-traefik/pull/120)** by *DavidePrincipi* - Reviewers: *None* - Created at: 2025-10-28T08:48:29Z
 
-### NethServer/nethsecurity 5 
+### NethServer/nethsecurity 4 
 
-- :eyes:  **[fix(ha): stop all dpi-related daemons](https://github.com/NethServer/nethsecurity/pull/1672)** by *gsanchietti* - Reviewers: *None* - Created at: 2026-05-15T06:08:52Z
+- :eyes:  **[chore: trying to build pyton3 from commits instead of versions](https://github.com/NethServer/nethsecurity/pull/1677)** by *Tbaile* - Reviewers: *None* - Created at: 2026-05-15T12:37:23Z
 - :eyes:  **[Nethsecurity 8.8.0](https://github.com/NethServer/nethsecurity/pull/1642)** by *gsanchietti* - Reviewers: *None* - Created at: 2026-05-05T13:31:12Z
-- :eyes:  **[Alerts and charts using Victoria Metrics](https://github.com/NethServer/nethsecurity/pull/1633)** by *gsanchietti* - Reviewers: *None* - Created at: 2026-04-30T14:42:26Z
 - :eyes:  **[feat(ns-plug): dual-send backup to my-new proxy](https://github.com/NethServer/nethsecurity/pull/1608)** by *edospadoni* - Reviewers: *None* - Created at: 2026-04-22T13:32:27Z
 - :eyes: :zzz: **[build: added softflowd](https://github.com/NethServer/nethsecurity/pull/1453)** by *Tbaile* - Reviewers: *None* - Created at: 2025-12-10T11:48:14Z
 
@@ -45,10 +44,6 @@ date = 2026-05-15
 
 - :eyes: :zzz: **[Use random password instead of the predefined one](https://github.com/NethServer/ns8-images/pull/12)** by *mrmarkuz* - Reviewers: *None* - Created at: 2026-04-14T09:25:41Z
 
-### NethServer/nethsecurity-ui 1 
-
--   **[feat: expose metrics from Victoria](https://github.com/NethServer/nethsecurity-ui/pull/754)** by *gsanchietti* - Reviewers: *Tbaile* - Created at: 2026-05-05T10:29:07Z
-
 ### NethServer/nethsecurity-docs 3 
 
 - :eyes:  **[docs: update MTU and MSS configuration guidance for OpenVPN RW and tunnels](https://github.com/NethServer/nethsecurity-docs/pull/262)** by *m-dilorenzi* - Reviewers: *None* - Created at: 2026-05-14T13:17:34Z
@@ -64,6 +59,10 @@ date = 2026-05-15
 - :eyes:  **[Added missing company name and url for rebranding](https://github.com/NethServer/nethlink/pull/141)** by *tonyco97* - Reviewers: *None* - Created at: 2026-05-04T09:28:01Z
 -   **[Better phone-island view change on videocall started](https://github.com/NethServer/nethlink/pull/136)** by *tonyco97* - Reviewers: *edospadoni* - Created at: 2026-04-27T12:14:14Z
 - :eyes: :zzz: **[feat: added transcription for NethLink](https://github.com/NethServer/nethlink/pull/104)** by *tonyco97* - Reviewers: *None* - Created at: 2026-03-13T09:29:26Z
+
+### NethServer/.github 1 
+
+-   **[ci(renovate): add minimumReleaseAge for supply chain protection](https://github.com/NethServer/.github/pull/13)** by *andre8244* - Reviewers: *Amygos, gsanchietti, DavidePrincipi* - Created at: 2026-05-15T15:37:34Z
 
 ### NethServer/my 1 
 
@@ -109,8 +108,9 @@ date = 2026-05-15
 
 -  :zzz: **[Removed old notification service usage](https://github.com/nethesis/nethcti-app-iphone/pull/37)** by *NicolaMrAPPs* - Reviewers: *b9874e* - Created at: 2023-08-02T09:19:30Z
 
-### nethesis/tancredi 1 
+### nethesis/tancredi 2 
 
+- :eyes:  **[Gigaset 825/855](https://github.com/nethesis/tancredi/pull/374)** by *andrea-marchionni* - Reviewers: *None* - Created at: 2026-05-15T07:16:46Z
 - :eyes:  **[Add configuration file for Fanvil V50G model](https://github.com/nethesis/tancredi/pull/373)** by *viktec* - Reviewers: *None* - Created at: 2026-05-12T10:50:03Z
 
 ### nethesis/nethvoice-report 2 
@@ -118,8 +118,9 @@ date = 2026-05-15
 -   **[feat(rebranding): add rebranding support for login page](https://github.com/nethesis/nethvoice-report/pull/210)** by *tonyco97* - Reviewers: *edospadoni* - Created at: 2026-05-05T06:37:23Z
 - :eyes: :zzz: **[feat: add cookie support for support proxy integration](https://github.com/nethesis/nethvoice-report/pull/209)** by *edospadoni* - Reviewers: *None* - Created at: 2026-03-30T08:57:52Z
 
-### nethesis/ns8-nethvoice 17 
+### nethesis/ns8-nethvoice 18 
 
+- :eyes:  **[ci(workflows): add pr testing image workflow](https://github.com/nethesis/ns8-nethvoice/pull/831)** by *Amygos* - Reviewers: *None* - Created at: 2026-05-15T14:21:03Z
 - :eyes:  **[Fix: handle phonebook sources as ordered list](https://github.com/nethesis/ns8-nethvoice/pull/830)** by *tonyco97* - Reviewers: *None* - Created at: 2026-05-14T08:12:26Z
 - :eyes:  **[chore: bump nethcti-server and nethcti-middleware refs to fix branches](https://github.com/nethesis/ns8-nethvoice/pull/829)** by *edospadoni* - Reviewers: *None* - Created at: 2026-05-13T11:53:55Z
 - :eyes:  **[Fias hotel log and fix](https://github.com/nethesis/ns8-nethvoice/pull/827)** by *Stell0* - Reviewers: *None* - Created at: 2026-05-12T14:25:05Z
@@ -144,8 +145,9 @@ date = 2026-05-15
 - :eyes: :zzz: **[fix: update summary handling to use linked IDs instead of unique IDs](https://github.com/nethesis/nethvoice-cti/pull/467)** by *tommaso-ascani* - Reviewers: *None* - Created at: 2026-04-14T10:17:15Z
 - :eyes: :zzz: **[feat: enhance call disposition handling with new utility functions](https://github.com/nethesis/nethvoice-cti/pull/457)** by *tommaso-ascani* - Reviewers: *None* - Created at: 2026-04-03T17:36:17Z
 
-### nethesis/phone-island 1 
+### nethesis/phone-island 2 
 
+- :eyes:  **[fix: better displayName on videosource](https://github.com/nethesis/phone-island/pull/234)** by *tonyco97* - Reviewers: *None* - Created at: 2026-05-15T10:06:19Z
 - :eyes: :zzz: **[fix: enhance transcription handling with linkedId and uniqueId](https://github.com/nethesis/phone-island/pull/216)** by *tommaso-ascani* - Reviewers: *None* - Created at: 2026-04-14T10:17:20Z
 
 ### nethesis/ns8-nethvoice-proxy 8 
