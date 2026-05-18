@@ -1,14 +1,14 @@
 +++
 title = 'Open Pull Requests'
-date = 2026-05-17
+date = 2026-05-18
 +++
 
 ## Organization: nethserver
 
 ### NethServer/ns8-core 3 
 
--   **[feat(backup): route all backup traffic through rclone-gateway](https://github.com/NethServer/ns8-core/pull/1175)** by *DavidePrincipi* - Reviewers: *stephdl* - Created at: 2026-05-13T07:46:55Z
-- :eyes:  **[Suppress samba decryption error](https://github.com/NethServer/ns8-core/pull/1145)** by *mrmarkuz* - Reviewers: *None* - Created at: 2026-04-17T11:53:01Z
+- :eyes:  **[feat(backup): route all backup traffic through rclone-gateway](https://github.com/NethServer/ns8-core/pull/1175)** by *DavidePrincipi* - Reviewers: *None* - Created at: 2026-05-13T07:46:55Z
+- :eyes: :zzz: **[Suppress samba decryption error](https://github.com/NethServer/ns8-core/pull/1145)** by *mrmarkuz* - Reviewers: *None* - Created at: 2026-04-17T11:53:01Z
 -  :zzz: **[docs: add NethVoice release procedure addendum](https://github.com/NethServer/ns8-core/pull/1136)** by *Copilot* - Reviewers: *Amygos* - Created at: 2026-03-30T14:06:18Z
 
 ### NethServer/ns8-nextcloud 1 
@@ -62,7 +62,7 @@ date = 2026-05-17
 
 ### NethServer/.github 1 
 
--   **[ci(renovate): add minimumReleaseAge for supply chain protection](https://github.com/NethServer/.github/pull/13)** by *andre8244* - Reviewers: *Amygos, gsanchietti, DavidePrincipi* - Created at: 2026-05-15T15:37:34Z
+-   **[ci(renovate): add minimumReleaseAge for supply chain protection](https://github.com/NethServer/.github/pull/13)** by *andre8244* - Reviewers: *Amygos, DavidePrincipi* - Created at: 2026-05-15T15:37:34Z
 
 ### NethServer/my 1 
 
@@ -120,8 +120,8 @@ date = 2026-05-17
 
 ### nethesis/ns8-nethvoice 18 
 
+- :eyes:  **[Better timing selection inside NethVoice CTI line page](https://github.com/nethesis/ns8-nethvoice/pull/832)** by *tonyco97* - Reviewers: *None* - Created at: 2026-05-18T07:04:58Z
 - :eyes:  **[ci(workflows): add pr testing image workflow](https://github.com/nethesis/ns8-nethvoice/pull/831)** by *Amygos* - Reviewers: *None* - Created at: 2026-05-15T14:21:03Z
-- :eyes:  **[Fix: handle phonebook sources as ordered list](https://github.com/nethesis/ns8-nethvoice/pull/830)** by *tonyco97* - Reviewers: *None* - Created at: 2026-05-14T08:12:26Z
 - :eyes:  **[chore: bump nethcti-server and nethcti-middleware refs to fix branches](https://github.com/nethesis/ns8-nethvoice/pull/829)** by *edospadoni* - Reviewers: *None* - Created at: 2026-05-13T11:53:55Z
 - :eyes:  **[Fias hotel log and fix](https://github.com/nethesis/ns8-nethvoice/pull/827)** by *Stell0* - Reviewers: *None* - Created at: 2026-05-12T14:25:05Z
 - :eyes:  **[fix(logging): fix nethhotel logging](https://github.com/nethesis/ns8-nethvoice/pull/826)** by *Stell0* - Reviewers: *None* - Created at: 2026-05-12T13:36:49Z
@@ -139,8 +139,9 @@ date = 2026-05-17
 - :eyes: :zzz: **[fix(janus): fix one-way audio after long SIP hold](https://github.com/nethesis/ns8-nethvoice/pull/743)** by *edospadoni* - Reviewers: *None* - Created at: 2026-03-31T07:49:10Z
 -  :zzz: **[Matrix integration](https://github.com/nethesis/ns8-nethvoice/pull/627)** by *gsanchietti* - Reviewers: *Amygos* - Created at: 2025-12-10T11:32:50Z
 
-### nethesis/nethvoice-cti 3 
+### nethesis/nethvoice-cti 4 
 
+- :eyes:  **[fix: better time selection for line page](https://github.com/nethesis/nethvoice-cti/pull/494)** by *tonyco97* - Reviewers: *None* - Created at: 2026-05-18T06:56:34Z
 -   **[fix: better favicon rebranding](https://github.com/nethesis/nethvoice-cti/pull/485)** by *tonyco97* - Reviewers: *edospadoni* - Created at: 2026-05-08T06:07:31Z
 - :eyes: :zzz: **[fix: update summary handling to use linked IDs instead of unique IDs](https://github.com/nethesis/nethvoice-cti/pull/467)** by *tommaso-ascani* - Reviewers: *None* - Created at: 2026-04-14T10:17:15Z
 - :eyes: :zzz: **[feat: enhance call disposition handling with new utility functions](https://github.com/nethesis/nethvoice-cti/pull/457)** by *tommaso-ascani* - Reviewers: *None* - Created at: 2026-04-03T17:36:17Z
@@ -159,7 +160,7 @@ date = 2026-05-17
 -  :zzz: **[refactor: remove 12 unused kamailio modules](https://github.com/nethesis/ns8-nethvoice-proxy/pull/146)** by *Amygos* - Reviewers: *paolovisintin* - Created at: 2026-02-23T08:21:37Z
 -  :zzz: **[fix: check ds_select_dst return value](https://github.com/nethesis/ns8-nethvoice-proxy/pull/143)** by *Amygos* - Reviewers: *paolovisintin* - Created at: 2026-02-23T08:21:28Z
 -  :zzz: **[fix: increase fr_timer from 1s to 30s](https://github.com/nethesis/ns8-nethvoice-proxy/pull/141)** by *Amygos* - Reviewers: *paolovisintin* - Created at: 2026-02-23T08:06:07Z
-- :eyes: :zzz: **[164 notify timeout](https://github.com/nethesis/ns8-nethvoice-proxy/pull/123)** by *paolovisintin* - Reviewers: *None* - Created at: 2026-01-14T08:00:32Z
+- :eyes: :zzz: **[fix(kamailio): increase timers for NOTIFY/SUBSCRIBE to fix BLF timeouts](https://github.com/nethesis/ns8-nethvoice-proxy/pull/123)** by *paolovisintin* - Reviewers: *None* - Created at: 2026-01-14T08:00:32Z
 
 ### nethesis/vue-components 1 
 
