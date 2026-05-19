@@ -2,7 +2,7 @@
 
 title = 'To be released soon'
 
-date = 2026-05-18
+date = 2026-05-19
 
 +++
 
@@ -47,6 +47,8 @@ date = 2026-05-18
 - [Threat Shield IP blocks do not work when WAN uses PPPoE](https://github.com/NethServer/nethsecurity/issues/1648) (#1192) by cotosso (Created: 2026-05-06T09:35:41Z, Updated: 2026-05-13T12:27:43Z)
 
 - [Swanctl error when PSK contains curly braces](https://github.com/NethServer/nethsecurity/issues/1631) (#1192) by mamengoni (Created: 2026-04-30T10:48:31Z, Updated: 2026-05-14T12:26:05Z)
+
+- [Add "DON'T TRACK" action to firewall rules](https://github.com/NethServer/nethsecurity/issues/1617) (#1192) by cotosso (Created: 2026-04-28T14:06:49Z, Updated: 2026-05-18T13:22:14Z)
 
 - [OpenVPN: Revert tun_mtu and mssfix values to OpenVPN 2.5 defaults to avoid MTU-related traffic issues](https://github.com/NethServer/nethsecurity/issues/1427) (#1192) by cotosso (Created: 2025-11-13T09:16:49Z, Updated: 2026-05-14T10:53:34Z)
 
