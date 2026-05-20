@@ -2,7 +2,7 @@
 
 title = 'To be released soon'
 
-date = 2026-05-19
+date = 2026-05-20
 
 +++
 
@@ -34,27 +34,11 @@ date = 2026-05-19
 
 - [Design: Simplify “NethVoice Proxy” step for second NethVoice instance](https://github.com/NethServer/dev/issues/7828) (#7828) by AmaLuci (Created: 2026-01-20T16:39:06Z, Updated: 2026-02-09T12:07:15Z)
 
-### NethSecurity
+### 8.7.2
 
-- [HA configuration is corrupted when the VRRP interface is not named `lan`](https://github.com/NethServer/nethsecurity/issues/1664) (#1192) by cotosso (Created: 2026-05-13T09:50:50Z, Updated: 2026-05-15T09:09:13Z)
+- [Send backups through a temporary proxy for the my.nethesis.it switch](https://github.com/NethServer/nethsecurity/issues/1684) (#1617) by gsanchietti (Created: 2026-05-19T07:20:55Z, Updated: 2026-05-20T07:12:48Z)
 
-- [Slow IPsec page loading with high number of tunnels](https://github.com/NethServer/nethsecurity/issues/1660) (#1192) by federicoballarini (Created: 2026-05-12T15:17:54Z, Updated: 2026-05-13T11:48:29Z)
+### 8.8.0
 
-- [Backup passphrase is not synchronized in HA configuration](https://github.com/NethServer/nethsecurity/issues/1655) (#1192) by cotosso (Created: 2026-05-12T05:14:58Z, Updated: 2026-05-13T12:57:27Z)
-
-- [NAT drawer: empty rows in the “Device” dropdown under advanced settings](https://github.com/NethServer/nethsecurity/issues/1650) (#1192) by cotosso (Created: 2026-05-06T13:08:31Z, Updated: 2026-05-13T12:48:24Z)
-
-- [Threat Shield IP blocks do not work when WAN uses PPPoE](https://github.com/NethServer/nethsecurity/issues/1648) (#1192) by cotosso (Created: 2026-05-06T09:35:41Z, Updated: 2026-05-13T12:27:43Z)
-
-- [Swanctl error when PSK contains curly braces](https://github.com/NethServer/nethsecurity/issues/1631) (#1192) by mamengoni (Created: 2026-04-30T10:48:31Z, Updated: 2026-05-14T12:26:05Z)
-
-- [Add "DON'T TRACK" action to firewall rules](https://github.com/NethServer/nethsecurity/issues/1617) (#1192) by cotosso (Created: 2026-04-28T14:06:49Z, Updated: 2026-05-18T13:22:14Z)
-
-- [OpenVPN: Revert tun_mtu and mssfix values to OpenVPN 2.5 defaults to avoid MTU-related traffic issues](https://github.com/NethServer/nethsecurity/issues/1427) (#1192) by cotosso (Created: 2025-11-13T09:16:49Z, Updated: 2026-05-14T10:53:34Z)
-
-- [Show full OpenVPN RW in the UI connection history from stored logs instead of RAM](https://github.com/NethServer/nethsecurity/issues/1404) (#1192) by cotosso (Created: 2025-10-22T10:48:02Z, Updated: 2026-05-14T09:11:17Z)
-
-### NoMilestone
-
-- [Add mtu and mssfix configuration options to advanced settings in OpenVPN (RW and tunnels)](https://github.com/NethServer/nethsecurity/issues/1192) (#1192) by cotosso (Created: 2025-04-30T08:08:40Z, Updated: 2026-05-14T11:01:40Z)
+- [Add "DON'T TRACK" action to firewall rules](https://github.com/NethServer/nethsecurity/issues/1617) (#1617) by cotosso (Created: 2026-04-28T14:06:49Z, Updated: 2026-05-18T13:22:14Z)
 
