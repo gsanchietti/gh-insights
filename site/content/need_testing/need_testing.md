@@ -1,26 +1,21 @@
 +++
-title = 'Need testing (20)'
-date = 2026-05-20
+title = 'Need testing (15)'
+date = 2026-05-21
 +++
 
 ## NethVoice
-- **[[Bug] Save failure for conditional forwarding (Start/End Date) in Line Management](https://github.com/NethServer/dev/issues/8009)** (#7677) by *Ilvo* (Created: 2026-05-15, Updated: 2026-05-20T06:46:44Z)
-- :point_right: **[NethVoice: Add rebranding configuration interface](https://github.com/NethServer/dev/issues/7995)** (#7677) by *tonyco97* (Created: 2026-05-07, Updated: 2026-05-18T09:47:11Z)
-- :point_right: **[NethVoice - Improve backup procedure to avoid temporary database duplication](https://github.com/NethServer/dev/issues/7991)** (#7677) by *nrauso* (Created: 2026-05-05, Updated: 2026-05-13T06:42:46Z)
-- :point_right: **[Phone island : automatic video start on incoming call and retention of call controls](https://github.com/NethServer/dev/issues/7926)** (#7677) by *viktec* (Created: 2026-03-23, Updated: 2026-05-11T08:23:32Z)
+- :point_right: **[NethVoice: Add rebranding configuration interface](https://github.com/NethServer/dev/issues/7995)** (#7691) by *tonyco97* (Created: 2026-05-07, Updated: 2026-05-18T09:47:11Z)
+- :point_right: **[NethVoice - Improve backup procedure to avoid temporary database duplication](https://github.com/NethServer/dev/issues/7991)** (#7691) by *nrauso* (Created: 2026-05-05, Updated: 2026-05-13T06:42:46Z)
+- :point_right: **[Phone island : automatic video start on incoming call and retention of call controls](https://github.com/NethServer/dev/issues/7926)** (#7691) by *viktec* (Created: 2026-03-23, Updated: 2026-05-11T08:23:32Z)
 
 ## NethServer
-- :point_right: **[Show storage usage in node selection](https://github.com/NethServer/dev/issues/7992)** (#7677) by *DavidePrincipi* (Created: 2026-05-05, Updated: 2026-05-15T10:16:10Z)
-- :point_right: **[Upgrade Nextcloud to version v33.0.2](https://github.com/NethServer/dev/issues/7986)** (#7677) by *stephdl* (Created: 2026-04-30, Updated: 2026-05-04T12:10:39Z)
-- :point_right: **[Update dependencies - NethServer 8.9](https://github.com/NethServer/dev/issues/7967)** (#7677) by *DavidePrincipi* (Created: 2026-04-20, Updated: 2026-04-30T15:34:55Z)
-- :point_right: **[Restore backup schedule within disaster recovery](https://github.com/NethServer/dev/issues/7883)** (#7677) by *DavidePrincipi* (Created: 2026-02-18, Updated: 2026-05-19T15:01:55Z)
-- :point_right: **[Agent restart failed after concurrent update-core runs](https://github.com/NethServer/dev/issues/7877)** (#7677) by *DavidePrincipi* (Created: 2026-02-16, Updated: 2026-05-19T13:17:42Z)
-- :point_right: **[Configurable shell (nologin) for module service users](https://github.com/NethServer/dev/issues/7844)** (#7677) by *DavidePrincipi* (Created: 2026-01-30, Updated: 2026-05-15T10:17:27Z)
-- :point_right: **[Centralized Backup Orchestration and Rclone-based Gateway](https://github.com/NethServer/dev/issues/7814)** (#7677) by *DavidePrincipi* (Created: 2026-01-12, Updated: 2026-05-19T14:59:46Z)
-- :point_right: **[No cluster-backup in destinations](https://github.com/NethServer/dev/issues/7677)** (#7677) by *DavidePrincipi* (Created: 2025-10-08, Updated: 2026-05-19T15:02:17Z)
+- :point_right: **[Show storage usage in node selection](https://github.com/NethServer/dev/issues/7992)** (#7691) by *DavidePrincipi* (Created: 2026-05-05, Updated: 2026-05-15T10:16:10Z)
+- :point_right: **[Upgrade Nextcloud to version v33.0.2](https://github.com/NethServer/dev/issues/7986)** (#7691) by *stephdl* (Created: 2026-04-30, Updated: 2026-05-04T12:10:39Z)
+- :point_right: **[Update dependencies - NethServer 8.9](https://github.com/NethServer/dev/issues/7967)** (#7691) by *DavidePrincipi* (Created: 2026-04-20, Updated: 2026-04-30T15:34:55Z)
+- :point_right: **[Centralized Backup Orchestration and Rclone-based Gateway](https://github.com/NethServer/dev/issues/7814)** (#7691) by *DavidePrincipi* (Created: 2026-01-12, Updated: 2026-05-19T14:59:46Z)
 
 ## NethVoice
-- :point_right: **[NethAI integration backend: AI Integration for TTS (Text-to-Speech) in NethVoice](https://github.com/NethServer/dev/issues/7691)** (#7677) by *andrea-marchionni* (Created: 2025-10-22, Updated: 2026-05-11T08:09:59Z)
+- :point_right: **[NethAI integration backend: AI Integration for TTS (Text-to-Speech) in NethVoice](https://github.com/NethServer/dev/issues/7691)** (#7691) by *andrea-marchionni* (Created: 2025-10-22, Updated: 2026-05-11T08:09:59Z)
 
 ## 8.8.0
 - **[flows: move from socket listener to http](https://github.com/NethServer/nethsecurity/issues/1681)** (#1298) by *Tbaile* (Created: 2026-05-18, Updated: 2026-05-18T08:05:27Z)

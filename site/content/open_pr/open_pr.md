@@ -1,19 +1,20 @@
 +++
 title = 'Open Pull Requests'
-date = 2026-05-20
+date = 2026-05-21
 +++
 
 ## Organization: nethserver
 
-### NethServer/ns8-core 3 
+### NethServer/ns8-core 4 
 
+- :eyes:  **[Fixes for rclone-gateway QA](https://github.com/NethServer/ns8-core/pull/1180)** by *DavidePrincipi* - Reviewers: *None* - Created at: 2026-05-20T12:22:11Z
 - :eyes:  **[Enhance AddRepositoryModal for Rclone support and UI optimizations](https://github.com/NethServer/ns8-core/pull/1177)** by *stephdl* - Reviewers: *None* - Created at: 2026-05-19T15:43:37Z
 - :eyes: :zzz: **[Suppress samba decryption error](https://github.com/NethServer/ns8-core/pull/1145)** by *mrmarkuz* - Reviewers: *None* - Created at: 2026-04-17T11:53:01Z
 -  :zzz: **[docs: add NethVoice release procedure addendum](https://github.com/NethServer/ns8-core/pull/1136)** by *Copilot* - Reviewers: *Amygos* - Created at: 2026-03-30T14:06:18Z
 
 ### NethServer/ns8-nextcloud 2 
 
-- :eyes:  **[Improve readiness check logic in wait-startup script](https://github.com/NethServer/ns8-nextcloud/pull/216)** by *stephdl* - Reviewers: *None* - Created at: 2026-05-19T14:33:38Z
+- :eyes:  **[Revert Nextcloud image version to 32.0.9-fpm-alpine](https://github.com/NethServer/ns8-nextcloud/pull/218)** by *stephdl* - Reviewers: *None* - Created at: 2026-05-20T14:34:52Z
 - :eyes: :zzz: **[Update minimum version label from 1.5.0 to 1.6.0](https://github.com/NethServer/ns8-nextcloud/pull/204)** by *mrmarkuz* - Reviewers: *None* - Created at: 2026-04-01T14:42:09Z
 
 ### NethServer/ns8-traefik 2 
@@ -21,8 +22,13 @@ date = 2026-05-20
 - :eyes:  **[refactor: centralize module testing](https://github.com/NethServer/ns8-traefik/pull/131)** by *Copilot* - Reviewers: *None* - Created at: 2026-04-23T08:45:10Z
 - :eyes: :zzz: **[fix: cryptography 45 deprecation warning](https://github.com/NethServer/ns8-traefik/pull/120)** by *DavidePrincipi* - Reviewers: *None* - Created at: 2025-10-28T08:48:29Z
 
-### NethServer/nethsecurity 2 
+### NethServer/ns8-openldap 1 
 
+-   **[feat: add neverexpires password policy](https://github.com/NethServer/ns8-openldap/pull/126)** by *DavidePrincipi* - Reviewers: *stephdl* - Created at: 2026-05-20T18:18:36Z
+
+### NethServer/nethsecurity 3 
+
+- :eyes:  **[fix(openvpn-status): manage real_address format after OpenVPN version update](https://github.com/NethServer/nethsecurity/pull/1687)** by *m-dilorenzi* - Reviewers: *None* - Created at: 2026-05-20T11:58:13Z
 - :eyes:  **[Nethsecurity 8.8.0](https://github.com/NethServer/nethsecurity/pull/1642)** by *gsanchietti* - Reviewers: *None* - Created at: 2026-05-05T13:31:12Z
 - :eyes: :zzz: **[build: added softflowd](https://github.com/NethServer/nethsecurity/pull/1453)** by *Tbaile* - Reviewers: *None* - Created at: 2025-12-10T11:48:14Z
 
@@ -43,10 +49,6 @@ date = 2026-05-20
 
 - :eyes: :zzz: **[Use random password instead of the predefined one](https://github.com/NethServer/ns8-images/pull/12)** by *mrmarkuz* - Reviewers: *None* - Created at: 2026-04-14T09:25:41Z
 
-### NethServer/nethsecurity-ui 1 
-
--   **[refactor(community): add automatic updates and remote database functionalities](https://github.com/NethServer/nethsecurity-ui/pull/770)** by *m-dilorenzi* - Reviewers: *Tbaile* - Created at: 2026-05-19T16:23:38Z
-
 ### NethServer/nethsecurity-docs 4 
 
 -   **[docs(browser): publish standalone package browser](https://github.com/NethServer/nethsecurity-docs/pull/265)** by *gsanchietti* - Reviewers: *Tbaile* - Created at: 2026-05-20T06:59:54Z
@@ -54,17 +56,9 @@ date = 2026-05-20
 -   **[docs: added avahi documentation](https://github.com/NethServer/nethsecurity-docs/pull/255)** by *Tbaile* - Reviewers: *cotosso, francio87* - Created at: 2026-05-12T07:56:17Z
 -  :zzz: **[feat: added softflowd doc](https://github.com/NethServer/nethsecurity-docs/pull/227)** by *Tbaile* - Reviewers: *cotosso* - Created at: 2026-03-05T09:29:42Z
 
-### NethServer/ns8-sogo 1 
-
-- :eyes:  **[Update Sogo 5.12.8 version in build-images.sh](https://github.com/NethServer/ns8-sogo/pull/97)** by *stephdl* - Reviewers: *None* - Created at: 2026-05-19T09:22:23Z
-
 ### NethServer/ns8-nethforge 1 
 
 - :eyes:  **[Update metadata.json](https://github.com/NethServer/ns8-nethforge/pull/40)** by *Stell0* - Reviewers: *None* - Created at: 2026-05-12T13:58:24Z
-
-### NethServer/sogo-server 1 
-
-- :eyes:  **[Upgrade to SOGo 5.12.8 (build from upstream sources, multi-stage)](https://github.com/NethServer/sogo-server/pull/26)** by *stephdl* - Reviewers: *None* - Created at: 2026-05-18T15:28:18Z
 
 ### NethServer/nethlink 3 
 
@@ -162,9 +156,8 @@ date = 2026-05-20
 - :eyes:  **[fix: better displayName on videosource](https://github.com/nethesis/phone-island/pull/234)** by *tonyco97* - Reviewers: *None* - Created at: 2026-05-15T10:06:19Z
 - :eyes: :zzz: **[fix: enhance transcription handling with linkedId and uniqueId](https://github.com/nethesis/phone-island/pull/216)** by *tommaso-ascani* - Reviewers: *None* - Created at: 2026-04-14T10:17:20Z
 
-### nethesis/ns8-nethvoice-proxy 9 
+### nethesis/ns8-nethvoice-proxy 8 
 
-- :eyes:  **[fix(kamailio): SET_SOCKET reply use $si instead of $dlg_var(source_ip) (#445)](https://github.com/nethesis/ns8-nethvoice-proxy/pull/173)** by *paolovisintin* - Reviewers: *None* - Created at: 2026-05-18T16:01:13Z
 - :eyes:  **[fix: preserve local networks in ui](https://github.com/nethesis/ns8-nethvoice-proxy/pull/165)** by *Amygos* - Reviewers: *None* - Created at: 2026-04-22T15:13:51Z
 - :eyes: :zzz: **[feat: Dynamic port slot binding for multi-trunk support (Vianova)](https://github.com/nethesis/ns8-nethvoice-proxy/pull/158)** by *paolovisintin* - Reviewers: *None* - Created at: 2026-03-24T10:43:30Z
 -  :zzz: **[refactor: remove dead code and unused flags](https://github.com/nethesis/ns8-nethvoice-proxy/pull/148)** by *Amygos* - Reviewers: *paolovisintin* - Created at: 2026-02-23T08:21:43Z
@@ -188,7 +181,7 @@ date = 2026-05-20
 
 ### nethesis/satellite 2 
 
-- :eyes:  **[feat(transcription): add linkedid support and handle silent audio cases](https://github.com/nethesis/satellite/pull/44)** by *tommaso-ascani* - Reviewers: *None* - Created at: 2026-04-20T15:34:59Z
+- :eyes: :zzz: **[feat(transcription): add linkedid support and handle silent audio cases](https://github.com/nethesis/satellite/pull/44)** by *tommaso-ascani* - Reviewers: *None* - Created at: 2026-04-20T15:34:59Z
 -  :zzz: **[Multi-Provider Transcription Support (REST/Batch Path)](https://github.com/nethesis/satellite/pull/31)** by *Amygos* - Reviewers: *Stell0* - Created at: 2026-02-16T09:08:57Z
 
 ### nethesis/nethcti-middleware 4 
