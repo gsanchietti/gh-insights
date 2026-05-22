@@ -2,7 +2,7 @@
 
 title = 'To be released soon'
 
-date = 2026-05-21
+date = 2026-05-22
 
 +++
 
@@ -41,6 +41,8 @@ date = 2026-05-21
 ### NethServer
 
 - [Bug: post-restore script 20configure fails on line 39 - Nextcloud database not ready](https://github.com/NethServer/dev/issues/7988) (#7677) by stephdl (Created: 2026-05-04T10:59:40Z, Updated: 2026-05-20T14:45:24Z)
+
+- [Upgrade Nextcloud to version v33.0.2](https://github.com/NethServer/dev/issues/7986) (#7677) by stephdl (Created: 2026-04-30T10:20:33Z, Updated: 2026-05-22T07:37:06Z)
 
 - [Restore backup schedule within disaster recovery](https://github.com/NethServer/dev/issues/7883) (#7677) by DavidePrincipi (Created: 2026-02-18T18:38:38Z, Updated: 2026-05-20T17:09:25Z)
 

@@ -1,13 +1,12 @@
 +++
 title = 'Open Pull Requests'
-date = 2026-05-21
+date = 2026-05-22
 +++
 
 ## Organization: nethserver
 
-### NethServer/ns8-core 4 
+### NethServer/ns8-core 3 
 
-- :eyes:  **[Fixes for rclone-gateway QA](https://github.com/NethServer/ns8-core/pull/1180)** by *DavidePrincipi* - Reviewers: *None* - Created at: 2026-05-20T12:22:11Z
 - :eyes:  **[Enhance AddRepositoryModal for Rclone support and UI optimizations](https://github.com/NethServer/ns8-core/pull/1177)** by *stephdl* - Reviewers: *None* - Created at: 2026-05-19T15:43:37Z
 - :eyes: :zzz: **[Suppress samba decryption error](https://github.com/NethServer/ns8-core/pull/1145)** by *mrmarkuz* - Reviewers: *None* - Created at: 2026-04-17T11:53:01Z
 -  :zzz: **[docs: add NethVoice release procedure addendum](https://github.com/NethServer/ns8-core/pull/1136)** by *Copilot* - Reviewers: *Amygos* - Created at: 2026-03-30T14:06:18Z
@@ -22,32 +21,20 @@ date = 2026-05-21
 - :eyes:  **[refactor: centralize module testing](https://github.com/NethServer/ns8-traefik/pull/131)** by *Copilot* - Reviewers: *None* - Created at: 2026-04-23T08:45:10Z
 - :eyes: :zzz: **[fix: cryptography 45 deprecation warning](https://github.com/NethServer/ns8-traefik/pull/120)** by *DavidePrincipi* - Reviewers: *None* - Created at: 2025-10-28T08:48:29Z
 
-### NethServer/ns8-openldap 1 
+### NethServer/nethsecurity 2 
 
--   **[feat: add neverexpires password policy](https://github.com/NethServer/ns8-openldap/pull/126)** by *DavidePrincipi* - Reviewers: *stephdl* - Created at: 2026-05-20T18:18:36Z
-
-### NethServer/nethsecurity 3 
-
-- :eyes:  **[fix(openvpn-status): manage real_address format after OpenVPN version update](https://github.com/NethServer/nethsecurity/pull/1687)** by *m-dilorenzi* - Reviewers: *None* - Created at: 2026-05-20T11:58:13Z
 - :eyes:  **[Nethsecurity 8.8.0](https://github.com/NethServer/nethsecurity/pull/1642)** by *gsanchietti* - Reviewers: *None* - Created at: 2026-05-05T13:31:12Z
 - :eyes: :zzz: **[build: added softflowd](https://github.com/NethServer/nethsecurity/pull/1453)** by *Tbaile* - Reviewers: *None* - Created at: 2025-12-10T11:48:14Z
-
-### NethServer/ns8-nethsecurity-controller 1 
-
--  :zzz: **[perf: removed relabeling for high inode volumes](https://github.com/NethServer/ns8-nethsecurity-controller/pull/200)** by *Tbaile* - Reviewers: *gsanchietti* - Created at: 2026-03-30T08:23:54Z
 
 ### NethServer/phonehome-server 1 
 
 - :eyes: :zzz: **[chore(master): release 1.5.1](https://github.com/NethServer/phonehome-server/pull/138)** by *Tbaile* - Reviewers: *None* - Created at: 2025-11-15T06:38:38Z
 
-### NethServer/ns8-docs 2 
+### NethServer/ns8-docs 3 
 
+-   **[feat: password never expires for OpenLDAP](https://github.com/NethServer/ns8-docs/pull/236)** by *DavidePrincipi* - Reviewers: *stephdl, nrauso* - Created at: 2026-05-21T14:51:31Z
 - :eyes:  **[Update install.rst](https://github.com/NethServer/ns8-docs/pull/233)** by *nrauso* - Reviewers: *None* - Created at: 2026-05-05T15:36:18Z
 -  :zzz: **[Explain generated root password](https://github.com/NethServer/ns8-docs/pull/231)** by *mrmarkuz* - Reviewers: *DavidePrincipi* - Created at: 2026-04-16T13:45:56Z
-
-### NethServer/ns8-images 1 
-
-- :eyes: :zzz: **[Use random password instead of the predefined one](https://github.com/NethServer/ns8-images/pull/12)** by *mrmarkuz* - Reviewers: *None* - Created at: 2026-04-14T09:25:41Z
 
 ### NethServer/nethsecurity-docs 4 
 
@@ -55,6 +42,11 @@ date = 2026-05-21
 - :eyes:  **[docs: update MTU and MSS configuration guidance for OpenVPN RW and tunnels](https://github.com/NethServer/nethsecurity-docs/pull/262)** by *m-dilorenzi* - Reviewers: *None* - Created at: 2026-05-14T13:17:34Z
 -   **[docs: added avahi documentation](https://github.com/NethServer/nethsecurity-docs/pull/255)** by *Tbaile* - Reviewers: *cotosso, francio87* - Created at: 2026-05-12T07:56:17Z
 -  :zzz: **[feat: added softflowd doc](https://github.com/NethServer/nethsecurity-docs/pull/227)** by *Tbaile* - Reviewers: *cotosso* - Created at: 2026-03-05T09:29:42Z
+
+### NethServer/ns8-imapsync 2 
+
+- :eyes:  **[Improve file age calculation logic](https://github.com/NethServer/ns8-imapsync/pull/102)** by *stephdl* - Reviewers: *None* - Created at: 2026-05-22T07:20:29Z
+- :eyes:  **[fix: avoid silent crash on missing timestamp file at first sync](https://github.com/NethServer/ns8-imapsync/pull/101)** by *stephdl* - Reviewers: *None* - Created at: 2026-05-21T15:52:43Z
 
 ### NethServer/ns8-nethforge 1 
 
@@ -81,9 +73,8 @@ date = 2026-05-21
 
 ## Organization: nethesis
 
-### nethesis/nethcti-server 2 
+### nethesis/nethcti-server 1 
 
-- :eyes:  **[fix(auth): recover REST listener and close response on errors](https://github.com/nethesis/nethcti-server/pull/349)** by *edospadoni* - Reviewers: *None* - Created at: 2026-05-13T11:49:42Z
 - :eyes: :zzz: **[fix: enhance history call logic to handle answered elsewhere cases](https://github.com/nethesis/nethcti-server/pull/346)** by *tommaso-ascani* - Reviewers: *None* - Created at: 2026-04-03T17:30:17Z
 
 ### nethesis/nethvoice-wizard-ui 1 
@@ -136,7 +127,7 @@ date = 2026-05-21
 - :eyes:  **[Optimize database backup disk usage](https://github.com/nethesis/ns8-nethvoice/pull/815)** by *gsanchietti* - Reviewers: *None* - Created at: 2026-05-08T08:06:41Z
 - :eyes:  **[fix(voicemail): increase voicemessages callerid max length](https://github.com/nethesis/ns8-nethvoice/pull/813)** by *Stell0* - Reviewers: *None* - Created at: 2026-05-07T06:22:43Z
 -   **[feat(rebranding): reports UI branding with env chain and preview](https://github.com/nethesis/ns8-nethvoice/pull/809)** by *tonyco97* - Reviewers: *edospadoni* - Created at: 2026-05-05T12:17:42Z
-- :eyes:  **[Adding MultiWire as provider VoIP](https://github.com/nethesis/ns8-nethvoice/pull/808)** by *andrea-marchionni* - Reviewers: *None* - Created at: 2026-05-04T11:06:50Z
+- :eyes:  **[Adding MultiWire and Vianova as provider VoIP](https://github.com/nethesis/ns8-nethvoice/pull/808)** by *andrea-marchionni* - Reviewers: *None* - Created at: 2026-05-04T11:06:50Z
 -   **[fix(get-defaults): use timedatectl for timezones](https://github.com/nethesis/ns8-nethvoice/pull/804)** by *Amygos* - Reviewers: *Stell0* - Created at: 2026-04-30T10:56:34Z
 - :eyes:  **[feat: add spool volume label](https://github.com/nethesis/ns8-nethvoice/pull/789)** by *Amygos* - Reviewers: *None* - Created at: 2026-04-22T14:23:51Z
 - :eyes: :zzz: **[fix(transcriptions): update satellite transcription handling](https://github.com/nethesis/ns8-nethvoice/pull/781)** by *tommaso-ascani* - Reviewers: *None* - Created at: 2026-04-14T10:29:41Z
@@ -184,9 +175,8 @@ date = 2026-05-21
 - :eyes: :zzz: **[feat(transcription): add linkedid support and handle silent audio cases](https://github.com/nethesis/satellite/pull/44)** by *tommaso-ascani* - Reviewers: *None* - Created at: 2026-04-20T15:34:59Z
 -  :zzz: **[Multi-Provider Transcription Support (REST/Batch Path)](https://github.com/nethesis/satellite/pull/31)** by *Amygos* - Reviewers: *Stell0* - Created at: 2026-02-16T09:08:57Z
 
-### nethesis/nethcti-middleware 4 
+### nethesis/nethcti-middleware 3 
 
-- :eyes:  **[fix(auth): add timeout to login backend HTTP client](https://github.com/nethesis/nethcti-middleware/pull/52)** by *edospadoni* - Reviewers: *None* - Created at: 2026-05-13T11:51:21Z
 - :eyes: :zzz: **[fix: update API to support linked IDs for transcription and summary](https://github.com/nethesis/nethcti-middleware/pull/44)** by *tommaso-ascani* - Reviewers: *None* - Created at: 2026-04-14T10:17:21Z
 - :eyes: :zzz: **[feat: add support user authentication for FreePBX CTI APIs](https://github.com/nethesis/nethcti-middleware/pull/42)** by *edospadoni* - Reviewers: *None* - Created at: 2026-03-30T08:59:50Z
 -  :zzz: **[feat: add GET /chat endpoint](https://github.com/nethesis/nethcti-middleware/pull/16)** by *gsanchietti* - Reviewers: *tommaso-ascani* - Created at: 2025-12-17T10:53:42Z
