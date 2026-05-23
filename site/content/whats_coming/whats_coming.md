@@ -2,7 +2,7 @@
 
 title = 'To be released soon'
 
-date = 2026-05-22
+date = 2026-05-23
 
 +++
 
@@ -42,15 +42,15 @@ date = 2026-05-22
 
 - [Bug: post-restore script 20configure fails on line 39 - Nextcloud database not ready](https://github.com/NethServer/dev/issues/7988) (#7677) by stephdl (Created: 2026-05-04T10:59:40Z, Updated: 2026-05-20T14:45:24Z)
 
-- [Upgrade Nextcloud to version v33.0.2](https://github.com/NethServer/dev/issues/7986) (#7677) by stephdl (Created: 2026-04-30T10:20:33Z, Updated: 2026-05-22T07:37:06Z)
+- [Upgrade Nextcloud to version v33.0.2](https://github.com/NethServer/dev/issues/7986) (#7677) by stephdl (Created: 2026-04-30T10:20:33Z, Updated: 2026-05-22T14:06:11Z)
 
-- [Restore backup schedule within disaster recovery](https://github.com/NethServer/dev/issues/7883) (#7677) by DavidePrincipi (Created: 2026-02-18T18:38:38Z, Updated: 2026-05-20T17:09:25Z)
+- [Restore backup schedule within disaster recovery](https://github.com/NethServer/dev/issues/7883) (#7677) by DavidePrincipi (Created: 2026-02-18T18:38:38Z, Updated: 2026-05-22T14:06:10Z)
 
 - [Agent restart failed after concurrent update-core runs](https://github.com/NethServer/dev/issues/7877) (#7677) by DavidePrincipi (Created: 2026-02-16T14:46:37Z, Updated: 2026-05-20T08:16:27Z)
 
-- [Configurable shell (nologin) for module service users](https://github.com/NethServer/dev/issues/7844) (#7677) by DavidePrincipi (Created: 2026-01-30T17:04:00Z, Updated: 2026-05-20T09:41:55Z)
+- [Configurable shell (nologin) for module service users](https://github.com/NethServer/dev/issues/7844) (#7677) by DavidePrincipi (Created: 2026-01-30T17:04:00Z, Updated: 2026-05-22T14:06:10Z)
 
-- [No cluster-backup in destinations](https://github.com/NethServer/dev/issues/7677) (#7677) by DavidePrincipi (Created: 2025-10-08T09:09:24Z, Updated: 2026-05-20T17:12:09Z)
+- [No cluster-backup in destinations](https://github.com/NethServer/dev/issues/7677) (#7677) by DavidePrincipi (Created: 2025-10-08T09:09:24Z, Updated: 2026-05-22T14:06:09Z)
 
 ### 8.7.2
 
