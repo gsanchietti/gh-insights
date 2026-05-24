@@ -1,6 +1,6 @@
 +++
 title = 'Open Pull Requests'
-date = 2026-05-23
+date = 2026-05-24
 +++
 
 ## Organization: nethserver
@@ -18,7 +18,7 @@ date = 2026-05-23
 
 ### NethServer/ns8-traefik 2 
 
-- :eyes:  **[refactor: centralize module testing](https://github.com/NethServer/ns8-traefik/pull/131)** by *Copilot* - Reviewers: *None* - Created at: 2026-04-23T08:45:10Z
+- :eyes: :zzz: **[refactor: centralize module testing](https://github.com/NethServer/ns8-traefik/pull/131)** by *Copilot* - Reviewers: *None* - Created at: 2026-04-23T08:45:10Z
 - :eyes: :zzz: **[fix: cryptography 45 deprecation warning](https://github.com/NethServer/ns8-traefik/pull/120)** by *DavidePrincipi* - Reviewers: *None* - Created at: 2025-10-28T08:48:29Z
 
 ### NethServer/nethsecurity 3 

@@ -1,6 +1,6 @@
 +++
 title = 'Open Pull Requests by Bots'
-date = 2026-05-23
+date = 2026-05-24
 +++
 
 ## Organization: nethserver
@@ -77,7 +77,7 @@ date = 2026-05-23
 
 - :eyes:  **[chore(deps): update dependency @carbon/icons-vue to v10.129.0](https://github.com/NethServer/ns8-samba/pull/207)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-05-20T21:52:21Z
 - :eyes:  **[chore(deps): update timescale/timescaledb docker tag to v2.27.0](https://github.com/NethServer/ns8-samba/pull/205)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-05-12T17:40:56Z
-- :eyes:  **[chore(deps): update docker.io/library/ubuntu docker tag to v26](https://github.com/NethServer/ns8-samba/pull/198)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-04-24T01:10:22Z
+- :eyes: :zzz: **[chore(deps): update docker.io/library/ubuntu docker tag to v26](https://github.com/NethServer/ns8-samba/pull/198)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-04-24T01:10:22Z
 
 ### NethServer/ns8-loki 1 
 
@@ -245,7 +245,7 @@ date = 2026-05-23
 
 - :eyes:  **[Translations update from Hosted Weblate](https://github.com/NethServer/ns8-lamp/pull/112)** by *weblate* - Reviewers: *None* - Created at: 2026-05-09T09:15:55Z
 - :eyes:  **[Update dependency axios to ^0.32.0](https://github.com/NethServer/ns8-lamp/pull/111)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-05-04T19:39:36Z
-- :eyes:  **[Update docker.io/ubuntu Docker tag to v26](https://github.com/NethServer/ns8-lamp/pull/108)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-04-24T00:29:19Z
+- :eyes: :zzz: **[Update docker.io/ubuntu Docker tag to v26](https://github.com/NethServer/ns8-lamp/pull/108)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-04-24T00:29:19Z
 
 ### NethServer/ns8-passbolt 2 
 
@@ -373,10 +373,10 @@ date = 2026-05-23
 - :eyes:  **[Translations update from Hosted Weblate](https://github.com/nethesis/ns8-nethvoice/pull/828)** by *weblate* - Reviewers: *None* - Created at: 2026-05-13T10:44:43Z
 - :eyes:  **[chore(deps): update dependency grunt-contrib-htmlmin to ^0.6.0](https://github.com/nethesis/ns8-nethvoice/pull/801)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-04-24T10:02:56Z
 - :eyes:  **[chore(deps): update dependency grunt-contrib-cssmin to ^0.14.0](https://github.com/nethesis/ns8-nethvoice/pull/800)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-04-24T09:05:36Z
-- :eyes:  **[chore(deps): update dependency grunt-contrib-copy to ^0.8.0](https://github.com/nethesis/ns8-nethvoice/pull/799)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-04-24T06:39:51Z
-- :eyes:  **[chore(deps): update dependency grunt-contrib-connect to ^0.11.0](https://github.com/nethesis/ns8-nethvoice/pull/797)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-04-23T09:04:48Z
-- :eyes:  **[chore(deps): update dependency grunt-contrib-clean to ^0.7.0](https://github.com/nethesis/ns8-nethvoice/pull/795)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-04-23T08:43:52Z
-- :eyes:  **[chore(deps): update dependency grunt-cli to v1.5.0](https://github.com/nethesis/ns8-nethvoice/pull/794)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-04-23T08:43:42Z
+- :eyes: :zzz: **[chore(deps): update dependency grunt-contrib-copy to ^0.8.0](https://github.com/nethesis/ns8-nethvoice/pull/799)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-04-24T06:39:51Z
+- :eyes: :zzz: **[chore(deps): update dependency grunt-contrib-connect to ^0.11.0](https://github.com/nethesis/ns8-nethvoice/pull/797)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-04-23T09:04:48Z
+- :eyes: :zzz: **[chore(deps): update dependency grunt-contrib-clean to ^0.7.0](https://github.com/nethesis/ns8-nethvoice/pull/795)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-04-23T08:43:52Z
+- :eyes: :zzz: **[chore(deps): update dependency grunt-cli to v1.5.0](https://github.com/nethesis/ns8-nethvoice/pull/794)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-04-23T08:43:42Z
 - :eyes: :zzz: **[chore(deps): update dependency flow-bin to ^0.314.0](https://github.com/nethesis/ns8-nethvoice/pull/793)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-04-23T01:35:07Z
 - :eyes: :zzz: **[chore(deps): update dependency grunt-angular-templates to ^0.6.0](https://github.com/nethesis/ns8-nethvoice/pull/787)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-04-20T09:55:57Z
 -  :zzz: **[chore(deps): update docker.io/library/golang docker tag to v1.26.3](https://github.com/nethesis/ns8-nethvoice/pull/563)** by *renovate[bot]* - Reviewers: *edospadoni* - Created at: 2025-10-16T01:44:45Z
