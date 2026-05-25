@@ -1,6 +1,6 @@
 +++
 title = 'Need testing (18)'
-date = 2026-05-24
+date = 2026-05-25
 +++
 
 ## NethVoice
@@ -12,7 +12,7 @@ date = 2026-05-24
 ## NethServer
 - :point_right: **[Show storage usage in node selection](https://github.com/NethServer/dev/issues/7992)** (#7382) by *DavidePrincipi* (Created: 2026-05-05, Updated: 2026-05-22T12:23:45Z)
 - :point_right: **[Password never expires: OpenLDAP support for individual users](https://github.com/NethServer/dev/issues/7981)** (#7382) by *DavidePrincipi* (Created: 2026-04-23, Updated: 2026-05-21T15:31:09Z)
-- :point_right: **[Update dependencies - NethServer 8.9](https://github.com/NethServer/dev/issues/7967)** (#7382) by *DavidePrincipi* (Created: 2026-04-20, Updated: 2026-05-22T09:53:28Z)
+- :point_right: **[Update dependencies - NethServer 8.9](https://github.com/NethServer/dev/issues/7967)** (#7382) by *DavidePrincipi* (Created: 2026-04-20, Updated: 2026-05-25T07:00:54Z)
 - :point_right: **[Centralized Backup Orchestration and Rclone-based Gateway](https://github.com/NethServer/dev/issues/7814)** (#7382) by *DavidePrincipi* (Created: 2026-01-12, Updated: 2026-05-19T14:59:46Z)
 - :point_right: **[Inital root password of prebuilt images](https://github.com/NethServer/dev/issues/7673)** (#7382) by *nrauso* (Created: 2025-10-02, Updated: 2026-05-21T18:13:53Z)
 - :point_right: **[Backup Samba repo validation](https://github.com/NethServer/dev/issues/7382)** (#7382) by *DavidePrincipi* (Created: 2025-04-07, Updated: 2026-05-22T13:01:04Z)
@@ -21,7 +21,7 @@ date = 2026-05-24
 - :point_right: **[NethAI integration backend: AI Integration for TTS (Text-to-Speech) in NethVoice](https://github.com/NethServer/dev/issues/7691)** (#7382) by *andrea-marchionni* (Created: 2025-10-22, Updated: 2026-05-21T12:32:32Z)
 
 ## 8.8.0
-- **[flows: move from socket listener to http](https://github.com/NethServer/nethsecurity/issues/1681)** (#1298) by *Tbaile* (Created: 2026-05-18, Updated: 2026-05-18T08:05:27Z)
+- :point_right: **[flows: move from socket listener to http](https://github.com/NethServer/nethsecurity/issues/1681)** (#1298) by *Tbaile* (Created: 2026-05-18, Updated: 2026-05-18T08:05:27Z)
 - :point_right: **[Monitoring: adding long time storage for metrics](https://github.com/NethServer/nethsecurity/issues/1656)** (#1298) by *Tbaile* (Created: 2026-05-12, Updated: 2026-05-15T13:19:16Z)
 - :point_right: **[Add Avahi (mDNS) package in NethSecurity repos](https://github.com/NethServer/nethsecurity/issues/1625)** (#1298) by *cotosso* (Created: 2026-04-29, Updated: 2026-05-18T08:05:57Z)
 - :point_right: **[Extra packages not restored after image upgrade](https://github.com/NethServer/nethsecurity/issues/1606)** (#1298) by *filippocarletti* (Created: 2026-04-21, Updated: 2026-05-14T13:53:02Z)

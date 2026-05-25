@@ -1,6 +1,6 @@
 +++
 title = 'Open Pull Requests'
-date = 2026-05-24
+date = 2026-05-25
 +++
 
 ## Organization: nethserver
@@ -71,10 +71,6 @@ date = 2026-05-24
 
 -  :zzz: **[feat: enhance documentation for AI call transcription and summary](https://github.com/NethServer/nethvoice-docs/pull/44)** by *tommaso-ascani* - Reviewers: *gsanchietti* - Created at: 2026-04-13T13:38:04Z
 
-### NethServer/nethsecurity-monitoring 1 
-
-- :eyes:  **[chore(main): release 1.2.0](https://github.com/NethServer/nethsecurity-monitoring/pull/27)** by *Tbaile* - Reviewers: *None* - Created at: 2026-05-11T17:58:22Z
-
 ## Organization: nethesis
 
 ### nethesis/nethcti-server 2 
@@ -96,7 +92,7 @@ date = 2026-05-24
 
 ### nethesis/returnontransfer 1 
 
-- :eyes:  **[Fix query in AGI](https://github.com/nethesis/returnontransfer/pull/6)** by *andrea-marchionni* - Reviewers: *None* - Created at: 2026-04-24T08:21:40Z
+- :eyes: :zzz: **[Fix query in AGI](https://github.com/nethesis/returnontransfer/pull/6)** by *andrea-marchionni* - Reviewers: *None* - Created at: 2026-04-24T08:21:40Z
 
 ### nethesis/contatta 1 
 
@@ -124,7 +120,7 @@ date = 2026-05-24
 
 - :eyes:  **[fix(nginx): multiple CVE fixes](https://github.com/nethesis/ns8-nethvoice/pull/837)** by *DavidePrincipi* - Reviewers: *None* - Created at: 2026-05-22T11:01:54Z
 - :eyes:  **[fix(cdr): exclude satellite internal channels from call history](https://github.com/nethesis/ns8-nethvoice/pull/836)** by *tommaso-ascani* - Reviewers: *None* - Created at: 2026-05-22T10:48:22Z
-- :eyes:  **[Better timing selection inside NethVoice CTI line page](https://github.com/nethesis/ns8-nethvoice/pull/832)** by *tonyco97* - Reviewers: *None* - Created at: 2026-05-18T07:04:58Z
+-   **[Better timing selection inside NethVoice CTI line page](https://github.com/nethesis/ns8-nethvoice/pull/832)** by *tonyco97* - Reviewers: *edospadoni* - Created at: 2026-05-18T07:04:58Z
 - :eyes:  **[Fias hotel log and fix](https://github.com/nethesis/ns8-nethvoice/pull/827)** by *Stell0* - Reviewers: *None* - Created at: 2026-05-12T14:25:05Z
 - :eyes:  **[fix(logging): fix nethhotel logging](https://github.com/nethesis/ns8-nethvoice/pull/826)** by *Stell0* - Reviewers: *None* - Created at: 2026-05-12T13:36:49Z
 - :eyes:  **[fix: update NethCTI image tag and commit argument for build process](https://github.com/nethesis/ns8-nethvoice/pull/822)** by *tommaso-ascani* - Reviewers: *None* - Created at: 2026-05-11T12:10:28Z
@@ -143,7 +139,7 @@ date = 2026-05-24
 
 ### nethesis/nethvoice-cti 4 
 
-- :eyes:  **[fix: better time selection for line page](https://github.com/nethesis/nethvoice-cti/pull/494)** by *tonyco97* - Reviewers: *None* - Created at: 2026-05-18T06:56:34Z
+-   **[fix: better time selection for line page](https://github.com/nethesis/nethvoice-cti/pull/494)** by *tonyco97* - Reviewers: *edospadoni* - Created at: 2026-05-18T06:56:34Z
 -   **[fix: better favicon rebranding](https://github.com/nethesis/nethvoice-cti/pull/485)** by *tonyco97* - Reviewers: *edospadoni* - Created at: 2026-05-08T06:07:31Z
 - :eyes: :zzz: **[fix: update summary handling to use linked IDs instead of unique IDs](https://github.com/nethesis/nethvoice-cti/pull/467)** by *tommaso-ascani* - Reviewers: *None* - Created at: 2026-04-14T10:17:15Z
 - :eyes: :zzz: **[feat: enhance call disposition handling with new utility functions](https://github.com/nethesis/nethvoice-cti/pull/457)** by *tommaso-ascani* - Reviewers: *None* - Created at: 2026-04-03T17:36:17Z
