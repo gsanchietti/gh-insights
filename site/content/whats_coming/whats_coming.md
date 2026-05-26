@@ -2,7 +2,7 @@
 
 title = 'To be released soon'
 
-date = 2026-05-25
+date = 2026-05-26
 
 +++
 
@@ -19,6 +19,8 @@ date = 2026-05-25
 - [NethLink: Command Bar search shows only mobile number for contacts with multiple phone numbers](https://github.com/NethServer/dev/issues/7961) (#7677) by viktec (Created: 2026-04-09T10:20:15Z, Updated: 2026-04-15T10:34:22Z)
 
 - [NethLink: Phone Island position shifts on multi-monitor setups with mixed scaling on Windows](https://github.com/NethServer/dev/issues/7951) (#7677) by tonyco97 (Created: 2026-03-31T10:18:54Z, Updated: 2026-04-07T09:35:17Z)
+
+- [Phone island : automatic video start on incoming call and retention of call controls](https://github.com/NethServer/dev/issues/7926) (#7677) by viktec (Created: 2026-03-23T10:46:38Z, Updated: 2026-05-25T14:52:42Z)
 
 - [NethVoice: add new Ringtone: mute tone](https://github.com/NethServer/dev/issues/7880) (#7677) by tonyco97 (Created: 2026-02-18T13:20:09Z, Updated: 2026-03-05T15:51:36Z)
 
@@ -52,11 +54,9 @@ date = 2026-05-25
 
 - [No cluster-backup in destinations](https://github.com/NethServer/dev/issues/7677) (#7677) by DavidePrincipi (Created: 2025-10-08T09:09:24Z, Updated: 2026-05-22T14:06:09Z)
 
-### 8.7.2
-
-- [Send backups through a temporary proxy for the my.nethesis.it switch](https://github.com/NethServer/nethsecurity/issues/1684) (#1617) by gsanchietti (Created: 2026-05-19T07:20:55Z, Updated: 2026-05-20T07:12:48Z)
-
 ### 8.8.0
+
+- [Add Avahi (mDNS) package in NethSecurity repos](https://github.com/NethServer/nethsecurity/issues/1625) (#1617) by cotosso (Created: 2026-04-29T10:54:40Z, Updated: 2026-05-25T12:23:50Z)
 
 - [Add "DON'T TRACK" action to firewall rules](https://github.com/NethServer/nethsecurity/issues/1617) (#1617) by cotosso (Created: 2026-04-28T14:06:49Z, Updated: 2026-05-18T13:22:14Z)
 
