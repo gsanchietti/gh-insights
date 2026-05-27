@@ -1,19 +1,19 @@
 +++
 title = 'Open Pull Requests'
-date = 2026-05-26
+date = 2026-05-27
 +++
 
 ## Organization: nethserver
 
-### NethServer/ns8-core 3 
+### NethServer/ns8-core 4 
 
--   **[Enhance AddRepositoryModal for Rclone support and UI optimizations](https://github.com/NethServer/ns8-core/pull/1177)** by *stephdl* - Reviewers: *andre8244* - Created at: 2026-05-19T15:43:37Z
+-   **[fix(volumes): correct available space calculation for reserved blocks](https://github.com/NethServer/ns8-core/pull/1187)** by *stephdl* - Reviewers: *andre8244* - Created at: 2026-05-26T09:00:39Z
+- :eyes:  **[Enhance AddRepositoryModal for Rclone support and UI optimizations](https://github.com/NethServer/ns8-core/pull/1177)** by *stephdl* - Reviewers: *None* - Created at: 2026-05-19T15:43:37Z
 - :eyes: :zzz: **[Suppress samba decryption error](https://github.com/NethServer/ns8-core/pull/1145)** by *mrmarkuz* - Reviewers: *None* - Created at: 2026-04-17T11:53:01Z
 -  :zzz: **[docs: add NethVoice release procedure addendum](https://github.com/NethServer/ns8-core/pull/1136)** by *Copilot* - Reviewers: *Amygos* - Created at: 2026-03-30T14:06:18Z
 
-### NethServer/ns8-nextcloud 2 
+### NethServer/ns8-nextcloud 1 
 
-- :eyes:  **[Revert Nextcloud image version to 32.0.9-fpm-alpine](https://github.com/NethServer/ns8-nextcloud/pull/218)** by *stephdl* - Reviewers: *None* - Created at: 2026-05-20T14:34:52Z
 - :eyes: :zzz: **[Update minimum version label from 1.5.0 to 1.6.0](https://github.com/NethServer/ns8-nextcloud/pull/204)** by *mrmarkuz* - Reviewers: *None* - Created at: 2026-04-01T14:42:09Z
 
 ### NethServer/ns8-traefik 2 
@@ -21,10 +21,15 @@ date = 2026-05-26
 - :eyes: :zzz: **[refactor: centralize module testing](https://github.com/NethServer/ns8-traefik/pull/131)** by *Copilot* - Reviewers: *None* - Created at: 2026-04-23T08:45:10Z
 - :eyes: :zzz: **[fix: cryptography 45 deprecation warning](https://github.com/NethServer/ns8-traefik/pull/120)** by *DavidePrincipi* - Reviewers: *None* - Created at: 2025-10-28T08:48:29Z
 
-### NethServer/nethsecurity 2 
+### NethServer/nethsecurity 3 
 
+-   **[build: updated profile directory, hushed apk-cheatsheet](https://github.com/NethServer/nethsecurity/pull/1698)** by *Tbaile* - Reviewers: *gsanchietti* - Created at: 2026-05-27T07:11:46Z
 - :eyes:  **[Nethsecurity 8.8.0](https://github.com/NethServer/nethsecurity/pull/1642)** by *gsanchietti* - Reviewers: *None* - Created at: 2026-05-05T13:31:12Z
 - :eyes: :zzz: **[build: added softflowd](https://github.com/NethServer/nethsecurity/pull/1453)** by *Tbaile* - Reviewers: *None* - Created at: 2025-12-10T11:48:14Z
+
+### NethServer/nethsecurity-controller 1 
+
+- :eyes:  **[refactor: using telegraf for new metrics](https://github.com/NethServer/nethsecurity-controller/pull/262)** by *Tbaile* - Reviewers: *None* - Created at: 2026-05-26T12:12:05Z
 
 ### NethServer/phonehome-server 1 
 
@@ -36,25 +41,24 @@ date = 2026-05-26
 - :eyes:  **[Update install.rst](https://github.com/NethServer/ns8-docs/pull/233)** by *nrauso* - Reviewers: *None* - Created at: 2026-05-05T15:36:18Z
 -  :zzz: **[Explain generated root password](https://github.com/NethServer/ns8-docs/pull/231)** by *mrmarkuz* - Reviewers: *DavidePrincipi* - Created at: 2026-04-16T13:45:56Z
 
-### NethServer/nethsecurity-ui 2 
+### NethServer/nethsecurity-ui 1 
 
-- :eyes:  **[refactor(monitoring): remove Netdata link](https://github.com/NethServer/nethsecurity-ui/pull/772)** by *gsanchietti* - Reviewers: *None* - Created at: 2026-05-26T07:35:30Z
 -   **[refactor(NDS): aligned button style, colours and modals to NDS](https://github.com/NethServer/nethsecurity-ui/pull/771)** by *m-dilorenzi* - Reviewers: *Tbaile* - Created at: 2026-05-22T12:13:44Z
 
-### NethServer/nethsecurity-docs 3 
+### NethServer/nethsecurity-docs 4 
 
-- :eyes:  **[docs: update MTU and MSS configuration guidance for OpenVPN RW and tunnels](https://github.com/NethServer/nethsecurity-docs/pull/262)** by *m-dilorenzi* - Reviewers: *None* - Created at: 2026-05-14T13:17:34Z
+-   **[docs: add DigitalOcean DDNS example and split DNS guidance](https://github.com/NethServer/nethsecurity-docs/pull/267)** by *gsanchietti* - Reviewers: *cotosso* - Created at: 2026-05-26T13:07:39Z
+-   **[Document bundled https-dns-proxy defaults](https://github.com/NethServer/nethsecurity-docs/pull/266)** by *gsanchietti* - Reviewers: *Tbaile* - Created at: 2026-05-26T09:06:16Z
 -   **[docs: added avahi documentation](https://github.com/NethServer/nethsecurity-docs/pull/255)** by *Tbaile* - Reviewers: *cotosso, francio87* - Created at: 2026-05-12T07:56:17Z
 -  :zzz: **[feat: added softflowd doc](https://github.com/NethServer/nethsecurity-docs/pull/227)** by *Tbaile* - Reviewers: *cotosso* - Created at: 2026-03-05T09:29:42Z
 
-### NethServer/ns8-imapsync 2 
+### NethServer/ns8-imapsync 1 
 
-- :eyes:  **[Improve file age calculation logic](https://github.com/NethServer/ns8-imapsync/pull/102)** by *stephdl* - Reviewers: *None* - Created at: 2026-05-22T07:20:29Z
-- :eyes:  **[fix: avoid silent crash on missing timestamp file at first sync](https://github.com/NethServer/ns8-imapsync/pull/101)** by *stephdl* - Reviewers: *None* - Created at: 2026-05-21T15:52:43Z
+- :eyes:  **[fix: Exchange support, file age calculation and safe arg quoting](https://github.com/NethServer/ns8-imapsync/pull/102)** by *stephdl* - Reviewers: *None* - Created at: 2026-05-22T07:20:29Z
 
 ### NethServer/ns8-user-manager 1 
 
--   **[fix(CreateUserDrawer): remove unnecessary config check for expirationEnforced](https://github.com/NethServer/ns8-user-manager/pull/178)** by *stephdl* - Reviewers: *Tbaile* - Created at: 2026-05-26T07:31:06Z
+- :eyes:  **[chore(main): release 1.2.7](https://github.com/NethServer/ns8-user-manager/pull/179)** by *Tbaile* - Reviewers: *None* - Created at: 2026-05-26T08:29:17Z
 
 ### NethServer/ns8-nethforge 1 
 
@@ -119,10 +123,14 @@ date = 2026-05-26
 -   **[feat(rebranding): add rebranding support for login page](https://github.com/nethesis/nethvoice-report/pull/210)** by *tonyco97* - Reviewers: *edospadoni* - Created at: 2026-05-05T06:37:23Z
 - :eyes: :zzz: **[feat: add cookie support for support proxy integration](https://github.com/nethesis/nethvoice-report/pull/209)** by *edospadoni* - Reviewers: *None* - Created at: 2026-03-30T08:57:52Z
 
-### nethesis/ns8-nethvoice 17 
+### nethesis/ns8-nethvoice 21 
 
+- :eyes:  **[feat(trunks): Add trunk for ElevenLabs](https://github.com/nethesis/ns8-nethvoice/pull/840)** by *Stell0* - Reviewers: *None* - Created at: 2026-05-26T12:49:52Z
+- :eyes:  **[Use SATELLITE_HTTP_PORT for satellite RTP to fix port conflicts](https://github.com/nethesis/ns8-nethvoice/pull/839)** by *tommaso-ascani* - Reviewers: *None* - Created at: 2026-05-26T11:11:02Z
+-   **[fix: avoid Expected array but received: 0 error](https://github.com/nethesis/ns8-nethvoice/pull/838)** by *tonyco97* - Reviewers: *tommaso-ascani* - Created at: 2026-05-26T10:58:53Z
 -   **[fix(nginx): multiple CVE fixes](https://github.com/nethesis/ns8-nethvoice/pull/837)** by *DavidePrincipi* - Reviewers: *Stell0* - Created at: 2026-05-22T11:01:54Z
 - :eyes:  **[fix(cdr): exclude satellite internal channels from call history](https://github.com/nethesis/ns8-nethvoice/pull/836)** by *tommaso-ascani* - Reviewers: *None* - Created at: 2026-05-22T10:48:22Z
+- :eyes:  **[ci: consolidate parallel image builds](https://github.com/nethesis/ns8-nethvoice/pull/834)** by *Amygos* - Reviewers: *None* - Created at: 2026-05-21T09:04:53Z
 - :eyes:  **[Fias hotel log and fix](https://github.com/nethesis/ns8-nethvoice/pull/827)** by *Stell0* - Reviewers: *None* - Created at: 2026-05-12T14:25:05Z
 - :eyes:  **[fix(logging): fix nethhotel logging](https://github.com/nethesis/ns8-nethvoice/pull/826)** by *Stell0* - Reviewers: *None* - Created at: 2026-05-12T13:36:49Z
 - :eyes:  **[fix: update NethCTI image tag and commit argument for build process](https://github.com/nethesis/ns8-nethvoice/pull/822)** by *tommaso-ascani* - Reviewers: *None* - Created at: 2026-05-11T12:10:28Z
@@ -153,7 +161,7 @@ date = 2026-05-26
 
 ### nethesis/ns8-nethvoice-proxy 8 
 
-- :eyes: :zzz: **[fix: preserve local networks in ui](https://github.com/nethesis/ns8-nethvoice-proxy/pull/165)** by *Amygos* - Reviewers: *None* - Created at: 2026-04-22T15:13:51Z
+- :eyes:  **[456 x forwarded for header](https://github.com/nethesis/ns8-nethvoice-proxy/pull/178)** by *paolovisintin* - Reviewers: *None* - Created at: 2026-05-26T23:33:10Z
 - :eyes: :zzz: **[feat: Dynamic port slot binding for multi-trunk support (Vianova)](https://github.com/nethesis/ns8-nethvoice-proxy/pull/158)** by *paolovisintin* - Reviewers: *None* - Created at: 2026-03-24T10:43:30Z
 -  :zzz: **[refactor: remove dead code and unused flags](https://github.com/nethesis/ns8-nethvoice-proxy/pull/148)** by *Amygos* - Reviewers: *paolovisintin* - Created at: 2026-02-23T08:21:43Z
 -  :zzz: **[refactor: remove unused defines from template](https://github.com/nethesis/ns8-nethvoice-proxy/pull/147)** by *Amygos* - Reviewers: *paolovisintin* - Created at: 2026-02-23T08:21:41Z

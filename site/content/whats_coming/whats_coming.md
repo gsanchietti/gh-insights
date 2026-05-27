@@ -2,7 +2,7 @@
 
 title = 'To be released soon'
 
-date = 2026-05-26
+date = 2026-05-27
 
 +++
 
@@ -23,6 +23,8 @@ date = 2026-05-26
 - [Phone island : automatic video start on incoming call and retention of call controls](https://github.com/NethServer/dev/issues/7926) (#7677) by viktec (Created: 2026-03-23T10:46:38Z, Updated: 2026-05-25T14:52:42Z)
 
 - [NethVoice: add new Ringtone: mute tone](https://github.com/NethServer/dev/issues/7880) (#7677) by tonyco97 (Created: 2026-02-18T13:20:09Z, Updated: 2026-03-05T15:51:36Z)
+
+- [Nethvoice: add new provider Enegan](https://github.com/NethServer/dev/issues/7878) (#7677) by Amygos (Created: 2026-02-17T08:47:37Z, Updated: 2026-05-27T07:41:22Z)
 
 - [NethVoice CTI: Phone Island - change in Call Transfer Interaction Flow](https://github.com/NethServer/dev/issues/7873) (#7677) by viktec (Created: 2026-02-13T10:42:01Z, Updated: 2026-03-09T10:05:53Z)
 
