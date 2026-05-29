@@ -2,13 +2,13 @@
 
 title = 'To be released soon'
 
-date = 2026-05-28
+date = 2026-05-29
 
 +++
 
 ### NethServer
 
-- [Show storage usage in node selection](https://github.com/NethServer/dev/issues/7992) (#7677) by DavidePrincipi (Created: 2026-05-05T16:35:20Z, Updated: 2026-05-28T07:29:38Z)
+- [Show storage usage in node selection](https://github.com/NethServer/dev/issues/7992) (#7677) by DavidePrincipi (Created: 2026-05-05T16:35:20Z, Updated: 2026-05-28T08:09:55Z)
 
 - [Bug: post-restore script 20configure fails on line 39 - Nextcloud database not ready](https://github.com/NethServer/dev/issues/7988) (#7677) by stephdl (Created: 2026-05-04T10:59:40Z, Updated: 2026-05-20T14:45:24Z)
 
@@ -21,6 +21,10 @@ date = 2026-05-28
 - [Configurable shell (nologin) for module service users](https://github.com/NethServer/dev/issues/7844) (#7677) by DavidePrincipi (Created: 2026-01-30T17:04:00Z, Updated: 2026-05-22T14:06:10Z)
 
 - [No cluster-backup in destinations](https://github.com/NethServer/dev/issues/7677) (#7677) by DavidePrincipi (Created: 2025-10-08T09:09:24Z, Updated: 2026-05-22T14:06:09Z)
+
+### NethVoice
+
+- [NethVoice - Improve backup procedure to avoid temporary database duplication](https://github.com/NethServer/dev/issues/7991) (#7677) by nrauso (Created: 2026-05-05T15:21:16Z, Updated: 2026-05-28T10:32:43Z)
 
 ### NethVoice
 
@@ -51,6 +55,12 @@ date = 2026-05-28
 - [Add Avahi (mDNS) package in NethSecurity repos](https://github.com/NethServer/nethsecurity/issues/1625) (#1298) by cotosso (Created: 2026-04-29T10:54:40Z, Updated: 2026-05-25T12:23:50Z)
 
 - [Add "DON'T TRACK" action to firewall rules](https://github.com/NethServer/nethsecurity/issues/1617) (#1298) by cotosso (Created: 2026-04-28T14:06:49Z, Updated: 2026-05-18T13:22:14Z)
+
+- [Provide to the Community version some features currently available only in subscription-based versions](https://github.com/NethServer/nethsecurity/issues/1602) (#1298) by cotosso (Created: 2026-04-20T15:53:56Z, Updated: 2026-05-28T08:18:34Z)
+
+- [Adblock restarts with empty lists after repeated blocklist/allowlist additions or deletions](https://github.com/NethServer/nethsecurity/issues/1572) (#1298) by cotosso (Created: 2026-03-20T11:50:02Z, Updated: 2026-05-29T07:15:00Z)
+
+- [Unify traffic logging option visualization in firewall UI](https://github.com/NethServer/nethsecurity/issues/1456) (#1298) by cotosso (Created: 2025-12-15T16:05:58Z, Updated: 2026-05-28T08:10:15Z)
 
 - [Invalid configuration: dpd_action = start accepted but not supported by strongSwan](https://github.com/NethServer/nethsecurity/issues/1298) (#1298) by cotosso (Created: 2025-07-08T10:21:05Z, Updated: 2026-05-27T14:50:54Z)
 
