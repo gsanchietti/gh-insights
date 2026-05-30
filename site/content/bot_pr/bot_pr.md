@@ -1,6 +1,6 @@
 +++
 title = 'Open Pull Requests by Bots'
-date = 2026-05-29
+date = 2026-05-30
 +++
 
 ## Organization: nethserver
@@ -28,7 +28,7 @@ date = 2026-05-29
 - :eyes: :zzz: **[chore(deps): update module golang.org/x/net to v0.55.0 [security]](https://github.com/NethServer/ns8-core/pull/1163)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-04-25T08:48:53Z
 - :eyes: :zzz: **[chore(deps): update module golang.org/x/crypto to v0.52.0 [security]](https://github.com/NethServer/ns8-core/pull/1162)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-04-25T08:48:45Z
 - :eyes: :zzz: **[fix(deps): update module github.com/spf13/cobra to v1.10.2](https://github.com/NethServer/ns8-core/pull/1160)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-04-25T05:29:49Z
-- :eyes: :zzz: **[chore(deps): update dependency @carbon/icons-vue to v10.128.0](https://github.com/NethServer/ns8-core/pull/1156)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-04-24T17:39:20Z
+- :eyes: :zzz: **[chore(deps): update dependency @carbon/icons-vue to v10.130.0](https://github.com/NethServer/ns8-core/pull/1156)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-04-24T17:39:20Z
 - :eyes: :zzz: **[Translations update from Hosted Weblate](https://github.com/NethServer/ns8-core/pull/1147)** by *weblate* - Reviewers: *None* - Created at: 2026-04-22T15:15:21Z
 - :eyes: :zzz: **[fix(deps): update module github.com/gin-contrib/cors to v1.7.7](https://github.com/NethServer/ns8-core/pull/1114)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-03-07T06:02:26Z
 
@@ -40,7 +40,7 @@ date = 2026-05-29
 
 ### NethServer/ns8-dokuwiki 1 
 
-- :eyes:  **[chore(deps): update dependency @carbon/icons-vue to v10.128.0](https://github.com/NethServer/ns8-dokuwiki/pull/87)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-05-20T22:15:49Z
+- :eyes:  **[chore(deps): update dependency @carbon/icons-vue to v10.130.0](https://github.com/NethServer/ns8-dokuwiki/pull/87)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-05-20T22:15:49Z
 
 ### NethServer/ns8-github-actions 4 
 
@@ -52,11 +52,11 @@ date = 2026-05-29
 ### NethServer/ns8-mariadb 2 
 
 - :eyes:  **[Translations update from Hosted Weblate](https://github.com/NethServer/ns8-mariadb/pull/95)** by *weblate* - Reviewers: *None* - Created at: 2026-05-28T08:58:52Z
-- :eyes:  **[chore(deps): update dependency @carbon/icons-vue to v10.128.0](https://github.com/NethServer/ns8-mariadb/pull/92)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-05-21T00:54:44Z
+- :eyes:  **[chore(deps): update dependency @carbon/icons-vue to v10.130.0](https://github.com/NethServer/ns8-mariadb/pull/92)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-05-21T00:54:44Z
 
 ### NethServer/ns8-webserver 1 
 
-- :eyes:  **[chore(deps): update dependency @carbon/icons-vue to v10.128.0](https://github.com/NethServer/ns8-webserver/pull/170)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-05-20T22:10:56Z
+- :eyes:  **[chore(deps): update dependency @carbon/icons-vue to v10.130.0](https://github.com/NethServer/ns8-webserver/pull/170)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-05-20T22:10:56Z
 
 ### NethServer/ns8-nextcloud 1 
 
@@ -70,7 +70,7 @@ date = 2026-05-29
 
 ### NethServer/ns8-ldapproxy 1 
 
-- :eyes:  **[chore(deps): update nginx docker tag to v1.31.0](https://github.com/NethServer/ns8-ldapproxy/pull/30)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-05-22T09:59:26Z
+- :eyes:  **[chore(deps): update nginx docker tag to v1.31.1](https://github.com/NethServer/ns8-ldapproxy/pull/30)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-05-22T09:59:26Z
 
 ### NethServer/ns8-samba 4 
 
@@ -158,7 +158,7 @@ date = 2026-05-29
 
 ### NethServer/ns8-collabora 1 
 
-- :eyes:  **[chore(deps): update dependency @carbon/icons-vue to v10.128.0](https://github.com/NethServer/ns8-collabora/pull/82)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-05-20T21:12:56Z
+- :eyes:  **[chore(deps): update dependency @carbon/icons-vue to v10.130.0](https://github.com/NethServer/ns8-collabora/pull/82)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-05-20T21:12:56Z
 
 ### NethServer/ns8-webtop 8 
 
@@ -173,7 +173,7 @@ date = 2026-05-29
 
 ### NethServer/ns8-roundcubemail 1 
 
-- :eyes:  **[chore(deps): update dependency @carbon/icons-vue to v10.128.0](https://github.com/NethServer/ns8-roundcubemail/pull/101)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-05-20T21:59:48Z
+- :eyes:  **[chore(deps): update dependency @carbon/icons-vue to v10.130.0](https://github.com/NethServer/ns8-roundcubemail/pull/101)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-05-20T21:59:48Z
 
 ### NethServer/ns8-piler 1 
 
@@ -186,15 +186,16 @@ date = 2026-05-29
 
 ### NethServer/ns8-crowdsec 1 
 
-- :eyes:  **[Update dependency @carbon/icons-vue to v10.128.0](https://github.com/NethServer/ns8-crowdsec/pull/167)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-05-20T21:00:19Z
+- :eyes:  **[Update dependency @carbon/icons-vue to v10.130.0](https://github.com/NethServer/ns8-crowdsec/pull/167)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-05-20T21:00:19Z
 
 ### NethServer/ns8-ejabberd 2 
 
 - :eyes:  **[chore(deps): update dependency @carbon/icons-vue to v10.128.0](https://github.com/NethServer/ns8-ejabberd/pull/118)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-05-20T22:32:20Z
 - :eyes:  **[Translations update from Hosted Weblate](https://github.com/NethServer/ns8-ejabberd/pull/115)** by *weblate* - Reviewers: *None* - Created at: 2026-04-30T20:12:55Z
 
-### NethServer/nethsecurity-ui 5 
+### NethServer/nethsecurity-ui 6 
 
+- :eyes:  **[fix(deps): update dependency @vuepic/vue-datepicker to v13](https://github.com/NethServer/nethsecurity-ui/pull/774)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-05-29T20:30:12Z
 - :eyes:  **[chore: translations update from Hosted Weblate](https://github.com/NethServer/nethsecurity-ui/pull/765)** by *weblate* - Reviewers: *None* - Created at: 2026-05-14T10:24:04Z
 - :eyes: :zzz: **[chore(deps): update dependency vite to v8](https://github.com/NethServer/nethsecurity-ui/pull/742)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-04-16T08:25:47Z
 - :eyes: :zzz: **[chore(deps): update dependency typescript to v6](https://github.com/NethServer/nethsecurity-ui/pull/730)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-03-24T14:17:57Z
@@ -219,7 +220,7 @@ date = 2026-05-29
 
 ### NethServer/ns8-sogo 1 
 
-- :eyes:  **[chore(deps): update dependency @carbon/icons-vue to v10.128.0](https://github.com/NethServer/ns8-sogo/pull/98)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-05-20T22:27:07Z
+- :eyes:  **[chore(deps): update dependency @carbon/icons-vue to v10.130.0](https://github.com/NethServer/ns8-sogo/pull/98)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-05-20T22:27:07Z
 
 ### NethServer/ns8-porthos 3 
 
@@ -233,25 +234,26 @@ date = 2026-05-29
 
 ### NethServer/ns8-postgresql 1 
 
-- :eyes:  **[chore(deps): update dependency @carbon/icons-vue to v10.128.0](https://github.com/NethServer/ns8-postgresql/pull/72)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-05-20T20:44:36Z
+- :eyes:  **[chore(deps): update dependency @carbon/icons-vue to v10.130.0](https://github.com/NethServer/ns8-postgresql/pull/72)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-05-20T20:44:36Z
 
-### NethServer/ns8-dnsmasq 3 
+### NethServer/ns8-dnsmasq 4 
 
 - :eyes:  **[chore(deps): update dependency sass to v1.100.0](https://github.com/NethServer/ns8-dnsmasq/pull/99)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-05-27T02:30:16Z
 - :eyes:  **[chore(deps): update node.js to v24.16.0](https://github.com/NethServer/ns8-dnsmasq/pull/98)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-05-26T21:07:16Z
 - :eyes:  **[chore(deps): update node.js to v24.16.0](https://github.com/NethServer/ns8-dnsmasq/pull/97)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-05-26T00:36:30Z
+- :eyes:  **[chore(deps): update dependency @carbon/icons-vue to v10.130.0](https://github.com/NethServer/ns8-dnsmasq/pull/96)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-05-25T22:33:08Z
 
 ### NethServer/ns8-wordpress 1 
 
-- :eyes:  **[chore(deps): update dependency @carbon/icons-vue to v10.128.0](https://github.com/NethServer/ns8-wordpress/pull/71)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-05-21T01:55:23Z
+- :eyes:  **[chore(deps): update dependency @carbon/icons-vue to v10.130.0](https://github.com/NethServer/ns8-wordpress/pull/71)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-05-21T01:55:23Z
 
 ### NethServer/ns8-netdata 1 
 
-- :eyes:  **[chore(deps): update dependency @carbon/icons-vue to v10.128.0](https://github.com/NethServer/ns8-netdata/pull/80)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-05-20T21:30:00Z
+- :eyes:  **[chore(deps): update dependency @carbon/icons-vue to v10.130.0](https://github.com/NethServer/ns8-netdata/pull/80)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-05-20T21:30:00Z
 
 ### NethServer/ns8-passbolt 1 
 
-- :eyes:  **[chore(deps): update dependency @carbon/icons-vue to v10.128.0](https://github.com/NethServer/ns8-passbolt/pull/70)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-05-20T21:53:26Z
+- :eyes:  **[chore(deps): update dependency @carbon/icons-vue to v10.130.0](https://github.com/NethServer/ns8-passbolt/pull/70)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-05-20T21:53:26Z
 
 ### NethServer/ns8-metrics 6 
 
@@ -273,7 +275,7 @@ date = 2026-05-29
 - :eyes:  **[chore(deps): update ghcr.io/cinnyapp/cinny docker tag to v4.12.1](https://github.com/NethServer/ns8-matrix/pull/79)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-05-15T09:35:20Z
 - :eyes:  **[chore(deps): update postgres docker tag to v14.23](https://github.com/NethServer/ns8-matrix/pull/78)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-05-14T21:42:11Z
 - :eyes: :zzz: **[chore(deps): update node.js to v24.16.0](https://github.com/NethServer/ns8-matrix/pull/77)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-04-16T17:12:03Z
-- :eyes: :zzz: **[chore(deps): update dependency axios to v1.15.2 [security]](https://github.com/NethServer/ns8-matrix/pull/76)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-04-15T22:48:34Z
+- :eyes: :zzz: **[chore(deps): update dependency axios to v1.16.0 [security]](https://github.com/NethServer/ns8-matrix/pull/76)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-04-15T22:48:34Z
 - :eyes: :zzz: **[chore(deps): update ghcr.io/element-hq/synapse docker tag to v1.152.1](https://github.com/NethServer/ns8-matrix/pull/72)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-03-24T18:18:44Z
 - :eyes: :zzz: **[chore(deps): update ghcr.io/element-hq/element-web docker tag to v1.12.18](https://github.com/NethServer/ns8-matrix/pull/71)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-03-24T14:17:28Z
 - :eyes: :zzz: **[chore(deps): update postgres docker tag to v18](https://github.com/NethServer/ns8-matrix/pull/68)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-03-09T22:06:40Z
@@ -296,7 +298,7 @@ date = 2026-05-29
 
 ### NethServer/ns8-rustfs 1 
 
-- :eyes:  **[Update dependency @carbon/icons-vue to v10.128.0](https://github.com/NethServer/ns8-rustfs/pull/55)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-05-20T20:58:08Z
+- :eyes:  **[Update dependency @carbon/icons-vue to v10.130.0](https://github.com/NethServer/ns8-rustfs/pull/55)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-05-20T20:58:08Z
 
 ### NethServer/nethsecurity-monitoring 3 
 
@@ -373,13 +375,13 @@ date = 2026-05-29
 
 ### nethesis/ns8-nethvoice 10 
 
-- :eyes: :zzz: **[chore(deps): update dependency grunt-contrib-htmlmin to ^0.6.0](https://github.com/nethesis/ns8-nethvoice/pull/801)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-04-24T10:02:56Z
-- :eyes: :zzz: **[chore(deps): update dependency grunt-contrib-cssmin to ^0.14.0](https://github.com/nethesis/ns8-nethvoice/pull/800)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-04-24T09:05:36Z
-- :eyes: :zzz: **[chore(deps): update dependency grunt-contrib-copy to ^0.8.0](https://github.com/nethesis/ns8-nethvoice/pull/799)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-04-24T06:39:51Z
+- :eyes:  **[chore(deps): update dependency jit-grunt to ^0.10.0](https://github.com/nethesis/ns8-nethvoice/pull/853)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-05-29T21:58:00Z
+- :eyes:  **[chore(deps): update dependency grunt-postcss to ^0.9.0](https://github.com/nethesis/ns8-nethvoice/pull/852)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-05-29T19:02:41Z
+- :eyes:  **[chore(deps): update dependency grunt-ng-annotate to ^0.10.0](https://github.com/nethesis/ns8-nethvoice/pull/851)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-05-29T13:05:38Z
+- :eyes:  **[chore(deps): update dependency grunt-contrib-jshint to ^0.12.0](https://github.com/nethesis/ns8-nethvoice/pull/850)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-05-29T12:39:58Z
+- :eyes:  **[chore(deps): update dependency @carbon/icons-vue to v10.130.0](https://github.com/nethesis/ns8-nethvoice/pull/849)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-05-29T11:30:22Z
 - :eyes: :zzz: **[chore(deps): update dependency grunt-contrib-connect to ^0.11.0](https://github.com/nethesis/ns8-nethvoice/pull/797)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-04-23T09:04:48Z
-- :eyes: :zzz: **[chore(deps): update dependency grunt-contrib-clean to ^0.7.0](https://github.com/nethesis/ns8-nethvoice/pull/795)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-04-23T08:43:52Z
 - :eyes: :zzz: **[chore(deps): update dependency grunt-cli to v1.5.0](https://github.com/nethesis/ns8-nethvoice/pull/794)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-04-23T08:43:42Z
-- :eyes: :zzz: **[chore(deps): update dependency flow-bin to ^0.314.0](https://github.com/nethesis/ns8-nethvoice/pull/793)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-04-23T01:35:07Z
 - :eyes: :zzz: **[chore(deps): update dependency grunt-angular-templates to ^0.6.0](https://github.com/nethesis/ns8-nethvoice/pull/787)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-04-20T09:55:57Z
 -  :zzz: **[chore(deps): update docker.io/library/golang docker tag to v1.26.3](https://github.com/nethesis/ns8-nethvoice/pull/563)** by *renovate[bot]* - Reviewers: *edospadoni* - Created at: 2025-10-16T01:44:45Z
 -  :zzz: **[chore(deps): update docker.io/library/alpine docker tag to v3.23.4](https://github.com/nethesis/ns8-nethvoice/pull/562)** by *renovate[bot]* - Reviewers: *edospadoni, Amygos* - Created at: 2025-10-16T01:44:42Z
@@ -397,7 +399,7 @@ date = 2026-05-29
 ### nethesis/ns8-nethvoice-proxy 2 
 
 - :eyes:  **[chore(deps): update dependency sass to v1.100.0](https://github.com/nethesis/ns8-nethvoice-proxy/pull/179)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-05-27T00:51:50Z
-- :eyes:  **[chore(deps): update dependency @carbon/icons-vue to v10.128.0](https://github.com/nethesis/ns8-nethvoice-proxy/pull/176)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-05-25T22:39:47Z
+- :eyes:  **[chore(deps): update dependency @carbon/icons-vue to v10.130.0](https://github.com/nethesis/ns8-nethvoice-proxy/pull/176)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-05-25T22:39:47Z
 
 ### nethesis/vue-components 10 
 

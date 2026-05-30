@@ -1,23 +1,18 @@
 +++
 title = 'Open Pull Requests'
-date = 2026-05-29
+date = 2026-05-30
 +++
 
 ## Organization: nethserver
 
-### NethServer/ns8-core 4 
+### NethServer/ns8-core 2 
 
-- :eyes:  **[Add loadingAction prop to NsInlineNotification component](https://github.com/NethServer/ns8-core/pull/1192)** by *stephdl* - Reviewers: *None* - Created at: 2026-05-28T10:49:53Z
-- :eyes:  **[Enhance AddRepositoryModal for Rclone support and UI optimizations](https://github.com/NethServer/ns8-core/pull/1177)** by *stephdl* - Reviewers: *None* - Created at: 2026-05-19T15:43:37Z
-- :eyes: :zzz: **[Suppress samba decryption error](https://github.com/NethServer/ns8-core/pull/1145)** by *mrmarkuz* - Reviewers: *None* - Created at: 2026-04-17T11:53:01Z
+-   **[fix(update-os): hide DNF repository credentials in system logs](https://github.com/NethServer/ns8-core/pull/1193)** by *DavidePrincipi* - Reviewers: *gsanchietti* - Created at: 2026-05-29T15:55:33Z
 -  :zzz: **[docs: add NethVoice release procedure addendum](https://github.com/NethServer/ns8-core/pull/1136)** by *Copilot* - Reviewers: *Amygos* - Created at: 2026-03-30T14:06:18Z
 
-### NethServer/ns8-ui-lib 1 
+### NethServer/ns8-nextcloud 2 
 
-- :eyes:  **[feat(NsInlineNotification): add loadingAction prop for action button spinner](https://github.com/NethServer/ns8-ui-lib/pull/78)** by *stephdl* - Reviewers: *None* - Created at: 2026-05-28T09:48:42Z
-
-### NethServer/ns8-nextcloud 1 
-
+-   **[Include upstream name in version display](https://github.com/NethServer/ns8-nextcloud/pull/222)** by *stephdl* - Reviewers: *DavidePrincipi* - Created at: 2026-05-29T09:19:29Z
 - :eyes: :zzz: **[Update minimum version label from 1.5.0 to 1.6.0](https://github.com/NethServer/ns8-nextcloud/pull/204)** by *mrmarkuz* - Reviewers: *None* - Created at: 2026-04-01T14:42:09Z
 
 ### NethServer/ns8-traefik 1 
@@ -28,6 +23,10 @@ date = 2026-05-29
 
 - :eyes:  **[Nethsecurity 8.8.0](https://github.com/NethServer/nethsecurity/pull/1642)** by *gsanchietti* - Reviewers: *None* - Created at: 2026-05-05T13:31:12Z
 - :eyes: :zzz: **[build: added softflowd](https://github.com/NethServer/nethsecurity/pull/1453)** by *Tbaile* - Reviewers: *None* - Created at: 2025-12-10T11:48:14Z
+
+### NethServer/ns8-roundcubemail 1 
+
+-   **[Update Roundcube image reference and metadata handling](https://github.com/NethServer/ns8-roundcubemail/pull/105)** by *stephdl* - Reviewers: *DavidePrincipi* - Created at: 2026-05-29T08:35:20Z
 
 ### NethServer/phonehome-server 1 
 
@@ -43,9 +42,10 @@ date = 2026-05-29
 
 - :eyes:  **[Enhance Traefik image caching and update agetty prompt](https://github.com/NethServer/ns8-images/pull/13)** by *DavidePrincipi* - Reviewers: *None* - Created at: 2026-05-28T15:58:36Z
 
-### NethServer/nethsecurity-docs 2 
+### NethServer/nethsecurity-docs 3 
 
--   **[docs: add DigitalOcean DDNS example and split DNS guidance](https://github.com/NethServer/nethsecurity-docs/pull/267)** by *gsanchietti* - Reviewers: *cotosso* - Created at: 2026-05-26T13:07:39Z
+-   **[Document the Metrics page and Victoria Logs](https://github.com/NethServer/nethsecurity-docs/pull/277)** by *gsanchietti* - Reviewers: *Tbaile, cotosso, filippocarletti, m-dilorenzi* - Created at: 2026-05-29T06:26:57Z
+-   **[docs: add DigitalOcean DDNS example and split DNS guidance](https://github.com/NethServer/nethsecurity-docs/pull/267)** by *gsanchietti* - Reviewers: *cotosso, Tbaile* - Created at: 2026-05-26T13:07:39Z
 -  :zzz: **[feat: added softflowd doc](https://github.com/NethServer/nethsecurity-docs/pull/227)** by *Tbaile* - Reviewers: *cotosso* - Created at: 2026-03-05T09:29:42Z
 
 ### NethServer/ns8-imapsync 1 
@@ -66,8 +66,9 @@ date = 2026-05-29
 
 - :eyes: :zzz: **[feat(support): add support service with WebSockets and Yamux](https://github.com/NethServer/my/pull/47)** by *edospadoni* - Reviewers: *None* - Created at: 2026-03-10T08:00:00Z
 
-### NethServer/nethvoice-docs 1 
+### NethServer/nethvoice-docs 2 
 
+-   **[chore: created sharing phonebook documentation](https://github.com/NethServer/nethvoice-docs/pull/54)** by *tonyco97* - Reviewers: *andrea-marchionni* - Created at: 2026-05-26T12:47:28Z
 -  :zzz: **[feat: enhance documentation for AI call transcription and summary](https://github.com/NethServer/nethvoice-docs/pull/44)** by *tommaso-ascani* - Reviewers: *gsanchietti* - Created at: 2026-04-13T13:38:04Z
 
 ## Organization: nethesis
@@ -112,12 +113,13 @@ date = 2026-05-29
 -   **[feat(rebranding): add rebranding support for login page](https://github.com/nethesis/nethvoice-report/pull/210)** by *tonyco97* - Reviewers: *edospadoni* - Created at: 2026-05-05T06:37:23Z
 - :eyes: :zzz: **[feat: add cookie support for support proxy integration](https://github.com/nethesis/nethvoice-report/pull/209)** by *edospadoni* - Reviewers: *None* - Created at: 2026-03-30T08:57:52Z
 
-### nethesis/ns8-nethvoice 18 
+### nethesis/ns8-nethvoice 19 
 
 - :eyes:  **[fix(visualplan): Return empty voices when Satellite is down](https://github.com/nethesis/ns8-nethvoice/pull/844)** by *tommaso-ascani* - Reviewers: *None* - Created at: 2026-05-28T15:27:24Z
 - :eyes:  **[fix(reports): bump nethvoice-report and wire CDR cleanup task](https://github.com/nethesis/ns8-nethvoice/pull/843)** by *edospadoni* - Reviewers: *None* - Created at: 2026-05-27T10:45:00Z
 - :eyes:  **[feat(trunks): Add trunk for ElevenLabs](https://github.com/nethesis/ns8-nethvoice/pull/840)** by *Stell0* - Reviewers: *None* - Created at: 2026-05-26T12:49:52Z
 -   **[fix(nginx): multiple CVE fixes](https://github.com/nethesis/ns8-nethvoice/pull/837)** by *DavidePrincipi* - Reviewers: *Stell0* - Created at: 2026-05-22T11:01:54Z
+-   **[More sharing options for contacts](https://github.com/nethesis/ns8-nethvoice/pull/833)** by *tonyco97* - Reviewers: *tommaso-ascani* - Created at: 2026-05-19T12:59:30Z
 - :eyes:  **[Fias hotel log and fix](https://github.com/nethesis/ns8-nethvoice/pull/827)** by *Stell0* - Reviewers: *None* - Created at: 2026-05-12T14:25:05Z
 - :eyes:  **[fix(logging): fix nethhotel logging](https://github.com/nethesis/ns8-nethvoice/pull/826)** by *Stell0* - Reviewers: *None* - Created at: 2026-05-12T13:36:49Z
 - :eyes:  **[fix: update NethCTI image tag and commit argument for build process](https://github.com/nethesis/ns8-nethvoice/pull/822)** by *tommaso-ascani* - Reviewers: *None* - Created at: 2026-05-11T12:10:28Z
@@ -133,8 +135,9 @@ date = 2026-05-29
 - :eyes: :zzz: **[fix(janus): fix one-way audio after long SIP hold](https://github.com/nethesis/ns8-nethvoice/pull/743)** by *edospadoni* - Reviewers: *None* - Created at: 2026-03-31T07:49:10Z
 -  :zzz: **[Matrix integration](https://github.com/nethesis/ns8-nethvoice/pull/627)** by *gsanchietti* - Reviewers: *Amygos* - Created at: 2025-12-10T11:32:50Z
 
-### nethesis/nethvoice-cti 3 
+### nethesis/nethvoice-cti 4 
 
+-   **[fix: better phonebook sharing](https://github.com/nethesis/nethvoice-cti/pull/495)** by *tonyco97* - Reviewers: *tommaso-ascani* - Created at: 2026-05-19T12:55:29Z
 -   **[fix: better favicon rebranding](https://github.com/nethesis/nethvoice-cti/pull/485)** by *tonyco97* - Reviewers: *edospadoni* - Created at: 2026-05-08T06:07:31Z
 - :eyes: :zzz: **[fix: update summary handling to use linked IDs instead of unique IDs](https://github.com/nethesis/nethvoice-cti/pull/467)** by *tommaso-ascani* - Reviewers: *None* - Created at: 2026-04-14T10:17:15Z
 - :eyes: :zzz: **[feat: enhance call disposition handling with new utility functions](https://github.com/nethesis/nethvoice-cti/pull/457)** by *tommaso-ascani* - Reviewers: *None* - Created at: 2026-04-03T17:36:17Z
@@ -154,8 +157,9 @@ date = 2026-05-29
 -  :zzz: **[fix: increase fr_timer from 1s to 30s](https://github.com/nethesis/ns8-nethvoice-proxy/pull/141)** by *Amygos* - Reviewers: *paolovisintin* - Created at: 2026-02-23T08:06:07Z
 - :eyes: :zzz: **[fix(kamailio): increase timers for NOTIFY/SUBSCRIBE to fix BLF timeouts](https://github.com/nethesis/ns8-nethvoice-proxy/pull/123)** by *paolovisintin* - Reviewers: *None* - Created at: 2026-01-14T08:00:32Z
 
-### nethesis/vue-components 2 
+### nethesis/vue-components 3 
 
+-   **[feat: external filtering for NeDropdownFilter & NeCombobox](https://github.com/nethesis/vue-components/pull/154)** by *andre8244* - Reviewers: *Tbaile* - Created at: 2026-05-26T10:51:19Z
 - :eyes:  **[chore(main): release 3.8.1](https://github.com/nethesis/vue-components/pull/151)** by *Tbaile* - Reviewers: *None* - Created at: 2026-05-26T07:30:53Z
 - :eyes: :zzz: **[fix(sort): relaxing sorting function](https://github.com/nethesis/vue-components/pull/104)** by *Tbaile* - Reviewers: *None* - Created at: 2025-12-11T15:17:22Z
 
@@ -172,8 +176,9 @@ date = 2026-05-29
 - :eyes: :zzz: **[feat(transcription): add linkedid support and handle silent audio cases](https://github.com/nethesis/satellite/pull/44)** by *tommaso-ascani* - Reviewers: *None* - Created at: 2026-04-20T15:34:59Z
 -  :zzz: **[Multi-Provider Transcription Support (REST/Batch Path)](https://github.com/nethesis/satellite/pull/31)** by *Amygos* - Reviewers: *Stell0* - Created at: 2026-02-16T09:08:57Z
 
-### nethesis/nethcti-middleware 3 
+### nethesis/nethcti-middleware 4 
 
+-   **[chore: added missing phonebook endpoints](https://github.com/nethesis/nethcti-middleware/pull/53)** by *tonyco97* - Reviewers: *tommaso-ascani* - Created at: 2026-05-25T11:58:56Z
 - :eyes: :zzz: **[fix: update API to support linked IDs for transcription and summary](https://github.com/nethesis/nethcti-middleware/pull/44)** by *tommaso-ascani* - Reviewers: *None* - Created at: 2026-04-14T10:17:21Z
 - :eyes: :zzz: **[feat: add support user authentication for FreePBX CTI APIs](https://github.com/nethesis/nethcti-middleware/pull/42)** by *edospadoni* - Reviewers: *None* - Created at: 2026-03-30T08:59:50Z
 -  :zzz: **[feat: add GET /chat endpoint](https://github.com/nethesis/nethcti-middleware/pull/16)** by *gsanchietti* - Reviewers: *tommaso-ascani* - Created at: 2025-12-17T10:53:42Z
