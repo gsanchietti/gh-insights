@@ -1,6 +1,6 @@
 +++
 title = 'Open Pull Requests by Bots'
-date = 2026-05-31
+date = 2026-06-01
 +++
 
 ## Organization: nethserver
@@ -212,8 +212,9 @@ date = 2026-05-31
 - :eyes:  **[chore(deps): update dependency @carbon/icons-vue to v10.130.0](https://github.com/NethServer/ns8-ejabberd/pull/118)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-05-20T22:32:20Z
 - :eyes: :zzz: **[Translations update from Hosted Weblate](https://github.com/NethServer/ns8-ejabberd/pull/115)** by *weblate* - Reviewers: *None* - Created at: 2026-04-30T20:12:55Z
 
-### NethServer/nethsecurity-ui 6 
+### NethServer/nethsecurity-ui 7 
 
+- :eyes:  **[chore(deps): lock file maintenance](https://github.com/NethServer/nethsecurity-ui/pull/775)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-06-01T00:30:39Z
 - :eyes:  **[fix(deps): update dependency @vuepic/vue-datepicker to v13](https://github.com/NethServer/nethsecurity-ui/pull/774)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-05-29T20:30:12Z
 - :eyes:  **[chore: translations update from Hosted Weblate](https://github.com/NethServer/nethsecurity-ui/pull/765)** by *weblate* - Reviewers: *None* - Created at: 2026-05-14T10:24:04Z
 - :eyes: :zzz: **[chore(deps): update dependency vite to v8](https://github.com/NethServer/nethsecurity-ui/pull/742)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-04-16T08:25:47Z
@@ -230,8 +231,9 @@ date = 2026-05-31
 - :eyes:  **[chore(deps): update dependency @babel/eslint-parser to v7.29.7](https://github.com/NethServer/ns8-imapsync/pull/104)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-05-30T20:02:26Z
 - :eyes:  **[chore(deps): update dependency @carbon/icons-vue to v10.130.0](https://github.com/NethServer/ns8-imapsync/pull/100)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-05-20T22:17:00Z
 
-### NethServer/ns8-user-manager 5 
+### NethServer/ns8-user-manager 6 
 
+- :eyes:  **[chore(deps): lock file maintenance](https://github.com/NethServer/ns8-user-manager/pull/182)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-06-01T00:26:22Z
 - :eyes:  **[chore(deps): update commitlint monorepo to v21](https://github.com/NethServer/ns8-user-manager/pull/180)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-05-28T07:16:20Z
 - :eyes: :zzz: **[chore(deps): update dependency typescript to v6](https://github.com/NethServer/ns8-user-manager/pull/162)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-03-23T18:32:01Z
 - :eyes: :zzz: **[chore(deps): update dependency vite to v8](https://github.com/NethServer/ns8-user-manager/pull/161)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-03-12T19:06:51Z
@@ -271,6 +273,11 @@ date = 2026-05-31
 - :eyes:  **[chore(deps): update dependency @babel/eslint-parser to v7.29.7](https://github.com/NethServer/ns8-wordpress/pull/75)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-05-30T12:26:30Z
 - :eyes:  **[chore(deps): update dependency @carbon/icons-vue to v10.130.0](https://github.com/NethServer/ns8-wordpress/pull/71)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-05-21T01:55:23Z
 
+### NethServer/nethlink 2 
+
+- :eyes:  **[chore(deps): update dependency koffi to v2.16.2](https://github.com/NethServer/nethlink/pull/155)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-06-01T00:26:47Z
+- :eyes:  **[chore(deps): update dependency react-router-dom to v6.30.4](https://github.com/NethServer/nethlink/pull/154)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-06-01T00:26:37Z
+
 ### NethServer/ns8-netdata 2 
 
 - :eyes:  **[chore(deps): update dependency @babel/eslint-parser to v7.29.7](https://github.com/NethServer/ns8-netdata/pull/82)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-05-30T12:26:52Z
@@ -295,6 +302,11 @@ date = 2026-05-31
 - :eyes:  **[chore(deps): update nginx docker tag to v1.31.1](https://github.com/NethServer/ns8-dependencytrack/pull/103)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-05-30T20:06:13Z
 - :eyes:  **[chore(deps): update dependency @babel/eslint-parser to v7.29.7](https://github.com/NethServer/ns8-dependencytrack/pull/102)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-05-30T20:05:52Z
 - :eyes:  **[chore(deps): update dependency @carbon/icons-vue to v10.130.0](https://github.com/NethServer/ns8-dependencytrack/pull/100)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-05-25T21:45:38Z
+
+### NethServer/my 2 
+
+- :eyes:  **[chore(deps): update module github.com/aws/aws-sdk-go-v2 to v1.41.9](https://github.com/NethServer/my/pull/113)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-06-01T00:25:22Z
+- :eyes:  **[chore(deps): update dependency axios to v1.16.1](https://github.com/NethServer/my/pull/112)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-06-01T00:24:37Z
 
 ### NethServer/ns8-matrix 15 
 
@@ -417,8 +429,10 @@ date = 2026-05-31
 -  :zzz: **[chore(deps): update docker.io/library/golang docker tag to v1.26.3](https://github.com/nethesis/ns8-nethvoice/pull/563)** by *renovate[bot]* - Reviewers: *edospadoni* - Created at: 2025-10-16T01:44:45Z
 -  :zzz: **[chore(deps): update docker.io/library/alpine docker tag to v3.23.4](https://github.com/nethesis/ns8-nethvoice/pull/562)** by *renovate[bot]* - Reviewers: *edospadoni, Amygos* - Created at: 2025-10-16T01:44:42Z
 
-### nethesis/phone-island 7 
+### nethesis/phone-island 9 
 
+- :eyes:  **[chore(deps): update dependency @babel/preset-env to v7.29.7](https://github.com/nethesis/phone-island/pull/244)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-06-01T03:29:25Z
+- :eyes:  **[chore(deps): update dependency @babel/core to v7.29.7](https://github.com/nethesis/phone-island/pull/243)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-06-01T03:29:12Z
 - :eyes:  **[chore(deps): update dependency react to v18.3.1](https://github.com/nethesis/phone-island/pull/242)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-05-25T04:48:29Z
 - :eyes:  **[chore(deps): update dependency postcss to v8.5.15](https://github.com/nethesis/phone-island/pull/241)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-05-25T04:48:20Z
 - :eyes:  **[chore(deps): update dependency i18next-browser-languagedetector to v7.2.2](https://github.com/nethesis/phone-island/pull/240)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-05-25T01:41:06Z
