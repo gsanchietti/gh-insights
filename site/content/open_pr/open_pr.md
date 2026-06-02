@@ -1,6 +1,6 @@
 +++
 title = 'Open Pull Requests'
-date = 2026-06-01
+date = 2026-06-02
 +++
 
 ## Organization: nethserver
@@ -9,6 +9,10 @@ date = 2026-06-01
 
 -   **[fix(update-os): hide DNF repository credentials in system logs](https://github.com/NethServer/ns8-core/pull/1193)** by *DavidePrincipi* - Reviewers: *gsanchietti* - Created at: 2026-05-29T15:55:33Z
 -  :zzz: **[docs: add NethVoice release procedure addendum](https://github.com/NethServer/ns8-core/pull/1136)** by *Copilot* - Reviewers: *Amygos* - Created at: 2026-03-30T14:06:18Z
+
+### NethServer/ns8-kickstart 1 
+
+- :eyes:  **[docs: Add repository guidance](https://github.com/NethServer/ns8-kickstart/pull/121)** by *Stell0* - Reviewers: *None* - Created at: 2026-06-01T12:47:20Z
 
 ### NethServer/ns8-nextcloud 2 
 
@@ -44,7 +48,7 @@ date = 2026-06-01
 
 ### NethServer/nethsecurity-docs 3 
 
--   **[Document the Metrics page and Victoria Logs](https://github.com/NethServer/nethsecurity-docs/pull/277)** by *gsanchietti* - Reviewers: *Tbaile, cotosso, filippocarletti, m-dilorenzi* - Created at: 2026-05-29T06:26:57Z
+-   **[Document the Metrics page and Victoria Logs](https://github.com/NethServer/nethsecurity-docs/pull/277)** by *gsanchietti* - Reviewers: *Tbaile, cotosso, m-dilorenzi* - Created at: 2026-05-29T06:26:57Z
 -   **[docs: add DigitalOcean DDNS example and split DNS guidance](https://github.com/NethServer/nethsecurity-docs/pull/267)** by *gsanchietti* - Reviewers: *cotosso, Tbaile* - Created at: 2026-05-26T13:07:39Z
 -  :zzz: **[feat: added softflowd doc](https://github.com/NethServer/nethsecurity-docs/pull/227)** by *Tbaile* - Reviewers: *cotosso* - Created at: 2026-03-05T09:29:42Z
 
@@ -157,8 +161,9 @@ date = 2026-06-01
 -  :zzz: **[fix: increase fr_timer from 1s to 30s](https://github.com/nethesis/ns8-nethvoice-proxy/pull/141)** by *Amygos* - Reviewers: *paolovisintin* - Created at: 2026-02-23T08:06:07Z
 - :eyes: :zzz: **[fix(kamailio): increase timers for NOTIFY/SUBSCRIBE to fix BLF timeouts](https://github.com/nethesis/ns8-nethvoice-proxy/pull/123)** by *paolovisintin* - Reviewers: *None* - Created at: 2026-01-14T08:00:32Z
 
-### nethesis/vue-components 3 
+### nethesis/vue-components 4 
 
+-   **[feat: add NeMultiselectCombobox component](https://github.com/nethesis/vue-components/pull/155)** by *andre8244* - Reviewers: *Tbaile* - Created at: 2026-06-01T10:46:58Z
 -   **[feat: external filtering for NeDropdownFilter & NeCombobox](https://github.com/nethesis/vue-components/pull/154)** by *andre8244* - Reviewers: *Tbaile* - Created at: 2026-05-26T10:51:19Z
 - :eyes:  **[chore(main): release 3.8.1](https://github.com/nethesis/vue-components/pull/151)** by *Tbaile* - Reviewers: *None* - Created at: 2026-05-26T07:30:53Z
 - :eyes: :zzz: **[fix(sort): relaxing sorting function](https://github.com/nethesis/vue-components/pull/104)** by *Tbaile* - Reviewers: *None* - Created at: 2025-12-11T15:17:22Z
