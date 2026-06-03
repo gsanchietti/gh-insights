@@ -1,10 +1,10 @@
 +++
 title = 'Need testing (16)'
-date = 2026-06-02
+date = 2026-06-03
 +++
 
 ## NethVoice
-- **[nethvoice-report: CDR partition tables contaminated with cross-period rows](https://github.com/NethServer/dev/issues/8023)** (#7382) by *edospadoni* (Created: 2026-05-27, Updated: 2026-05-28T10:36:37Z)
+- **[nethvoice-report: CDR partition tables contaminated with cross-period rows](https://github.com/NethServer/dev/issues/8023)** (#7382) by *edospadoni* (Created: 2026-05-27, Updated: 2026-06-03T06:49:33Z)
 - :point_right: **[NethVoice: Add rebranding configuration interface](https://github.com/NethServer/dev/issues/7995)** (#7382) by *tonyco97* (Created: 2026-05-07, Updated: 2026-05-18T09:47:11Z)
 
 ## NethVoice
@@ -15,13 +15,13 @@ date = 2026-06-02
 ## NethServer
 - :point_right: **[Password never expires: OpenLDAP support for individual users](https://github.com/NethServer/dev/issues/7981)** (#7382) by *DavidePrincipi* (Created: 2026-04-23, Updated: 2026-05-21T15:31:09Z)
 - :point_right: **[Update dependencies - NethServer 8.9](https://github.com/NethServer/dev/issues/7967)** (#7382) by *DavidePrincipi* (Created: 2026-04-20, Updated: 2026-05-27T07:57:34Z)
-- :point_right: **[Add Rclone provider in backup destination creation workflow](https://github.com/NethServer/dev/issues/7966)** (#7382) by *DavidePrincipi* (Created: 2026-04-17, Updated: 2026-05-29T13:05:42Z)
+- :point_right: **[Add Rclone provider in backup destination creation workflow](https://github.com/NethServer/dev/issues/7966)** (#7382) by *DavidePrincipi* (Created: 2026-04-17, Updated: 2026-06-03T07:35:10Z)
 - :point_right: **[Centralized Backup Orchestration and Rclone-based Gateway](https://github.com/NethServer/dev/issues/7814)** (#7382) by *DavidePrincipi* (Created: 2026-01-12, Updated: 2026-05-19T14:59:46Z)
 - :point_right: **[Inital root password of prebuilt images](https://github.com/NethServer/dev/issues/7673)** (#7382) by *nrauso* (Created: 2025-10-02, Updated: 2026-05-21T18:13:53Z)
 - :point_right: **[Backup Samba repo validation](https://github.com/NethServer/dev/issues/7382)** (#7382) by *DavidePrincipi* (Created: 2025-04-07, Updated: 2026-05-22T13:01:04Z)
 
 ## 8.8.0
-- **[Preserve dnsmasq DHCP leases on mounted storage](https://github.com/NethServer/nethsecurity/issues/1694)** (#1606) by *gsanchietti* (Created: 2026-05-26, Updated: 2026-05-29T07:21:23Z)
+- :point_right: **[Preserve dnsmasq DHCP leases on mounted storage](https://github.com/NethServer/nethsecurity/issues/1694)** (#1606) by *gsanchietti* (Created: 2026-05-26, Updated: 2026-06-03T06:56:05Z)
 - :point_right: **[Openvpn dashboard counter: disconnected client tunnels are counted as connected](https://github.com/NethServer/nethsecurity/issues/1688)** (#1606) by *francio87* (Created: 2026-05-22, Updated: 2026-05-29T07:22:26Z)
 - :point_right: **[External-database user appears disconnected even though connected](https://github.com/NethServer/nethsecurity/issues/1686)** (#1606) by *m-dilorenzi* (Created: 2026-05-19, Updated: 2026-05-26T14:03:30Z)
 - :point_right: **[Monitoring: adding long time storage for metrics](https://github.com/NethServer/nethsecurity/issues/1656)** (#1606) by *Tbaile* (Created: 2026-05-12, Updated: 2026-05-15T13:19:16Z)

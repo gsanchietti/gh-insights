@@ -1,6 +1,6 @@
 +++
 title = 'Open Pull Requests'
-date = 2026-06-02
+date = 2026-06-03
 +++
 
 ## Organization: nethserver
@@ -36,8 +36,9 @@ date = 2026-06-02
 
 - :eyes: :zzz: **[chore(master): release 1.5.1](https://github.com/NethServer/phonehome-server/pull/138)** by *Tbaile* - Reviewers: *None* - Created at: 2025-11-15T06:38:38Z
 
-### NethServer/ns8-docs 3 
+### NethServer/ns8-docs 4 
 
+-   **[docs(nethforge): Add Hermes Agent admin page](https://github.com/NethServer/ns8-docs/pull/237)** by *Stell0* - Reviewers: *DavidePrincipi* - Created at: 2026-06-03T07:03:47Z
 -   **[feat: password never expires for OpenLDAP](https://github.com/NethServer/ns8-docs/pull/236)** by *DavidePrincipi* - Reviewers: *nrauso* - Created at: 2026-05-21T14:51:31Z
 - :eyes:  **[Update install.rst: warning for pre-built images](https://github.com/NethServer/ns8-docs/pull/233)** by *nrauso* - Reviewers: *None* - Created at: 2026-05-05T15:36:18Z
 -  :zzz: **[Explain generated root password](https://github.com/NethServer/ns8-docs/pull/231)** by *mrmarkuz* - Reviewers: *DavidePrincipi* - Created at: 2026-04-16T13:45:56Z
@@ -56,8 +57,9 @@ date = 2026-06-02
 
 - :eyes:  **[fix: Exchange support, file age calculation and safe arg quoting](https://github.com/NethServer/ns8-imapsync/pull/102)** by *stephdl* - Reviewers: *None* - Created at: 2026-05-22T07:20:29Z
 
-### NethServer/ns8-nethforge 1 
+### NethServer/ns8-nethforge 2 
 
+-   **[Update URLs in metadata.json for Hermes](https://github.com/NethServer/ns8-nethforge/pull/41)** by *Stell0* - Reviewers: *DavidePrincipi* - Created at: 2026-06-03T06:22:30Z
 - :eyes:  **[Update metadata.json](https://github.com/NethServer/ns8-nethforge/pull/40)** by *Stell0* - Reviewers: *None* - Created at: 2026-05-12T13:58:24Z
 
 ### NethServer/nethlink 3 
@@ -163,7 +165,7 @@ date = 2026-06-02
 
 ### nethesis/vue-components 4 
 
--   **[feat: add NeMultiselectCombobox component](https://github.com/nethesis/vue-components/pull/155)** by *andre8244* - Reviewers: *Tbaile* - Created at: 2026-06-01T10:46:58Z
+- :eyes:  **[feat: add NeMultiselectCombobox component](https://github.com/nethesis/vue-components/pull/155)** by *andre8244* - Reviewers: *None* - Created at: 2026-06-01T10:46:58Z
 -   **[feat: external filtering for NeDropdownFilter & NeCombobox](https://github.com/nethesis/vue-components/pull/154)** by *andre8244* - Reviewers: *Tbaile* - Created at: 2026-05-26T10:51:19Z
 - :eyes:  **[chore(main): release 3.8.1](https://github.com/nethesis/vue-components/pull/151)** by *Tbaile* - Reviewers: *None* - Created at: 2026-05-26T07:30:53Z
 - :eyes: :zzz: **[fix(sort): relaxing sorting function](https://github.com/nethesis/vue-components/pull/104)** by *Tbaile* - Reviewers: *None* - Created at: 2025-12-11T15:17:22Z
