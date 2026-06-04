@@ -2,9 +2,15 @@
 
 title = 'To be released soon'
 
-date = 2026-06-03
+date = 2026-06-04
 
 +++
+
+### NethVoice
+
+- [NethVoice: Add rebranding configuration interface](https://github.com/NethServer/dev/issues/7995) (#7375) by tonyco97 (Created: 2026-05-07T10:59:06Z, Updated: 2026-06-03T13:06:07Z)
+
+- [NethVoice - Improve backup procedure to avoid temporary database duplication](https://github.com/NethServer/dev/issues/7991) (#7375) by nrauso (Created: 2026-05-05T15:21:16Z, Updated: 2026-05-28T10:32:43Z)
 
 ### NethServer
 
@@ -23,10 +29,6 @@ date = 2026-06-03
 - [No cluster-backup in destinations](https://github.com/NethServer/dev/issues/7677) (#7375) by DavidePrincipi (Created: 2025-10-08T09:09:24Z, Updated: 2026-05-22T14:06:09Z)
 
 - [Samba logs flooded by Decryption Failed](https://github.com/NethServer/dev/issues/7375) (#7375) by DavidePrincipi (Created: 2025-04-03T11:01:21Z, Updated: 2026-05-29T16:43:53Z)
-
-### NethVoice
-
-- [NethVoice - Improve backup procedure to avoid temporary database duplication](https://github.com/NethServer/dev/issues/7991) (#7375) by nrauso (Created: 2026-05-05T15:21:16Z, Updated: 2026-05-28T10:32:43Z)
 
 ### NethVoice
 
