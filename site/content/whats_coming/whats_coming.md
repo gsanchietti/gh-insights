@@ -2,15 +2,9 @@
 
 title = 'To be released soon'
 
-date = 2026-06-04
+date = 2026-06-05
 
 +++
-
-### NethVoice
-
-- [NethVoice: Add rebranding configuration interface](https://github.com/NethServer/dev/issues/7995) (#7375) by tonyco97 (Created: 2026-05-07T10:59:06Z, Updated: 2026-06-03T13:06:07Z)
-
-- [NethVoice - Improve backup procedure to avoid temporary database duplication](https://github.com/NethServer/dev/issues/7991) (#7375) by nrauso (Created: 2026-05-05T15:21:16Z, Updated: 2026-05-28T10:32:43Z)
 
 ### NethServer
 
@@ -29,6 +23,10 @@ date = 2026-06-04
 - [No cluster-backup in destinations](https://github.com/NethServer/dev/issues/7677) (#7375) by DavidePrincipi (Created: 2025-10-08T09:09:24Z, Updated: 2026-05-22T14:06:09Z)
 
 - [Samba logs flooded by Decryption Failed](https://github.com/NethServer/dev/issues/7375) (#7375) by DavidePrincipi (Created: 2025-04-03T11:01:21Z, Updated: 2026-05-29T16:43:53Z)
+
+### NethVoice
+
+- [NethVoice - Improve backup procedure to avoid temporary database duplication](https://github.com/NethServer/dev/issues/7991) (#7375) by nrauso (Created: 2026-05-05T15:21:16Z, Updated: 2026-05-28T10:32:43Z)
 
 ### NethVoice
 
@@ -56,9 +54,17 @@ date = 2026-06-04
 
 ### 8.8.0
 
+- [Preserve dnsmasq DHCP leases on mounted storage](https://github.com/NethServer/nethsecurity/issues/1694) (#1298) by gsanchietti (Created: 2026-05-26T10:26:40Z, Updated: 2026-06-04T14:10:54Z)
+
+- [Openvpn dashboard counter: disconnected client tunnels are counted as connected](https://github.com/NethServer/nethsecurity/issues/1688) (#1298) by francio87 (Created: 2026-05-22T08:36:04Z, Updated: 2026-06-04T09:31:40Z)
+
+- [External-database user appears disconnected even though connected](https://github.com/NethServer/nethsecurity/issues/1686) (#1298) by m-dilorenzi (Created: 2026-05-19T15:25:56Z, Updated: 2026-06-04T09:55:35Z)
+
 - [Add Avahi (mDNS) package in NethSecurity repos](https://github.com/NethServer/nethsecurity/issues/1625) (#1298) by cotosso (Created: 2026-04-29T10:54:40Z, Updated: 2026-05-25T12:23:50Z)
 
 - [Add "DON'T TRACK" action to firewall rules](https://github.com/NethServer/nethsecurity/issues/1617) (#1298) by cotosso (Created: 2026-04-28T14:06:49Z, Updated: 2026-05-18T13:22:14Z)
+
+- [Extra packages not restored after image upgrade](https://github.com/NethServer/nethsecurity/issues/1606) (#1298) by filippocarletti (Created: 2026-04-21T14:50:00Z, Updated: 2026-06-05T07:59:03Z)
 
 - [Provide to the Community version some features currently available only in subscription-based versions](https://github.com/NethServer/nethsecurity/issues/1602) (#1298) by cotosso (Created: 2026-04-20T15:53:56Z, Updated: 2026-05-28T08:18:34Z)
 

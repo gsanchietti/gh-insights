@@ -1,33 +1,29 @@
 +++
 title = 'Open Pull Requests'
-date = 2026-06-04
+date = 2026-06-05
 +++
 
 ## Organization: nethserver
 
-### NethServer/ns8-core 3 
+### NethServer/ns8-core 1 
 
-- :eyes:  **[fix: work around systemd %S path change on Rocky 9.8](https://github.com/NethServer/ns8-core/pull/1194)** by *DavidePrincipi* - Reviewers: *None* - Created at: 2026-06-03T16:59:48Z
-- :eyes:  **[fix(update-os): hide DNF repository credentials in system logs](https://github.com/NethServer/ns8-core/pull/1193)** by *DavidePrincipi* - Reviewers: *None* - Created at: 2026-05-29T15:55:33Z
 -  :zzz: **[docs: add NethVoice release procedure addendum](https://github.com/NethServer/ns8-core/pull/1136)** by *Copilot* - Reviewers: *Amygos* - Created at: 2026-03-30T14:06:18Z
 
 ### NethServer/ns8-kickstart 1 
 
 - :eyes:  **[docs: Add repository guidance](https://github.com/NethServer/ns8-kickstart/pull/121)** by *Stell0* - Reviewers: *None* - Created at: 2026-06-01T12:47:20Z
 
-### NethServer/ns8-nextcloud 2 
+### NethServer/ns8-nextcloud 1 
 
--   **[Include upstream name in version display](https://github.com/NethServer/ns8-nextcloud/pull/222)** by *stephdl* - Reviewers: *DavidePrincipi* - Created at: 2026-05-29T09:19:29Z
 - :eyes: :zzz: **[Update minimum version label from 1.5.0 to 1.6.0](https://github.com/NethServer/ns8-nextcloud/pull/204)** by *mrmarkuz* - Reviewers: *None* - Created at: 2026-04-01T14:42:09Z
 
 ### NethServer/ns8-traefik 1 
 
 - :eyes: :zzz: **[fix: cryptography 45 deprecation warning](https://github.com/NethServer/ns8-traefik/pull/120)** by *DavidePrincipi* - Reviewers: *None* - Created at: 2025-10-28T08:48:29Z
 
-### NethServer/nethsecurity 3 
+### NethServer/nethsecurity 2 
 
--   **[HA: change for NethSecurtiy 8.8.](https://github.com/NethServer/nethsecurity/pull/1706)** by *gsanchietti* - Reviewers: *Tbaile* - Created at: 2026-06-03T15:46:42Z
-- :eyes:  **[Nethsecurity 8.8.0](https://github.com/NethServer/nethsecurity/pull/1642)** by *gsanchietti* - Reviewers: *None* - Created at: 2026-05-05T13:31:12Z
+- :eyes: :zzz: **[Nethsecurity 8.8.0](https://github.com/NethServer/nethsecurity/pull/1642)** by *gsanchietti* - Reviewers: *None* - Created at: 2026-05-05T13:31:12Z
 - :eyes: :zzz: **[build: added softflowd](https://github.com/NethServer/nethsecurity/pull/1453)** by *Tbaile* - Reviewers: *None* - Created at: 2025-12-10T11:48:14Z
 
 ### NethServer/ns8-roundcubemail 1 
@@ -38,11 +34,10 @@ date = 2026-06-04
 
 - :eyes: :zzz: **[chore(master): release 1.5.1](https://github.com/NethServer/phonehome-server/pull/138)** by *Tbaile* - Reviewers: *None* - Created at: 2025-11-15T06:38:38Z
 
-### NethServer/ns8-docs 4 
+### NethServer/ns8-docs 3 
 
--   **[docs(nethforge): Add Hermes Agent admin page](https://github.com/NethServer/ns8-docs/pull/237)** by *Stell0* - Reviewers: *DavidePrincipi* - Created at: 2026-06-03T07:03:47Z
 -   **[feat: password never expires for OpenLDAP](https://github.com/NethServer/ns8-docs/pull/236)** by *DavidePrincipi* - Reviewers: *nrauso* - Created at: 2026-05-21T14:51:31Z
-- :eyes:  **[Update install.rst: warning for pre-built images](https://github.com/NethServer/ns8-docs/pull/233)** by *nrauso* - Reviewers: *None* - Created at: 2026-05-05T15:36:18Z
+- :eyes: :zzz: **[Update install.rst: warning for pre-built images](https://github.com/NethServer/ns8-docs/pull/233)** by *nrauso* - Reviewers: *None* - Created at: 2026-05-05T15:36:18Z
 -  :zzz: **[Explain generated root password](https://github.com/NethServer/ns8-docs/pull/231)** by *mrmarkuz* - Reviewers: *DavidePrincipi* - Created at: 2026-04-16T13:45:56Z
 
 ### NethServer/ns8-images 1 
@@ -115,9 +110,8 @@ date = 2026-06-04
 - :eyes:  **[fix(cdr): prevent cross-period contamination in partition tables](https://github.com/nethesis/nethvoice-report/pull/211)** by *edospadoni* - Reviewers: *None* - Created at: 2026-05-27T10:44:46Z
 - :eyes: :zzz: **[feat: add cookie support for support proxy integration](https://github.com/nethesis/nethvoice-report/pull/209)** by *edospadoni* - Reviewers: *None* - Created at: 2026-03-30T08:57:52Z
 
-### nethesis/ns8-nethvoice 16 
+### nethesis/ns8-nethvoice 15 
 
-- :eyes:  **[Update userman module version to 16.0.45](https://github.com/nethesis/ns8-nethvoice/pull/855)** by *Stell0* - Reviewers: *None* - Created at: 2026-06-03T14:19:00Z
 - :eyes:  **[fix(reports): bump nethvoice-report and wire CDR cleanup task](https://github.com/nethesis/ns8-nethvoice/pull/843)** by *edospadoni* - Reviewers: *None* - Created at: 2026-05-27T10:45:00Z
 - :eyes:  **[feat(trunks): Add trunk for ElevenLabs](https://github.com/nethesis/ns8-nethvoice/pull/840)** by *Stell0* - Reviewers: *None* - Created at: 2026-05-26T12:49:52Z
 -   **[More sharing options for contacts](https://github.com/nethesis/ns8-nethvoice/pull/833)** by *tonyco97* - Reviewers: *tommaso-ascani* - Created at: 2026-05-19T12:59:30Z
@@ -175,7 +169,7 @@ date = 2026-06-04
 
 ### nethesis/nethcti-middleware 4 
 
--   **[chore: added missing phonebook endpoints](https://github.com/nethesis/nethcti-middleware/pull/53)** by *tonyco97* - Reviewers: *tommaso-ascani* - Created at: 2026-05-25T11:58:56Z
+- :eyes:  **[chore: added missing phonebook endpoints](https://github.com/nethesis/nethcti-middleware/pull/53)** by *tonyco97* - Reviewers: *None* - Created at: 2026-05-25T11:58:56Z
 - :eyes: :zzz: **[fix: update API to support linked IDs for transcription and summary](https://github.com/nethesis/nethcti-middleware/pull/44)** by *tommaso-ascani* - Reviewers: *None* - Created at: 2026-04-14T10:17:21Z
 - :eyes: :zzz: **[feat: add support user authentication for FreePBX CTI APIs](https://github.com/nethesis/nethcti-middleware/pull/42)** by *edospadoni* - Reviewers: *None* - Created at: 2026-03-30T08:59:50Z
 -  :zzz: **[feat: add GET /chat endpoint](https://github.com/nethesis/nethcti-middleware/pull/16)** by *gsanchietti* - Reviewers: *tommaso-ascani* - Created at: 2025-12-17T10:53:42Z
