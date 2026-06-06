@@ -2,7 +2,7 @@
 
 title = 'To be released soon'
 
-date = 2026-06-05
+date = 2026-06-06
 
 +++
 
@@ -23,10 +23,6 @@ date = 2026-06-05
 - [No cluster-backup in destinations](https://github.com/NethServer/dev/issues/7677) (#7375) by DavidePrincipi (Created: 2025-10-08T09:09:24Z, Updated: 2026-05-22T14:06:09Z)
 
 - [Samba logs flooded by Decryption Failed](https://github.com/NethServer/dev/issues/7375) (#7375) by DavidePrincipi (Created: 2025-04-03T11:01:21Z, Updated: 2026-05-29T16:43:53Z)
-
-### NethVoice
-
-- [NethVoice - Improve backup procedure to avoid temporary database duplication](https://github.com/NethServer/dev/issues/7991) (#7375) by nrauso (Created: 2026-05-05T15:21:16Z, Updated: 2026-05-28T10:32:43Z)
 
 ### NethVoice
 

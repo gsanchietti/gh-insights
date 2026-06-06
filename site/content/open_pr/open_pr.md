@@ -1,6 +1,6 @@
 +++
 title = 'Open Pull Requests'
-date = 2026-06-05
+date = 2026-06-06
 +++
 
 ## Organization: nethserver
@@ -21,14 +21,17 @@ date = 2026-06-05
 
 - :eyes: :zzz: **[fix: cryptography 45 deprecation warning](https://github.com/NethServer/ns8-traefik/pull/120)** by *DavidePrincipi* - Reviewers: *None* - Created at: 2025-10-28T08:48:29Z
 
-### NethServer/nethsecurity 2 
+### NethServer/nethsecurity 5 
 
+-   **[feat(geoblocking): geo ip management in threat shield ip](https://github.com/NethServer/nethsecurity/pull/1714)** by *m-dilorenzi* - Reviewers: *Tbaile* - Created at: 2026-06-05T15:18:43Z
+-   **[fix(telegraf): services, handle special exit codes](https://github.com/NethServer/nethsecurity/pull/1713)** by *gsanchietti* - Reviewers: *Tbaile, m-dilorenzi* - Created at: 2026-06-05T14:14:59Z
+-   **[ci: updated branches and dev process](https://github.com/NethServer/nethsecurity/pull/1704)** by *Tbaile* - Reviewers: *m-dilorenzi* - Created at: 2026-06-03T10:33:55Z
 - :eyes: :zzz: **[Nethsecurity 8.8.0](https://github.com/NethServer/nethsecurity/pull/1642)** by *gsanchietti* - Reviewers: *None* - Created at: 2026-05-05T13:31:12Z
 - :eyes: :zzz: **[build: added softflowd](https://github.com/NethServer/nethsecurity/pull/1453)** by *Tbaile* - Reviewers: *None* - Created at: 2025-12-10T11:48:14Z
 
 ### NethServer/ns8-roundcubemail 1 
 
--   **[Update Roundcube image reference and metadata handling](https://github.com/NethServer/ns8-roundcubemail/pull/105)** by *stephdl* - Reviewers: *DavidePrincipi* - Created at: 2026-05-29T08:35:20Z
+- :eyes:  **[Update Roundcube image reference and metadata handling](https://github.com/NethServer/ns8-roundcubemail/pull/105)** by *stephdl* - Reviewers: *None* - Created at: 2026-05-29T08:35:20Z
 
 ### NethServer/phonehome-server 1 
 
@@ -43,6 +46,10 @@ date = 2026-06-05
 ### NethServer/ns8-images 1 
 
 - :eyes:  **[Enhance Traefik image caching and update agetty prompt](https://github.com/NethServer/ns8-images/pull/13)** by *DavidePrincipi* - Reviewers: *None* - Created at: 2026-05-28T15:58:36Z
+
+### NethServer/nethsecurity-ui 1 
+
+-   **[feat(geoblocking): geo ip management in threat shield ip](https://github.com/NethServer/nethsecurity-ui/pull/777)** by *m-dilorenzi* - Reviewers: *andre8244, Tbaile* - Created at: 2026-06-05T14:52:03Z
 
 ### NethServer/nethsecurity-docs 1 
 
@@ -67,7 +74,7 @@ date = 2026-06-05
 ### NethServer/nethvoice-docs 2 
 
 -   **[chore: created sharing phonebook documentation](https://github.com/NethServer/nethvoice-docs/pull/54)** by *tonyco97* - Reviewers: *andrea-marchionni* - Created at: 2026-05-26T12:47:28Z
--  :zzz: **[feat: enhance documentation for AI call transcription and summary](https://github.com/NethServer/nethvoice-docs/pull/44)** by *tommaso-ascani* - Reviewers: *gsanchietti* - Created at: 2026-04-13T13:38:04Z
+- :eyes: :zzz: **[feat: enhance documentation for AI call transcription and summary](https://github.com/NethServer/nethvoice-docs/pull/44)** by *tommaso-ascani* - Reviewers: *None* - Created at: 2026-04-13T13:38:04Z
 
 ## Organization: nethesis
 
@@ -110,18 +117,17 @@ date = 2026-06-05
 - :eyes:  **[fix(cdr): prevent cross-period contamination in partition tables](https://github.com/nethesis/nethvoice-report/pull/211)** by *edospadoni* - Reviewers: *None* - Created at: 2026-05-27T10:44:46Z
 - :eyes: :zzz: **[feat: add cookie support for support proxy integration](https://github.com/nethesis/nethvoice-report/pull/209)** by *edospadoni* - Reviewers: *None* - Created at: 2026-03-30T08:57:52Z
 
-### nethesis/ns8-nethvoice 15 
+### nethesis/ns8-nethvoice 14 
 
 - :eyes:  **[fix(reports): bump nethvoice-report and wire CDR cleanup task](https://github.com/nethesis/ns8-nethvoice/pull/843)** by *edospadoni* - Reviewers: *None* - Created at: 2026-05-27T10:45:00Z
 - :eyes:  **[feat(trunks): Add trunk for ElevenLabs](https://github.com/nethesis/ns8-nethvoice/pull/840)** by *Stell0* - Reviewers: *None* - Created at: 2026-05-26T12:49:52Z
--   **[More sharing options for contacts](https://github.com/nethesis/ns8-nethvoice/pull/833)** by *tonyco97* - Reviewers: *tommaso-ascani* - Created at: 2026-05-19T12:59:30Z
+- :eyes:  **[More sharing options for contacts](https://github.com/nethesis/ns8-nethvoice/pull/833)** by *tonyco97* - Reviewers: *None* - Created at: 2026-05-19T12:59:30Z
 - :eyes:  **[Fias hotel log and fix](https://github.com/nethesis/ns8-nethvoice/pull/827)** by *Stell0* - Reviewers: *None* - Created at: 2026-05-12T14:25:05Z
 - :eyes:  **[fix(logging): fix nethhotel logging](https://github.com/nethesis/ns8-nethvoice/pull/826)** by *Stell0* - Reviewers: *None* - Created at: 2026-05-12T13:36:49Z
 - :eyes:  **[fix: update NethCTI image tag and commit argument for build process](https://github.com/nethesis/ns8-nethvoice/pull/822)** by *tommaso-ascani* - Reviewers: *None* - Created at: 2026-05-11T12:10:28Z
 -   **[fix: RTP/UDP ports allocation](https://github.com/nethesis/ns8-nethvoice/pull/817)** by *tommaso-ascani* - Reviewers: *Stell0, Amygos* - Created at: 2026-05-08T11:06:59Z
 - :eyes:  **[fix(logrotate): remove group write access for log dirs](https://github.com/nethesis/ns8-nethvoice/pull/816)** by *Stell0* - Reviewers: *None* - Created at: 2026-05-08T08:48:51Z
-- :eyes:  **[Optimize database backup disk usage](https://github.com/nethesis/ns8-nethvoice/pull/815)** by *gsanchietti* - Reviewers: *None* - Created at: 2026-05-08T08:06:41Z
-- :eyes:  **[fix(voicemail): increase voicemessages callerid max length](https://github.com/nethesis/ns8-nethvoice/pull/813)** by *Stell0* - Reviewers: *None* - Created at: 2026-05-07T06:22:43Z
+- :eyes: :zzz: **[fix(voicemail): increase voicemessages callerid max length](https://github.com/nethesis/ns8-nethvoice/pull/813)** by *Stell0* - Reviewers: *None* - Created at: 2026-05-07T06:22:43Z
 - :eyes: :zzz: **[Adding MultiWire and Vianova as provider VoIP](https://github.com/nethesis/ns8-nethvoice/pull/808)** by *andrea-marchionni* - Reviewers: *None* - Created at: 2026-05-04T11:06:50Z
 - :eyes: :zzz: **[fix(transcriptions): update satellite transcription handling](https://github.com/nethesis/ns8-nethvoice/pull/781)** by *tommaso-ascani* - Reviewers: *None* - Created at: 2026-04-14T10:29:41Z
 - :eyes: :zzz: **[feat: implement AGI script for handling calls answered elsewhere](https://github.com/nethesis/ns8-nethvoice/pull/751)** by *tommaso-ascani* - Reviewers: *None* - Created at: 2026-04-03T17:39:50Z
@@ -130,8 +136,8 @@ date = 2026-06-05
 
 ### nethesis/nethvoice-cti 3 
 
--   **[fix: better phonebook sharing](https://github.com/nethesis/nethvoice-cti/pull/495)** by *tonyco97* - Reviewers: *tommaso-ascani* - Created at: 2026-05-19T12:55:29Z
-- :eyes: :zzz: **[fix: update summary handling to use linked IDs instead of unique IDs](https://github.com/nethesis/nethvoice-cti/pull/467)** by *tommaso-ascani* - Reviewers: *None* - Created at: 2026-04-14T10:17:15Z
+- :eyes:  **[fix: better phonebook sharing](https://github.com/nethesis/nethvoice-cti/pull/495)** by *tonyco97* - Reviewers: *None* - Created at: 2026-05-19T12:55:29Z
+-  :zzz: **[fix: update summary handling to use linked IDs instead of unique IDs](https://github.com/nethesis/nethvoice-cti/pull/467)** by *tommaso-ascani* - Reviewers: *tonyco97* - Created at: 2026-04-14T10:17:15Z
 - :eyes: :zzz: **[feat: enhance call disposition handling with new utility functions](https://github.com/nethesis/nethvoice-cti/pull/457)** by *tommaso-ascani* - Reviewers: *None* - Created at: 2026-04-03T17:36:17Z
 
 ### nethesis/phone-island 2 

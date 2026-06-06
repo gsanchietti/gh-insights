@@ -1,6 +1,6 @@
 +++
 title = 'Open Pull Requests by Bots'
-date = 2026-06-05
+date = 2026-06-06
 +++
 
 ## Organization: nethserver
@@ -71,9 +71,8 @@ date = 2026-06-05
 - :eyes:  **[chore(deps): update babel monorepo to v7.29.7](https://github.com/NethServer/ns8-webserver/pull/173)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-05-30T12:25:42Z
 - :eyes:  **[chore(deps): update dependency @carbon/icons-vue to v10.130.0](https://github.com/NethServer/ns8-webserver/pull/170)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-05-20T22:10:56Z
 
-### NethServer/ns8-nextcloud 4 
+### NethServer/ns8-nextcloud 3 
 
-- :eyes:  **[chore(deps): update mariadb docker tag to v10.6.27](https://github.com/NethServer/ns8-nextcloud/pull/227)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-06-04T08:32:30Z
 - :eyes:  **[chore(deps): update vue monorepo to v2.7.16](https://github.com/NethServer/ns8-nextcloud/pull/224)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-06-02T17:39:20Z
 - :eyes:  **[chore(deps): update babel monorepo to v7.29.7](https://github.com/NethServer/ns8-nextcloud/pull/223)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-05-30T20:04:28Z
 - :eyes:  **[chore(deps): update dependency @carbon/icons-vue to v10.130.0](https://github.com/NethServer/ns8-nextcloud/pull/219)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-05-20T20:45:26Z
@@ -144,7 +143,7 @@ date = 2026-06-05
 
 ### NethServer/nethsecurity-controller 10 
 
-- :eyes:  **[chore(deps): update docker.io/traefik docker tag to v3.7.3](https://github.com/NethServer/nethsecurity-controller/pull/260)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-05-11T01:33:37Z
+- :eyes:  **[chore(deps): update docker.io/traefik docker tag to v3.7.4](https://github.com/NethServer/nethsecurity-controller/pull/260)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-05-11T01:33:37Z
 - :eyes: :zzz: **[fix(deps): update module github.com/jackc/pgx/v5 to v5.9.2 [security]](https://github.com/NethServer/nethsecurity-controller/pull/248)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-04-17T00:16:59Z
 - :eyes: :zzz: **[fix(deps): update module github.com/oschwald/geoip2-golang to v2](https://github.com/NethServer/nethsecurity-controller/pull/222)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-02-16T01:34:23Z
 - :eyes: :zzz: **[fix(deps): update module golang.org/x/crypto to v0.52.0](https://github.com/NethServer/nethsecurity-controller/pull/220)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-02-16T01:34:10Z
@@ -197,8 +196,9 @@ date = 2026-06-05
 - :eyes:  **[chore(deps): update babel monorepo to v7.29.7](https://github.com/NethServer/ns8-collabora/pull/84)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-05-30T12:24:24Z
 - :eyes:  **[chore(deps): update dependency @carbon/icons-vue to v10.130.0](https://github.com/NethServer/ns8-collabora/pull/82)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-05-20T21:12:56Z
 
-### NethServer/ns8-webtop 9 
+### NethServer/ns8-webtop 10 
 
+- :eyes:  **[Update to upstream release wt-5.33.3](https://github.com/NethServer/ns8-webtop/pull/251)** by *nethbot* - Reviewers: *None* - Created at: 2026-06-05T20:09:31Z
 - :eyes:  **[chore(deps): update vue monorepo to v2.7.16](https://github.com/NethServer/ns8-webtop/pull/249)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-06-02T17:37:20Z
 - :eyes:  **[chore(deps): update babel monorepo to v7.29.7](https://github.com/NethServer/ns8-webtop/pull/248)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-05-30T20:02:27Z
 - :eyes:  **[chore(deps): update dependency sass to v1.100.0](https://github.com/NethServer/ns8-webtop/pull/247)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-05-27T02:12:23Z
@@ -225,7 +225,7 @@ date = 2026-06-05
 ### NethServer/phonehome-server 3 
 
 - :eyes:  **[chore(deps): update dependency concurrently to v10](https://github.com/NethServer/phonehome-server/pull/152)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-05-30T20:04:10Z
-- :eyes:  **[chore(deps): update grafana/grafana-oss docker tag to v13](https://github.com/NethServer/phonehome-server/pull/151)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-05-09T01:24:27Z
+- :eyes:  **[chore(deps): update grafana monorepo to v13](https://github.com/NethServer/phonehome-server/pull/151)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-05-09T01:24:27Z
 - :eyes:  **[chore(deps): update googleapis/release-please-action action to v5](https://github.com/NethServer/phonehome-server/pull/150)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-05-09T01:24:22Z
 
 ### NethServer/ns8-crowdsec 4 
@@ -423,8 +423,8 @@ date = 2026-06-05
 
 ### nethesis/tancredi 5 
 
+- :eyes:  **[chore(deps): bump twig/twig from 3.24.0 to 3.27.1](https://github.com/nethesis/tancredi/pull/379)** by *dependabot[bot]* - Reviewers: *None* - Created at: 2026-06-05T21:26:35Z
 - :eyes:  **[chore(deps): update dependency twig/twig to v3.26.0 [security]](https://github.com/nethesis/tancredi/pull/377)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-05-21T22:02:19Z
-- :eyes:  **[chore(deps): bump twig/twig from 3.24.0 to 3.26.0](https://github.com/nethesis/tancredi/pull/376)** by *dependabot[bot]* - Reviewers: *None* - Created at: 2026-05-21T21:41:32Z
 - :eyes:  **[chore(deps-dev): bump nokogiri from 1.19.1 to 1.19.3 in /docs](https://github.com/nethesis/tancredi/pull/372)** by *dependabot[bot]* - Reviewers: *None* - Created at: 2026-05-08T18:00:13Z
 - :eyes: :zzz: **[chore(deps): update aquasecurity/trivy-action action to v0.36.0](https://github.com/nethesis/tancredi/pull/370)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-04-22T15:46:07Z
 - :eyes: :zzz: **[chore(deps): bump addressable from 2.8.1 to 2.9.0 in /docs](https://github.com/nethesis/tancredi/pull/368)** by *dependabot[bot]* - Reviewers: *None* - Created at: 2026-04-08T09:06:00Z
@@ -481,9 +481,8 @@ date = 2026-06-05
 - :eyes:  **[chore(deps): update dependency @types/jest to v29.5.14](https://github.com/nethesis/phone-island/pull/236)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-05-18T01:55:27Z
 - :eyes:  **[chore(deps): update dependency @testing-library/jest-dom to v5.17.0](https://github.com/nethesis/phone-island/pull/235)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-05-18T01:55:19Z
 
-### nethesis/ns8-nethvoice-proxy 6 
+### nethesis/ns8-nethvoice-proxy 5 
 
-- :eyes:  **[chore(deps): update dependency @nethserver/ns8-ui-lib to v1.12.3](https://github.com/nethesis/ns8-nethvoice-proxy/pull/183)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-06-03T11:31:36Z
 - :eyes:  **[chore(deps): update redis docker tag to v8.8](https://github.com/nethesis/ns8-nethvoice-proxy/pull/182)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-06-02T22:25:48Z
 - :eyes:  **[chore(deps): update vue monorepo to v2.7.16](https://github.com/nethesis/ns8-nethvoice-proxy/pull/181)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-06-02T16:34:57Z
 - :eyes:  **[chore(deps): update babel monorepo to v7.29.7](https://github.com/nethesis/ns8-nethvoice-proxy/pull/180)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-05-30T13:29:38Z
@@ -503,9 +502,8 @@ date = 2026-06-05
 - :eyes: :zzz: **[chore(deps): update dependency @vitejs/plugin-vue to v6](https://github.com/nethesis/vue-components/pull/114)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-12-19T15:37:45Z
 - :eyes: :zzz: **[chore(deps): update dependency @vue/tsconfig to ^0.9.0](https://github.com/nethesis/vue-components/pull/100)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-12-09T11:09:23Z
 
-### nethesis/parceler 2 
+### nethesis/parceler 1 
 
-- :eyes:  **[chore(deps): update php docker tag to v8.5.7](https://github.com/nethesis/parceler/pull/207)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-06-05T05:54:33Z
 - :eyes:  **[chore(deps): update dependency concurrently to v10](https://github.com/nethesis/parceler/pull/205)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-05-30T23:15:13Z
 
 ### nethesis/nethKaris 1 

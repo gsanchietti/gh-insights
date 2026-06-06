@@ -1,11 +1,10 @@
 +++
-title = 'Need testing (15)'
-date = 2026-06-05
+title = 'Need testing (14)'
+date = 2026-06-06
 +++
 
 ## NethServer
-- **[Systemd %S changes in Rocky Linux 9.8](https://github.com/NethServer/dev/issues/8028)** (#7143) by *DavidePrincipi* (Created: 2026-06-03, Updated: 2026-06-04T19:05:53Z)
-- :point_right: **[WebTop 5.33.2](https://github.com/NethServer/dev/issues/8018)** (#7143) by *lucagasparini* (Created: 2026-05-21, Updated: 2026-06-04T18:24:50Z)
+- :point_right: **[WebTop 5.33.3](https://github.com/NethServer/dev/issues/8018)** (#7143) by *lucagasparini* (Created: 2026-05-21, Updated: 2026-06-05T20:08:44Z)
 - :point_right: **[Dnf repository credentials in system log](https://github.com/NethServer/dev/issues/8013)** (#7143) by *DavidePrincipi* (Created: 2026-05-20, Updated: 2026-06-04T13:26:09Z)
 - :point_right: **[Password never expires: OpenLDAP support for individual users](https://github.com/NethServer/dev/issues/7981)** (#7143) by *DavidePrincipi* (Created: 2026-04-23, Updated: 2026-05-21T15:31:09Z)
 - :point_right: **[Update dependencies - NethServer 8.9](https://github.com/NethServer/dev/issues/7967)** (#7143) by *DavidePrincipi* (Created: 2026-04-20, Updated: 2026-05-27T07:57:34Z)
