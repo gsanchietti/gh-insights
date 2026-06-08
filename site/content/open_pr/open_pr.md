@@ -1,6 +1,6 @@
 +++
 title = 'Open Pull Requests'
-date = 2026-06-07
+date = 2026-06-08
 +++
 
 ## Organization: nethserver
@@ -23,15 +23,11 @@ date = 2026-06-07
 
 ### NethServer/nethsecurity 5 
 
--   **[feat(geoblocking): geo ip management in threat shield ip](https://github.com/NethServer/nethsecurity/pull/1714)** by *m-dilorenzi* - Reviewers: *Tbaile* - Created at: 2026-06-05T15:18:43Z
--   **[fix(telegraf): services, handle special exit codes](https://github.com/NethServer/nethsecurity/pull/1713)** by *gsanchietti* - Reviewers: *Tbaile, m-dilorenzi* - Created at: 2026-06-05T14:14:59Z
+- :eyes:  **[feat(geoblocking): geo ip management in threat shield ip](https://github.com/NethServer/nethsecurity/pull/1714)** by *m-dilorenzi* - Reviewers: *None* - Created at: 2026-06-05T15:18:43Z
+- :eyes:  **[fix(telegraf): services, handle special exit codes](https://github.com/NethServer/nethsecurity/pull/1713)** by *gsanchietti* - Reviewers: *None* - Created at: 2026-06-05T14:14:59Z
 -   **[ci: updated branches and dev process](https://github.com/NethServer/nethsecurity/pull/1704)** by *Tbaile* - Reviewers: *m-dilorenzi* - Created at: 2026-06-03T10:33:55Z
 - :eyes: :zzz: **[Nethsecurity 8.8.0](https://github.com/NethServer/nethsecurity/pull/1642)** by *gsanchietti* - Reviewers: *None* - Created at: 2026-05-05T13:31:12Z
 - :eyes: :zzz: **[build: added softflowd](https://github.com/NethServer/nethsecurity/pull/1453)** by *Tbaile* - Reviewers: *None* - Created at: 2025-12-10T11:48:14Z
-
-### NethServer/ns8-roundcubemail 1 
-
-- :eyes:  **[Update Roundcube image reference and metadata handling](https://github.com/NethServer/ns8-roundcubemail/pull/105)** by *stephdl* - Reviewers: *None* - Created at: 2026-05-29T08:35:20Z
 
 ### NethServer/phonehome-server 1 
 
@@ -125,8 +121,8 @@ date = 2026-06-07
 - :eyes:  **[Fias hotel log and fix](https://github.com/nethesis/ns8-nethvoice/pull/827)** by *Stell0* - Reviewers: *None* - Created at: 2026-05-12T14:25:05Z
 - :eyes:  **[fix(logging): fix nethhotel logging](https://github.com/nethesis/ns8-nethvoice/pull/826)** by *Stell0* - Reviewers: *None* - Created at: 2026-05-12T13:36:49Z
 - :eyes:  **[fix: update NethCTI image tag and commit argument for build process](https://github.com/nethesis/ns8-nethvoice/pull/822)** by *tommaso-ascani* - Reviewers: *None* - Created at: 2026-05-11T12:10:28Z
--   **[fix: RTP/UDP ports allocation](https://github.com/nethesis/ns8-nethvoice/pull/817)** by *tommaso-ascani* - Reviewers: *Stell0, Amygos* - Created at: 2026-05-08T11:06:59Z
-- :eyes:  **[fix(logrotate): remove group write access for log dirs](https://github.com/nethesis/ns8-nethvoice/pull/816)** by *Stell0* - Reviewers: *None* - Created at: 2026-05-08T08:48:51Z
+-  :zzz: **[fix: RTP/UDP ports allocation](https://github.com/nethesis/ns8-nethvoice/pull/817)** by *tommaso-ascani* - Reviewers: *Stell0, Amygos* - Created at: 2026-05-08T11:06:59Z
+- :eyes: :zzz: **[fix(logrotate): remove group write access for log dirs](https://github.com/nethesis/ns8-nethvoice/pull/816)** by *Stell0* - Reviewers: *None* - Created at: 2026-05-08T08:48:51Z
 - :eyes: :zzz: **[fix(voicemail): increase voicemessages callerid max length](https://github.com/nethesis/ns8-nethvoice/pull/813)** by *Stell0* - Reviewers: *None* - Created at: 2026-05-07T06:22:43Z
 - :eyes: :zzz: **[Adding MultiWire and Vianova as provider VoIP](https://github.com/nethesis/ns8-nethvoice/pull/808)** by *andrea-marchionni* - Reviewers: *None* - Created at: 2026-05-04T11:06:50Z
 - :eyes: :zzz: **[fix(transcriptions): update satellite transcription handling](https://github.com/nethesis/ns8-nethvoice/pull/781)** by *tommaso-ascani* - Reviewers: *None* - Created at: 2026-04-14T10:29:41Z
@@ -175,7 +171,7 @@ date = 2026-06-07
 
 ### nethesis/nethcti-middleware 4 
 
-- :eyes:  **[chore: added missing phonebook endpoints](https://github.com/nethesis/nethcti-middleware/pull/53)** by *tonyco97* - Reviewers: *None* - Created at: 2026-05-25T11:58:56Z
+-   **[chore: added missing phonebook endpoints](https://github.com/nethesis/nethcti-middleware/pull/53)** by *tonyco97* - Reviewers: *tommaso-ascani* - Created at: 2026-05-25T11:58:56Z
 - :eyes: :zzz: **[fix: update API to support linked IDs for transcription and summary](https://github.com/nethesis/nethcti-middleware/pull/44)** by *tommaso-ascani* - Reviewers: *None* - Created at: 2026-04-14T10:17:21Z
 - :eyes: :zzz: **[feat: add support user authentication for FreePBX CTI APIs](https://github.com/nethesis/nethcti-middleware/pull/42)** by *edospadoni* - Reviewers: *None* - Created at: 2026-03-30T08:59:50Z
 -  :zzz: **[feat: add GET /chat endpoint](https://github.com/nethesis/nethcti-middleware/pull/16)** by *gsanchietti* - Reviewers: *tommaso-ascani* - Created at: 2025-12-17T10:53:42Z
