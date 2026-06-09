@@ -2,7 +2,7 @@
 
 title = 'To be released soon'
 
-date = 2026-06-08
+date = 2026-06-09
 
 +++
 
@@ -10,17 +10,17 @@ date = 2026-06-08
 
 - [Show storage usage in node selection](https://github.com/NethServer/dev/issues/7992) (#7375) by DavidePrincipi (Created: 2026-05-05T16:35:20Z, Updated: 2026-05-28T08:09:55Z)
 
-- [Bug: post-restore script 20configure fails on line 39 - Nextcloud database not ready](https://github.com/NethServer/dev/issues/7988) (#7375) by stephdl (Created: 2026-05-04T10:59:40Z, Updated: 2026-05-20T14:45:24Z)
-
-- [Upgrade Nextcloud to version v33.0.2](https://github.com/NethServer/dev/issues/7986) (#7375) by stephdl (Created: 2026-04-30T10:20:33Z, Updated: 2026-05-22T14:06:11Z)
-
 - [Restore backup schedule within disaster recovery](https://github.com/NethServer/dev/issues/7883) (#7375) by DavidePrincipi (Created: 2026-02-18T18:38:38Z, Updated: 2026-05-22T14:06:10Z)
 
 - [Agent restart failed after concurrent update-core runs](https://github.com/NethServer/dev/issues/7877) (#7375) by DavidePrincipi (Created: 2026-02-16T14:46:37Z, Updated: 2026-05-20T08:16:27Z)
 
 - [Configurable shell (nologin) for module service users](https://github.com/NethServer/dev/issues/7844) (#7375) by DavidePrincipi (Created: 2026-01-30T17:04:00Z, Updated: 2026-05-22T14:06:10Z)
 
+- [Centralized Backup Orchestration and Rclone-based Gateway](https://github.com/NethServer/dev/issues/7814) (#7375) by DavidePrincipi (Created: 2026-01-12T14:47:43Z, Updated: 2026-06-08T17:52:41Z)
+
 - [No cluster-backup in destinations](https://github.com/NethServer/dev/issues/7677) (#7375) by DavidePrincipi (Created: 2025-10-08T09:09:24Z, Updated: 2026-05-22T14:06:09Z)
+
+- [Backup Samba repo validation](https://github.com/NethServer/dev/issues/7382) (#7375) by DavidePrincipi (Created: 2025-04-07T15:16:58Z, Updated: 2026-06-08T17:53:36Z)
 
 - [Samba logs flooded by Decryption Failed](https://github.com/NethServer/dev/issues/7375) (#7375) by DavidePrincipi (Created: 2025-04-03T11:01:21Z, Updated: 2026-05-29T16:43:53Z)
 

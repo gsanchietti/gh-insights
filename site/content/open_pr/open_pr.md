@@ -1,33 +1,32 @@
 +++
 title = 'Open Pull Requests'
-date = 2026-06-08
+date = 2026-06-09
 +++
 
 ## Organization: nethserver
 
-### NethServer/ns8-core 1 
+### NethServer/ns8-core 2 
 
+- :eyes:  **[fix: backup .local/state before creating the symlink](https://github.com/NethServer/ns8-core/pull/1198)** by *DavidePrincipi* - Reviewers: *None* - Created at: 2026-06-08T12:53:25Z
 -  :zzz: **[docs: add NethVoice release procedure addendum](https://github.com/NethServer/ns8-core/pull/1136)** by *Copilot* - Reviewers: *Amygos* - Created at: 2026-03-30T14:06:18Z
 
 ### NethServer/ns8-kickstart 1 
 
 - :eyes:  **[docs: Add repository guidance](https://github.com/NethServer/ns8-kickstart/pull/121)** by *Stell0* - Reviewers: *None* - Created at: 2026-06-01T12:47:20Z
 
-### NethServer/ns8-nextcloud 1 
-
-- :eyes: :zzz: **[Update minimum version label from 1.5.0 to 1.6.0](https://github.com/NethServer/ns8-nextcloud/pull/204)** by *mrmarkuz* - Reviewers: *None* - Created at: 2026-04-01T14:42:09Z
-
 ### NethServer/ns8-traefik 1 
 
 - :eyes: :zzz: **[fix: cryptography 45 deprecation warning](https://github.com/NethServer/ns8-traefik/pull/120)** by *DavidePrincipi* - Reviewers: *None* - Created at: 2025-10-28T08:48:29Z
 
-### NethServer/nethsecurity 5 
+### NethServer/nethsecurity 3 
 
+-   **[Improve remote backup (cosmetic)](https://github.com/NethServer/nethsecurity/pull/1717)** by *gsanchietti* - Reviewers: *Tbaile* - Created at: 2026-06-08T15:20:58Z
 - :eyes:  **[feat(geoblocking): geo ip management in threat shield ip](https://github.com/NethServer/nethsecurity/pull/1714)** by *m-dilorenzi* - Reviewers: *None* - Created at: 2026-06-05T15:18:43Z
-- :eyes:  **[fix(telegraf): services, handle special exit codes](https://github.com/NethServer/nethsecurity/pull/1713)** by *gsanchietti* - Reviewers: *None* - Created at: 2026-06-05T14:14:59Z
--   **[ci: updated branches and dev process](https://github.com/NethServer/nethsecurity/pull/1704)** by *Tbaile* - Reviewers: *m-dilorenzi* - Created at: 2026-06-03T10:33:55Z
-- :eyes: :zzz: **[Nethsecurity 8.8.0](https://github.com/NethServer/nethsecurity/pull/1642)** by *gsanchietti* - Reviewers: *None* - Created at: 2026-05-05T13:31:12Z
 - :eyes: :zzz: **[build: added softflowd](https://github.com/NethServer/nethsecurity/pull/1453)** by *Tbaile* - Reviewers: *None* - Created at: 2025-12-10T11:48:14Z
+
+### NethServer/ns8-mail 1 
+
+- :eyes:  **[fix: restore fails if spam_folder is empty](https://github.com/NethServer/ns8-mail/pull/267)** by *stephdl* - Reviewers: *None* - Created at: 2026-06-08T15:13:51Z
 
 ### NethServer/phonehome-server 1 
 
@@ -113,8 +112,9 @@ date = 2026-06-08
 - :eyes:  **[fix(cdr): prevent cross-period contamination in partition tables](https://github.com/nethesis/nethvoice-report/pull/211)** by *edospadoni* - Reviewers: *None* - Created at: 2026-05-27T10:44:46Z
 - :eyes: :zzz: **[feat: add cookie support for support proxy integration](https://github.com/nethesis/nethvoice-report/pull/209)** by *edospadoni* - Reviewers: *None* - Created at: 2026-03-30T08:57:52Z
 
-### nethesis/ns8-nethvoice 14 
+### nethesis/ns8-nethvoice 15 
 
+- :eyes:  **[chore(deps): update ghcr.io/nethesis/nethvoice-cti docker tag to callOnMissingOperatorPermission](https://github.com/nethesis/ns8-nethvoice/pull/857)** by *tonyco97* - Reviewers: *None* - Created at: 2026-06-08T09:38:44Z
 - :eyes:  **[fix(reports): bump nethvoice-report and wire CDR cleanup task](https://github.com/nethesis/ns8-nethvoice/pull/843)** by *edospadoni* - Reviewers: *None* - Created at: 2026-05-27T10:45:00Z
 - :eyes:  **[feat(trunks): Add trunk for ElevenLabs](https://github.com/nethesis/ns8-nethvoice/pull/840)** by *Stell0* - Reviewers: *None* - Created at: 2026-05-26T12:49:52Z
 - :eyes:  **[More sharing options for contacts](https://github.com/nethesis/ns8-nethvoice/pull/833)** by *tonyco97* - Reviewers: *None* - Created at: 2026-05-19T12:59:30Z
@@ -130,8 +130,9 @@ date = 2026-06-08
 - :eyes: :zzz: **[fix(janus): fix one-way audio after long SIP hold](https://github.com/nethesis/ns8-nethvoice/pull/743)** by *edospadoni* - Reviewers: *None* - Created at: 2026-03-31T07:49:10Z
 -  :zzz: **[Matrix integration](https://github.com/nethesis/ns8-nethvoice/pull/627)** by *gsanchietti* - Reviewers: *Amygos* - Created at: 2025-12-10T11:32:50Z
 
-### nethesis/nethvoice-cti 3 
+### nethesis/nethvoice-cti 4 
 
+- :eyes:  **[fix: avoid error on presence panel permission missing](https://github.com/nethesis/nethvoice-cti/pull/505)** by *tonyco97* - Reviewers: *None* - Created at: 2026-06-08T09:08:53Z
 - :eyes:  **[fix: better phonebook sharing](https://github.com/nethesis/nethvoice-cti/pull/495)** by *tonyco97* - Reviewers: *None* - Created at: 2026-05-19T12:55:29Z
 -  :zzz: **[fix: update summary handling to use linked IDs instead of unique IDs](https://github.com/nethesis/nethvoice-cti/pull/467)** by *tommaso-ascani* - Reviewers: *tonyco97* - Created at: 2026-04-14T10:17:15Z
 - :eyes: :zzz: **[feat: enhance call disposition handling with new utility functions](https://github.com/nethesis/nethvoice-cti/pull/457)** by *tommaso-ascani* - Reviewers: *None* - Created at: 2026-04-03T17:36:17Z
