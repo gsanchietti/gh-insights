@@ -2,7 +2,7 @@
 
 title = 'To be released soon'
 
-date = 2026-06-09
+date = 2026-06-10
 
 +++
 
@@ -14,13 +14,15 @@ date = 2026-06-09
 
 - [Agent restart failed after concurrent update-core runs](https://github.com/NethServer/dev/issues/7877) (#7375) by DavidePrincipi (Created: 2026-02-16T14:46:37Z, Updated: 2026-05-20T08:16:27Z)
 
+- [Validate write permissions on backup destination](https://github.com/NethServer/dev/issues/7854) (#7375) by DavidePrincipi (Created: 2026-02-10T07:08:59Z, Updated: 2026-06-10T07:55:48Z)
+
 - [Configurable shell (nologin) for module service users](https://github.com/NethServer/dev/issues/7844) (#7375) by DavidePrincipi (Created: 2026-01-30T17:04:00Z, Updated: 2026-05-22T14:06:10Z)
 
-- [Centralized Backup Orchestration and Rclone-based Gateway](https://github.com/NethServer/dev/issues/7814) (#7375) by DavidePrincipi (Created: 2026-01-12T14:47:43Z, Updated: 2026-06-08T17:52:41Z)
+- [Centralized Backup Orchestration and Rclone-based Gateway](https://github.com/NethServer/dev/issues/7814) (#7375) by DavidePrincipi (Created: 2026-01-12T14:47:43Z, Updated: 2026-06-09T16:12:47Z)
 
 - [No cluster-backup in destinations](https://github.com/NethServer/dev/issues/7677) (#7375) by DavidePrincipi (Created: 2025-10-08T09:09:24Z, Updated: 2026-05-22T14:06:09Z)
 
-- [Backup Samba repo validation](https://github.com/NethServer/dev/issues/7382) (#7375) by DavidePrincipi (Created: 2025-04-07T15:16:58Z, Updated: 2026-06-08T17:53:36Z)
+- [Backup Samba repo validation](https://github.com/NethServer/dev/issues/7382) (#7375) by DavidePrincipi (Created: 2025-04-07T15:16:58Z, Updated: 2026-06-09T16:12:56Z)
 
 - [Samba logs flooded by Decryption Failed](https://github.com/NethServer/dev/issues/7375) (#7375) by DavidePrincipi (Created: 2025-04-03T11:01:21Z, Updated: 2026-05-29T16:43:53Z)
 
