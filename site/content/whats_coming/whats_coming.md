@@ -2,7 +2,7 @@
 
 title = 'To be released soon'
 
-date = 2026-06-10
+date = 2026-06-11
 
 +++
 
@@ -14,7 +14,7 @@ date = 2026-06-10
 
 - [Agent restart failed after concurrent update-core runs](https://github.com/NethServer/dev/issues/7877) (#7375) by DavidePrincipi (Created: 2026-02-16T14:46:37Z, Updated: 2026-05-20T08:16:27Z)
 
-- [Validate write permissions on backup destination](https://github.com/NethServer/dev/issues/7854) (#7375) by DavidePrincipi (Created: 2026-02-10T07:08:59Z, Updated: 2026-06-10T07:55:48Z)
+- [Validate write permissions on backup destination](https://github.com/NethServer/dev/issues/7854) (#7375) by DavidePrincipi (Created: 2026-02-10T07:08:59Z, Updated: 2026-06-10T16:25:10Z)
 
 - [Configurable shell (nologin) for module service users](https://github.com/NethServer/dev/issues/7844) (#7375) by DavidePrincipi (Created: 2026-01-30T17:04:00Z, Updated: 2026-05-22T14:06:10Z)
 
