@@ -2,13 +2,15 @@
 
 title = 'To be released soon'
 
-date = 2026-06-11
+date = 2026-06-12
 
 +++
 
 ### NethServer
 
 - [Show storage usage in node selection](https://github.com/NethServer/dev/issues/7992) (#7375) by DavidePrincipi (Created: 2026-05-05T16:35:20Z, Updated: 2026-05-28T08:09:55Z)
+
+- [Add Rclone provider in backup destination creation workflow](https://github.com/NethServer/dev/issues/7966) (#7375) by DavidePrincipi (Created: 2026-04-17T09:46:26Z, Updated: 2026-06-11T14:00:18Z)
 
 - [Restore backup schedule within disaster recovery](https://github.com/NethServer/dev/issues/7883) (#7375) by DavidePrincipi (Created: 2026-02-18T18:38:38Z, Updated: 2026-05-22T14:06:10Z)
 

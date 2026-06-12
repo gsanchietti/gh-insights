@@ -1,13 +1,13 @@
 +++
 title = 'Need testing (11)'
-date = 2026-06-11
+date = 2026-06-12
 +++
 
 ## NethServer
+- **[Disable dnf-automatic on subscribed nodes](https://github.com/NethServer/dev/issues/8034)** (#7673) by *DavidePrincipi* (Created: 2026-06-10, Updated: 2026-06-11T10:36:08Z)
 - :point_right: **[Dnf repository credentials in system log](https://github.com/NethServer/dev/issues/8013)** (#7673) by *DavidePrincipi* (Created: 2026-05-20, Updated: 2026-06-04T13:26:09Z)
 - :point_right: **[Password never expires: OpenLDAP support for individual users](https://github.com/NethServer/dev/issues/7981)** (#7673) by *DavidePrincipi* (Created: 2026-04-23, Updated: 2026-06-09T16:22:08Z)
 - :point_right: **[Update dependencies - NethServer 8.9](https://github.com/NethServer/dev/issues/7967)** (#7673) by *DavidePrincipi* (Created: 2026-04-20, Updated: 2026-05-27T07:57:34Z)
-- :point_right: **[Add Rclone provider in backup destination creation workflow](https://github.com/NethServer/dev/issues/7966)** (#7673) by *DavidePrincipi* (Created: 2026-04-17, Updated: 2026-06-03T07:35:10Z)
 - :point_right: **[Inital root password of prebuilt images](https://github.com/NethServer/dev/issues/7673)** (#7673) by *nrauso* (Created: 2025-10-02, Updated: 2026-05-21T18:13:53Z)
 
 ## NethVoice
@@ -20,5 +20,5 @@ date = 2026-06-11
 
 ## 8.8.0
 - :point_right: **[Monitoring: adding long time storage for metrics](https://github.com/NethServer/nethsecurity/issues/1656)** (#1547) by *Tbaile* (Created: 2026-05-12, Updated: 2026-05-15T13:19:16Z)
-- :point_right: **[ns-ha: possible race condition if switches happen close to one another ](https://github.com/NethServer/nethsecurity/issues/1547)** (#1547) by *Tbaile* (Created: 2026-03-03, Updated: 2026-06-11T07:45:48Z)
+- :point_right: **[ns-ha: possible race condition if switches happen close to one another ](https://github.com/NethServer/nethsecurity/issues/1547)** (#1547) by *Tbaile* (Created: 2026-03-03, Updated: 2026-06-12T06:33:17Z)
 
