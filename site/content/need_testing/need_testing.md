@@ -1,6 +1,6 @@
 +++
 title = 'Need testing (11)'
-date = 2026-06-12
+date = 2026-06-13
 +++
 
 ## NethServer
@@ -20,5 +20,5 @@ date = 2026-06-12
 
 ## 8.8.0
 - :point_right: **[Monitoring: adding long time storage for metrics](https://github.com/NethServer/nethsecurity/issues/1656)** (#1547) by *Tbaile* (Created: 2026-05-12, Updated: 2026-05-15T13:19:16Z)
-- :point_right: **[ns-ha: possible race condition if switches happen close to one another ](https://github.com/NethServer/nethsecurity/issues/1547)** (#1547) by *Tbaile* (Created: 2026-03-03, Updated: 2026-06-12T06:33:17Z)
+- :point_right: **[ns-ha: possible race condition if switches happen close to one another ](https://github.com/NethServer/nethsecurity/issues/1547)** (#1547) by *Tbaile* (Created: 2026-03-03, Updated: 2026-06-12T11:32:53Z)
 

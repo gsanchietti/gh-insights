@@ -1,6 +1,6 @@
 +++
 title = 'Open Pull Requests'
-date = 2026-06-12
+date = 2026-06-13
 +++
 
 ## Organization: nethserver
@@ -25,9 +25,8 @@ date = 2026-06-12
 
 -   **[Add leave-replica action with input validation](https://github.com/NethServer/ns8-openldap/pull/134)** by *stephdl* - Reviewers: *DavidePrincipi* - Created at: 2026-06-10T10:39:06Z
 
-### NethServer/nethsecurity 2 
+### NethServer/nethsecurity 1 
 
--   **[feat(geoblocking): geo ip management in threat shield ip](https://github.com/NethServer/nethsecurity/pull/1714)** by *m-dilorenzi* - Reviewers: *Tbaile* - Created at: 2026-06-05T15:18:43Z
 - :eyes: :zzz: **[build: added softflowd](https://github.com/NethServer/nethsecurity/pull/1453)** by *Tbaile* - Reviewers: *None* - Created at: 2025-12-10T11:48:14Z
 
 ### NethServer/ns8-mail 1 
