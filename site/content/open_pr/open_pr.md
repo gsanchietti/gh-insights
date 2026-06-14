@@ -1,6 +1,6 @@
 +++
 title = 'Open Pull Requests'
-date = 2026-06-13
+date = 2026-06-14
 +++
 
 ## Organization: nethserver
@@ -108,7 +108,7 @@ date = 2026-06-13
 
 ### nethesis/tancredi 2 
 
-- :eyes:  **[Gigaset 825/855](https://github.com/nethesis/tancredi/pull/374)** by *andrea-marchionni* - Reviewers: *None* - Created at: 2026-05-15T07:16:46Z
+- :eyes: :zzz: **[Gigaset 825/855](https://github.com/nethesis/tancredi/pull/374)** by *andrea-marchionni* - Reviewers: *None* - Created at: 2026-05-15T07:16:46Z
 - :eyes: :zzz: **[Add configuration file for Fanvil V50G model](https://github.com/nethesis/tancredi/pull/373)** by *viktec* - Reviewers: *None* - Created at: 2026-05-12T10:50:03Z
 
 ### nethesis/nethvoice-report 2 
