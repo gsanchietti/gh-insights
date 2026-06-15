@@ -1,16 +1,15 @@
 +++
 title = 'Open Pull Requests'
-date = 2026-06-14
+date = 2026-06-15
 +++
 
 ## Organization: nethserver
 
-### NethServer/ns8-core 5 
+### NethServer/ns8-core 4 
 
 - :eyes:  **[Add regular expression support for log filtering](https://github.com/NethServer/ns8-core/pull/1204)** by *stephdl* - Reviewers: *None* - Created at: 2026-06-11T12:17:22Z
 - :eyes:  **[Enhance LDAP provider handling during node removal](https://github.com/NethServer/ns8-core/pull/1201)** by *stephdl* - Reviewers: *None* - Created at: 2026-06-10T10:22:23Z
 - :eyes:  **[feat: run update-core on cluster init and restore](https://github.com/NethServer/ns8-core/pull/1199)** by *DavidePrincipi* - Reviewers: *None* - Created at: 2026-06-09T17:25:53Z
-- :eyes:  **[fix: backup .local/state before creating the symlink](https://github.com/NethServer/ns8-core/pull/1198)** by *DavidePrincipi* - Reviewers: *None* - Created at: 2026-06-08T12:53:25Z
 -  :zzz: **[docs: add NethVoice release procedure addendum](https://github.com/NethServer/ns8-core/pull/1136)** by *Copilot* - Reviewers: *Amygos* - Created at: 2026-03-30T14:06:18Z
 
 ### NethServer/ns8-kickstart 1 
@@ -37,8 +36,9 @@ date = 2026-06-14
 
 - :eyes: :zzz: **[chore(master): release 1.5.1](https://github.com/NethServer/phonehome-server/pull/138)** by *Tbaile* - Reviewers: *None* - Created at: 2025-11-15T06:38:38Z
 
-### NethServer/ns8-docs 6 
+### NethServer/ns8-docs 7 
 
+-   **[fix: remove odoo documentation](https://github.com/NethServer/ns8-docs/pull/242)** by *DavidePrincipi* - Reviewers: *nrauso* - Created at: 2026-06-15T08:37:59Z
 -   **[docs: add disk and partitions section to system requirements](https://github.com/NethServer/ns8-docs/pull/241)** by *DavidePrincipi* - Reviewers: *nrauso* - Created at: 2026-06-11T17:03:32Z
 -   **[docs: note pre-built image has swap preconfigured](https://github.com/NethServer/ns8-docs/pull/240)** by *DavidePrincipi* - Reviewers: *nrauso* - Created at: 2026-06-11T16:18:02Z
 -   **[docs: clarify distribution mixing requirement](https://github.com/NethServer/ns8-docs/pull/239)** by *DavidePrincipi* - Reviewers: *gsanchietti, nrauso* - Created at: 2026-06-11T16:06:06Z
@@ -63,8 +63,13 @@ date = 2026-06-14
 
 - :eyes:  **[chore(main): release 1.2.8](https://github.com/NethServer/ns8-user-manager/pull/185)** by *Tbaile* - Reviewers: *None* - Created at: 2026-06-03T21:09:08Z
 
-### NethServer/nethlink 1 
+### NethServer/ns8-nethforge 1 
 
+- :eyes:  **[fix: remove odoo application](https://github.com/NethServer/ns8-nethforge/pull/43)** by *DavidePrincipi* - Reviewers: *None* - Created at: 2026-06-15T08:36:17Z
+
+### NethServer/nethlink 2 
+
+-   **[fix: new Layout for phonebook section](https://github.com/NethServer/nethlink/pull/161)** by *tonyco97* - Reviewers: *tommaso-ascani* - Created at: 2026-06-11T15:04:13Z
 - :eyes: :zzz: **[feat: added transcription for NethLink](https://github.com/NethServer/nethlink/pull/104)** by *tonyco97* - Reviewers: *None* - Created at: 2026-03-13T09:29:26Z
 
 ### NethServer/my 1 
@@ -100,11 +105,11 @@ date = 2026-06-14
 
 ### nethesis/nethcti-app-android 1 
 
--  :zzz: **[Removed old notificator](https://github.com/nethesis/nethcti-app-android/pull/30)** by *mirkopruiti* - Reviewers: *b9874e* - Created at: 2023-08-02T09:35:24Z
+-  :zzz: **[Removed old notificator](https://github.com/nethesis/nethcti-app-android/pull/30)** by *mirkopruiti* - Reviewers: *61f7b7437262085c97876892ddf9c0d8* - Created at: 2023-08-02T09:35:24Z
 
 ### nethesis/nethcti-app-iphone 1 
 
--  :zzz: **[Removed old notification service usage](https://github.com/nethesis/nethcti-app-iphone/pull/37)** by *NicolaMrAPPs* - Reviewers: *b9874e* - Created at: 2023-08-02T09:19:30Z
+-  :zzz: **[Removed old notification service usage](https://github.com/nethesis/nethcti-app-iphone/pull/37)** by *NicolaMrAPPs* - Reviewers: *61f7b7437262085c97876892ddf9c0d8* - Created at: 2023-08-02T09:19:30Z
 
 ### nethesis/tancredi 2 
 
@@ -138,7 +143,7 @@ date = 2026-06-14
 
 ### nethesis/phone-island 1 
 
-- :eyes:  **[fix: better displayName on videosource](https://github.com/nethesis/phone-island/pull/234)** by *tonyco97* - Reviewers: *None* - Created at: 2026-05-15T10:06:19Z
+- :eyes: :zzz: **[fix: better displayName on videosource](https://github.com/nethesis/phone-island/pull/234)** by *tonyco97* - Reviewers: *None* - Created at: 2026-05-15T10:06:19Z
 
 ### nethesis/ns8-nethvoice-proxy 7 
 
