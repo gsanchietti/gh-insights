@@ -1,6 +1,6 @@
 +++
 title = 'Open Pull Requests'
-date = 2026-06-15
+date = 2026-06-16
 +++
 
 ## Organization: nethserver
@@ -16,32 +16,42 @@ date = 2026-06-15
 
 - :eyes:  **[docs: Add repository guidance](https://github.com/NethServer/ns8-kickstart/pull/121)** by *Stell0* - Reviewers: *None* - Created at: 2026-06-01T12:47:20Z
 
+### NethServer/ns8-nextcloud 1 
+
+-   **[Improve Nextcloud upgrade and maintenance handling](https://github.com/NethServer/ns8-nextcloud/pull/228)** by *stephdl* - Reviewers: *DavidePrincipi* - Created at: 2026-06-15T16:20:57Z
+
 ### NethServer/ns8-traefik 1 
 
 - :eyes: :zzz: **[fix: cryptography 45 deprecation warning](https://github.com/NethServer/ns8-traefik/pull/120)** by *DavidePrincipi* - Reviewers: *None* - Created at: 2025-10-28T08:48:29Z
 
-### NethServer/ns8-openldap 1 
+### NethServer/ns8-openldap 2 
 
+- :eyes:  **[feat(import-module): apply neverexpires ppolicy](https://github.com/NethServer/ns8-openldap/pull/136)** by *DavidePrincipi* - Reviewers: *None* - Created at: 2026-06-15T14:02:08Z
 -   **[Add leave-replica action with input validation](https://github.com/NethServer/ns8-openldap/pull/134)** by *stephdl* - Reviewers: *DavidePrincipi* - Created at: 2026-06-10T10:39:06Z
 
-### NethServer/nethsecurity 1 
+### NethServer/nethserver-ns8-migration 1 
 
+- :eyes:  **[fix: preserve never-expires password accounts in exported LDIF](https://github.com/NethServer/nethserver-ns8-migration/pull/127)** by *DavidePrincipi* - Reviewers: *None* - Created at: 2026-06-15T13:58:36Z
+
+### NethServer/nethsecurity 2 
+
+-   **[fix: removing admin tokens when deleted](https://github.com/NethServer/nethsecurity/pull/1728)** by *Tbaile* - Reviewers: *gsanchietti* - Created at: 2026-06-16T08:09:37Z
 - :eyes: :zzz: **[build: added softflowd](https://github.com/NethServer/nethsecurity/pull/1453)** by *Tbaile* - Reviewers: *None* - Created at: 2025-12-10T11:48:14Z
 
 ### NethServer/ns8-mail 1 
 
 - :eyes:  **[fix: restore fails if spam_folder is empty](https://github.com/NethServer/ns8-mail/pull/267)** by *stephdl* - Reviewers: *None* - Created at: 2026-06-08T15:13:51Z
 
+### NethServer/python3-nethsec 1 
+
+-   **[feat(inventory): added count of admins inside the system](https://github.com/NethServer/python3-nethsec/pull/129)** by *Tbaile* - Reviewers: *gsanchietti* - Created at: 2026-06-16T07:24:00Z
+
 ### NethServer/phonehome-server 1 
 
 - :eyes: :zzz: **[chore(master): release 1.5.1](https://github.com/NethServer/phonehome-server/pull/138)** by *Tbaile* - Reviewers: *None* - Created at: 2025-11-15T06:38:38Z
 
-### NethServer/ns8-docs 7 
+### NethServer/ns8-docs 3 
 
--   **[fix: remove odoo documentation](https://github.com/NethServer/ns8-docs/pull/242)** by *DavidePrincipi* - Reviewers: *nrauso* - Created at: 2026-06-15T08:37:59Z
--   **[docs: add disk and partitions section to system requirements](https://github.com/NethServer/ns8-docs/pull/241)** by *DavidePrincipi* - Reviewers: *nrauso* - Created at: 2026-06-11T17:03:32Z
--   **[docs: note pre-built image has swap preconfigured](https://github.com/NethServer/ns8-docs/pull/240)** by *DavidePrincipi* - Reviewers: *nrauso* - Created at: 2026-06-11T16:18:02Z
--   **[docs: clarify distribution mixing requirement](https://github.com/NethServer/ns8-docs/pull/239)** by *DavidePrincipi* - Reviewers: *gsanchietti, nrauso* - Created at: 2026-06-11T16:06:06Z
 -   **[feat: password never expires for OpenLDAP](https://github.com/NethServer/ns8-docs/pull/236)** by *DavidePrincipi* - Reviewers: *nrauso* - Created at: 2026-05-21T14:51:31Z
 - :eyes: :zzz: **[Update install.rst: warning for pre-built images](https://github.com/NethServer/ns8-docs/pull/233)** by *nrauso* - Reviewers: *None* - Created at: 2026-05-05T15:36:18Z
 -  :zzz: **[Explain generated root password](https://github.com/NethServer/ns8-docs/pull/231)** by *mrmarkuz* - Reviewers: *DavidePrincipi* - Created at: 2026-04-16T13:45:56Z
@@ -50,9 +60,13 @@ date = 2026-06-15
 
 - :eyes:  **[Enhance Traefik image caching and update agetty prompt](https://github.com/NethServer/ns8-images/pull/13)** by *DavidePrincipi* - Reviewers: *None* - Created at: 2026-05-28T15:58:36Z
 
+### NethServer/nethsecurity-ui 1 
+
+-   **[fix(monitoring): using correct label for netifyd analyzed traffic](https://github.com/NethServer/nethsecurity-ui/pull/782)** by *Tbaile* - Reviewers: *gsanchietti, andre8244* - Created at: 2026-06-16T07:36:22Z
+
 ### NethServer/nethsecurity-docs 2 
 
-- :eyes:  **[Document interaction with port forward rules](https://github.com/NethServer/nethsecurity-docs/pull/280)** by *cotosso* - Reviewers: *None* - Created at: 2026-06-11T14:50:20Z
+-   **[Admin users new page](https://github.com/NethServer/nethsecurity-docs/pull/281)** by *cotosso* - Reviewers: *filippocarletti, gsanchietti, Tbaile, francio87* - Created at: 2026-06-15T15:32:30Z
 -  :zzz: **[feat: added softflowd doc](https://github.com/NethServer/nethsecurity-docs/pull/227)** by *Tbaile* - Reviewers: *cotosso* - Created at: 2026-03-05T09:29:42Z
 
 ### NethServer/ns8-imapsync 1 
@@ -63,13 +77,9 @@ date = 2026-06-15
 
 - :eyes:  **[chore(main): release 1.2.8](https://github.com/NethServer/ns8-user-manager/pull/185)** by *Tbaile* - Reviewers: *None* - Created at: 2026-06-03T21:09:08Z
 
-### NethServer/ns8-nethforge 1 
-
-- :eyes:  **[fix: remove odoo application](https://github.com/NethServer/ns8-nethforge/pull/43)** by *DavidePrincipi* - Reviewers: *None* - Created at: 2026-06-15T08:36:17Z
-
 ### NethServer/nethlink 2 
 
--   **[fix: new Layout for phonebook section](https://github.com/NethServer/nethlink/pull/161)** by *tonyco97* - Reviewers: *tommaso-ascani* - Created at: 2026-06-11T15:04:13Z
+- :eyes:  **[fix: new Layout for phonebook section](https://github.com/NethServer/nethlink/pull/161)** by *tonyco97* - Reviewers: *None* - Created at: 2026-06-11T15:04:13Z
 - :eyes: :zzz: **[feat: added transcription for NethLink](https://github.com/NethServer/nethlink/pull/104)** by *tonyco97* - Reviewers: *None* - Created at: 2026-03-13T09:29:26Z
 
 ### NethServer/my 1 
@@ -121,8 +131,12 @@ date = 2026-06-15
 - :eyes:  **[fix(cdr): prevent cross-period contamination in partition tables](https://github.com/nethesis/nethvoice-report/pull/211)** by *edospadoni* - Reviewers: *None* - Created at: 2026-05-27T10:44:46Z
 - :eyes: :zzz: **[feat: add cookie support for support proxy integration](https://github.com/nethesis/nethvoice-report/pull/209)** by *edospadoni* - Reviewers: *None* - Created at: 2026-03-30T08:57:52Z
 
-### nethesis/ns8-nethvoice 12 
+### nethesis/ns8-nethvoice 16 
 
+- :eyes:  **[feat(satellite): Check stt permission](https://github.com/nethesis/ns8-nethvoice/pull/863)** by *Stell0* - Reviewers: *None* - Created at: 2026-06-16T07:13:33Z
+- :eyes:  **[chore(build): pin middleware to issue_8039 for QA](https://github.com/nethesis/ns8-nethvoice/pull/862)** by *tommaso-ascani* - Reviewers: *None* - Created at: 2026-06-16T07:09:41Z
+- :eyes:  **[chore(build): pin nethcti-server to issue_8038 for QA](https://github.com/nethesis/ns8-nethvoice/pull/861)** by *tommaso-ascani* - Reviewers: *None* - Created at: 2026-06-16T07:09:35Z
+- :eyes:  **[fix(dialplan): Preserve trunk SRTP marker](https://github.com/nethesis/ns8-nethvoice/pull/860)** by *Stell0* - Reviewers: *None* - Created at: 2026-06-16T06:29:05Z
 - :eyes:  **[fix(satellite): persist each transfer segment under its own leg uniqueid](https://github.com/nethesis/ns8-nethvoice/pull/859)** by *tommaso-ascani* - Reviewers: *None* - Created at: 2026-06-11T13:19:38Z
 - :eyes:  **[fix(reports): bump nethvoice-report and wire CDR cleanup task](https://github.com/nethesis/ns8-nethvoice/pull/843)** by *edospadoni* - Reviewers: *None* - Created at: 2026-05-27T10:45:00Z
 - :eyes:  **[feat(trunks): Add trunk for ElevenLabs](https://github.com/nethesis/ns8-nethvoice/pull/840)** by *Stell0* - Reviewers: *None* - Created at: 2026-05-26T12:49:52Z
@@ -136,8 +150,9 @@ date = 2026-06-15
 - :eyes: :zzz: **[fix(janus): fix one-way audio after long SIP hold](https://github.com/nethesis/ns8-nethvoice/pull/743)** by *edospadoni* - Reviewers: *None* - Created at: 2026-03-31T07:49:10Z
 -  :zzz: **[Matrix integration](https://github.com/nethesis/ns8-nethvoice/pull/627)** by *gsanchietti* - Reviewers: *Amygos* - Created at: 2025-12-10T11:32:50Z
 
-### nethesis/nethvoice-cti 2 
+### nethesis/nethvoice-cti 3 
 
+- :eyes:  **[fix(history): real duration for transfer sub-leg conversations](https://github.com/nethesis/nethvoice-cti/pull/508)** by *tommaso-ascani* - Reviewers: *None* - Created at: 2026-06-16T07:16:45Z
 - :eyes:  **[fix: better phonebook sharing](https://github.com/nethesis/nethvoice-cti/pull/495)** by *tonyco97* - Reviewers: *None* - Created at: 2026-05-19T12:55:29Z
 - :eyes: :zzz: **[feat: enhance call disposition handling with new utility functions](https://github.com/nethesis/nethvoice-cti/pull/457)** by *tommaso-ascani* - Reviewers: *None* - Created at: 2026-04-03T17:36:17Z
 
@@ -169,8 +184,9 @@ date = 2026-06-15
 
 - :eyes: :zzz: **[Update and add the CTI image](https://github.com/nethesis/nethvoice-client-docs/pull/14)** by *viktec* - Reviewers: *None* - Created at: 2025-11-05T16:11:10Z
 
-### nethesis/satellite 1 
+### nethesis/satellite 2 
 
+- :eyes:  **[feat(transcript): persist per-segment duration_seconds](https://github.com/nethesis/satellite/pull/48)** by *tommaso-ascani* - Reviewers: *None* - Created at: 2026-06-16T07:16:42Z
 -  :zzz: **[Multi-Provider Transcription Support (REST/Batch Path)](https://github.com/nethesis/satellite/pull/31)** by *Amygos* - Reviewers: *Stell0* - Created at: 2026-02-16T09:08:57Z
 
 ### nethesis/nethcti-middleware 5 

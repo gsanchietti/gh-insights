@@ -1,10 +1,11 @@
 +++
-title = 'Need testing (11)'
-date = 2026-06-15
+title = 'Need testing (13)'
+date = 2026-06-16
 +++
 
 ## NethServer
-- **[Disable dnf-automatic on subscribed nodes](https://github.com/NethServer/dev/issues/8034)** (#7123) by *DavidePrincipi* (Created: 2026-06-10, Updated: 2026-06-11T10:36:08Z)
+- **[Disable dnf-automatic on subscribed nodes](https://github.com/NethServer/dev/issues/8034)** (#7123) by *DavidePrincipi* (Created: 2026-06-10, Updated: 2026-06-15T14:33:32Z)
+- :point_right: **[WebTop 5.33.7](https://github.com/NethServer/dev/issues/8018)** (#7123) by *lucagasparini* (Created: 2026-05-21, Updated: 2026-06-15T12:13:58Z)
 - :point_right: **[Dnf repository credentials in system log](https://github.com/NethServer/dev/issues/8013)** (#7123) by *DavidePrincipi* (Created: 2026-05-20, Updated: 2026-06-04T13:26:09Z)
 - :point_right: **[Update dependencies - NethServer 8.9](https://github.com/NethServer/dev/issues/7967)** (#7123) by *DavidePrincipi* (Created: 2026-04-20, Updated: 2026-05-27T07:57:34Z)
 - :point_right: **[Inital root password of prebuilt images](https://github.com/NethServer/dev/issues/7673)** (#7123) by *nrauso* (Created: 2025-10-02, Updated: 2026-05-21T18:13:53Z)
@@ -20,5 +21,6 @@ date = 2026-06-15
 
 ## 8.8.0
 - :point_right: **[Monitoring: adding long time storage for metrics](https://github.com/NethServer/nethsecurity/issues/1656)** (#1547) by *Tbaile* (Created: 2026-05-12, Updated: 2026-05-15T13:19:16Z)
+- :point_right: **[UI support for Geo IP management in Threat Shield IP](https://github.com/NethServer/nethsecurity/issues/1586)** (#1547) by *cotosso* (Created: 2026-04-08, Updated: 2026-06-16T07:10:09Z)
 - :point_right: **[ns-ha: possible race condition if switches happen close to one another ](https://github.com/NethServer/nethsecurity/issues/1547)** (#1547) by *Tbaile* (Created: 2026-03-03, Updated: 2026-06-12T11:32:53Z)
 
