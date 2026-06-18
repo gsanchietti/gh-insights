@@ -2,7 +2,7 @@
 
 title = 'To be released soon'
 
-date = 2026-06-17
+date = 2026-06-18
 
 +++
 
@@ -32,6 +32,12 @@ date = 2026-06-17
 
 ### NethVoice
 
+- [nethvoice-report: CDR partition tables contaminated with cross-period rows](https://github.com/NethServer/dev/issues/8023) (#7138) by edospadoni (Created: 2026-05-27T10:41:45Z, Updated: 2026-06-17T13:43:26Z)
+
+- [NethVoice: GNR Trunks not recognized and calls arrive as "anonymous](https://github.com/NethServer/dev/issues/7138) (#7138) by Amygos (Created: 2024-11-15T10:45:48Z, Updated: 2026-06-17T07:50:06Z)
+
+### NethVoice
+
 - [FreePBX web-side PHP logs do not reach journald](https://github.com/NethServer/dev/issues/8006) (#7138) by Stell0 (Created: 2026-05-12T13:31:41Z, Updated: 2026-06-17T08:11:54Z)
 
 - [Voicemail not saved when CallerID exceeds 40 characters](https://github.com/NethServer/dev/issues/7994) (#7138) by Stell0 (Created: 2026-05-06T15:01:54Z, Updated: 2026-06-16T14:28:47Z)
@@ -58,10 +64,6 @@ date = 2026-06-17
 
 - [Design: Simplify “NethVoice Proxy” step for second NethVoice instance](https://github.com/NethServer/dev/issues/7828) (#7138) by AmaLuci (Created: 2026-01-20T16:39:06Z, Updated: 2026-02-09T12:07:15Z)
 
-### NethVoice
-
-- [NethVoice: GNR Trunks not recognized and calls arrive as "anonymous](https://github.com/NethServer/dev/issues/7138) (#7138) by Amygos (Created: 2024-11-15T10:45:48Z, Updated: 2026-06-17T07:50:06Z)
-
 ### 8.8.0
 
 - [Preserve dnsmasq DHCP leases on mounted storage](https://github.com/NethServer/nethsecurity/issues/1694) (#1298) by gsanchietti (Created: 2026-05-26T10:26:40Z, Updated: 2026-06-04T14:10:54Z)
@@ -78,7 +80,11 @@ date = 2026-06-17
 
 - [Provide to the Community version some features currently available only in subscription-based versions](https://github.com/NethServer/nethsecurity/issues/1602) (#1298) by cotosso (Created: 2026-04-20T15:53:56Z, Updated: 2026-05-28T08:18:34Z)
 
+- [UI support for Geo IP management in Threat Shield IP](https://github.com/NethServer/nethsecurity/issues/1586) (#1298) by cotosso (Created: 2026-04-08T12:38:24Z, Updated: 2026-06-17T10:25:27Z)
+
 - [Adblock restarts with empty lists after repeated blocklist/allowlist additions or deletions](https://github.com/NethServer/nethsecurity/issues/1572) (#1298) by cotosso (Created: 2026-03-20T11:50:02Z, Updated: 2026-05-29T07:15:00Z)
+
+- [ns-ha: possible race condition if switches happen close to one another ](https://github.com/NethServer/nethsecurity/issues/1547) (#1298) by Tbaile (Created: 2026-03-03T13:20:04Z, Updated: 2026-06-18T07:41:20Z)
 
 - [Unify traffic logging option visualization in firewall UI](https://github.com/NethServer/nethsecurity/issues/1456) (#1298) by cotosso (Created: 2025-12-15T16:05:58Z, Updated: 2026-05-28T08:10:15Z)
 

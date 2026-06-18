@@ -1,6 +1,6 @@
 +++
 title = 'Open Pull Requests'
-date = 2026-06-17
+date = 2026-06-18
 +++
 
 ## Organization: nethserver
@@ -16,27 +16,28 @@ date = 2026-06-17
 
 - :eyes:  **[docs: Add repository guidance](https://github.com/NethServer/ns8-kickstart/pull/121)** by *Stell0* - Reviewers: *None* - Created at: 2026-06-01T12:47:20Z
 
-### NethServer/ns8-nextcloud 1 
+### NethServer/ns8-nextcloud 2 
 
--   **[fix: handle Nextcloud upgrade and maintenance mode recovery after image update](https://github.com/NethServer/ns8-nextcloud/pull/228)** by *stephdl* - Reviewers: *DavidePrincipi* - Created at: 2026-06-15T16:20:57Z
+- :eyes:  **[Update CardDAV and CalDAV redirect URLs to HTTPS](https://github.com/NethServer/ns8-nextcloud/pull/230)** by *stephdl* - Reviewers: *None* - Created at: 2026-06-17T14:41:37Z
+- :eyes:  **[fix: handle Nextcloud upgrade and maintenance mode recovery after image update](https://github.com/NethServer/ns8-nextcloud/pull/228)** by *stephdl* - Reviewers: *None* - Created at: 2026-06-15T16:20:57Z
+
+### NethServer/ns8-samba 1 
+
+-   **[New API for password expiration information](https://github.com/NethServer/ns8-samba/pull/214)** by *gsanchietti* - Reviewers: *DavidePrincipi* - Created at: 2026-06-16T13:43:07Z
 
 ### NethServer/ns8-traefik 1 
 
 - :eyes: :zzz: **[fix: cryptography 45 deprecation warning](https://github.com/NethServer/ns8-traefik/pull/120)** by *DavidePrincipi* - Reviewers: *None* - Created at: 2025-10-28T08:48:29Z
 
-### NethServer/ns8-openldap 1 
+### NethServer/ns8-openldap 2 
 
+-   **[New API for password expiration information](https://github.com/NethServer/ns8-openldap/pull/137)** by *gsanchietti* - Reviewers: *DavidePrincipi* - Created at: 2026-06-16T14:08:38Z
 -   **[Add leave-replica action with input validation](https://github.com/NethServer/ns8-openldap/pull/134)** by *stephdl* - Reviewers: *DavidePrincipi* - Created at: 2026-06-10T10:39:06Z
 
-### NethServer/nethsecurity 3 
+### NethServer/nethsecurity 2 
 
--   **[fix: removing admin tokens when deleted](https://github.com/NethServer/nethsecurity/pull/1728)** by *Tbaile* - Reviewers: *gsanchietti* - Created at: 2026-06-16T08:09:37Z
-- :eyes:  **[fix(netifyd): improvements](https://github.com/NethServer/nethsecurity/pull/1700)** by *Tbaile* - Reviewers: *None* - Created at: 2026-05-27T09:58:06Z
+- :eyes:  **[fix: removing admin tokens when deleted](https://github.com/NethServer/nethsecurity/pull/1728)** by *Tbaile* - Reviewers: *None* - Created at: 2026-06-16T08:09:37Z
 - :eyes: :zzz: **[build: added softflowd](https://github.com/NethServer/nethsecurity/pull/1453)** by *Tbaile* - Reviewers: *None* - Created at: 2025-12-10T11:48:14Z
-
-### NethServer/ns8-mail 1 
-
-- :eyes:  **[fix: restore fails if spam_folder is empty](https://github.com/NethServer/ns8-mail/pull/267)** by *stephdl* - Reviewers: *None* - Created at: 2026-06-08T15:13:51Z
 
 ### NethServer/phonehome-server 1 
 
@@ -52,15 +53,13 @@ date = 2026-06-17
 
 - :eyes:  **[Enhance Traefik image caching and update agetty prompt](https://github.com/NethServer/ns8-images/pull/13)** by *DavidePrincipi* - Reviewers: *None* - Created at: 2026-05-28T15:58:36Z
 
-### NethServer/nethsecurity-ui 3 
+### NethServer/nethsecurity-ui 1 
 
--   **[perf(interfaces): calling VPNs info once](https://github.com/NethServer/nethsecurity-ui/pull/785)** by *Tbaile* - Reviewers: *andre8244* - Created at: 2026-06-17T08:00:46Z
--   **[fix: disable alert pooling during updates](https://github.com/NethServer/nethsecurity-ui/pull/784)** by *Tbaile* - Reviewers: *m-dilorenzi* - Created at: 2026-06-16T14:00:59Z
-- :eyes:  **[chore(main): release 2.22.1](https://github.com/NethServer/nethsecurity-ui/pull/783)** by *Tbaile* - Reviewers: *None* - Created at: 2026-06-16T12:43:38Z
+- :eyes:  **[chore(main): release 2.22.2](https://github.com/NethServer/nethsecurity-ui/pull/787)** by *Tbaile* - Reviewers: *None* - Created at: 2026-06-18T06:47:30Z
 
 ### NethServer/nethsecurity-docs 2 
 
--   **[Admin users new page](https://github.com/NethServer/nethsecurity-docs/pull/281)** by *cotosso* - Reviewers: *gsanchietti, Tbaile, francio87* - Created at: 2026-06-15T15:32:30Z
+-   **[Admin users new page](https://github.com/NethServer/nethsecurity-docs/pull/281)** by *cotosso* - Reviewers: *Tbaile, francio87* - Created at: 2026-06-15T15:32:30Z
 -  :zzz: **[feat: added softflowd doc](https://github.com/NethServer/nethsecurity-docs/pull/227)** by *Tbaile* - Reviewers: *cotosso* - Created at: 2026-03-05T09:29:42Z
 
 ### NethServer/ns8-imapsync 1 
@@ -88,10 +87,6 @@ date = 2026-06-17
 
 -   **[chore: created sharing phonebook documentation](https://github.com/NethServer/nethvoice-docs/pull/54)** by *tonyco97* - Reviewers: *andrea-marchionni* - Created at: 2026-05-26T12:47:28Z
 
-### NethServer/ns8-hermes-agent 1 
-
-- :eyes:  **[V2026.6.5](https://github.com/NethServer/ns8-hermes-agent/pull/21)** by *Stell0* - Reviewers: *None* - Created at: 2026-06-16T10:29:15Z
-
 ## Organization: nethesis
 
 ### nethesis/nethcti-server 2 
@@ -101,7 +96,7 @@ date = 2026-06-17
 
 ### nethesis/nethvoice-wizard-ui 1 
 
--   **[Fix Angular ng-repeat orderBy syntax in wizard views](https://github.com/nethesis/nethvoice-wizard-ui/pull/198)** by *diegotibi* - Reviewers: *tonyco97* - Created at: 2026-05-18T14:41:37Z
+-  :zzz: **[Fix Angular ng-repeat orderBy syntax in wizard views](https://github.com/nethesis/nethvoice-wizard-ui/pull/198)** by *diegotibi* - Reviewers: *tonyco97* - Created at: 2026-05-18T14:41:37Z
 
 ### nethesis/freepbx-core 1 
 
@@ -128,22 +123,19 @@ date = 2026-06-17
 - :eyes: :zzz: **[Gigaset 825/855](https://github.com/nethesis/tancredi/pull/374)** by *andrea-marchionni* - Reviewers: *None* - Created at: 2026-05-15T07:16:46Z
 - :eyes: :zzz: **[Add configuration file for Fanvil V50G model](https://github.com/nethesis/tancredi/pull/373)** by *viktec* - Reviewers: *None* - Created at: 2026-05-12T10:50:03Z
 
-### nethesis/nethvoice-report 2 
+### nethesis/nethvoice-report 1 
 
-- :eyes:  **[fix(cdr): prevent cross-period contamination in partition tables](https://github.com/nethesis/nethvoice-report/pull/211)** by *edospadoni* - Reviewers: *None* - Created at: 2026-05-27T10:44:46Z
 - :eyes: :zzz: **[feat: add cookie support for support proxy integration](https://github.com/nethesis/nethvoice-report/pull/209)** by *edospadoni* - Reviewers: *None* - Created at: 2026-03-30T08:57:52Z
 
-### nethesis/ns8-nethvoice 15 
+### nethesis/ns8-nethvoice 13 
 
 - :eyes:  **[feat(satellite): Check stt permission](https://github.com/nethesis/ns8-nethvoice/pull/863)** by *Stell0* - Reviewers: *None* - Created at: 2026-06-16T07:13:33Z
 - :eyes:  **[chore(build): pin middleware to issue_8039 for QA](https://github.com/nethesis/ns8-nethvoice/pull/862)** by *tommaso-ascani* - Reviewers: *None* - Created at: 2026-06-16T07:09:41Z
 - :eyes:  **[chore(build): pin nethcti-server to issue_8038 for QA](https://github.com/nethesis/ns8-nethvoice/pull/861)** by *tommaso-ascani* - Reviewers: *None* - Created at: 2026-06-16T07:09:35Z
 - :eyes:  **[fix(dialplan): Preserve trunk SRTP marker](https://github.com/nethesis/ns8-nethvoice/pull/860)** by *Stell0* - Reviewers: *None* - Created at: 2026-06-16T06:29:05Z
 - :eyes:  **[fix(satellite): persist each transfer segment under its own leg uniqueid](https://github.com/nethesis/ns8-nethvoice/pull/859)** by *tommaso-ascani* - Reviewers: *None* - Created at: 2026-06-11T13:19:38Z
-- :eyes:  **[fix(reports): bump nethvoice-report and wire CDR cleanup task](https://github.com/nethesis/ns8-nethvoice/pull/843)** by *edospadoni* - Reviewers: *None* - Created at: 2026-05-27T10:45:00Z
 - :eyes:  **[More sharing options for contacts](https://github.com/nethesis/ns8-nethvoice/pull/833)** by *tonyco97* - Reviewers: *None* - Created at: 2026-05-19T12:59:30Z
 - :eyes: :zzz: **[Fias hotel log and fix](https://github.com/nethesis/ns8-nethvoice/pull/827)** by *Stell0* - Reviewers: *None* - Created at: 2026-05-12T14:25:05Z
-- :eyes: :zzz: **[fix(logging): fix nethhotel logging](https://github.com/nethesis/ns8-nethvoice/pull/826)** by *Stell0* - Reviewers: *None* - Created at: 2026-05-12T13:36:49Z
 - :eyes: :zzz: **[fix: update NethCTI image tag and commit argument for build process](https://github.com/nethesis/ns8-nethvoice/pull/822)** by *tommaso-ascani* - Reviewers: *None* - Created at: 2026-05-11T12:10:28Z
 -  :zzz: **[fix: RTP/UDP ports allocation](https://github.com/nethesis/ns8-nethvoice/pull/817)** by *tommaso-ascani* - Reviewers: *Stell0, Amygos* - Created at: 2026-05-08T11:06:59Z
 - :eyes: :zzz: **[Adding MultiWire and Vianova as provider VoIP](https://github.com/nethesis/ns8-nethvoice/pull/808)** by *andrea-marchionni* - Reviewers: *None* - Created at: 2026-05-04T11:06:50Z
@@ -171,14 +163,13 @@ date = 2026-06-17
 -  :zzz: **[fix: increase fr_timer from 1s to 30s](https://github.com/nethesis/ns8-nethvoice-proxy/pull/141)** by *Amygos* - Reviewers: *paolovisintin* - Created at: 2026-02-23T08:06:07Z
 - :eyes: :zzz: **[fix(kamailio): increase timers for NOTIFY/SUBSCRIBE to fix BLF timeouts](https://github.com/nethesis/ns8-nethvoice-proxy/pull/123)** by *paolovisintin* - Reviewers: *None* - Created at: 2026-01-14T08:00:32Z
 
-### nethesis/vue-components 2 
+### nethesis/vue-components 1 
 
--   **[feat: add NeMultiselectCombobox component](https://github.com/nethesis/vue-components/pull/155)** by *andre8244* - Reviewers: *Tbaile* - Created at: 2026-06-01T10:46:58Z
 - :eyes: :zzz: **[fix(sort): relaxing sorting function](https://github.com/nethesis/vue-components/pull/104)** by *Tbaile* - Reviewers: *None* - Created at: 2025-12-11T15:17:22Z
 
 ### nethesis/ctiapp-authproxy 2 
 
--   **[fix(auth): avoid AD lockout on stale credentials](https://github.com/nethesis/ctiapp-authproxy/pull/18)** by *edospadoni* - Reviewers: *Amygos, Stell0* - Created at: 2026-06-11T10:28:13Z
+-   **[fix(auth): avoid AD lockout on stale credentials](https://github.com/nethesis/ctiapp-authproxy/pull/18)** by *edospadoni* - Reviewers: *Amygos* - Created at: 2026-06-11T10:28:13Z
 -  :zzz: **[feat: add chat provisioning](https://github.com/nethesis/ctiapp-authproxy/pull/16)** by *gsanchietti* - Reviewers: *edospadoni* - Created at: 2025-12-17T13:12:41Z
 
 ### nethesis/nethvoice-client-docs 1 
