@@ -2,9 +2,41 @@
 
 title = 'To be released soon'
 
-date = 2026-06-18
+date = 2026-06-19
 
 +++
+
+### NethVoice
+
+- [CTI History: 'Transcription' content filter hides calls that also have a summary](https://github.com/NethServer/dev/issues/8039) (#7138) by tommaso-ascani (Created: 2026-06-11T12:19:56Z, Updated: 2026-06-18T13:32:50Z)
+
+- [CTI: Speech-To-Text profile permission not honored for transcription/summary availability](https://github.com/NethServer/dev/issues/8038) (#7138) by tommaso-ascani (Created: 2026-06-11T11:55:35Z, Updated: 2026-06-18T13:56:16Z)
+
+- [FreePBX web-side PHP logs do not reach journald](https://github.com/NethServer/dev/issues/8006) (#7138) by Stell0 (Created: 2026-05-12T13:31:41Z, Updated: 2026-06-17T08:11:54Z)
+
+- [Voicemail not saved when CallerID exceeds 40 characters](https://github.com/NethServer/dev/issues/7994) (#7138) by Stell0 (Created: 2026-05-06T15:01:54Z, Updated: 2026-06-16T14:28:47Z)
+
+- [NethLink: Command Bar search shows only mobile number for contacts with multiple phone numbers](https://github.com/NethServer/dev/issues/7961) (#7138) by viktec (Created: 2026-04-09T10:20:15Z, Updated: 2026-04-15T10:34:22Z)
+
+- [NethLink: Phone Island position shifts on multi-monitor setups with mixed scaling on Windows](https://github.com/NethServer/dev/issues/7951) (#7138) by tonyco97 (Created: 2026-03-31T10:18:54Z, Updated: 2026-04-07T09:35:17Z)
+
+- [NethVoice: add new Ringtone: mute tone](https://github.com/NethServer/dev/issues/7880) (#7138) by tonyco97 (Created: 2026-02-18T13:20:09Z, Updated: 2026-03-05T15:51:36Z)
+
+- [NethVoice CTI: Phone Island - change in Call Transfer Interaction Flow](https://github.com/NethServer/dev/issues/7873) (#7138) by viktec (Created: 2026-02-13T10:42:01Z, Updated: 2026-03-09T10:05:53Z)
+
+- [Deepgram connection failure causes Satellite memory leak (unbounded RAM growth)](https://github.com/NethServer/dev/issues/7872) (#7138) by Stell0 (Created: 2026-02-13T09:53:51Z, Updated: 2026-02-13T10:00:24Z)
+
+- [NethLink: Mismatch between “Last calls” and NethVoice CTI](https://github.com/NethServer/dev/issues/7870) (#7138) by tonyco97 (Created: 2026-02-12T10:03:49Z, Updated: 2026-02-13T16:15:44Z)
+
+- [NethLink: Company type address book contacts hide their names in Nethlink](https://github.com/NethServer/dev/issues/7862) (#7138) by Ilvo (Created: 2026-02-11T14:12:24Z, Updated: 2026-02-13T16:42:02Z)
+
+- [NethLink: connectivity check causes rate limiting (429) on startup with many clients](https://github.com/NethServer/dev/issues/7849) (#7138) by edospadoni (Created: 2026-02-05T09:19:16Z, Updated: 2026-02-16T15:43:32Z)
+
+- [NethLink: Inconsistent localization in NethLink “Recent calls” (days and months shown in English)](https://github.com/NethServer/dev/issues/7839) (#7138) by mgarra (Created: 2026-01-29T11:56:11Z, Updated: 2026-02-12T15:04:16Z)
+
+- [Phone Island: Missing “Cancel transfer” button and inconsistent call transfer behavior when using provisioned phone](https://github.com/NethServer/dev/issues/7830) (#7138) by viktec (Created: 2026-01-21T13:44:17Z, Updated: 2026-03-09T10:07:25Z)
+
+- [Design: Simplify “NethVoice Proxy” step for second NethVoice instance](https://github.com/NethServer/dev/issues/7828) (#7138) by AmaLuci (Created: 2026-01-20T16:39:06Z, Updated: 2026-02-09T12:07:15Z)
 
 ### NethServer
 
@@ -36,35 +68,9 @@ date = 2026-06-18
 
 - [NethVoice: GNR Trunks not recognized and calls arrive as "anonymous](https://github.com/NethServer/dev/issues/7138) (#7138) by Amygos (Created: 2024-11-15T10:45:48Z, Updated: 2026-06-17T07:50:06Z)
 
-### NethVoice
-
-- [FreePBX web-side PHP logs do not reach journald](https://github.com/NethServer/dev/issues/8006) (#7138) by Stell0 (Created: 2026-05-12T13:31:41Z, Updated: 2026-06-17T08:11:54Z)
-
-- [Voicemail not saved when CallerID exceeds 40 characters](https://github.com/NethServer/dev/issues/7994) (#7138) by Stell0 (Created: 2026-05-06T15:01:54Z, Updated: 2026-06-16T14:28:47Z)
-
-- [NethLink: Command Bar search shows only mobile number for contacts with multiple phone numbers](https://github.com/NethServer/dev/issues/7961) (#7138) by viktec (Created: 2026-04-09T10:20:15Z, Updated: 2026-04-15T10:34:22Z)
-
-- [NethLink: Phone Island position shifts on multi-monitor setups with mixed scaling on Windows](https://github.com/NethServer/dev/issues/7951) (#7138) by tonyco97 (Created: 2026-03-31T10:18:54Z, Updated: 2026-04-07T09:35:17Z)
-
-- [NethVoice: add new Ringtone: mute tone](https://github.com/NethServer/dev/issues/7880) (#7138) by tonyco97 (Created: 2026-02-18T13:20:09Z, Updated: 2026-03-05T15:51:36Z)
-
-- [NethVoice CTI: Phone Island - change in Call Transfer Interaction Flow](https://github.com/NethServer/dev/issues/7873) (#7138) by viktec (Created: 2026-02-13T10:42:01Z, Updated: 2026-03-09T10:05:53Z)
-
-- [Deepgram connection failure causes Satellite memory leak (unbounded RAM growth)](https://github.com/NethServer/dev/issues/7872) (#7138) by Stell0 (Created: 2026-02-13T09:53:51Z, Updated: 2026-02-13T10:00:24Z)
-
-- [NethLink: Mismatch between “Last calls” and NethVoice CTI](https://github.com/NethServer/dev/issues/7870) (#7138) by tonyco97 (Created: 2026-02-12T10:03:49Z, Updated: 2026-02-13T16:15:44Z)
-
-- [NethLink: Company type address book contacts hide their names in Nethlink](https://github.com/NethServer/dev/issues/7862) (#7138) by Ilvo (Created: 2026-02-11T14:12:24Z, Updated: 2026-02-13T16:42:02Z)
-
-- [NethLink: connectivity check causes rate limiting (429) on startup with many clients](https://github.com/NethServer/dev/issues/7849) (#7138) by edospadoni (Created: 2026-02-05T09:19:16Z, Updated: 2026-02-16T15:43:32Z)
-
-- [NethLink: Inconsistent localization in NethLink “Recent calls” (days and months shown in English)](https://github.com/NethServer/dev/issues/7839) (#7138) by mgarra (Created: 2026-01-29T11:56:11Z, Updated: 2026-02-12T15:04:16Z)
-
-- [Phone Island: Missing “Cancel transfer” button and inconsistent call transfer behavior when using provisioned phone](https://github.com/NethServer/dev/issues/7830) (#7138) by viktec (Created: 2026-01-21T13:44:17Z, Updated: 2026-03-09T10:07:25Z)
-
-- [Design: Simplify “NethVoice Proxy” step for second NethVoice instance](https://github.com/NethServer/dev/issues/7828) (#7138) by AmaLuci (Created: 2026-01-20T16:39:06Z, Updated: 2026-02-09T12:07:15Z)
-
 ### 8.8.0
+
+- [Count related non-root administration accounts into phonehome](https://github.com/NethServer/nethsecurity/issues/1726) (#1298) by Tbaile (Created: 2026-06-16T07:23:39Z, Updated: 2026-06-18T13:54:03Z)
 
 - [Preserve dnsmasq DHCP leases on mounted storage](https://github.com/NethServer/nethsecurity/issues/1694) (#1298) by gsanchietti (Created: 2026-05-26T10:26:40Z, Updated: 2026-06-04T14:10:54Z)
 
