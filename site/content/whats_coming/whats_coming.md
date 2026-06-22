@@ -2,7 +2,7 @@
 
 title = 'To be released soon'
 
-date = 2026-06-21
+date = 2026-06-22
 
 +++
 
@@ -36,25 +36,13 @@ date = 2026-06-21
 
 - [Samba logs flooded by Decryption Failed](https://github.com/NethServer/dev/issues/7375) (#7375) by DavidePrincipi (Created: 2025-04-03T11:01:21Z, Updated: 2026-05-29T16:43:53Z)
 
-### NethVoice
-
-- [NethLink: Phone Island position shifts on multi-monitor setups with mixed scaling on Windows](https://github.com/NethServer/dev/issues/7951) (#7375) by tonyco97 (Created: 2026-03-31T10:18:54Z, Updated: 2026-04-07T09:35:17Z)
-
-- [NethVoice: add new Ringtone: mute tone](https://github.com/NethServer/dev/issues/7880) (#7375) by tonyco97 (Created: 2026-02-18T13:20:09Z, Updated: 2026-06-19T15:58:01Z)
-
-- [NethLink: Mismatch between “Last calls” and NethVoice CTI](https://github.com/NethServer/dev/issues/7870) (#7375) by tonyco97 (Created: 2026-02-12T10:03:49Z, Updated: 2026-02-13T16:15:44Z)
-
-- [NethLink: Company type address book contacts hide their names in Nethlink](https://github.com/NethServer/dev/issues/7862) (#7375) by Ilvo (Created: 2026-02-11T14:12:24Z, Updated: 2026-02-13T16:42:02Z)
-
-- [Design: Simplify “NethVoice Proxy” step for second NethVoice instance](https://github.com/NethServer/dev/issues/7828) (#7375) by AmaLuci (Created: 2026-01-20T16:39:06Z, Updated: 2026-02-09T12:07:15Z)
-
 ### 8.8.0
 
 - [Console setup helper for initial configuration](https://github.com/NethServer/nethsecurity/issues/1735) (#1298) by gsanchietti (Created: 2026-06-18T12:08:43Z, Updated: 2026-06-19T13:00:49Z)
 
 - [Count related non-root administration accounts into phonehome](https://github.com/NethServer/nethsecurity/issues/1726) (#1298) by Tbaile (Created: 2026-06-16T07:23:39Z, Updated: 2026-06-18T13:54:03Z)
 
-- [Preserve dnsmasq DHCP leases on mounted storage](https://github.com/NethServer/nethsecurity/issues/1694) (#1298) by gsanchietti (Created: 2026-05-26T10:26:40Z, Updated: 2026-06-04T14:10:54Z)
+- [Preserve dnsmasq DHCP leases on mounted storage](https://github.com/NethServer/nethsecurity/issues/1694) (#1298) by gsanchietti (Created: 2026-05-26T10:26:40Z, Updated: 2026-06-22T09:47:39Z)
 
 - [Openvpn dashboard counter: disconnected client tunnels are counted as connected](https://github.com/NethServer/nethsecurity/issues/1688) (#1298) by francio87 (Created: 2026-05-22T08:36:04Z, Updated: 2026-06-04T09:31:40Z)
 

@@ -1,14 +1,13 @@
 +++
 title = 'Open Pull Requests'
-date = 2026-06-21
+date = 2026-06-22
 +++
 
 ## Organization: nethserver
 
-### NethServer/ns8-core 3 
+### NethServer/ns8-core 2 
 
 -   **[Enhance LDAP provider handling during node removal](https://github.com/NethServer/ns8-core/pull/1201)** by *stephdl* - Reviewers: *DavidePrincipi* - Created at: 2026-06-10T10:22:23Z
-- :eyes:  **[feat: run update-core on cluster init and restore](https://github.com/NethServer/ns8-core/pull/1199)** by *DavidePrincipi* - Reviewers: *None* - Created at: 2026-06-09T17:25:53Z
 -  :zzz: **[docs: add NethVoice release procedure addendum](https://github.com/NethServer/ns8-core/pull/1136)** by *Copilot* - Reviewers: *Amygos* - Created at: 2026-03-30T14:06:18Z
 
 ### NethServer/ns8-kickstart 1 
@@ -22,10 +21,6 @@ date = 2026-06-21
 ### NethServer/ns8-webserver 1 
 
 - :eyes:  **[Refactor test-module workflow to run tests directly](https://github.com/NethServer/ns8-webserver/pull/180)** by *stephdl* - Reviewers: *None* - Created at: 2026-06-18T13:05:24Z
-
-### NethServer/ns8-nextcloud 1 
-
-- :eyes:  **[Update CardDAV and CalDAV redirect URLs to HTTPS](https://github.com/NethServer/ns8-nextcloud/pull/230)** by *stephdl* - Reviewers: *None* - Created at: 2026-06-17T14:41:37Z
 
 ### NethServer/ns8-samba 1 
 
@@ -42,7 +37,7 @@ date = 2026-06-21
 
 ### NethServer/nethsecurity 2 
 
--   **[feat(dhcp): support multiple dhcp ranges](https://github.com/NethServer/nethsecurity/pull/1734)** by *m-dilorenzi* - Reviewers: *Tbaile* - Created at: 2026-06-18T10:46:51Z
+- :eyes:  **[feat(dhcp): support multiple dhcp ranges](https://github.com/NethServer/nethsecurity/pull/1734)** by *m-dilorenzi* - Reviewers: *None* - Created at: 2026-06-18T10:46:51Z
 - :eyes:  **[chore(monitoring): bumped tool versions](https://github.com/NethServer/nethsecurity/pull/1733)** by *Tbaile* - Reviewers: *None* - Created at: 2026-06-18T09:48:17Z
 
 ### NethServer/phonehome-server 1 
@@ -55,13 +50,8 @@ date = 2026-06-21
 - :eyes: :zzz: **[Update install.rst: warning for pre-built images](https://github.com/NethServer/ns8-docs/pull/233)** by *nrauso* - Reviewers: *None* - Created at: 2026-05-05T15:36:18Z
 -  :zzz: **[Explain generated root password](https://github.com/NethServer/ns8-docs/pull/231)** by *mrmarkuz* - Reviewers: *DavidePrincipi* - Created at: 2026-04-16T13:45:56Z
 
-### NethServer/ns8-images 1 
+### NethServer/nethsecurity-ui 1 
 
-- :eyes:  **[Enhance Traefik image caching and update agetty prompt](https://github.com/NethServer/ns8-images/pull/13)** by *DavidePrincipi* - Reviewers: *None* - Created at: 2026-05-28T15:58:36Z
-
-### NethServer/nethsecurity-ui 2 
-
--   **[feat(dhcp): support multiple dhcp ranges](https://github.com/NethServer/nethsecurity-ui/pull/788)** by *m-dilorenzi* - Reviewers: *Tbaile* - Created at: 2026-06-18T10:49:21Z
 - :eyes:  **[chore(main): release 2.22.2](https://github.com/NethServer/nethsecurity-ui/pull/787)** by *Tbaile* - Reviewers: *None* - Created at: 2026-06-18T06:47:30Z
 
 ### NethServer/nethsecurity-docs 1 
@@ -146,7 +136,7 @@ date = 2026-06-21
 
 ### nethesis/ns8-nethvoice 15 
 
-- :eyes:  **[fix: rename transcription labels](https://github.com/nethesis/ns8-nethvoice/pull/871)** by *tommaso-ascani* - Reviewers: *None* - Created at: 2026-06-19T15:59:32Z
+-   **[fix: rename transcription labels](https://github.com/nethesis/ns8-nethvoice/pull/871)** by *tommaso-ascani* - Reviewers: *andre8244* - Created at: 2026-06-19T15:59:32Z
 -   **[feat(skills): Add skills to test NethServer8 module and NethVoice](https://github.com/nethesis/ns8-nethvoice/pull/869)** by *Stell0* - Reviewers: *Amygos, edospadoni* - Created at: 2026-06-19T07:55:26Z
 - :eyes:  **[chore(build): QA testing image for /history/statuses rename (issue_8049)](https://github.com/nethesis/ns8-nethvoice/pull/868)** by *tommaso-ascani* - Reviewers: *None* - Created at: 2026-06-18T11:10:06Z
 - :eyes:  **[chore(build): QA testing image for phone-island duplicate-number fix (issue_8048)](https://github.com/nethesis/ns8-nethvoice/pull/867)** by *tommaso-ascani* - Reviewers: *None* - Created at: 2026-06-18T10:27:41Z
