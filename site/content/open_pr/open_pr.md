@@ -1,12 +1,13 @@
 +++
 title = 'Open Pull Requests'
-date = 2026-06-22
+date = 2026-06-23
 +++
 
 ## Organization: nethserver
 
-### NethServer/ns8-core 2 
+### NethServer/ns8-core 3 
 
+- :eyes:  **[fix: wait for rclone rc startup](https://github.com/NethServer/ns8-core/pull/1214)** by *DavidePrincipi* - Reviewers: *None* - Created at: 2026-06-22T15:16:47Z
 -   **[Enhance LDAP provider handling during node removal](https://github.com/NethServer/ns8-core/pull/1201)** by *stephdl* - Reviewers: *DavidePrincipi* - Created at: 2026-06-10T10:22:23Z
 -  :zzz: **[docs: add NethVoice release procedure addendum](https://github.com/NethServer/ns8-core/pull/1136)** by *Copilot* - Reviewers: *Amygos* - Created at: 2026-03-30T14:06:18Z
 
@@ -37,7 +38,7 @@ date = 2026-06-22
 
 ### NethServer/nethsecurity 2 
 
-- :eyes:  **[feat(dhcp): support multiple dhcp ranges](https://github.com/NethServer/nethsecurity/pull/1734)** by *m-dilorenzi* - Reviewers: *None* - Created at: 2026-06-18T10:46:51Z
+-   **[feat(dhcp): support multiple dhcp ranges](https://github.com/NethServer/nethsecurity/pull/1734)** by *m-dilorenzi* - Reviewers: *Tbaile* - Created at: 2026-06-18T10:46:51Z
 - :eyes:  **[chore(monitoring): bumped tool versions](https://github.com/NethServer/nethsecurity/pull/1733)** by *Tbaile* - Reviewers: *None* - Created at: 2026-06-18T09:48:17Z
 
 ### NethServer/phonehome-server 1 
@@ -58,8 +59,9 @@ date = 2026-06-22
 
 -  :zzz: **[feat: added softflowd doc](https://github.com/NethServer/nethsecurity-docs/pull/227)** by *Tbaile* - Reviewers: *cotosso* - Created at: 2026-03-05T09:29:42Z
 
-### NethServer/ns8-imapsync 1 
+### NethServer/ns8-imapsync 2 
 
+- :eyes:  **[Add last sync status and log download to each task.](https://github.com/NethServer/ns8-imapsync/pull/111)** by *stephdl* - Reviewers: *None* - Created at: 2026-06-22T15:38:57Z
 - :eyes: :zzz: **[fix: Exchange support, file age calculation and safe arg quoting](https://github.com/NethServer/ns8-imapsync/pull/102)** by *stephdl* - Reviewers: *None* - Created at: 2026-05-22T07:20:29Z
 
 ### NethServer/ns8-user-manager 1 
@@ -134,9 +136,10 @@ date = 2026-06-22
 
 - :eyes: :zzz: **[feat: add cookie support for support proxy integration](https://github.com/nethesis/nethvoice-report/pull/209)** by *edospadoni* - Reviewers: *None* - Created at: 2026-03-30T08:57:52Z
 
-### nethesis/ns8-nethvoice 15 
+### nethesis/ns8-nethvoice 16 
 
--   **[fix: rename transcription labels](https://github.com/nethesis/ns8-nethvoice/pull/871)** by *tommaso-ascani* - Reviewers: *andre8244* - Created at: 2026-06-19T15:59:32Z
+- :eyes:  **[fix(ui): always show integration fields, gated by API keys](https://github.com/nethesis/ns8-nethvoice/pull/872)** by *tommaso-ascani* - Reviewers: *None* - Created at: 2026-06-22T13:57:20Z
+- :eyes:  **[feat(get-facts): add inventory metrics for phonehome](https://github.com/nethesis/ns8-nethvoice/pull/870)** by *gsanchietti* - Reviewers: *None* - Created at: 2026-06-19T13:02:25Z
 -   **[feat(skills): Add skills to test NethServer8 module and NethVoice](https://github.com/nethesis/ns8-nethvoice/pull/869)** by *Stell0* - Reviewers: *Amygos, edospadoni* - Created at: 2026-06-19T07:55:26Z
 - :eyes:  **[chore(build): QA testing image for /history/statuses rename (issue_8049)](https://github.com/nethesis/ns8-nethvoice/pull/868)** by *tommaso-ascani* - Reviewers: *None* - Created at: 2026-06-18T11:10:06Z
 - :eyes:  **[chore(build): QA testing image for phone-island duplicate-number fix (issue_8048)](https://github.com/nethesis/ns8-nethvoice/pull/867)** by *tommaso-ascani* - Reviewers: *None* - Created at: 2026-06-18T10:27:41Z
@@ -149,7 +152,7 @@ date = 2026-06-22
 -  :zzz: **[fix: RTP/UDP ports allocation](https://github.com/nethesis/ns8-nethvoice/pull/817)** by *tommaso-ascani* - Reviewers: *Stell0, Amygos* - Created at: 2026-05-08T11:06:59Z
 - :eyes: :zzz: **[Adding MultiWire and Vianova as provider VoIP](https://github.com/nethesis/ns8-nethvoice/pull/808)** by *andrea-marchionni* - Reviewers: *None* - Created at: 2026-05-04T11:06:50Z
 - :eyes: :zzz: **[feat: implement AGI script for handling calls answered elsewhere](https://github.com/nethesis/ns8-nethvoice/pull/751)** by *tommaso-ascani* - Reviewers: *None* - Created at: 2026-04-03T17:39:50Z
-- :eyes: :zzz: **[fix(janus): fix one-way audio after long SIP hold](https://github.com/nethesis/ns8-nethvoice/pull/743)** by *edospadoni* - Reviewers: *None* - Created at: 2026-03-31T07:49:10Z
+-  :zzz: **[fix(janus): fix one-way audio after long SIP hold](https://github.com/nethesis/ns8-nethvoice/pull/743)** by *edospadoni* - Reviewers: *Amygos* - Created at: 2026-03-31T07:49:10Z
 -  :zzz: **[Matrix integration](https://github.com/nethesis/ns8-nethvoice/pull/627)** by *gsanchietti* - Reviewers: *Amygos* - Created at: 2025-12-10T11:32:50Z
 
 ### nethesis/nethvoice-cti 4 

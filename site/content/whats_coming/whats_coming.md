@@ -2,7 +2,7 @@
 
 title = 'To be released soon'
 
-date = 2026-06-22
+date = 2026-06-23
 
 +++
 
@@ -39,6 +39,8 @@ date = 2026-06-22
 ### 8.8.0
 
 - [Console setup helper for initial configuration](https://github.com/NethServer/nethsecurity/issues/1735) (#1298) by gsanchietti (Created: 2026-06-18T12:08:43Z, Updated: 2026-06-19T13:00:49Z)
+
+- [Remove sessions of demoted or deleted users](https://github.com/NethServer/nethsecurity/issues/1727) (#1298) by Tbaile (Created: 2026-06-16T08:09:09Z, Updated: 2026-06-22T15:02:12Z)
 
 - [Count related non-root administration accounts into phonehome](https://github.com/NethServer/nethsecurity/issues/1726) (#1298) by Tbaile (Created: 2026-06-16T07:23:39Z, Updated: 2026-06-18T13:54:03Z)
 
