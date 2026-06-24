@@ -2,7 +2,7 @@
 
 title = 'To be released soon'
 
-date = 2026-06-23
+date = 2026-06-24
 
 +++
 
@@ -10,7 +10,15 @@ date = 2026-06-23
 
 - [UI page load requests hundreds of date-fns-locale packages unnecessarily](https://github.com/NethServer/dev/issues/8051) (#7375) by andre8244 (Created: 2026-06-19T13:47:04Z, Updated: 2026-06-19T17:47:21Z)
 
+- [Nextcloud upgrade from 1.6.1 may leave the instance in maintenance mode](https://github.com/NethServer/dev/issues/8050) (#7375) by stephdl (Created: 2026-06-19T13:43:18Z, Updated: 2026-06-23T10:26:39Z)
+
+- [Nextcloud .well-known redirects downgrade HTTPS to HTTP](https://github.com/NethServer/dev/issues/8043) (#7375) by DavidePrincipi (Created: 2026-06-16T13:14:57Z, Updated: 2026-06-24T06:52:31Z)
+
 - [Disable dnf-automatic on subscribed nodes](https://github.com/NethServer/dev/issues/8034) (#7375) by DavidePrincipi (Created: 2026-06-10T15:01:46Z, Updated: 2026-06-16T11:11:10Z)
+
+- [Pre-built image network failure handling](https://github.com/NethServer/dev/issues/8021) (#7375) by DavidePrincipi (Created: 2026-05-25T09:58:36Z, Updated: 2026-06-24T07:18:50Z)
+
+- [Dnf repository credentials in system log](https://github.com/NethServer/dev/issues/8013) (#7375) by DavidePrincipi (Created: 2026-05-20T07:58:46Z, Updated: 2026-06-24T07:25:52Z)
 
 - [Show storage usage in node selection](https://github.com/NethServer/dev/issues/7992) (#7375) by DavidePrincipi (Created: 2026-05-05T16:35:20Z, Updated: 2026-05-28T08:09:55Z)
 
@@ -31,6 +39,8 @@ date = 2026-06-23
 - [Centralized Backup Orchestration and Rclone-based Gateway](https://github.com/NethServer/dev/issues/7814) (#7375) by DavidePrincipi (Created: 2026-01-12T14:47:43Z, Updated: 2026-06-09T16:12:47Z)
 
 - [No cluster-backup in destinations](https://github.com/NethServer/dev/issues/7677) (#7375) by DavidePrincipi (Created: 2025-10-08T09:09:24Z, Updated: 2026-05-22T14:06:09Z)
+
+- [Inital root password of prebuilt images](https://github.com/NethServer/dev/issues/7673) (#7375) by nrauso (Created: 2025-10-02T13:01:20Z, Updated: 2026-06-24T07:23:06Z)
 
 - [Backup Samba repo validation](https://github.com/NethServer/dev/issues/7382) (#7375) by DavidePrincipi (Created: 2025-04-07T15:16:58Z, Updated: 2026-06-09T16:12:56Z)
 
