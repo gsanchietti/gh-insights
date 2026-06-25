@@ -2,17 +2,15 @@
 
 title = 'To be released soon'
 
-date = 2026-06-24
+date = 2026-06-25
 
 +++
 
 ### NethServer
 
+- [Expose get-password-expiration API in user portal for OpenLDAP and Samba](https://github.com/NethServer/dev/issues/8059) (#7375) by gsanchietti (Created: 2026-06-23T12:30:28Z, Updated: 2026-06-24T09:09:32Z)
+
 - [UI page load requests hundreds of date-fns-locale packages unnecessarily](https://github.com/NethServer/dev/issues/8051) (#7375) by andre8244 (Created: 2026-06-19T13:47:04Z, Updated: 2026-06-19T17:47:21Z)
-
-- [Nextcloud upgrade from 1.6.1 may leave the instance in maintenance mode](https://github.com/NethServer/dev/issues/8050) (#7375) by stephdl (Created: 2026-06-19T13:43:18Z, Updated: 2026-06-23T10:26:39Z)
-
-- [Nextcloud .well-known redirects downgrade HTTPS to HTTP](https://github.com/NethServer/dev/issues/8043) (#7375) by DavidePrincipi (Created: 2026-06-16T13:14:57Z, Updated: 2026-06-24T06:52:31Z)
 
 - [Disable dnf-automatic on subscribed nodes](https://github.com/NethServer/dev/issues/8034) (#7375) by DavidePrincipi (Created: 2026-06-10T15:01:46Z, Updated: 2026-06-16T11:11:10Z)
 
@@ -45,6 +43,18 @@ date = 2026-06-24
 - [Backup Samba repo validation](https://github.com/NethServer/dev/issues/7382) (#7375) by DavidePrincipi (Created: 2025-04-07T15:16:58Z, Updated: 2026-06-09T16:12:56Z)
 
 - [Samba logs flooded by Decryption Failed](https://github.com/NethServer/dev/issues/7375) (#7375) by DavidePrincipi (Created: 2025-04-03T11:01:21Z, Updated: 2026-05-29T16:43:53Z)
+
+### NethVoice
+
+- [Move the transcription/summary status endpoint under /history (/history/statuses)](https://github.com/NethServer/dev/issues/8049) (#7375) by tommaso-ascani (Created: 2026-06-18T10:31:41Z, Updated: 2026-06-24T09:07:27Z)
+
+- [Remove the unused DELETE summary endpoint to prevent summary deletion](https://github.com/NethServer/dev/issues/8047) (#7375) by tommaso-ascani (Created: 2026-06-18T09:50:31Z, Updated: 2026-06-24T09:07:21Z)
+
+- [Disabling call transcription/summary makes past transcripts/summaries unreadable in History](https://github.com/NethServer/dev/issues/8046) (#7375) by tommaso-ascani (Created: 2026-06-18T09:33:00Z, Updated: 2026-06-24T09:07:05Z)
+
+### NethVoice
+
+- [NethVoice: metrics to be stored](https://github.com/NethServer/dev/issues/7652) (#7375) by andrea-marchionni (Created: 2025-09-23T15:26:49Z, Updated: 2026-06-24T08:56:10Z)
 
 ### 8.8.0
 
