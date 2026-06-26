@@ -2,7 +2,7 @@
 
 title = 'To be released soon'
 
-date = 2026-06-25
+date = 2026-06-26
 
 +++
 
@@ -46,11 +46,11 @@ date = 2026-06-25
 
 ### NethVoice
 
-- [Move the transcription/summary status endpoint under /history (/history/statuses)](https://github.com/NethServer/dev/issues/8049) (#7375) by tommaso-ascani (Created: 2026-06-18T10:31:41Z, Updated: 2026-06-24T09:07:27Z)
+- [Move the transcription/summary status endpoint under /history (/history/statuses)](https://github.com/NethServer/dev/issues/8049) (#7375) by tommaso-ascani (Created: 2026-06-18T10:31:41Z, Updated: 2026-06-26T07:20:43Z)
 
-- [Remove the unused DELETE summary endpoint to prevent summary deletion](https://github.com/NethServer/dev/issues/8047) (#7375) by tommaso-ascani (Created: 2026-06-18T09:50:31Z, Updated: 2026-06-24T09:07:21Z)
+- [Remove the unused DELETE summary endpoint to prevent summary deletion](https://github.com/NethServer/dev/issues/8047) (#7375) by tommaso-ascani (Created: 2026-06-18T09:50:31Z, Updated: 2026-06-26T07:20:41Z)
 
-- [Disabling call transcription/summary makes past transcripts/summaries unreadable in History](https://github.com/NethServer/dev/issues/8046) (#7375) by tommaso-ascani (Created: 2026-06-18T09:33:00Z, Updated: 2026-06-24T09:07:05Z)
+- [Disabling call transcription/summary makes past transcripts/summaries unreadable in History](https://github.com/NethServer/dev/issues/8046) (#7375) by tommaso-ascani (Created: 2026-06-18T09:33:00Z, Updated: 2026-06-26T07:20:39Z)
 
 ### NethVoice
 
