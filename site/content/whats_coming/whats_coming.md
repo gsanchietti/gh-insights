@@ -2,59 +2,29 @@
 
 title = 'To be released soon'
 
-date = 2026-06-26
+date = 2026-06-27
 
 +++
 
-### NethServer
+### NethVoice
 
-- [Expose get-password-expiration API in user portal for OpenLDAP and Samba](https://github.com/NethServer/dev/issues/8059) (#7375) by gsanchietti (Created: 2026-06-23T12:30:28Z, Updated: 2026-06-24T09:09:32Z)
+- [Grandstream WP810 provisioning requires persistent MAC ranges and custom Tancredi patterns](https://github.com/NethServer/dev/issues/8063) (#7123) by Stell0 (Created: 2026-06-25T08:19:26Z, Updated: 2026-06-26T14:20:04Z)
 
-- [UI page load requests hundreds of date-fns-locale packages unnecessarily](https://github.com/NethServer/dev/issues/8051) (#7375) by andre8244 (Created: 2026-06-19T13:47:04Z, Updated: 2026-06-19T17:47:21Z)
+- [Move the transcription/summary status endpoint under /history (/history/statuses)](https://github.com/NethServer/dev/issues/8049) (#7123) by tommaso-ascani (Created: 2026-06-18T10:31:41Z, Updated: 2026-06-26T07:20:43Z)
 
-- [Disable dnf-automatic on subscribed nodes](https://github.com/NethServer/dev/issues/8034) (#7375) by DavidePrincipi (Created: 2026-06-10T15:01:46Z, Updated: 2026-06-16T11:11:10Z)
+- [Remove the unused DELETE summary endpoint to prevent summary deletion](https://github.com/NethServer/dev/issues/8047) (#7123) by tommaso-ascani (Created: 2026-06-18T09:50:31Z, Updated: 2026-06-26T07:20:41Z)
 
-- [Pre-built image network failure handling](https://github.com/NethServer/dev/issues/8021) (#7375) by DavidePrincipi (Created: 2026-05-25T09:58:36Z, Updated: 2026-06-24T07:18:50Z)
+- [Disabling call transcription/summary makes past transcripts/summaries unreadable in History](https://github.com/NethServer/dev/issues/8046) (#7123) by tommaso-ascani (Created: 2026-06-18T09:33:00Z, Updated: 2026-06-26T07:20:39Z)
 
-- [Dnf repository credentials in system log](https://github.com/NethServer/dev/issues/8013) (#7375) by DavidePrincipi (Created: 2026-05-20T07:58:46Z, Updated: 2026-06-24T07:25:52Z)
+- [NethVoice CTI: Phone Island gets into inconsistent state after listen/barging call ends (if ended by A or B)](https://github.com/NethServer/dev/issues/8024) (#7123) by mgarra (Created: 2026-05-28T11:14:19Z, Updated: 2026-06-26T15:32:32Z)
 
-- [Show storage usage in node selection](https://github.com/NethServer/dev/issues/7992) (#7375) by DavidePrincipi (Created: 2026-05-05T16:35:20Z, Updated: 2026-05-28T08:09:55Z)
+- [NethVoice CTI: add level zero on phonebook permission](https://github.com/NethServer/dev/issues/7128) (#7123) by Amygos (Created: 2024-11-15T10:31:17Z, Updated: 2026-06-26T15:47:09Z)
 
-- [Password never expires: OpenLDAP support for individual users](https://github.com/NethServer/dev/issues/7981) (#7375) by DavidePrincipi (Created: 2026-04-23T08:24:46Z, Updated: 2026-06-19T17:30:55Z)
-
-- [Restore fails if spam_folder is empty](https://github.com/NethServer/dev/issues/7980) (#7375) by DavidePrincipi (Created: 2026-04-23T07:57:19Z, Updated: 2026-06-19T10:41:47Z)
-
-- [Add Rclone provider in backup destination creation workflow](https://github.com/NethServer/dev/issues/7966) (#7375) by DavidePrincipi (Created: 2026-04-17T09:46:26Z, Updated: 2026-06-16T11:11:23Z)
-
-- [Restore backup schedule within disaster recovery](https://github.com/NethServer/dev/issues/7883) (#7375) by DavidePrincipi (Created: 2026-02-18T18:38:38Z, Updated: 2026-05-22T14:06:10Z)
-
-- [Agent restart failed after concurrent update-core runs](https://github.com/NethServer/dev/issues/7877) (#7375) by DavidePrincipi (Created: 2026-02-16T14:46:37Z, Updated: 2026-05-20T08:16:27Z)
-
-- [Validate write permissions on backup destination](https://github.com/NethServer/dev/issues/7854) (#7375) by DavidePrincipi (Created: 2026-02-10T07:08:59Z, Updated: 2026-06-10T16:25:10Z)
-
-- [Configurable shell (nologin) for module service users](https://github.com/NethServer/dev/issues/7844) (#7375) by DavidePrincipi (Created: 2026-01-30T17:04:00Z, Updated: 2026-05-22T14:06:10Z)
-
-- [Centralized Backup Orchestration and Rclone-based Gateway](https://github.com/NethServer/dev/issues/7814) (#7375) by DavidePrincipi (Created: 2026-01-12T14:47:43Z, Updated: 2026-06-09T16:12:47Z)
-
-- [No cluster-backup in destinations](https://github.com/NethServer/dev/issues/7677) (#7375) by DavidePrincipi (Created: 2025-10-08T09:09:24Z, Updated: 2026-05-22T14:06:09Z)
-
-- [Inital root password of prebuilt images](https://github.com/NethServer/dev/issues/7673) (#7375) by nrauso (Created: 2025-10-02T13:01:20Z, Updated: 2026-06-24T07:23:06Z)
-
-- [Backup Samba repo validation](https://github.com/NethServer/dev/issues/7382) (#7375) by DavidePrincipi (Created: 2025-04-07T15:16:58Z, Updated: 2026-06-09T16:12:56Z)
-
-- [Samba logs flooded by Decryption Failed](https://github.com/NethServer/dev/issues/7375) (#7375) by DavidePrincipi (Created: 2025-04-03T11:01:21Z, Updated: 2026-05-29T16:43:53Z)
+- [New level of sharing contacts on NethVoice CTI Phonebook](https://github.com/NethServer/dev/issues/7123) (#7123) by Amygos (Created: 2024-11-15T10:30:57Z, Updated: 2026-06-26T15:43:59Z)
 
 ### NethVoice
 
-- [Move the transcription/summary status endpoint under /history (/history/statuses)](https://github.com/NethServer/dev/issues/8049) (#7375) by tommaso-ascani (Created: 2026-06-18T10:31:41Z, Updated: 2026-06-26T07:20:43Z)
-
-- [Remove the unused DELETE summary endpoint to prevent summary deletion](https://github.com/NethServer/dev/issues/8047) (#7375) by tommaso-ascani (Created: 2026-06-18T09:50:31Z, Updated: 2026-06-26T07:20:41Z)
-
-- [Disabling call transcription/summary makes past transcripts/summaries unreadable in History](https://github.com/NethServer/dev/issues/8046) (#7375) by tommaso-ascani (Created: 2026-06-18T09:33:00Z, Updated: 2026-06-26T07:20:39Z)
-
-### NethVoice
-
-- [NethVoice: metrics to be stored](https://github.com/NethServer/dev/issues/7652) (#7375) by andrea-marchionni (Created: 2025-09-23T15:26:49Z, Updated: 2026-06-24T08:56:10Z)
+- [NethVoice: metrics to be stored](https://github.com/NethServer/dev/issues/7652) (#7123) by andrea-marchionni (Created: 2025-09-23T15:26:49Z, Updated: 2026-06-24T08:56:10Z)
 
 ### 8.8.0
 

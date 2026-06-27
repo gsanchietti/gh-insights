@@ -1,6 +1,6 @@
 +++
 title = 'Open Pull Requests'
-date = 2026-06-26
+date = 2026-06-27
 +++
 
 ## Organization: nethserver
@@ -43,12 +43,6 @@ date = 2026-06-26
 
 - :eyes:  **[Add alerts and collections pages](https://github.com/NethServer/ns8-crowdsec/pull/177)** by *stephdl* - Reviewers: *None* - Created at: 2026-06-24T11:43:08Z
 
-### NethServer/ns8-docs 3 
-
-- :eyes:  **[docs: clarify host software port conflicts](https://github.com/NethServer/ns8-docs/pull/243)** by *DavidePrincipi* - Reviewers: *None* - Created at: 2026-06-24T15:34:33Z
--  :zzz: **[feat: password never expires for OpenLDAP](https://github.com/NethServer/ns8-docs/pull/236)** by *DavidePrincipi* - Reviewers: *nrauso* - Created at: 2026-05-21T14:51:31Z
--  :zzz: **[Explain generated root password](https://github.com/NethServer/ns8-docs/pull/231)** by *mrmarkuz* - Reviewers: *DavidePrincipi* - Created at: 2026-04-16T13:45:56Z
-
 ### NethServer/nethsecurity-ui 1 
 
 - :eyes:  **[chore(main): release 2.22.3](https://github.com/NethServer/nethsecurity-ui/pull/792)** by *Tbaile* - Reviewers: *None* - Created at: 2026-06-25T13:43:50Z
@@ -57,9 +51,8 @@ date = 2026-06-26
 
 -  :zzz: **[feat: added softflowd doc](https://github.com/NethServer/nethsecurity-docs/pull/227)** by *Tbaile* - Reviewers: *cotosso* - Created at: 2026-03-05T09:29:42Z
 
-### NethServer/ns8-imapsync 3 
+### NethServer/ns8-imapsync 2 
 
-- :eyes:  **[Fix exclusion patterns for folder synchronization](https://github.com/NethServer/ns8-imapsync/pull/113)** by *stephdl* - Reviewers: *None* - Created at: 2026-06-23T14:42:15Z
 - :eyes:  **[Add last sync status and log download to each task.](https://github.com/NethServer/ns8-imapsync/pull/111)** by *stephdl* - Reviewers: *None* - Created at: 2026-06-22T15:38:57Z
 - :eyes: :zzz: **[fix: Exchange support, file age calculation and safe arg quoting](https://github.com/NethServer/ns8-imapsync/pull/102)** by *stephdl* - Reviewers: *None* - Created at: 2026-05-22T07:20:29Z
 
@@ -79,8 +72,9 @@ date = 2026-06-26
 
 - :eyes:  **[Refactor test-module workflow to run tests directly](https://github.com/NethServer/ns8-wordpress/pull/80)** by *stephdl* - Reviewers: *None* - Created at: 2026-06-18T13:23:04Z
 
-### NethServer/nethlink 2 
+### NethServer/nethlink 3 
 
+- :eyes:  **[Fix: clean store after listen or intrude call](https://github.com/NethServer/nethlink/pull/170)** by *tonyco97* - Reviewers: *None* - Created at: 2026-06-26T13:48:26Z
 - :eyes:  **[fix: new Layout for phonebook section](https://github.com/NethServer/nethlink/pull/161)** by *tonyco97* - Reviewers: *None* - Created at: 2026-06-11T15:04:13Z
 - :eyes: :zzz: **[feat: added transcription for NethLink](https://github.com/NethServer/nethlink/pull/104)** by *tonyco97* - Reviewers: *None* - Created at: 2026-03-13T09:29:26Z
 
@@ -91,10 +85,6 @@ date = 2026-06-26
 ### NethServer/my 1 
 
 - :eyes: :zzz: **[feat(support): add support service with WebSockets and Yamux](https://github.com/NethServer/my/pull/47)** by *edospadoni* - Reviewers: *None* - Created at: 2026-03-10T08:00:00Z
-
-### NethServer/nethvoice-docs 1 
-
-- :eyes: :zzz: **[chore: created sharing phonebook documentation](https://github.com/NethServer/nethvoice-docs/pull/54)** by *tonyco97* - Reviewers: *None* - Created at: 2026-05-26T12:47:28Z
 
 ## Organization: nethesis
 
@@ -114,6 +104,30 @@ date = 2026-06-26
 
 -  :zzz: **[feat: added OAuth login](https://github.com/nethesis/icaro/pull/200)** by *edospadoni* - Reviewers: *Amygos* - Created at: 2025-09-10T10:04:49Z
 
+### nethesis/returnontransfer 1 
+
+- :eyes:  **[Mark module as obsolete and update link](https://github.com/nethesis/returnontransfer/pull/8)** by *Stell0* - Reviewers: *None* - Created at: 2026-06-26T16:01:48Z
+
+### nethesis/nethdash 1 
+
+- :eyes:  **[Mark module as obsolete and update link](https://github.com/nethesis/nethdash/pull/1)** by *Stell0* - Reviewers: *None* - Created at: 2026-06-26T16:01:55Z
+
+### nethesis/directdid 1 
+
+- :eyes:  **[Mark module as obsolete and update link](https://github.com/nethesis/directdid/pull/8)** by *Stell0* - Reviewers: *None* - Created at: 2026-06-26T16:01:46Z
+
+### nethesis/RapidCode 1 
+
+- :eyes:  **[Mark module as obsolete and add new link](https://github.com/nethesis/RapidCode/pull/2)** by *Stell0* - Reviewers: *None* - Created at: 2026-06-26T16:01:50Z
+
+### nethesis/queueexit 1 
+
+- :eyes:  **[Mark module as obsolete and update link](https://github.com/nethesis/queueexit/pull/2)** by *Stell0* - Reviewers: *None* - Created at: 2026-06-26T16:01:53Z
+
+### nethesis/freepbx-extraoptions 1 
+
+- :eyes:  **[Mark module as obsolete and provide new link](https://github.com/nethesis/freepbx-extraoptions/pull/2)** by *Stell0* - Reviewers: *None* - Created at: 2026-06-26T15:57:39Z
+
 ### nethesis/nethcti-app-android 1 
 
 -  :zzz: **[Removed old notificator](https://github.com/nethesis/nethcti-app-android/pull/30)** by *mirkopruiti* - Reviewers: *61f7b7437262085c97876892ddf9c0d8* - Created at: 2023-08-02T09:35:24Z
@@ -122,20 +136,14 @@ date = 2026-06-26
 
 -  :zzz: **[Removed old notification service usage](https://github.com/nethesis/nethcti-app-iphone/pull/37)** by *NicolaMrAPPs* - Reviewers: *61f7b7437262085c97876892ddf9c0d8* - Created at: 2023-08-02T09:19:30Z
 
-### nethesis/tancredi 3 
-
-- :eyes:  **[fix(provisioning): Prefer writable patterns](https://github.com/nethesis/tancredi/pull/384)** by *Stell0* - Reviewers: *None* - Created at: 2026-06-25T09:30:29Z
-- :eyes: :zzz: **[Gigaset 825/855](https://github.com/nethesis/tancredi/pull/374)** by *andrea-marchionni* - Reviewers: *None* - Created at: 2026-05-15T07:16:46Z
-- :eyes: :zzz: **[Add configuration file for Fanvil V50G model](https://github.com/nethesis/tancredi/pull/373)** by *viktec* - Reviewers: *None* - Created at: 2026-05-12T10:50:03Z
-
 ### nethesis/nethvoice-report 1 
 
 - :eyes: :zzz: **[feat: add cookie support for support proxy integration](https://github.com/nethesis/nethvoice-report/pull/209)** by *edospadoni* - Reviewers: *None* - Created at: 2026-03-30T08:57:52Z
 
 ### nethesis/ns8-nethvoice 11 
 
-- :eyes:  **[fix(tancredi): Add Grandstream mac and fix tancredi custom patterns](https://github.com/nethesis/ns8-nethvoice/pull/878)** by *Stell0* - Reviewers: *None* - Created at: 2026-06-25T09:36:04Z
-- :eyes:  **[chore(deps): update ghcr.io/nethesis/nethvoice-cti docker tag to testing version](https://github.com/nethesis/ns8-nethvoice/pull/877)** by *tonyco97* - Reviewers: *None* - Created at: 2026-06-25T08:13:36Z
+- :eyes:  **[feat: added missing phonebook fields](https://github.com/nethesis/ns8-nethvoice/pull/883)** by *tonyco97* - Reviewers: *None* - Created at: 2026-06-26T16:09:07Z
+- :eyes:  **[chores(tancredi): Update Tancredi to 1.10.0](https://github.com/nethesis/ns8-nethvoice/pull/882)** by *Stell0* - Reviewers: *None* - Created at: 2026-06-26T15:37:42Z
 - :eyes:  **[fix(freepbx): apply satellite_stt rename on existing installs](https://github.com/nethesis/ns8-nethvoice/pull/876)** by *tommaso-ascani* - Reviewers: *None* - Created at: 2026-06-24T12:47:17Z
 -   **[feat(skills): Add skills to test NethServer8 module and NethVoice](https://github.com/nethesis/ns8-nethvoice/pull/869)** by *Stell0* - Reviewers: *Amygos, edospadoni, gsanchietti* - Created at: 2026-06-19T07:55:26Z
 - :eyes:  **[fix(dialplan): Preserve trunk SRTP marker](https://github.com/nethesis/ns8-nethvoice/pull/860)** by *Stell0* - Reviewers: *None* - Created at: 2026-06-16T06:29:05Z
@@ -146,10 +154,13 @@ date = 2026-06-26
 - :eyes: :zzz: **[feat: implement AGI script for handling calls answered elsewhere](https://github.com/nethesis/ns8-nethvoice/pull/751)** by *tommaso-ascani* - Reviewers: *None* - Created at: 2026-04-03T17:39:50Z
 -  :zzz: **[Matrix integration](https://github.com/nethesis/ns8-nethvoice/pull/627)** by *gsanchietti* - Reviewers: *Amygos* - Created at: 2025-12-10T11:32:50Z
 
-### nethesis/nethvoice-cti 2 
+### nethesis/nethvoice-cti 1 
 
-- :eyes:  **[Fix: clean store after listen or intrude call](https://github.com/nethesis/nethvoice-cti/pull/513)** by *tonyco97* - Reviewers: *None* - Created at: 2026-06-25T08:06:40Z
 - :eyes: :zzz: **[feat: enhance call disposition handling with new utility functions](https://github.com/nethesis/nethvoice-cti/pull/457)** by *tommaso-ascani* - Reviewers: *None* - Created at: 2026-04-03T17:36:17Z
+
+### nethesis/phone-island 1 
+
+- :eyes:  **[fix: better island view on video streaming](https://github.com/nethesis/phone-island/pull/253)** by *tonyco97* - Reviewers: *None* - Created at: 2026-06-26T08:30:15Z
 
 ### nethesis/ns8-nethvoice-proxy 7 
 
