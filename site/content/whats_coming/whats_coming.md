@@ -2,7 +2,7 @@
 
 title = 'To be released soon'
 
-date = 2026-06-28
+date = 2026-06-29
 
 +++
 
@@ -10,21 +10,15 @@ date = 2026-06-28
 
 - [Grandstream WP810 provisioning requires persistent MAC ranges and custom Tancredi patterns](https://github.com/NethServer/dev/issues/8063) (#7123) by Stell0 (Created: 2026-06-25T08:19:26Z, Updated: 2026-06-26T14:20:04Z)
 
-- [Move the transcription/summary status endpoint under /history (/history/statuses)](https://github.com/NethServer/dev/issues/8049) (#7123) by tommaso-ascani (Created: 2026-06-18T10:31:41Z, Updated: 2026-06-26T07:20:43Z)
-
-- [Remove the unused DELETE summary endpoint to prevent summary deletion](https://github.com/NethServer/dev/issues/8047) (#7123) by tommaso-ascani (Created: 2026-06-18T09:50:31Z, Updated: 2026-06-26T07:20:41Z)
-
-- [Disabling call transcription/summary makes past transcripts/summaries unreadable in History](https://github.com/NethServer/dev/issues/8046) (#7123) by tommaso-ascani (Created: 2026-06-18T09:33:00Z, Updated: 2026-06-26T07:20:39Z)
-
 - [NethVoice CTI: Phone Island gets into inconsistent state after listen/barging call ends (if ended by A or B)](https://github.com/NethServer/dev/issues/8024) (#7123) by mgarra (Created: 2026-05-28T11:14:19Z, Updated: 2026-06-26T15:32:32Z)
 
 - [NethVoice CTI: add level zero on phonebook permission](https://github.com/NethServer/dev/issues/7128) (#7123) by Amygos (Created: 2024-11-15T10:31:17Z, Updated: 2026-06-26T15:47:09Z)
 
 - [New level of sharing contacts on NethVoice CTI Phonebook](https://github.com/NethServer/dev/issues/7123) (#7123) by Amygos (Created: 2024-11-15T10:30:57Z, Updated: 2026-06-26T15:43:59Z)
 
-### NethVoice
+### NoMilestone
 
-- [NethVoice: metrics to be stored](https://github.com/NethServer/dev/issues/7652) (#7123) by andrea-marchionni (Created: 2025-09-23T15:26:49Z, Updated: 2026-06-24T08:56:10Z)
+- [Imapsync task fails when processing subfolders under Public or Shared](https://github.com/NethServer/dev/issues/8061) (#7123) by lucagasparini (Created: 2026-06-23T13:55:04Z, Updated: 2026-06-29T07:50:16Z)
 
 ### 8.8.0
 
@@ -42,13 +36,13 @@ date = 2026-06-28
 
 - [Add Avahi (mDNS) package in NethSecurity repos](https://github.com/NethServer/nethsecurity/issues/1625) (#1298) by cotosso (Created: 2026-04-29T10:54:40Z, Updated: 2026-05-25T12:23:50Z)
 
-- [Add "DON'T TRACK" action to firewall rules](https://github.com/NethServer/nethsecurity/issues/1617) (#1298) by cotosso (Created: 2026-04-28T14:06:49Z, Updated: 2026-05-18T13:22:14Z)
+- [Add "NOTRACK" action to firewall rules](https://github.com/NethServer/nethsecurity/issues/1617) (#1298) by cotosso (Created: 2026-04-28T14:06:49Z, Updated: 2026-06-29T08:49:10Z)
 
 - [Extra packages not restored after image upgrade](https://github.com/NethServer/nethsecurity/issues/1606) (#1298) by filippocarletti (Created: 2026-04-21T14:50:00Z, Updated: 2026-06-05T07:59:03Z)
 
 - [Provide to the Community version some features currently available only in subscription-based versions](https://github.com/NethServer/nethsecurity/issues/1602) (#1298) by cotosso (Created: 2026-04-20T15:53:56Z, Updated: 2026-05-28T08:18:34Z)
 
-- [UI support for Geo IP management in Threat Shield IP](https://github.com/NethServer/nethsecurity/issues/1586) (#1298) by cotosso (Created: 2026-04-08T12:38:24Z, Updated: 2026-06-17T10:25:27Z)
+- [UI support for Geo IP management in Threat Shield IP](https://github.com/NethServer/nethsecurity/issues/1586) (#1298) by cotosso (Created: 2026-04-08T12:38:24Z, Updated: 2026-06-29T08:34:18Z)
 
 - [Adblock restarts with empty lists after repeated blocklist/allowlist additions or deletions](https://github.com/NethServer/nethsecurity/issues/1572) (#1298) by cotosso (Created: 2026-03-20T11:50:02Z, Updated: 2026-05-29T07:15:00Z)
 

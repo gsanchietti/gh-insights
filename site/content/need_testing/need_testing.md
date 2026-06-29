@@ -1,10 +1,7 @@
 +++
-title = 'Need testing (6)'
-date = 2026-06-28
+title = 'Need testing (5)'
+date = 2026-06-29
 +++
-
-## NoMilestone
-- **[Imapsync task fails when processing subfolders under Public or Shared](https://github.com/NethServer/dev/issues/8061)** (#7967) by *lucagasparini* (Created: 2026-06-23, Updated: 2026-06-26T09:44:16Z)
 
 ## NethVoice
 - :point_right: **[NethVoice : Add support for Fanvil V50G phone model](https://github.com/NethServer/dev/issues/8002)** (#7967) by *viktec* (Created: 2026-05-12, Updated: 2026-06-26T16:04:22Z)
