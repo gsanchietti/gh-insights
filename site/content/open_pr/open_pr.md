@@ -1,6 +1,6 @@
 +++
 title = 'Open Pull Requests'
-date = 2026-06-29
+date = 2026-06-30
 +++
 
 ## Organization: nethserver
@@ -30,8 +30,10 @@ date = 2026-06-29
 
 -   **[Add leave-replica action with input validation](https://github.com/NethServer/ns8-openldap/pull/134)** by *stephdl* - Reviewers: *DavidePrincipi* - Created at: 2026-06-10T10:39:06Z
 
-### NethServer/nethsecurity 2 
+### NethServer/nethsecurity 4 
 
+-   **[feat(rsyslog): allow arbitrary selection of the listening port](https://github.com/NethServer/nethsecurity/pull/1758)** by *Tbaile* - Reviewers: *gsanchietti* - Created at: 2026-06-30T07:47:33Z
+- :eyes:  **[fix(vmalert): use passwordFile option](https://github.com/NethServer/nethsecurity/pull/1748)** by *gsanchietti* - Reviewers: *None* - Created at: 2026-06-29T09:44:24Z
 -   **[fix(ns-ui): increase ui calls timeout to 180 seconds](https://github.com/NethServer/nethsecurity/pull/1747)** by *m-dilorenzi* - Reviewers: *Tbaile* - Created at: 2026-06-26T07:05:49Z
 - :eyes:  **[chore(monitoring): bumped tool versions](https://github.com/NethServer/nethsecurity/pull/1733)** by *Tbaile* - Reviewers: *None* - Created at: 2026-06-18T09:48:17Z
 
@@ -47,13 +49,16 @@ date = 2026-06-29
 
 - :eyes:  **[chore(main): release 2.22.3](https://github.com/NethServer/nethsecurity-ui/pull/792)** by *Tbaile* - Reviewers: *None* - Created at: 2026-06-25T13:43:50Z
 
-### NethServer/nethsecurity-docs 1 
+### NethServer/nethsecurity-docs 3 
 
+-   **[docs: added documentation on how to enable receiving logs from remote](https://github.com/NethServer/nethsecurity-docs/pull/284)** by *Tbaile* - Reviewers: *gsanchietti* - Created at: 2026-06-30T07:50:56Z
+-   **[Document data retention policies for Hotspot service](https://github.com/NethServer/nethsecurity-docs/pull/283)** by *cotosso* - Reviewers: *mamengoni* - Created at: 2026-06-29T10:51:50Z
 -  :zzz: **[feat: added softflowd doc](https://github.com/NethServer/nethsecurity-docs/pull/227)** by *Tbaile* - Reviewers: *cotosso* - Created at: 2026-03-05T09:29:42Z
 
-### NethServer/ns8-imapsync 2 
+### NethServer/ns8-imapsync 3 
 
-- :eyes:  **[Add last sync status and log download to each task.](https://github.com/NethServer/ns8-imapsync/pull/111)** by *stephdl* - Reviewers: *None* - Created at: 2026-06-22T15:38:57Z
+-   **[Add NS8 Module architecture guide and reference AGENTS.md](https://github.com/NethServer/ns8-imapsync/pull/116)** by *stephdl* - Reviewers: *Stell0* - Created at: 2026-06-29T17:05:25Z
+-   **[Add last sync status and log download to each task.](https://github.com/NethServer/ns8-imapsync/pull/111)** by *stephdl* - Reviewers: *DavidePrincipi* - Created at: 2026-06-22T15:38:57Z
 - :eyes: :zzz: **[fix: Exchange support, file age calculation and safe arg quoting](https://github.com/NethServer/ns8-imapsync/pull/102)** by *stephdl* - Reviewers: *None* - Created at: 2026-05-22T07:20:29Z
 
 ### NethServer/ns8-user-manager 1 
@@ -71,12 +76,6 @@ date = 2026-06-29
 ### NethServer/ns8-wordpress 1 
 
 - :eyes:  **[Refactor test-module workflow to run tests directly](https://github.com/NethServer/ns8-wordpress/pull/80)** by *stephdl* - Reviewers: *None* - Created at: 2026-06-18T13:23:04Z
-
-### NethServer/nethlink 3 
-
-- :eyes:  **[Fix: clean store after listen or intrude call](https://github.com/NethServer/nethlink/pull/170)** by *tonyco97* - Reviewers: *None* - Created at: 2026-06-26T13:48:26Z
-- :eyes:  **[fix: new Layout for phonebook section](https://github.com/NethServer/nethlink/pull/161)** by *tonyco97* - Reviewers: *None* - Created at: 2026-06-11T15:04:13Z
-- :eyes: :zzz: **[feat: added transcription for NethLink](https://github.com/NethServer/nethlink/pull/104)** by *tonyco97* - Reviewers: *None* - Created at: 2026-03-13T09:29:26Z
 
 ### NethServer/ns8-passbolt 1 
 
@@ -140,8 +139,10 @@ date = 2026-06-29
 
 - :eyes: :zzz: **[feat: add cookie support for support proxy integration](https://github.com/nethesis/nethvoice-report/pull/209)** by *edospadoni* - Reviewers: *None* - Created at: 2026-03-30T08:57:52Z
 
-### nethesis/ns8-nethvoice 11 
+### nethesis/ns8-nethvoice 13 
 
+- :eyes:  **[feat(fias): Add Dirty/Vacant feature code](https://github.com/nethesis/ns8-nethvoice/pull/885)** by *Stell0* - Reviewers: *None* - Created at: 2026-06-29T14:20:43Z
+- :eyes:  **[feat: sync contact on creation](https://github.com/nethesis/ns8-nethvoice/pull/884)** by *tonyco97* - Reviewers: *None* - Created at: 2026-06-29T09:49:18Z
 - :eyes:  **[feat: added missing phonebook fields](https://github.com/nethesis/ns8-nethvoice/pull/883)** by *tonyco97* - Reviewers: *None* - Created at: 2026-06-26T16:09:07Z
 - :eyes:  **[chores(tancredi): Update Tancredi to 1.10.0](https://github.com/nethesis/ns8-nethvoice/pull/882)** by *Stell0* - Reviewers: *None* - Created at: 2026-06-26T15:37:42Z
 - :eyes:  **[fix(freepbx): apply satellite_stt rename on existing installs](https://github.com/nethesis/ns8-nethvoice/pull/876)** by *tommaso-ascani* - Reviewers: *None* - Created at: 2026-06-24T12:47:17Z
@@ -189,8 +190,9 @@ date = 2026-06-29
 
 -  :zzz: **[Multi-Provider Transcription Support (REST/Batch Path)](https://github.com/nethesis/satellite/pull/31)** by *Amygos* - Reviewers: *Stell0* - Created at: 2026-02-16T09:08:57Z
 
-### nethesis/nethcti-middleware 2 
+### nethesis/nethcti-middleware 3 
 
+- :eyes:  **[feat: sync contact on creation](https://github.com/nethesis/nethcti-middleware/pull/64)** by *tonyco97* - Reviewers: *None* - Created at: 2026-06-29T09:46:46Z
 - :eyes: :zzz: **[feat: add support user authentication for FreePBX CTI APIs](https://github.com/nethesis/nethcti-middleware/pull/42)** by *edospadoni* - Reviewers: *None* - Created at: 2026-03-30T08:59:50Z
 -  :zzz: **[feat: add GET /chat endpoint](https://github.com/nethesis/nethcti-middleware/pull/16)** by *gsanchietti* - Reviewers: *tommaso-ascani* - Created at: 2025-12-17T10:53:42Z
 

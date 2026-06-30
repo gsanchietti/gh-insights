@@ -2,9 +2,13 @@
 
 title = 'To be released soon'
 
-date = 2026-06-29
+date = 2026-06-30
 
 +++
+
+### NethServer
+
+- [Backup prune silently fails for 504 gateway-timeout errors](https://github.com/NethServer/dev/issues/8070) (#7123) by DavidePrincipi (Created: 2026-06-29T15:49:36Z, Updated: 2026-06-29T16:59:27Z)
 
 ### NethVoice
 
@@ -42,7 +46,7 @@ date = 2026-06-29
 
 - [Provide to the Community version some features currently available only in subscription-based versions](https://github.com/NethServer/nethsecurity/issues/1602) (#1298) by cotosso (Created: 2026-04-20T15:53:56Z, Updated: 2026-05-28T08:18:34Z)
 
-- [UI support for Geo IP management in Threat Shield IP](https://github.com/NethServer/nethsecurity/issues/1586) (#1298) by cotosso (Created: 2026-04-08T12:38:24Z, Updated: 2026-06-29T08:34:18Z)
+- [UI support for Geo IP management in Threat Shield IP](https://github.com/NethServer/nethsecurity/issues/1586) (#1298) by cotosso (Created: 2026-04-08T12:38:24Z, Updated: 2026-06-29T10:20:20Z)
 
 - [Adblock restarts with empty lists after repeated blocklist/allowlist additions or deletions](https://github.com/NethServer/nethsecurity/issues/1572) (#1298) by cotosso (Created: 2026-03-20T11:50:02Z, Updated: 2026-05-29T07:15:00Z)
 
