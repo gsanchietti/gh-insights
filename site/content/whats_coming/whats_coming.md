@@ -2,7 +2,7 @@
 
 title = 'To be released soon'
 
-date = 2026-06-30
+date = 2026-07-01
 
 +++
 
@@ -53,6 +53,8 @@ date = 2026-06-30
 - [ns-ha: possible race condition if switches happen close to one another ](https://github.com/NethServer/nethsecurity/issues/1547) (#1298) by Tbaile (Created: 2026-03-03T13:20:04Z, Updated: 2026-06-18T07:41:20Z)
 
 - [Unify traffic logging option visualization in firewall UI](https://github.com/NethServer/nethsecurity/issues/1456) (#1298) by cotosso (Created: 2025-12-15T16:05:58Z, Updated: 2026-05-28T08:10:15Z)
+
+- [Support multiple DHCP ranges from UI](https://github.com/NethServer/nethsecurity/issues/1448) (#1298) by cotosso (Created: 2025-12-03T08:16:19Z, Updated: 2026-06-30T09:28:35Z)
 
 - [Invalid configuration: dpd_action = start accepted but not supported by strongSwan](https://github.com/NethServer/nethsecurity/issues/1298) (#1298) by cotosso (Created: 2025-07-08T10:21:05Z, Updated: 2026-05-27T14:50:54Z)
 

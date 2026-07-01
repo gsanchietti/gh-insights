@@ -1,6 +1,6 @@
 +++
-title = 'Need testing (6)'
-date = 2026-06-30
+title = 'Need testing (5)'
+date = 2026-07-01
 +++
 
 ## NethVoice
@@ -12,6 +12,5 @@ date = 2026-06-30
 - :point_right: **[Update dependencies - NethServer 8.9](https://github.com/NethServer/dev/issues/7967)** (#7129) by *DavidePrincipi* (Created: 2026-04-20, Updated: 2026-06-17T10:47:27Z)
 
 ## 8.8.0
-- :point_right: **[Monitoring: adding long time storage for metrics](https://github.com/NethServer/nethsecurity/issues/1656)** (#1448) by *Tbaile* (Created: 2026-05-12, Updated: 2026-05-15T13:19:16Z)
-- :point_right: **[Support multiple DHCP ranges from UI](https://github.com/NethServer/nethsecurity/issues/1448)** (#1448) by *cotosso* (Created: 2025-12-03, Updated: 2026-06-23T12:45:21Z)
+- :point_right: **[Monitoring: adding long time storage for metrics](https://github.com/NethServer/nethsecurity/issues/1656)** (#1656) by *Tbaile* (Created: 2026-05-12, Updated: 2026-05-15T13:19:16Z)
 
