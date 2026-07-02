@@ -2,27 +2,19 @@
 
 title = 'To be released soon'
 
-date = 2026-07-01
+date = 2026-07-02
 
 +++
 
 ### NethServer
 
-- [Backup prune silently fails for 504 gateway-timeout errors](https://github.com/NethServer/dev/issues/8070) (#7123) by DavidePrincipi (Created: 2026-06-29T15:49:36Z, Updated: 2026-06-29T16:59:27Z)
+- [Backup prune silently fails for 504 gateway-timeout errors](https://github.com/NethServer/dev/issues/8070) (#7128) by DavidePrincipi (Created: 2026-06-29T15:49:36Z, Updated: 2026-07-01T11:07:33Z)
 
 ### NethVoice
 
-- [Grandstream WP810 provisioning requires persistent MAC ranges and custom Tancredi patterns](https://github.com/NethServer/dev/issues/8063) (#7123) by Stell0 (Created: 2026-06-25T08:19:26Z, Updated: 2026-06-26T14:20:04Z)
+- [Single contact sync from NethVoice CTI to NethVoice](https://github.com/NethServer/dev/issues/7129) (#7128) by Amygos (Created: 2024-11-15T10:31:20Z, Updated: 2026-07-01T14:26:29Z)
 
-- [NethVoice CTI: Phone Island gets into inconsistent state after listen/barging call ends (if ended by A or B)](https://github.com/NethServer/dev/issues/8024) (#7123) by mgarra (Created: 2026-05-28T11:14:19Z, Updated: 2026-06-26T15:32:32Z)
-
-- [NethVoice CTI: add level zero on phonebook permission](https://github.com/NethServer/dev/issues/7128) (#7123) by Amygos (Created: 2024-11-15T10:31:17Z, Updated: 2026-06-26T15:47:09Z)
-
-- [New level of sharing contacts on NethVoice CTI Phonebook](https://github.com/NethServer/dev/issues/7123) (#7123) by Amygos (Created: 2024-11-15T10:30:57Z, Updated: 2026-06-26T15:43:59Z)
-
-### NoMilestone
-
-- [Imapsync task fails when processing subfolders under Public or Shared](https://github.com/NethServer/dev/issues/8061) (#7123) by lucagasparini (Created: 2026-06-23T13:55:04Z, Updated: 2026-06-29T07:50:16Z)
+- [NethVoice CTI: add level zero on phonebook permission](https://github.com/NethServer/dev/issues/7128) (#7128) by Amygos (Created: 2024-11-15T10:31:17Z, Updated: 2026-06-26T15:47:09Z)
 
 ### 8.8.0
 

@@ -1,6 +1,6 @@
 +++
 title = 'Open Pull Requests'
-date = 2026-07-01
+date = 2026-07-02
 +++
 
 ## Organization: nethserver
@@ -12,7 +12,7 @@ date = 2026-07-01
 
 ### NethServer/ns8-kickstart 1 
 
-- :eyes:  **[docs: Add repository guidance](https://github.com/NethServer/ns8-kickstart/pull/121)** by *Stell0* - Reviewers: *None* - Created at: 2026-06-01T12:47:20Z
+- :eyes: :zzz: **[docs: Add repository guidance](https://github.com/NethServer/ns8-kickstart/pull/121)** by *Stell0* - Reviewers: *None* - Created at: 2026-06-01T12:47:20Z
 
 ### NethServer/ns8-dokuwiki 1 
 
@@ -34,8 +34,9 @@ date = 2026-07-01
 
 - :eyes:  **[chore(monitoring): bumped tool versions](https://github.com/NethServer/nethsecurity/pull/1733)** by *Tbaile* - Reviewers: *None* - Created at: 2026-06-18T09:48:17Z
 
-### NethServer/phonehome-server 1 
+### NethServer/phonehome-server 2 
 
+-   **[feat: stats nightly refresh (materialized views)](https://github.com/NethServer/phonehome-server/pull/154)** by *gsanchietti* - Reviewers: *Tbaile* - Created at: 2026-06-30T12:15:12Z
 - :eyes: :zzz: **[chore(master): release 1.5.1](https://github.com/NethServer/phonehome-server/pull/138)** by *Tbaile* - Reviewers: *None* - Created at: 2025-11-15T06:38:38Z
 
 ### NethServer/ns8-crowdsec 1 
@@ -56,10 +57,9 @@ date = 2026-07-01
 - :eyes:  **[docs: added documentation on how to enable receiving logs from remote](https://github.com/NethServer/nethsecurity-docs/pull/284)** by *Tbaile* - Reviewers: *None* - Created at: 2026-06-30T07:50:56Z
 -  :zzz: **[feat: added softflowd doc](https://github.com/NethServer/nethsecurity-docs/pull/227)** by *Tbaile* - Reviewers: *cotosso* - Created at: 2026-03-05T09:29:42Z
 
-### NethServer/ns8-imapsync 3 
+### NethServer/ns8-imapsync 2 
 
 -   **[Add NS8 Module architecture guide and reference AGENTS.md](https://github.com/NethServer/ns8-imapsync/pull/116)** by *stephdl* - Reviewers: *Stell0* - Created at: 2026-06-29T17:05:25Z
-- :eyes:  **[Add last sync status and log download to each task.](https://github.com/NethServer/ns8-imapsync/pull/111)** by *stephdl* - Reviewers: *None* - Created at: 2026-06-22T15:38:57Z
 - :eyes: :zzz: **[fix: Exchange support, file age calculation and safe arg quoting](https://github.com/NethServer/ns8-imapsync/pull/102)** by *stephdl* - Reviewers: *None* - Created at: 2026-05-22T07:20:29Z
 
 ### NethServer/ns8-user-manager 1 
@@ -140,19 +140,18 @@ date = 2026-07-01
 
 - :eyes: :zzz: **[feat: add cookie support for support proxy integration](https://github.com/nethesis/nethvoice-report/pull/209)** by *edospadoni* - Reviewers: *None* - Created at: 2026-03-30T08:57:52Z
 
-### nethesis/ns8-nethvoice 15 
+### nethesis/ns8-nethvoice 14 
 
+- :eyes:  **[fix: added missing macro for streaming source](https://github.com/nethesis/ns8-nethvoice/pull/890)** by *tonyco97* - Reviewers: *None* - Created at: 2026-07-01T11:15:34Z
 - :eyes:  **[fix: added missing infinite scroll inside voicemail section](https://github.com/nethesis/ns8-nethvoice/pull/889)** by *tonyco97* - Reviewers: *None* - Created at: 2026-07-01T08:06:17Z
--   **[Fix: better phone-island view for incoming calls](https://github.com/nethesis/ns8-nethvoice/pull/888)** by *tonyco97* - Reviewers: *tommaso-ascani* - Created at: 2026-07-01T06:08:59Z
+- :eyes:  **[Fix: better phone-island view for incoming calls](https://github.com/nethesis/ns8-nethvoice/pull/888)** by *tonyco97* - Reviewers: *None* - Created at: 2026-07-01T06:08:59Z
 - :eyes:  **[fix(recallonbusy): create file also if exists but is empty](https://github.com/nethesis/ns8-nethvoice/pull/887)** by *Stell0* - Reviewers: *None* - Created at: 2026-06-30T08:53:04Z
 - :eyes:  **[feat(fias): Add Dirty/Vacant feature code](https://github.com/nethesis/ns8-nethvoice/pull/885)** by *Stell0* - Reviewers: *None* - Created at: 2026-06-29T14:20:43Z
 - :eyes:  **[feat: sync contact on creation](https://github.com/nethesis/ns8-nethvoice/pull/884)** by *tonyco97* - Reviewers: *None* - Created at: 2026-06-29T09:49:18Z
 - :eyes:  **[feat: added missing phonebook fields](https://github.com/nethesis/ns8-nethvoice/pull/883)** by *tonyco97* - Reviewers: *None* - Created at: 2026-06-26T16:09:07Z
 - :eyes:  **[chores(tancredi): Update Tancredi to 1.10.0](https://github.com/nethesis/ns8-nethvoice/pull/882)** by *Stell0* - Reviewers: *None* - Created at: 2026-06-26T15:37:42Z
-- :eyes:  **[fix(freepbx): apply satellite_stt rename on existing installs](https://github.com/nethesis/ns8-nethvoice/pull/876)** by *tommaso-ascani* - Reviewers: *None* - Created at: 2026-06-24T12:47:17Z
 - :eyes:  **[fix(dialplan): Preserve trunk SRTP marker](https://github.com/nethesis/ns8-nethvoice/pull/860)** by *Stell0* - Reviewers: *None* - Created at: 2026-06-16T06:29:05Z
 - :eyes: :zzz: **[Fias hotel log and fix](https://github.com/nethesis/ns8-nethvoice/pull/827)** by *Stell0* - Reviewers: *None* - Created at: 2026-05-12T14:25:05Z
-- :eyes: :zzz: **[fix: update NethCTI image tag and commit argument for build process](https://github.com/nethesis/ns8-nethvoice/pull/822)** by *tommaso-ascani* - Reviewers: *None* - Created at: 2026-05-11T12:10:28Z
 -  :zzz: **[fix: RTP/UDP ports allocation](https://github.com/nethesis/ns8-nethvoice/pull/817)** by *tommaso-ascani* - Reviewers: *Stell0, Amygos* - Created at: 2026-05-08T11:06:59Z
 - :eyes: :zzz: **[Adding MultiWire and Vianova as provider VoIP](https://github.com/nethesis/ns8-nethvoice/pull/808)** by *andrea-marchionni* - Reviewers: *None* - Created at: 2026-05-04T11:06:50Z
 - :eyes: :zzz: **[feat: implement AGI script for handling calls answered elsewhere](https://github.com/nethesis/ns8-nethvoice/pull/751)** by *tommaso-ascani* - Reviewers: *None* - Created at: 2026-04-03T17:39:50Z
@@ -161,15 +160,16 @@ date = 2026-07-01
 ### nethesis/nethvoice-cti 3 
 
 -   **[fix: added missing infinite scroll inside voicemail section](https://github.com/nethesis/nethvoice-cti/pull/519)** by *tonyco97* - Reviewers: *tommaso-ascani* - Created at: 2026-07-01T08:04:20Z
--   **[Fix: better phone-island view for incoming call](https://github.com/nethesis/nethvoice-cti/pull/518)** by *tonyco97* - Reviewers: *tommaso-ascani* - Created at: 2026-07-01T06:04:23Z
+- :eyes:  **[Fix: better phone-island view for incoming call](https://github.com/nethesis/nethvoice-cti/pull/518)** by *tonyco97* - Reviewers: *None* - Created at: 2026-07-01T06:04:23Z
 - :eyes: :zzz: **[feat: enhance call disposition handling with new utility functions](https://github.com/nethesis/nethvoice-cti/pull/457)** by *tommaso-ascani* - Reviewers: *None* - Created at: 2026-04-03T17:36:17Z
 
 ### nethesis/phone-island 1 
 
--   **[fix: better island view on video streaming](https://github.com/nethesis/phone-island/pull/253)** by *tonyco97* - Reviewers: *tommaso-ascani* - Created at: 2026-06-26T08:30:15Z
+- :eyes:  **[fix: better island view on video streaming](https://github.com/nethesis/phone-island/pull/253)** by *tonyco97* - Reviewers: *None* - Created at: 2026-06-26T08:30:15Z
 
-### nethesis/ns8-nethvoice-proxy 7 
+### nethesis/ns8-nethvoice-proxy 8 
 
+- :eyes:  **[Implement loopback detection and Call-ID masking for trunk scenarios](https://github.com/nethesis/ns8-nethvoice-proxy/pull/190)** by *Amygos* - Reviewers: *None* - Created at: 2026-07-01T10:45:32Z
 - :eyes: :zzz: **[feat: Dynamic port slot binding for multi-trunk support (Vianova)](https://github.com/nethesis/ns8-nethvoice-proxy/pull/158)** by *paolovisintin* - Reviewers: *None* - Created at: 2026-03-24T10:43:30Z
 -  :zzz: **[refactor: remove dead code and unused flags](https://github.com/nethesis/ns8-nethvoice-proxy/pull/148)** by *Amygos* - Reviewers: *paolovisintin* - Created at: 2026-02-23T08:21:43Z
 -  :zzz: **[refactor: remove unused defines from template](https://github.com/nethesis/ns8-nethvoice-proxy/pull/147)** by *Amygos* - Reviewers: *paolovisintin* - Created at: 2026-02-23T08:21:41Z
