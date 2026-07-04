@@ -1,6 +1,6 @@
 +++
 title = 'Open Pull Requests'
-date = 2026-07-03
+date = 2026-07-04
 +++
 
 ## Organization: nethserver
@@ -30,13 +30,13 @@ date = 2026-07-03
 
 -   **[Add leave-replica action with input validation](https://github.com/NethServer/ns8-openldap/pull/134)** by *stephdl* - Reviewers: *DavidePrincipi* - Created at: 2026-06-10T10:39:06Z
 
-### NethServer/phonehome-server 2 
+### NethServer/phonehome-server 1 
 
--   **[feat: stats nightly refresh (materialized views)](https://github.com/NethServer/phonehome-server/pull/154)** by *gsanchietti* - Reviewers: *Tbaile* - Created at: 2026-06-30T12:15:12Z
-- :eyes: :zzz: **[chore(master): release 1.5.1](https://github.com/NethServer/phonehome-server/pull/138)** by *Tbaile* - Reviewers: *None* - Created at: 2025-11-15T06:38:38Z
+- :eyes:  **[chore(master): release 1.6.1](https://github.com/NethServer/phonehome-server/pull/155)** by *Tbaile* - Reviewers: *None* - Created at: 2026-07-04T04:26:07Z
 
-### NethServer/ns8-crowdsec 1 
+### NethServer/ns8-crowdsec 2 
 
+-   **[feat: add NethVoice-specific CrowdSec detection scenarios](https://github.com/NethServer/ns8-crowdsec/pull/181)** by *gsanchietti* - Reviewers: *Stell0* - Created at: 2026-07-02T13:28:42Z
 - :eyes:  **[Add alerts and collections pages](https://github.com/NethServer/ns8-crowdsec/pull/177)** by *stephdl* - Reviewers: *None* - Created at: 2026-06-24T11:43:08Z
 
 ### NethServer/nethsecurity-docs 2 
@@ -51,15 +51,11 @@ date = 2026-07-03
 
 ### NethServer/ns8-user-manager 1 
 
-- :eyes:  **[chore(main): release 1.2.8](https://github.com/NethServer/ns8-user-manager/pull/185)** by *Tbaile* - Reviewers: *None* - Created at: 2026-06-03T21:09:08Z
+- :eyes: :zzz: **[chore(main): release 1.2.8](https://github.com/NethServer/ns8-user-manager/pull/185)** by *Tbaile* - Reviewers: *None* - Created at: 2026-06-03T21:09:08Z
 
 ### NethServer/ns8-sogo 1 
 
 - :eyes:  **[Refactor GitHub Actions workflow for testing](https://github.com/NethServer/ns8-sogo/pull/108)** by *stephdl* - Reviewers: *None* - Created at: 2026-06-18T13:34:57Z
-
-### NethServer/ns8-porthos 1 
-
-- :eyes:  **[fix(snapshot): retry rsync/curl and randomize timer](https://github.com/NethServer/ns8-porthos/pull/22)** by *DavidePrincipi* - Reviewers: *None* - Created at: 2026-07-02T10:13:35Z
 
 ### NethServer/ns8-postgresql 1 
 
@@ -76,6 +72,10 @@ date = 2026-07-03
 ### NethServer/my 1 
 
 - :eyes: :zzz: **[feat(support): add support service with WebSockets and Yamux](https://github.com/NethServer/my/pull/47)** by *edospadoni* - Reviewers: *None* - Created at: 2026-03-10T08:00:00Z
+
+### NethServer/agents 1 
+
+-   **[docs(conventional-commit): Clarify AI footer](https://github.com/NethServer/agents/pull/3)** by *Amygos* - Reviewers: *gsanchietti, edospadoni* - Created at: 2026-07-03T15:20:14Z
 
 ## Organization: nethesis
 
@@ -158,8 +158,10 @@ date = 2026-07-03
 
 - :eyes:  **[fix: better island view on video streaming](https://github.com/nethesis/phone-island/pull/253)** by *tonyco97* - Reviewers: *None* - Created at: 2026-06-26T08:30:15Z
 
-### nethesis/ns8-nethvoice-proxy 8 
+### nethesis/ns8-nethvoice-proxy 10 
 
+-   **[kamailio: log failed SIP auth source IP for CrowdSec](https://github.com/nethesis/ns8-nethvoice-proxy/pull/193)** by *gsanchietti* - Reviewers: *Amygos, tommasinigiovanni, paolovisintin* - Created at: 2026-07-02T13:29:22Z
+- :eyes:  **[feat(kamailio): upgrade to Kamailio 6.0](https://github.com/nethesis/ns8-nethvoice-proxy/pull/192)** by *Amygos* - Reviewers: *None* - Created at: 2026-07-01T14:54:47Z
 - :eyes:  **[Implement loopback detection and Call-ID masking for trunk scenarios](https://github.com/nethesis/ns8-nethvoice-proxy/pull/190)** by *Amygos* - Reviewers: *None* - Created at: 2026-07-01T10:45:32Z
 - :eyes: :zzz: **[feat: Dynamic port slot binding for multi-trunk support (Vianova)](https://github.com/nethesis/ns8-nethvoice-proxy/pull/158)** by *paolovisintin* - Reviewers: *None* - Created at: 2026-03-24T10:43:30Z
 -  :zzz: **[refactor: remove dead code and unused flags](https://github.com/nethesis/ns8-nethvoice-proxy/pull/148)** by *Amygos* - Reviewers: *paolovisintin* - Created at: 2026-02-23T08:21:43Z

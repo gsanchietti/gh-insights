@@ -1,6 +1,6 @@
 +++
 title = 'Open Pull Requests by Bots'
-date = 2026-07-03
+date = 2026-07-04
 +++
 
 ## Organization: nethserver
@@ -23,7 +23,7 @@ date = 2026-07-03
 - :eyes:  **[fix(deps): update module github.com/gin-gonic/gin to v1.12.0](https://github.com/NethServer/ns8-core/pull/1224)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-07-01T20:40:25Z
 - :eyes:  **[fix(deps): update dependency axios to ^0.33.0](https://github.com/NethServer/ns8-core/pull/1216)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-06-22T16:25:27Z
 - :eyes:  **[chore(deps): update dependency vue-template-compiler to v2.7.16](https://github.com/NethServer/ns8-core/pull/1215)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-06-22T16:25:10Z
-- :eyes:  **[fix(deps): update module github.com/gin-gonic/gin to v1.10.1](https://github.com/NethServer/ns8-core/pull/1196)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-06-04T00:36:55Z
+- :eyes: :zzz: **[fix(deps): update module github.com/gin-gonic/gin to v1.10.1](https://github.com/NethServer/ns8-core/pull/1196)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-06-04T00:36:55Z
 - :eyes: :zzz: **[chore(deps): update module golang.org/x/sys to v0.44.0 [security]](https://github.com/NethServer/ns8-core/pull/1188)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-05-27T08:40:42Z
 - :eyes: :zzz: **[fix(deps): update module github.com/gin-contrib/static to v1](https://github.com/NethServer/ns8-core/pull/1186)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-05-25T09:42:24Z
 - :eyes: :zzz: **[chore(deps): update module golang.org/x/net to v0.55.0 [security]](https://github.com/NethServer/ns8-core/pull/1163)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-04-25T08:48:53Z
@@ -111,20 +111,19 @@ date = 2026-07-03
 - :eyes:  **[chore(deps): update node.js to v24.18.0](https://github.com/NethServer/ns8-prometheus/pull/75)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-06-23T20:33:29Z
 - :eyes:  **[chore(deps): update dependency vue-template-compiler to v2.7.16](https://github.com/NethServer/ns8-prometheus/pull/74)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-06-22T20:46:37Z
 - :eyes:  **[fix(deps): update dependency axios to ^0.33.0](https://github.com/NethServer/ns8-prometheus/pull/71)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-06-19T20:34:31Z
-- :eyes:  **[chore(deps): update dependency @nethserver/ns8-ui-lib to v1.12.4](https://github.com/NethServer/ns8-prometheus/pull/70)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-06-03T08:45:12Z
+- :eyes: :zzz: **[chore(deps): update dependency @nethserver/ns8-ui-lib to v1.12.4](https://github.com/NethServer/ns8-prometheus/pull/70)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-06-03T08:45:12Z
 - :eyes: :zzz: **[chore(deps): update dependency @babel/eslint-parser to v7.29.7](https://github.com/NethServer/ns8-prometheus/pull/68)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-05-30T20:05:59Z
 - :eyes: :zzz: **[chore(deps): update dependency sass to v1.101.0](https://github.com/NethServer/ns8-prometheus/pull/66)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-05-27T01:36:14Z
 - :eyes: :zzz: **[chore(deps): update quay.io/prometheus/prometheus docker tag to v3.5.3](https://github.com/NethServer/ns8-prometheus/pull/61)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-04-16T05:03:31Z
 - :eyes: :zzz: **[chore(deps): update quay.io/prometheus/prometheus docker tag to v3.11.3](https://github.com/NethServer/ns8-prometheus/pull/33)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-05-31T14:35:56Z
 
-### NethServer/ns8-grafana 8 
+### NethServer/ns8-grafana 7 
 
 - :eyes:  **[chore(deps): update dependency @babel/eslint-parser to v7.29.7](https://github.com/NethServer/ns8-grafana/pull/90)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-06-30T09:23:37Z
 - :eyes:  **[chore(deps): update dependency @nethserver/ns8-ui-lib to v1.12.4](https://github.com/NethServer/ns8-grafana/pull/89)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-06-30T09:23:25Z
 - :eyes:  **[chore(deps): update node.js to v24.18.0](https://github.com/NethServer/ns8-grafana/pull/86)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-06-23T20:30:35Z
 - :eyes:  **[chore(deps): update dependency vue-template-compiler to v2.7.16](https://github.com/NethServer/ns8-grafana/pull/85)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-06-22T16:29:27Z
 - :eyes:  **[fix(deps): update dependency axios to ^0.33.0](https://github.com/NethServer/ns8-grafana/pull/83)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-06-19T20:29:59Z
-- :eyes: :zzz: **[chore(deps): update dependency sass to v1.101.0](https://github.com/NethServer/ns8-grafana/pull/77)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-05-27T01:14:47Z
 - :eyes: :zzz: **[Translations update from Hosted Weblate](https://github.com/NethServer/ns8-grafana/pull/73)** by *weblate* - Reviewers: *None* - Created at: 2026-04-22T15:15:55Z
 - :eyes: :zzz: **[chore(deps): update grafana/grafana docker tag to v13](https://github.com/NethServer/ns8-grafana/pull/71)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-04-16T09:20:16Z
 
@@ -325,7 +324,7 @@ date = 2026-07-03
 
 - :eyes:  **[Update dependency vue-template-compiler to v2.7.16](https://github.com/NethServer/ns8-n8n/pull/45)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-06-22T16:11:52Z
 - :eyes:  **[Update dependency axios to ^0.33.0](https://github.com/NethServer/ns8-n8n/pull/44)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-06-19T20:37:36Z
-- :eyes:  **[Update dependency @nethserver/ns8-ui-lib to v1.12.4](https://github.com/NethServer/ns8-n8n/pull/42)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-06-03T08:45:16Z
+- :eyes: :zzz: **[Update dependency @nethserver/ns8-ui-lib to v1.12.4](https://github.com/NethServer/ns8-n8n/pull/42)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-06-03T08:45:16Z
 - :eyes: :zzz: **[Update dependency @babel/eslint-parser to v7.29.7](https://github.com/NethServer/ns8-n8n/pull/41)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-05-30T20:02:24Z
 - :eyes: :zzz: **[Update dependency sass to v1.101.0](https://github.com/NethServer/ns8-n8n/pull/40)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-05-27T00:50:03Z
 - :eyes: :zzz: **[Update dependency @carbon/icons-vue to v10.130.0](https://github.com/NethServer/ns8-n8n/pull/39)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-05-20T22:00:38Z
@@ -355,11 +354,10 @@ date = 2026-07-03
 
 - :eyes: :zzz: **[Bump guzzlehttp/guzzle from 6.5.7 to 7.5.0 in /root/usr/src/google_speech_php](https://github.com/nethesis/nethvoice-wizard-restapi/pull/206)** by *dependabot[bot]* - Reviewers: *None* - Created at: 2023-01-09T08:53:05Z
 
-### nethesis/icaro 16 
+### nethesis/icaro 15 
 
 - :eyes: :zzz: **[Update dependency chalk to v2.4.2](https://github.com/nethesis/icaro/pull/220)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-05-26T23:00:01Z
 - :eyes: :zzz: **[Update dependency babel-loader to v7.1.5](https://github.com/nethesis/icaro/pull/219)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-05-26T22:59:31Z
-- :eyes: :zzz: **[Update github.com/avct/uasurfer digest to dace534](https://github.com/nethesis/icaro/pull/216)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-04-15T09:47:29Z
 - :eyes: :zzz: **[Update dependency crypto-js to v4 [SECURITY]](https://github.com/nethesis/icaro/pull/212)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-11-26T09:36:14Z
 - :eyes: :zzz: **[Update dependency webpack-dev-server to v5 [SECURITY]](https://github.com/nethesis/icaro/pull/211)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-11-26T09:36:03Z
 - :eyes: :zzz: **[Update dependency webpack-bundle-analyzer to v3 [SECURITY]](https://github.com/nethesis/icaro/pull/210)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-11-26T09:35:38Z
@@ -407,11 +405,11 @@ date = 2026-07-03
 
 ### nethesis/ns8-nethvoice 11 
 
-- :eyes:  **[Translations update from Hosted Weblate](https://github.com/nethesis/ns8-nethvoice/pull/854)** by *weblate* - Reviewers: *None* - Created at: 2026-06-03T13:10:03Z
-- :eyes: :zzz: **[chore(deps): update dependency jit-grunt to ^0.10.0](https://github.com/nethesis/ns8-nethvoice/pull/853)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-05-29T21:58:00Z
+- :eyes:  **[chore(deps): update dependency axios to v1.18.1](https://github.com/nethesis/ns8-nethvoice/pull/899)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-07-03T18:12:44Z
+- :eyes:  **[chore(deps): update dependency @babel/eslint-parser to v7.29.7](https://github.com/nethesis/ns8-nethvoice/pull/898)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-07-03T15:11:49Z
+- :eyes:  **[Translations update from Hosted Weblate](https://github.com/nethesis/ns8-nethvoice/pull/897)** by *weblate* - Reviewers: *None* - Created at: 2026-07-03T13:25:22Z
+- :eyes:  **[chore(deps): update dependency @nethserver/ns8-ui-lib to v1.12.4](https://github.com/nethesis/ns8-nethvoice/pull/894)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-07-03T09:33:58Z
 - :eyes: :zzz: **[chore(deps): update dependency grunt-postcss to ^0.9.0](https://github.com/nethesis/ns8-nethvoice/pull/852)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-05-29T19:02:41Z
-- :eyes: :zzz: **[chore(deps): update dependency grunt-ng-annotate to ^0.10.0](https://github.com/nethesis/ns8-nethvoice/pull/851)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-05-29T13:05:38Z
-- :eyes: :zzz: **[chore(deps): update dependency grunt-contrib-jshint to ^0.12.0](https://github.com/nethesis/ns8-nethvoice/pull/850)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-05-29T12:39:58Z
 - :eyes: :zzz: **[chore(deps): update dependency @carbon/icons-vue to v10.130.0](https://github.com/nethesis/ns8-nethvoice/pull/849)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-05-29T11:30:22Z
 - :eyes: :zzz: **[chore(deps): update dependency grunt-contrib-connect to ^0.11.0](https://github.com/nethesis/ns8-nethvoice/pull/797)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-04-23T09:04:48Z
 - :eyes: :zzz: **[chore(deps): update dependency grunt-cli to v1.5.0](https://github.com/nethesis/ns8-nethvoice/pull/794)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-04-23T08:43:42Z
@@ -423,12 +421,11 @@ date = 2026-07-03
 
 - :eyes:  **[chore(deps): update dependency aquasecurity/trivy to v0.72.0](https://github.com/nethesis/phone-island/pull/256)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-06-29T04:08:51Z
 
-### nethesis/ns8-nethvoice-proxy 5 
+### nethesis/ns8-nethvoice-proxy 4 
 
 - :eyes:  **[chore(deps): update dependency vue-template-compiler to v2.7.16](https://github.com/nethesis/ns8-nethvoice-proxy/pull/186)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-06-22T16:28:39Z
 - :eyes:  **[chore(deps): update dependency axios to v1.18.1](https://github.com/nethesis/ns8-nethvoice-proxy/pull/184)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-06-08T11:53:07Z
 - :eyes: :zzz: **[chore(deps): update redis docker tag to v8.8](https://github.com/nethesis/ns8-nethvoice-proxy/pull/182)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-06-02T22:25:48Z
-- :eyes: :zzz: **[chore(deps): update dependency sass to v1.101.0](https://github.com/nethesis/ns8-nethvoice-proxy/pull/179)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-05-27T00:51:50Z
 - :eyes: :zzz: **[chore(deps): update dependency @carbon/icons-vue to v10.130.0](https://github.com/nethesis/ns8-nethvoice-proxy/pull/176)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-05-25T22:39:47Z
 
 ### nethesis/vue-components 10 
@@ -457,12 +454,12 @@ date = 2026-07-03
 ### nethesis/matrix2acrobits 10 
 
 - :eyes:  **[fix(deps): update module github.com/rs/zerolog to v1.35.1](https://github.com/nethesis/matrix2acrobits/pull/32)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-06-22T18:14:01Z
+- :eyes:  **[fix(deps): update module github.com/labstack/echo/v4 to v4.15.4](https://github.com/nethesis/matrix2acrobits/pull/31)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-06-14T13:37:25Z
 - :eyes: :zzz: **[chore(deps): update module golang.org/x/sys to v0.44.0 [security]](https://github.com/nethesis/matrix2acrobits/pull/30)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-05-28T21:05:25Z
 - :eyes: :zzz: **[chore(deps): update module golang.org/x/crypto to v0.52.0 [security]](https://github.com/nethesis/matrix2acrobits/pull/29)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-05-22T19:12:13Z
 - :eyes: :zzz: **[chore(deps): update module golang.org/x/net to v0.55.0 [security]](https://github.com/nethesis/matrix2acrobits/pull/28)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-05-12T16:13:42Z
 - :eyes: :zzz: **[chore(deps): update docker/build-push-action action to v7](https://github.com/nethesis/matrix2acrobits/pull/24)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-03-06T02:07:21Z
 - :eyes: :zzz: **[chore(deps): update docker/login-action action to v4](https://github.com/nethesis/matrix2acrobits/pull/23)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-03-05T10:42:16Z
-- :eyes: :zzz: **[fix(deps): update module maunium.net/go/mautrix to v0.26.4](https://github.com/nethesis/matrix2acrobits/pull/22)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-03-04T18:15:05Z
 - :eyes: :zzz: **[chore(deps): update actions/setup-go action to v6](https://github.com/nethesis/matrix2acrobits/pull/7)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-12-10T17:40:25Z
 - :eyes: :zzz: **[chore(deps): update golang docker tag to v1.26.4](https://github.com/nethesis/matrix2acrobits/pull/4)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-12-09T14:46:31Z
 - :eyes: :zzz: **[chore(deps): update dependency go to 1.26](https://github.com/nethesis/matrix2acrobits/pull/3)** by *renovate[bot]* - Reviewers: *None* - Created at: 2025-12-09T14:46:27Z

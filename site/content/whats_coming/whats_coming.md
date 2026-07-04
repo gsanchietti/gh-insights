@@ -2,19 +2,17 @@
 
 title = 'To be released soon'
 
-date = 2026-07-03
+date = 2026-07-04
 
 +++
 
 ### NethServer
 
-- [Backup prune silently fails for 504 gateway-timeout errors](https://github.com/NethServer/dev/issues/8070) (#7128) by DavidePrincipi (Created: 2026-06-29T15:49:36Z, Updated: 2026-07-01T11:07:33Z)
+- [Backup prune silently fails for 504 gateway-timeout errors](https://github.com/NethServer/dev/issues/8070) (#7129) by DavidePrincipi (Created: 2026-06-29T15:49:36Z, Updated: 2026-07-01T11:07:33Z)
 
 ### NethVoice
 
-- [Single contact sync from NethVoice CTI to NethVoice](https://github.com/NethServer/dev/issues/7129) (#7128) by Amygos (Created: 2024-11-15T10:31:20Z, Updated: 2026-07-01T14:26:29Z)
-
-- [NethVoice CTI: add level zero on phonebook permission](https://github.com/NethServer/dev/issues/7128) (#7128) by Amygos (Created: 2024-11-15T10:31:17Z, Updated: 2026-06-26T15:47:09Z)
+- [Single contact sync from NethVoice CTI to NethVoice](https://github.com/NethServer/dev/issues/7129) (#7129) by Amygos (Created: 2024-11-15T10:31:20Z, Updated: 2026-07-01T14:26:29Z)
 
 ### 8.8.0
 
