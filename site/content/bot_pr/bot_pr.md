@@ -1,6 +1,6 @@
 +++
 title = 'Open Pull Requests by Bots'
-date = 2026-07-04
+date = 2026-07-05
 +++
 
 ## Organization: nethserver
@@ -52,7 +52,7 @@ date = 2026-07-04
 
 - :eyes:  **[chore(deps): update actions/cache action to v6](https://github.com/NethServer/ns8-github-actions/pull/57)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-06-28T16:31:33Z
 - :eyes:  **[chore(deps): update actions/checkout action to v7](https://github.com/NethServer/ns8-github-actions/pull/56)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-06-22T20:45:54Z
-- :eyes: :zzz: **[chore(deps): update opentofu/setup-opentofu action to v2.0.1](https://github.com/NethServer/ns8-github-actions/pull/55)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-05-18T23:45:29Z
+- :eyes: :zzz: **[chore(deps): update opentofu/setup-opentofu action to v2.0.2](https://github.com/NethServer/ns8-github-actions/pull/55)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-05-18T23:45:29Z
 - :eyes: :zzz: **[chore(deps): update aquasecurity/trivy-action action to v0.36.0](https://github.com/NethServer/ns8-github-actions/pull/52)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-04-22T17:19:34Z
 - :eyes: :zzz: **[chore(deps): update github/codeql-action action to v4](https://github.com/NethServer/ns8-github-actions/pull/44)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-03-10T14:04:38Z
 - :eyes: :zzz: **[chore(deps): update actions/upload-artifact action to v7](https://github.com/NethServer/ns8-github-actions/pull/43)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-03-10T14:04:33Z
@@ -329,8 +329,8 @@ date = 2026-07-04
 - :eyes: :zzz: **[Update dependency sass to v1.101.0](https://github.com/NethServer/ns8-n8n/pull/40)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-05-27T00:50:03Z
 - :eyes: :zzz: **[Update dependency @carbon/icons-vue to v10.130.0](https://github.com/NethServer/ns8-n8n/pull/39)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-05-20T22:00:38Z
 - :eyes: :zzz: **[Update postgres Docker tag to v16.14](https://github.com/NethServer/ns8-n8n/pull/38)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-05-14T20:25:50Z
-- :eyes: :zzz: **[Update n8nio/n8n Docker tag to v2.28.2](https://github.com/NethServer/ns8-n8n/pull/35)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-05-05T09:25:28Z
-- :eyes: :zzz: **[Update n8nio/runners Docker tag to v2.28.2](https://github.com/NethServer/ns8-n8n/pull/32)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-04-16T02:26:51Z
+- :eyes: :zzz: **[Update n8nio/n8n Docker tag to v2.28.3](https://github.com/NethServer/ns8-n8n/pull/35)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-05-05T09:25:28Z
+- :eyes: :zzz: **[Update n8nio/runners Docker tag to v2.28.3](https://github.com/NethServer/ns8-n8n/pull/32)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-04-16T02:26:51Z
 - :eyes: :zzz: **[Update postgres Docker tag to v18](https://github.com/NethServer/ns8-n8n/pull/26)** by *renovate[bot]* - Reviewers: *None* - Created at: 2026-03-09T19:47:09Z
 
 ### NethServer/ns8-rustfs 3 
