@@ -1,9 +1,10 @@
 +++
-title = 'Need testing (5)'
-date = 2026-07-05
+title = 'Need testing (6)'
+date = 2026-07-06
 +++
 
 ## NethVoice
+- :point_right: **[CTI attended transfer to external number misses isTrunk SIP header, enabling SRTP and causing 488 from provider](https://github.com/NethServer/dev/issues/8037)** (#7987) by *Stell0* (Created: 2026-06-11, Updated: 2026-07-06T07:39:31Z)
 - :point_right: **[NethVoice CTI: Voicemail drawer becomes very slow with large message lists (missing infinite scroll)](https://github.com/NethServer/dev/issues/8033)** (#7987) by *mgarra* (Created: 2026-06-09, Updated: 2026-07-01T11:00:36Z)
 - :point_right: **[NethVoice CTI: Video sources enabled in profiles are not displayed consistently (missing label / visibility seems permission-dependent)](https://github.com/NethServer/dev/issues/8025)** (#7987) by *mgarra* (Created: 2026-05-28, Updated: 2026-07-01T11:29:35Z)
 - :point_right: **[NethVoice : Add support for Fanvil V50G phone model](https://github.com/NethServer/dev/issues/8002)** (#7987) by *viktec* (Created: 2026-05-12, Updated: 2026-06-26T16:04:22Z)

@@ -1,12 +1,13 @@
 +++
 title = 'Open Pull Requests'
-date = 2026-07-05
+date = 2026-07-06
 +++
 
 ## Organization: nethserver
 
-### NethServer/ns8-core 2 
+### NethServer/ns8-core 3 
 
+-   **[fix(api-moduled): set trusted proxies](https://github.com/NethServer/ns8-core/pull/1228)** by *gsanchietti* - Reviewers: *DavidePrincipi* - Created at: 2026-07-06T08:05:36Z
 -   **[Enhance LDAP provider handling during node removal](https://github.com/NethServer/ns8-core/pull/1201)** by *stephdl* - Reviewers: *DavidePrincipi* - Created at: 2026-06-10T10:22:23Z
 -  :zzz: **[docs: add NethVoice release procedure addendum](https://github.com/NethServer/ns8-core/pull/1136)** by *Copilot* - Reviewers: *Amygos* - Created at: 2026-03-30T14:06:18Z
 
@@ -29,6 +30,10 @@ date = 2026-07-05
 ### NethServer/ns8-openldap 1 
 
 -   **[Add leave-replica action with input validation](https://github.com/NethServer/ns8-openldap/pull/134)** by *stephdl* - Reviewers: *DavidePrincipi* - Created at: 2026-06-10T10:39:06Z
+
+### NethServer/nethsecurity 1 
+
+-   **[fix(api-server): add trusted proxies (#22)](https://github.com/NethServer/nethsecurity/pull/1768)** by *gsanchietti* - Reviewers: *Tbaile* - Created at: 2026-07-06T08:08:43Z
 
 ### NethServer/phonehome-server 1 
 
@@ -72,10 +77,6 @@ date = 2026-07-05
 ### NethServer/my 1 
 
 - :eyes: :zzz: **[feat(support): add support service with WebSockets and Yamux](https://github.com/NethServer/my/pull/47)** by *edospadoni* - Reviewers: *None* - Created at: 2026-03-10T08:00:00Z
-
-### NethServer/agents 1 
-
--   **[docs(conventional-commit): Clarify AI footer](https://github.com/NethServer/agents/pull/3)** by *Amygos* - Reviewers: *gsanchietti, edospadoni* - Created at: 2026-07-03T15:20:14Z
 
 ## Organization: nethesis
 
