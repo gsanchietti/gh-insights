@@ -1,6 +1,6 @@
 +++
 title = 'Open Pull Requests'
-date = 2026-07-06
+date = 2026-07-07
 +++
 
 ## Organization: nethserver
@@ -31,17 +31,13 @@ date = 2026-07-06
 
 -   **[Add leave-replica action with input validation](https://github.com/NethServer/ns8-openldap/pull/134)** by *stephdl* - Reviewers: *DavidePrincipi* - Created at: 2026-06-10T10:39:06Z
 
-### NethServer/nethsecurity 1 
-
--   **[fix(api-server): add trusted proxies (#22)](https://github.com/NethServer/nethsecurity/pull/1768)** by *gsanchietti* - Reviewers: *Tbaile* - Created at: 2026-07-06T08:08:43Z
-
 ### NethServer/phonehome-server 1 
 
 - :eyes:  **[chore(master): release 1.6.1](https://github.com/NethServer/phonehome-server/pull/155)** by *Tbaile* - Reviewers: *None* - Created at: 2026-07-04T04:26:07Z
 
 ### NethServer/ns8-crowdsec 2 
 
--   **[feat: add NethVoice-specific CrowdSec detection scenarios](https://github.com/NethServer/ns8-crowdsec/pull/181)** by *gsanchietti* - Reviewers: *Stell0* - Created at: 2026-07-02T13:28:42Z
+-   **[feat: protect NethVoice and Kamailio](https://github.com/NethServer/ns8-crowdsec/pull/182)** by *gsanchietti* - Reviewers: *DavidePrincipi* - Created at: 2026-07-06T13:10:52Z
 - :eyes:  **[Add alerts and collections pages](https://github.com/NethServer/ns8-crowdsec/pull/177)** by *stephdl* - Reviewers: *None* - Created at: 2026-06-24T11:43:08Z
 
 ### NethServer/nethsecurity-docs 2 
@@ -70,6 +66,10 @@ date = 2026-07-06
 
 - :eyes:  **[Refactor test-module workflow to run tests directly](https://github.com/NethServer/ns8-wordpress/pull/80)** by *stephdl* - Reviewers: *None* - Created at: 2026-06-18T13:23:04Z
 
+### NethServer/nethlink 1 
+
+- :eyes:  **[Created new fields for phonebook contacts](https://github.com/NethServer/nethlink/pull/179)** by *tonyco97* - Reviewers: *None* - Created at: 2026-07-06T16:31:01Z
+
 ### NethServer/ns8-passbolt 1 
 
 - :eyes:  **[Refactor test-module workflow to run tests directly](https://github.com/NethServer/ns8-passbolt/pull/79)** by *stephdl* - Reviewers: *None* - Created at: 2026-06-18T13:16:12Z
@@ -77,6 +77,10 @@ date = 2026-07-06
 ### NethServer/my 1 
 
 - :eyes: :zzz: **[feat(support): add support service with WebSockets and Yamux](https://github.com/NethServer/my/pull/47)** by *edospadoni* - Reviewers: *None* - Created at: 2026-03-10T08:00:00Z
+
+### NethServer/ns8-matrix 1 
+
+- :eyes:  **[Fix Synapse crash-loop from unquoted SMTP values in homeserver.yaml](https://github.com/NethServer/ns8-matrix/pull/86)** by *Will0wn* - Reviewers: *None* - Created at: 2026-07-06T15:46:56Z
 
 ## Organization: nethesis
 
@@ -132,8 +136,9 @@ date = 2026-07-06
 
 - :eyes: :zzz: **[feat: add cookie support for support proxy integration](https://github.com/nethesis/nethvoice-report/pull/209)** by *edospadoni* - Reviewers: *None* - Created at: 2026-03-30T08:57:52Z
 
-### nethesis/ns8-nethvoice 14 
+### nethesis/ns8-nethvoice 15 
 
+- :eyes:  **[feat(phonebook): use env vars to disable extension and speeddial export](https://github.com/nethesis/ns8-nethvoice/pull/902)** by *Stell0* - Reviewers: *None* - Created at: 2026-07-06T12:20:20Z
 - :eyes:  **[Add new provider Airbit](https://github.com/nethesis/ns8-nethvoice/pull/893)** by *margit86* - Reviewers: *None* - Created at: 2026-07-02T16:18:10Z
 - :eyes:  **[fix: added missing macro for streaming source](https://github.com/nethesis/ns8-nethvoice/pull/890)** by *tonyco97* - Reviewers: *None* - Created at: 2026-07-01T11:15:34Z
 - :eyes:  **[fix: added missing infinite scroll inside voicemail section](https://github.com/nethesis/ns8-nethvoice/pull/889)** by *tonyco97* - Reviewers: *None* - Created at: 2026-07-01T08:06:17Z
@@ -151,13 +156,9 @@ date = 2026-07-06
 
 ### nethesis/nethvoice-cti 3 
 
-- :eyes:  **[fix: added missing infinite scroll inside voicemail section](https://github.com/nethesis/nethvoice-cti/pull/519)** by *tonyco97* - Reviewers: *None* - Created at: 2026-07-01T08:04:20Z
 - :eyes:  **[Fix: better phone-island view for incoming call](https://github.com/nethesis/nethvoice-cti/pull/518)** by *tonyco97* - Reviewers: *None* - Created at: 2026-07-01T06:04:23Z
+-   **[feat: created new field for phonebook](https://github.com/nethesis/nethvoice-cti/pull/515)** by *tonyco97* - Reviewers: *tommaso-ascani* - Created at: 2026-06-26T16:06:36Z
 - :eyes: :zzz: **[feat: enhance call disposition handling with new utility functions](https://github.com/nethesis/nethvoice-cti/pull/457)** by *tommaso-ascani* - Reviewers: *None* - Created at: 2026-04-03T17:36:17Z
-
-### nethesis/phone-island 1 
-
-- :eyes:  **[fix: better island view on video streaming](https://github.com/nethesis/phone-island/pull/253)** by *tonyco97* - Reviewers: *None* - Created at: 2026-06-26T08:30:15Z
 
 ### nethesis/ns8-nethvoice-proxy 10 
 
@@ -189,8 +190,9 @@ date = 2026-07-06
 
 -  :zzz: **[Multi-Provider Transcription Support (REST/Batch Path)](https://github.com/nethesis/satellite/pull/31)** by *Amygos* - Reviewers: *Stell0* - Created at: 2026-02-16T09:08:57Z
 
-### nethesis/nethcti-middleware 2 
+### nethesis/nethcti-middleware 3 
 
+-   **[feat: created new fields for phonebook](https://github.com/nethesis/nethcti-middleware/pull/63)** by *tonyco97* - Reviewers: *tommaso-ascani* - Created at: 2026-06-26T16:05:10Z
 - :eyes: :zzz: **[feat: add support user authentication for FreePBX CTI APIs](https://github.com/nethesis/nethcti-middleware/pull/42)** by *edospadoni* - Reviewers: *None* - Created at: 2026-03-30T08:59:50Z
 -  :zzz: **[feat: add GET /chat endpoint](https://github.com/nethesis/nethcti-middleware/pull/16)** by *gsanchietti* - Reviewers: *tommaso-ascani* - Created at: 2025-12-17T10:53:42Z
 
