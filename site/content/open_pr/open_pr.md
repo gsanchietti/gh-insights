@@ -1,12 +1,13 @@
 +++
 title = 'Open Pull Requests'
-date = 2026-07-07
+date = 2026-07-08
 +++
 
 ## Organization: nethserver
 
-### NethServer/ns8-core 3 
+### NethServer/ns8-core 4 
 
+-   **[ui: colorize log levels and process tag in System logs](https://github.com/NethServer/ns8-core/pull/1229)** by *pagaille* - Reviewers: *andre8244* - Created at: 2026-07-07T09:59:30Z
 -   **[fix(api-moduled): set trusted proxies](https://github.com/NethServer/ns8-core/pull/1228)** by *gsanchietti* - Reviewers: *DavidePrincipi* - Created at: 2026-07-06T08:05:36Z
 -   **[Enhance LDAP provider handling during node removal](https://github.com/NethServer/ns8-core/pull/1201)** by *stephdl* - Reviewers: *DavidePrincipi* - Created at: 2026-06-10T10:22:23Z
 -  :zzz: **[docs: add NethVoice release procedure addendum](https://github.com/NethServer/ns8-core/pull/1136)** by *Copilot* - Reviewers: *Amygos* - Created at: 2026-03-30T14:06:18Z
@@ -35,13 +36,13 @@ date = 2026-07-07
 
 - :eyes:  **[chore(master): release 1.6.1](https://github.com/NethServer/phonehome-server/pull/155)** by *Tbaile* - Reviewers: *None* - Created at: 2026-07-04T04:26:07Z
 
-### NethServer/ns8-crowdsec 2 
+### NethServer/ns8-crowdsec 1 
 
--   **[feat: protect NethVoice and Kamailio](https://github.com/NethServer/ns8-crowdsec/pull/182)** by *gsanchietti* - Reviewers: *DavidePrincipi* - Created at: 2026-07-06T13:10:52Z
 - :eyes:  **[Add alerts and collections pages](https://github.com/NethServer/ns8-crowdsec/pull/177)** by *stephdl* - Reviewers: *None* - Created at: 2026-06-24T11:43:08Z
 
-### NethServer/nethsecurity-docs 2 
+### NethServer/nethsecurity-docs 3 
 
+- :eyes:  **[Update migration.md](https://github.com/NethServer/nethsecurity-docs/pull/290)** by *mamengoni* - Reviewers: *None* - Created at: 2026-07-07T13:21:37Z
 - :eyes:  **[docs: added documentation on how to enable receiving logs from remote](https://github.com/NethServer/nethsecurity-docs/pull/284)** by *Tbaile* - Reviewers: *None* - Created at: 2026-06-30T07:50:56Z
 -  :zzz: **[feat: added softflowd doc](https://github.com/NethServer/nethsecurity-docs/pull/227)** by *Tbaile* - Reviewers: *cotosso* - Created at: 2026-03-05T09:29:42Z
 
@@ -136,9 +137,10 @@ date = 2026-07-07
 
 - :eyes: :zzz: **[feat: add cookie support for support proxy integration](https://github.com/nethesis/nethvoice-report/pull/209)** by *edospadoni* - Reviewers: *None* - Created at: 2026-03-30T08:57:52Z
 
-### nethesis/ns8-nethvoice 15 
+### nethesis/ns8-nethvoice 16 
 
-- :eyes:  **[feat(phonebook): use env vars to disable extension and speeddial export](https://github.com/nethesis/ns8-nethvoice/pull/902)** by *Stell0* - Reviewers: *None* - Created at: 2026-07-06T12:20:20Z
+- :eyes:  **[chore: pin satellite and nethcti-middleware to fix branches for testing](https://github.com/nethesis/ns8-nethvoice/pull/905)** by *tommaso-ascani* - Reviewers: *None* - Created at: 2026-07-07T10:07:06Z
+- :eyes:  **[Customer card template save with Unicode character](https://github.com/nethesis/ns8-nethvoice/pull/903)** by *tonyco97* - Reviewers: *None* - Created at: 2026-07-07T07:56:10Z
 - :eyes:  **[Add new provider Airbit](https://github.com/nethesis/ns8-nethvoice/pull/893)** by *margit86* - Reviewers: *None* - Created at: 2026-07-02T16:18:10Z
 - :eyes:  **[fix: added missing macro for streaming source](https://github.com/nethesis/ns8-nethvoice/pull/890)** by *tonyco97* - Reviewers: *None* - Created at: 2026-07-01T11:15:34Z
 - :eyes:  **[fix: added missing infinite scroll inside voicemail section](https://github.com/nethesis/ns8-nethvoice/pull/889)** by *tonyco97* - Reviewers: *None* - Created at: 2026-07-01T08:06:17Z
@@ -186,12 +188,14 @@ date = 2026-07-07
 
 - :eyes: :zzz: **[Update and add the CTI image](https://github.com/nethesis/nethvoice-client-docs/pull/14)** by *viktec* - Reviewers: *None* - Created at: 2025-11-05T16:11:10Z
 
-### nethesis/satellite 1 
+### nethesis/satellite 2 
 
+- :eyes:  **[fix(db): create Postgres schema eagerly at startup](https://github.com/nethesis/satellite/pull/50)** by *tommaso-ascani* - Reviewers: *None* - Created at: 2026-07-07T09:52:53Z
 -  :zzz: **[Multi-Provider Transcription Support (REST/Batch Path)](https://github.com/nethesis/satellite/pull/31)** by *Amygos* - Reviewers: *Stell0* - Created at: 2026-02-16T09:08:57Z
 
-### nethesis/nethcti-middleware 3 
+### nethesis/nethcti-middleware 4 
 
+- :eyes:  **[fix(summary): treat missing satellite schema as no data, not an outage](https://github.com/nethesis/nethcti-middleware/pull/65)** by *tommaso-ascani* - Reviewers: *None* - Created at: 2026-07-07T09:53:22Z
 -   **[feat: created new fields for phonebook](https://github.com/nethesis/nethcti-middleware/pull/63)** by *tonyco97* - Reviewers: *tommaso-ascani* - Created at: 2026-06-26T16:05:10Z
 - :eyes: :zzz: **[feat: add support user authentication for FreePBX CTI APIs](https://github.com/nethesis/nethcti-middleware/pull/42)** by *edospadoni* - Reviewers: *None* - Created at: 2026-03-30T08:59:50Z
 -  :zzz: **[feat: add GET /chat endpoint](https://github.com/nethesis/nethcti-middleware/pull/16)** by *gsanchietti* - Reviewers: *tommaso-ascani* - Created at: 2025-12-17T10:53:42Z

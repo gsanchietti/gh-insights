@@ -2,17 +2,21 @@
 
 title = 'To be released soon'
 
-date = 2026-07-07
+date = 2026-07-08
 
 +++
 
-### NethServer
-
-- [Backup prune silently fails for 504 gateway-timeout errors](https://github.com/NethServer/dev/issues/8070) (#7129) by DavidePrincipi (Created: 2026-06-29T15:49:36Z, Updated: 2026-07-01T11:07:33Z)
-
 ### NethVoice
 
+- [Allow excluding extensions and speed dials from the centralized phonebook](https://github.com/NethServer/dev/issues/8081) (#7129) by Stell0 (Created: 2026-07-06T09:49:26Z, Updated: 2026-07-07T15:17:52Z)
+
 - [Single contact sync from NethVoice CTI to NethVoice](https://github.com/NethServer/dev/issues/7129) (#7129) by Amygos (Created: 2024-11-15T10:31:20Z, Updated: 2026-07-01T14:26:29Z)
+
+### NethServer
+
+- [NS8 → new my migration: end-to-end verification (migration + clean install)](https://github.com/NethServer/dev/issues/8078) (#7129) by edospadoni (Created: 2026-07-03T08:24:35Z, Updated: 2026-07-07T16:39:06Z)
+
+- [Backup prune silently fails for 504 gateway-timeout errors](https://github.com/NethServer/dev/issues/8070) (#7129) by DavidePrincipi (Created: 2026-06-29T15:49:36Z, Updated: 2026-07-01T11:07:33Z)
 
 ### 8.8.0
 
